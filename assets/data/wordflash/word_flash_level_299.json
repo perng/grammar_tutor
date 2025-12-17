@@ -1,0 +1,783 @@
+[
+  {
+    "word": "predecessor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who held a job or office before the current holder.",
+        "meaning_zh_TW": "前任",
+        "wrong_meaning_zh_TW": [
+          "後任",
+          "繼任者",
+          "同事"
+        ],
+        "examples": [
+          {
+            "sentence": "The new manager learned a lot from her [predecessor].",
+            "translation_zh_TW": "這位新經理從她的前任身上學到了很多。"
+          },
+          {
+            "sentence": "He had a smooth transition from his [predecessor].",
+            "translation_zh_TW": "他從前任那裡平穩過渡。"
+          },
+          {
+            "sentence": "The invention surpassed that of its [predecessor].",
+            "translation_zh_TW": "這項發明超越了它的前任。"
+          }
+        ],
+        "synonyms": [
+          "forerunner",
+          "ancestor"
+        ]
+      }
+    ],
+    "confusion": [
+      "predecease",
+      "predecessors",
+      "precede",
+      "decedent"
+    ]
+  },
+  {
+    "word": "discard",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To throw away or get rid of something that is no longer useful.",
+        "meaning_zh_TW": "丟棄",
+        "wrong_meaning_zh_TW": [
+          "保留",
+          "收藏",
+          "收集"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [discard] any papers you no longer need.",
+            "translation_zh_TW": "請[丟棄]所有不再需要的文件。"
+          },
+          {
+            "sentence": "He had to [discard] old clothes to make space.",
+            "translation_zh_TW": "他不得不[丟棄]舊衣服以騰出空間。"
+          },
+          {
+            "sentence": "It's important to [discard] outdated information.",
+            "translation_zh_TW": "丟棄過時資訊是重要的。"
+          }
+        ],
+        "synonyms": [
+          "dispose",
+          "reject"
+        ]
+      }
+    ],
+    "confusion": [
+      "discarded",
+      "discardable",
+      "discuss",
+      "disclose"
+    ]
+  },
+  {
+    "word": "climax",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The most intense, exciting, or important point of something.",
+        "meaning_zh_TW": "高潮",
+        "wrong_meaning_zh_TW": [
+          "喘息",
+          "懸念",
+          "搭配"
+        ],
+        "examples": [
+          {
+            "sentence": "The story's [climax] left readers breathless.",
+            "translation_zh_TW": "故事的高潮讓讀者屏息以待。"
+          },
+          {
+            "sentence": "The movie reached its [climax] in a dramatic showdown.",
+            "translation_zh_TW": "這部電影在戲劇性的對決中達到了高潮。"
+          },
+          {
+            "sentence": "Finding the treasure was the [climax] of the adventure.",
+            "translation_zh_TW": "找到寶藏是這次冒險的高潮。"
+          }
+        ],
+        "synonyms": [
+          "peak",
+          "pinnacle"
+        ]
+      }
+    ],
+    "confusion": [
+      "climaxes",
+      "climactic",
+      "climatic",
+      "clamax"
+    ]
+  },
+  {
+    "word": "teller",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person employed to deal with customers' transactions in a bank.",
+        "meaning_zh_TW": "出納員",
+        "wrong_meaning_zh_TW": [
+          "說書人",
+          "鐘點工",
+          "講話者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [teller] helped me with my withdrawal.",
+            "translation_zh_TW": "出納員幫我處理提款"
+          },
+          {
+            "sentence": "She approached the [teller] to cash a check.",
+            "translation_zh_TW": "她走向出納員兌現支票"
+          },
+          {
+            "sentence": "The bank [teller] greeted customers with a smile.",
+            "translation_zh_TW": "銀行出納員面帶微笑迎接顧客"
+          }
+        ],
+        "synonyms": [
+          "bank clerk",
+          "cashier"
+        ]
+      }
+    ],
+    "confusion": [
+      "tellers",
+      "teller's",
+      "telar",
+      "taler"
+    ]
+  },
+  {
+    "word": "veil",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of fine material worn by women to protect or conceal the face.",
+        "meaning_zh_TW": "面紗",
+        "wrong_meaning_zh_TW": [
+          "圍巾",
+          "帽子",
+          "耳環"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a delicate veil over her face during the ceremony.",
+            "translation_zh_TW": "在典禮上，她的臉上戴著精緻的面紗。"
+          },
+          {
+            "sentence": "The veil added an air of mystery to her appearance.",
+            "translation_zh_TW": "這面紗讓她的外表增添了一絲神秘感。"
+          },
+          {
+            "sentence": "He lifted the veil to reveal her smiling face.",
+            "translation_zh_TW": "他掀起面紗，露出了她微笑的臉。"
+          }
+        ],
+        "synonyms": [
+          "mask",
+          "screen"
+        ]
+      }
+    ],
+    "confusion": [
+      "veil",
+      "vail",
+      "vale",
+      "veille"
+    ]
+  },
+  {
+    "word": "differentiate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To recognize or ascertain what makes something different.",
+        "meaning_zh_TW": "區別",
+        "wrong_meaning_zh_TW": [
+          "聚合",
+          "合併",
+          "混合"
+        ],
+        "examples": [
+          {
+            "sentence": "It is important to [differentiate] fact from opinion.",
+            "translation_zh_TW": "區分事實和觀點是很重要的。"
+          },
+          {
+            "sentence": "Students need to [differentiate] between similar concepts.",
+            "translation_zh_TW": "學生需要區別相似的概念。"
+          },
+          {
+            "sentence": "You must [differentiate] the product to attract more customers.",
+            "translation_zh_TW": "你必須區別產品以吸引更多顧客。"
+          }
+        ],
+        "synonyms": [
+          "distinguish",
+          "discern",
+          "differentiate"
+        ]
+      }
+    ],
+    "confusion": [
+      "different",
+      "differentia",
+      "differentiation",
+      "diferentiate"
+    ]
+  },
+  {
+    "word": "pilgrim",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who journeys to a sacred place for religious reasons.",
+        "meaning_zh_TW": "朝聖者",
+        "wrong_meaning_zh_TW": [
+          "遊客",
+          "商人",
+          "流浪者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [pilgrim] traveled to the holy site.",
+            "translation_zh_TW": "這位朝聖者前往神聖的地方。"
+          },
+          {
+            "sentence": "Many [pilgrims] gather each year at the shrine.",
+            "translation_zh_TW": "每年都有許多朝聖者聚集在神社。"
+          },
+          {
+            "sentence": "The [pilgrim]'s journey was long and difficult.",
+            "translation_zh_TW": "這位朝聖者的旅程又長又艱辛。"
+          }
+        ],
+        "synonyms": [
+          "traveler",
+          "worshiper"
+        ]
+      }
+    ],
+    "confusion": [
+      "pilgrimage",
+      "piglet",
+      "pilgrim's",
+      "pillager"
+    ]
+  },
+  {
+    "word": "caterpillar",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The larval stage of a butterfly or moth.",
+        "meaning_zh_TW": "毛毛蟲",
+        "wrong_meaning_zh_TW": [
+          "蜉蝣",
+          "飛蛹",
+          "蝙蝠"
+        ],
+        "examples": [
+          {
+            "sentence": "The [caterpillar] is eating a leaf.",
+            "translation_zh_TW": "毛毛蟲正在吃葉子"
+          },
+          {
+            "sentence": "A [caterpillar] can transform into a butterfly.",
+            "translation_zh_TW": "毛毛蟲可以變成一隻蝴蝶"
+          },
+          {
+            "sentence": "She found a [caterpillar] in the garden.",
+            "translation_zh_TW": "她在花園裡找到了一隻毛毛蟲"
+          }
+        ],
+        "synonyms": [
+          "larva",
+          "pupa"
+        ]
+      }
+    ],
+    "confusion": [
+      "cater",
+      "caterer",
+      "catered",
+      "carapillar"
+    ]
+  },
+  {
+    "word": "gorilla",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large, ground-dwelling ape primarily found in the forests of Africa.",
+        "meaning_zh_TW": "大猩猩",
+        "wrong_meaning_zh_TW": [
+          "猩猩",
+          "袋鼠",
+          "狒狒"
+        ],
+        "examples": [
+          {
+            "sentence": "The [gorilla] is known for its strength and intelligence.",
+            "translation_zh_TW": "大猩猩以其力量和智慧著稱。"
+          },
+          {
+            "sentence": "We saw a [gorilla] at the zoo yesterday.",
+            "translation_zh_TW": "我們昨天在動物園看到了大猩猩。"
+          },
+          {
+            "sentence": "A [gorilla] can live up to 35 years in the wild.",
+            "translation_zh_TW": "大猩猩在野外可以活到35歲。"
+          }
+        ],
+        "synonyms": [
+          "ape",
+          "primate"
+        ]
+      }
+    ],
+    "confusion": [
+      "gorilla",
+      "gorrilla",
+      "gorillas",
+      "goril"
+    ]
+  },
+  {
+    "word": "cucumber",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long green vegetable that is eaten raw or pickled.",
+        "meaning_zh_TW": "黃瓜",
+        "wrong_meaning_zh_TW": [
+          "南瓜",
+          "綠豆",
+          "藤瓜"
+        ],
+        "examples": [
+          {
+            "sentence": "I added sliced [cucumber] to my salad.",
+            "translation_zh_TW": "我在沙拉中加入了切片的黃瓜。"
+          },
+          {
+            "sentence": "He enjoys eating [cucumber] with dip.",
+            "translation_zh_TW": "他喜歡搭配醬料吃黃瓜。"
+          },
+          {
+            "sentence": "The [cucumber] was fresh and crunchy.",
+            "translation_zh_TW": "那根黃瓜新鮮而脆嫩。"
+          }
+        ],
+        "synonyms": [
+          "gherkin",
+          "veg"
+        ]
+      }
+    ],
+    "confusion": [
+      "cumcumber",
+      "cucumbar",
+      "cucumbers",
+      "cucum"
+    ]
+  },
+  {
+    "word": "decisive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the ability to make decisions quickly and effectively.",
+        "meaning_zh_TW": "果斷的",
+        "wrong_meaning_zh_TW": [
+          "猶豫不決的",
+          "模糊的",
+          "無效的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [decisive] actions led to a swift resolution.",
+            "translation_zh_TW": "她果斷的行動導致了迅速的解決"
+          },
+          {
+            "sentence": "He needs to be more [decisive] in his choices.",
+            "translation_zh_TW": "他在選擇上需要更加果斷"
+          },
+          {
+            "sentence": "A [decisive] leader can inspire confidence in others.",
+            "translation_zh_TW": "果斷的領導者能夠激勵他人的信心"
+          }
+        ],
+        "synonyms": [
+          "resolute",
+          "conclusive"
+        ]
+      }
+    ],
+    "confusion": [
+      "decisively",
+      "decide",
+      "decided",
+      "decisiveley"
+    ]
+  },
+  {
+    "word": "dusk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The time of day immediately following sunset.",
+        "meaning_zh_TW": "黃昏",
+        "wrong_meaning_zh_TW": [
+          "黎明",
+          "正午",
+          "晚上"
+        ],
+        "examples": [
+          {
+            "sentence": "They walked home at [dusk], enjoying the cool air.",
+            "translation_zh_TW": "他們在黃昏的時候回家，享受涼爽的空氣。"
+          },
+          {
+            "sentence": "The streetlights turned on as [dusk] fell.",
+            "translation_zh_TW": "當黃昏來臨時，街燈亮起。"
+          },
+          {
+            "sentence": "We love watching the sunset at [dusk].",
+            "translation_zh_TW": "我們喜歡在黃昏時觀看日落。"
+          }
+        ],
+        "synonyms": [
+          "twilight",
+          "evening"
+        ]
+      }
+    ],
+    "confusion": [
+      "disk",
+      "dust",
+      "dusky",
+      "dussk"
+    ]
+  },
+  {
+    "word": "customary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "According to the customs or usual practices associated with a particular society, place, or set of circumstances.",
+        "meaning_zh_TW": "習俗的",
+        "wrong_meaning_zh_TW": [
+          "隨意的",
+          "突發的",
+          "特殊的"
+        ],
+        "examples": [
+          {
+            "sentence": "It is [customary] to greet the host upon arrival.",
+            "translation_zh_TW": "到達時向主人打招呼是習俗。"
+          },
+          {
+            "sentence": "They followed the [customary] practices during the festival.",
+            "translation_zh_TW": "他們在節日期間遵循習俗做法。"
+          },
+          {
+            "sentence": "In some cultures, it is [customary] to remove shoes indoors.",
+            "translation_zh_TW": "在某些文化中，進入室內時習慣於脫鞋。"
+          }
+        ],
+        "synonyms": [
+          "traditional",
+          "usual"
+        ]
+      }
+    ],
+    "confusion": [
+      "customer",
+      "customs",
+      "custody",
+      "customary"
+    ]
+  },
+  {
+    "word": "counterpart",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that corresponds to another.",
+        "meaning_zh_TW": "對應的人或物",
+        "wrong_meaning_zh_TW": [
+          "無關的物件",
+          "常見的習慣",
+          "相似的特徵"
+        ],
+        "examples": [
+          {
+            "sentence": "The American CEO met with her French [counterpart].",
+            "translation_zh_TW": "美國的首席執行官與她的法國對應者會面"
+          },
+          {
+            "sentence": "Each member has a [counterpart] in another country.",
+            "translation_zh_TW": "每位成員在另一個國家都有一位對應者"
+          },
+          {
+            "sentence": "The two [counterparts] discussed collaboration.",
+            "translation_zh_TW": "兩位對應者討論了合作事宜"
+          }
+        ],
+        "synonyms": [
+          "equivalent",
+          "peer"
+        ]
+      }
+    ],
+    "confusion": [
+      "counterparties",
+      "counterparts",
+      "counterpoint",
+      "counterparted"
+    ]
+  },
+  {
+    "word": "puff",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To blow out in small clouds or bursts.",
+        "meaning_zh_TW": "噴出",
+        "wrong_meaning_zh_TW": [
+          "呼吸",
+          "撲通",
+          "推動"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a breath and gave a [puff] of smoke.",
+            "translation_zh_TW": "他深吸一口氣，噴出一陣煙。"
+          },
+          {
+            "sentence": "The dragon released a great [puff] of fire.",
+            "translation_zh_TW": "那條龍噴出一陣火焰。"
+          },
+          {
+            "sentence": "She watched the [puff] of dandelion seeds float away.",
+            "translation_zh_TW": "她看著蒲公英的種子飄走。"
+          }
+        ],
+        "synonyms": [
+          "blow",
+          "exhale"
+        ]
+      }
+    ],
+    "confusion": [
+      "puffin",
+      "puffery",
+      "puffer",
+      "buf"
+    ]
+  },
+  {
+    "word": "motto",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A short sentence or phrase chosen as encapsulating the beliefs or ideals of an individual or group.",
+        "meaning_zh_TW": "座右銘",
+        "wrong_meaning_zh_TW": [
+          "標語",
+          "歌詞",
+          "標記"
+        ],
+        "examples": [
+          {
+            "sentence": "His [motto] is to always strive for excellence.",
+            "translation_zh_TW": "他的座右銘是永遠追求卓越。"
+          },
+          {
+            "sentence": "The club adopted the [motto]: 'Unity in Diversity.'",
+            "translation_zh_TW": "這個俱樂部採用了座右銘：'多元中的團結。'"
+          },
+          {
+            "sentence": "A good [motto] can inspire others.",
+            "translation_zh_TW": "一個好的座右銘可以激勵他人。"
+          }
+        ],
+        "synonyms": [
+          "maxim",
+          "saying"
+        ]
+      }
+    ],
+    "confusion": [
+      "motif",
+      "mottoes",
+      "motors",
+      "mottoo"
+    ]
+  },
+  {
+    "word": "staple",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A metal or plastic fastener used to hold together sheets of paper.",
+        "meaning_zh_TW": "釘書針",
+        "wrong_meaning_zh_TW": [
+          "主食",
+          "標準",
+          "鋼鐵"
+        ],
+        "examples": [
+          {
+            "sentence": "I used a [staple] to keep the documents together.",
+            "translation_zh_TW": "我用釘書針把文件釘在一起。"
+          },
+          {
+            "sentence": "The [staple] is essential for organizing paperwork.",
+            "translation_zh_TW": "釘書針對於整理文件來說是必不可少的。"
+          },
+          {
+            "sentence": "Make sure to refill the [staple] supply.",
+            "translation_zh_TW": "確保補充釘書針的庫存。"
+          }
+        ],
+        "synonyms": [
+          "fastener",
+          "clip"
+        ]
+      }
+    ],
+    "confusion": [
+      "stable",
+      "stapler",
+      "stapley",
+      "stabble"
+    ]
+  },
+  {
+    "word": "deter",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To discourage or prevent someone from taking action.",
+        "meaning_zh_TW": "阻止",
+        "wrong_meaning_zh_TW": [
+          "決定",
+          "延遲",
+          "促進"
+        ],
+        "examples": [
+          {
+            "sentence": "The high price may [deter] consumers from buying the product.",
+            "translation_zh_TW": "高價格可能會阻止消費者購買該產品。"
+          },
+          {
+            "sentence": "He hoped to [deter] crime in the neighborhood.",
+            "translation_zh_TW": "他希望能夠阻止社區的犯罪行為。"
+          },
+          {
+            "sentence": "Warnings often [deter] people from risky behavior.",
+            "translation_zh_TW": "警告通常會阻止人們冒險行為。"
+          }
+        ],
+        "synonyms": [
+          "prevent",
+          "dissuade"
+        ]
+      }
+    ],
+    "confusion": [
+      "defer",
+      "deterred",
+      "detour",
+      "detector"
+    ]
+  },
+  {
+    "word": "heroic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the characteristics of a hero; courageous.",
+        "meaning_zh_TW": "英勇的",
+        "wrong_meaning_zh_TW": [
+          "懦弱的",
+          "普通的",
+          "可怕的"
+        ],
+        "examples": [
+          {
+            "sentence": "The firefighter's [heroic] actions saved many lives.",
+            "translation_zh_TW": "消防員的英勇行為拯救了許多生命"
+          },
+          {
+            "sentence": "Her [heroic] efforts in the face of danger inspired everyone.",
+            "translation_zh_TW": "她在危險面前的英勇努力激勵了每個人"
+          },
+          {
+            "sentence": "He made a [heroic] stand against injustice.",
+            "translation_zh_TW": "他對抗不公的行為是英勇的"
+          }
+        ],
+        "synonyms": [
+          "courageous",
+          "valiant"
+        ]
+      }
+    ],
+    "confusion": [
+      "heroin",
+      "heroicly",
+      "heroics",
+      "heros"
+    ]
+  },
+  {
+    "word": "formulate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To create or devise methodically (a strategy or a proposal).",
+        "meaning_zh_TW": "制定",
+        "wrong_meaning_zh_TW": [
+          "否定",
+          "迷惑",
+          "分散"
+        ],
+        "examples": [
+          {
+            "sentence": "It’s important to [formulate] a plan before starting.",
+            "translation_zh_TW": "在開始之前制定計畫很重要"
+          },
+          {
+            "sentence": "They [formulate] new ideas for the project.",
+            "translation_zh_TW": "他們為這個項目制定新想法"
+          },
+          {
+            "sentence": "You need to [formulate] your arguments clearly.",
+            "translation_zh_TW": "你需要清晰地制定你的論據"
+          }
+        ],
+        "synonyms": [
+          "devise",
+          "construct"
+        ]
+      }
+    ],
+    "confusion": [
+      "formulating",
+      "formulation",
+      "formed",
+      "form"
+    ]
+  }
+]

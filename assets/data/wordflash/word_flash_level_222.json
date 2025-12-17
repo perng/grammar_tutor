@@ -1,0 +1,783 @@
+[
+  {
+    "word": "session",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A meeting or a period during which a group meets to discuss or work on a specific topic.",
+        "meaning_zh_TW": "會議、期間",
+        "wrong_meaning_zh_TW": [
+          "瞬間",
+          "間隔",
+          "分解"
+        ],
+        "examples": [
+          {
+            "sentence": "The training [session] will start at 10 AM.",
+            "translation_zh_TW": "培訓會議將於上午十點開始。"
+          },
+          {
+            "sentence": "We had a productive [session] yesterday.",
+            "translation_zh_TW": "我們昨天有一個富有成效的會議。"
+          },
+          {
+            "sentence": "This workshop is a [session] on team building.",
+            "translation_zh_TW": "這個研討會是一個關於團隊建設的會議。"
+          }
+        ],
+        "synonyms": [
+          "meeting",
+          "gathering"
+        ]
+      }
+    ],
+    "confusion": [
+      "session",
+      "secession",
+      "cession",
+      "sessen"
+    ]
+  },
+  {
+    "word": "filter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device used to remove impurities or unwanted material.",
+        "meaning_zh_TW": "過濾器",
+        "wrong_meaning_zh_TW": [
+          "傳感器",
+          "配件",
+          "攪拌器"
+        ],
+        "examples": [
+          {
+            "sentence": "He installed a [filter] in the water system.",
+            "translation_zh_TW": "他在水系統中安裝了一個過濾器。"
+          },
+          {
+            "sentence": "The air [filter] needs to be changed regularly.",
+            "translation_zh_TW": "空氣過濾器需要定期更換。"
+          },
+          {
+            "sentence": "Use a coffee [filter] to brew a smoother cup.",
+            "translation_zh_TW": "使用咖啡過濾器來煮出更順口的咖啡。"
+          }
+        ],
+        "synonyms": [
+          "strainer",
+          "sieve"
+        ]
+      }
+    ],
+    "confusion": [
+      "filtar",
+      "filtre",
+      "fillter",
+      "fliter"
+    ]
+  },
+  {
+    "word": "faculty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An inherent mental or physical power.",
+        "meaning_zh_TW": "能力、才能",
+        "wrong_meaning_zh_TW": [
+          "無能",
+          "弱點",
+          "限制"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a remarkable faculty for languages.",
+            "translation_zh_TW": "她在語言方面有卓越的才能。"
+          },
+          {
+            "sentence": "The faculty of memory is essential for learning.",
+            "translation_zh_TW": "記憶的能力對學習至關重要。"
+          },
+          {
+            "sentence": "He lost the faculty of speech after the accident.",
+            "translation_zh_TW": "事故後他失去了說話的能力。"
+          }
+        ],
+        "synonyms": [
+          "ability",
+          "talent",
+          "capability"
+        ]
+      }
+    ],
+    "confusion": [
+      "faculty",
+      "factories",
+      "factions",
+      "factually"
+    ]
+  },
+  {
+    "word": "maintenance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process of preserving a condition or situation or the state of being preserved.",
+        "meaning_zh_TW": "維護",
+        "wrong_meaning_zh_TW": [
+          "補習",
+          "訓練",
+          "更換"
+        ],
+        "examples": [
+          {
+            "sentence": "Regular [maintenance] is required to keep the car running smoothly.",
+            "translation_zh_TW": "定期維護是保持汽車正常運行的必要條件。"
+          },
+          {
+            "sentence": "The building's [maintenance] costs are increasing this year.",
+            "translation_zh_TW": "這棟樓的維護費用今年在上升。"
+          },
+          {
+            "sentence": "He is responsible for the [maintenance] of the equipment.",
+            "translation_zh_TW": "他負責設備的維護。"
+          }
+        ],
+        "synonyms": [
+          "upkeep",
+          "preservation"
+        ]
+      }
+    ],
+    "confusion": [
+      "maintain",
+      "maintaining",
+      "maintenanceful",
+      "maintainer"
+    ]
+  },
+  {
+    "word": "core",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The central or most important part of something.",
+        "meaning_zh_TW": "核心",
+        "wrong_meaning_zh_TW": [
+          "表面",
+          "邊緣",
+          "裝飾"
+        ],
+        "examples": [
+          {
+            "sentence": "At the [core] of his argument was a fundamental truth.",
+            "translation_zh_TW": "他論點的核心是一個基本真理"
+          },
+          {
+            "sentence": "The [core] values of the company are integrity and respect.",
+            "translation_zh_TW": "公司的核心價值觀是誠信和尊重"
+          },
+          {
+            "sentence": "Scientists study the [core] of the Earth to understand its structure.",
+            "translation_zh_TW": "科學家研究地球的核心以了解其結構"
+          }
+        ],
+        "synonyms": [
+          "center",
+          "heart"
+        ]
+      }
+    ],
+    "confusion": [
+      "cure",
+      "cork",
+      "cord",
+      "corect"
+    ]
+  },
+  {
+    "word": "virtual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Almost or nearly as described, but not completely or according to strict definition.",
+        "meaning_zh_TW": "虛擬的",
+        "wrong_meaning_zh_TW": [
+          "實際的",
+          "具體的",
+          "真實的"
+        ],
+        "examples": [
+          {
+            "sentence": "He attended a [virtual] meeting via video call.",
+            "translation_zh_TW": "他通過視頻電話參加了一個虛擬會議。"
+          },
+          {
+            "sentence": "The game offers a [virtual] reality experience.",
+            "translation_zh_TW": "這款遊戲提供虛擬現實的體驗。"
+          },
+          {
+            "sentence": "In a [virtual] classroom, students learn online.",
+            "translation_zh_TW": "在虛擬教室裡，學生在線上學習。"
+          }
+        ],
+        "synonyms": [
+          "digital",
+          "simulated"
+        ]
+      }
+    ],
+    "confusion": [
+      "verbal",
+      "virtuoso",
+      "vortex",
+      "vulnerable"
+    ]
+  },
+  {
+    "word": "external",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Located on or related to the outside.",
+        "meaning_zh_TW": "外部的",
+        "wrong_meaning_zh_TW": [
+          "內部的",
+          "私人",
+          "自然的"
+        ],
+        "examples": [
+          {
+            "sentence": "She applied [external] pressure to the wound.",
+            "translation_zh_TW": "她對傷口施加了外部壓力。"
+          },
+          {
+            "sentence": "The [external] factors affected the project's outcome.",
+            "translation_zh_TW": "外部因素影響了項目的結果。"
+          },
+          {
+            "sentence": "We need to address [external] issues before proceeding.",
+            "translation_zh_TW": "我們需要在繼續之前解決外部問題。"
+          }
+        ],
+        "synonyms": [
+          "outside",
+          "outward"
+        ]
+      }
+    ],
+    "confusion": [
+      "internal",
+      "eternal",
+      "externally",
+      "externals"
+    ]
+  },
+  {
+    "word": "sector",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An area or portion that is distinct from others, especially in industry or economy.",
+        "meaning_zh_TW": "部門",
+        "wrong_meaning_zh_TW": [
+          "途徑",
+          "部分",
+          "方法"
+        ],
+        "examples": [
+          {
+            "sentence": "The tech [sector] is rapidly growing.",
+            "translation_zh_TW": "科技部門正在快速增長"
+          },
+          {
+            "sentence": "Different sectors of the economy need attention.",
+            "translation_zh_TW": "經濟的不同部門需要關注"
+          },
+          {
+            "sentence": "She works in the public [sector].",
+            "translation_zh_TW": "她在公共部門工作"
+          }
+        ],
+        "synonyms": [
+          "division",
+          "segment"
+        ]
+      }
+    ],
+    "confusion": [
+      "sectors",
+      "select",
+      "secter",
+      "sect"
+    ]
+  },
+  {
+    "word": "grant",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To agree to give or allow (something requested) to.",
+        "meaning_zh_TW": "授予",
+        "wrong_meaning_zh_TW": [
+          "剝奪",
+          "拒絕",
+          "會議"
+        ],
+        "examples": [
+          {
+            "sentence": "The committee decided to [grant] the funding.",
+            "translation_zh_TW": "委員會決定授予這筆資金。"
+          },
+          {
+            "sentence": "She hopes to [grant] his wish.",
+            "translation_zh_TW": "她希望能夠滿足他的願望。"
+          },
+          {
+            "sentence": "They will [grant] access to the facilities.",
+            "translation_zh_TW": "他們會授予進入設施的權限。"
+          }
+        ],
+        "synonyms": [
+          "allow",
+          "approve"
+        ]
+      }
+    ],
+    "confusion": [
+      "granter",
+      "grants",
+      "granted",
+      "granite"
+    ]
+  },
+  {
+    "word": "setting",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The place or type of surroundings where something is positioned or takes place.",
+        "meaning_zh_TW": "環境、背景",
+        "wrong_meaning_zh_TW": [
+          "舞台、場所",
+          "景觀、視野",
+          "裝置、設置"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden was the perfect [setting] for their wedding.",
+            "translation_zh_TW": "花園是她們婚禮的完美背景"
+          },
+          {
+            "sentence": "The film's [setting] was a small village in Italy.",
+            "translation_zh_TW": "這部電影的背景是一個位於意大利的小村莊"
+          },
+          {
+            "sentence": "They chose a rustic [setting] for the retreat.",
+            "translation_zh_TW": "他們為這次靜修選擇了一個鄉村環境"
+          }
+        ],
+        "synonyms": [
+          "environment",
+          "locale"
+        ]
+      }
+    ],
+    "confusion": [
+      "sitting",
+      "setting up",
+      "safety",
+      "pertaining"
+    ]
+  },
+  {
+    "word": "installation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of installing something, or the process of being installed.",
+        "meaning_zh_TW": "安裝",
+        "wrong_meaning_zh_TW": [
+          "排放",
+          "拆卸",
+          "維修"
+        ],
+        "examples": [
+          {
+            "sentence": "The [installation] of the software took several hours.",
+            "translation_zh_TW": "這個軟體的安裝花了幾個小時"
+          },
+          {
+            "sentence": "He oversaw the [installation] of the new equipment.",
+            "translation_zh_TW": "他監督了新設備的安裝"
+          },
+          {
+            "sentence": "Once the [installation] is complete, we can start using the system.",
+            "translation_zh_TW": "一旦安裝完成，我們就可以開始使用系統"
+          }
+        ],
+        "synonyms": [
+          "setup",
+          "establishment"
+        ]
+      }
+    ],
+    "confusion": [
+      "installation",
+      "instalation",
+      "installations",
+      "instalation"
+    ]
+  },
+  {
+    "word": "suite",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A set of rooms designated for a particular purpose, often used in hotels or residences.",
+        "meaning_zh_TW": "套房",
+        "wrong_meaning_zh_TW": [
+          "單間",
+          "辦公室",
+          "儲藏室"
+        ],
+        "examples": [
+          {
+            "sentence": "We booked a luxury [suite] for our vacation.",
+            "translation_zh_TW": "我們為假期預訂了一個豪華的套房。"
+          },
+          {
+            "sentence": "The hotel offers a spacious [suite] with ocean views.",
+            "translation_zh_TW": "這家酒店提供一個寬敞的套房，可以俯瞰海洋。"
+          },
+          {
+            "sentence": "They moved into a [suite] in the city center.",
+            "translation_zh_TW": "他們搬進了市中心的一個套房。"
+          }
+        ],
+        "synonyms": [
+          "apartment",
+          "set of rooms"
+        ]
+      }
+    ],
+    "confusion": [
+      "suit",
+      "suitcase",
+      "sweet",
+      "suitee"
+    ]
+  },
+  {
+    "word": "auction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A public sale in which goods or property are sold to the highest bidder.",
+        "meaning_zh_TW": "拍賣",
+        "wrong_meaning_zh_TW": [
+          "捐贈",
+          "礦產",
+          "設計"
+        ],
+        "examples": [
+          {
+            "sentence": "They held an [auction] to sell the artwork.",
+            "translation_zh_TW": "他們舉行了一場拍賣來出售藝術品。"
+          },
+          {
+            "sentence": "The items were sold at the [auction] last weekend.",
+            "translation_zh_TW": "這些物品在上個週末的拍賣中被售出。"
+          },
+          {
+            "sentence": "Bidders gathered eagerly at the [auction] house.",
+            "translation_zh_TW": "競標者熱切地聚集在拍賣行。"
+          }
+        ],
+        "synonyms": [
+          "bidding",
+          "sale"
+        ]
+      }
+    ],
+    "confusion": [
+      "action",
+      "function",
+      "fashion",
+      "auctione"
+    ]
+  },
+  {
+    "word": "resort",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A place where people go for vacation or recreation, often located in a scenic area.",
+        "meaning_zh_TW": "度假勝地",
+        "wrong_meaning_zh_TW": [
+          "城市中心",
+          "娛樂場所",
+          "工作地點"
+        ],
+        "examples": [
+          {
+            "sentence": "We are planning a trip to the beach [resort] next month.",
+            "translation_zh_TW": "我們計劃下個月去海灘度假勝地。"
+          },
+          {
+            "sentence": "The mountain [resort] offers skiing in the winter.",
+            "translation_zh_TW": "這個山上度假勝地冬天提供滑雪活動。"
+          },
+          {
+            "sentence": "She loves visiting the [resort] for relaxation.",
+            "translation_zh_TW": "她喜歡去度假勝地放鬆心情。"
+          }
+        ],
+        "synonyms": [
+          "retreat",
+          "sanctuary"
+        ]
+      }
+    ],
+    "confusion": [
+      "resorts",
+      "restort",
+      "resor",
+      "reward"
+    ]
+  },
+  {
+    "word": "random",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Made, done, or happening without method or conscious choice.",
+        "meaning_zh_TW": "隨機的",
+        "wrong_meaning_zh_TW": [
+          "經過深思熟慮的",
+          "準確的計劃",
+          "特定的選擇"
+        ],
+        "examples": [
+          {
+            "sentence": "The winner was chosen at [random].",
+            "translation_zh_TW": "獲勝者是隨機選出的"
+          },
+          {
+            "sentence": "She selected a [random] book from the shelf.",
+            "translation_zh_TW": "她從書架上選了一本隨機的書"
+          },
+          {
+            "sentence": "They made a [random] decision without consulting anyone.",
+            "translation_zh_TW": "他們在未諮詢任何人後做出一致的決定"
+          }
+        ],
+        "synonyms": [
+          "arbitrary",
+          "haphazard"
+        ]
+      }
+    ],
+    "confusion": [
+      "panda",
+      "randon",
+      "randun",
+      "rando"
+    ]
+  },
+  {
+    "word": "certificate",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An official document attesting a certain fact, especially one that relates to the qualifications of a person.",
+        "meaning_zh_TW": "證書",
+        "wrong_meaning_zh_TW": [
+          "契約",
+          "通行證",
+          "賬單"
+        ],
+        "examples": [
+          {
+            "sentence": "She received a [certificate] for completing the course.",
+            "translation_zh_TW": "她因完成課程而獲得證書"
+          },
+          {
+            "sentence": "The [certificate] shows that he is a qualified teacher.",
+            "translation_zh_TW": "該證書顯示他是一位合格的教師"
+          },
+          {
+            "sentence": "You need a [certificate] to apply for a job in this field.",
+            "translation_zh_TW": "你需要一個證書來申請這個領域的工作"
+          }
+        ],
+        "synonyms": [
+          "diploma",
+          "credential"
+        ]
+      }
+    ],
+    "confusion": [
+      "certified",
+      "certification",
+      "cert",
+      "certific"
+    ]
+  },
+  {
+    "word": "coverage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The extent to which something is covered or included.",
+        "meaning_zh_TW": "覆蓋範圍",
+        "wrong_meaning_zh_TW": [
+          "考量",
+          "定義",
+          "表達"
+        ],
+        "examples": [
+          {
+            "sentence": "The insurance policy provides wide [coverage].",
+            "translation_zh_TW": "這保險政策提供廣泛的覆蓋範圍"
+          },
+          {
+            "sentence": "Media [coverage] of the event was extensive.",
+            "translation_zh_TW": "媒體對該事件的報導非常廣泛"
+          },
+          {
+            "sentence": "We need to assess the [coverage] of the study.",
+            "translation_zh_TW": "我們需要評估這項研究的覆蓋範圍"
+          }
+        ],
+        "synonyms": [
+          "extent",
+          "scope"
+        ]
+      }
+    ],
+    "confusion": [
+      "cover",
+      "covet",
+      "coven",
+      "cove"
+    ]
+  },
+  {
+    "word": "clinical",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the observation and treatment of actual patients rather than theoretical or laboratory studies.",
+        "meaning_zh_TW": "臨床的",
+        "wrong_meaning_zh_TW": [
+          "實驗的",
+          "研究的",
+          "理論的"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor provided [clinical] care to the patients.",
+            "translation_zh_TW": "醫生對病人提供臨床護理"
+          },
+          {
+            "sentence": "She is undertaking [clinical] trials for new drugs.",
+            "translation_zh_TW": "她正在進行新藥的臨床試驗"
+          },
+          {
+            "sentence": "His observations were grounded in [clinical] experience.",
+            "translation_zh_TW": "他的觀察基於臨床經驗"
+          }
+        ],
+        "synonyms": [
+          "medical",
+          "therapeutic"
+        ]
+      }
+    ],
+    "confusion": [
+      "clinicl",
+      "clincal",
+      "clinicc",
+      "clinicalz"
+    ]
+  },
+  {
+    "word": "currency",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system of money in general use in a particular country.",
+        "meaning_zh_TW": "貨幣，通貨",
+        "wrong_meaning_zh_TW": [
+          "債務",
+          "存款",
+          "利息"
+        ],
+        "examples": [
+          {
+            "sentence": "The dollar is the main [currency] in the USA.",
+            "translation_zh_TW": "美元是美國的主要貨幣。"
+          },
+          {
+            "sentence": "Exchange rates can affect the value of [currency].",
+            "translation_zh_TW": "匯率可以影響貨幣的價值。"
+          },
+          {
+            "sentence": "Cryptocurrency has gained popularity as a digital [currency].",
+            "translation_zh_TW": "加密貨幣作為數字貨幣已獲得人氣。"
+          }
+        ],
+        "synonyms": [
+          "money",
+          "cash"
+        ]
+      }
+    ],
+    "confusion": [
+      "current",
+      "curriculum",
+      "curtain",
+      "cursory"
+    ]
+  },
+  {
+    "word": "architecture",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The art or practice of designing and constructing buildings.",
+        "meaning_zh_TW": "建築學",
+        "wrong_meaning_zh_TW": [
+          "美術",
+          "工程技術",
+          "室內設計"
+        ],
+        "examples": [
+          {
+            "sentence": "He studied [architecture] at university.",
+            "translation_zh_TW": "他在大學學習建築學。"
+          },
+          {
+            "sentence": "The [architecture] of the old cathedral is breathtaking.",
+            "translation_zh_TW": "這座古老大教堂的建築風格令人驚嘆。"
+          },
+          {
+            "sentence": "Modern [architecture] often incorporates sustainable practices.",
+            "translation_zh_TW": "現代建築通常融合可持續的做法。"
+          }
+        ],
+        "synonyms": [
+          "design",
+          "construction"
+        ]
+      }
+    ],
+    "confusion": [
+      "archaeology",
+      "artificial",
+      "article",
+      "architectural"
+    ]
+  }
+]

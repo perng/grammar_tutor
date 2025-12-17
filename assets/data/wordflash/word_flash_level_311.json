@@ -1,0 +1,784 @@
+[
+  {
+    "word": "slump",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To fall or drop sharply.",
+        "meaning_zh_TW": "下跌",
+        "wrong_meaning_zh_TW": [
+          "上升",
+          "滑行",
+          "增長"
+        ],
+        "examples": [
+          {
+            "sentence": "Sales began to [slump] during the winter season.",
+            "translation_zh_TW": "銷售在冬季開始下跌。"
+          },
+          {
+            "sentence": "The stock prices [slumped] after the announcement.",
+            "translation_zh_TW": "公告後，股票價格下跌。"
+          },
+          {
+            "sentence": "We saw a [slump] in attendance at the event.",
+            "translation_zh_TW": "我們看到活動的出席人數下跌。"
+          }
+        ],
+        "synonyms": [
+          "decline",
+          "drop"
+        ]
+      }
+    ],
+    "confusion": [
+      "lump",
+      "slime",
+      "sump",
+      "slumpster"
+    ]
+  },
+  {
+    "word": "gloom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A state of partial illumination; a dim light.",
+        "meaning_zh_TW": "幽暗",
+        "wrong_meaning_zh_TW": [
+          "歡樂",
+          "閃亮",
+          "清晰"
+        ],
+        "examples": [
+          {
+            "sentence": "The room was filled with a sense of [gloom].",
+            "translation_zh_TW": "房間裡充滿了幽暗的感覺。"
+          },
+          {
+            "sentence": "The constant [gloom] weighed heavily on her spirit.",
+            "translation_zh_TW": "持續的幽暗壓得她的精神非常重。"
+          },
+          {
+            "sentence": "Despite the [gloom], he managed to stay positive.",
+            "translation_zh_TW": "儘管有幽暗，他仍然保持積極。"
+          }
+        ],
+        "synonyms": [
+          "darkness",
+          "sadness"
+        ]
+      }
+    ],
+    "confusion": [
+      "bloom",
+      "gloomy",
+      "glow",
+      "gloam"
+    ]
+  },
+  {
+    "word": "dispense",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Distribute or provide (a service or information).",
+        "meaning_zh_TW": "分發",
+        "wrong_meaning_zh_TW": [
+          "提供",
+          "訂購",
+          "管理"
+        ],
+        "examples": [
+          {
+            "sentence": "The pharmacy will [dispense] the medication.",
+            "translation_zh_TW": "藥房將會分發這種藥物。"
+          },
+          {
+            "sentence": "They agreed to [dispense] assistance as needed.",
+            "translation_zh_TW": "他們同意根據需要提供幫助。"
+          },
+          {
+            "sentence": "Can you [dispense] advice on this matter?",
+            "translation_zh_TW": "你能在這個問題上給些意見嗎？"
+          }
+        ],
+        "synonyms": [
+          "distribute",
+          "allocate"
+        ]
+      }
+    ],
+    "confusion": [
+      "dispensable",
+      "disposal",
+      "dispose",
+      "disposability"
+    ]
+  },
+  {
+    "word": "mobilize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To prepare and organize for active service.",
+        "meaning_zh_TW": "行動起來",
+        "wrong_meaning_zh_TW": [
+          "抵抗",
+          "放棄",
+          "保持靜止"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [mobilize] resources for the project.",
+            "translation_zh_TW": "我們需要為這個項目行動起來資源。"
+          },
+          {
+            "sentence": "The government plans to [mobilize] troops next week.",
+            "translation_zh_TW": "政府計劃下週調動部隊。"
+          },
+          {
+            "sentence": "They can [mobilize] support quickly during a crisis.",
+            "translation_zh_TW": "在危機期間，他們可以迅速行動起來獲得支持。"
+          }
+        ],
+        "synonyms": [
+          "deploy",
+          "organize"
+        ]
+      }
+    ],
+    "confusion": [
+      "mobilized",
+      "mobilizer",
+      "mobilizee",
+      "modebilize"
+    ]
+  },
+  {
+    "word": "hijack",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To unlawfully seize control of a vehicle or aircraft.",
+        "meaning_zh_TW": "劫持",
+        "wrong_meaning_zh_TW": [
+          "放棄",
+          "歸還",
+          "借用"
+        ],
+        "examples": [
+          {
+            "sentence": "The plane was [hijacked] shortly after takeoff.",
+            "translation_zh_TW": "飛機在起飛後不久被劫持"
+          },
+          {
+            "sentence": "They attempted to [hijack] the bus full of passengers.",
+            "translation_zh_TW": "他們試圖劫持滿載乘客的巴士"
+          },
+          {
+            "sentence": "Security measures were heightened to prevent a [hijack].",
+            "translation_zh_TW": "安全措施加強以防止劫持"
+          }
+        ],
+        "synonyms": [
+          "commandeer",
+          "seize"
+        ]
+      }
+    ],
+    "confusion": [
+      "hijacke",
+      "hijas",
+      "hijacks",
+      "hijack"
+    ]
+  },
+  {
+    "word": "convene",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Come or bring together for a meeting or activity.",
+        "meaning_zh_TW": "召開",
+        "wrong_meaning_zh_TW": [
+          "分散",
+          "取消",
+          "延遲"
+        ],
+        "examples": [
+          {
+            "sentence": "The board will [convene] tomorrow to discuss the budget.",
+            "translation_zh_TW": "董事會將於明天召開會議討論預算。"
+          },
+          {
+            "sentence": "We need to [convene] a meeting to address these issues.",
+            "translation_zh_TW": "我們需要召開會議來處理這些問題。"
+          },
+          {
+            "sentence": "The committee will [convene] during the summer.",
+            "translation_zh_TW": "委員會將在夏季召開。"
+          }
+        ],
+        "synonyms": [
+          "assemble",
+          "gather"
+        ]
+      }
+    ],
+    "confusion": [
+      "convenient",
+      "convenor",
+      "convention",
+      "convince"
+    ]
+  },
+  {
+    "word": "shred",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cut or tear something into small pieces.",
+        "meaning_zh_TW": "撕碎",
+        "wrong_meaning_zh_TW": [
+          "修剪",
+          "強化",
+          "圓形"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [shred] documents that are no longer needed.",
+            "translation_zh_TW": "她會撕碎不再需要的文件。"
+          },
+          {
+            "sentence": "Be careful not to [shred] your finger while cutting.",
+            "translation_zh_TW": "切割時小心不要撕碎你的手指。"
+          },
+          {
+            "sentence": "The machine can [shred] vegetables quickly.",
+            "translation_zh_TW": "這台機器可以快速撕碎蔬菜。"
+          }
+        ],
+        "synonyms": [
+          "tear",
+          "rip"
+        ]
+      }
+    ],
+    "confusion": [
+      "shredder",
+      "spread",
+      "thread",
+      "shed"
+    ]
+  },
+  {
+    "word": "fowl",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A bird, especially one used for food.",
+        "meaning_zh_TW": "禽類",
+        "wrong_meaning_zh_TW": [
+          "魚類",
+          "爬蟲類",
+          "哺乳類"
+        ],
+        "examples": [
+          {
+            "sentence": "She cooked a delicious roast [fowl] for dinner.",
+            "translation_zh_TW": "她為晚餐烹調了一道美味的烤禽類。"
+          },
+          {
+            "sentence": "His farm is known for its free-range [fowl].",
+            "translation_zh_TW": "他的農場以其自由放養的禽類而聞名。"
+          },
+          {
+            "sentence": "They raised several types of [fowl] on their property.",
+            "translation_zh_TW": "他們在自己的土地上養了幾種禽類。"
+          }
+        ],
+        "synonyms": [
+          "bird",
+          "poultry"
+        ]
+      }
+    ],
+    "confusion": [
+      "fowling",
+      "fouls",
+      "fowlish",
+      "fowel"
+    ]
+  },
+  {
+    "word": "accusation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A charge of wrongdoing or error.",
+        "meaning_zh_TW": "指控",
+        "wrong_meaning_zh_TW": [
+          "辯護",
+          "證據",
+          "鼓勵"
+        ],
+        "examples": [
+          {
+            "sentence": "She made an [accusation] against her colleague.",
+            "translation_zh_TW": "她對她的同事提出了一個指控。"
+          },
+          {
+            "sentence": "The [accusation] was proven to be false.",
+            "translation_zh_TW": "這項指控被證明是虛假的。"
+          },
+          {
+            "sentence": "He denied any [accusation] of misconduct.",
+            "translation_zh_TW": "他否認任何不當行為的指控。"
+          }
+        ],
+        "synonyms": [
+          "claim",
+          "charge",
+          "allegation"
+        ]
+      }
+    ],
+    "confusion": [
+      "accusation",
+      "accuse",
+      "accuser",
+      "acquittal"
+    ]
+  },
+  {
+    "word": "flake",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small, thin piece that has broken away from a larger solid.",
+        "meaning_zh_TW": "薄片",
+        "wrong_meaning_zh_TW": [
+          "雪",
+          "炸彈",
+          "流星"
+        ],
+        "examples": [
+          {
+            "sentence": "They found a [flake] of gold in the river.",
+            "translation_zh_TW": "他們在河裡找到了[薄片]金。"
+          },
+          {
+            "sentence": "The paint began to [flake] off the old walls.",
+            "translation_zh_TW": "油漆開始從舊牆[剝落]。"
+          },
+          {
+            "sentence": "A [flake] of snow landed on his nose.",
+            "translation_zh_TW": "一片[薄片]雪落在了他的鼻子上。"
+          }
+        ],
+        "synonyms": [
+          "chip",
+          "sliver",
+          "shard"
+        ]
+      }
+    ],
+    "confusion": [
+      "flak",
+      "flaker",
+      "reflect",
+      "flakerz"
+    ]
+  },
+  {
+    "word": "disbelief",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The inability or refusal to accept that something is true.",
+        "meaning_zh_TW": "不信",
+        "wrong_meaning_zh_TW": [
+          "信任",
+          "信心",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "She looked at him in [disbelief] when he told her the news.",
+            "translation_zh_TW": "當他告訴她那個消息時，她看著他，眼裡充滿[不信]。"
+          },
+          {
+            "sentence": "His [disbelief] was evident on his face.",
+            "translation_zh_TW": "他的[不信]表現在他的臉上。"
+          },
+          {
+            "sentence": "They expressed their [disbelief] at the claims.",
+            "translation_zh_TW": "他們對這些說法表示了[不信]。"
+          }
+        ],
+        "synonyms": [
+          "skepticism",
+          "incredulity"
+        ]
+      }
+    ],
+    "confusion": [
+      "disbelieve",
+      "disappear",
+      "disseminate",
+      "displace"
+    ]
+  },
+  {
+    "word": "breakup",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The termination of a relationship or union.",
+        "meaning_zh_TW": "分手",
+        "wrong_meaning_zh_TW": [
+          "開始",
+          "重聚",
+          "無辜"
+        ],
+        "examples": [
+          {
+            "sentence": "Their [breakup] was very public.",
+            "translation_zh_TW": "他們的分手非常公開"
+          },
+          {
+            "sentence": "She found it hard to cope after the [breakup].",
+            "translation_zh_TW": "她發現很難在分手後應對"
+          },
+          {
+            "sentence": "The [breakup] left him heartbroken.",
+            "translation_zh_TW": "分手讓他心碎"
+          }
+        ],
+        "synonyms": [
+          "separation",
+          "split"
+        ]
+      }
+    ],
+    "confusion": [
+      "breakup",
+      "breakdown",
+      "breakfast",
+      "broke"
+    ]
+  },
+  {
+    "word": "emigration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of leaving one's country to live in another.",
+        "meaning_zh_TW": "移民",
+        "wrong_meaning_zh_TW": [
+          "入境",
+          "流動",
+          "本地化"
+        ],
+        "examples": [
+          {
+            "sentence": "The [emigration] process can be lengthy and complex.",
+            "translation_zh_TW": "移民過程可能漫長而複雜。"
+          },
+          {
+            "sentence": "Her family history is filled with stories of [emigration].",
+            "translation_zh_TW": "她的家族歷史充滿了移民的故事。"
+          },
+          {
+            "sentence": "Economic factors often drive [emigration].",
+            "translation_zh_TW": "經濟因素常常促使移民。"
+          }
+        ],
+        "synonyms": [
+          "migration",
+          "relocation"
+        ]
+      }
+    ],
+    "confusion": [
+      "immigration",
+      "emigrant",
+      "emigrate",
+      "emigree"
+    ]
+  },
+  {
+    "word": "conscientious",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Diligent and careful in work or responsibilities.",
+        "meaning_zh_TW": "盡責的",
+        "wrong_meaning_zh_TW": [
+          "懶惰的",
+          "不專心的",
+          "粗心的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a [conscientious] student who studies very hard.",
+            "translation_zh_TW": "她是個非常努力的盡責學生"
+          },
+          {
+            "sentence": "His [conscientious] nature makes him a great worker.",
+            "translation_zh_TW": "他的盡責特質使他成為好員工"
+          },
+          {
+            "sentence": "Being [conscientious] is important in any profession.",
+            "translation_zh_TW": "在任何職業中，盡責都很重要"
+          }
+        ],
+        "synonyms": [
+          "diligent",
+          "meticulous"
+        ]
+      }
+    ],
+    "confusion": [
+      "conscious",
+      "consensus",
+      "concession",
+      "consecutive"
+    ]
+  },
+  {
+    "word": "landslide",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The sudden and fast movement of soil, rock, and vegetation down a slope.",
+        "meaning_zh_TW": "山崩",
+        "wrong_meaning_zh_TW": [
+          "震動",
+          "漲潮",
+          "颱風"
+        ],
+        "examples": [
+          {
+            "sentence": "The heavy rains caused a [landslide] on the mountain.",
+            "translation_zh_TW": "大雨導致山上發生了山崩。"
+          },
+          {
+            "sentence": "Residents evacuated due to the threat of a [landslide].",
+            "translation_zh_TW": "居民因山崩威脅而撤離。"
+          },
+          {
+            "sentence": "A [landslide] blocked the road for several days.",
+            "translation_zh_TW": "山崩將這條路封閉了幾天。"
+          }
+        ],
+        "synonyms": [
+          "rockslide",
+          "mudslide"
+        ]
+      }
+    ],
+    "confusion": [
+      "landmark",
+      "landline",
+      "landlord",
+      "landing"
+    ]
+  },
+  {
+    "word": "summon",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To call upon to come or to convene.",
+        "meaning_zh_TW": "召喚",
+        "wrong_meaning_zh_TW": [
+          "幻覺",
+          "皺紋",
+          "傢具"
+        ],
+        "examples": [
+          {
+            "sentence": "The manager decided to [summon] the team for an emergency meeting.",
+            "translation_zh_TW": "經理決定召集團隊進行緊急會議。"
+          },
+          {
+            "sentence": "He could [summon] the courage to speak in public.",
+            "translation_zh_TW": "他能夠召喚勇氣在公共場合發言。"
+          },
+          {
+            "sentence": "We must [summon] all our resources to solve this problem.",
+            "translation_zh_TW": "我們必須召集所有資源來解決這個問題。"
+          }
+        ],
+        "synonyms": [
+          "call",
+          "convene"
+        ]
+      }
+    ],
+    "confusion": [
+      "summons",
+      "summoning",
+      "summing",
+      "summoned"
+    ]
+  },
+  {
+    "word": "sneaky",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Doing things in a secret or stealthy manner.",
+        "meaning_zh_TW": "偷偷的",
+        "wrong_meaning_zh_TW": [
+          "開放的",
+          "真誠的",
+          "友好的"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [sneaky] move to get the last cookie.",
+            "translation_zh_TW": "他偷偷地動了一手去拿最後一塊餅乾。"
+          },
+          {
+            "sentence": "Her [sneaky] actions went unnoticed.",
+            "translation_zh_TW": "她的偷偷行動未被注意。"
+          },
+          {
+            "sentence": "I caught him being [sneaky] in the pantry.",
+            "translation_zh_TW": "我抓到他在儲藏室裡偷偷的。"
+          }
+        ],
+        "synonyms": [
+          "stealthy",
+          "furtive"
+        ]
+      }
+    ],
+    "confusion": [
+      "sneak",
+      "sneezed",
+      "snakey",
+      "sneered"
+    ]
+  },
+  {
+    "word": "communicative",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able and willing to communicate.",
+        "meaning_zh_TW": "善於交流的",
+        "wrong_meaning_zh_TW": [
+          "沉默的",
+          "無表達的",
+          "冷漠的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is very [communicative] when discussing her ideas.",
+            "translation_zh_TW": "她在討論自己的想法時非常善於交流。"
+          },
+          {
+            "sentence": "Being [communicative] is important in a team setting.",
+            "translation_zh_TW": "在團隊環境中，善於交流是重要的。"
+          },
+          {
+            "sentence": "His [communicative] style gained him many friends.",
+            "translation_zh_TW": "他的交流風格為他贏得了很多朋友。"
+          }
+        ],
+        "synonyms": [
+          "talkative",
+          "expressive"
+        ]
+      }
+    ],
+    "confusion": [
+      "communicative",
+      "communication",
+      "community",
+      "commune"
+    ]
+  },
+  {
+    "word": "sneaker",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of shoe designed for sports or casual wear.",
+        "meaning_zh_TW": "運動鞋",
+        "wrong_meaning_zh_TW": [
+          "涼鞋",
+          "皮靴",
+          "拖鞋"
+        ],
+        "examples": [
+          {
+            "sentence": "He bought a new pair of [sneakers] for the gym.",
+            "translation_zh_TW": "他為健身房買了一雙新運動鞋。"
+          },
+          {
+            "sentence": "These [sneakers] are very comfortable.",
+            "translation_zh_TW": "這雙運動鞋非常舒適。"
+          },
+          {
+            "sentence": "She wore her favorite [sneakers] to school.",
+            "translation_zh_TW": "她穿著最喜歡的運動鞋上學。"
+          }
+        ],
+        "synonyms": [
+          "athletic shoes",
+          "trainers"
+        ]
+      }
+    ],
+    "confusion": [
+      "snicker",
+      "snooker",
+      "sneaky",
+      "sneezing"
+    ]
+  },
+  {
+    "word": "twinkle",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To shine with a flickering or sparkling light.",
+        "meaning_zh_TW": "閃爍",
+        "wrong_meaning_zh_TW": [
+          "熄滅",
+          "黑暗",
+          "靜止"
+        ],
+        "examples": [
+          {
+            "sentence": "The stars began to [twinkle] in the night sky.",
+            "translation_zh_TW": "星星在夜空中開始閃爍。"
+          },
+          {
+            "sentence": "The candlelight [twinkled] softly.",
+            "translation_zh_TW": "蠟燭的光芒柔和地閃爍。"
+          },
+          {
+            "sentence": "Her eyes seemed to [twinkle] with happiness.",
+            "translation_zh_TW": "她的眼睛似乎因幸福而閃爍。"
+          }
+        ],
+        "synonyms": [
+          "sparkle",
+          "glimmer"
+        ]
+      }
+    ],
+    "confusion": [
+      "tinkle",
+      "twinkie",
+      "twinkler",
+      "tinkle"
+    ]
+  }
+]

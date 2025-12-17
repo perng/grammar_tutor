@@ -1,0 +1,772 @@
+[
+  {
+    "word": "hammer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool with a heavy head used for pounding or striking.",
+        "meaning_zh_TW": "錘子",
+        "wrong_meaning_zh_TW": [
+          "鉗子",
+          "剪刀",
+          "鋸子"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [hammer] to drive the nails into the wood.",
+            "translation_zh_TW": "他用錘子把釘子打進木頭裡。"
+          },
+          {
+            "sentence": "The carpenter took out his [hammer] to start working.",
+            "translation_zh_TW": "木匠拿出他的錘子開始工作。"
+          },
+          {
+            "sentence": "A [hammer] is essential for many construction projects.",
+            "translation_zh_TW": "錘子對許多建築項目至關重要。"
+          }
+        ],
+        "synonyms": [
+          "mallet",
+          "sledgehammer"
+        ]
+      }
+    ],
+    "confusion": [
+      "hammock",
+      "hammers",
+      "hummer",
+      "hamster"
+    ]
+  },
+  {
+    "word": "beneath",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "In or to a lower place; under.",
+        "meaning_zh_TW": "在...之下",
+        "wrong_meaning_zh_TW": [
+          "在...旁邊",
+          "在...之上",
+          "在...內部"
+        ],
+        "examples": [
+          {
+            "sentence": "The cat hid [beneath] the table.",
+            "translation_zh_TW": "貓躲在桌子下。"
+          },
+          {
+            "sentence": "We found the treasure [beneath] the old oak tree.",
+            "translation_zh_TW": "我們在老橡樹下找到寶藏。"
+          },
+          {
+            "sentence": "There is a quiet stream [beneath] the bridge.",
+            "translation_zh_TW": "橋下有一條安靜的小溪。"
+          }
+        ],
+        "synonyms": [
+          "under",
+          "below"
+        ]
+      }
+    ],
+    "confusion": [
+      "beneath",
+      "beyond",
+      "beneath",
+      "benediction"
+    ]
+  },
+  {
+    "word": "aggressive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Ready or likely to attack or confront; characterized by hostility.",
+        "meaning_zh_TW": "侵略性的、好鬥的",
+        "wrong_meaning_zh_TW": [
+          "和平的、安靜的",
+          "懦弱的、柔弱的",
+          "包容的、接納的"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog was very [aggressive] towards strangers.",
+            "translation_zh_TW": "這隻狗對陌生人非常好鬥"
+          },
+          {
+            "sentence": "His [aggressive] behavior worried his friends.",
+            "translation_zh_TW": "他的侵略性行為讓他的朋友們擔心"
+          },
+          {
+            "sentence": "They took an [aggressive] approach to marketing.",
+            "translation_zh_TW": "他們對營銷採取了激進的方式"
+          }
+        ],
+        "synonyms": [
+          "hostile",
+          "assertive"
+        ]
+      }
+    ],
+    "confusion": [
+      "aggresive",
+      "aggregate",
+      "aggravate",
+      "agressif"
+    ]
+  },
+  {
+    "word": "fist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hand closed tightly, often used as a weapon.",
+        "meaning_zh_TW": "拳頭",
+        "wrong_meaning_zh_TW": [
+          "手掌",
+          "指頭",
+          "手肘"
+        ],
+        "examples": [
+          {
+            "sentence": "He raised his [fist] in triumph.",
+            "translation_zh_TW": "他興奮地舉起拳頭"
+          },
+          {
+            "sentence": "She clenched her [fist] in anger.",
+            "translation_zh_TW": "她憤怒地握緊拳頭"
+          },
+          {
+            "sentence": "A [fist] is often used in boxing.",
+            "translation_zh_TW": "拳頭常用於拳擊"
+          }
+        ],
+        "synonyms": [
+          "hand",
+          "clenched hand"
+        ]
+      }
+    ],
+    "confusion": [
+      "fistful",
+      "fisted",
+      "fists",
+      "fistfight"
+    ]
+  },
+  {
+    "word": "appreciation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Recognition and enjoyment of the good qualities of someone or something.",
+        "meaning_zh_TW": "欣賞",
+        "wrong_meaning_zh_TW": [
+          "批評",
+          "忽略",
+          "拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a deep [appreciation] for classical music.",
+            "translation_zh_TW": "她對古典音樂有深刻的欣賞"
+          },
+          {
+            "sentence": "His [appreciation] of nature is evident in his paintings.",
+            "translation_zh_TW": "他對自然的欣賞在他的畫作中表現得很明顯"
+          },
+          {
+            "sentence": "The award is a sign of [appreciation] for his hard work.",
+            "translation_zh_TW": "這個獎項是對他努力工作的欣賞的象徵"
+          }
+        ],
+        "synonyms": [
+          "gratitude",
+          "recognition"
+        ]
+      }
+    ],
+    "confusion": [
+      "appreciate",
+      "appreciator",
+      "appreciated",
+      "apprehension"
+    ]
+  },
+  {
+    "word": "thumb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The short, thick finger on the side of the hand.",
+        "meaning_zh_TW": "拇指",
+        "wrong_meaning_zh_TW": [
+          "食指",
+          "中指",
+          "小指"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave a [thumb] up to show her approval.",
+            "translation_zh_TW": "她豎起大拇指表示贊同。"
+          },
+          {
+            "sentence": "Use your [thumb] to press the button.",
+            "translation_zh_TW": "用你的拇指按下按鈕。"
+          },
+          {
+            "sentence": "He broke his [thumb] while playing basketball.",
+            "translation_zh_TW": "他在打籃球時摔斷了拇指。"
+          }
+        ],
+        "synonyms": [
+          "digit",
+          "finger"
+        ]
+      }
+    ],
+    "confusion": [
+      "thump",
+      "thum",
+      "thums",
+      "thumbs"
+    ]
+  },
+  {
+    "word": "mighty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Possessing great and impressive power or strength.",
+        "meaning_zh_TW": "強大的",
+        "wrong_meaning_zh_TW": [
+          "微小的",
+          "平凡的",
+          "無能的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mighty] river flowed through the valley.",
+            "translation_zh_TW": "那條強大的河流穿過山谷"
+          },
+          {
+            "sentence": "They faced a [mighty] challenge.",
+            "translation_zh_TW": "他們面對了一個強大的挑戰"
+          },
+          {
+            "sentence": "His [mighty] roar scared everyone.",
+            "translation_zh_TW": "他那強大的咆哮嚇到了所有人"
+          }
+        ],
+        "synonyms": [
+          "powerful",
+          "formidable"
+        ]
+      }
+    ],
+    "confusion": [
+      "might",
+      "mights",
+      "mightyly",
+      "mightier"
+    ]
+  },
+  {
+    "word": "twist",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To bend, curl, or otherwise change shape.",
+        "meaning_zh_TW": "扭曲",
+        "wrong_meaning_zh_TW": [
+          "拉伸",
+          "打結",
+          "擦拭"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [twist] the cap off the bottle.",
+            "translation_zh_TW": "請扭開瓶蓋"
+          },
+          {
+            "sentence": "The plot starts to [twist] unexpectedly.",
+            "translation_zh_TW": "情節出乎意料地開始扭轉"
+          },
+          {
+            "sentence": "He could [twist] his body into unusual shapes.",
+            "translation_zh_TW": "他能把身體扭成不尋常的形狀"
+          }
+        ],
+        "synonyms": [
+          "turn",
+          "curl"
+        ]
+      }
+    ],
+    "confusion": [
+      "twists",
+      "twister",
+      "twiss",
+      "twish"
+    ]
+  },
+  {
+    "word": "stomach",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The internal organ where food is digested.",
+        "meaning_zh_TW": "胃",
+        "wrong_meaning_zh_TW": [
+          "腦部",
+          "手腕",
+          "腳踝"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt a sharp pain in his [stomach] after eating.",
+            "translation_zh_TW": "吃完後，他感到肚子裡有劇痛。"
+          },
+          {
+            "sentence": "The doctor checked her [stomach] for any issues.",
+            "translation_zh_TW": "醫生檢查了她的肚子以確定有沒有問題。"
+          },
+          {
+            "sentence": "She has a strong [stomach] for spicy food.",
+            "translation_zh_TW": "她的腸胃能很好地忍受辛辣食物。"
+          }
+        ],
+        "synonyms": [
+          "belly",
+          "tummy"
+        ]
+      }
+    ],
+    "confusion": [
+      "stomachs",
+      "stomachache",
+      "stomping",
+      "smoky"
+    ]
+  },
+  {
+    "word": "marker",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An object or a sign used to mark something.",
+        "meaning_zh_TW": "標記",
+        "wrong_meaning_zh_TW": [
+          "寫字板",
+          "針",
+          "計算器"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a bright red marker to highlight the text.",
+            "translation_zh_TW": "她用鮮紅的標記筆來突出文本。"
+          },
+          {
+            "sentence": "The marker indicates the start of the race.",
+            "translation_zh_TW": "這個標記表示比賽的開始。"
+          },
+          {
+            "sentence": "He drew a circle around the marker on the map.",
+            "translation_zh_TW": "他在地圖上把標記圈了起來。"
+          }
+        ],
+        "synonyms": [
+          "pen",
+          "highlighter"
+        ]
+      }
+    ],
+    "confusion": [
+      "markers",
+      "marke",
+      "markir",
+      "market"
+    ]
+  },
+  {
+    "word": "penny",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of currency in the United States and other countries, worth one cent.",
+        "meaning_zh_TW": "一分錢。",
+        "wrong_meaning_zh_TW": [
+          "鈔票",
+          "鎊",
+          "金幣"
+        ],
+        "examples": [
+          {
+            "sentence": "I found a [penny] on the sidewalk.",
+            "translation_zh_TW": "我在步道上找到了一分錢。"
+          },
+          {
+            "sentence": "He saved every [penny] he could.",
+            "translation_zh_TW": "他儘量存下每一分錢。"
+          },
+          {
+            "sentence": "They cost less than a [penny].",
+            "translation_zh_TW": "它們的價格不到一分錢。"
+          }
+        ],
+        "synonyms": [
+          "cent",
+          "unit"
+        ]
+      }
+    ],
+    "confusion": [
+      "pennies",
+      "penney",
+      "penni",
+      "pency"
+    ]
+  },
+  {
+    "word": "jungle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An area of tropical forest where trees and plants grow very closely together.",
+        "meaning_zh_TW": "叢林",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "沙漠",
+          "草原"
+        ],
+        "examples": [
+          {
+            "sentence": "The explorers ventured deeper into the [jungle].",
+            "translation_zh_TW": "探險者深入叢林。"
+          },
+          {
+            "sentence": "Many species of animals live in the [jungle].",
+            "translation_zh_TW": "許多動物在叢林中生活。"
+          },
+          {
+            "sentence": "The [jungle] is known for its diversity.",
+            "translation_zh_TW": "叢林以其多樣性著稱。"
+          }
+        ],
+        "synonyms": [
+          "forest",
+          "wilds",
+          "bush"
+        ]
+      }
+    ],
+    "confusion": [
+      "jangle",
+      "jungle gym",
+      "juggling",
+      "jumbled"
+    ]
+  },
+  {
+    "word": "ivory",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hard white material made from the tusks and teeth of animals.",
+        "meaning_zh_TW": "象牙",
+        "wrong_meaning_zh_TW": [
+          "石頭",
+          "金屬",
+          "木材"
+        ],
+        "examples": [
+          {
+            "sentence": "The statue was carved from pure [ivory].",
+            "translation_zh_TW": "這座雕像是用純象牙雕刻的"
+          },
+          {
+            "sentence": "Artists often use [ivory] for fine detailing.",
+            "translation_zh_TW": "藝術家經常使用象牙進行精細的細節處理"
+          },
+          {
+            "sentence": "The [ivory] trade has been banned in many countries.",
+            "translation_zh_TW": "象牙貿易在許多國家已經被禁了"
+          }
+        ],
+        "synonyms": [
+          "bone",
+          "material"
+        ]
+      }
+    ],
+    "confusion": [
+      "ivy",
+      "ivysaur",
+      "ivory-tower",
+      "inverted"
+    ]
+  },
+  {
+    "word": "spice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A plant substance used to flavor food, often aromatic.",
+        "meaning_zh_TW": "香料",
+        "wrong_meaning_zh_TW": [
+          "調味品",
+          "肉類",
+          "蔬菜"
+        ],
+        "examples": [
+          {
+            "sentence": "I added a pinch of [spice] to the dish.",
+            "translation_zh_TW": "我在這道菜中加入了一撮香料。"
+          },
+          {
+            "sentence": "This [spice] is known for its heat.",
+            "translation_zh_TW": "這種香料以其辛辣而聞名。"
+          },
+          {
+            "sentence": "She loves experimenting with different [spice] mixes.",
+            "translation_zh_TW": "她喜歡嘗試不同的香料混合。"
+          }
+        ],
+        "synonyms": [
+          "seasoning",
+          "flavoring"
+        ]
+      }
+    ],
+    "confusion": [
+      "space",
+      "spicey",
+      "spicey",
+      "spicier"
+    ]
+  },
+  {
+    "word": "trash",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Items that are no longer useful or wanted; waste material.",
+        "meaning_zh_TW": "垃圾",
+        "wrong_meaning_zh_TW": [
+          "食物",
+          "資源",
+          "藝術"
+        ],
+        "examples": [
+          {
+            "sentence": "He threw the [trash] in the bin.",
+            "translation_zh_TW": "他把垃圾扔進垃圾桶。"
+          },
+          {
+            "sentence": "The street was covered in [trash] after the festival.",
+            "translation_zh_TW": "節日後街道上滿是垃圾。"
+          },
+          {
+            "sentence": "Please take out the [trash] regularly.",
+            "translation_zh_TW": "請定期把垃圾拿出去。"
+          }
+        ],
+        "synonyms": [
+          "waste",
+          "litter"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To discard or dispose of something.",
+        "meaning_zh_TW": "丟棄",
+        "wrong_meaning_zh_TW": [
+          "保留",
+          "收集",
+          "整理"
+        ],
+        "examples": [
+          {
+            "sentence": "You should [trash] that old report.",
+            "translation_zh_TW": "你應該丟掉那份舊報告。"
+          },
+          {
+            "sentence": "He [trashed] his old clothes.",
+            "translation_zh_TW": "他丟掉了舊衣服。"
+          },
+          {
+            "sentence": "Don't forget to [trash] items you no longer need.",
+            "translation_zh_TW": "不要忘記丟掉不再需要的物品。"
+          }
+        ],
+        "synonyms": [
+          "discard",
+          "dispose"
+        ]
+      }
+    ],
+    "confusion": [
+      "crash",
+      "tray",
+      "track",
+      "trick"
+    ]
+  },
+  {
+    "word": "minus",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "Used to indicate the absence of something; a negative factor.",
+        "meaning_zh_TW": "減去",
+        "wrong_meaning_zh_TW": [
+          "增加",
+          "包括",
+          "相加"
+        ],
+        "examples": [
+          {
+            "sentence": "Two [minus] one equals one.",
+            "translation_zh_TW": "二減一等於一"
+          },
+          {
+            "sentence": "You can get into the party [minus] the invitation.",
+            "translation_zh_TW": "你可以不帶邀請函進入派對"
+          },
+          {
+            "sentence": "He had a [minus] attitude towards the project.",
+            "translation_zh_TW": "他對這個計畫持有減去的態度"
+          }
+        ],
+        "synonyms": [
+          "subtract",
+          "deduct"
+        ]
+      }
+    ],
+    "confusion": [
+      "minis",
+      "minuscle",
+      "mini",
+      "mine"
+    ]
+  },
+  {
+    "word": "imagination",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to create ideas or pictures in your mind.",
+        "meaning_zh_TW": "想像力",
+        "wrong_meaning_zh_TW": [
+          "現實",
+          "知識",
+          "記憶"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [imagination] knew no bounds.",
+            "translation_zh_TW": "她的想像力無窮無盡"
+          },
+          {
+            "sentence": "Children often have a vivid [imagination].",
+            "translation_zh_TW": "孩子們通常擁有豐富的想像力"
+          },
+          {
+            "sentence": "The story sparked my [imagination].",
+            "translation_zh_TW": "這個故事激發了我的想像力"
+          }
+        ],
+        "synonyms": [
+          "creativity",
+          "vision"
+        ]
+      }
+    ],
+    "confusion": [
+      "imaginative",
+      "imaginatively",
+      "imaginings",
+      "imaginless"
+    ]
+  },
+  {
+    "word": "mess",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A situation or state that is confused or full of problems.",
+        "meaning_zh_TW": "混亂",
+        "wrong_meaning_zh_TW": [
+          "整潔",
+          "秩序",
+          "規則"
+        ],
+        "examples": [
+          {
+            "sentence": "The room was a complete [mess] after the party.",
+            "translation_zh_TW": "派對後房間變得一團糟"
+          },
+          {
+            "sentence": "He got himself into a financial [mess].",
+            "translation_zh_TW": "他陷入了經濟困境"
+          },
+          {
+            "sentence": "Don't make a [mess] out of this project.",
+            "translation_zh_TW": "不要讓這個項目變得混亂"
+          }
+        ],
+        "synonyms": [
+          "chaos",
+          "disarray"
+        ]
+      }
+    ],
+    "confusion": [
+      "mass",
+      "moss",
+      "messa",
+      "mest"
+    ]
+  },
+  {
+    "word": "assign",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To allocate a task or responsibility to someone.",
+        "meaning_zh_TW": "分配、指派",
+        "wrong_meaning_zh_TW": [
+          "拒絕、否定",
+          "學習、研究",
+          "丟棄、放棄"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher will [assign] homework to the students.",
+            "translation_zh_TW": "老師將會給學生們指派作業。"
+          },
+          {
+            "sentence": "Please [assign] someone to handle this project.",
+            "translation_zh_TW": "請指派一個人來處理這個項目。"
+          },
+          {
+            "sentence": "He was [assigned] to a new role.",
+            "translation_zh_TW": "他被指派到一個新角色。"
+          }
+        ],
+        "synonyms": [
+          "appoint",
+          "delegate"
+        ]
+      }
+    ],
+    "confusion": [
+      "sign",
+      "assin",
+      "asign",
+      "asignn"
+    ]
+  }
+]

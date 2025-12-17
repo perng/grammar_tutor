@@ -1,0 +1,782 @@
+[
+  {
+    "word": "peel",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To remove the outer covering of something, especially fruit or vegetables.",
+        "meaning_zh_TW": "剝皮",
+        "wrong_meaning_zh_TW": [
+          "圍住",
+          "清洗",
+          "調味"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [peel] the apple before eating it.",
+            "translation_zh_TW": "我在吃之前會剝掉蘋果的皮。"
+          },
+          {
+            "sentence": "Please [peel] the potatoes for the salad.",
+            "translation_zh_TW": "請把馬鈴薯剝皮，準備沙拉。"
+          },
+          {
+            "sentence": "He learned how to [peel] a banana properly.",
+            "translation_zh_TW": "他學會了如何正確地剝香蕉。"
+          }
+        ],
+        "synonyms": [
+          "strip",
+          "skin"
+        ]
+      }
+    ],
+    "confusion": [
+      "peelable",
+      "peeled",
+      "pale",
+      "peel-off"
+    ]
+  },
+  {
+    "word": "laughter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or sound of laughing.",
+        "meaning_zh_TW": "笑聲",
+        "wrong_meaning_zh_TW": [
+          "嘆息",
+          "哭聲",
+          "歡呼"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [laughter] was contagious.",
+            "translation_zh_TW": "她的笑聲令人感染。"
+          },
+          {
+            "sentence": "I can still hear his [laughter] echoing.",
+            "translation_zh_TW": "我仍然能聽到他的笑聲迴響。"
+          },
+          {
+            "sentence": "They erupted into [laughter] at the joke.",
+            "translation_zh_TW": "他們對這個笑話大笑。"
+          }
+        ],
+        "synonyms": [
+          "giggle",
+          "chuckle"
+        ]
+      }
+    ],
+    "confusion": [
+      "laughter",
+      "laught",
+      "laughter",
+      "laughting"
+    ]
+  },
+  {
+    "word": "inventor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who creates or devises a new method, idea, or product.",
+        "meaning_zh_TW": "發明家",
+        "wrong_meaning_zh_TW": [
+          "創造者",
+          "企業家",
+          "設計師"
+        ],
+        "examples": [
+          {
+            "sentence": "The [inventor] of the telephone changed communication forever.",
+            "translation_zh_TW": "電話的發明家永遠改變了通信方式。"
+          },
+          {
+            "sentence": "Many inventors work tirelessly to bring their ideas to life.",
+            "translation_zh_TW": "許多發明家不辭辛勞地將自己的創意變成現實。"
+          },
+          {
+            "sentence": "An [inventor] must be curious and persistent.",
+            "translation_zh_TW": "發明家必須保持好奇心和堅持。"
+          }
+        ],
+        "synonyms": [
+          "creator",
+          "developer"
+        ]
+      }
+    ],
+    "confusion": [
+      "invention",
+      "investor",
+      "inventing",
+      "ventor"
+    ]
+  },
+  {
+    "word": "juicy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Full of juice; succulent.",
+        "meaning_zh_TW": "多汁的",
+        "wrong_meaning_zh_TW": [
+          "乾燥的",
+          "無味的",
+          "老化的"
+        ],
+        "examples": [
+          {
+            "sentence": "She prefers [juicy] steaks cooked to perfection.",
+            "translation_zh_TW": "她喜歡完美烹煮的多汁牛排"
+          },
+          {
+            "sentence": "The fruits were ripe and [juicy].",
+            "translation_zh_TW": "這些水果成熟而多汁"
+          },
+          {
+            "sentence": "He couldn't resist the [juicy] gossip in the office.",
+            "translation_zh_TW": "他無法抗拒辦公室裡多汁的八卦"
+          }
+        ],
+        "synonyms": [
+          "succulent",
+          "tender"
+        ]
+      }
+    ],
+    "confusion": [
+      "juicier",
+      "juice",
+      "juicyfruit",
+      "jiucy"
+    ]
+  },
+  {
+    "word": "heal",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make or become healthy or whole again.",
+        "meaning_zh_TW": "治癒",
+        "wrong_meaning_zh_TW": [
+          "折磨",
+          "傷害",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "Time can help [heal] emotional wounds.",
+            "translation_zh_TW": "時間可以幫助治癒情感創傷。"
+          },
+          {
+            "sentence": "The doctor worked to [heal] the patient's injuries.",
+            "translation_zh_TW": "醫生努力治癒患者的傷。"
+          },
+          {
+            "sentence": "Meditation can help [heal] the mind.",
+            "translation_zh_TW": "冥想可以幫助治癒心靈。"
+          }
+        ],
+        "synonyms": [
+          "recover",
+          "cure"
+        ]
+      }
+    ],
+    "confusion": [
+      "heeling",
+      "healh",
+      "heald",
+      "heals"
+    ]
+  },
+  {
+    "word": "mist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A cloud of tiny water droplets suspended in the air.",
+        "meaning_zh_TW": "霧",
+        "wrong_meaning_zh_TW": [
+          "水蒸氣",
+          "薰衣草",
+          "空氣污染"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mist] covered the valley in the morning.",
+            "translation_zh_TW": "清晨的霧籠罩了山谷。"
+          },
+          {
+            "sentence": "We drove through the [mist] cautiously.",
+            "translation_zh_TW": "我們小心翼翼地駛過霧中。"
+          },
+          {
+            "sentence": "The lake was shrouded in [mist] at dawn.",
+            "translation_zh_TW": "湖泊在黎明時分被霧氣籠罩。"
+          }
+        ],
+        "synonyms": [
+          "fog",
+          "haze"
+        ]
+      }
+    ],
+    "confusion": [
+      "myst",
+      "mistro",
+      "missed",
+      "mystic"
+    ]
+  },
+  {
+    "word": "vest",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sleeveless garment worn on the upper body, usually under a coat.",
+        "meaning_zh_TW": "背心",
+        "wrong_meaning_zh_TW": [
+          "外套",
+          "襯衫",
+          "毛衣"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a formal [vest] under his suit jacket.",
+            "translation_zh_TW": "他在西裝外套下穿了一件正式的背心。"
+          },
+          {
+            "sentence": "The [vest] is a crucial part of his outfit.",
+            "translation_zh_TW": "這件背心是他服裝的重要部分。"
+          },
+          {
+            "sentence": "She prefers a cotton [vest] during the summer.",
+            "translation_zh_TW": "她在夏天喜歡穿棉質的背心。"
+          }
+        ],
+        "synonyms": [
+          "waistcoat",
+          "gilet"
+        ]
+      }
+    ],
+    "confusion": [
+      "fest",
+      "best",
+      "vests",
+      "vets"
+    ]
+  },
+  {
+    "word": "regret",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To feel sad or disappointed about something that has happened.",
+        "meaning_zh_TW": "後悔",
+        "wrong_meaning_zh_TW": [
+          "高興",
+          "期待",
+          "喜悅"
+        ],
+        "examples": [
+          {
+            "sentence": "I [regret] not studying harder in school.",
+            "translation_zh_TW": "我後悔在學校沒更努力學習"
+          },
+          {
+            "sentence": "She expressed her [regret] for missing the meeting.",
+            "translation_zh_TW": "她對錯過會議表示了後悔"
+          },
+          {
+            "sentence": "He will always [regret] that decision.",
+            "translation_zh_TW": "他將永遠後悔那個決定"
+          }
+        ],
+        "synonyms": [
+          "lament",
+          "bewail"
+        ]
+      }
+    ],
+    "confusion": [
+      "regretful",
+      "regreat",
+      "regretted",
+      "rediscount"
+    ]
+  },
+  {
+    "word": "litter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Trash or waste material, especially when spread out.",
+        "meaning_zh_TW": "垃圾",
+        "wrong_meaning_zh_TW": [
+          "雜物",
+          "花生",
+          "小床"
+        ],
+        "examples": [
+          {
+            "sentence": "The park was filled with [litter] after the festival.",
+            "translation_zh_TW": "節日之後，公園裡滿是垃圾。"
+          },
+          {
+            "sentence": "Please don't leave [litter] on the beach.",
+            "translation_zh_TW": "請不要在海灘上留下垃圾。"
+          },
+          {
+            "sentence": "Animals can mistake [litter] for food, which is dangerous.",
+            "translation_zh_TW": "動物可能會把垃圾誤認為食物，這是危險的。"
+          }
+        ],
+        "synonyms": [
+          "debris",
+          "waste"
+        ]
+      }
+    ],
+    "confusion": [
+      "letter",
+      "bitter",
+      "littered",
+      "glitter"
+    ]
+  },
+  {
+    "word": "jelly",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sweet, gelatinous substance made from fruit juice and sugar.",
+        "meaning_zh_TW": "果凍",
+        "wrong_meaning_zh_TW": [
+          "果汁",
+          "冰淇淋",
+          "糖果"
+        ],
+        "examples": [
+          {
+            "sentence": "She spread [jelly] on her toast.",
+            "translation_zh_TW": "她在吐司上塗了果凍"
+          },
+          {
+            "sentence": "The kids love peanut butter and [jelly] sandwiches.",
+            "translation_zh_TW": "孩子們喜歡花生醬和果凍三明治"
+          },
+          {
+            "sentence": "He made a dessert with [jelly] and whipped cream.",
+            "translation_zh_TW": "他用果凍和鮮奶油做了甜點"
+          }
+        ],
+        "synonyms": [
+          "gel",
+          "jam"
+        ]
+      }
+    ],
+    "confusion": [
+      "jelley",
+      "jellybean",
+      "jely",
+      "jellz"
+    ]
+  },
+  {
+    "word": "appoint",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assign a job or role to someone.",
+        "meaning_zh_TW": "任命",
+        "wrong_meaning_zh_TW": [
+          "解雇",
+          "拒絕",
+          "報告"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [appoint] a new manager.",
+            "translation_zh_TW": "他們決定任命一位新的經理"
+          },
+          {
+            "sentence": "The board will [appoint] a committee to investigate.",
+            "translation_zh_TW": "董事會將任命一個委員會進行調查"
+          },
+          {
+            "sentence": "She was [appointed] as the team's captain.",
+            "translation_zh_TW": "她被任命為團隊的隊長"
+          }
+        ],
+        "synonyms": [
+          "designate",
+          "assign"
+        ]
+      }
+    ],
+    "confusion": [
+      "appointing",
+      "point",
+      "appointee",
+      "appointment"
+    ]
+  },
+  {
+    "word": "amusement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state or experience of finding something funny or entertaining.",
+        "meaning_zh_TW": "娛樂",
+        "wrong_meaning_zh_TW": [
+          "嚴肅",
+          "無聊",
+          "困惑"
+        ],
+        "examples": [
+          {
+            "sentence": "The children's laughter was a sign of their [amusement].",
+            "translation_zh_TW": "孩子們的笑聲是他們娛樂的標誌。"
+          },
+          {
+            "sentence": "He watched the show with great [amusement].",
+            "translation_zh_TW": "他興致勃勃地觀看這個表演。"
+          },
+          {
+            "sentence": "The park offers plenty of opportunities for [amusement].",
+            "translation_zh_TW": "這個公園提供許多娛樂的機會。"
+          }
+        ],
+        "synonyms": [
+          "entertainment",
+          "diversion"
+        ]
+      }
+    ],
+    "confusion": [
+      "amusements",
+      "payment",
+      "alignment",
+      "improvement"
+    ]
+  },
+  {
+    "word": "darling",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A beloved person; a term of endearment.",
+        "meaning_zh_TW": "親愛的人",
+        "wrong_meaning_zh_TW": [
+          "對手",
+          "陌生人",
+          "敵人"
+        ],
+        "examples": [
+          {
+            "sentence": "She called him her [darling] during dinner.",
+            "translation_zh_TW": "她在晚餐時稱呼他為親愛的人"
+          },
+          {
+            "sentence": "Every mother loves her [darling] child.",
+            "translation_zh_TW": "每位母親都愛她的親愛的孩子"
+          },
+          {
+            "sentence": "He was her [darling] for many years.",
+            "translation_zh_TW": "他是她多年的親愛的人"
+          }
+        ],
+        "synonyms": [
+          "beloved",
+          "dear"
+        ]
+      }
+    ],
+    "confusion": [
+      "darlingness",
+      "darlin",
+      "darn",
+      "darkling"
+    ]
+  },
+  {
+    "word": "terrific",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Very good; excellent; awesome.",
+        "meaning_zh_TW": "極好的",
+        "wrong_meaning_zh_TW": [
+          "可怕的",
+          "不妥的",
+          "無聊的"
+        ],
+        "examples": [
+          {
+            "sentence": "The concert was simply [terrific].",
+            "translation_zh_TW": "音樂會實在是極好的"
+          },
+          {
+            "sentence": "He had a [terrific] time at the party.",
+            "translation_zh_TW": "他在派對上度過了一段極好的時光"
+          },
+          {
+            "sentence": "Her performance was [terrific] on stage.",
+            "translation_zh_TW": "她的舞台表演非常棒"
+          }
+        ],
+        "synonyms": [
+          "fantastic",
+          "wonderful"
+        ]
+      }
+    ],
+    "confusion": [
+      "terrible",
+      "terrifically",
+      "terrier",
+      "therapy"
+    ]
+  },
+  {
+    "word": "lively",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Full of life and energy.",
+        "meaning_zh_TW": "活潑的",
+        "wrong_meaning_zh_TW": [
+          "沉悶的",
+          "疲倦的",
+          "懶散的"
+        ],
+        "examples": [
+          {
+            "sentence": "The party was very [lively] with music and dancing.",
+            "translation_zh_TW": "聚會因音樂和舞蹈而非常活潑。"
+          },
+          {
+            "sentence": "She has a [lively] personality that attracts people.",
+            "translation_zh_TW": "她擁有吸引人的活潑個性。"
+          },
+          {
+            "sentence": "The [lively] discussion kept everyone engaged.",
+            "translation_zh_TW": "熱烈的討論讓每個人都參與其中。"
+          }
+        ],
+        "synonyms": [
+          "animated",
+          "vibrant"
+        ]
+      }
+    ],
+    "confusion": [
+      "livelyhood",
+      "live",
+      "levee",
+      "levy"
+    ]
+  },
+  {
+    "word": "rust",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A reddish-brown oxide coating that forms on iron or steel as a result of exposure to moisture and air.",
+        "meaning_zh_TW": "生鏽",
+        "wrong_meaning_zh_TW": [
+          "痛苦",
+          "厚度",
+          "牢固性"
+        ],
+        "examples": [
+          {
+            "sentence": "The old bike was covered in [rust].",
+            "translation_zh_TW": "那輛舊自行車滿是生鏽。"
+          },
+          {
+            "sentence": "I noticed [rust] on the metal fence.",
+            "translation_zh_TW": "我注意到金屬圍欄上有生鏽。"
+          },
+          {
+            "sentence": "To prevent [rust], keep the tools dry.",
+            "translation_zh_TW": "為了防止生鏽，保持工具乾燥。"
+          }
+        ],
+        "synonyms": [
+          "corrosion",
+          "oxidation"
+        ]
+      }
+    ],
+    "confusion": [
+      "rusty",
+      "rige",
+      "dust",
+      "ruse"
+    ]
+  },
+  {
+    "word": "fade",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To gradually grow faint and disappear.",
+        "meaning_zh_TW": "消退",
+        "wrong_meaning_zh_TW": [
+          "聚集",
+          "增強",
+          "持續"
+        ],
+        "examples": [
+          {
+            "sentence": "The colors began to [fade] with time.",
+            "translation_zh_TW": "顏色隨著時間的推移開始消退"
+          },
+          {
+            "sentence": "The sound began to [fade] into silence.",
+            "translation_zh_TW": "聲音開始消退成為寂靜"
+          },
+          {
+            "sentence": "Feelings of sadness might [fade] away with support.",
+            "translation_zh_TW": "悲傷的感覺可能會隨著支持而消退"
+          }
+        ],
+        "synonyms": [
+          "diminish",
+          "dwindle"
+        ]
+      }
+    ],
+    "confusion": [
+      "fadeout",
+      "faded",
+      "fader",
+      "fadeaway"
+    ]
+  },
+  {
+    "word": "mob",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large and disorderly crowd of people.",
+        "meaning_zh_TW": "群眾",
+        "wrong_meaning_zh_TW": [
+          "個人",
+          "領袖",
+          "警察"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mob] gathered in the streets to protest.",
+            "translation_zh_TW": "群眾在街上集會抗議。"
+          },
+          {
+            "sentence": "A [mob] of fans rushed to the stage.",
+            "translation_zh_TW": "一群粉絲衝向舞台。"
+          },
+          {
+            "sentence": "The police had to disperse the [mob].",
+            "translation_zh_TW": "警察必須驅散群眾。"
+          }
+        ],
+        "synonyms": [
+          "crowd",
+          "horde"
+        ]
+      }
+    ],
+    "confusion": [
+      "bob",
+      "mop",
+      "mobbed",
+      "moby"
+    ]
+  },
+  {
+    "word": "monk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A member of a religious community of men typically living under vows of poverty, chastity, and obedience.",
+        "meaning_zh_TW": "僧侶",
+        "wrong_meaning_zh_TW": [
+          "施主",
+          "和尚的法器",
+          "道士"
+        ],
+        "examples": [
+          {
+            "sentence": "The [monk] prayed silently in the temple.",
+            "translation_zh_TW": "僧侶在寺廟中靜靜地禱告。"
+          },
+          {
+            "sentence": "He decided to become a [monk] after a life-changing experience.",
+            "translation_zh_TW": "經歷了一次改變人生的經歷後，他決定成為僧侶。"
+          },
+          {
+            "sentence": "The [monk] taught the disciples about meditation.",
+            "translation_zh_TW": "僧侶教導弟子們冥想。"
+          }
+        ],
+        "synonyms": [
+          "friar",
+          "clergyman"
+        ]
+      }
+    ],
+    "confusion": [
+      "monkey",
+      "mink",
+      "mark",
+      "mount"
+    ]
+  },
+  {
+    "word": "weigh",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To measure the weight of something.",
+        "meaning_zh_TW": "測量重量",
+        "wrong_meaning_zh_TW": [
+          "增加強度",
+          "改變形狀",
+          "提升價值"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to [weigh] the ingredients before baking.",
+            "translation_zh_TW": "確保在烘焙前稱量配料。"
+          },
+          {
+            "sentence": "They [weigh] the luggage at the airport.",
+            "translation_zh_TW": "他們在機場稱量行李。"
+          },
+          {
+            "sentence": "He had to [weigh] his options carefully.",
+            "translation_zh_TW": "他必須仔細考量他的選擇。"
+          }
+        ],
+        "synonyms": [
+          "measure",
+          "evaluate"
+        ]
+      }
+    ],
+    "confusion": [
+      "way",
+      "weir",
+      "ware",
+      "whey"
+    ]
+  }
+]

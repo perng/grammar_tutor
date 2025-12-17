@@ -1,0 +1,786 @@
+[
+  {
+    "word": "symphony",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A lengthy musical composition for orchestra.",
+        "meaning_zh_TW": "交響曲",
+        "wrong_meaning_zh_TW": [
+          "交響樂隊",
+          "音樂會",
+          "旋律"
+        ],
+        "examples": [
+          {
+            "sentence": "The new [symphony] was well received by the audience.",
+            "translation_zh_TW": "這部新交響曲受到觀眾的好評。"
+          },
+          {
+            "sentence": "Beethoven composed many famous [symphonies].",
+            "translation_zh_TW": "貝多芬創作了許多著名的交響曲。"
+          },
+          {
+            "sentence": "They attended a [symphony] performance last night.",
+            "translation_zh_TW": "他們昨晚參加了一場交響樂演出。"
+          }
+        ],
+        "synonyms": [
+          "orchestral work",
+          "musical masterpiece"
+        ]
+      }
+    ],
+    "confusion": [
+      "symphonic",
+      "symphonist",
+      "symphonize",
+      "simphony"
+    ]
+  },
+  {
+    "word": "approximate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Close to the actual, but not completely accurate or exact.",
+        "meaning_zh_TW": "大約的",
+        "wrong_meaning_zh_TW": [
+          "精確的",
+          "確切的",
+          "明確的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [approximate] cost is around fifty dollars.",
+            "translation_zh_TW": "大約的費用是五十美元。"
+          },
+          {
+            "sentence": "She gave an [approximate] time for completion.",
+            "translation_zh_TW": "她提供了一個大致的完成時間。"
+          },
+          {
+            "sentence": "We need an [approximate] number of participants.",
+            "translation_zh_TW": "我們需要一個參與者的估算數量。"
+          }
+        ],
+        "synonyms": [
+          "rough",
+          "near"
+        ]
+      }
+    ],
+    "confusion": [
+      "approximately",
+      "approximation",
+      "appropriately",
+      "aproximate"
+    ]
+  },
+  {
+    "word": "livestock",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Farm animals raised for commercial purposes.",
+        "meaning_zh_TW": "家畜",
+        "wrong_meaning_zh_TW": [
+          "野生動物",
+          "寵物",
+          "植物"
+        ],
+        "examples": [
+          {
+            "sentence": "The farm has a large number of [livestock] including cows and sheep.",
+            "translation_zh_TW": "這個農場有大量的家畜，包括牛和羊。"
+          },
+          {
+            "sentence": "Raising [livestock] can be a profitable business.",
+            "translation_zh_TW": "養殖家畜可以是一項盈利的業務。"
+          },
+          {
+            "sentence": "Veterinarians often specialize in [livestock] health.",
+            "translation_zh_TW": "獸醫通常專注於家畜的健康。"
+          }
+        ],
+        "synonyms": [
+          "cattle",
+          "farm animals"
+        ]
+      }
+    ],
+    "confusion": [
+      "livelihood",
+      "lively",
+      "livery",
+      "live stock"
+    ]
+  },
+  {
+    "word": "tenant",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who occupies land or property rented from a landlord.",
+        "meaning_zh_TW": "租戶",
+        "wrong_meaning_zh_TW": [
+          "小屋",
+          "地主",
+          "守護者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [tenant] signed a lease for the apartment.",
+            "translation_zh_TW": "租戶簽署了公寓的租約"
+          },
+          {
+            "sentence": "Each [tenant] has the right to privacy.",
+            "translation_zh_TW": "每位租戶都有隱私權"
+          },
+          {
+            "sentence": "The landlord had to solve the dispute between [tenants].",
+            "translation_zh_TW": "房東必須解決租戶之間的爭議"
+          }
+        ],
+        "synonyms": [
+          "renter",
+          "lessee"
+        ]
+      }
+    ],
+    "confusion": [
+      "tenants",
+      "tennet",
+      "tentant",
+      "tenent"
+    ]
+  },
+  {
+    "word": "algebra",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A branch of mathematics dealing with symbols and the rules for manipulating those symbols.",
+        "meaning_zh_TW": "代數",
+        "wrong_meaning_zh_TW": [
+          "幾何",
+          "數論",
+          "統計學"
+        ],
+        "examples": [
+          {
+            "sentence": "He studied [algebra] in high school.",
+            "translation_zh_TW": "他在高中學習代數"
+          },
+          {
+            "sentence": "Solving equations is a fundamental part of [algebra].",
+            "translation_zh_TW": "解方程式是代數的基本部分"
+          },
+          {
+            "sentence": "She finds [algebra] challenging but exciting.",
+            "translation_zh_TW": "她覺得代數既具挑戰性又令人興奮"
+          }
+        ],
+        "synonyms": [
+          "mathematics",
+          "calculation"
+        ]
+      }
+    ],
+    "confusion": [
+      "alogbra",
+      "algebr",
+      "aalgebra",
+      "aljebra"
+    ]
+  },
+  {
+    "word": "meditation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The practice of focusing the mind to achieve a state of calm or heightened awareness.",
+        "meaning_zh_TW": "冥想",
+        "wrong_meaning_zh_TW": [
+          "數學",
+          "音樂會",
+          "旅行"
+        ],
+        "examples": [
+          {
+            "sentence": "She finds peace in [meditation] every morning.",
+            "translation_zh_TW": "她每天早上在冥想中找到平靜。"
+          },
+          {
+            "sentence": "Meditation helps reduce stress and anxiety in her life.",
+            "translation_zh_TW": "冥想幫助她減少生活中的壓力和焦慮。"
+          },
+          {
+            "sentence": "Many people engage in [meditation] for mental clarity.",
+            "translation_zh_TW": "許多人進行冥想以獲得心智清晰。"
+          }
+        ],
+        "synonyms": [
+          "reflection",
+          "contemplation"
+        ]
+      }
+    ],
+    "confusion": [
+      "medicate",
+      "modification",
+      "mediation",
+      "media"
+    ]
+  },
+  {
+    "word": "acre",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of area equal to 43,560 square feet.",
+        "meaning_zh_TW": "英畝",
+        "wrong_meaning_zh_TW": [
+          "平方公里",
+          "公頃",
+          "碼"
+        ],
+        "examples": [
+          {
+            "sentence": "The farm covers over 100 acres of land.",
+            "translation_zh_TW": "這個農場覆蓋超過100英畝的土地。"
+          },
+          {
+            "sentence": "They bought an acre to build their dream home.",
+            "translation_zh_TW": "他們購買了一英畝土地來建造夢想之家。"
+          },
+          {
+            "sentence": "An acre of land can support a small garden.",
+            "translation_zh_TW": "一英畝的土地可以支持一個小花園。"
+          }
+        ],
+        "synonyms": [
+          "plot",
+          "tract",
+          "land"
+        ]
+      }
+    ],
+    "confusion": [
+      "acre",
+      "acreage",
+      "acrid",
+      "acres"
+    ]
+  },
+  {
+    "word": "reef",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea.",
+        "meaning_zh_TW": "暗礁",
+        "wrong_meaning_zh_TW": [
+          "海灘",
+          "島嶼",
+          "湖泊"
+        ],
+        "examples": [
+          {
+            "sentence": "The boat was damaged when it hit the [reef].",
+            "translation_zh_TW": "船在撞上暗礁時受損。"
+          },
+          {
+            "sentence": "Coral [reefs] are home to many marine species.",
+            "translation_zh_TW": "珊瑚暗礁是許多海洋物種的家。"
+          },
+          {
+            "sentence": "Divers love exploring the [reefs].",
+            "translation_zh_TW": "潛水者喜歡探索暗礁。"
+          }
+        ],
+        "synonyms": [
+          "rock",
+          "bar"
+        ]
+      }
+    ],
+    "confusion": [
+      "reefing",
+      "reaf",
+      "ref",
+      "reaph"
+    ]
+  },
+  {
+    "word": "peninsula",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A land area surrounded by water on three sides.",
+        "meaning_zh_TW": "半島",
+        "wrong_meaning_zh_TW": [
+          "島嶼",
+          "湖泊",
+          "河流"
+        ],
+        "examples": [
+          {
+            "sentence": "The [peninsula] offers beautiful views of the ocean.",
+            "translation_zh_TW": "這個半島提供壯麗的海洋景色。"
+          },
+          {
+            "sentence": "Tourists flock to the [peninsula] every summer.",
+            "translation_zh_TW": "每年夏天，遊客們都蜂擁而至這個半島。"
+          },
+          {
+            "sentence": "The [peninsula] is known for its rich history.",
+            "translation_zh_TW": "這個半島以其豐富的歷史而聞名。"
+          }
+        ],
+        "synonyms": [
+          "cape",
+          "promontory"
+        ]
+      }
+    ],
+    "confusion": [
+      "peninsular",
+      "peninsulas",
+      "pencil",
+      "pension"
+    ]
+  },
+  {
+    "word": "qualification",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A condition or quality required for something.",
+        "meaning_zh_TW": "資格",
+        "wrong_meaning_zh_TW": [
+          "隨意",
+          "不合格",
+          "自然"
+        ],
+        "examples": [
+          {
+            "sentence": "She has all the necessary [qualifications] for the job.",
+            "translation_zh_TW": "她擁有這份工作的所有必要資格。"
+          },
+          {
+            "sentence": "They must meet specific [qualifications] to enroll.",
+            "translation_zh_TW": "他們必須滿足特定的資格才能註冊。"
+          },
+          {
+            "sentence": "His educational [qualifications] are impressive.",
+            "translation_zh_TW": "他的教育資格令人印象深刻。"
+          }
+        ],
+        "synonyms": [
+          "credentials",
+          "eligibility"
+        ]
+      }
+    ],
+    "confusion": [
+      "qualitative",
+      "qualified",
+      "qualifying",
+      "qualifiers"
+    ]
+  },
+  {
+    "word": "textile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of cloth or woven fabric.",
+        "meaning_zh_TW": "纖維",
+        "wrong_meaning_zh_TW": [
+          "漢堡",
+          "飲料",
+          "樓梯"
+        ],
+        "examples": [
+          {
+            "sentence": "The factory produces various types of [textile].",
+            "translation_zh_TW": "這家工廠生產各種類型的纖維。"
+          },
+          {
+            "sentence": "He studies the properties of different [textiles].",
+            "translation_zh_TW": "他研究不同纖維的特性。"
+          },
+          {
+            "sentence": "This [textile] is made from organic materials.",
+            "translation_zh_TW": "這種纖維是由有機材料製成的。"
+          }
+        ],
+        "synonyms": [
+          "fabric",
+          "cloth"
+        ]
+      }
+    ],
+    "confusion": [
+      "textile",
+      "textual",
+      "texture",
+      "text"
+    ]
+  },
+  {
+    "word": "conspiracy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A secret plan by a group to do something unlawful or harmful.",
+        "meaning_zh_TW": "陰謀",
+        "wrong_meaning_zh_TW": [
+          "和諧",
+          "合作",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "They uncovered a [conspiracy] to manipulate the election.",
+            "translation_zh_TW": "他們揭露了一個操縱選舉的陰謀。"
+          },
+          {
+            "sentence": "The film is about a [conspiracy] to take over the government.",
+            "translation_zh_TW": "這部電影講述的是一個要奪取政府的陰謀。"
+          },
+          {
+            "sentence": "Conspiracy theories can often be harmful.",
+            "translation_zh_TW": "陰謀論往往可能是有害的。"
+          }
+        ],
+        "synonyms": [
+          "plot",
+          "scheme",
+          "cabala"
+        ]
+      }
+    ],
+    "confusion": [
+      "conspirator",
+      "conspiratorial",
+      "conspiration",
+      "conserve"
+    ]
+  },
+  {
+    "word": "surname",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The name shared in common by members of a family.",
+        "meaning_zh_TW": "姓氏",
+        "wrong_meaning_zh_TW": [
+          "名字",
+          "暱稱",
+          "標題"
+        ],
+        "examples": [
+          {
+            "sentence": "What is your family [surname]?",
+            "translation_zh_TW": "你的姓氏是什麼？"
+          },
+          {
+            "sentence": "Many cultures place the [surname] first.",
+            "translation_zh_TW": "許多文化將姓氏放在前面。"
+          },
+          {
+            "sentence": "My [surname] is often mispronounced.",
+            "translation_zh_TW": "我的姓氏經常被誤讀。"
+          }
+        ],
+        "synonyms": [
+          "family name",
+          "last name"
+        ]
+      }
+    ],
+    "confusion": [
+      "name",
+      "sudden",
+      "surface",
+      "surnames"
+    ]
+  },
+  {
+    "word": "organizer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that organizes something.",
+        "meaning_zh_TW": "組織者",
+        "wrong_meaning_zh_TW": [
+          "混亂者",
+          "觀眾",
+          "參與者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [organizer] ensured that the event ran smoothly.",
+            "translation_zh_TW": "組織者確保活動能順利進行。"
+          },
+          {
+            "sentence": "She was the main [organizer] of the charity fund-raiser.",
+            "translation_zh_TW": "她是該慈善活動的主要組織者。"
+          },
+          {
+            "sentence": "A good [organizer] can make all the difference in an event.",
+            "translation_zh_TW": "一個好的組織者可以為活動帶來巨大影響。"
+          }
+        ],
+        "synonyms": [
+          "coordinator",
+          "planner"
+        ]
+      }
+    ],
+    "confusion": [
+      "organize",
+      "organ",
+      "origin",
+      "organizer's"
+    ]
+  },
+  {
+    "word": "cumulative",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Increasing or increased in quantity, degree, or force by successive additions.",
+        "meaning_zh_TW": "累積的",
+        "wrong_meaning_zh_TW": [
+          "單一的",
+          "分離的",
+          "瞬時的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [cumulative] effect of his actions was significant.",
+            "translation_zh_TW": "他行動的累積效果是顯著的。"
+          },
+          {
+            "sentence": "Cumulative results are essential for the study.",
+            "translation_zh_TW": "累積結果對研究至關重要。"
+          },
+          {
+            "sentence": "She tracked her [cumulative] progress over the year.",
+            "translation_zh_TW": "她跟蹤了她一年的累積進展。"
+          }
+        ],
+        "synonyms": [
+          "aggregated",
+          "total"
+        ]
+      }
+    ],
+    "confusion": [
+      "cummulative",
+      "cumalative",
+      "cummulate",
+      "cumulativee"
+    ]
+  },
+  {
+    "word": "retrieve",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To get back or regain something.",
+        "meaning_zh_TW": "取回",
+        "wrong_meaning_zh_TW": [
+          "丟失",
+          "隱藏",
+          "分享"
+        ],
+        "examples": [
+          {
+            "sentence": "He managed to [retrieve] his lost wallet.",
+            "translation_zh_TW": "他成功地取回了丟失的錢包。"
+          },
+          {
+            "sentence": "Dogs are trained to [retrieve] objects.",
+            "translation_zh_TW": "狗被訓練去取回物品。"
+          },
+          {
+            "sentence": "Can you [retrieve] the files from the server?",
+            "translation_zh_TW": "你能從伺服器中取回文件嗎？"
+          }
+        ],
+        "synonyms": [
+          "recover",
+          "fetch",
+          "regain"
+        ]
+      }
+    ],
+    "confusion": [
+      "revive",
+      "rewrite",
+      "reactive",
+      "retreat"
+    ]
+  },
+  {
+    "word": "hierarchy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system in which members of an organization or society are ranked according to relative status or authority.",
+        "meaning_zh_TW": "階層",
+        "wrong_meaning_zh_TW": [
+          "混亂",
+          "平等待遇",
+          "隨意性"
+        ],
+        "examples": [
+          {
+            "sentence": "The corporate [hierarchy] dictates decision-making.",
+            "translation_zh_TW": "公司的階層決定了決策"
+          },
+          {
+            "sentence": "Understanding the [hierarchy] can help navigate the workplace.",
+            "translation_zh_TW": "了解階層可以幫助在職場中導航"
+          },
+          {
+            "sentence": "Social [hierarchy] often affects individual opportunities.",
+            "translation_zh_TW": "社會階層往往影響個人機會"
+          }
+        ],
+        "synonyms": [
+          "ranking",
+          "order"
+        ]
+      }
+    ],
+    "confusion": [
+      "hierarchical",
+      "hierarchs",
+      "hierarchic",
+      "hierotaxy"
+    ]
+  },
+  {
+    "word": "complement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Something that completes or goes well with something.",
+        "meaning_zh_TW": "補充物",
+        "wrong_meaning_zh_TW": [
+          "對抗物",
+          "錯誤",
+          "缺陷"
+        ],
+        "examples": [
+          {
+            "sentence": "Her dress was the perfect [complement] to her shoes.",
+            "translation_zh_TW": "她的裙子是和鞋子完美的補充物"
+          },
+          {
+            "sentence": "The wine served as a [complement] to the meal.",
+            "translation_zh_TW": "這酒成為了餐點的補充物"
+          },
+          {
+            "sentence": "Their personalities are a great [complement] to each other.",
+            "translation_zh_TW": "他們的個性互補得很好"
+          }
+        ],
+        "synonyms": [
+          "addition",
+          "enhancement",
+          "supplement"
+        ]
+      }
+    ],
+    "confusion": [
+      "complete",
+      "complication",
+      "complementary",
+      "compliment"
+    ]
+  },
+  {
+    "word": "scenic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Providing or relating to views of impressive or beautiful natural scenery.",
+        "meaning_zh_TW": "風景如畫的",
+        "wrong_meaning_zh_TW": [
+          "擁擠的",
+          "嘈雜的",
+          "孤獨的"
+        ],
+        "examples": [
+          {
+            "sentence": "We took a [scenic] drive along the coast.",
+            "translation_zh_TW": "我們沿著海岸進行了一次風景如畫的駕駛"
+          },
+          {
+            "sentence": "This park offers many [scenic] viewpoints.",
+            "translation_zh_TW": "這個公園提供許多風景如畫的觀景點"
+          },
+          {
+            "sentence": "The mountains provide a [scenic] backdrop.",
+            "translation_zh_TW": "這些山脈提供了風景如畫的背景"
+          }
+        ],
+        "synonyms": [
+          "picturesque",
+          "beautiful"
+        ]
+      }
+    ],
+    "confusion": [
+      "scenec",
+      "scenik",
+      "sceneic",
+      "scenik"
+    ]
+  },
+  {
+    "word": "intersection",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The point or line where two things meet or cross.",
+        "meaning_zh_TW": "交叉口",
+        "wrong_meaning_zh_TW": [
+          "分支",
+          "合作",
+          "交匯"
+        ],
+        "examples": [
+          {
+            "sentence": "We met at the busy [intersection] downtown.",
+            "translation_zh_TW": "我們在市中心繁忙的交叉口見面。"
+          },
+          {
+            "sentence": "The [intersection] of the roads was marked by a traffic sign.",
+            "translation_zh_TW": "道路的交叉口有一個交通標誌。"
+          },
+          {
+            "sentence": "At the [intersection], the cars stopped for pedestrians.",
+            "translation_zh_TW": "在交叉口，汽車為行人停下。"
+          }
+        ],
+        "synonyms": [
+          "crossroads",
+          "junction"
+        ]
+      }
+    ],
+    "confusion": [
+      "intersections",
+      "intersect",
+      "intersecting",
+      "interseco"
+    ]
+  }
+]

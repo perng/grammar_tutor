@@ -1,0 +1,784 @@
+[
+  {
+    "word": "drum",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A percussion instrument typically consisting of a circular frame covered with a membrane, producing sound when struck.",
+        "meaning_zh_TW": "鼓",
+        "wrong_meaning_zh_TW": [
+          "凳子",
+          "音響",
+          "配件"
+        ],
+        "examples": [
+          {
+            "sentence": "He played the [drum] at the concert.",
+            "translation_zh_TW": "他在音樂會上打了鼓。"
+          },
+          {
+            "sentence": "The [drum] echoed through the valley.",
+            "translation_zh_TW": "鼓聲在山谷中回蕩。"
+          },
+          {
+            "sentence": "She loves the sound of the [drum] in the marching band.",
+            "translation_zh_TW": "她喜歡樂隊中鼓的聲音。"
+          }
+        ],
+        "synonyms": [
+          "percussion",
+          "batter",
+          "timpani"
+        ]
+      }
+    ],
+    "confusion": [
+      "dumb",
+      "drama",
+      "dream",
+      "drunk"
+    ]
+  },
+  {
+    "word": "glasses",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Optical instruments consisting of a frame holding lenses for correcting or protecting the eyes.",
+        "meaning_zh_TW": "眼鏡",
+        "wrong_meaning_zh_TW": [
+          "鏡子",
+          "望遠鏡",
+          "顯微鏡"
+        ],
+        "examples": [
+          {
+            "sentence": "He wears [glasses] to see better.",
+            "translation_zh_TW": "他戴眼鏡來看得更清楚"
+          },
+          {
+            "sentence": "She bought new [glasses] last week.",
+            "translation_zh_TW": "她上週買了新眼鏡"
+          },
+          {
+            "sentence": "Remember to clean your [glasses] regularly.",
+            "translation_zh_TW": "記得定期清潔你的眼鏡"
+          }
+        ],
+        "synonyms": [
+          "spectacles",
+          "lenses"
+        ]
+      }
+    ],
+    "confusion": [
+      "glass",
+      "glares",
+      "glasseses",
+      "clasess"
+    ]
+  },
+  {
+    "word": "lovely",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Delightful; charming; lovely.",
+        "meaning_zh_TW": "可愛的",
+        "wrong_meaning_zh_TW": [
+          "丑陋的",
+          "沉悶的",
+          "無聊的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [lovely] dress to the party.",
+            "translation_zh_TW": "她穿了一條可愛的裙子去派對。"
+          },
+          {
+            "sentence": "The garden is filled with [lovely] flowers.",
+            "translation_zh_TW": "花園裡滿是可愛的花朵。"
+          },
+          {
+            "sentence": "It was a [lovely] day to go for a walk.",
+            "translation_zh_TW": "這是個適合散步的可愛日子。"
+          }
+        ],
+        "synonyms": [
+          "beautiful",
+          "charming",
+          "attractive"
+        ]
+      }
+    ],
+    "confusion": [
+      "lovel",
+      "love",
+      "lovelyness",
+      "lovery"
+    ]
+  },
+  {
+    "word": "smile",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To form one's features into a pleased expression, typically by curving the lips upward.",
+        "meaning_zh_TW": "微笑",
+        "wrong_meaning_zh_TW": [
+          "哭泣",
+          "皺眉",
+          "瞪眼"
+        ],
+        "examples": [
+          {
+            "sentence": "She couldn’t help but [smile] when she saw the puppy.",
+            "translation_zh_TW": "她看到小狗時忍不住微笑。"
+          },
+          {
+            "sentence": "He [smile] at her to show he was friendly.",
+            "translation_zh_TW": "他對她微笑以示友好。"
+          },
+          {
+            "sentence": "A [smile] can brighten up someone’s day.",
+            "translation_zh_TW": "一個微笑可以讓某人的一天變得光明。"
+          }
+        ],
+        "synonyms": [
+          "grin",
+          "beam"
+        ]
+      }
+    ],
+    "confusion": [
+      "smilely",
+      "smil",
+      "smells",
+      "smilee"
+    ]
+  },
+  {
+    "word": "tiger",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large cat species native to Asia, known for its distinctive orange coat with black stripes.",
+        "meaning_zh_TW": "老虎",
+        "wrong_meaning_zh_TW": [
+          "松鼠",
+          "豹",
+          "獅子"
+        ],
+        "examples": [
+          {
+            "sentence": "The [tiger] is an apex predator.",
+            "translation_zh_TW": "老虎是一種頂級捕食者。"
+          },
+          {
+            "sentence": "We visited the sanctuary to see a [tiger].",
+            "translation_zh_TW": "我們參觀了庇護所，看到了老虎。"
+          },
+          {
+            "sentence": "The [tiger] is a symbol of strength and courage.",
+            "translation_zh_TW": "老虎是力量和勇氣的象徵。"
+          }
+        ],
+        "synonyms": [
+          "feline",
+          "big cat"
+        ]
+      }
+    ],
+    "confusion": [
+      "tigger",
+      "tigeress",
+      "tigress",
+      "tyger"
+    ]
+  },
+  {
+    "word": "finger",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "One of the five digits on the hand.",
+        "meaning_zh_TW": "手指",
+        "wrong_meaning_zh_TW": [
+          "手掌",
+          "指甲",
+          "手腕"
+        ],
+        "examples": [
+          {
+            "sentence": "He pointed with his index [finger].",
+            "translation_zh_TW": "他用食指指著。"
+          },
+          {
+            "sentence": "She injured her [finger] while cooking.",
+            "translation_zh_TW": "她在做飯時傷到了手指。"
+          },
+          {
+            "sentence": "You should wash your [fingers] before eating.",
+            "translation_zh_TW": "你在吃飯前應該洗手指。"
+          }
+        ],
+        "synonyms": [
+          "digit",
+          "appendage"
+        ]
+      }
+    ],
+    "confusion": [
+      "figurer",
+      "finisher",
+      "fingerprint",
+      "fingernail"
+    ]
+  },
+  {
+    "word": "bread",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A staple food made from flour and water, usually by baking.",
+        "meaning_zh_TW": "麵包",
+        "wrong_meaning_zh_TW": [
+          "水果",
+          "餅乾",
+          "米飯"
+        ],
+        "examples": [
+          {
+            "sentence": "I bought a loaf of [bread] at the store.",
+            "translation_zh_TW": "我在商店買了一條麵包。"
+          },
+          {
+            "sentence": "They served [bread] with the soup.",
+            "translation_zh_TW": "他們搭配湯一起上了麵包。"
+          },
+          {
+            "sentence": "Freshly baked [bread] smells amazing.",
+            "translation_zh_TW": "剛烤好的麵包聞起來很好。"
+          }
+        ],
+        "synonyms": [
+          "loaf",
+          "roll"
+        ]
+      }
+    ],
+    "confusion": [
+      "broad",
+      "shed",
+      "bed",
+      "breads"
+    ]
+  },
+  {
+    "word": "lie",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be in a horizontal position on a surface.",
+        "meaning_zh_TW": "躺",
+        "wrong_meaning_zh_TW": [
+          "坐",
+          "站",
+          "彎曲"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [lie] down for a while.",
+            "translation_zh_TW": "他決定躺下休息一會兒。"
+          },
+          {
+            "sentence": "She likes to [lie] under the stars at night.",
+            "translation_zh_TW": "她喜歡在夜晚躺在星空下。"
+          },
+          {
+            "sentence": "The cat likes to [lie] on the warm window sill.",
+            "translation_zh_TW": "那隻貓喜歡躺在溫暖的窗台上。"
+          }
+        ],
+        "synonyms": [
+          "recline",
+          "rest"
+        ]
+      }
+    ],
+    "confusion": [
+      "lie",
+      "lye",
+      "lye",
+      "live"
+    ]
+  },
+  {
+    "word": "shorts",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of clothing that is worn on the lower body, typically above the knee.",
+        "meaning_zh_TW": "短褲",
+        "wrong_meaning_zh_TW": [
+          "裙子",
+          "襪子",
+          "褲子"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore [shorts] during the hot summer day.",
+            "translation_zh_TW": "他在炎熱的夏天穿短褲"
+          },
+          {
+            "sentence": "The athlete prefers to train in [shorts].",
+            "translation_zh_TW": "運動員喜歡穿短褲訓練"
+          },
+          {
+            "sentence": "She bought a pair of denim [shorts].",
+            "translation_zh_TW": "她買了一條牛仔短褲"
+          }
+        ],
+        "synonyms": [
+          "trousers",
+          "pants"
+        ]
+      }
+    ],
+    "confusion": [
+      "short",
+      "shirts",
+      "shots",
+      "sorts"
+    ]
+  },
+  {
+    "word": "sight",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to see; the visual perception.",
+        "meaning_zh_TW": "視力",
+        "wrong_meaning_zh_TW": [
+          "失明",
+          "模糊",
+          "耳聞"
+        ],
+        "examples": [
+          {
+            "sentence": "She has excellent [sight] and can see far away.",
+            "translation_zh_TW": "她的視力非常好，可以看得很遠。"
+          },
+          {
+            "sentence": "The beautiful [sight] of the sunset took her breath away.",
+            "translation_zh_TW": "日落的美景讓她驚嘆不已。"
+          },
+          {
+            "sentence": "He needs glasses for better [sight].",
+            "translation_zh_TW": "他需要眼鏡來改善視力。"
+          }
+        ],
+        "synonyms": [
+          "vision",
+          "sightseeing"
+        ]
+      }
+    ],
+    "confusion": [
+      "site",
+      "sights",
+      "sighty",
+      "sightful"
+    ]
+  },
+  {
+    "word": "sad",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or showing sorrow; unhappy.",
+        "meaning_zh_TW": "悲傷的",
+        "wrong_meaning_zh_TW": [
+          "快樂的",
+          "興奮的",
+          "平靜的"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt [sad] after the movie ended.",
+            "translation_zh_TW": "電影結束後他感到悲傷"
+          },
+          {
+            "sentence": "The [sad] song made her cry.",
+            "translation_zh_TW": "這首悲傷的歌讓她哭了"
+          },
+          {
+            "sentence": "It's [sad] to say goodbye to friends.",
+            "translation_zh_TW": "和朋友告別是悲傷的"
+          }
+        ],
+        "synonyms": [
+          "unhappy",
+          "sorrowful"
+        ]
+      }
+    ],
+    "confusion": [
+      "sod",
+      "sadly",
+      "sard",
+      "sade"
+    ]
+  },
+  {
+    "word": "kick",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To strike or touch with the foot.",
+        "meaning_zh_TW": "踢",
+        "wrong_meaning_zh_TW": [
+          "握住",
+          "拉動",
+          "推動"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [kick] the ball.",
+            "translation_zh_TW": "他決定去[踢]球。"
+          },
+          {
+            "sentence": "She [kicked] the door open.",
+            "translation_zh_TW": "她[踢]開了門。"
+          },
+          {
+            "sentence": "They will [kick] off the event at noon.",
+            "translation_zh_TW": "他們將在中午[踢]開始這個活動。"
+          }
+        ],
+        "synonyms": [
+          "strike",
+          "boot"
+        ]
+      }
+    ],
+    "confusion": [
+      "kickoff",
+      "kicked",
+      "tick",
+      "kickback"
+    ]
+  },
+  {
+    "word": "meal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Any of the regular occasions in a day when a reasonably large amount of food is consumed.",
+        "meaning_zh_TW": "餐",
+        "wrong_meaning_zh_TW": [
+          "零食",
+          "糖果",
+          "食物"
+        ],
+        "examples": [
+          {
+            "sentence": "She prepared a delicious [meal] for her family.",
+            "translation_zh_TW": "她為家人準備了一頓美味的餐"
+          },
+          {
+            "sentence": "They enjoyed a hearty [meal] together.",
+            "translation_zh_TW": "他們一起享用了一頓豐盛的餐"
+          },
+          {
+            "sentence": "A balanced [meal] includes protein, vegetables, and grains.",
+            "translation_zh_TW": "均衡的餐包含蛋白質、蔬菜和穀物"
+          }
+        ],
+        "synonyms": [
+          "dinner",
+          "supper"
+        ]
+      }
+    ],
+    "confusion": [
+      "seal",
+      "mealie",
+      "meals",
+      "nealm"
+    ]
+  },
+  {
+    "word": "hurt",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause pain or injury to someone.",
+        "meaning_zh_TW": "使受傷",
+        "wrong_meaning_zh_TW": [
+          "修好",
+          "幫助",
+          "拍打"
+        ],
+        "examples": [
+          {
+            "sentence": "Be careful not to [hurt] yourself!",
+            "translation_zh_TW": "小心不要傷到自己！"
+          },
+          {
+            "sentence": "She didn’t mean to [hurt] his feelings.",
+            "translation_zh_TW": "她並不想傷害他的感情"
+          },
+          {
+            "sentence": "He [hurt] his ankle during the game.",
+            "translation_zh_TW": "他在比賽中扭傷了腳踝"
+          }
+        ],
+        "synonyms": [
+          "injure",
+          "wound"
+        ]
+      }
+    ],
+    "confusion": [
+      "hurtz",
+      "hurted",
+      "hert",
+      "huret"
+    ]
+  },
+  {
+    "word": "pot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A container used for cooking or storing food.",
+        "meaning_zh_TW": "鍋、壺",
+        "wrong_meaning_zh_TW": [
+          "桌子",
+          "刀",
+          "碗"
+        ],
+        "examples": [
+          {
+            "sentence": "She boiled water in a [pot].",
+            "translation_zh_TW": "她在鍋裡煮水。"
+          },
+          {
+            "sentence": "The flower was in a decorative [pot].",
+            "translation_zh_TW": "花在一個裝飾性的花盆裡。"
+          },
+          {
+            "sentence": "He used a nonstick [pot] for cooking.",
+            "translation_zh_TW": "他用不黏鍋烹煮。"
+          }
+        ],
+        "synonyms": [
+          "vessel",
+          "container"
+        ]
+      }
+    ],
+    "confusion": [
+      "pat",
+      "plot",
+      "potty",
+      "pout"
+    ]
+  },
+  {
+    "word": "grass",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A common green plant that grows in fields and gardens.",
+        "meaning_zh_TW": "草",
+        "wrong_meaning_zh_TW": [
+          "樹",
+          "花",
+          "灌木"
+        ],
+        "examples": [
+          {
+            "sentence": "The kids played on the [grass].",
+            "translation_zh_TW": "孩子們在草地上玩。"
+          },
+          {
+            "sentence": "She watered the [grass] in her yard.",
+            "translation_zh_TW": "她在自家庭院給草澆水。"
+          },
+          {
+            "sentence": "The park has a lot of green [grass].",
+            "translation_zh_TW": "這個公園有很多綠色的草。"
+          }
+        ],
+        "synonyms": [
+          "lawn",
+          "turf"
+        ]
+      }
+    ],
+    "confusion": [
+      "grasp",
+      "grace",
+      "grade",
+      "gass"
+    ]
+  },
+  {
+    "word": "convenient",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Making life easier or more comfortable.",
+        "meaning_zh_TW": "便利的",
+        "wrong_meaning_zh_TW": [
+          "不方便的",
+          "繁瑣的",
+          "麻煩的"
+        ],
+        "examples": [
+          {
+            "sentence": "The store is located in a [convenient] spot.",
+            "translation_zh_TW": "這家商店位於一個便利的地點"
+          },
+          {
+            "sentence": "It's [convenient] to pay online.",
+            "translation_zh_TW": "在線支付是很便利的"
+          },
+          {
+            "sentence": "She found it [convenient] to have a car.",
+            "translation_zh_TW": "她發現有車子很便利"
+          }
+        ],
+        "synonyms": [
+          "handy",
+          "accessible"
+        ]
+      }
+    ],
+    "confusion": [
+      "content",
+      "convene",
+      "convent",
+      "continuum"
+    ]
+  },
+  {
+    "word": "egg",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An oval object laid by a female bird, reptile, fish, or invertebrate, containing a developing embryo.",
+        "meaning_zh_TW": "蛋",
+        "wrong_meaning_zh_TW": [
+          "果實",
+          "球",
+          "種子"
+        ],
+        "examples": [
+          {
+            "sentence": "She made an omelet with three eggs.",
+            "translation_zh_TW": "她用三個蛋做了蛋捲"
+          },
+          {
+            "sentence": "The hen laid a large [egg].",
+            "translation_zh_TW": "母雞下了一個大蛋"
+          },
+          {
+            "sentence": "They decorated the [eggs] for Easter.",
+            "translation_zh_TW": "他們為復活節裝飾了蛋"
+          }
+        ],
+        "synonyms": [
+          "oval",
+          "yolk"
+        ]
+      }
+    ],
+    "confusion": [
+      "eggplant",
+      "eggshell",
+      "eggo",
+      "eg"
+    ]
+  },
+  {
+    "word": "robot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A machine capable of carrying out a complex series of actions automatically.",
+        "meaning_zh_TW": "機器人",
+        "wrong_meaning_zh_TW": [
+          "玩具",
+          "手機",
+          "計算機"
+        ],
+        "examples": [
+          {
+            "sentence": "The [robot] can help with household chores.",
+            "translation_zh_TW": "這個機器人可以幫助做家務"
+          },
+          {
+            "sentence": "They designed a new [robot] for manufacturing.",
+            "translation_zh_TW": "他們設計了一個新的機器人來進行製造"
+          },
+          {
+            "sentence": "He built a [robot] that can walk and talk.",
+            "translation_zh_TW": "他建造了一個能走和說話的機器人"
+          }
+        ],
+        "synonyms": [
+          "automaton",
+          "android"
+        ]
+      }
+    ],
+    "confusion": [
+      "robust",
+      "route",
+      "robotics",
+      "rob"
+    ]
+  },
+  {
+    "word": "coat",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An outer garment worn for warmth or style.",
+        "meaning_zh_TW": "外套",
+        "wrong_meaning_zh_TW": [
+          "襯衫",
+          "襪子",
+          "褲子"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a warm [coat] in winter.",
+            "translation_zh_TW": "她冬天穿著一件保暖外套。"
+          },
+          {
+            "sentence": "His [coat] had beautiful buttons.",
+            "translation_zh_TW": "他的外套上有漂亮的鈕扣。"
+          },
+          {
+            "sentence": "The dog has a thick fur [coat].",
+            "translation_zh_TW": "那隻狗有一層厚厚的毛皮。"
+          }
+        ],
+        "synonyms": [
+          "jacket",
+          "outerwear"
+        ]
+      }
+    ],
+    "confusion": [
+      "coat",
+      "quote",
+      "boat",
+      "goat"
+    ]
+  }
+]

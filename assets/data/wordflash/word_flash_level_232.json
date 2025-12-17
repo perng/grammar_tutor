@@ -1,0 +1,782 @@
+[
+  {
+    "word": "undergraduate",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A student in a college or university who has not yet earned a degree.",
+        "meaning_zh_TW": "大學生、學士生",
+        "wrong_meaning_zh_TW": [
+          "碩士生",
+          "博士生",
+          "專業人士"
+        ],
+        "examples": [
+          {
+            "sentence": "As an undergraduate, she was very active in student organizations.",
+            "translation_zh_TW": "作為一名大學生，她在學生組織中非常活躍。"
+          },
+          {
+            "sentence": "He is pursuing his undergraduate studies in biology.",
+            "translation_zh_TW": "他正在攻讀生物學的本科學位。"
+          },
+          {
+            "sentence": "The university offers various scholarships for undergraduate students.",
+            "translation_zh_TW": "該大學為本科生提供各種獎學金。"
+          }
+        ],
+        "synonyms": [
+          "bachelor",
+          "college student"
+        ]
+      }
+    ],
+    "confusion": [
+      "postgraduate",
+      "underdog",
+      "understatement",
+      "underwriter"
+    ]
+  },
+  {
+    "word": "combat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To engage in active fighting or struggle.",
+        "meaning_zh_TW": "戰鬥",
+        "wrong_meaning_zh_TW": [
+          "對話",
+          "協調",
+          "交流"
+        ],
+        "examples": [
+          {
+            "sentence": "Soldiers [combat] their enemies on the battlefield.",
+            "translation_zh_TW": "士兵們在戰場上與敵軍戰鬥。"
+          },
+          {
+            "sentence": "We need to [combat] climate change through collective efforts.",
+            "translation_zh_TW": "我們需要通過集體努力來對抗氣候變化。"
+          },
+          {
+            "sentence": "The organization aims to [combat] poverty in urban areas.",
+            "translation_zh_TW": "該組織旨在對抗城市地區的貧困。"
+          }
+        ],
+        "synonyms": [
+          "fight",
+          "battle"
+        ]
+      }
+    ],
+    "confusion": [
+      "combatant",
+      "comber",
+      "combate",
+      "commbat"
+    ]
+  },
+  {
+    "word": "radiation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.",
+        "meaning_zh_TW": "輻射、放射",
+        "wrong_meaning_zh_TW": [
+          "熱能",
+          "光線",
+          "雷射"
+        ],
+        "examples": [
+          {
+            "sentence": "The dangers of [radiation] exposure are well documented.",
+            "translation_zh_TW": "輻射曝光的危險已經被充分紀錄。"
+          },
+          {
+            "sentence": "Experts in health discuss the effects of [radiation].",
+            "translation_zh_TW": "健康專家討論輻射的影響。"
+          },
+          {
+            "sentence": "Many medical treatments use [radiation] for diagnosis and therapy.",
+            "translation_zh_TW": "許多醫療治療使用輻射進行診斷和治療。"
+          }
+        ],
+        "synonyms": [
+          "radiance",
+          "emission"
+        ]
+      }
+    ],
+    "confusion": [
+      "radiation",
+      "radium",
+      "radiate",
+      "radical"
+    ]
+  },
+  {
+    "word": "counsel",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Advice, especially that which is given formally.",
+        "meaning_zh_TW": "建議",
+        "wrong_meaning_zh_TW": [
+          "反對",
+          "宣告",
+          "告訴"
+        ],
+        "examples": [
+          {
+            "sentence": "She sought [counsel] from her advisor.",
+            "translation_zh_TW": "她向她的顧問尋求建議。"
+          },
+          {
+            "sentence": "Their [counsel] was invaluable during the process.",
+            "translation_zh_TW": "他們的建議在過程中是無價的。"
+          },
+          {
+            "sentence": "He followed the [counsel] of experts.",
+            "translation_zh_TW": "他遵從了專家的建議。"
+          }
+        ],
+        "synonyms": [
+          "advice",
+          "guidance"
+        ]
+      }
+    ],
+    "confusion": [
+      "council",
+      "consul",
+      "counselling",
+      "counseled"
+    ]
+  },
+  {
+    "word": "cluster",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of similar things or people positioned or occurring closely together.",
+        "meaning_zh_TW": "群集、簇",
+        "wrong_meaning_zh_TW": [
+          "散佈",
+          "分開",
+          "孤立"
+        ],
+        "examples": [
+          {
+            "sentence": "A [cluster] of stars was visible in the night sky.",
+            "translation_zh_TW": "夜空中可見一群星星"
+          },
+          {
+            "sentence": "The flowers grew in a [cluster].",
+            "translation_zh_TW": "這些花是成群生長的"
+          },
+          {
+            "sentence": "They observed a [cluster] of data points.",
+            "translation_zh_TW": "他們觀察到一群數據點"
+          }
+        ],
+        "synonyms": [
+          "group",
+          "bunch"
+        ]
+      }
+    ],
+    "confusion": [
+      "clustr",
+      "clusterr",
+      "clustar",
+      "clutser"
+    ]
+  },
+  {
+    "word": "whereas",
+    "meanings": [
+      {
+        "type": "連接詞",
+        "meaning_en_US": "Used to compare or contrast two different facts or situations.",
+        "meaning_zh_TW": "而、卻",
+        "wrong_meaning_zh_TW": [
+          "因此",
+          "但是",
+          "也許"
+        ],
+        "examples": [
+          {
+            "sentence": "He prefers tea, [whereas] she likes coffee.",
+            "translation_zh_TW": "他喜歡茶，而她喜歡咖啡。"
+          },
+          {
+            "sentence": "Some students study hard, [whereas] others do not.",
+            "translation_zh_TW": "有些學生努力學習，而其他學生則不然。"
+          },
+          {
+            "sentence": "He loves outdoor activities, [whereas] his brother prefers staying indoors.",
+            "translation_zh_TW": "他喜歡戶外活動，而他的兄弟則偏好待在室內。"
+          }
+        ],
+        "synonyms": [
+          "while",
+          "although"
+        ]
+      }
+    ],
+    "confusion": [
+      "whereby",
+      "wherein",
+      "whereto",
+      "wereas"
+    ]
+  },
+  {
+    "word": "rack",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A framework, typically with rails, bars, or hooks, for holding or storing things.",
+        "meaning_zh_TW": "架子、支架",
+        "wrong_meaning_zh_TW": [
+          "均衡器",
+          "架構圖",
+          "計劃"
+        ],
+        "examples": [
+          {
+            "sentence": "The wine [rack] held several bottles of vintage.",
+            "translation_zh_TW": "酒架上放著幾瓶陳年葡萄酒。"
+          },
+          {
+            "sentence": "He placed the suitcase on the top [rack] of the bus.",
+            "translation_zh_TW": "他將手提箱放在公車的上方架子上。"
+          },
+          {
+            "sentence": "They installed a [rack] to organize the equipment.",
+            "translation_zh_TW": "他們安裝了一個架子來整理設備。"
+          }
+        ],
+        "synonyms": [
+          "shelf",
+          "holder"
+        ]
+      }
+    ],
+    "confusion": [
+      "rack",
+      "wrack",
+      "rake",
+      "back"
+    ]
+  },
+  {
+    "word": "medication",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A substance used for medical treatment, especially a medicine or drug.",
+        "meaning_zh_TW": "藥物",
+        "wrong_meaning_zh_TW": [
+          "調味料",
+          "解釋",
+          "建議"
+        ],
+        "examples": [
+          {
+            "sentence": "He forgot to take his [medication] this morning.",
+            "translation_zh_TW": "他今天早上忘了吃藥。"
+          },
+          {
+            "sentence": "The doctor prescribed the [medication] for his condition.",
+            "translation_zh_TW": "醫生為他的病開了藥物。"
+          },
+          {
+            "sentence": "Always follow the instructions when taking [medication].",
+            "translation_zh_TW": "服用藥物時總是要遵循說明。"
+          }
+        ],
+        "synonyms": [
+          "medicine",
+          "drug"
+        ]
+      }
+    ],
+    "confusion": [
+      "medicate",
+      "medicinal",
+      "medicational",
+      "medictaion"
+    ]
+  },
+  {
+    "word": "warehouse",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large building for storing goods.",
+        "meaning_zh_TW": "倉庫",
+        "wrong_meaning_zh_TW": [
+          "商店",
+          "貨運站",
+          "市場"
+        ],
+        "examples": [
+          {
+            "sentence": "They store the furniture in the [warehouse].",
+            "translation_zh_TW": "他們把家具存放在倉庫裡。"
+          },
+          {
+            "sentence": "The [warehouse] is filled with boxes and pallets.",
+            "translation_zh_TW": "倉庫裡裝滿了箱子和托盤。"
+          },
+          {
+            "sentence": "We need to organize the items in the [warehouse].",
+            "translation_zh_TW": "我們需要整理倉庫裡的物品。"
+          }
+        ],
+        "synonyms": [
+          "storage",
+          "depot"
+        ]
+      }
+    ],
+    "confusion": [
+      "warehousing",
+      "warranty",
+      "warhorse",
+      "wastehouse"
+    ]
+  },
+  {
+    "word": "stability",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being stable or steady.",
+        "meaning_zh_TW": "穩定性",
+        "wrong_meaning_zh_TW": [
+          "動盪不安",
+          "脆弱",
+          "危險"
+        ],
+        "examples": [
+          {
+            "sentence": "The engineer measured the [stability] of the structure.",
+            "translation_zh_TW": "工程師測量了結構的穩定性。"
+          },
+          {
+            "sentence": "Financial [stability] is crucial for economic growth.",
+            "translation_zh_TW": "財務穩定性對於經濟增長至關重要。"
+          },
+          {
+            "sentence": "We need to ensure the [stability] of our software.",
+            "translation_zh_TW": "我們需要確保我們的軟體穩定性。"
+          }
+        ],
+        "synonyms": [
+          "steadiness",
+          "consistency"
+        ]
+      }
+    ],
+    "confusion": [
+      "stabilize",
+      "stability",
+      "stable",
+      "stability's"
+    ]
+  },
+  {
+    "word": "solo",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing done by one person unaccompanied, especially a piece of music.",
+        "meaning_zh_TW": "獨奏曲",
+        "wrong_meaning_zh_TW": [
+          "合奏",
+          "合唱",
+          "舞蹈"
+        ],
+        "examples": [
+          {
+            "sentence": "She performed a beautiful [solo] on the piano.",
+            "translation_zh_TW": "她在鋼琴上獨奏了一首美麗的曲子。"
+          },
+          {
+            "sentence": "The singer's [solo] captivated the audience.",
+            "translation_zh_TW": "這位歌手的獨唱吸引了觀眾。"
+          },
+          {
+            "sentence": "He decided to do the climb [solo].",
+            "translation_zh_TW": "他決定獨自攀登。"
+          }
+        ],
+        "synonyms": [
+          "individual performance",
+          "unaccompanied piece"
+        ]
+      }
+    ],
+    "confusion": [
+      "soul",
+      "solace",
+      "solder",
+      "soloist"
+    ]
+  },
+  {
+    "word": "vacuum",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A space from which all or most of the matter has been removed.",
+        "meaning_zh_TW": "真空",
+        "wrong_meaning_zh_TW": [
+          "空間",
+          "樂器",
+          "情感"
+        ],
+        "examples": [
+          {
+            "sentence": "A [vacuum] can affect the behavior of fluids.",
+            "translation_zh_TW": "真空可以影響流體的行為。"
+          },
+          {
+            "sentence": "The scientist studied the effects of a [vacuum] on light.",
+            "translation_zh_TW": "科學家研究了真空對光的影響。"
+          },
+          {
+            "sentence": "The experiment was conducted in a [vacuum] chamber.",
+            "translation_zh_TW": "實驗是在真空室中進行的。"
+          }
+        ],
+        "synonyms": [
+          "void",
+          "emptiness"
+        ]
+      }
+    ],
+    "confusion": [
+      "vacume",
+      "vacation",
+      "vacum",
+      "vacuumed"
+    ]
+  },
+  {
+    "word": "quest",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long search for something.",
+        "meaning_zh_TW": "探索、追尋",
+        "wrong_meaning_zh_TW": [
+          "簡單的任務",
+          "輕鬆的旅行",
+          "隨意的遊覽"
+        ],
+        "examples": [
+          {
+            "sentence": "His [quest] for knowledge led him to study various subjects.",
+            "translation_zh_TW": "他對知識的追尋使他學習了各種科目。"
+          },
+          {
+            "sentence": "The heroes embarked on a [quest] to find the lost treasure.",
+            "translation_zh_TW": "英雄們踏上了尋找失落寶藏的探索之旅。"
+          },
+          {
+            "sentence": "Every [quest] has its challenges.",
+            "translation_zh_TW": "每次探索都有其挑戰。"
+          }
+        ],
+        "synonyms": [
+          "journey",
+          "adventure"
+        ]
+      }
+    ],
+    "confusion": [
+      "quester",
+      "quasar",
+      "queue",
+      "quilt"
+    ]
+  },
+  {
+    "word": "venue",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The place where an event or activity is held.",
+        "meaning_zh_TW": "場地",
+        "wrong_meaning_zh_TW": [
+          "議題",
+          "參與者",
+          "剖析"
+        ],
+        "examples": [
+          {
+            "sentence": "The wedding [venue] was beautifully decorated.",
+            "translation_zh_TW": "婚禮場地裝飾得非常漂亮。"
+          },
+          {
+            "sentence": "She reserved the [venue] for the concert weeks in advance.",
+            "translation_zh_TW": "她提前幾個星期為音樂會預訂了場地。"
+          },
+          {
+            "sentence": "The conference [venue] can accommodate hundreds of attendees.",
+            "translation_zh_TW": "會議場地可容納數百名與會者。"
+          }
+        ],
+        "synonyms": [
+          "location",
+          "site"
+        ]
+      }
+    ],
+    "confusion": [
+      "venuee",
+      "vue",
+      "venom",
+      "venue"
+    ]
+  },
+  {
+    "word": "obligation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An act or course of action to which a person is morally or legally bound.",
+        "meaning_zh_TW": "義務",
+        "wrong_meaning_zh_TW": [
+          "責任感",
+          "合約",
+          "承諾"
+        ],
+        "examples": [
+          {
+            "sentence": "He feels a strong [obligation] to help his community.",
+            "translation_zh_TW": "他感到幫助社區的強烈義務"
+          },
+          {
+            "sentence": "We have an [obligation] to tell the truth.",
+            "translation_zh_TW": "我們有義務說出事實"
+          },
+          {
+            "sentence": "Fulfilling our [obligation] is important for trust.",
+            "translation_zh_TW": "履行我們的義務對信任很重要"
+          }
+        ],
+        "synonyms": [
+          "duty",
+          "responsibility"
+        ]
+      }
+    ],
+    "confusion": [
+      "oblivion",
+      "obligationary",
+      "oblique",
+      "obscuration"
+    ]
+  },
+  {
+    "word": "segment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A part or section of something.",
+        "meaning_zh_TW": "部分、區段",
+        "wrong_meaning_zh_TW": [
+          "整體",
+          "塊狀",
+          "集合"
+        ],
+        "examples": [
+          {
+            "sentence": "He divided the circle into equal [segments].",
+            "translation_zh_TW": "他把圓形分成相等的部分。"
+          },
+          {
+            "sentence": "Each [segment] of the market has its own trends.",
+            "translation_zh_TW": "市場的每個區段都有其自己的趨勢。"
+          },
+          {
+            "sentence": "The data is presented in two main [segments].",
+            "translation_zh_TW": "數據分為兩個主要部分。"
+          }
+        ],
+        "synonyms": [
+          "part",
+          "section"
+        ]
+      }
+    ],
+    "confusion": [
+      "segmental",
+      "segmented",
+      "seament",
+      "segmant"
+    ]
+  },
+  {
+    "word": "regardless",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Without paying attention to the present situation; despite the prevailing circumstances.",
+        "meaning_zh_TW": "不顧，不論",
+        "wrong_meaning_zh_TW": [
+          "在乎",
+          "認真",
+          "精確"
+        ],
+        "examples": [
+          {
+            "sentence": "He continued to work hard, [regardless] of the obstacles.",
+            "translation_zh_TW": "他不顧障礙，繼續努力工作。"
+          },
+          {
+            "sentence": "They decided to go ahead with the plan [regardless] of the risks.",
+            "translation_zh_TW": "他們決定不顧風險，繼續進行計畫。"
+          },
+          {
+            "sentence": "She expressed her opinion openly, [regardless] of what others might think.",
+            "translation_zh_TW": "她坦率表達自己的意見，無論別人怎麼想。"
+          }
+        ],
+        "synonyms": [
+          "despite",
+          "no matter"
+        ]
+      }
+    ],
+    "confusion": [
+      "regard",
+      "regards",
+      "regardful",
+      "irregardless"
+    ]
+  },
+  {
+    "word": "insight",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The capacity to gain an accurate and deep understanding of someone or something.",
+        "meaning_zh_TW": "洞察力",
+        "wrong_meaning_zh_TW": [
+          "直覺能力",
+          "表面理解",
+          "隨意猜測"
+        ],
+        "examples": [
+          {
+            "sentence": "Her analysis provided valuable [insight] into the issue.",
+            "translation_zh_TW": "她的分析為這個問題提供了有價值的洞察力"
+          },
+          {
+            "sentence": "Gaining [insight] requires both knowledge and experience.",
+            "translation_zh_TW": "獲得洞察力需要知識和經驗"
+          },
+          {
+            "sentence": "He had a moment of [insight] that changed his perspective.",
+            "translation_zh_TW": "他有一個洞察力的瞬間，改變了他的觀點"
+          }
+        ],
+        "synonyms": [
+          "understanding",
+          "perception"
+        ]
+      }
+    ],
+    "confusion": [
+      "incite",
+      "insightful",
+      "insider",
+      "insightfuls"
+    ]
+  },
+  {
+    "word": "republican",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A member or supporter of a Republican Party.",
+        "meaning_zh_TW": "共和黨員",
+        "wrong_meaning_zh_TW": [
+          "民主派",
+          "社會主義者",
+          "獨裁者"
+        ],
+        "examples": [
+          {
+            "sentence": "He identifies as a [republican] and supports conservative policies.",
+            "translation_zh_TW": "他自我定位為共和黨員，支持保守的政策"
+          },
+          {
+            "sentence": "The [republican] party held its national convention last week.",
+            "translation_zh_TW": "共和黨上週舉行了全國大會"
+          },
+          {
+            "sentence": "Many [republicans] advocate for lower taxes.",
+            "translation_zh_TW": "許多共和黨員主張減少稅收"
+          }
+        ],
+        "synonyms": [
+          "GOP",
+          "conservative"
+        ]
+      }
+    ],
+    "confusion": [
+      "repugnant",
+      "publican",
+      "republic",
+      "replication"
+    ]
+  },
+  {
+    "word": "syndrome",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of symptoms that consistently occur together or a condition characterized by a set of associated symptoms.",
+        "meaning_zh_TW": "症候群",
+        "wrong_meaning_zh_TW": [
+          "病症",
+          "狀態",
+          "單一症狀"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctors diagnosed her with a rare [syndrome].",
+            "translation_zh_TW": "醫生診斷她患有一種罕見的症候群。"
+          },
+          {
+            "sentence": "Symptoms of the [syndrome] can vary significantly.",
+            "translation_zh_TW": "症候群的症狀可能有顯著的變化。"
+          },
+          {
+            "sentence": "Research is ongoing to find the cause of this [syndrome].",
+            "translation_zh_TW": "研究正在進行中，以找出該症候群的原因。"
+          }
+        ],
+        "synonyms": [
+          "condition",
+          "disorder"
+        ]
+      }
+    ],
+    "confusion": [
+      "symphony",
+      "synergize",
+      "sindrome",
+      "cindyrome"
+    ]
+  }
+]

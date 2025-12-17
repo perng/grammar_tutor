@@ -1,0 +1,783 @@
+[
+  {
+    "word": "dump",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To unload a cargo or dispose of something from one place.",
+        "meaning_zh_TW": "卸貨、丟棄",
+        "wrong_meaning_zh_TW": [
+          "搬運",
+          "收集",
+          "打造"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [dump] the old furniture.",
+            "translation_zh_TW": "他們決定丟掉舊家具"
+          },
+          {
+            "sentence": "He [dumped] the trash in the bin.",
+            "translation_zh_TW": "他把垃圾扔進垃圾箱"
+          },
+          {
+            "sentence": "The truck will [dump] its load here.",
+            "translation_zh_TW": "卡車將在此卸下貨物"
+          }
+        ],
+        "synonyms": [
+          "discard",
+          "dispose"
+        ]
+      }
+    ],
+    "confusion": [
+      "damp",
+      "jump",
+      "bump",
+      "dumping"
+    ]
+  },
+  {
+    "word": "fountain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A striking structure in a pool or lake from which water is forced upward into the air.",
+        "meaning_zh_TW": "噴泉",
+        "wrong_meaning_zh_TW": [
+          "高樓",
+          "雕像",
+          "橋樑"
+        ],
+        "examples": [
+          {
+            "sentence": "The park features a beautiful [fountain].",
+            "translation_zh_TW": "公園裡有一個美麗的噴泉。"
+          },
+          {
+            "sentence": "Children love to play near the [fountain].",
+            "translation_zh_TW": "孩子們喜歡在噴泉旁玩耍。"
+          },
+          {
+            "sentence": "The [fountain] was illuminated at night.",
+            "translation_zh_TW": "噴泉在晚上被照亮。"
+          }
+        ],
+        "synonyms": [
+          "spring",
+          "jet"
+        ]
+      }
+    ],
+    "confusion": [
+      "fount",
+      "fountaining",
+      "founding",
+      "funny"
+    ]
+  },
+  {
+    "word": "cigarette",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin cylinder of finely cut tobacco rolled in paper for smoking.",
+        "meaning_zh_TW": "香煙",
+        "wrong_meaning_zh_TW": [
+          "火柴",
+          "香水",
+          "酒精"
+        ],
+        "examples": [
+          {
+            "sentence": "He lit a [cigarette] after dinner.",
+            "translation_zh_TW": "他在晚餐後抽煙"
+          },
+          {
+            "sentence": "Smoking a [cigarette] can harm your health.",
+            "translation_zh_TW": "抽香煙可能會損害你的健康"
+          },
+          {
+            "sentence": "She handed him a [cigarette] from her pack.",
+            "translation_zh_TW": "她從包裡給了他一根香煙"
+          }
+        ],
+        "synonyms": [
+          "smoke",
+          "cigar"
+        ]
+      }
+    ],
+    "confusion": [
+      "cigar",
+      "syringe",
+      "secret",
+      "sickle"
+    ]
+  },
+  {
+    "word": "lobby",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A room or area for waiting, often leading to other rooms.",
+        "meaning_zh_TW": "大廳",
+        "wrong_meaning_zh_TW": [
+          "遊戲室",
+          "會議室",
+          "入口"
+        ],
+        "examples": [
+          {
+            "sentence": "We waited in the [lobby] for our appointment.",
+            "translation_zh_TW": "我們在大廳裡等候約會。"
+          },
+          {
+            "sentence": "The hotel [lobby] was beautifully decorated.",
+            "translation_zh_TW": "飯店的大廳裝飾得很漂亮。"
+          },
+          {
+            "sentence": "There was a coffee shop in the [lobby] of the building.",
+            "translation_zh_TW": "大樓的前廳裡有一家咖啡店。"
+          }
+        ],
+        "synonyms": [
+          "foyer",
+          "waiting area"
+        ]
+      }
+    ],
+    "confusion": [
+      "libby",
+      "lobbyist",
+      "lobbying",
+      "lobbyer"
+    ]
+  },
+  {
+    "word": "headline",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The title of a newspaper article, often in large type.",
+        "meaning_zh_TW": "標題",
+        "wrong_meaning_zh_TW": [
+          "副標題",
+          "內容",
+          "廣告"
+        ],
+        "examples": [
+          {
+            "sentence": "The [headline] caught everyone's attention.",
+            "translation_zh_TW": "標題引起了每個人的注意。"
+          },
+          {
+            "sentence": "She wrote a compelling [headline] for the article.",
+            "translation_zh_TW": "她為這篇文章寫了一個引人注目的標題。"
+          },
+          {
+            "sentence": "The [headline] was printed in bold letters.",
+            "translation_zh_TW": "標題以粗體字印刷。"
+          }
+        ],
+        "synonyms": [
+          "title",
+          "heading"
+        ]
+      }
+    ],
+    "confusion": [
+      "headlines",
+      "headliner",
+      "headlane",
+      "hedline"
+    ]
+  },
+  {
+    "word": "punch",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To strike with the fist; to thrust or push.",
+        "meaning_zh_TW": "用拳打",
+        "wrong_meaning_zh_TW": [
+          "踢",
+          "推",
+          "抓"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [punch] the bag to relieve stress.",
+            "translation_zh_TW": "他決定用拳打沙包來減壓"
+          },
+          {
+            "sentence": "She [punched] the clock to record her hours.",
+            "translation_zh_TW": "她打卡記錄工時"
+          },
+          {
+            "sentence": "The boxer trained hard to improve his [punch].",
+            "translation_zh_TW": "拳擊手努力訓練提高他的拳擊"
+          }
+        ],
+        "synonyms": [
+          "hit",
+          "strike"
+        ]
+      }
+    ],
+    "confusion": [
+      "punctual",
+      "punish",
+      "bunch",
+      "puncher"
+    ]
+  },
+  {
+    "word": "fur",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The short, fine hair that covers the bodies of many mammals.",
+        "meaning_zh_TW": "動物毛",
+        "wrong_meaning_zh_TW": [
+          "皮膚",
+          "毛衣",
+          "織物"
+        ],
+        "examples": [
+          {
+            "sentence": "The cat has soft [fur].",
+            "translation_zh_TW": "貓咪的毛很柔軟"
+          },
+          {
+            "sentence": "She wore a coat made of real [fur].",
+            "translation_zh_TW": "她穿著一件由真毛製成的外套"
+          },
+          {
+            "sentence": "Some animals shed their [fur] in spring.",
+            "translation_zh_TW": "一些動物在春天會脫毛"
+          }
+        ],
+        "synonyms": [
+          "coat",
+          "pelt"
+        ]
+      }
+    ],
+    "confusion": [
+      "furrow",
+      "fury",
+      "fir",
+      "furie"
+    ]
+  },
+  {
+    "word": "fence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A barrier or enclosure made of posts and wire or wood.",
+        "meaning_zh_TW": "圍欄",
+        "wrong_meaning_zh_TW": [
+          "氣墊",
+          "門鈴",
+          "電梯"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog jumped over the [fence].",
+            "translation_zh_TW": "那隻狗跳過了圍欄"
+          },
+          {
+            "sentence": "They built a [fence] to keep the kids safe.",
+            "translation_zh_TW": "他們蓋了一個圍欄以保護孩子們的安全"
+          },
+          {
+            "sentence": "The garden was bordered by a white picket [fence].",
+            "translation_zh_TW": "花園被一個白色的木籬笆圍住"
+          }
+        ],
+        "synonyms": [
+          "enclosure",
+          "barrier"
+        ]
+      }
+    ],
+    "confusion": [
+      "fenced",
+      "fencer",
+      "fences",
+      "fenceless"
+    ]
+  },
+  {
+    "word": "satisfactory",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Meeting the requirements or expectations; adequate.",
+        "meaning_zh_TW": "令人滿意的",
+        "wrong_meaning_zh_TW": [
+          "不滿意的",
+          "合成的",
+          "過時的"
+        ],
+        "examples": [
+          {
+            "sentence": "The results were [satisfactory], meeting all the criteria.",
+            "translation_zh_TW": "結果令人滿意，符合所有標準。"
+          },
+          {
+            "sentence": "She received a [satisfactory] response to her proposal.",
+            "translation_zh_TW": "她的提案得到了滿意的回應。"
+          },
+          {
+            "sentence": "The service at the restaurant was [satisfactory] but not exceptional.",
+            "translation_zh_TW": "餐廳的服務令人滿意，但不算特別。"
+          }
+        ],
+        "synonyms": [
+          "acceptable",
+          "adequate",
+          "sufficient"
+        ]
+      }
+    ],
+    "confusion": [
+      "satisfaction",
+      "satisfy",
+      "satisfied",
+      "saturate"
+    ]
+  },
+  {
+    "word": "fighter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who physically fights for sport, self-defense, or competition.",
+        "meaning_zh_TW": "戰士",
+        "wrong_meaning_zh_TW": [
+          "歌手",
+          "舞者",
+          "運動員"
+        ],
+        "examples": [
+          {
+            "sentence": "The [fighter] won the championship match.",
+            "translation_zh_TW": "這位戰士贏得了冠軍賽"
+          },
+          {
+            "sentence": "She trains hard to become a professional [fighter].",
+            "translation_zh_TW": "她努力訓練以成為專業的戰士"
+          },
+          {
+            "sentence": "Boxing matches can be intense for any [fighter].",
+            "translation_zh_TW": "拳擊比賽對任何戰士而言都可能是激烈的"
+          }
+        ],
+        "synonyms": [
+          "warrior",
+          "combatant"
+        ]
+      }
+    ],
+    "confusion": [
+      "flight",
+      "fighting",
+      "fights",
+      "fighterly"
+    ]
+  },
+  {
+    "word": "meaningful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having significance or purpose.",
+        "meaning_zh_TW": "有意義的",
+        "wrong_meaning_zh_TW": [
+          "無意義的",
+          "空洞的",
+          "無趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "She attended the seminar for meaningful [insights] into the industry.",
+            "translation_zh_TW": "她參加研討會以獲得對行業的有意義見解。"
+          },
+          {
+            "sentence": "The project aims to create a [meaningful] impact on the community.",
+            "translation_zh_TW": "該項目旨在對社區產生有意義的影響。"
+          },
+          {
+            "sentence": "Having [meaningful] conversations can deepen relationships.",
+            "translation_zh_TW": "進行有意義的對話能加深關係。"
+          }
+        ],
+        "synonyms": [
+          "significant",
+          "purposeful"
+        ]
+      }
+    ],
+    "confusion": [
+      "meanie",
+      "mean",
+      "meaningless",
+      "meme"
+    ]
+  },
+  {
+    "word": "flesh",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The soft substance consisting of muscle and fat that is found between the skin and bones.",
+        "meaning_zh_TW": "肉體",
+        "wrong_meaning_zh_TW": [
+          "骨骼",
+          "皮膚",
+          "器官"
+        ],
+        "examples": [
+          {
+            "sentence": "The surgeon carefully examined the [flesh] around the wound.",
+            "translation_zh_TW": "外科醫生仔細檢查傷口周圍的肉體。"
+          },
+          {
+            "sentence": "The [flesh] of fruits like peaches is sweet and juicy.",
+            "translation_zh_TW": "桃子的肉體是甜的和多汁的。"
+          },
+          {
+            "sentence": "In certain cultures, the consumption of human [flesh] is taboo.",
+            "translation_zh_TW": "在某些文化中，食用人肉是禁忌的。"
+          }
+        ],
+        "synonyms": [
+          "tissue",
+          "muscle"
+        ]
+      }
+    ],
+    "confusion": [
+      "flush",
+      "fleshly",
+      "flesch",
+      "fles"
+    ]
+  },
+  {
+    "word": "barely",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "By a small margin; only just.",
+        "meaning_zh_TW": "勉強地",
+        "wrong_meaning_zh_TW": [
+          "輕易地",
+          "隨意地",
+          "愉快地"
+        ],
+        "examples": [
+          {
+            "sentence": "She [barely] passed the exam.",
+            "translation_zh_TW": "她勉強通過了考試。"
+          },
+          {
+            "sentence": "I can [barely] hear you.",
+            "translation_zh_TW": "我勉強能聽見你。"
+          },
+          {
+            "sentence": "They [barely] made it to the train on time.",
+            "translation_zh_TW": "他們勉強按時趕上了火車。"
+          }
+        ],
+        "synonyms": [
+          "hardly",
+          "scarcely"
+        ]
+      }
+    ],
+    "confusion": [
+      "barley",
+      "bare",
+      "barkley",
+      "beeley"
+    ]
+  },
+  {
+    "word": "wherever",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In or to whatever place.",
+        "meaning_zh_TW": "任何地方",
+        "wrong_meaning_zh_TW": [
+          "隨便的地方",
+          "任何方向",
+          "每個地方"
+        ],
+        "examples": [
+          {
+            "sentence": "You can go [wherever] you like.",
+            "translation_zh_TW": "你可以去你喜歡的任何地方"
+          },
+          {
+            "sentence": "I will find you [wherever] you are.",
+            "translation_zh_TW": "無論你在哪裡，我都會找到你"
+          },
+          {
+            "sentence": "She travels [wherever] the job takes her.",
+            "translation_zh_TW": "她隨著工作去任何地方旅行"
+          }
+        ],
+        "synonyms": [
+          "anywhere",
+          "everywhere"
+        ]
+      }
+    ],
+    "confusion": [
+      "whereverly",
+      "whereabout",
+      "whereto",
+      "whereverly"
+    ]
+  },
+  {
+    "word": "rug",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of thick heavy fabric that covers a section of a floor.",
+        "meaning_zh_TW": "地毯",
+        "wrong_meaning_zh_TW": [
+          "椅子",
+          "沙發",
+          "床"
+        ],
+        "examples": [
+          {
+            "sentence": "The [rug] in the living room adds warmth.",
+            "translation_zh_TW": "客廳的地毯增添了溫暖"
+          },
+          {
+            "sentence": "She tripped over the edge of the [rug].",
+            "translation_zh_TW": "她被地毯的邊緣絆倒了"
+          },
+          {
+            "sentence": "I need to vacuum the [rug] this weekend.",
+            "translation_zh_TW": "我這個週末需要吸塵地毯"
+          }
+        ],
+        "synonyms": [
+          "carpet",
+          "mat"
+        ]
+      }
+    ],
+    "confusion": [
+      "rugged",
+      "hug",
+      "rig",
+      "rugby"
+    ]
+  },
+  {
+    "word": "marble",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of hard, crystalline metamorphic rock.",
+        "meaning_zh_TW": "大理石",
+        "wrong_meaning_zh_TW": [
+          "沙子",
+          "水泥",
+          "塑膠"
+        ],
+        "examples": [
+          {
+            "sentence": "The statue is made of marble.",
+            "translation_zh_TW": "這座雕像是用大理石製成的。"
+          },
+          {
+            "sentence": "Marble is often used in flooring and countertops.",
+            "translation_zh_TW": "大理石常用於地板和檯面。"
+          },
+          {
+            "sentence": "She admired the marble carvings in the museum.",
+            "translation_zh_TW": "她欣賞博物館裡的大理石雕刻。"
+          }
+        ],
+        "synonyms": [
+          "stone",
+          "granite"
+        ]
+      }
+    ],
+    "confusion": [
+      "marbles",
+      "marbel",
+      "marblestone",
+      "marbelous"
+    ]
+  },
+  {
+    "word": "microphone",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An instrument for converting sound waves into electrical energy.",
+        "meaning_zh_TW": "麥克風",
+        "wrong_meaning_zh_TW": [
+          "揚聲器",
+          "耳機",
+          "電腦"
+        ],
+        "examples": [
+          {
+            "sentence": "She spoke into the [microphone] during the presentation.",
+            "translation_zh_TW": "她在報告中對著麥克風講話"
+          },
+          {
+            "sentence": "The singer held the [microphone] close to her mouth.",
+            "translation_zh_TW": "歌手把麥克風靠近她的嘴"
+          },
+          {
+            "sentence": "Adjust the [microphone] for better audio quality.",
+            "translation_zh_TW": "調整麥克風以獲得更好的音質"
+          }
+        ],
+        "synonyms": [
+          "mic",
+          "transducer"
+        ]
+      }
+    ],
+    "confusion": [
+      "mic",
+      "micro",
+      "mice",
+      "microfones"
+    ]
+  },
+  {
+    "word": "tide",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The rise and fall of sea levels caused by the gravitational forces.",
+        "meaning_zh_TW": "潮汐",
+        "wrong_meaning_zh_TW": [
+          "浪潮",
+          "風潮",
+          "湧流"
+        ],
+        "examples": [
+          {
+            "sentence": "The beach is beautiful at high [tide].",
+            "translation_zh_TW": "在高潮時，海灘很美。"
+          },
+          {
+            "sentence": "You can see the [tide] coming in at sunset.",
+            "translation_zh_TW": "你可以在日落時看到潮水上升。"
+          },
+          {
+            "sentence": "The fisherman knows the best time to fish based on the [tide].",
+            "translation_zh_TW": "漁夫根據潮汐知道最佳的釣魚時間。"
+          }
+        ],
+        "synonyms": [
+          "current",
+          "flow"
+        ]
+      }
+    ],
+    "confusion": [
+      "tidee",
+      "tied",
+      "tidee",
+      "tida"
+    ]
+  },
+  {
+    "word": "magnet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An object that produces a magnetic field.",
+        "meaning_zh_TW": "磁鐵",
+        "wrong_meaning_zh_TW": [
+          "石頭",
+          "電池",
+          "水晶"
+        ],
+        "examples": [
+          {
+            "sentence": "The [magnet] attracted all the metal objects.",
+            "translation_zh_TW": "這個磁鐵吸引了所有金屬物體。"
+          },
+          {
+            "sentence": "He used a [magnet] to pick up the nails.",
+            "translation_zh_TW": "他用磁鐵撿起了釘子。"
+          },
+          {
+            "sentence": "The fridge has a [magnet] to keep the door closed.",
+            "translation_zh_TW": "冰箱上有一個磁鐵來保持門關閉。"
+          }
+        ],
+        "synonyms": [
+          "attractor",
+          "magnetic object"
+        ]
+      }
+    ],
+    "confusion": [
+      "magnate",
+      "magnetics",
+      "magneto",
+      "magnetic"
+    ]
+  },
+  {
+    "word": "bind",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To tie or fasten something tightly.",
+        "meaning_zh_TW": "捆綁",
+        "wrong_meaning_zh_TW": [
+          "解開",
+          "鬆開",
+          "放鬆"
+        ],
+        "examples": [
+          {
+            "sentence": "They had to [bind] the package securely.",
+            "translation_zh_TW": "他們必須把包裹牢牢捆好。"
+          },
+          {
+            "sentence": "The artist used string to [bind] the sculpture together.",
+            "translation_zh_TW": "藝術家用線把雕塑捆起來。"
+          },
+          {
+            "sentence": "He tried to [bind] his wounds after the accident.",
+            "translation_zh_TW": "事故後，他試圖包紮他的傷口。"
+          }
+        ],
+        "synonyms": [
+          "tie",
+          "fasten"
+        ]
+      }
+    ],
+    "confusion": [
+      "band",
+      "bend",
+      "bandage",
+      "binned"
+    ]
+  }
+]

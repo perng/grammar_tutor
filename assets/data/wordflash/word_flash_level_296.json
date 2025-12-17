@@ -1,0 +1,784 @@
+[
+  {
+    "word": "migrant",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who moves from one place to another, especially to find work.",
+        "meaning_zh_TW": "移民",
+        "wrong_meaning_zh_TW": [
+          "根源",
+          "運動員",
+          "觀察者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [migrant] workers helped build the city's infrastructure.",
+            "translation_zh_TW": "移民工人幫助建設該市的基礎設施。"
+          },
+          {
+            "sentence": "Many [migrant] families seek better opportunities.",
+            "translation_zh_TW": "許多移民家庭尋求更好的機會。"
+          },
+          {
+            "sentence": "This region is home to a large number of [migrant] populations.",
+            "translation_zh_TW": "該地區擁有大量移民人口。"
+          }
+        ],
+        "synonyms": [
+          "immigrant",
+          "refugee"
+        ]
+      }
+    ],
+    "confusion": [
+      "migratory",
+      "magnet",
+      "migration",
+      "magnitude"
+    ]
+  },
+  {
+    "word": "paddle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool used for rowing or for propelling a small boat.",
+        "meaning_zh_TW": "槳",
+        "wrong_meaning_zh_TW": [
+          "食物",
+          "風扇",
+          "項鍊"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [paddle] to move the kayak through the water.",
+            "translation_zh_TW": "他用槳讓皮艇在水中前進。"
+          },
+          {
+            "sentence": "She took the [paddle] and started to row.",
+            "translation_zh_TW": "她拿起槳開始划水。"
+          },
+          {
+            "sentence": "They bought a new [paddle] for their canoe.",
+            "translation_zh_TW": "他們為獨木舟買了一支新的槳。"
+          }
+        ],
+        "synonyms": [
+          "oar",
+          "pushing tool"
+        ]
+      }
+    ],
+    "confusion": [
+      "peddle",
+      "paddleball",
+      "cuddle",
+      "piddle"
+    ]
+  },
+  {
+    "word": "attendant",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person employed to provide a service, such as a waiter or a stewardess.",
+        "meaning_zh_TW": "服務員",
+        "wrong_meaning_zh_TW": [
+          "觀眾",
+          "護理人員",
+          "間諜"
+        ],
+        "examples": [
+          {
+            "sentence": "The [attendant] provided excellent service during the event.",
+            "translation_zh_TW": "這位服務員在活動期間提供了卓越的服務。"
+          },
+          {
+            "sentence": "She works as an airport [attendant], helping passengers.",
+            "translation_zh_TW": "她在機場當服務員，幫助乘客。"
+          },
+          {
+            "sentence": "An [attendant] greeted us at the entrance.",
+            "translation_zh_TW": "一位服務員在入口處迎接我們。"
+          }
+        ],
+        "synonyms": [
+          "helper",
+          "server"
+        ]
+      }
+    ],
+    "confusion": [
+      "attend",
+      "attendance",
+      "tend",
+      "tender"
+    ]
+  },
+  {
+    "word": "gull",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Any of various seabirds in the family Laridae, typically having a strong, slender body.",
+        "meaning_zh_TW": "鷗",
+        "wrong_meaning_zh_TW": [
+          "牛",
+          "馬",
+          "鳥"
+        ],
+        "examples": [
+          {
+            "sentence": "The [gull] called out as it flew by.",
+            "translation_zh_TW": "那隻鷗飛過時叫了出來。"
+          },
+          {
+            "sentence": "We spotted a [gull] among the other birds.",
+            "translation_zh_TW": "我們在其他鳥中發現了一隻鷗。"
+          },
+          {
+            "sentence": "A [gull] landed on the dock.",
+            "translation_zh_TW": "一隻鷗在碼頭上著陸。"
+          }
+        ],
+        "synonyms": [
+          "seagull",
+          "bird"
+        ]
+      }
+    ],
+    "confusion": [
+      "galls",
+      "gule",
+      "goll",
+      "gulls"
+    ]
+  },
+  {
+    "word": "redundancy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being not or no longer needed or useful; superfluity.",
+        "meaning_zh_TW": "冗餘",
+        "wrong_meaning_zh_TW": [
+          "必需品",
+          "稀缺",
+          "緊急"
+        ],
+        "examples": [
+          {
+            "sentence": "The company's decision to cut jobs was due to [redundancy].",
+            "translation_zh_TW": "公司裁員的決定是因為冗餘。"
+          },
+          {
+            "sentence": "There is a certain [redundancy] in the report that could be eliminated.",
+            "translation_zh_TW": "報告中有一些冗餘的部分可以消除。"
+          },
+          {
+            "sentence": "In computing, data [redundancy] can improve performance.",
+            "translation_zh_TW": "在計算中，數據冗餘可以提高性能。"
+          }
+        ],
+        "synonyms": [
+          "superfluousness",
+          "excess"
+        ]
+      }
+    ],
+    "confusion": [
+      "redundant",
+      "redunancy",
+      "reduncy",
+      "redudancy"
+    ]
+  },
+  {
+    "word": "dispose",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Get rid of by throwing away or giving or selling to someone else.",
+        "meaning_zh_TW": "處置",
+        "wrong_meaning_zh_TW": [
+          "保留",
+          "獲得",
+          "提供"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [dispose] of the old furniture.",
+            "translation_zh_TW": "他決定處置那些舊家具。"
+          },
+          {
+            "sentence": "You should [dispose] of waste responsibly.",
+            "translation_zh_TW": "你應該負責任地處理廢物。"
+          },
+          {
+            "sentence": "Please [dispose] of any trash in the bin.",
+            "translation_zh_TW": "請將任何垃圾處置進垃圾桶中。"
+          }
+        ],
+        "synonyms": [
+          "discard",
+          "throw away"
+        ]
+      }
+    ],
+    "confusion": [
+      "disposal",
+      "disposable",
+      "disposeable",
+      "disposably"
+    ]
+  },
+  {
+    "word": "urgency",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality or condition of being urgent; a pressing necessity.",
+        "meaning_zh_TW": "緊迫性",
+        "wrong_meaning_zh_TW": [
+          "無聊的事",
+          "悠閒",
+          "突如其來的事情"
+        ],
+        "examples": [
+          {
+            "sentence": "The [urgency] of the situation requires quick action.",
+            "translation_zh_TW": "情況的緊迫性要求迅速採取行動"
+          },
+          {
+            "sentence": "In times of [urgency], we must prioritize our tasks.",
+            "translation_zh_TW": "在緊迫的時刻，我們必須優先處理任務"
+          },
+          {
+            "sentence": "He spoke with an air of [urgency] that was hard to ignore.",
+            "translation_zh_TW": "他用一種難以忽視的緊迫感說話"
+          }
+        ],
+        "synonyms": [
+          "pressing need",
+          "immediacy"
+        ]
+      }
+    ],
+    "confusion": [
+      "urgently",
+      "urgent",
+      "urge",
+      "urgencys"
+    ]
+  },
+  {
+    "word": "flaw",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mistake or defect in something that causes it to be less perfect.",
+        "meaning_zh_TW": "缺陷",
+        "wrong_meaning_zh_TW": [
+          "餐具",
+          "錯誤",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [flaw] in the design of the product.",
+            "translation_zh_TW": "產品的設計中有一個[缺陷]。"
+          },
+          {
+            "sentence": "Her argument had a serious [flaw] that weakened her case.",
+            "translation_zh_TW": "她的論點有一個嚴重的[缺陷]，使她的論據變弱。"
+          },
+          {
+            "sentence": "We need to address the [flaw] before it becomes a problem.",
+            "translation_zh_TW": "我們需要在[缺陷]成為問題之前處理它。"
+          }
+        ],
+        "synonyms": [
+          "defect",
+          "imperfection",
+          "blemish"
+        ]
+      }
+    ],
+    "confusion": [
+      "flow",
+      "flawsome",
+      "flawe",
+      "floaw"
+    ]
+  },
+  {
+    "word": "endeavor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An attempt to achieve a goal.",
+        "meaning_zh_TW": "努力",
+        "wrong_meaning_zh_TW": [
+          "測試",
+          "遊戲",
+          "玩笑"
+        ],
+        "examples": [
+          {
+            "sentence": "Their [endeavor] to improve the community was commendable.",
+            "translation_zh_TW": "他們改善社區的努力值得讚揚。"
+          },
+          {
+            "sentence": "He put a lot of time into his personal [endeavor].",
+            "translation_zh_TW": "他投入了很多時間在他個人的努力上。"
+          },
+          {
+            "sentence": "Every significant [endeavor] requires dedication.",
+            "translation_zh_TW": "每個重要的努力都需要奉獻。"
+          }
+        ],
+        "synonyms": [
+          "effort",
+          "attempt"
+        ]
+      }
+    ],
+    "confusion": [
+      "endangers",
+      "endow",
+      "endowed",
+      "ender"
+    ]
+  },
+  {
+    "word": "boycott",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To refuse to buy, use, or participate in something as a way of protesting.",
+        "meaning_zh_TW": "抵制",
+        "wrong_meaning_zh_TW": [
+          "支持",
+          "參加",
+          "購買"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [boycott] the product due to unethical practices.",
+            "translation_zh_TW": "他們決定抵制這個產品，因為不道德的行為。"
+          },
+          {
+            "sentence": "Many groups called for a [boycott] against the company's policies.",
+            "translation_zh_TW": "許多團體呼籲抵制該公司的政策。"
+          },
+          {
+            "sentence": "The decision to [boycott] the event was made after much discussion.",
+            "translation_zh_TW": "在充分討論後，決定抵制該事件。"
+          }
+        ],
+        "synonyms": [
+          "refuse",
+          "shun"
+        ]
+      }
+    ],
+    "confusion": [
+      "boycot",
+      "bycott",
+      "bicyclist",
+      "boycotter"
+    ]
+  },
+  {
+    "word": "vitality",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being strong and active; energy.",
+        "meaning_zh_TW": "生命力",
+        "wrong_meaning_zh_TW": [
+          "靜態",
+          "虛弱",
+          "無生命"
+        ],
+        "examples": [
+          {
+            "sentence": "She approached life with great [vitality].",
+            "translation_zh_TW": "她以極大的生命力面對生活。"
+          },
+          {
+            "sentence": "The athlete's [vitality] was evident during the competition.",
+            "translation_zh_TW": "這位運動員在比賽中表現出明顯的生命力。"
+          },
+          {
+            "sentence": "His enthusiasm for his work showed his [vitality].",
+            "translation_zh_TW": "他對工作的熱情顯示了他的生命力。"
+          }
+        ],
+        "synonyms": [
+          "energy",
+          "vigor"
+        ]
+      }
+    ],
+    "confusion": [
+      "vital",
+      "vitale",
+      "vitility",
+      "vitatity"
+    ]
+  },
+  {
+    "word": "analogy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A comparison between two things for the purpose of explanation or clarification.",
+        "meaning_zh_TW": "類比",
+        "wrong_meaning_zh_TW": [
+          "咖啡因",
+          "航海",
+          "幾何"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher used an [analogy] to explain the complex concept.",
+            "translation_zh_TW": "老師用一個類比來解釋這個複雜的概念。"
+          },
+          {
+            "sentence": "An [analogy] can often clarify the relationship between two ideas.",
+            "translation_zh_TW": "類比往往能澄清兩個概念之間的關係。"
+          },
+          {
+            "sentence": "She drew an [analogy] between life and a journey.",
+            "translation_zh_TW": "她將生活與旅程做了一個類比。"
+          }
+        ],
+        "synonyms": [
+          "comparison",
+          "similarity"
+        ]
+      }
+    ],
+    "confusion": [
+      "anatomy",
+      "analytical",
+      "analytica",
+      "analogyy"
+    ]
+  },
+  {
+    "word": "anticipation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of anticipating something; expectation or prediction.",
+        "meaning_zh_TW": "預期",
+        "wrong_meaning_zh_TW": [
+          "遲延",
+          "無知",
+          "後悔"
+        ],
+        "examples": [
+          {
+            "sentence": "She waited in [anticipation] for the results.",
+            "translation_zh_TW": "她期待著結果。"
+          },
+          {
+            "sentence": "The children were filled with [anticipation] on Christmas Eve.",
+            "translation_zh_TW": "孩子們在聖誕夜充滿期待。"
+          },
+          {
+            "sentence": "In [anticipation] of his arrival, they prepared a party.",
+            "translation_zh_TW": "他們在期待他的到來時準備了一個派對。"
+          }
+        ],
+        "synonyms": [
+          "expectation",
+          "hope"
+        ]
+      }
+    ],
+    "confusion": [
+      "anticipate",
+      "anticipative",
+      "anticipation",
+      "antecipation"
+    ]
+  },
+  {
+    "word": "mound",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A raised area of land or a hill.",
+        "meaning_zh_TW": "土堆",
+        "wrong_meaning_zh_TW": [
+          "平地",
+          "沙丘",
+          "水面"
+        ],
+        "examples": [
+          {
+            "sentence": "The children played on the grassy [mound].",
+            "translation_zh_TW": "孩子們在草堆上玩耍。"
+          },
+          {
+            "sentence": "An ancient burial [mound] was discovered.",
+            "translation_zh_TW": "發現了一座古老的埋葬土堆。"
+          },
+          {
+            "sentence": "They built a small [mound] for the garden.",
+            "translation_zh_TW": "他們為花園築了一個小土堆。"
+          }
+        ],
+        "synonyms": [
+          "hill",
+          "knoll"
+        ]
+      }
+    ],
+    "confusion": [
+      "mounder",
+      "mounds",
+      "monde",
+      "mounth"
+    ]
+  },
+  {
+    "word": "bodily",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the physical body.",
+        "meaning_zh_TW": "身體的",
+        "wrong_meaning_zh_TW": [
+          "精神的",
+          "情感的",
+          "心靈的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was apprehended for [bodily] harm.",
+            "translation_zh_TW": "他因身體傷害被逮捕。"
+          },
+          {
+            "sentence": "Bodily movements can express various emotions.",
+            "translation_zh_TW": "身體動作可以表達各種情感。"
+          },
+          {
+            "sentence": "The course will improve your [bodily] awareness.",
+            "translation_zh_TW": "這個課程將改善你的身體意識。"
+          }
+        ],
+        "synonyms": [
+          "physical",
+          "corporal"
+        ]
+      }
+    ],
+    "confusion": [
+      "bodily",
+      "bodyly",
+      "bodly",
+      "bodil"
+    ]
+  },
+  {
+    "word": "lizard",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small to medium-sized reptile with a long body and tail.",
+        "meaning_zh_TW": "蜥蜴",
+        "wrong_meaning_zh_TW": [
+          "蛇",
+          "青蛙",
+          "蜻蜓"
+        ],
+        "examples": [
+          {
+            "sentence": "The [lizard] climbed up the wall with ease.",
+            "translation_zh_TW": "這隻蜥蜴輕鬆地爬上了牆。"
+          },
+          {
+            "sentence": "Some species of [lizard] can change color.",
+            "translation_zh_TW": "某些蜥蜴的物種能改變顏色。"
+          },
+          {
+            "sentence": "He found a [lizard] sunbathing on the rock.",
+            "translation_zh_TW": "他發現一隻蜥蜴在岩石上曬太陽。"
+          }
+        ],
+        "synonyms": [
+          "reptile",
+          "saurian"
+        ]
+      }
+    ],
+    "confusion": [
+      "lazily",
+      "lizard-like",
+      "lizzie",
+      "lzzard"
+    ]
+  },
+  {
+    "word": "cub",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The young of certain animals, such as bears and lions.",
+        "meaning_zh_TW": "幼崽",
+        "wrong_meaning_zh_TW": [
+          "小舟",
+          "小貓",
+          "小狗"
+        ],
+        "examples": [
+          {
+            "sentence": "The bear's [cub] followed closely behind.",
+            "translation_zh_TW": "那隻熊的幼崽緊緊跟隨著。"
+          },
+          {
+            "sentence": "He saw a lion [cub] playing in the grass.",
+            "translation_zh_TW": "他看見一隻獅子幼崽在草地上玩耍。"
+          },
+          {
+            "sentence": "The zookeeper fed the baby [cub] every morning.",
+            "translation_zh_TW": "動物園的飼養員每天早上都餵養幼崽。"
+          }
+        ],
+        "synonyms": [
+          "offspring",
+          "young"
+        ]
+      }
+    ],
+    "confusion": [
+      "cubed",
+      "cubicle",
+      "cubes",
+      "cubator"
+    ]
+  },
+  {
+    "word": "refinement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process of making an idea, method, or system better by including more details.",
+        "meaning_zh_TW": "精緻化",
+        "wrong_meaning_zh_TW": [
+          "文件",
+          "計畫",
+          "運動"
+        ],
+        "examples": [
+          {
+            "sentence": "The [refinement] of the plan took several months.",
+            "translation_zh_TW": "計劃的精緻化花了幾個月。"
+          },
+          {
+            "sentence": "They introduced several [refinements] to enhance productivity.",
+            "translation_zh_TW": "他們引入了幾個精緻化來提高生產力。"
+          },
+          {
+            "sentence": "Achieving [refinement] in skill is an ongoing process.",
+            "translation_zh_TW": "技能的精緻化是一個持續的過程。"
+          }
+        ],
+        "synonyms": [
+          "enhancement",
+          "improvement"
+        ]
+      }
+    ],
+    "confusion": [
+      "refinements",
+      "refinere",
+      "refindment",
+      "refertas"
+    ]
+  },
+  {
+    "word": "wharf",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A structure on the shore of a harbor where ships may dock to load and unload cargo or passengers.",
+        "meaning_zh_TW": "碼頭",
+        "wrong_meaning_zh_TW": [
+          "酒吧",
+          "商業區",
+          "海洋"
+        ],
+        "examples": [
+          {
+            "sentence": "The cargo was unloaded at the [wharf].",
+            "translation_zh_TW": "貨物在碼頭卸下。"
+          },
+          {
+            "sentence": "He walked along the [wharf] enjoying the sea breeze.",
+            "translation_zh_TW": "他在碼頭散步，享受海風。"
+          },
+          {
+            "sentence": "Fishing boats lined the [wharf] early in the morning.",
+            "translation_zh_TW": "早晨，漁船停在碼頭兩旁。"
+          }
+        ],
+        "synonyms": [
+          "dock",
+          "pier",
+          "berth"
+        ]
+      }
+    ],
+    "confusion": [
+      "wharfed",
+      "whiff",
+      "warf",
+      "wharfie"
+    ]
+  },
+  {
+    "word": "breadth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The distance or measurement from side to side of something.",
+        "meaning_zh_TW": "寬度",
+        "wrong_meaning_zh_TW": [
+          "深度",
+          "重量",
+          "長度"
+        ],
+        "examples": [
+          {
+            "sentence": "The [breadth] of the river is impressive.",
+            "translation_zh_TW": "這條河的寬度令人印象深刻"
+          },
+          {
+            "sentence": "He measured the [breadth] of the table.",
+            "translation_zh_TW": "他測量了桌子的寬度"
+          },
+          {
+            "sentence": "The [breadth] of her knowledge is astounding.",
+            "translation_zh_TW": "她的知識廣度令人驚訝"
+          }
+        ],
+        "synonyms": [
+          "width",
+          "extent"
+        ]
+      }
+    ],
+    "confusion": [
+      "breathe",
+      "broth",
+      "breath",
+      "broad"
+    ]
+  }
+]

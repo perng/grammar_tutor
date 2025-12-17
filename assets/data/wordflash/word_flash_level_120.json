@@ -1,0 +1,770 @@
+[
+  {
+    "word": "criminal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who commits a crime.",
+        "meaning_zh_TW": "罪犯",
+        "wrong_meaning_zh_TW": [
+          "受害者",
+          "警察",
+          "法官"
+        ],
+        "examples": [
+          {
+            "sentence": "The [criminal] was caught by the police.",
+            "translation_zh_TW": "罪犯被警察抓到了"
+          },
+          {
+            "sentence": "She testified against the [criminal] in court.",
+            "translation_zh_TW": "她在法庭上作證對抗罪犯"
+          },
+          {
+            "sentence": "He is a known [criminal] in the area.",
+            "translation_zh_TW": "他是在此地的知名罪犯"
+          }
+        ],
+        "synonyms": [
+          "offender",
+          "lawbreaker"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to crime or its punishment.",
+        "meaning_zh_TW": "犯罪的",
+        "wrong_meaning_zh_TW": [
+          "合法的",
+          "和平的",
+          "無辜的"
+        ],
+        "examples": [
+          {
+            "sentence": "They are studying [criminal] psychology.",
+            "translation_zh_TW": "他們正在研究犯罪心理學"
+          },
+          {
+            "sentence": "The [criminal] justice system is crucial.",
+            "translation_zh_TW": "刑事司法系統至關重要"
+          },
+          {
+            "sentence": "She works in [criminal] law.",
+            "translation_zh_TW": "她從事刑事法律工作"
+          }
+        ],
+        "synonyms": [
+          "illegal",
+          "offensive"
+        ]
+      }
+    ],
+    "confusion": [
+      "criminality",
+      "crimanal",
+      "criminol",
+      "crinimal"
+    ]
+  },
+  {
+    "word": "sexual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the instincts, physiological processes, and activities connected with physical attraction or intimate physical contact between individuals.",
+        "meaning_zh_TW": "與性慾有關的",
+        "wrong_meaning_zh_TW": [
+          "社交的",
+          "藝術的",
+          "情感的"
+        ],
+        "examples": [
+          {
+            "sentence": "He wrote a book about [sexual] health.",
+            "translation_zh_TW": "他寫了一本關於性健康的書。"
+          },
+          {
+            "sentence": "The film explores [sexual] relationships.",
+            "translation_zh_TW": "這部電影探討了性關係。"
+          },
+          {
+            "sentence": "They held a seminar on [sexual] education.",
+            "translation_zh_TW": "他們舉行了一個性教育研討會。"
+          }
+        ],
+        "synonyms": [
+          "erotic",
+          "intimate"
+        ]
+      }
+    ],
+    "confusion": [
+      "secular",
+      "sexually",
+      "sectional",
+      "secretion"
+    ]
+  },
+  {
+    "word": "cast",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To throw something with force, or to assign roles to actors.",
+        "meaning_zh_TW": "拋；投；分配角色",
+        "wrong_meaning_zh_TW": [
+          "演員",
+          "模型",
+          "經驗"
+        ],
+        "examples": [
+          {
+            "sentence": "He will [cast] the fishing line into the water.",
+            "translation_zh_TW": "他將釣線拋入水中。"
+          },
+          {
+            "sentence": "The director decided to [cast] her in the lead role.",
+            "translation_zh_TW": "導演決定讓她擔任主角。"
+          },
+          {
+            "sentence": "They [cast] their votes in the election.",
+            "translation_zh_TW": "他們在選舉中投票。"
+          }
+        ],
+        "synonyms": [
+          "throw",
+          "assign"
+        ]
+      }
+    ],
+    "confusion": [
+      "cat",
+      "casted",
+      "cost",
+      "case"
+    ]
+  },
+  {
+    "word": "promote",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To support or actively encourage a cause or venture.",
+        "meaning_zh_TW": "促進，推廣",
+        "wrong_meaning_zh_TW": [
+          "反對",
+          "限制",
+          "削弱"
+        ],
+        "examples": [
+          {
+            "sentence": "The company aims to [promote] sustainable practices.",
+            "translation_zh_TW": "該公司旨在推廣可持續的做法"
+          },
+          {
+            "sentence": "They are working to [promote] health awareness among students.",
+            "translation_zh_TW": "他們正致力於提高學生的健康意識"
+          },
+          {
+            "sentence": "The campaign was designed to [promote] the new product.",
+            "translation_zh_TW": "該活動是為了推廣新產品而設計的"
+          }
+        ],
+        "synonyms": [
+          "advocate",
+          "boost"
+        ]
+      }
+    ],
+    "confusion": [
+      "prompt",
+      "promise",
+      "prominent",
+      "promoter"
+    ]
+  },
+  {
+    "word": "advantage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A condition or circumstance that puts one in a favorable or superior position.",
+        "meaning_zh_TW": "優勢、好處",
+        "wrong_meaning_zh_TW": [
+          "劣勢",
+          "困難",
+          "障礙"
+        ],
+        "examples": [
+          {
+            "sentence": "Their experience gave them an [advantage] over the competition.",
+            "translation_zh_TW": "他們的經驗讓他們在競爭中佔據了優勢。"
+          },
+          {
+            "sentence": "Having strong connections is an [advantage] in business.",
+            "translation_zh_TW": "擁有強大的人脈在商業上是一種優勢。"
+          },
+          {
+            "sentence": "Knowledge of the market is an important [advantage].",
+            "translation_zh_TW": "對市場的了解是重要的好處。"
+          }
+        ],
+        "synonyms": [
+          "benefit",
+          "upper hand"
+        ]
+      }
+    ],
+    "confusion": [
+      "advantge",
+      "advatage",
+      "advantadge",
+      "advanttage"
+    ]
+  },
+  {
+    "word": "tourism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The activity of traveling for pleasure or business.",
+        "meaning_zh_TW": "旅遊業",
+        "wrong_meaning_zh_TW": [
+          "運輸",
+          "居住",
+          "研究"
+        ],
+        "examples": [
+          {
+            "sentence": "The region relies heavily on [tourism] for its economy.",
+            "translation_zh_TW": "該地區的經濟高度依賴旅遊業"
+          },
+          {
+            "sentence": "Sustainable [tourism] is becoming more popular.",
+            "translation_zh_TW": "可持續旅遊正在變得越來越受歡迎"
+          },
+          {
+            "sentence": "She is studying [tourism] management at university.",
+            "translation_zh_TW": "她在大學學習旅遊管理"
+          }
+        ],
+        "synonyms": [
+          "travel",
+          "hospitality"
+        ]
+      }
+    ],
+    "confusion": [
+      "toursim",
+      "torism",
+      "touris",
+      "tourisms"
+    ]
+  },
+  {
+    "word": "atom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The smallest unit of a chemical element.",
+        "meaning_zh_TW": "原子",
+        "wrong_meaning_zh_TW": [
+          "分子、粒子",
+          "離子、電子",
+          "細胞、機構"
+        ],
+        "examples": [
+          {
+            "sentence": "An [atom] consists of protons, neutrons, and electrons.",
+            "translation_zh_TW": "一個原子由質子、中子和電子組成"
+          },
+          {
+            "sentence": "Atoms combine to form molecules.",
+            "translation_zh_TW": "原子結合形成分子"
+          },
+          {
+            "sentence": "The study of [atom] is essential in chemistry.",
+            "translation_zh_TW": "原子的研究在化學中是必不可少的"
+          }
+        ],
+        "synonyms": [
+          "particle",
+          "element"
+        ]
+      }
+    ],
+    "confusion": [
+      "atoms",
+      "atomic",
+      "atomize",
+      "atome"
+    ]
+  },
+  {
+    "word": "alert",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able to think clearly and quicky; attentive.",
+        "meaning_zh_TW": "警覺的",
+        "wrong_meaning_zh_TW": [
+          "懶惰的",
+          "沉睡的",
+          "茫然的"
+        ],
+        "examples": [
+          {
+            "sentence": "You must stay [alert] while driving.",
+            "translation_zh_TW": "開車時你必須保持警覺。"
+          },
+          {
+            "sentence": "He was [alert] to any signs of trouble.",
+            "translation_zh_TW": "他對任何問題的跡象都很警覺。"
+          },
+          {
+            "sentence": "She remained [alert] throughout the meeting.",
+            "translation_zh_TW": "她在會議中保持警覺。"
+          }
+        ],
+        "synonyms": [
+          "vigilant",
+          "watchful"
+        ]
+      }
+    ],
+    "confusion": [
+      "allert",
+      "alette",
+      "alart",
+      "alrert"
+    ]
+  },
+  {
+    "word": "tag",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A label attached to someone or something for the purpose of identification or further information.",
+        "meaning_zh_TW": "標籤",
+        "wrong_meaning_zh_TW": [
+          "標本",
+          "表情",
+          "徽章"
+        ],
+        "examples": [
+          {
+            "sentence": "The [tag] on the shirt indicates the size.",
+            "translation_zh_TW": "襯衫上的標籤顯示了尺寸"
+          },
+          {
+            "sentence": "She wrote her name on the [tag] for the gift.",
+            "translation_zh_TW": "她在禮物的標籤上寫下了她的名字"
+          },
+          {
+            "sentence": "The price [tag] was missing from the item.",
+            "translation_zh_TW": "那個物品的價格標籤不見了"
+          }
+        ],
+        "synonyms": [
+          "label",
+          "marker"
+        ]
+      }
+    ],
+    "confusion": [
+      "tagging",
+      "tug",
+      "tog",
+      "tagger"
+    ]
+  },
+  {
+    "word": "disk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A flat, circular object.",
+        "meaning_zh_TW": "圓盤",
+        "wrong_meaning_zh_TW": [
+          "盤子",
+          "圓形",
+          "圓環"
+        ],
+        "examples": [
+          {
+            "sentence": "He placed the record on the [disk] player.",
+            "translation_zh_TW": "他把唱片放在音響上。"
+          },
+          {
+            "sentence": "The hard [disk] stores all the data.",
+            "translation_zh_TW": "硬碟儲存所有數據。"
+          },
+          {
+            "sentence": "A [disk] of cheese can be cut into pieces.",
+            "translation_zh_TW": "一片奶酪可以切成幾塊。"
+          }
+        ],
+        "synonyms": [
+          "disc"
+        ]
+      }
+    ],
+    "confusion": [
+      "disks",
+      "disks",
+      "diks",
+      "dics"
+    ]
+  },
+  {
+    "word": "associate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To link or connect one thing with another.",
+        "meaning_zh_TW": "聯繫、關聯",
+        "wrong_meaning_zh_TW": [
+          "分開、孤立",
+          "忘記、遺失",
+          "隔離、隔開"
+        ],
+        "examples": [
+          {
+            "sentence": "I [associate] the smell of cookies with my childhood.",
+            "translation_zh_TW": "我將餅乾的氣味與我的童年聯繫起來。"
+          },
+          {
+            "sentence": "Many people [associate] blue with calmness.",
+            "translation_zh_TW": "許多人將藍色與平靜聯繫在一起。"
+          },
+          {
+            "sentence": "She does not want to [associate] with negative influences.",
+            "translation_zh_TW": "她不想與負面影響聯繫在一起。"
+          }
+        ],
+        "synonyms": [
+          "link",
+          "connect"
+        ]
+      }
+    ],
+    "confusion": [
+      "asociate",
+      "associatee",
+      "assocaite",
+      "associatte"
+    ]
+  },
+  {
+    "word": "ray",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A narrow beam of light.",
+        "meaning_zh_TW": "光線",
+        "wrong_meaning_zh_TW": [
+          "陰影",
+          "波浪",
+          "視線"
+        ],
+        "examples": [
+          {
+            "sentence": "A [ray] of sunshine broke through the clouds.",
+            "translation_zh_TW": "一束光線穿透雲層。"
+          },
+          {
+            "sentence": "The dancer looked beautiful in the [ray] of spotlight.",
+            "translation_zh_TW": "舞者在聚光燈下看起來很美。"
+          },
+          {
+            "sentence": "The [ray] of light illuminated the dark room.",
+            "translation_zh_TW": "光線照亮了黑暗的房間。"
+          }
+        ],
+        "synonyms": [
+          "beam",
+          "light"
+        ]
+      }
+    ],
+    "confusion": [
+      "rays",
+      "rayon",
+      "Rays",
+      "race"
+    ]
+  },
+  {
+    "word": "whatever",
+    "meanings": [
+      {
+        "type": "代名詞",
+        "meaning_en_US": "Anything or everything; no matter what.",
+        "meaning_zh_TW": "任何",
+        "wrong_meaning_zh_TW": [
+          "沒有",
+          "一點點",
+          "特定的"
+        ],
+        "examples": [
+          {
+            "sentence": "You can choose [whatever] you like.",
+            "translation_zh_TW": "你可以選擇任何你喜歡的"
+          },
+          {
+            "sentence": "I’ll support you, [whatever] happens.",
+            "translation_zh_TW": "無論發生什麼，我都會支持你"
+          },
+          {
+            "sentence": "Just say [whatever], and I’ll listen.",
+            "translation_zh_TW": "隨便說什麼，我都願意聆聽"
+          }
+        ],
+        "synonyms": [
+          "anything",
+          "no matter what"
+        ]
+      }
+    ],
+    "confusion": [
+      "whenever",
+      "whateverly",
+      "whatsoever",
+      "wherever"
+    ]
+  },
+  {
+    "word": "explore",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To travel through an unfamiliar area to learn about it.",
+        "meaning_zh_TW": "探索",
+        "wrong_meaning_zh_TW": [
+          "擁抱",
+          "使用",
+          "折磨"
+        ],
+        "examples": [
+          {
+            "sentence": "They set out to [explore] the ancient ruins.",
+            "translation_zh_TW": "他們出發去探索古代遺跡"
+          },
+          {
+            "sentence": "The scientists want to [explore] the ocean depths.",
+            "translation_zh_TW": "科學家們想要探索海洋深處"
+          },
+          {
+            "sentence": "She loves to [explore] new cultures when she travels.",
+            "translation_zh_TW": "她喜歡在旅行中探索新文化"
+          }
+        ],
+        "synonyms": [
+          "investigate",
+          "discover"
+        ]
+      }
+    ],
+    "confusion": [
+      "exploit",
+      "explain",
+      "explainable",
+      "export"
+    ]
+  },
+  {
+    "word": "frank",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Open, honest, and direct in speech.",
+        "meaning_zh_TW": "坦率",
+        "wrong_meaning_zh_TW": [
+          "狡猾",
+          "隱瞞",
+          "不誠實"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave a [frank] answer to the question.",
+            "translation_zh_TW": "她對這個問題給出了坦率的回答。"
+          },
+          {
+            "sentence": "We had a [frank] discussion about our concerns.",
+            "translation_zh_TW": "我們進行了一次坦誠的討論，談及我們的擔憂。"
+          },
+          {
+            "sentence": "His [frank] opinion surprised everyone.",
+            "translation_zh_TW": "他的直言不諱讓大家都感到驚訝。"
+          }
+        ],
+        "synonyms": [
+          "candid",
+          "honest"
+        ]
+      }
+    ],
+    "confusion": [
+      "rank",
+      "frankly",
+      "frankfurter",
+      "frankness"
+    ]
+  },
+  {
+    "word": "clip",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device used to fasten or hold things together.",
+        "meaning_zh_TW": "夾子",
+        "wrong_meaning_zh_TW": [
+          "裝飾品",
+          "零件",
+          "裝訂工具"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a [clip] to hold the papers together.",
+            "translation_zh_TW": "她用夾子把紙張固定在一起。"
+          },
+          {
+            "sentence": "The hair [clip] matches her outfit.",
+            "translation_zh_TW": "這個髮夾很配她的服裝。"
+          },
+          {
+            "sentence": "He put a [clip] on the envelope to keep it closed.",
+            "translation_zh_TW": "他在信封上放了一個夾子以保持其封閉。"
+          }
+        ],
+        "synonyms": [
+          "fastener",
+          "holder"
+        ]
+      }
+    ],
+    "confusion": [
+      "clap",
+      "cloak",
+      "clop",
+      "flip"
+    ]
+  },
+  {
+    "word": "wire",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin, flexible thread of metal.",
+        "meaning_zh_TW": "金屬線",
+        "wrong_meaning_zh_TW": [
+          "繩索",
+          "管道",
+          "木頭"
+        ],
+        "examples": [
+          {
+            "sentence": "He connected the circuit using a small [wire].",
+            "translation_zh_TW": "他用小金屬線連接了電路。"
+          },
+          {
+            "sentence": "The fence was made of barbed [wire].",
+            "translation_zh_TW": "這個圍欄是用帶刺的金屬線製成的。"
+          },
+          {
+            "sentence": "She used a [wire] to hold the decorations in place.",
+            "translation_zh_TW": "她用金屬線固定裝飾物。"
+          }
+        ],
+        "synonyms": [
+          "cable",
+          "thread"
+        ]
+      }
+    ],
+    "confusion": [
+      "fire",
+      "tire",
+      "wore",
+      "wise"
+    ]
+  },
+  {
+    "word": "replacement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing that takes the place of another.",
+        "meaning_zh_TW": "替代物、置換品",
+        "wrong_meaning_zh_TW": [
+          "補充品、補給",
+          "增強品、強化",
+          "裝飾品、裝扮"
+        ],
+        "examples": [
+          {
+            "sentence": "The nurse ordered a [replacement] for the worn-out equipment.",
+            "translation_zh_TW": "護士要求更換磨損的設備。"
+          },
+          {
+            "sentence": "This model is a [replacement] for the previous version.",
+            "translation_zh_TW": "這個型號是之前版本的替代品。"
+          },
+          {
+            "sentence": "Finding a suitable [replacement] took longer than expected.",
+            "translation_zh_TW": "找到合適的替代品比預期的時間更久。"
+          }
+        ],
+        "synonyms": [
+          "substitute",
+          "exchange"
+        ]
+      }
+    ],
+    "confusion": [
+      "placements",
+      "replacements",
+      "replaecement",
+      "re-invalid"
+    ]
+  },
+  {
+    "word": "acid",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A chemical substance that neutralizes alkalis.",
+        "meaning_zh_TW": "酸",
+        "wrong_meaning_zh_TW": [
+          "鹼",
+          "水",
+          "油"
+        ],
+        "examples": [
+          {
+            "sentence": "Vinegar is a common type of [acid].",
+            "translation_zh_TW": "醋是一種常見的酸"
+          },
+          {
+            "sentence": "The [acid] can react with metals.",
+            "translation_zh_TW": "這種酸可能與金屬反應"
+          },
+          {
+            "sentence": "We learned about different types of [acids] in chemistry class.",
+            "translation_zh_TW": "我們在化學課上學習了不同種類的酸"
+          }
+        ],
+        "synonyms": [
+          "sour",
+          "acerbic"
+        ]
+      }
+    ],
+    "confusion": [
+      "acids",
+      "acidic",
+      "acidy",
+      "acidify"
+    ]
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "word": "smoke",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The gas and other products given off when a substance is burned.",
+        "meaning_zh_TW": "煙",
+        "wrong_meaning_zh_TW": [
+          "霧",
+          "氣體",
+          "霜"
+        ],
+        "examples": [
+          {
+            "sentence": "The [smoke] from the fire filled the room.",
+            "translation_zh_TW": "火焰產生的煙霧充滿了房間。"
+          },
+          {
+            "sentence": "He couldn't see through the thick [smoke].",
+            "translation_zh_TW": "他無法透過濃厚的煙霧看清楚。"
+          },
+          {
+            "sentence": "The [smoke] alarm went off when it detected fire.",
+            "translation_zh_TW": "煙霧警報器在偵測到火災時響起。"
+          }
+        ],
+        "synonyms": [
+          "fumes",
+          "smog",
+          "vapor"
+        ]
+      }
+    ],
+    "confusion": [
+      "smoky",
+      "snoke",
+      "sloke",
+      "smokes"
+    ]
+  },
+  {
+    "word": "cake",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sweet baked food made from flour, sugar, and other ingredients.",
+        "meaning_zh_TW": "蛋糕",
+        "wrong_meaning_zh_TW": [
+          "饅頭",
+          "餅乾",
+          "巧克力"
+        ],
+        "examples": [
+          {
+            "sentence": "She baked a delicious [cake] for the party.",
+            "translation_zh_TW": "她為派對烤了一個美味的蛋糕。"
+          },
+          {
+            "sentence": "They served [cake] after dinner.",
+            "translation_zh_TW": "他們在晚餐後提供了蛋糕。"
+          },
+          {
+            "sentence": "The birthday [cake] was beautifully decorated.",
+            "translation_zh_TW": "生日蛋糕裝飾得很漂亮。"
+          }
+        ],
+        "synonyms": [
+          "pastry",
+          "dessert"
+        ]
+      }
+    ],
+    "confusion": [
+      "bake",
+      "fake",
+      "cakewalk",
+      "cakelet"
+    ]
+  },
+  {
+    "word": "blind",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Unable to see; lacking the sense of sight.",
+        "meaning_zh_TW": "失明的",
+        "wrong_meaning_zh_TW": [
+          "聰明的",
+          "盲目的",
+          "直觀的"
+        ],
+        "examples": [
+          {
+            "sentence": "The man was born [blind].",
+            "translation_zh_TW": "那個人天生失明。"
+          },
+          {
+            "sentence": "She is [blind] to the dangers around her.",
+            "translation_zh_TW": "她對周圍的危險視而不見。"
+          },
+          {
+            "sentence": "The [blind] dog navigated the room carefully.",
+            "translation_zh_TW": "那隻失明的狗小心翼翼地在房間裡走動。"
+          }
+        ],
+        "synonyms": [
+          "sightless",
+          "visually impaired"
+        ]
+      }
+    ],
+    "confusion": [
+      "blinds",
+      "blinded",
+      "bind",
+      "blend"
+    ]
+  },
+  {
+    "word": "mad",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Mentally ill; insane.",
+        "meaning_zh_TW": "瘋狂的",
+        "wrong_meaning_zh_TW": [
+          "快樂的",
+          "悲傷的",
+          "懶惰的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was so [mad] that he couldn't think straight.",
+            "translation_zh_TW": "他瘋狂到無法思考清楚。"
+          },
+          {
+            "sentence": "The idea seemed [mad] to her at first.",
+            "translation_zh_TW": "這個想法對她來說一開始看起來很瘋狂。"
+          },
+          {
+            "sentence": "It was a [mad] dash to the finish line.",
+            "translation_zh_TW": "那是一次瘋狂的衝刺到終點。"
+          }
+        ],
+        "synonyms": [
+          "insane",
+          "crazy"
+        ]
+      }
+    ],
+    "confusion": [
+      "made",
+      "madly",
+      "sad",
+      "madness"
+    ]
+  },
+  {
+    "word": "pen",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An instrument for writing or drawing with ink.",
+        "meaning_zh_TW": "鋼筆",
+        "wrong_meaning_zh_TW": [
+          "鉛筆",
+          "顏料",
+          "油漆"
+        ],
+        "examples": [
+          {
+            "sentence": "She wrote a letter with a blue [pen].",
+            "translation_zh_TW": "她用藍色鋼筆寫了一封信。"
+          },
+          {
+            "sentence": "I need a [pen] to sign this document.",
+            "translation_zh_TW": "我需要一支鋼筆來簽署這份文件。"
+          },
+          {
+            "sentence": "This [pen] has a smooth ink flow.",
+            "translation_zh_TW": "這支鋼筆的墨水流暢。"
+          }
+        ],
+        "synonyms": [
+          "writing instrument",
+          "ink pen"
+        ]
+      }
+    ],
+    "confusion": [
+      "penne",
+      "pain",
+      "pane",
+      "penny"
+    ]
+  },
+  {
+    "word": "shoe",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A covering for the foot, typically made of leather or other durable materials.",
+        "meaning_zh_TW": "鞋子",
+        "wrong_meaning_zh_TW": [
+          "襪子",
+          "靴子",
+          "拖鞋"
+        ],
+        "examples": [
+          {
+            "sentence": "He bought a new pair of [shoes].",
+            "translation_zh_TW": "他買了一雙新鞋子"
+          },
+          {
+            "sentence": "She wore red [shoes] to the party.",
+            "translation_zh_TW": "她在派對上穿了紅色鞋子"
+          },
+          {
+            "sentence": "These [shoes] are very comfortable.",
+            "translation_zh_TW": "這雙鞋子非常舒適"
+          }
+        ],
+        "synonyms": [
+          "footwear",
+          "sandal"
+        ]
+      }
+    ],
+    "confusion": [
+      "shore",
+      "show",
+      "shoo",
+      "shoal"
+    ]
+  },
+  {
+    "word": "joy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of great pleasure and happiness.",
+        "meaning_zh_TW": "喜悅",
+        "wrong_meaning_zh_TW": [
+          "悲傷",
+          "失望",
+          "憤怒"
+        ],
+        "examples": [
+          {
+            "sentence": "She was filled with joy at the good news.",
+            "translation_zh_TW": "她因好消息而充滿喜悅"
+          },
+          {
+            "sentence": "The children's laughter brought him immense joy.",
+            "translation_zh_TW": "孩子們的笑聲給了他無比的喜悅"
+          },
+          {
+            "sentence": "Finding her long-lost friend filled her with joy.",
+            "translation_zh_TW": "找到她失散已久的朋友讓她充滿喜悅"
+          }
+        ],
+        "synonyms": [
+          "happiness",
+          "delight"
+        ]
+      }
+    ],
+    "confusion": [
+      "job",
+      "toy",
+      "joke",
+      "joyful"
+    ]
+  },
+  {
+    "word": "actor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who performs in plays, movies, or television.",
+        "meaning_zh_TW": "演員",
+        "wrong_meaning_zh_TW": [
+          "播放者",
+          "導演",
+          "舞台"
+        ],
+        "examples": [
+          {
+            "sentence": "The [actor] received an award for his performance.",
+            "translation_zh_TW": "這位演員因其表現獲得了獎項"
+          },
+          {
+            "sentence": "She wants to become a famous [actor].",
+            "translation_zh_TW": "她想成為一位著名的演員"
+          },
+          {
+            "sentence": "The [actor] portrayed the character beautifully.",
+            "translation_zh_TW": "這位演員完美地詮釋了這個角色"
+          }
+        ],
+        "synonyms": [
+          "performer",
+          "star"
+        ]
+      }
+    ],
+    "confusion": [
+      "actress",
+      "active",
+      "action",
+      "actor's"
+    ]
+  },
+  {
+    "word": "fifth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The position in a sequence corresponding to the number five.",
+        "meaning_zh_TW": "第五",
+        "wrong_meaning_zh_TW": [
+          "第一",
+          "第二",
+          "第三"
+        ],
+        "examples": [
+          {
+            "sentence": "He finished in [fifth] place in the race.",
+            "translation_zh_TW": "他在比賽中獲得了第五名。"
+          },
+          {
+            "sentence": "The [fifth] chapter of the book is very interesting.",
+            "translation_zh_TW": "這本書的第五章非常有趣。"
+          },
+          {
+            "sentence": "She is the [fifth] member of our team.",
+            "translation_zh_TW": "她是我們團隊的第五位成員。"
+          }
+        ],
+        "synonyms": [
+          "5th",
+          "fifthly"
+        ]
+      }
+    ],
+    "confusion": [
+      "fifty",
+      "fifteen",
+      "fift",
+      "fifthly"
+    ]
+  },
+  {
+    "word": "pipe",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tube through which a liquid or gas can flow.",
+        "meaning_zh_TW": "管子",
+        "wrong_meaning_zh_TW": [
+          "煙斗",
+          "竇孔",
+          "伐木器"
+        ],
+        "examples": [
+          {
+            "sentence": "The water flows through the [pipe].",
+            "translation_zh_TW": "水通過管子流動。"
+          },
+          {
+            "sentence": "He fixed the broken [pipe] in the bathroom.",
+            "translation_zh_TW": "他修理了浴室裡壞掉的管子。"
+          },
+          {
+            "sentence": "They installed a new [pipe] for the heating system.",
+            "translation_zh_TW": "他們安裝了一根新的管子進行暖氣系統。"
+          }
+        ],
+        "synonyms": [
+          "tube",
+          "conduit"
+        ]
+      }
+    ],
+    "confusion": [
+      "pike",
+      "chip",
+      "dive",
+      "pipefish"
+    ]
+  },
+  {
+    "word": "dirty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Soiled or unclean; not clean.",
+        "meaning_zh_TW": "骯髒的",
+        "wrong_meaning_zh_TW": [
+          "乾淨的",
+          "整潔的",
+          "明亮的"
+        ],
+        "examples": [
+          {
+            "sentence": "The kitchen was [dirty] after cooking.",
+            "translation_zh_TW": "廚房在烹飪後變得骯髒。"
+          },
+          {
+            "sentence": "He wore a [dirty] shirt to the meeting.",
+            "translation_zh_TW": "他穿著一件骯髒的襯衫參加會議。"
+          },
+          {
+            "sentence": "The dog rolled in the mud and got [dirty].",
+            "translation_zh_TW": "狗在泥巴裡打滾，變得骯髒。"
+          }
+        ],
+        "synonyms": [
+          "filthy",
+          "grimy"
+        ]
+      }
+    ],
+    "confusion": [
+      "dirtily",
+      "dirtier",
+      "dirtiness",
+      "dirtying"
+    ]
+  },
+  {
+    "word": "temple",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A building devoted to the worship or considered to be the dwelling place of a deity.",
+        "meaning_zh_TW": "寺廟",
+        "wrong_meaning_zh_TW": [
+          "教堂",
+          "宴會廳",
+          "學校"
+        ],
+        "examples": [
+          {
+            "sentence": "The ancient [temple] was a site of pilgrimage.",
+            "translation_zh_TW": "這座古老的寺廟是朝聖的地方。"
+          },
+          {
+            "sentence": "Visitors are expected to remove their shoes before entering the [temple].",
+            "translation_zh_TW": "進入寺廟前，訪客需脫鞋。"
+          },
+          {
+            "sentence": "A beautiful garden surrounds the [temple].",
+            "translation_zh_TW": "寺廟周圍有一個美麗的花園。"
+          }
+        ],
+        "synonyms": [
+          "shrine",
+          "sanctuary"
+        ]
+      }
+    ],
+    "confusion": [
+      "tempo",
+      "temporal",
+      "template",
+      "tempered"
+    ]
+  },
+  {
+    "word": "thin",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a small distance between opposite sides.",
+        "meaning_zh_TW": "薄的",
+        "wrong_meaning_zh_TW": [
+          "厚的",
+          "堅固的",
+          "寬的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [thin] sweater in winter.",
+            "translation_zh_TW": "她在冬天穿了一件薄毛衣。"
+          },
+          {
+            "sentence": "The ice was too [thin] to skate on.",
+            "translation_zh_TW": "冰面太薄，無法滑冰。"
+          },
+          {
+            "sentence": "He cut a [thin] slice of bread.",
+            "translation_zh_TW": "他切了一片薄麵包。"
+          }
+        ],
+        "synonyms": [
+          "slim",
+          "fine"
+        ]
+      }
+    ],
+    "confusion": [
+      "thing",
+      "thinly",
+      "thine",
+      "thang"
+    ]
+  },
+  {
+    "word": "sick",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Affected by physical or mental illness.",
+        "meaning_zh_TW": "生病的",
+        "wrong_meaning_zh_TW": [
+          "健康的",
+          "強壯的",
+          "聰明的"
+        ],
+        "examples": [
+          {
+            "sentence": "He stayed home because he was feeling [sick].",
+            "translation_zh_TW": "他因為感覺不適而待在家裡"
+          },
+          {
+            "sentence": "She looked [sick] after missing several meals.",
+            "translation_zh_TW": "她錯過幾餐後看起來很虛弱"
+          },
+          {
+            "sentence": "The [sick] child needs to see a doctor.",
+            "translation_zh_TW": "生病的孩子需要看醫生"
+          }
+        ],
+        "synonyms": [
+          "ill",
+          "unwell"
+        ]
+      }
+    ],
+    "confusion": [
+      "slick",
+      "sock",
+      "sickly",
+      "sics"
+    ]
+  },
+  {
+    "word": "collect",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To gather items or data together.",
+        "meaning_zh_TW": "收集物品或數據",
+        "wrong_meaning_zh_TW": [
+          "扔掉物品",
+          "分散注意力",
+          "送出去"
+        ],
+        "examples": [
+          {
+            "sentence": "She began to [collect] stamps from around the world.",
+            "translation_zh_TW": "她開始收集來自世界各地的郵票。"
+          },
+          {
+            "sentence": "They plan to [collect] data for the research project.",
+            "translation_zh_TW": "他們計劃收集數據進行研究。"
+          },
+          {
+            "sentence": "He was eager to [collect] stories from the town's history.",
+            "translation_zh_TW": "他渴望收集這個小鎮的歷史故事。"
+          }
+        ],
+        "synonyms": [
+          "gather",
+          "amass"
+        ]
+      }
+    ],
+    "confusion": [
+      "connect",
+      "collec",
+      "collects",
+      "collectible"
+    ]
+  },
+  {
+    "word": "throw",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To propel something with force through the air by a movement of the arm and hand.",
+        "meaning_zh_TW": "投擲",
+        "wrong_meaning_zh_TW": [
+          "接住",
+          "擾動",
+          "循環"
+        ],
+        "examples": [
+          {
+            "sentence": "He can [throw] the ball over 50 meters.",
+            "translation_zh_TW": "他能將球投擲超過50公尺。"
+          },
+          {
+            "sentence": "Don't [throw] the paper away until you've read it.",
+            "translation_zh_TW": "在閱讀之前不要把紙扔掉。"
+          },
+          {
+            "sentence": "She will [throw] a party for her birthday.",
+            "translation_zh_TW": "她將為她的生日舉辦一個派對。"
+          }
+        ],
+        "synonyms": [
+          "hurl",
+          "launch"
+        ]
+      }
+    ],
+    "confusion": [
+      "through",
+      "threw",
+      "throe",
+      "thow"
+    ]
+  },
+  {
+    "word": "okay",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Used to express assent, agreement, or approval.",
+        "meaning_zh_TW": "好、可以",
+        "wrong_meaning_zh_TW": [
+          "不行、拒絕",
+          "錯誤、失誤",
+          "抗拒、拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "Is it [okay] to leave early today?",
+            "translation_zh_TW": "今天提前離開可以嗎？"
+          },
+          {
+            "sentence": "He said it was [okay] to continue working on the project.",
+            "translation_zh_TW": "他說可以繼續進行這個項目。"
+          },
+          {
+            "sentence": "We should be [okay] with the proposed changes.",
+            "translation_zh_TW": "我們應該對這些提議的變更感到滿意。"
+          }
+        ],
+        "synonyms": [
+          "fine",
+          "acceptable"
+        ]
+      }
+    ],
+    "confusion": [
+      "okey",
+      "okkay",
+      "ok",
+      "ookay"
+    ]
+  },
+  {
+    "word": "ear",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The organ of hearing and balance in humans and other vertebrates.",
+        "meaning_zh_TW": "耳朵",
+        "wrong_meaning_zh_TW": [
+          "鼻子",
+          "嘴巴",
+          "眼睛"
+        ],
+        "examples": [
+          {
+            "sentence": "She whispered in my [ear].",
+            "translation_zh_TW": "她在我耳邊低語"
+          },
+          {
+            "sentence": "He has a piercing in his left [ear].",
+            "translation_zh_TW": "他左耳有個穿孔"
+          },
+          {
+            "sentence": "The sound echoed in my [ear].",
+            "translation_zh_TW": "聲音在我耳邊迴響"
+          }
+        ],
+        "synonyms": [
+          "auditory organ",
+          "hearing organ"
+        ]
+      }
+    ],
+    "confusion": [
+      "are",
+      "ior",
+      "earl",
+      "earn"
+    ]
+  },
+  {
+    "word": "abroad",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In or to a foreign country or countries.",
+        "meaning_zh_TW": "在國外",
+        "wrong_meaning_zh_TW": [
+          "在家裡",
+          "在海邊",
+          "在森林裡"
+        ],
+        "examples": [
+          {
+            "sentence": "She studied [abroad] for a year.",
+            "translation_zh_TW": "她在國外學習了一年。"
+          },
+          {
+            "sentence": "Traveling [abroad] opens your mind.",
+            "translation_zh_TW": "出國旅行開闊你的視野。"
+          },
+          {
+            "sentence": "He often goes [abroad] for business.",
+            "translation_zh_TW": "他經常出國出差。"
+          }
+        ],
+        "synonyms": [
+          "overseas",
+          "outside"
+        ]
+      }
+    ],
+    "confusion": [
+      "broad",
+      "brood",
+      "abord",
+      "a broad"
+    ]
+  },
+  {
+    "word": "tie",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To bind or fasten something with a string or rope.",
+        "meaning_zh_TW": "綁",
+        "wrong_meaning_zh_TW": [
+          "解開",
+          "游泳",
+          "拖走"
+        ],
+        "examples": [
+          {
+            "sentence": "He will [tie] a ribbon around the gift.",
+            "translation_zh_TW": "他會把絲帶綁在禮物上。"
+          },
+          {
+            "sentence": "She learned to [tie] her shoes when she was five.",
+            "translation_zh_TW": "她五歲時學會了綁鞋帶。"
+          },
+          {
+            "sentence": "Make sure to [tie] the bag securely.",
+            "translation_zh_TW": "確保將袋子緊緊綁好。"
+          }
+        ],
+        "synonyms": [
+          "fasten",
+          "secure"
+        ]
+      }
+    ],
+    "confusion": [
+      "tied",
+      "type",
+      "tie-dye",
+      "time"
+    ]
+  }
+]

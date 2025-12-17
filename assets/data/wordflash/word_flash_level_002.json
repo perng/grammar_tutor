@@ -1,0 +1,771 @@
+[
+  {
+    "word": "there",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In or at that place.",
+        "meaning_zh_TW": "那裡",
+        "wrong_meaning_zh_TW": [
+          "這裡",
+          "哪裡？",
+          "任何地方"
+        ],
+        "examples": [
+          {
+            "sentence": "Look over [there]!",
+            "translation_zh_TW": "看那邊！"
+          },
+          {
+            "sentence": "He lives [there].",
+            "translation_zh_TW": "他住在那裡。"
+          },
+          {
+            "sentence": "We will meet [there] at noon.",
+            "translation_zh_TW": "我們中午在那裡見面。"
+          }
+        ],
+        "synonyms": [
+          "in that location",
+          "at that place"
+        ]
+      }
+    ],
+    "confusion": [
+      "their",
+      "they're",
+      "here",
+      "where"
+    ]
+  },
+  {
+    "word": "see",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Perceive with the eyes; discern visually.",
+        "meaning_zh_TW": "看到",
+        "wrong_meaning_zh_TW": [
+          "聞到",
+          "聽到",
+          "觸摸"
+        ],
+        "examples": [
+          {
+            "sentence": "I can [see] the mountains from here.",
+            "translation_zh_TW": "我可以從這裡看到山。"
+          },
+          {
+            "sentence": "Did you [see] that movie last night?",
+            "translation_zh_TW": "你昨晚看到那部電影了嗎？"
+          },
+          {
+            "sentence": "She turned to [see] who was calling.",
+            "translation_zh_TW": "她轉身查看是誰在叫。"
+          }
+        ],
+        "synonyms": [
+          "observe",
+          "glimpse"
+        ]
+      }
+    ],
+    "confusion": [
+      "sea",
+      "seee",
+      "seas",
+      "se"
+    ]
+  },
+  {
+    "word": "only",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "And no one or nothing more; just.",
+        "meaning_zh_TW": "只有",
+        "wrong_meaning_zh_TW": [
+          "全部",
+          "有些",
+          "很多"
+        ],
+        "examples": [
+          {
+            "sentence": "I [only] want a single piece of cake.",
+            "translation_zh_TW": "我只要一片蛋糕。"
+          },
+          {
+            "sentence": "She [only] speaks English.",
+            "translation_zh_TW": "她只說英語。"
+          },
+          {
+            "sentence": "We [only] have a few minutes left.",
+            "translation_zh_TW": "我們只剩幾分鐘了。"
+          }
+        ],
+        "synonyms": [
+          "just",
+          "merely"
+        ]
+      }
+    ],
+    "confusion": [
+      "alone",
+      "slowly",
+      "mostly",
+      "onlyly"
+    ]
+  },
+  {
+    "word": "here",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In this place or location.",
+        "meaning_zh_TW": "這裡",
+        "wrong_meaning_zh_TW": [
+          "那裡",
+          "過去",
+          "鄰居"
+        ],
+        "examples": [
+          {
+            "sentence": "Please come [here] to see me.",
+            "translation_zh_TW": "請來這裡見我。"
+          },
+          {
+            "sentence": "I left my keys [here] on the table.",
+            "translation_zh_TW": "我把鑰匙留在桌子上這裡。"
+          },
+          {
+            "sentence": "You are welcome [here] anytime.",
+            "translation_zh_TW": "你隨時都歡迎來這裡。"
+          }
+        ],
+        "synonyms": [
+          "in this place",
+          "at this location"
+        ]
+      }
+    ],
+    "confusion": [
+      "hear",
+      "hair",
+      "hero",
+      "her"
+    ]
+  },
+  {
+    "word": "business",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person's regular occupation, profession, or trade.",
+        "meaning_zh_TW": "生意、業務",
+        "wrong_meaning_zh_TW": [
+          "玩耍、娛樂",
+          "慶祝、派對",
+          "愛好、興趣"
+        ],
+        "examples": [
+          {
+            "sentence": "She runs her own [business].",
+            "translation_zh_TW": "她經營自己的生意。"
+          },
+          {
+            "sentence": "It’s none of your [business].",
+            "translation_zh_TW": "這不關你的事。"
+          },
+          {
+            "sentence": "The [business] is booming.",
+            "translation_zh_TW": "這家公司蓬勃發展。"
+          }
+        ],
+        "synonyms": [
+          "commerce",
+          "trade"
+        ]
+      }
+    ],
+    "confusion": [
+      "buisness",
+      "busy",
+      "bison",
+      "bussiness"
+    ]
+  },
+  {
+    "word": "also",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In addition; too.",
+        "meaning_zh_TW": "也",
+        "wrong_meaning_zh_TW": [
+          "不",
+          "恐怕",
+          "但"
+        ],
+        "examples": [
+          {
+            "sentence": "She likes coffee, and I also enjoy it.",
+            "translation_zh_TW": "她喜歡咖啡，我也喜歡。"
+          },
+          {
+            "sentence": "He's also coming to the party.",
+            "translation_zh_TW": "他也會來派對。"
+          },
+          {
+            "sentence": "I also finished my homework.",
+            "translation_zh_TW": "我也完成了我的作業。"
+          }
+        ],
+        "synonyms": [
+          "too",
+          "as well"
+        ]
+      }
+    ],
+    "confusion": [
+      "allso",
+      "alzo",
+      "alsoo",
+      "alsa"
+    ]
+  },
+  {
+    "word": "now",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At the present time or moment.",
+        "meaning_zh_TW": "現在",
+        "wrong_meaning_zh_TW": [
+          "過去",
+          "未來",
+          "休息"
+        ],
+        "examples": [
+          {
+            "sentence": "I am busy [now], can I call you later?",
+            "translation_zh_TW": "我現在很忙，可以晚點打給你嗎？"
+          },
+          {
+            "sentence": "[Now] is the time to act.",
+            "translation_zh_TW": "現在是行動的時候。"
+          },
+          {
+            "sentence": "He is working from home [now].",
+            "translation_zh_TW": "他現在在家工作。"
+          }
+        ],
+        "synonyms": [
+          "currently",
+          "at present"
+        ]
+      }
+    ],
+    "confusion": [
+      "no",
+      "know",
+      "nowhere",
+      "how"
+    ]
+  },
+  {
+    "word": "help",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assist someone or do something for them.",
+        "meaning_zh_TW": "幫助",
+        "wrong_meaning_zh_TW": [
+          "阻擋",
+          "干擾",
+          "妨礙"
+        ],
+        "examples": [
+          {
+            "sentence": "I need someone to [help] me with this task.",
+            "translation_zh_TW": "我需要人來幫我完成這項任務。"
+          },
+          {
+            "sentence": "Can you [help] me find my keys?",
+            "translation_zh_TW": "你能幫我找我的鑰匙嗎？"
+          },
+          {
+            "sentence": "She volunteers to [help] at the local shelter.",
+            "translation_zh_TW": "她自願在當地收容所幫忙。"
+          }
+        ],
+        "synonyms": [
+          "assist",
+          "aid"
+        ]
+      }
+    ],
+    "confusion": [
+      "hemp",
+      "held",
+      "helped",
+      "hell"
+    ]
+  },
+  {
+    "word": "get",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To receive or come to have something.",
+        "meaning_zh_TW": "得到",
+        "wrong_meaning_zh_TW": [
+          "轉讓",
+          "剝奪",
+          "遺失"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you get me a drink?",
+            "translation_zh_TW": "你可以幫我拿一杯飲料嗎？"
+          },
+          {
+            "sentence": "I need to get more information.",
+            "translation_zh_TW": "我需要得到更多資訊。"
+          },
+          {
+            "sentence": "They will get their results tomorrow.",
+            "translation_zh_TW": "他們明天會得到結果。"
+          }
+        ],
+        "synonyms": [
+          "receive",
+          "acquire"
+        ]
+      }
+    ],
+    "confusion": [
+      "set",
+      "bet",
+      "yet",
+      "git"
+    ]
+  },
+  {
+    "word": "pm",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An abbreviation for Post Meridian, used to denote the hours after noon.",
+        "meaning_zh_TW": "下午",
+        "wrong_meaning_zh_TW": [
+          "上午",
+          "時區",
+          "天文"
+        ],
+        "examples": [
+          {
+            "sentence": "The meeting is scheduled for 3 [pm].",
+            "translation_zh_TW": "會議安排在下午三點。"
+          },
+          {
+            "sentence": "Please arrive by 5 [pm] for dinner.",
+            "translation_zh_TW": "請在下午五點前到達吃晚餐。"
+          },
+          {
+            "sentence": "They usually start work at 1 [pm].",
+            "translation_zh_TW": "他們通常在下午一點開始工作。"
+          }
+        ],
+        "synonyms": [
+          "afternoon",
+          "evening"
+        ]
+      }
+    ],
+    "confusion": [
+      "AM",
+      "PMs",
+      "p.m.",
+      "pim"
+    ]
+  },
+  {
+    "word": "online",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Connected to a computer network, especially the Internet.",
+        "meaning_zh_TW": "線上",
+        "wrong_meaning_zh_TW": [
+          "離線",
+          "實體店面",
+          "人際接觸"
+        ],
+        "examples": [
+          {
+            "sentence": "You can shop [online] from the comfort of your home.",
+            "translation_zh_TW": "你可以在家裡舒適地進行線上購物。"
+          },
+          {
+            "sentence": "I prefer taking classes [online] rather than in person.",
+            "translation_zh_TW": "我比較喜歡線上上課，而不是面對面。"
+          },
+          {
+            "sentence": "Many services are now available [online].",
+            "translation_zh_TW": "許多服務現在都可以在線上獲得。"
+          }
+        ],
+        "synonyms": [
+          "connected",
+          "digital"
+        ]
+      },
+      {
+        "type": "副詞",
+        "meaning_en_US": "In a state of being connected to a network.",
+        "meaning_zh_TW": "在線上",
+        "wrong_meaning_zh_TW": [
+          "離線",
+          "固定",
+          "獨立"
+        ],
+        "examples": [
+          {
+            "sentence": "He is currently [online] and can respond to messages.",
+            "translation_zh_TW": "他目前在線上，可以回覆消息。"
+          },
+          {
+            "sentence": "Use the chat feature when you are [online].",
+            "translation_zh_TW": "當你在線上時，請使用聊天功能。"
+          },
+          {
+            "sentence": "I often browse [online] in my free time.",
+            "translation_zh_TW": "我經常在空閒時間瀏覽在線内容。"
+          }
+        ],
+        "synonyms": [
+          "connectedly",
+          "digitally"
+        ]
+      }
+    ],
+    "confusion": [
+      "on line",
+      "inline",
+      "inline",
+      "off-line"
+    ]
+  },
+  {
+    "word": "first",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Coming before all others in time or order.",
+        "meaning_zh_TW": "第一的",
+        "wrong_meaning_zh_TW": [
+          "最後的",
+          "中間的",
+          "隨意的"
+        ],
+        "examples": [
+          {
+            "sentence": "She finished the race in [first] place.",
+            "translation_zh_TW": "她以第一名完成比賽。"
+          },
+          {
+            "sentence": "This is my [first] time in this city.",
+            "translation_zh_TW": "這是我第一次來這個城市。"
+          },
+          {
+            "sentence": "He was the [first] to volunteer.",
+            "translation_zh_TW": "他是第一個自願者。"
+          }
+        ],
+        "synonyms": [
+          "initial",
+          "primary"
+        ]
+      }
+    ],
+    "confusion": [
+      "fist",
+      "fors",
+      "fir",
+      "furst"
+    ]
+  },
+  {
+    "word": "how",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In what way or manner.",
+        "meaning_zh_TW": "以什麼方式",
+        "wrong_meaning_zh_TW": [
+          "何時",
+          "多少",
+          "何地"
+        ],
+        "examples": [
+          {
+            "sentence": "Do you know [how] to solve this problem?",
+            "translation_zh_TW": "你知道怎麼解決這個問題嗎？"
+          },
+          {
+            "sentence": "[How] did you learn to play the piano?",
+            "translation_zh_TW": "你是怎麼學會彈鋼琴的？"
+          },
+          {
+            "sentence": "Can you explain [how] this works?",
+            "translation_zh_TW": "你能解釋這是怎麼運作的嗎？"
+          }
+        ],
+        "synonyms": [
+          "in what way",
+          "by what means"
+        ]
+      }
+    ],
+    "confusion": [
+      "who",
+      "wow",
+      "now",
+      "cow"
+    ]
+  },
+  {
+    "word": "some",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "An unspecified amount or number of something.",
+        "meaning_zh_TW": "一些",
+        "wrong_meaning_zh_TW": [
+          "全部",
+          "零",
+          "沒有"
+        ],
+        "examples": [
+          {
+            "sentence": "I would like [some] water, please.",
+            "translation_zh_TW": "我想要一些水，謝謝。"
+          },
+          {
+            "sentence": "[Some] people prefer tea over coffee.",
+            "translation_zh_TW": "一些人更喜歡茶而不是咖啡。"
+          },
+          {
+            "sentence": "We have [some] cake left over from the party.",
+            "translation_zh_TW": "聚會上剩下一些蛋糕。"
+          }
+        ],
+        "synonyms": [
+          "a few",
+          "a number of"
+        ]
+      }
+    ],
+    "confusion": [
+      "same",
+      "somebody",
+      "sometime",
+      "same"
+    ]
+  },
+  {
+    "word": "these",
+    "meanings": [
+      {
+        "type": "代詞",
+        "meaning_en_US": "Used to identify a specific set of items.",
+        "meaning_zh_TW": "這些",
+        "wrong_meaning_zh_TW": [
+          "沒有任何",
+          "那些",
+          "每一個"
+        ],
+        "examples": [
+          {
+            "sentence": "[These] are my favorite books.",
+            "translation_zh_TW": "這些是我最喜歡的書。"
+          },
+          {
+            "sentence": "I want to buy [these] shoes.",
+            "translation_zh_TW": "我想買這些鞋子。"
+          },
+          {
+            "sentence": "Have you seen [these] pictures?",
+            "translation_zh_TW": "你有看過這些照片嗎？"
+          }
+        ],
+        "synonyms": [
+          "these ones",
+          "this group"
+        ]
+      }
+    ],
+    "confusion": [
+      "theys",
+      "theses",
+      "thes",
+      "thieve"
+    ]
+  },
+  {
+    "word": "like",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To find something pleasant or enjoyable.",
+        "meaning_zh_TW": "喜歡",
+        "wrong_meaning_zh_TW": [
+          "討厭",
+          "不喜歡",
+          "不確定"
+        ],
+        "examples": [
+          {
+            "sentence": "I [like] chocolate.",
+            "translation_zh_TW": "我喜歡巧克力。"
+          },
+          {
+            "sentence": "Do you [like] this song?",
+            "translation_zh_TW": "你喜歡這首歌嗎？"
+          },
+          {
+            "sentence": "They [like] to go hiking.",
+            "translation_zh_TW": "他們喜歡去健行。"
+          }
+        ],
+        "synonyms": [
+          "enjoy",
+          "prefer"
+        ]
+      }
+    ],
+    "confusion": [
+      "likeliness",
+      "lily",
+      "lick",
+      "lit"
+    ]
+  },
+  {
+    "word": "service",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of helping or doing work for someone.",
+        "meaning_zh_TW": "服務",
+        "wrong_meaning_zh_TW": [
+          "產物",
+          "產品",
+          "交易"
+        ],
+        "examples": [
+          {
+            "sentence": "The hotel provided excellent [service].",
+            "translation_zh_TW": "這家酒店提供優秀的服務。"
+          },
+          {
+            "sentence": "Customer [service] is very important.",
+            "translation_zh_TW": "顧客服務非常重要。"
+          },
+          {
+            "sentence": "He offered his [services] for the charity event.",
+            "translation_zh_TW": "他為慈善活動提供了服務。"
+          }
+        ],
+        "synonyms": [
+          "assistance",
+          "help"
+        ]
+      }
+    ],
+    "confusion": [
+      "servise",
+      "serve",
+      "servo",
+      "serious"
+    ]
+  },
+  {
+    "word": "than",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "Used to introduce a second element in a comparison.",
+        "meaning_zh_TW": "比",
+        "wrong_meaning_zh_TW": [
+          "和",
+          "或",
+          "與"
+        ],
+        "examples": [
+          {
+            "sentence": "She is taller [than] her brother.",
+            "translation_zh_TW": "她比她的兄弟高。"
+          },
+          {
+            "sentence": "I would rather read [than] watch TV.",
+            "translation_zh_TW": "我寧願讀書而不是看電視。"
+          },
+          {
+            "sentence": "He's more experienced [than] I am.",
+            "translation_zh_TW": "他的經驗比我多。"
+          }
+        ],
+        "synonyms": [
+          "compared to",
+          "as opposed to"
+        ]
+      }
+    ],
+    "confusion": [
+      "then",
+      "that",
+      "thanx",
+      "thanx"
+    ]
+  },
+  {
+    "word": "find",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To discover or locate someone or something.",
+        "meaning_zh_TW": "找到",
+        "wrong_meaning_zh_TW": [
+          "丟失",
+          "忘記",
+          "持有"
+        ],
+        "examples": [
+          {
+            "sentence": "I hope to [find] my keys soon.",
+            "translation_zh_TW": "我希望能快點找到我的鑰匙。"
+          },
+          {
+            "sentence": "She will [find] a new job after college.",
+            "translation_zh_TW": "她將在大學畢業後找到新工作。"
+          },
+          {
+            "sentence": "Can you [find] a solution to this problem?",
+            "translation_zh_TW": "你能找到這個問題的解決方案嗎？"
+          }
+        ],
+        "synonyms": [
+          "discover",
+          "locate"
+        ]
+      }
+    ],
+    "confusion": [
+      "bind",
+      "mind",
+      "vind",
+      "kind"
+    ]
+  }
+]

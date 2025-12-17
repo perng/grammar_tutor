@@ -1,0 +1,761 @@
+[
+  {
+    "word": "violent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Using or involving physical force intended to hurt, damage, or kill.",
+        "meaning_zh_TW": "暴力的",
+        "wrong_meaning_zh_TW": [
+          "和平的",
+          "友善的",
+          "溫和的"
+        ],
+        "examples": [
+          {
+            "sentence": "The storm was [violent], causing widespread destruction.",
+            "translation_zh_TW": "風暴非常暴力，造成廣泛的破壞。"
+          },
+          {
+            "sentence": "He was charged with [violent] conduct.",
+            "translation_zh_TW": "他因暴力行為被控告。"
+          },
+          {
+            "sentence": "The film contains [violent] scenes that may disturb some viewers.",
+            "translation_zh_TW": "這部電影含有可能讓某些觀眾感到不安的暴力場景。"
+          }
+        ],
+        "synonyms": [
+          "fierce",
+          "savage"
+        ]
+      }
+    ],
+    "confusion": [
+      "viloent",
+      "violent",
+      "violint",
+      "violet"
+    ]
+  },
+  {
+    "word": "underwear",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Clothing worn under outer clothes.",
+        "meaning_zh_TW": "內衣",
+        "wrong_meaning_zh_TW": [
+          "外衣",
+          "配件",
+          "裝飾"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to buy clean [underwear].",
+            "translation_zh_TW": "確保買乾淨的內衣"
+          },
+          {
+            "sentence": "She prefers cotton [underwear] for comfort.",
+            "translation_zh_TW": "她偏好舒適的棉質內衣"
+          },
+          {
+            "sentence": "He folded his [underwear] neatly.",
+            "translation_zh_TW": "他把內衣摺得整整齊齊"
+          }
+        ],
+        "synonyms": [
+          "lingerie",
+          "intimates"
+        ]
+      }
+    ],
+    "confusion": [
+      "underwarp",
+      "underwares",
+      "underwer",
+      "underwears"
+    ]
+  },
+  {
+    "word": "drunk",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having drunk too much alcohol.",
+        "meaning_zh_TW": "喝醉的",
+        "wrong_meaning_zh_TW": [
+          "清醒的",
+          "理智的",
+          "警覺的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was [drunk] after the party.",
+            "translation_zh_TW": "他在派對後喝醉了。"
+          },
+          {
+            "sentence": "It's unsafe to drive when you're [drunk].",
+            "translation_zh_TW": "喝醉時開車是不安全的。"
+          },
+          {
+            "sentence": "She didn't remember anything because she was [drunk].",
+            "translation_zh_TW": "她什麼都不記得了因為她喝醉了。"
+          }
+        ],
+        "synonyms": [
+          "intoxicated",
+          "inebriated"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A state of being drunk.",
+        "meaning_zh_TW": "喝醉的",
+        "wrong_meaning_zh_TW": [
+          "清醒的",
+          "理智的",
+          "警覺的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was in a state of [drunk] at the event.",
+            "translation_zh_TW": "他在活動中處於醉酒狀態。"
+          },
+          {
+            "sentence": "Her [drunk] caused a lot of issues.",
+            "translation_zh_TW": "她的醉酒帶來了很多問題。"
+          },
+          {
+            "sentence": "The [drunk] was apparent to everyone there.",
+            "translation_zh_TW": "醉酒的狀態對在場的每個人都很明顯。"
+          }
+        ],
+        "synonyms": [
+          "alcohol intoxication",
+          "inebriation"
+        ]
+      }
+    ],
+    "confusion": [
+      "drunken",
+      "drunkard",
+      "drunkly",
+      "drunkest"
+    ]
+  },
+  {
+    "word": "considerable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Notably large in size, amount, or extent.",
+        "meaning_zh_TW": "顯著",
+        "wrong_meaning_zh_TW": [
+          "微不足道的",
+          "無關緊要的",
+          "極少的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has made a [considerable] impact in her field.",
+            "translation_zh_TW": "她在她的領域中產生了顯著的影響"
+          },
+          {
+            "sentence": "There is a [considerable] difference between the two models.",
+            "translation_zh_TW": "這兩個型號之間存在著顯著差異"
+          },
+          {
+            "sentence": "He has invested a [considerable] amount of time.",
+            "translation_zh_TW": "他投入了相當多的時間"
+          }
+        ],
+        "synonyms": [
+          "significant",
+          "substantial"
+        ]
+      }
+    ],
+    "confusion": [
+      "consistable",
+      "consultable",
+      "considerate",
+      "concrete"
+    ]
+  },
+  {
+    "word": "frequent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring often; repeated.",
+        "meaning_zh_TW": "頻繁的",
+        "wrong_meaning_zh_TW": [
+          "偶爾的",
+          "零星的",
+          "不規則的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a [frequent] visitor to the library.",
+            "translation_zh_TW": "她是圖書館的一位常客。"
+          },
+          {
+            "sentence": "They took [frequent] trips to the beach.",
+            "translation_zh_TW": "他們經常去海灘旅行。"
+          },
+          {
+            "sentence": "We have [frequent] meetings to discuss progress.",
+            "translation_zh_TW": "我們經常開會討論進展。"
+          }
+        ],
+        "synonyms": [
+          "recurrent",
+          "habitual"
+        ]
+      }
+    ],
+    "confusion": [
+      "frenquent",
+      "frequenter",
+      "frequency",
+      "fragrant"
+    ]
+  },
+  {
+    "word": "bunch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A number of things of the same kind, typically seen or thought of as a unit.",
+        "meaning_zh_TW": "一串、一束",
+        "wrong_meaning_zh_TW": [
+          "包裹",
+          "單個",
+          "碎片"
+        ],
+        "examples": [
+          {
+            "sentence": "She bought a [bunch] of bananas at the market.",
+            "translation_zh_TW": "她在市場上買了一串香蕉。"
+          },
+          {
+            "sentence": "He gathered a [bunch] of flowers for her.",
+            "translation_zh_TW": "他為她摘了一束花。"
+          },
+          {
+            "sentence": "A [bunch] of kids were playing in the park.",
+            "translation_zh_TW": "一群小孩正在公園裡玩。"
+          }
+        ],
+        "synonyms": [
+          "cluster",
+          "group"
+        ]
+      }
+    ],
+    "confusion": [
+      "bunchs",
+      "bunts",
+      "bunsh",
+      "bunchie"
+    ]
+  },
+  {
+    "word": "afford",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To have enough money to pay for something.",
+        "meaning_zh_TW": "負擔得起",
+        "wrong_meaning_zh_TW": [
+          "可以理解",
+          "給予",
+          "解釋"
+        ],
+        "examples": [
+          {
+            "sentence": "I can't [afford] to buy a new car right now.",
+            "translation_zh_TW": "我現在負擔不起買新車。"
+          },
+          {
+            "sentence": "They can [afford] a beautiful house in the suburbs.",
+            "translation_zh_TW": "他們可以在郊區負擔得起一棟漂亮的房子。"
+          },
+          {
+            "sentence": "It's important to live within your means and not [afford] unnecessary expenses.",
+            "translation_zh_TW": "重要的是根據自己的經濟條件生活，而不是負擔不必要的開支。"
+          }
+        ],
+        "synonyms": [
+          "bear",
+          "tolerate"
+        ]
+      }
+    ],
+    "confusion": [
+      "afforded",
+      "affordable",
+      "afterward",
+      "foregone"
+    ]
+  },
+  {
+    "word": "quit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To stop doing something; to cease or discontinue.",
+        "meaning_zh_TW": "停止",
+        "wrong_meaning_zh_TW": [
+          "開始",
+          "嘗試",
+          "保持"
+        ],
+        "examples": [
+          {
+            "sentence": "She decided to [quit] her job for personal reasons.",
+            "translation_zh_TW": "她決定因個人原因停止她的工作。"
+          },
+          {
+            "sentence": "He just couldn’t [quit] smoking.",
+            "translation_zh_TW": "他實在無法停止吸煙。"
+          },
+          {
+            "sentence": "I will [quit] if things don’t improve.",
+            "translation_zh_TW": "如果情況沒有改善，我會停止。"
+          }
+        ],
+        "synonyms": [
+          "stop",
+          "leave",
+          "depart"
+        ]
+      }
+    ],
+    "confusion": [
+      "fit",
+      "quitters",
+      "quiet",
+      "quiz"
+    ]
+  },
+  {
+    "word": "lung",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Either of the two organs in the chest that supply the body with oxygen.",
+        "meaning_zh_TW": "肺，呼吸器官",
+        "wrong_meaning_zh_TW": [
+          "心臟，血管",
+          "腦，神經",
+          "皮膚，毛髮"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a deep breath, filling his [lungs] with air.",
+            "translation_zh_TW": "他深吸一口氣，讓肺部充滿空氣。"
+          },
+          {
+            "sentence": "This exercise is beneficial for your [lungs].",
+            "translation_zh_TW": "這個運動對你的肺部有益。"
+          },
+          {
+            "sentence": "Smoking can damage your [lungs] over time.",
+            "translation_zh_TW": "吸煙會隨著時間損害你的肺部。"
+          }
+        ],
+        "synonyms": [
+          "organ",
+          "respiratory organ"
+        ]
+      }
+    ],
+    "confusion": [
+      "long",
+      "young",
+      "lunges",
+      "lunge"
+    ]
+  },
+  {
+    "word": "authentic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of undisputed origin; genuine.",
+        "meaning_zh_TW": "真實的",
+        "wrong_meaning_zh_TW": [
+          "可疑的",
+          "虛構的",
+          "假冒的"
+        ],
+        "examples": [
+          {
+            "sentence": "The painting was verified to be an [authentic] Van Gogh.",
+            "translation_zh_TW": "這幅畫被證實是真正的梵高作品。"
+          },
+          {
+            "sentence": "She enjoys [authentic] Italian cuisine.",
+            "translation_zh_TW": "她喜歡正宗的意大利料理。"
+          },
+          {
+            "sentence": "The document must have an [authentic] signature.",
+            "translation_zh_TW": "該文件必須有真實的簽名。"
+          }
+        ],
+        "synonyms": [
+          "genuine",
+          "real"
+        ]
+      }
+    ],
+    "confusion": [
+      "authoritative",
+      "automatic",
+      "authorship",
+      "authentication"
+    ]
+  },
+  {
+    "word": "bull",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An adult male of certain large mammals, especially cattle.",
+        "meaning_zh_TW": "公牛",
+        "wrong_meaning_zh_TW": [
+          "母牛",
+          "小牛",
+          "羊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [bull] roamed freely in the pasture.",
+            "translation_zh_TW": "公牛在牧場上自由漫遊。"
+          },
+          {
+            "sentence": "They raised a strong [bull] for the competition.",
+            "translation_zh_TW": "他們為比賽養了一隻強壯的公牛。"
+          },
+          {
+            "sentence": "A [bull] is known for its strength and size.",
+            "translation_zh_TW": "公牛因其力量和體型而聞名。"
+          }
+        ],
+        "synonyms": [
+          "ox",
+          "beef"
+        ]
+      }
+    ],
+    "confusion": [
+      "bowl",
+      "ball",
+      "bulls",
+      "bule"
+    ]
+  },
+  {
+    "word": "breath",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The air taken into or expelled from the lungs.",
+        "meaning_zh_TW": "呼吸",
+        "wrong_meaning_zh_TW": [
+          "心跳",
+          "肌肉",
+          "血液"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a deep [breath] before speaking.",
+            "translation_zh_TW": "他在說話前深吸了一口氣"
+          },
+          {
+            "sentence": "I could see my [breath] in the cold air.",
+            "translation_zh_TW": "我能在冷空氣中看到我的氣息"
+          },
+          {
+            "sentence": "She held her [breath] underwater.",
+            "translation_zh_TW": "她在水下屏住了呼吸"
+          }
+        ],
+        "synonyms": [
+          "respiration"
+        ]
+      }
+    ],
+    "confusion": [
+      "breath",
+      "breathe",
+      "breeks",
+      "broth"
+    ]
+  },
+  {
+    "word": "fake",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not real; imitation or counterfeit.",
+        "meaning_zh_TW": "偽造的",
+        "wrong_meaning_zh_TW": [
+          "真實的",
+          "天然的",
+          "正品的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [fake] fur coat.",
+            "translation_zh_TW": "她穿了一件偽造的毛皮大衣"
+          },
+          {
+            "sentence": "The document turned out to be [fake].",
+            "translation_zh_TW": "該文件被證實是偽造的"
+          },
+          {
+            "sentence": "He sold [fake] jewelry online.",
+            "translation_zh_TW": "他在網上販賣偽造的珠寶"
+          }
+        ],
+        "synonyms": [
+          "imitation",
+          "forged"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make something appear to be something it is not.",
+        "meaning_zh_TW": "偽造",
+        "wrong_meaning_zh_TW": [
+          "檢查",
+          "確認",
+          "發現"
+        ],
+        "examples": [
+          {
+            "sentence": "They tried to [fake] their age.",
+            "translation_zh_TW": "他們試圖偽造年齡"
+          },
+          {
+            "sentence": "He [faked] illness to avoid work.",
+            "translation_zh_TW": "他偽造生病以避免工作"
+          },
+          {
+            "sentence": "She [faked] a smile in front of him.",
+            "translation_zh_TW": "她在他面前偽造了微笑"
+          }
+        ],
+        "synonyms": [
+          "forge",
+          "simulate"
+        ]
+      }
+    ],
+    "confusion": [
+      "fate",
+      "lake",
+      "take",
+      "make"
+    ]
+  },
+  {
+    "word": "arch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A curved structure that supports weight over an opening.",
+        "meaning_zh_TW": "拱門",
+        "wrong_meaning_zh_TW": [
+          "直線",
+          "圓形",
+          "長方形"
+        ],
+        "examples": [
+          {
+            "sentence": "The [arch] was built to honor the city's founders.",
+            "translation_zh_TW": "這個拱門是為了紀念城市的創始人而建造的。"
+          },
+          {
+            "sentence": "She walked under the beautifully designed [arch].",
+            "translation_zh_TW": "她走過精美設計的拱門。"
+          },
+          {
+            "sentence": "The ancient [arch] still stands strong today.",
+            "translation_zh_TW": "這個古老的拱門今天仍然矗立著。"
+          }
+        ],
+        "synonyms": [
+          "vault",
+          "bridge"
+        ]
+      }
+    ],
+    "confusion": [
+      "archery",
+      "arched",
+      "archetype",
+      "archway"
+    ]
+  },
+  {
+    "word": "bomb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that explodes and causes destruction.",
+        "meaning_zh_TW": "炸彈",
+        "wrong_meaning_zh_TW": [
+          "圓球",
+          "陷阱",
+          "花朵"
+        ],
+        "examples": [
+          {
+            "sentence": "The military found an unexploded [bomb].",
+            "translation_zh_TW": "軍方發現了一枚未爆炸的炸彈。"
+          },
+          {
+            "sentence": "He was accused of planting a [bomb].",
+            "translation_zh_TW": "他被指控安置了一枚炸彈。"
+          },
+          {
+            "sentence": "The [bomb] detonated in the middle of the street.",
+            "translation_zh_TW": "炸彈在街道中央引爆。"
+          }
+        ],
+        "synonyms": [
+          "explosive",
+          "device"
+        ]
+      }
+    ],
+    "confusion": [
+      "bimb",
+      "bombs",
+      "bome",
+      "bom"
+    ]
+  },
+  {
+    "word": "harm",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause physical injury or damage to someone or something.",
+        "meaning_zh_TW": "傷害",
+        "wrong_meaning_zh_TW": [
+          "救助",
+          "保護",
+          "整理"
+        ],
+        "examples": [
+          {
+            "sentence": "Don't [harm] the animals in the zoo.",
+            "translation_zh_TW": "不要傷害動物園裡的動物。"
+          },
+          {
+            "sentence": "The storm could [harm] the crops.",
+            "translation_zh_TW": "暴風雨可能會傷害莊稼。"
+          },
+          {
+            "sentence": "Smoking can [harm] your health.",
+            "translation_zh_TW": "吸煙可能會傷害你的健康。"
+          }
+        ],
+        "synonyms": [
+          "injure",
+          "damage"
+        ]
+      }
+    ],
+    "confusion": [
+      "harmonize",
+      "harmony",
+      "harms",
+      "farming"
+    ]
+  },
+  {
+    "word": "investigate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To carry out a systematic or formal inquiry to discover and examine the facts.",
+        "meaning_zh_TW": "調查，研究",
+        "wrong_meaning_zh_TW": [
+          "安裝，設置",
+          "提出，推出",
+          "分享，分配"
+        ],
+        "examples": [
+          {
+            "sentence": "The detective was called to [investigate] the crime scene.",
+            "translation_zh_TW": "偵探被叫去調查犯罪現場。"
+          },
+          {
+            "sentence": "Authorities need to [investigate] the recent incidents.",
+            "translation_zh_TW": "當局需要調查最近的事件。"
+          },
+          {
+            "sentence": "We should [investigate] the reasons behind the failure.",
+            "translation_zh_TW": "我們應該調查失敗的原因。"
+          }
+        ],
+        "synonyms": [
+          "examine",
+          "probe",
+          "research"
+        ]
+      }
+    ],
+    "confusion": [
+      "investigatee",
+      "investigated",
+      "invigilate",
+      "inventigate"
+    ]
+  },
+  {
+    "word": "tongue",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The movable muscular organ in the mouth used for tasting and eating.",
+        "meaning_zh_TW": "舌頭",
+        "wrong_meaning_zh_TW": [
+          "宣言",
+          "領袖",
+          "交通信號"
+        ],
+        "examples": [
+          {
+            "sentence": "She stuck out her [tongue] in jest.",
+            "translation_zh_TW": "她伸出舌頭開玩笑。"
+          },
+          {
+            "sentence": "The chef has a keen [tongue] for flavors.",
+            "translation_zh_TW": "這位廚師對於味道有敏銳的舌頭。"
+          },
+          {
+            "sentence": "He burned his [tongue] on the hot soup.",
+            "translation_zh_TW": "他在熱湯上燙到了舌頭。"
+          }
+        ],
+        "synonyms": [
+          "lingua",
+          "flavor organ"
+        ]
+      }
+    ],
+    "confusion": [
+      "tong",
+      "tongue-tie",
+      "tongs",
+      "tune"
+    ]
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "word": "society",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The aggregate of people living together in a more or less ordered community.",
+        "meaning_zh_TW": "社會",
+        "wrong_meaning_zh_TW": [
+          "個人",
+          "家庭",
+          "商業"
+        ],
+        "examples": [
+          {
+            "sentence": "We must work together to improve [society].",
+            "translation_zh_TW": "我們必須共同努力改善社會"
+          },
+          {
+            "sentence": "Education is essential for the development of [society].",
+            "translation_zh_TW": "教育對社會的發展至關重要"
+          },
+          {
+            "sentence": "She participates in various [society] events.",
+            "translation_zh_TW": "她參加各種社會活動"
+          }
+        ],
+        "synonyms": [
+          "community",
+          "culture"
+        ]
+      }
+    ],
+    "confusion": [
+      "socitey",
+      "societye",
+      "socety",
+      "socity"
+    ]
+  },
+  {
+    "word": "safety",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
+        "meaning_zh_TW": "安全",
+        "wrong_meaning_zh_TW": [
+          "危險",
+          "風險",
+          "不安"
+        ],
+        "examples": [
+          {
+            "sentence": "Safety is our top priority in the workplace.",
+            "translation_zh_TW": "在工作場所，安全是我們的首要任務。"
+          },
+          {
+            "sentence": "They took measures to ensure their safety during the storm.",
+            "translation_zh_TW": "他們採取措施以確保在暴風雨中的安全。"
+          },
+          {
+            "sentence": "Wearing a helmet is important for your safety when riding a bike.",
+            "translation_zh_TW": "騎自行車時戴頭盔對你的安全很重要。"
+          }
+        ],
+        "synonyms": [
+          "security",
+          "protection"
+        ]
+      }
+    ],
+    "confusion": [
+      "safely",
+      "safeguard",
+      "safeness",
+      "safty"
+    ]
+  },
+  {
+    "word": "edition",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular form or version of a published text.",
+        "meaning_zh_TW": "版次、版本",
+        "wrong_meaning_zh_TW": [
+          "原始資料",
+          "重新印刷",
+          "摘要"
+        ],
+        "examples": [
+          {
+            "sentence": "The latest [edition] of the book includes new chapters.",
+            "translation_zh_TW": "這本書的最新版次包含了新章節。"
+          },
+          {
+            "sentence": "She collected every [edition] of the magazine.",
+            "translation_zh_TW": "她收集了每一期雜誌。"
+          },
+          {
+            "sentence": "This [edition] features updated graphics.",
+            "translation_zh_TW": "這版次具有更新的圖形。"
+          }
+        ],
+        "synonyms": [
+          "version",
+          "release"
+        ]
+      }
+    ],
+    "confusion": [
+      "addition",
+      "eding",
+      "edify",
+      "edit"
+    ]
+  },
+  {
+    "word": "further",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At or to a greater distance; more remote.",
+        "meaning_zh_TW": "更遠",
+        "wrong_meaning_zh_TW": [
+          "更好",
+          "更快",
+          "更新"
+        ],
+        "examples": [
+          {
+            "sentence": "She walked [further] into the woods.",
+            "translation_zh_TW": "她走得更深進入森林。"
+          },
+          {
+            "sentence": "We need to discuss this [further].",
+            "translation_zh_TW": "我們需要進一步討論這個。"
+          },
+          {
+            "sentence": "Can you explain [further]?",
+            "translation_zh_TW": "你能更詳細地解釋嗎？"
+          }
+        ],
+        "synonyms": [
+          "moreover",
+          "additionally"
+        ]
+      }
+    ],
+    "confusion": [
+      "farther",
+      "furthermost",
+      "furrow",
+      "furring"
+    ]
+  },
+  {
+    "word": "gold",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A yellow precious metal used for coins, jewelry, and other decorative items.",
+        "meaning_zh_TW": "黃金",
+        "wrong_meaning_zh_TW": [
+          "鋼鐵",
+          "銅幣",
+          "鎳"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a necklace made of [gold].",
+            "translation_zh_TW": "她佩戴了一條由金子製成的項鍊。"
+          },
+          {
+            "sentence": "The prize for the winner is a [gold] medal.",
+            "translation_zh_TW": "獲勝者的獎品是一枚金牌。"
+          },
+          {
+            "sentence": "Investing in [gold] is often seen as a safe option.",
+            "translation_zh_TW": "投資黃金通常被視為安全的選擇。"
+          }
+        ],
+        "synonyms": [
+          "aurum",
+          "wealth"
+        ]
+      }
+    ],
+    "confusion": [
+      "golden",
+      "golds",
+      "gole",
+      "gol"
+    ]
+  },
+  {
+    "word": "display",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To show something to others.",
+        "meaning_zh_TW": "展示",
+        "wrong_meaning_zh_TW": [
+          "隱藏",
+          "攻擊",
+          "修改"
+        ],
+        "examples": [
+          {
+            "sentence": "The museum will [display] the new exhibit.",
+            "translation_zh_TW": "博物館將展示新的展覽"
+          },
+          {
+            "sentence": "Please [display] your ID upon entry.",
+            "translation_zh_TW": "請在入場時展示你的身份證"
+          },
+          {
+            "sentence": "They [display] their talents at the talent show.",
+            "translation_zh_TW": "他們在才藝表演中展示他們的才華"
+          }
+        ],
+        "synonyms": [
+          "show",
+          "exhibit",
+          "present"
+        ]
+      }
+    ],
+    "confusion": [
+      "displace",
+      "deplore",
+      "dispel",
+      "deploy"
+    ]
+  },
+  {
+    "word": "means",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A method, instrument, or process for achieving something.",
+        "meaning_zh_TW": "手段",
+        "wrong_meaning_zh_TW": [
+          "目的",
+          "結果",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to find a [means] to solve this problem.",
+            "translation_zh_TW": "我們需要找到一種手段來解決這個問題。"
+          },
+          {
+            "sentence": "They used every [means] available to them.",
+            "translation_zh_TW": "他們利用了所有可用的手段。"
+          },
+          {
+            "sentence": "Education is a powerful [means] of changing society.",
+            "translation_zh_TW": "教育是一種改變社會的有力手段。"
+          }
+        ],
+        "synonyms": [
+          "method",
+          "way"
+        ]
+      }
+    ],
+    "confusion": [
+      "meant",
+      "mean",
+      "meany",
+      "meantime"
+    ]
+  },
+  {
+    "word": "director",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is in charge of an organization, department, or activity.",
+        "meaning_zh_TW": "導演,主任",
+        "wrong_meaning_zh_TW": [
+          "技術員",
+          "助理",
+          "主管"
+        ],
+        "examples": [
+          {
+            "sentence": "The [director] has made several successful films.",
+            "translation_zh_TW": "這位導演拍過好幾部成功的電影"
+          },
+          {
+            "sentence": "Our [director] will hold a meeting next week.",
+            "translation_zh_TW": "我們的主任將在下週舉行會議"
+          },
+          {
+            "sentence": "She is the [director] of the company's marketing department.",
+            "translation_zh_TW": "她是公司的市場部門主任"
+          }
+        ],
+        "synonyms": [
+          "administrator",
+          "supervisor"
+        ]
+      }
+    ],
+    "confusion": [
+      "directed",
+      "directive",
+      "diction",
+      "directory"
+    ]
+  },
+  {
+    "word": "daily",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Happening or done every day.",
+        "meaning_zh_TW": "每日的",
+        "wrong_meaning_zh_TW": [
+          "偶爾的",
+          "週期的",
+          "隨意的"
+        ],
+        "examples": [
+          {
+            "sentence": "I have a [daily] routine that keeps me healthy.",
+            "translation_zh_TW": "我有一個每日的例行公事讓我保持健康。"
+          },
+          {
+            "sentence": "Reading is a [daily] habit for many people.",
+            "translation_zh_TW": "閱讀是許多人每日的習慣。"
+          },
+          {
+            "sentence": "She writes in her journal [daily].",
+            "translation_zh_TW": "她每日在日記中寫下內容。"
+          }
+        ],
+        "synonyms": [
+          "everyday",
+          "regular"
+        ]
+      }
+    ],
+    "confusion": [
+      "dally",
+      "day",
+      "dailies",
+      "dail"
+    ]
+  },
+  {
+    "word": "natural",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Existing in or caused by nature; not made or caused by humankind.",
+        "meaning_zh_TW": "自然的",
+        "wrong_meaning_zh_TW": [
+          "人造的",
+          "工業的",
+          "技術的"
+        ],
+        "examples": [
+          {
+            "sentence": "Fresh fruit is a [natural] source of vitamins.",
+            "translation_zh_TW": "新鮮水果是維生素的自然來源"
+          },
+          {
+            "sentence": "He prefers [natural] materials in his work.",
+            "translation_zh_TW": "他在工作中更喜歡自然材料"
+          },
+          {
+            "sentence": "The park is filled with [natural] beauty.",
+            "translation_zh_TW": "這個公園充滿了自然的美"
+          }
+        ],
+        "synonyms": [
+          "innate",
+          "organic"
+        ]
+      }
+    ],
+    "confusion": [
+      "artificial",
+      "national",
+      "narrative",
+      "nature"
+    ]
+  },
+  {
+    "word": "whether",
+    "meanings": [
+      {
+        "type": "連接詞",
+        "meaning_en_US": "Indicating a choice between alternatives.",
+        "meaning_zh_TW": "表示選擇之間的可能",
+        "wrong_meaning_zh_TW": [
+          "或許",
+          "當然",
+          "真的"
+        ],
+        "examples": [
+          {
+            "sentence": "I can't decide [whether] to go or stay.",
+            "translation_zh_TW": "我無法決定是去還是留"
+          },
+          {
+            "sentence": "She asked [whether] I wanted tea or coffee.",
+            "translation_zh_TW": "她問我想要茶還是咖啡"
+          },
+          {
+            "sentence": "It’s unclear [whether] he will attend the meeting.",
+            "translation_zh_TW": "不清楚他是否會參加會議"
+          }
+        ],
+        "synonyms": [
+          "if",
+          "either"
+        ]
+      }
+    ],
+    "confusion": [
+      "whither",
+      "wether",
+      "whichever",
+      "whetherc"
+    ]
+  },
+  {
+    "word": "due",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Expected or scheduled to occur at a certain time.",
+        "meaning_zh_TW": "到期的",
+        "wrong_meaning_zh_TW": [
+          "精緻的",
+          "虛假的",
+          "太少的"
+        ],
+        "examples": [
+          {
+            "sentence": "The payment is [due] at the end of the month.",
+            "translation_zh_TW": "款項在月底到期。"
+          },
+          {
+            "sentence": "Her baby is [due] in the next few weeks.",
+            "translation_zh_TW": "她的寶寶預計在接下來的幾周出生。"
+          },
+          {
+            "sentence": "Assignments are [due] every Friday.",
+            "translation_zh_TW": "作業每週五到期。"
+          }
+        ],
+        "synonyms": [
+          "expected",
+          "overdue"
+        ]
+      }
+    ],
+    "confusion": [
+      "duel",
+      "dude",
+      "dune",
+      "dewy"
+    ]
+  },
+  {
+    "word": "period",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A length or portion of time.",
+        "meaning_zh_TW": "時期",
+        "wrong_meaning_zh_TW": [
+          "瞬間",
+          "永恆",
+          "空間"
+        ],
+        "examples": [
+          {
+            "sentence": "She studied in that [period] of her life.",
+            "translation_zh_TW": "她在那段時期學習。"
+          },
+          {
+            "sentence": "The history class focused on the ancient [period].",
+            "translation_zh_TW": "歷史課聚焦於古代時期。"
+          },
+          {
+            "sentence": "We lived in a significant [period] of change.",
+            "translation_zh_TW": "我們生活在一個重大變革的時期。"
+          }
+        ],
+        "synonyms": [
+          "era",
+          "epoch"
+        ]
+      }
+    ],
+    "confusion": [
+      "peridot",
+      "periscope",
+      "perjury",
+      "periodical"
+    ]
+  },
+  {
+    "word": "official",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to an authority or public body and its duties.",
+        "meaning_zh_TW": "官方的",
+        "wrong_meaning_zh_TW": [
+          "私人的",
+          "非正式的",
+          "隱密的"
+        ],
+        "examples": [
+          {
+            "sentence": "This is an [official] document.",
+            "translation_zh_TW": "這是一份官方文件"
+          },
+          {
+            "sentence": "She was appointed as an [official] spokesperson.",
+            "translation_zh_TW": "她被任命為官方發言人"
+          },
+          {
+            "sentence": "The [official] report will be released tomorrow.",
+            "translation_zh_TW": "官方報告將於明天發布"
+          }
+        ],
+        "synonyms": [
+          "formal",
+          "authorized"
+        ]
+      }
+    ],
+    "confusion": [
+      "officiate",
+      "office",
+      "officer",
+      "officially"
+    ]
+  },
+  {
+    "word": "weather",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of the atmosphere at a place and time, including temperature, precipitation, and wind.",
+        "meaning_zh_TW": "天氣",
+        "wrong_meaning_zh_TW": [
+          "氣候變化",
+          "季節",
+          "日曆"
+        ],
+        "examples": [
+          {
+            "sentence": "The [weather] is beautiful today.",
+            "translation_zh_TW": "今天的天氣很好。"
+          },
+          {
+            "sentence": "We should check the [weather] before planning the trip.",
+            "translation_zh_TW": "在計劃旅行之前，我們應該查看天氣。"
+          },
+          {
+            "sentence": "Bad [weather] can delay flights.",
+            "translation_zh_TW": "惡劣的天氣會延遲航班。"
+          }
+        ],
+        "synonyms": [
+          "climate",
+          "atmosphere"
+        ]
+      }
+    ],
+    "confusion": [
+      "whether",
+      "weaker",
+      "weighed",
+      "wether"
+    ]
+  },
+  {
+    "word": "average",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The result obtained by adding several quantities together and dividing this total by the number of quantities.",
+        "meaning_zh_TW": "平均值",
+        "wrong_meaning_zh_TW": [
+          "不平衡",
+          "極端值",
+          "小數"
+        ],
+        "examples": [
+          {
+            "sentence": "The [average] score was higher this year.",
+            "translation_zh_TW": "今年的平均分數更高。"
+          },
+          {
+            "sentence": "She is just an [average] student.",
+            "translation_zh_TW": "她只是一個普通學生。"
+          },
+          {
+            "sentence": "We calculated the [average] of the test results.",
+            "translation_zh_TW": "我們計算了考試結果的平均值。"
+          }
+        ],
+        "synonyms": [
+          "mean",
+          "median"
+        ]
+      }
+    ],
+    "confusion": [
+      "averaging",
+      "avrage",
+      "averaged",
+      "avrage"
+    ]
+  },
+  {
+    "word": "window",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An opening in the wall of a building, typically covered with glass.",
+        "meaning_zh_TW": "窗戶",
+        "wrong_meaning_zh_TW": [
+          "門口",
+          "洞口",
+          "窗簾"
+        ],
+        "examples": [
+          {
+            "sentence": "She looked out the [window] to see the view.",
+            "translation_zh_TW": "她透過窗戶看外面的景色"
+          },
+          {
+            "sentence": "Please close the [window] if it gets cold.",
+            "translation_zh_TW": "如果冷的話請關上窗戶"
+          },
+          {
+            "sentence": "The [window] was covered in frost.",
+            "translation_zh_TW": "窗戶上覆蓋著霜"
+          }
+        ],
+        "synonyms": [
+          "pane",
+          "opening"
+        ]
+      }
+    ],
+    "confusion": [
+      "wind",
+      "winder",
+      "winnow",
+      "windowsill"
+    ]
+  },
+  {
+    "word": "region",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An area or division, especially part of a country or the world having definable characteristics but not always fixed boundaries.",
+        "meaning_zh_TW": "區域、地區",
+        "wrong_meaning_zh_TW": [
+          "地圖、導航",
+          "建築物、房屋",
+          "商業、貿易"
+        ],
+        "examples": [
+          {
+            "sentence": "The Amazon rainforest is a crucial [region] for biodiversity.",
+            "translation_zh_TW": "亞馬遜雨林是生物多樣性的關鍵區域。"
+          },
+          {
+            "sentence": "This [region] is known for its rich history and culture.",
+            "translation_zh_TW": "這個區域以其豐富的歷史和文化而聞名。"
+          },
+          {
+            "sentence": "The climate varies significantly in different [regions].",
+            "translation_zh_TW": "不同區域的氣候差異顯著。"
+          }
+        ],
+        "synonyms": [
+          "area",
+          "zone"
+        ]
+      }
+    ],
+    "confusion": [
+      "region",
+      "regain",
+      "rigon",
+      "reagon"
+    ]
+  },
+  {
+    "word": "record",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To set down in writing or some other permanent form for later reference.",
+        "meaning_zh_TW": "記錄",
+        "wrong_meaning_zh_TW": [
+          "忘記",
+          "抄襲",
+          "轉移"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [record] the meeting notes.",
+            "translation_zh_TW": "請記錄會議紀要。"
+          },
+          {
+            "sentence": "He wants to [record] a new song.",
+            "translation_zh_TW": "他想錄製一首新歌。"
+          },
+          {
+            "sentence": "You should [record] your progress.",
+            "translation_zh_TW": "你應該記錄你的進步。"
+          }
+        ],
+        "synonyms": [
+          "document",
+          "note"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "An account of an event or transaction.",
+        "meaning_zh_TW": "記錄",
+        "wrong_meaning_zh_TW": [
+          "影片",
+          "通知",
+          "音樂"
+        ],
+        "examples": [
+          {
+            "sentence": "I found the [record] of our last meeting.",
+            "translation_zh_TW": "我找到了我們上次會議的記錄。"
+          },
+          {
+            "sentence": "She broke the world [record] in the marathon.",
+            "translation_zh_TW": "她打破了馬拉松的世界紀錄。"
+          },
+          {
+            "sentence": "The medical [record] is confidential.",
+            "translation_zh_TW": "醫療紀錄是保密的。"
+          }
+        ],
+        "synonyms": [
+          "document",
+          "transcript"
+        ]
+      }
+    ],
+    "confusion": [
+      "recode",
+      "recruit",
+      "recall",
+      "recorder"
+    ]
+  }
+]

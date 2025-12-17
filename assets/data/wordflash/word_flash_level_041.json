@@ -1,0 +1,760 @@
+[
+  {
+    "word": "catch",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To seize or take hold of something.",
+        "meaning_zh_TW": "抓住、捕捉",
+        "wrong_meaning_zh_TW": [
+          "放開",
+          "丟棄",
+          "錯過"
+        ],
+        "examples": [
+          {
+            "sentence": "She managed to [catch] the ball.",
+            "translation_zh_TW": "她成功地抓住了球。"
+          },
+          {
+            "sentence": "He tried to [catch] her attention.",
+            "translation_zh_TW": "他試圖引起她的注意。"
+          },
+          {
+            "sentence": "You need to [catch] the train on time.",
+            "translation_zh_TW": "你需要準時搭上火車。"
+          }
+        ],
+        "synonyms": [
+          "capture",
+          "seize"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of catching or seizing something.",
+        "meaning_zh_TW": "捕獲、抓到",
+        "wrong_meaning_zh_TW": [
+          "同伴",
+          "瞬間",
+          "空隙"
+        ],
+        "examples": [
+          {
+            "sentence": "That was a great [catch]!",
+            "translation_zh_TW": "那是一個好捕獲！"
+          },
+          {
+            "sentence": "He made an impressive [catch] during the game.",
+            "translation_zh_TW": "他在比賽中做出了一次驚人的捕獲。"
+          },
+          {
+            "sentence": "A tricky [catch] can win the match.",
+            "translation_zh_TW": "一次困難的捕獲可以贏得比賽。"
+          }
+        ],
+        "synonyms": [
+          "capture",
+          "grasp"
+        ]
+      }
+    ],
+    "confusion": [
+      "couch",
+      "catcher",
+      "ketchup",
+      "cat"
+    ]
+  },
+  {
+    "word": "sir",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A respectful term of address for a man.",
+        "meaning_zh_TW": "先生",
+        "wrong_meaning_zh_TW": [
+          "致敬",
+          "男孩",
+          "博士"
+        ],
+        "examples": [
+          {
+            "sentence": "Excuse me, [sir], may I help you?",
+            "translation_zh_TW": "對不起，先生，我可以幫助您嗎？"
+          },
+          {
+            "sentence": "The waiter addressed him as [sir].",
+            "translation_zh_TW": "服務生稱呼他為先生。"
+          },
+          {
+            "sentence": "Yes, [sir], your order is ready.",
+            "translation_zh_TW": "是的，先生，您的訂單已經準備好了。"
+          }
+        ],
+        "synonyms": [
+          "gentleman",
+          "mister"
+        ]
+      }
+    ],
+    "confusion": [
+      "sire",
+      "sirloin",
+      "siree",
+      "sirene"
+    ]
+  },
+  {
+    "word": "twice",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Two times; on two occasions.",
+        "meaning_zh_TW": "兩次",
+        "wrong_meaning_zh_TW": [
+          "一次",
+          "三次",
+          "幾次"
+        ],
+        "examples": [
+          {
+            "sentence": "I have visited that museum [twice].",
+            "translation_zh_TW": "我去過那個博物館兩次。"
+          },
+          {
+            "sentence": "He called me [twice] yesterday.",
+            "translation_zh_TW": "他昨天給我打了兩次電話。"
+          },
+          {
+            "sentence": "She has seen that movie [twice].",
+            "translation_zh_TW": "她已經看過那部電影兩次。"
+          }
+        ],
+        "synonyms": [
+          "dually",
+          "two-fold"
+        ]
+      }
+    ],
+    "confusion": [
+      "twicey",
+      "twince",
+      "twize",
+      "twise"
+    ]
+  },
+  {
+    "word": "sit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To rest on the buttocks or thighs, with the body supported by a surface.",
+        "meaning_zh_TW": "坐",
+        "wrong_meaning_zh_TW": [
+          "站",
+          "走",
+          "跑"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [sit] down and make yourself comfortable.",
+            "translation_zh_TW": "請坐下，讓自己舒適"
+          },
+          {
+            "sentence": "He likes to [sit] by the window.",
+            "translation_zh_TW": "他喜歡坐在窗邊"
+          },
+          {
+            "sentence": "She asked him to [sit] still for a moment.",
+            "translation_zh_TW": "她讓他靜坐片刻"
+          }
+        ],
+        "synonyms": [
+          "perch",
+          "rest"
+        ]
+      }
+    ],
+    "confusion": [
+      "sight",
+      "cite",
+      "site",
+      "slit"
+    ]
+  },
+  {
+    "word": "comfortable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Providing physical ease and relaxation.",
+        "meaning_zh_TW": "舒適的",
+        "wrong_meaning_zh_TW": [
+          "不舒服的",
+          "硬生生的",
+          "擁擠的"
+        ],
+        "examples": [
+          {
+            "sentence": "This chair is very [comfortable].",
+            "translation_zh_TW": "這把椅子非常舒適。"
+          },
+          {
+            "sentence": "I like to wear [comfortable] clothes.",
+            "translation_zh_TW": "我喜歡穿舒適的衣服。"
+          },
+          {
+            "sentence": "The room feels warm and [comfortable].",
+            "translation_zh_TW": "這個房間感覺溫暖和舒適。"
+          }
+        ],
+        "synonyms": [
+          "愉快的",
+          "舒心的"
+        ]
+      }
+    ],
+    "confusion": [
+      "compfortable",
+      "comfy",
+      "comfortably",
+      "comfortabley"
+    ]
+  },
+  {
+    "word": "bright",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Giving off or reflecting a lot of light; vivid or cheerful.",
+        "meaning_zh_TW": "明亮的、鮮豔的",
+        "wrong_meaning_zh_TW": [
+          "昏暗的",
+          "陰沉的",
+          "模糊的"
+        ],
+        "examples": [
+          {
+            "sentence": "The sun was [bright] today.",
+            "translation_zh_TW": "今天的太陽非常明亮"
+          },
+          {
+            "sentence": "She wore a [bright] dress to the party.",
+            "translation_zh_TW": "她穿了一條鮮豔的裙子參加聚會"
+          },
+          {
+            "sentence": "The [bright] colors of the painting caught my eye.",
+            "translation_zh_TW": "畫作的鮮豔色彩吸引了我的注意"
+          }
+        ],
+        "synonyms": [
+          "luminous",
+          "vivid"
+        ]
+      }
+    ],
+    "confusion": [
+      "brighter",
+      "bite",
+      "bride",
+      "brittle"
+    ]
+  },
+  {
+    "word": "treat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To act or behave toward someone or something in a specified way.",
+        "meaning_zh_TW": "對待",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "傷害",
+          "拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "You should [treat] everyone with respect.",
+            "translation_zh_TW": "你應該尊重每一個人"
+          },
+          {
+            "sentence": "They [treat] their pets like family.",
+            "translation_zh_TW": "他們把寵物當作家人一樣對待"
+          },
+          {
+            "sentence": "It's important to [treat] yourself sometimes.",
+            "translation_zh_TW": "有時候善待自己是很重要的"
+          }
+        ],
+        "synonyms": [
+          "regard",
+          "handle"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A selection of food or drink offered to someone.",
+        "meaning_zh_TW": "款待",
+        "wrong_meaning_zh_TW": [
+          "懲罰",
+          "困擾",
+          "拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "We had a special [treat] after dinner.",
+            "translation_zh_TW": "晚餐後我們有特別的款待"
+          },
+          {
+            "sentence": "Chocolate is his favorite [treat].",
+            "translation_zh_TW": "巧克力是他最喜歡的款待"
+          },
+          {
+            "sentence": "They brought home some [treats] for the kids.",
+            "translation_zh_TW": "他們為孩子們帶回了一些零食"
+          }
+        ],
+        "synonyms": [
+          "delight",
+          "reward"
+        ]
+      }
+    ],
+    "confusion": [
+      "tree",
+      "trate",
+      "treaty",
+      "retreat"
+    ]
+  },
+  {
+    "word": "piano",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large keyboard musical instrument with keys that produce sound when struck by hammers.",
+        "meaning_zh_TW": "鋼琴",
+        "wrong_meaning_zh_TW": [
+          "小提琴、樂器",
+          "音響、立體聲",
+          "樂譜、曲調"
+        ],
+        "examples": [
+          {
+            "sentence": "She played a song on the [piano].",
+            "translation_zh_TW": "她在鋼琴上彈了一首歌"
+          },
+          {
+            "sentence": "A grand [piano] can be very expensive.",
+            "translation_zh_TW": "一架大鋼琴可能很昂貴"
+          },
+          {
+            "sentence": "He learned to read music for the [piano].",
+            "translation_zh_TW": "他學會了讀取鋼琴的樂譜"
+          }
+        ],
+        "synonyms": [
+          "keyboard",
+          "fortepiano"
+        ]
+      }
+    ],
+    "confusion": [
+      "pianist",
+      "piana",
+      "pinna",
+      "panio"
+    ]
+  },
+  {
+    "word": "teach",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To impart knowledge or skills to someone.",
+        "meaning_zh_TW": "教導",
+        "wrong_meaning_zh_TW": [
+          "學習",
+          "評估",
+          "操作"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [teach] you how to solve this problem.",
+            "translation_zh_TW": "我將教你如何解決這個問題。"
+          },
+          {
+            "sentence": "She loves to [teach] children about science.",
+            "translation_zh_TW": "她喜歡教孩子們科學。"
+          },
+          {
+            "sentence": "Can you [teach] me a few phrases in Spanish?",
+            "translation_zh_TW": "你能教我幾句西班牙語嗎？"
+          }
+        ],
+        "synonyms": [
+          "instruct",
+          "educate"
+        ]
+      }
+    ],
+    "confusion": [
+      "beach",
+      "peach",
+      "leach",
+      "reach"
+    ]
+  },
+  {
+    "word": "pull",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To exert force on someone or something so as to cause movement toward oneself.",
+        "meaning_zh_TW": "拉",
+        "wrong_meaning_zh_TW": [
+          "推",
+          "拋",
+          "放"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [pull] the door open to enter.",
+            "translation_zh_TW": "你必須拉開門進入。"
+          },
+          {
+            "sentence": "He tried to [pull] the heavy box off the shelf.",
+            "translation_zh_TW": "他試圖把重箱子拉下貨架。"
+          },
+          {
+            "sentence": "Can you [pull] the chair closer to the table?",
+            "translation_zh_TW": "你能把椅子拉近桌子嗎？"
+          }
+        ],
+        "synonyms": [
+          "tug",
+          "draw"
+        ]
+      }
+    ],
+    "confusion": [
+      "push",
+      "pulling",
+      "pill",
+      "pall"
+    ]
+  },
+  {
+    "word": "afternoon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of time from noon to evening.",
+        "meaning_zh_TW": "下午",
+        "wrong_meaning_zh_TW": [
+          "早上",
+          "晚上",
+          "午夜"
+        ],
+        "examples": [
+          {
+            "sentence": "We will meet in the [afternoon].",
+            "translation_zh_TW": "我們下午見面"
+          },
+          {
+            "sentence": "He likes to nap in the [afternoon].",
+            "translation_zh_TW": "他喜歡在下午小睡"
+          },
+          {
+            "sentence": "The sun is usually bright in the [afternoon].",
+            "translation_zh_TW": "午後的陽光通常很明亮"
+          }
+        ],
+        "synonyms": [
+          "after noon",
+          "post meridiem"
+        ]
+      }
+    ],
+    "confusion": [
+      "aftermoon",
+      "evening",
+      "noon",
+      "afternon"
+    ]
+  },
+  {
+    "word": "hundred",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equivalent to 10 tens; 100.",
+        "meaning_zh_TW": "一百",
+        "wrong_meaning_zh_TW": [
+          "一千",
+          "十",
+          "百萬"
+        ],
+        "examples": [
+          {
+            "sentence": "There were a [hundred] people at the concert.",
+            "translation_zh_TW": "音樂會上有一百人。"
+          },
+          {
+            "sentence": "He scored a perfect [hundred] in the test.",
+            "translation_zh_TW": "他在考試中得了滿分一百。"
+          },
+          {
+            "sentence": "A [hundred] years ago, things were very different.",
+            "translation_zh_TW": "一百年前，事情非常不同。"
+          }
+        ],
+        "synonyms": [
+          "century",
+          "hundreds"
+        ]
+      }
+    ],
+    "confusion": [
+      "hundreds",
+      "hundreth",
+      "hundre",
+      "hunderd"
+    ]
+  },
+  {
+    "word": "strange",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Unusual or surprising in a way that is unsettling.",
+        "meaning_zh_TW": "奇怪的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "常見的",
+          "普通"
+        ],
+        "examples": [
+          {
+            "sentence": "It was a [strange] noise in the attic.",
+            "translation_zh_TW": "這是閣樓裡的一種奇怪聲音"
+          },
+          {
+            "sentence": "He has a [strange] way of expressing himself.",
+            "translation_zh_TW": "他有一種奇怪的表達方式"
+          },
+          {
+            "sentence": "She felt [strange] after the long flight.",
+            "translation_zh_TW": "在長途飛行後她感覺奇怪"
+          }
+        ],
+        "synonyms": [
+          "odd",
+          "unusual"
+        ]
+      }
+    ],
+    "confusion": [
+      "strange",
+      "strainge",
+      "strangee",
+      "strang"
+    ]
+  },
+  {
+    "word": "bathroom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A room containing a toilet and sink; sometimes has a shower or bath.",
+        "meaning_zh_TW": "浴室",
+        "wrong_meaning_zh_TW": [
+          "廚房",
+          "臥室",
+          "客廳"
+        ],
+        "examples": [
+          {
+            "sentence": "She went to the [bathroom] to wash her hands.",
+            "translation_zh_TW": "她去洗手間洗手。"
+          },
+          {
+            "sentence": "The [bathroom] has a large mirror over the sink.",
+            "translation_zh_TW": "浴室裡有一面大型鏡子在水槽上方。"
+          },
+          {
+            "sentence": "He decorated the [bathroom] with new towels.",
+            "translation_zh_TW": "他用新毛巾裝飾浴室。"
+          }
+        ],
+        "synonyms": [
+          "lavatory",
+          "restroom"
+        ]
+      }
+    ],
+    "confusion": [
+      "bath",
+      "basement",
+      "bathrobe",
+      "broom"
+    ]
+  },
+  {
+    "word": "lesson",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A period of learning or teaching.",
+        "meaning_zh_TW": "課程",
+        "wrong_meaning_zh_TW": [
+          "考試",
+          "班級",
+          "作業"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher gave a fascinating [lesson] on history.",
+            "translation_zh_TW": "老師講了一堂有趣的歷史課"
+          },
+          {
+            "sentence": "He learned an important [lesson] about friendship.",
+            "translation_zh_TW": "他學到了一個有關友誼的重要課程"
+          },
+          {
+            "sentence": "Each [lesson] ends with a summary of key points.",
+            "translation_zh_TW": "每堂課以重點摘要結束"
+          }
+        ],
+        "synonyms": [
+          "class",
+          "instruction"
+        ]
+      }
+    ],
+    "confusion": [
+      "lessen",
+      "lessons",
+      "lesion",
+      "lesson"
+    ]
+  },
+  {
+    "word": "cute",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Attractive in a pretty or endearing way.",
+        "meaning_zh_TW": "可愛的",
+        "wrong_meaning_zh_TW": [
+          "醜陋的",
+          "無聊的",
+          "粗魯的"
+        ],
+        "examples": [
+          {
+            "sentence": "The puppy is so [cute] that everyone wants to pet it.",
+            "translation_zh_TW": "小狗非常可愛，大家都想撫摸它。"
+          },
+          {
+            "sentence": "She wore a [cute] dress to the party.",
+            "translation_zh_TW": "她穿著一件可愛的裙子去派對。"
+          },
+          {
+            "sentence": "His [cute] smile melted her heart.",
+            "translation_zh_TW": "他可愛的微笑融化了她的心。"
+          }
+        ],
+        "synonyms": [
+          "adorable",
+          "charming"
+        ]
+      }
+    ],
+    "confusion": [
+      "cuter",
+      "cutesy",
+      "cuteable",
+      "cutes"
+    ]
+  },
+  {
+    "word": "expensive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Costing a lot of money.",
+        "meaning_zh_TW": "昂貴的",
+        "wrong_meaning_zh_TW": [
+          "便宜的",
+          "便餐",
+          "低價的"
+        ],
+        "examples": [
+          {
+            "sentence": "This watch is really [expensive].",
+            "translation_zh_TW": "這個手錶真的很昂貴"
+          },
+          {
+            "sentence": "They need to budget for [expensive] items.",
+            "translation_zh_TW": "他們需要預算昂貴的項目"
+          },
+          {
+            "sentence": "Hiring a lawyer can be [expensive].",
+            "translation_zh_TW": "聘請律師可能很昂貴"
+          }
+        ],
+        "synonyms": [
+          "costly",
+          "pricey"
+        ]
+      }
+    ],
+    "confusion": [
+      "expansive",
+      "expensive",
+      "expance",
+      "experince"
+    ]
+  },
+  {
+    "word": "plane",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A flying vehicle with wings and an engine.",
+        "meaning_zh_TW": "飛機",
+        "wrong_meaning_zh_TW": [
+          "汽車",
+          "船",
+          "火車"
+        ],
+        "examples": [
+          {
+            "sentence": "The [plane] took off on time.",
+            "translation_zh_TW": "飛機準時起飛。"
+          },
+          {
+            "sentence": "He prefers traveling by [plane].",
+            "translation_zh_TW": "他更喜歡乘坐飛機旅行。"
+          },
+          {
+            "sentence": "The [plane] landed safely at the airport.",
+            "translation_zh_TW": "飛機安全地降落在機場。"
+          }
+        ],
+        "synonyms": [
+          "airplane",
+          "aeroplane"
+        ]
+      }
+    ],
+    "confusion": [
+      "plain",
+      "plan",
+      "plains",
+      "planned"
+    ]
+  }
+]

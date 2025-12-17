@@ -1,0 +1,783 @@
+[
+  {
+    "word": "underline",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To draw a line under a word or phrase for emphasis.",
+        "meaning_zh_TW": "強調、劃線",
+        "wrong_meaning_zh_TW": [
+          "隱藏",
+          "上寫",
+          "刪除"
+        ],
+        "examples": [
+          {
+            "sentence": "You should underline the key points in your notes.",
+            "translation_zh_TW": "你應該在筆記中劃線關鍵點。"
+          },
+          {
+            "sentence": "The teacher asked us to underline the main idea.",
+            "translation_zh_TW": "老師要求我們劃線主要觀念。"
+          },
+          {
+            "sentence": "I always underline important sentences when I read.",
+            "translation_zh_TW": "我在閱讀時總是劃線重要句子。"
+          }
+        ],
+        "synonyms": [
+          "emphasize",
+          "highlight"
+        ]
+      }
+    ],
+    "confusion": [
+      "underplay",
+      "underlined",
+      "underline",
+      "underdog"
+    ]
+  },
+  {
+    "word": "sober",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not affected by alcohol; serious and sensible.",
+        "meaning_zh_TW": "清醒的、嚴肅的",
+        "wrong_meaning_zh_TW": [
+          "時尚的",
+          "狂歡的",
+          "過度的"
+        ],
+        "examples": [
+          {
+            "sentence": "After a night of drinking, he was finally [sober].",
+            "translation_zh_TW": "經過一夜的飲酒後，他終於清醒了。"
+          },
+          {
+            "sentence": "She gave a [sober] assessment of the situation.",
+            "translation_zh_TW": "她對情況進行了嚴肅的評估。"
+          },
+          {
+            "sentence": "He speaks in a [sober] manner.",
+            "translation_zh_TW": "他的說話方式很嚴肅。"
+          }
+        ],
+        "synonyms": [
+          "clear-headed",
+          "serious"
+        ]
+      }
+    ],
+    "confusion": [
+      "soberly",
+      "sobered",
+      "sover",
+      "soberage"
+    ]
+  },
+  {
+    "word": "plunge",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To jump or dive quickly and energetically.",
+        "meaning_zh_TW": "快速跳入或潛入",
+        "wrong_meaning_zh_TW": [
+          "安靜下來",
+          "慢慢升起",
+          "保持靜止"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [plunge] into the water.",
+            "translation_zh_TW": "他決定跳入水中"
+          },
+          {
+            "sentence": "The stock prices began to [plunge] after the announcement.",
+            "translation_zh_TW": "公告後股票價格開始下跌"
+          },
+          {
+            "sentence": "She [plunged] into her studies.",
+            "translation_zh_TW": "她投入到學業中"
+          }
+        ],
+        "synonyms": [
+          "dive",
+          "descend",
+          "drop"
+        ]
+      }
+    ],
+    "confusion": [
+      "plumb",
+      "plungee",
+      "plunget",
+      "plun"
+    ]
+  },
+  {
+    "word": "boredom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of feeling bored.",
+        "meaning_zh_TW": "無聊、厭倦",
+        "wrong_meaning_zh_TW": [
+          "興奮、刺激",
+          "快樂、愉悅",
+          "注意力、注意"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt a deep sense of [boredom] during the lecture.",
+            "translation_zh_TW": "在講座中，他感到深深的無聊"
+          },
+          {
+            "sentence": "She tried to escape her [boredom] with a new hobby.",
+            "translation_zh_TW": "她試著用新興趣來逃避無聊"
+          },
+          {
+            "sentence": "Boredom can lead to unhealthy behaviors.",
+            "translation_zh_TW": "無聊可能導致不健康的行為"
+          }
+        ],
+        "synonyms": [
+          "tedium",
+          "ennui"
+        ]
+      }
+    ],
+    "confusion": [
+      "bored",
+      "border",
+      "bore",
+      "boring"
+    ]
+  },
+  {
+    "word": "coffin",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A box or container for burying a deceased person.",
+        "meaning_zh_TW": "棺材",
+        "wrong_meaning_zh_TW": [
+          "櫃子",
+          "箱包",
+          "禮物盒"
+        ],
+        "examples": [
+          {
+            "sentence": "The family chose a beautiful [coffin] for the ceremony.",
+            "translation_zh_TW": "家族為儀式選擇了一個漂亮的棺材。"
+          },
+          {
+            "sentence": "The [coffin] was decorated with flowers.",
+            "translation_zh_TW": "棺材上裝飾了花朵。"
+          },
+          {
+            "sentence": "Traditionally, a [coffin] is used for burials.",
+            "translation_zh_TW": "傳統上，棺材用於埋葬。"
+          }
+        ],
+        "synonyms": [
+          "grave",
+          "chest"
+        ]
+      }
+    ],
+    "confusion": [
+      "coffyn",
+      "coffinette",
+      "coffine",
+      "cofin"
+    ]
+  },
+  {
+    "word": "discriminate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To recognize a distinction; to differentiate.",
+        "meaning_zh_TW": "區別、辨別",
+        "wrong_meaning_zh_TW": [
+          "混淆、困惑",
+          "相同、重合",
+          "綜合、整合"
+        ],
+        "examples": [
+          {
+            "sentence": "It’s important not to [discriminate] based on race.",
+            "translation_zh_TW": "基於種族進行區別是非常重要的。"
+          },
+          {
+            "sentence": "Can you [discriminate] between these two shades of blue?",
+            "translation_zh_TW": "你能區分這兩種藍色的色調嗎？"
+          },
+          {
+            "sentence": "Animals can often [discriminate] between different scents.",
+            "translation_zh_TW": "動物通常能區別不同的氣味。"
+          }
+        ],
+        "synonyms": [
+          "differentiate",
+          "distinguish"
+        ]
+      }
+    ],
+    "confusion": [
+      "discrimnate",
+      "discriminatee",
+      "discrimnator",
+      "discriminte"
+    ]
+  },
+  {
+    "word": "tactic",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An action or strategy carefully planned to achieve a specific end.",
+        "meaning_zh_TW": "策略",
+        "wrong_meaning_zh_TW": [
+          "目標",
+          "建議",
+          "工具"
+        ],
+        "examples": [
+          {
+            "sentence": "The team's winning [tactic] surprised their opponents.",
+            "translation_zh_TW": "該隊的獲勝策略令對手驚訝。"
+          },
+          {
+            "sentence": "They developed a new [tactic] to improve sales.",
+            "translation_zh_TW": "他們制定了一種新的策略來提高銷售量。"
+          },
+          {
+            "sentence": "Strategic [tactics] are essential in military operations.",
+            "translation_zh_TW": "軍事行動中的戰略策略是必不可少的。"
+          }
+        ],
+        "synonyms": [
+          "strategy",
+          "plan"
+        ]
+      }
+    ],
+    "confusion": [
+      "tattoo",
+      "tactical",
+      "tacticool",
+      "taxicab"
+    ]
+  },
+  {
+    "word": "recession",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+        "meaning_zh_TW": "經濟衰退",
+        "wrong_meaning_zh_TW": [
+          "經濟繁榮",
+          "市場擴張",
+          "財富增長"
+        ],
+        "examples": [
+          {
+            "sentence": "The country is facing a severe [recession].",
+            "translation_zh_TW": "這個國家正面臨嚴重的經濟衰退"
+          },
+          {
+            "sentence": "During the [recession], many people lost their jobs.",
+            "translation_zh_TW": "在經濟衰退期間，許多人失去了工作"
+          },
+          {
+            "sentence": "Government policies aim to alleviate the [recession].",
+            "translation_zh_TW": "政府的政策旨在減輕經濟衰退的影響"
+          }
+        ],
+        "synonyms": [
+          "decline",
+          "downturn"
+        ]
+      }
+    ],
+    "confusion": [
+      "recess",
+      "recessed",
+      "recessing",
+      "recession's"
+    ]
+  },
+  {
+    "word": "bureaucracy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system of government in which most of the important decisions are taken by state officials rather than by elected representatives.",
+        "meaning_zh_TW": "官僚主義",
+        "wrong_meaning_zh_TW": [
+          "民主",
+          "獨裁",
+          "資本主義"
+        ],
+        "examples": [
+          {
+            "sentence": "The new law aims to reduce [bureaucracy] in government.",
+            "translation_zh_TW": "這項新法旨在減少政府中的官僚主義。"
+          },
+          {
+            "sentence": "Many people complain about the slow pace of [bureaucracy].",
+            "translation_zh_TW": "許多人抱怨官僚主義的進展緩慢。"
+          },
+          {
+            "sentence": "She navigated the complex [bureaucracy] to get her permit.",
+            "translation_zh_TW": "她駕馭了複雜的官僚體制以獲得許可證。"
+          }
+        ],
+        "synonyms": [
+          "administration",
+          "red tape"
+        ]
+      }
+    ],
+    "confusion": [
+      "bureaucrat",
+      "bureau",
+      "burlesque",
+      "burgeon"
+    ]
+  },
+  {
+    "word": "uncover",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To remove a cover or to reveal something hidden.",
+        "meaning_zh_TW": "揭開、發現",
+        "wrong_meaning_zh_TW": [
+          "隱藏",
+          "遮蔽",
+          "記錄"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to uncover the truth behind the rumors.",
+            "translation_zh_TW": "我們需要揭開謠言背後的真相。"
+          },
+          {
+            "sentence": "The scientist aimed to uncover new evidence.",
+            "translation_zh_TW": "科學家的目的是發現新的證據。"
+          },
+          {
+            "sentence": "She will uncover the hidden treasures.",
+            "translation_zh_TW": "她將揭開隱藏的寶藏。"
+          }
+        ],
+        "synonyms": [
+          "reveal",
+          "disclose"
+        ]
+      }
+    ],
+    "confusion": [
+      "recover",
+      "discover",
+      "cover",
+      "uncover"
+    ]
+  },
+  {
+    "word": "jug",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large container for liquid, with a handle and a spout.",
+        "meaning_zh_TW": "壺",
+        "wrong_meaning_zh_TW": [
+          "瓶子",
+          "杯子",
+          "罐"
+        ],
+        "examples": [
+          {
+            "sentence": "She poured the juice from the [jug] into glasses.",
+            "translation_zh_TW": "她把果汁從壺裡倒入杯子"
+          },
+          {
+            "sentence": "I have a ceramic [jug] that I use for water.",
+            "translation_zh_TW": "我有一個用來盛水的陶瓷壺"
+          },
+          {
+            "sentence": "The old [jug] was found in the attic.",
+            "translation_zh_TW": "那個舊壺是在閣樓裡找到的"
+          }
+        ],
+        "synonyms": [
+          "pitcher",
+          "container"
+        ]
+      }
+    ],
+    "confusion": [
+      "jugs",
+      "jogue",
+      "jugg",
+      "juggers"
+    ]
+  },
+  {
+    "word": "doorway",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An entrance or opening in a wall.",
+        "meaning_zh_TW": "入口",
+        "wrong_meaning_zh_TW": [
+          "陰暗的街道",
+          "一個大房間",
+          "樓梯間"
+        ],
+        "examples": [
+          {
+            "sentence": "She stood in the [doorway] and waited.",
+            "translation_zh_TW": "她站在入口處等候。"
+          },
+          {
+            "sentence": "The [doorway] was decorated with flowers.",
+            "translation_zh_TW": "這個入口裝飾著花朵。"
+          },
+          {
+            "sentence": "He walked through the [doorway] with confidence.",
+            "translation_zh_TW": "他自信地走過那個入口。"
+          }
+        ],
+        "synonyms": [
+          "entrance",
+          "entry"
+        ]
+      }
+    ],
+    "confusion": [
+      "dowry",
+      "doorbell",
+      "doorframe",
+      "doorman"
+    ]
+  },
+  {
+    "word": "glare",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fierce or angry stare.",
+        "meaning_zh_TW": "怒視",
+        "wrong_meaning_zh_TW": [
+          "微笑",
+          "目光似箭",
+          "淚水"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave him a [glare] when he interrupted her.",
+            "translation_zh_TW": "當他打斷她時，她朝他怒視。"
+          },
+          {
+            "sentence": "The [glare] of the sun made it hard to see.",
+            "translation_zh_TW": "陽光的刺眼使得很難看清。"
+          },
+          {
+            "sentence": "He shot her a [glare] from across the room.",
+            "translation_zh_TW": "他從房間的另一端朝她怒視。"
+          }
+        ],
+        "synonyms": [
+          "stare",
+          "scowl"
+        ]
+      }
+    ],
+    "confusion": [
+      "glide",
+      "claire",
+      "glarey",
+      "glaire"
+    ]
+  },
+  {
+    "word": "contend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assert something as a position in an argument.",
+        "meaning_zh_TW": "主張",
+        "wrong_meaning_zh_TW": [
+          "妥協",
+          "輕視",
+          "爭論"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [contend] for the championship title.",
+            "translation_zh_TW": "她將爭取冠軍頭銜。"
+          },
+          {
+            "sentence": "They [contend] that the policy is ineffective.",
+            "translation_zh_TW": "他們主張該政策無效。"
+          },
+          {
+            "sentence": "He had to [contend] with many challenges.",
+            "translation_zh_TW": "他不得不應對許多挑戰。"
+          }
+        ],
+        "synonyms": [
+          "argue",
+          "debate"
+        ]
+      }
+    ],
+    "confusion": [
+      "contend",
+      "content",
+      "contention",
+      "contest"
+    ]
+  },
+  {
+    "word": "indulge",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Allow oneself to enjoy the pleasure of.",
+        "meaning_zh_TW": "沉溺於，放縱",
+        "wrong_meaning_zh_TW": [
+          "拒絕",
+          "懲罰",
+          "禁止"
+        ],
+        "examples": [
+          {
+            "sentence": "Sometimes I like to [indulge] in a good book.",
+            "translation_zh_TW": "有時我喜歡沉溺於一本好書"
+          },
+          {
+            "sentence": "She decided to [indulge] herself with chocolate desserts.",
+            "translation_zh_TW": "她決定放縱自己享用巧克力甜點"
+          },
+          {
+            "sentence": "He couldn't resist the urge to [indulge] in travel.",
+            "translation_zh_TW": "他無法抗拒旅行的誘惑"
+          }
+        ],
+        "synonyms": [
+          "pamper",
+          "savor"
+        ]
+      }
+    ],
+    "confusion": [
+      "produce",
+      "industrious",
+      "involve",
+      "inject"
+    ]
+  },
+  {
+    "word": "penetrate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To go into or through something.",
+        "meaning_zh_TW": "穿透，刺入",
+        "wrong_meaning_zh_TW": [
+          "擴展",
+          "放大",
+          "相交"
+        ],
+        "examples": [
+          {
+            "sentence": "The arrow can [penetrate] through thick armor.",
+            "translation_zh_TW": "箭能穿透厚重的盔甲"
+          },
+          {
+            "sentence": "Studies show how light can [penetrate] water.",
+            "translation_zh_TW": "研究顯示光線如何穿透水"
+          },
+          {
+            "sentence": "It is difficult to [penetrate] the dense forest.",
+            "translation_zh_TW": "穿透茂密的森林非常困難"
+          }
+        ],
+        "synonyms": [
+          "pierce",
+          "enter"
+        ]
+      }
+    ],
+    "confusion": [
+      "penetrait",
+      "penetraight",
+      "penetreat",
+      "penchrate"
+    ]
+  },
+  {
+    "word": "agony",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Extreme physical or mental suffering.",
+        "meaning_zh_TW": "痛苦、極度的痛楚",
+        "wrong_meaning_zh_TW": [
+          "快樂",
+          "舒適",
+          "安息"
+        ],
+        "examples": [
+          {
+            "sentence": "He was in [agony] after the accident.",
+            "translation_zh_TW": "事故後他經歷了極度的痛楚。"
+          },
+          {
+            "sentence": "Losing a loved one can cause great emotional [agony].",
+            "translation_zh_TW": "失去摯愛可能會帶來巨大的情感痛苦。"
+          },
+          {
+            "sentence": "She felt [agony] when she heard the bad news.",
+            "translation_zh_TW": "當她聽到壞消息時感到痛苦。"
+          }
+        ],
+        "synonyms": [
+          "suffering",
+          "torment"
+        ]
+      }
+    ],
+    "confusion": [
+      "agony aunt",
+      "agronomy",
+      "agitate",
+      "agape"
+    ]
+  },
+  {
+    "word": "bully",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who uses strength or power to harm or intimidate those who are weak.",
+        "meaning_zh_TW": "霸凌者",
+        "wrong_meaning_zh_TW": [
+          "和平者",
+          "心靈導師",
+          "武術教練"
+        ],
+        "examples": [
+          {
+            "sentence": "The [bully] took his lunch money every day.",
+            "translation_zh_TW": "這個霸凌者每天都會搶他的午餐錢。"
+          },
+          {
+            "sentence": "She stood up to the [bully] in her class.",
+            "translation_zh_TW": "她在班上對這位霸凌者挺身而出。"
+          },
+          {
+            "sentence": "The [bully] was finally reported by the teachers.",
+            "translation_zh_TW": "這名霸凌者最終被老師舉報了。"
+          }
+        ],
+        "synonyms": [
+          "tormentor",
+          "intimidator"
+        ]
+      }
+    ],
+    "confusion": [
+      "billiard",
+      "bulky",
+      "bullion",
+      "bally"
+    ]
+  },
+  {
+    "word": "depict",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To represent or show something in art or literature.",
+        "meaning_zh_TW": "描繪",
+        "wrong_meaning_zh_TW": [
+          "省略",
+          "誇張",
+          "剿滅"
+        ],
+        "examples": [
+          {
+            "sentence": "The artist chose to [depict] the struggles of everyday life.",
+            "translation_zh_TW": "藝術家選擇描繪日常生活的鬥爭。"
+          },
+          {
+            "sentence": "In her novel, she [depicts] a world full of magic.",
+            "translation_zh_TW": "在她的小說中，她描繪了一個充滿魔法的世界。"
+          },
+          {
+            "sentence": "The mural [depicts] the history of the community.",
+            "translation_zh_TW": "這幅壁畫描繪了社區的歷史。"
+          }
+        ],
+        "synonyms": [
+          "represent",
+          "illustrate"
+        ]
+      }
+    ],
+    "confusion": [
+      "depiction",
+      "depicted",
+      "deflect",
+      "deplete"
+    ]
+  },
+  {
+    "word": "poke",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To jab or prod someone or something with a pointed object.",
+        "meaning_zh_TW": "戳",
+        "wrong_meaning_zh_TW": [
+          "鞭打",
+          "撫摸",
+          "推翻"
+        ],
+        "examples": [
+          {
+            "sentence": "He gave her a gentle [poke] to wake her up.",
+            "translation_zh_TW": "他輕輕戳了她一下以叫醒她"
+          },
+          {
+            "sentence": "Don't [poke] the fire with your hands.",
+            "translation_zh_TW": "不要用手戳火"
+          },
+          {
+            "sentence": "She [poked] her head around the corner.",
+            "translation_zh_TW": "她把頭伸出了拐角"
+          }
+        ],
+        "synonyms": [
+          "jab",
+          "prod"
+        ]
+      }
+    ],
+    "confusion": [
+      "poke",
+      "poked",
+      "poker",
+      "poking"
+    ]
+  }
+]

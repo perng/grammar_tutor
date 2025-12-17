@@ -1,0 +1,782 @@
+[
+  {
+    "word": "outrageous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Shocking or extremely bad.",
+        "meaning_zh_TW": "可惡的",
+        "wrong_meaning_zh_TW": [
+          "美好的",
+          "值得的",
+          "高貴的"
+        ],
+        "examples": [
+          {
+            "sentence": "The prices in that store are [outrageous].",
+            "translation_zh_TW": "那家商店的價格非常可惡。"
+          },
+          {
+            "sentence": "His behavior was simply [outrageous].",
+            "translation_zh_TW": "他的行為簡直是可惡的。"
+          },
+          {
+            "sentence": "It's [outrageous] that they charge so much for parking.",
+            "translation_zh_TW": "他們收取如此高的停車費真是可惡。"
+          }
+        ],
+        "synonyms": [
+          "shocking",
+          "outrageous"
+        ]
+      }
+    ],
+    "confusion": [
+      "outraged",
+      "outrages",
+      "outrangle",
+      "outrang"
+    ]
+  },
+  {
+    "word": "trillion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equal to 1,000 billion; 10^12.",
+        "meaning_zh_TW": "一兆",
+        "wrong_meaning_zh_TW": [
+          "一千",
+          "十億",
+          "百萬"
+        ],
+        "examples": [
+          {
+            "sentence": "The national debt has reached over a [trillion] dollars.",
+            "translation_zh_TW": "國家債務已超過一兆美元。"
+          },
+          {
+            "sentence": "There are a [trillion] stars in the Milky Way galaxy.",
+            "translation_zh_TW": "在銀河系中有一兆顆星星。"
+          },
+          {
+            "sentence": "A [trillion] calculations are performed every second.",
+            "translation_zh_TW": "每秒執行一兆次計算。"
+          }
+        ],
+        "synonyms": [
+          "thousand billion"
+        ]
+      }
+    ],
+    "confusion": [
+      "billion",
+      "million",
+      "trillionaire",
+      "trillionth"
+    ]
+  },
+  {
+    "word": "dissent",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The expression or holding of opinions at variance with those previously, commonly, or officially held.",
+        "meaning_zh_TW": "異議",
+        "wrong_meaning_zh_TW": [
+          "一致",
+          "服從",
+          "合約"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a significant amount of [dissent] among the group.",
+            "translation_zh_TW": "該小組中存在大量異議。"
+          },
+          {
+            "sentence": "His [dissent] was noted in the official report.",
+            "translation_zh_TW": "他的異議在正式報告中被記錄下來。"
+          },
+          {
+            "sentence": "Expressing [dissent] is important in a democracy.",
+            "translation_zh_TW": "在民主制度中表達異議很重要。"
+          }
+        ],
+        "synonyms": [
+          "disagreement",
+          "protest"
+        ]
+      }
+    ],
+    "confusion": [
+      "descent",
+      "assist",
+      "dissenting",
+      "decent"
+    ]
+  },
+  {
+    "word": "socialism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A political and economic theory advocating collective or governmental ownership and administration of the means of production and distribution of goods.",
+        "meaning_zh_TW": "社會主義",
+        "wrong_meaning_zh_TW": [
+          "資本主義",
+          "共產主義",
+          "民主制度"
+        ],
+        "examples": [
+          {
+            "sentence": "Many countries adopted [socialism] to promote equality.",
+            "translation_zh_TW": "許多國家採用了社會主義來促進平等。"
+          },
+          {
+            "sentence": "The transition to [socialism] involves significant changes in government structure.",
+            "translation_zh_TW": "向社會主義的過渡涉及政府結構的重大變化。"
+          },
+          {
+            "sentence": "Critics argue that [socialism] can stifle individual initiative.",
+            "translation_zh_TW": "批評者認為社會主義可能會抑制個人創新。"
+          }
+        ],
+        "synonyms": [
+          "leftism",
+          "collectivism"
+        ]
+      }
+    ],
+    "confusion": [
+      "socializm",
+      "socalism",
+      "socailism",
+      "socialisst"
+    ]
+  },
+  {
+    "word": "edible",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Fit to be eaten.",
+        "meaning_zh_TW": "可食用的",
+        "wrong_meaning_zh_TW": [
+          "腐爛的",
+          "有毒的",
+          "過期的"
+        ],
+        "examples": [
+          {
+            "sentence": "Only the [edible] mushrooms are safe to eat.",
+            "translation_zh_TW": "只有可食用的蘑菇是安全的。"
+          },
+          {
+            "sentence": "This dish contains several [edible] flowers.",
+            "translation_zh_TW": "這道菜包含幾種可食用的花朵。"
+          },
+          {
+            "sentence": "Make sure the plants you gather are [edible].",
+            "translation_zh_TW": "確保你採集的植物是可食用的。"
+          }
+        ],
+        "synonyms": [
+          "consumable",
+          "fit to eat"
+        ]
+      }
+    ],
+    "confusion": [
+      "editable",
+      "edifice",
+      "edging",
+      "editable"
+    ]
+  },
+  {
+    "word": "chemist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person trained in the science of chemistry.",
+        "meaning_zh_TW": "化學家",
+        "wrong_meaning_zh_TW": [
+          "藥劑師",
+          "化妝師",
+          "教師"
+        ],
+        "examples": [
+          {
+            "sentence": "The [chemist] conducted experiments in the lab.",
+            "translation_zh_TW": "化學家在實驗室裡進行實驗"
+          },
+          {
+            "sentence": "He works as a [chemist] in a pharmaceutical company.",
+            "translation_zh_TW": "他在一家製藥公司擔任化學家"
+          },
+          {
+            "sentence": "The [chemist] is studying new compounds.",
+            "translation_zh_TW": "化學家正在研究新化合物"
+          }
+        ],
+        "synonyms": [
+          "scientist",
+          "lab technician"
+        ]
+      }
+    ],
+    "confusion": [
+      "chemical",
+      "chemist's",
+      "chemistr",
+      "chemis"
+    ]
+  },
+  {
+    "word": "posture",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The position in which someone holds their body when standing or sitting.",
+        "meaning_zh_TW": "姿勢",
+        "wrong_meaning_zh_TW": [
+          "裝飾",
+          "局勢",
+          "偏見"
+        ],
+        "examples": [
+          {
+            "sentence": "Good [posture] is important for your health.",
+            "translation_zh_TW": "良好的姿勢對你的健康很重要。"
+          },
+          {
+            "sentence": "She adjusted her [posture] before the presentation.",
+            "translation_zh_TW": "在報告前，她調整了自己的姿勢。"
+          },
+          {
+            "sentence": "Yoga can help improve your [posture].",
+            "translation_zh_TW": "瑜伽可以幫助改善你的姿勢。"
+          }
+        ],
+        "synonyms": [
+          " stance",
+          "position",
+          "attitude"
+        ]
+      }
+    ],
+    "confusion": [
+      "post",
+      "poster",
+      "postscript",
+      "poshure"
+    ]
+  },
+  {
+    "word": "discomfort",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A state of unease or mild pain.",
+        "meaning_zh_TW": "不適",
+        "wrong_meaning_zh_TW": [
+          "舒適",
+          "快樂",
+          "滿足"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt a sharp [discomfort] in her back.",
+            "translation_zh_TW": "她感到背部有一陣尖銳的不適。"
+          },
+          {
+            "sentence": "His sudden [discomfort] was alarming.",
+            "translation_zh_TW": "他的突然不適讓人驚慌。"
+          },
+          {
+            "sentence": "The chair caused her [discomfort].",
+            "translation_zh_TW": "這把椅子讓她感到不適。"
+          }
+        ],
+        "synonyms": [
+          "unease",
+          "discontent"
+        ]
+      }
+    ],
+    "confusion": [
+      "discomforted",
+      "discomfit",
+      "dismay",
+      "discmofort"
+    ]
+  },
+  {
+    "word": "dorm",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A shortened term for dormitory.",
+        "meaning_zh_TW": "宿舍",
+        "wrong_meaning_zh_TW": [
+          "房間",
+          "辦公室",
+          "宿主"
+        ],
+        "examples": [
+          {
+            "sentence": "I have a friend living in the [dorm].",
+            "translation_zh_TW": "我有個朋友住在宿舍裡。"
+          },
+          {
+            "sentence": "The [dorm] is located near the campus.",
+            "translation_zh_TW": "宿舍位於校園附近。"
+          },
+          {
+            "sentence": "They often hang out in the [dorm].",
+            "translation_zh_TW": "他們經常在宿舍裡閒逛。"
+          }
+        ],
+        "synonyms": [
+          "dormitory"
+        ]
+      }
+    ],
+    "confusion": [
+      "dom",
+      "door",
+      "dormer",
+      "form"
+    ]
+  },
+  {
+    "word": "pneumonia",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A serious illness affecting the lungs.",
+        "meaning_zh_TW": "肺炎",
+        "wrong_meaning_zh_TW": [
+          "感冒",
+          "過敏",
+          "咳嗽"
+        ],
+        "examples": [
+          {
+            "sentence": "He was hospitalized due to severe [pneumonia].",
+            "translation_zh_TW": "他因為重度肺炎而住院。"
+          },
+          {
+            "sentence": "Symptoms of [pneumonia] include coughing and fever.",
+            "translation_zh_TW": "肺炎的症狀包括咳嗽和發燒。"
+          },
+          {
+            "sentence": "Vaccination can help prevent [pneumonia].",
+            "translation_zh_TW": "接種疫苗可以幫助預防肺炎。"
+          }
+        ],
+        "synonyms": [
+          "lung infection",
+          "pneumonitis"
+        ]
+      }
+    ],
+    "confusion": [
+      "pneumonitis",
+      "pneumatic",
+      "pneumoniae",
+      "pneumy"
+    ]
+  },
+  {
+    "word": "carton",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A box or container made from cardboard.",
+        "meaning_zh_TW": "紙箱",
+        "wrong_meaning_zh_TW": [
+          "瓷器",
+          "金屬盒",
+          "塑料袋"
+        ],
+        "examples": [
+          {
+            "sentence": "He packed the books into a [carton].",
+            "translation_zh_TW": "他把書裝進紙箱裡。"
+          },
+          {
+            "sentence": "The milk is sold in a square [carton].",
+            "translation_zh_TW": "牛奶裝在一個方形的紙箱裡。"
+          },
+          {
+            "sentence": "She opened the [carton] to find the toy inside.",
+            "translation_zh_TW": "她打開紙箱發現裡面有玩具。"
+          }
+        ],
+        "synonyms": [
+          "box",
+          "container"
+        ]
+      }
+    ],
+    "confusion": [
+      "cartons",
+      "cartonage",
+      "carten",
+      "cartton"
+    ]
+  },
+  {
+    "word": "outlaw",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who has broken the law and is hiding to avoid punishment.",
+        "meaning_zh_TW": "歹徒",
+        "wrong_meaning_zh_TW": [
+          "英雄",
+          "警察",
+          "市民"
+        ],
+        "examples": [
+          {
+            "sentence": "The sheriff is looking for the [outlaw].",
+            "translation_zh_TW": "警長正在尋找這位歹徒。"
+          },
+          {
+            "sentence": "Many films portray an [outlaw] as a hero.",
+            "translation_zh_TW": "許多電影將歹徒描繪成英雄。"
+          },
+          {
+            "sentence": "He became an [outlaw] after committing several crimes.",
+            "translation_zh_TW": "他在犯下幾起罪行後成為一名歹徒。"
+          }
+        ],
+        "synonyms": [
+          "criminal",
+          "fugitive"
+        ]
+      }
+    ],
+    "confusion": [
+      "outlawed",
+      "outlaws",
+      "outlay",
+      "outlook"
+    ]
+  },
+  {
+    "word": "imminent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "About to happen or likely to occur in the near future.",
+        "meaning_zh_TW": "即將發生的",
+        "wrong_meaning_zh_TW": [
+          "遙遠的",
+          "過期的",
+          "已經發生的"
+        ],
+        "examples": [
+          {
+            "sentence": "The storm is [imminent], so we should seek shelter.",
+            "translation_zh_TW": "暴風雨即將來臨，所以我們應該尋找庇護。"
+          },
+          {
+            "sentence": "His resignation was [imminent] after the scandal broke.",
+            "translation_zh_TW": "在醜聞爆發後，他的辭職即將發生。"
+          },
+          {
+            "sentence": "The company faces an [imminent] financial crisis.",
+            "translation_zh_TW": "該公司面臨著即將到來的財務危機。"
+          }
+        ],
+        "synonyms": [
+          "urgent",
+          "impending"
+        ]
+      }
+    ],
+    "confusion": [
+      "immanent",
+      "imminentcy",
+      "inminent",
+      "imminence"
+    ]
+  },
+  {
+    "word": "madam",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A polite form of address for a woman.",
+        "meaning_zh_TW": "女士",
+        "wrong_meaning_zh_TW": [
+          "男士",
+          "小姐",
+          "媽媽"
+        ],
+        "examples": [
+          {
+            "sentence": "Excuse me, [madam], may I help you?",
+            "translation_zh_TW": "對不起，女士，我可以幫您嗎？"
+          },
+          {
+            "sentence": "The shopkeeper greeted her as [madam].",
+            "translation_zh_TW": "店主稱呼她為女士。"
+          },
+          {
+            "sentence": "Madam, your order is ready.",
+            "translation_zh_TW": "女士，您的訂單已經準備好了。"
+          }
+        ],
+        "synonyms": [
+          "lady",
+          "ma'am"
+        ]
+      }
+    ],
+    "confusion": [
+      "madame",
+      "madams",
+      "madman",
+      "mad"
+    ]
+  },
+  {
+    "word": "dwell",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To live in a specified place.",
+        "meaning_zh_TW": "居住",
+        "wrong_meaning_zh_TW": [
+          "渡過",
+          "消滅",
+          "逗留"
+        ],
+        "examples": [
+          {
+            "sentence": "They [dwell] in a quaint old cottage.",
+            "translation_zh_TW": "他們居住在一棟古色古香的小屋中。"
+          },
+          {
+            "sentence": "He doesn't [dwell] on the past anymore.",
+            "translation_zh_TW": "他不再停留在過去。"
+          },
+          {
+            "sentence": "Many species of birds [dwell] in this forest.",
+            "translation_zh_TW": "許多種鳥類居住在這片森林中。"
+          }
+        ],
+        "synonyms": [
+          "live",
+          "reside"
+        ]
+      }
+    ],
+    "confusion": [
+      "develop",
+      "dowel",
+      "dwellers",
+      "dropped"
+    ]
+  },
+  {
+    "word": "injustice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Lack of fairness or justice.",
+        "meaning_zh_TW": "不公正",
+        "wrong_meaning_zh_TW": [
+          "公正",
+          "正義",
+          "平等"
+        ],
+        "examples": [
+          {
+            "sentence": "The protest was against systemic [injustice].",
+            "translation_zh_TW": "抗議是針對系統性的不公正。"
+          },
+          {
+            "sentence": "She spoke out against [injustice] in her community.",
+            "translation_zh_TW": "她在社區裡反對不公正的言論。"
+          },
+          {
+            "sentence": "The report highlighted cases of [injustice].",
+            "translation_zh_TW": "這份報告突顯了不公正的案例。"
+          }
+        ],
+        "synonyms": [
+          "inequity",
+          "unfairness"
+        ]
+      }
+    ],
+    "confusion": [
+      "injust",
+      "injury",
+      "injustices",
+      "injusticee"
+    ]
+  },
+  {
+    "word": "longevity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Long duration of life; long life.",
+        "meaning_zh_TW": "長壽",
+        "wrong_meaning_zh_TW": [
+          "短命",
+          "不朽",
+          "短暫"
+        ],
+        "examples": [
+          {
+            "sentence": "He attributes his [longevity] to a healthy lifestyle.",
+            "translation_zh_TW": "他將自己的長壽歸因於健康的生活方式。"
+          },
+          {
+            "sentence": "The [longevity] of the tortoise is well-known.",
+            "translation_zh_TW": "烏龜的長壽是眾所周知的。"
+          },
+          {
+            "sentence": "Scientists study the [longevity] of certain species.",
+            "translation_zh_TW": "科學家研究某些物種的長壽。"
+          }
+        ],
+        "synonyms": [
+          "long life",
+          "endurance"
+        ]
+      }
+    ],
+    "confusion": [
+      "longevity",
+      "long",
+      "longing",
+      "longwave"
+    ]
+  },
+  {
+    "word": "crater",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A bowl-shaped depression or cavity in the ground or on a surface, typically caused by an explosion or impact.",
+        "meaning_zh_TW": "火山口",
+        "wrong_meaning_zh_TW": [
+          "坑洞",
+          "凹陷",
+          "圓形"
+        ],
+        "examples": [
+          {
+            "sentence": "The [crater] was formed after the volcanic eruption.",
+            "translation_zh_TW": "這個火山口是在火山爆發後形成的。"
+          },
+          {
+            "sentence": "Astronomers study the [crater] patterns on the moon.",
+            "translation_zh_TW": "天文學家研究月球上的火山口圖案。"
+          },
+          {
+            "sentence": "The [crater] is a popular hiking destination.",
+            "translation_zh_TW": "這個火山口是受歡迎的健行目的地。"
+          }
+        ],
+        "synonyms": [
+          "bowl",
+          "depression"
+        ]
+      }
+    ],
+    "confusion": [
+      "cratered",
+      "create",
+      "cater",
+      "crate"
+    ]
+  },
+  {
+    "word": "incur",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To become subject to something unwelcome or unpleasant as a result of one's own behavior.",
+        "meaning_zh_TW": "招致",
+        "wrong_meaning_zh_TW": [
+          "減少",
+          "增進",
+          "提高"
+        ],
+        "examples": [
+          {
+            "sentence": "If you don't pay your taxes, you may [incur] penalties.",
+            "translation_zh_TW": "如果你不繳稅，你可能會招致罰款。"
+          },
+          {
+            "sentence": "He knew he would [incur] the wrath of his boss.",
+            "translation_zh_TW": "他知道自己會招致老板的憤怒。"
+          },
+          {
+            "sentence": "They did not foresee that they would [incur] such large debts.",
+            "translation_zh_TW": "他們沒有預見到自己會招致如此大的債務。"
+          }
+        ],
+        "synonyms": [
+          "bring on",
+          "sustain",
+          "suffer"
+        ]
+      }
+    ],
+    "confusion": [
+      "secure",
+      "ensure",
+      "occur",
+      "incurred"
+    ]
+  },
+  {
+    "word": "peacock",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large bird known for its colorful fan-shaped tail.",
+        "meaning_zh_TW": "孔雀",
+        "wrong_meaning_zh_TW": [
+          "小鳥",
+          "兔子",
+          "老虎"
+        ],
+        "examples": [
+          {
+            "sentence": "The [peacock] displayed its magnificent feathers.",
+            "translation_zh_TW": "孔雀展現出它華麗的羽毛。"
+          },
+          {
+            "sentence": "We saw a [peacock] strutting in the garden.",
+            "translation_zh_TW": "我們看到一隻孔雀在花園裡走來走去。"
+          },
+          {
+            "sentence": "The [peacock] is a symbol of beauty and grace.",
+            "translation_zh_TW": "孔雀是美麗和優雅的象徵。"
+          }
+        ],
+        "synonyms": [
+          "bird",
+          "fowl"
+        ]
+      }
+    ],
+    "confusion": [
+      "peek",
+      "peak",
+      "pique",
+      "peacocktail"
+    ]
+  }
+]

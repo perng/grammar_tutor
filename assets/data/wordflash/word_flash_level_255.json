@@ -1,0 +1,772 @@
+[
+  {
+    "word": "throne",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A ceremonial chair for a sovereign, bishop, or important person.",
+        "meaning_zh_TW": "寶座；王座",
+        "wrong_meaning_zh_TW": [
+          "椅子",
+          "沙發",
+          "凳子"
+        ],
+        "examples": [
+          {
+            "sentence": "The king sat on his [throne], surveying his kingdom.",
+            "translation_zh_TW": "國王坐在他的寶座上，觀察著他的王國"
+          },
+          {
+            "sentence": "She imagined herself on a [throne] surrounded by jewels.",
+            "translation_zh_TW": "她想像自己坐在一個被珠寶包圍的王座上"
+          },
+          {
+            "sentence": "The [throne] room was filled with elegance and grandeur.",
+            "translation_zh_TW": "寶座室充滿優雅與壯麗"
+          }
+        ],
+        "synonyms": [
+          "seat of power",
+          "royal chair"
+        ]
+      }
+    ],
+    "confusion": [
+      "throne room",
+      "throned",
+      "throng",
+      "thrum"
+    ]
+  },
+  {
+    "word": "midst",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The central part or point of something.",
+        "meaning_zh_TW": "中間、當中",
+        "wrong_meaning_zh_TW": [
+          "末端、尾端",
+          "周邊、邊緣",
+          "外在、外圍"
+        ],
+        "examples": [
+          {
+            "sentence": "In the [midst] of the crowd, she felt a bit lost.",
+            "translation_zh_TW": "在人群的中間，她感到有些迷失。"
+          },
+          {
+            "sentence": "The treasure was hidden in the [midst] of the forest.",
+            "translation_zh_TW": "寶藏藏在森林的中間。"
+          },
+          {
+            "sentence": "It was a quiet moment in the [midst] of chaos.",
+            "translation_zh_TW": "在混亂的當中，是個寧靜的瞬間。"
+          }
+        ],
+        "synonyms": [
+          "middle",
+          "center"
+        ]
+      }
+    ],
+    "confusion": [
+      "mids",
+      "mysts",
+      "mides",
+      "midstt"
+    ]
+  },
+  {
+    "word": "torch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A portable light source that burns fuel, such as a flame on a stick.",
+        "meaning_zh_TW": "火把",
+        "wrong_meaning_zh_TW": [
+          "燭光",
+          "手電筒",
+          "亮光"
+        ],
+        "examples": [
+          {
+            "sentence": "They used a [torch] to light the campfire.",
+            "translation_zh_TW": "他們用火把點燃營火。"
+          },
+          {
+            "sentence": "The athlete carried a [torch] during the relay race.",
+            "translation_zh_TW": "運動員在接力賽中持著火把。"
+          },
+          {
+            "sentence": "She held a [torch] while exploring the dark cave.",
+            "translation_zh_TW": "她在探索黑暗的洞穴時拿著火把。"
+          }
+        ],
+        "synonyms": [
+          "flame",
+          "light"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To set fire to something; to ignite.",
+        "meaning_zh_TW": "點燃",
+        "wrong_meaning_zh_TW": [
+          "熄滅",
+          "冷卻",
+          "移動"
+        ],
+        "examples": [
+          {
+            "sentence": "They [torched] the piles of leaves to clear the yard.",
+            "translation_zh_TW": "他們點燃落葉堆以清理院子。"
+          },
+          {
+            "sentence": "She [torched] the old furniture to get rid of it.",
+            "translation_zh_TW": "她把舊家具點燃以處理掉。"
+          },
+          {
+            "sentence": "The group [torched] the debris after the storm.",
+            "translation_zh_TW": "風暴過後，這群人點燃了殘骸。"
+          }
+        ],
+        "synonyms": [
+          "burn",
+          "ignite"
+        ]
+      }
+    ],
+    "confusion": [
+      "tork",
+      "torchlight",
+      "torc",
+      "pouch"
+    ]
+  },
+  {
+    "word": "attic",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A space or room just below the roof of a building.",
+        "meaning_zh_TW": "閣樓",
+        "wrong_meaning_zh_TW": [
+          "廚房",
+          "地下室",
+          "陽台"
+        ],
+        "examples": [
+          {
+            "sentence": "We found our old toys in the [attic].",
+            "translation_zh_TW": "我們在閣樓裡找到了我們的舊玩具。"
+          },
+          {
+            "sentence": "The [attic] was filled with dust and memories.",
+            "translation_zh_TW": "閣樓裡滿是灰塵和回憶。"
+          },
+          {
+            "sentence": "She uses the [attic] for storage.",
+            "translation_zh_TW": "她把閣樓用作儲藏室。"
+          }
+        ],
+        "synonyms": [
+          "loft",
+          "storage space"
+        ]
+      }
+    ],
+    "confusion": [
+      "atticize",
+      "attical",
+      "attics",
+      "atticism"
+    ]
+  },
+  {
+    "word": "sensation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A physical feeling or perception resulting from something that happens to or comes into contact with the body.",
+        "meaning_zh_TW": "感覺、知覺",
+        "wrong_meaning_zh_TW": [
+          "情感",
+          "念頭",
+          "印象"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a strange [sensation] in the air.",
+            "translation_zh_TW": "空氣中有一種奇怪的感覺。"
+          },
+          {
+            "sentence": "The cold water gave him a refreshing [sensation].",
+            "translation_zh_TW": "冷水給了他一種清新的感覺。"
+          },
+          {
+            "sentence": "She experienced a tingling [sensation] in her fingers.",
+            "translation_zh_TW": "她的手指感到刺痛的感覺。"
+          }
+        ],
+        "synonyms": [
+          "feeling",
+          "perception"
+        ]
+      }
+    ],
+    "confusion": [
+      "sensitive",
+      "sensational",
+      "sensatory",
+      "sensaition"
+    ]
+  },
+  {
+    "word": "morality",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Principles concerning the distinction between right and wrong or good and bad behavior.",
+        "meaning_zh_TW": "道德",
+        "wrong_meaning_zh_TW": [
+          "法律",
+          "經濟",
+          "政策"
+        ],
+        "examples": [
+          {
+            "sentence": "Many philosophers have debated the concept of [morality].",
+            "translation_zh_TW": "許多哲學家已經討論過道德這一概念。"
+          },
+          {
+            "sentence": "He was raised with a strong sense of [morality].",
+            "translation_zh_TW": "他是在強烈的道德感中長大的。"
+          },
+          {
+            "sentence": "The book explores the complexity of human [morality].",
+            "translation_zh_TW": "這本書探討了人類道德的複雜性。"
+          }
+        ],
+        "synonyms": [
+          "ethics",
+          "principles"
+        ]
+      }
+    ],
+    "confusion": [
+      "moral",
+      "mortality",
+      "morass",
+      "mosaic"
+    ]
+  },
+  {
+    "word": "honorable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Deserving of respect or high regard; admirable.",
+        "meaning_zh_TW": "可敬的",
+        "wrong_meaning_zh_TW": [
+          "可憐的",
+          "普通的",
+          "惡名昭彰的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is known for his [honorable] actions.",
+            "translation_zh_TW": "他以可敬的行為而聞名。"
+          },
+          {
+            "sentence": "The [honorable] judge made a fair ruling.",
+            "translation_zh_TW": "可敬的法官做出了一個公正的判決。"
+          },
+          {
+            "sentence": "She was presented with an [honorable] award for her bravery.",
+            "translation_zh_TW": "她因勇敢而獲得了一個可敬的獎項。"
+          }
+        ],
+        "synonyms": [
+          "respectable",
+          "noble"
+        ]
+      }
+    ],
+    "confusion": [
+      "honorary",
+      "honor",
+      "honorably",
+      "honorific"
+    ]
+  },
+  {
+    "word": "successor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that succeeds another; someone who takes over a role or position.",
+        "meaning_zh_TW": "繼任者",
+        "wrong_meaning_zh_TW": [
+          "前任者",
+          "助手",
+          "配偶"
+        ],
+        "examples": [
+          {
+            "sentence": "The CEO announced her [successor] at the annual meeting.",
+            "translation_zh_TW": "首席執行官在年度會議上公布了她的繼任者。"
+          },
+          {
+            "sentence": "As the [successor] to the throne, he had many responsibilities.",
+            "translation_zh_TW": "作為王位的繼任者，他有許多責任。"
+          },
+          {
+            "sentence": "The [successor] was praised for their innovative ideas.",
+            "translation_zh_TW": "繼任者因其創新理念而受到讚賞。"
+          }
+        ],
+        "synonyms": [
+          "heir",
+          "replacement"
+        ]
+      }
+    ],
+    "confusion": [
+      "sucessor",
+      "succesor",
+      "successsor",
+      "succese"
+    ]
+  },
+  {
+    "word": "prohibit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To formally forbid something by law, rule, or other authority.",
+        "meaning_zh_TW": "禁止",
+        "wrong_meaning_zh_TW": [
+          "允許",
+          "支持",
+          "促進"
+        ],
+        "examples": [
+          {
+            "sentence": "The school plans to [prohibit] cell phone use during classes.",
+            "translation_zh_TW": "學校計劃在課堂上禁止使用手機"
+          },
+          {
+            "sentence": "Local authorities [prohibit] smoking in public areas.",
+            "translation_zh_TW": "當地當局禁止在公共場所吸煙"
+          },
+          {
+            "sentence": "They cannot [prohibit] freedom of speech.",
+            "translation_zh_TW": "他們不能禁止言論自由"
+          }
+        ],
+        "synonyms": [
+          "forbid",
+          "ban",
+          "restrict"
+        ]
+      }
+    ],
+    "confusion": [
+      "prohibit",
+      "prohibition",
+      "prohibitive",
+      "prohibitly"
+    ]
+  },
+  {
+    "word": "suspend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To temporarily prevent from continuing or being in force or effect.",
+        "meaning_zh_TW": "暫時停止",
+        "wrong_meaning_zh_TW": [
+          "持續進行",
+          "迅速移動",
+          "頻繁發生"
+        ],
+        "examples": [
+          {
+            "sentence": "The school decided to [suspend] classes for the day.",
+            "translation_zh_TW": "學校決定暫停今天的課程"
+          },
+          {
+            "sentence": "The athlete was [suspended] for violating the rules.",
+            "translation_zh_TW": "該運動員因違反規則而被禁賽"
+          },
+          {
+            "sentence": "The project was [suspended] pending further review.",
+            "translation_zh_TW": "該項目在進一步審查前被暫停"
+          }
+        ],
+        "synonyms": [
+          "postpone",
+          "delay"
+        ]
+      }
+    ],
+    "confusion": [
+      "supposed",
+      "sustained",
+      "suspect",
+      "suspicion"
+    ]
+  },
+  {
+    "word": "columnist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A journalist contributing regularly to a publication.",
+        "meaning_zh_TW": "專欄作家",
+        "wrong_meaning_zh_TW": [
+          "編輯",
+          "報導者",
+          "作家"
+        ],
+        "examples": [
+          {
+            "sentence": "The [columnist] shares insights on current events.",
+            "translation_zh_TW": "專欄作家分享當前事件的見解。"
+          },
+          {
+            "sentence": "As a respected [columnist], she influences public opinion.",
+            "translation_zh_TW": "作為一名受人尊敬的專欄作家，她影響著公眾意見。"
+          },
+          {
+            "sentence": "He writes a weekly [columnist] piece for the local newspaper.",
+            "translation_zh_TW": "他每週為當地報紙撰寫一篇專欄。"
+          }
+        ],
+        "synonyms": [
+          "editor",
+          "writer"
+        ]
+      }
+    ],
+    "confusion": [
+      "collumnist",
+      "columist",
+      "columnistc",
+      "columnis"
+    ]
+  },
+  {
+    "word": "elaborate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To develop or present (a theory, policy, or system) in detail.",
+        "meaning_zh_TW": "詳細闡述",
+        "wrong_meaning_zh_TW": [
+          "簡化",
+          "扼要",
+          "省略"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [elaborate] on her proposal during the meeting.",
+            "translation_zh_TW": "她會在會議上詳細闡述她的提案"
+          },
+          {
+            "sentence": "He asked her to [elaborate] further on her ideas.",
+            "translation_zh_TW": "他要求她對她的想法進一步詳細說明"
+          },
+          {
+            "sentence": "The artist was asked to [elaborate] the story behind the painting.",
+            "translation_zh_TW": "藝術家被要求詳細闡述這幅畫的背後故事"
+          }
+        ],
+        "synonyms": [
+          "expound",
+          "expand"
+        ]
+      }
+    ],
+    "confusion": [
+      "elaborator",
+      "elaboration",
+      "elaborately",
+      "elaborate"
+    ]
+  },
+  {
+    "word": "illusion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A false idea or belief, often causing a misunderstanding.",
+        "meaning_zh_TW": "幻想",
+        "wrong_meaning_zh_TW": [
+          "現實",
+          "真相",
+          "信念"
+        ],
+        "examples": [
+          {
+            "sentence": "The magician created an [illusion] that amazed the audience.",
+            "translation_zh_TW": "魔術師創造了讓觀眾驚嘆的幻想。"
+          },
+          {
+            "sentence": "Her belief in his sincerity was nothing but an [illusion].",
+            "translation_zh_TW": "她對他真誠的信念只是個幻想。"
+          },
+          {
+            "sentence": "The art piece plays with the viewer's perception and creates an [illusion].",
+            "translation_zh_TW": "這件藝術作品玩弄觀眾的感知，創造了一種幻想。"
+          }
+        ],
+        "synonyms": [
+          "delusion",
+          "mirage"
+        ]
+      }
+    ],
+    "confusion": [
+      "illusionist",
+      "illusionary",
+      "illusions",
+      "illusive"
+    ]
+  },
+  {
+    "word": "assert",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To state a fact or belief confidently and forcefully.",
+        "meaning_zh_TW": "斷言、聲明",
+        "wrong_meaning_zh_TW": [
+          "懷疑、質疑",
+          "觀察、檢查",
+          "保留、預約"
+        ],
+        "examples": [
+          {
+            "sentence": "She [asserts] her rights in every discussion.",
+            "translation_zh_TW": "她在每次討論中都斷言自己的權利。"
+          },
+          {
+            "sentence": "He [asserts] that he is innocent.",
+            "translation_zh_TW": "他聲明自己是無辜的。"
+          },
+          {
+            "sentence": "They [assert] their opinions without hesitation.",
+            "translation_zh_TW": "他們毫不猶豫地表示出自己的意見。"
+          }
+        ],
+        "synonyms": [
+          "declare",
+          "maintain"
+        ]
+      }
+    ],
+    "confusion": [
+      "asert",
+      "asserts",
+      "assertion",
+      "assure"
+    ]
+  },
+  {
+    "word": "scent",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A distinctive smell, especially one that is pleasant.",
+        "meaning_zh_TW": "香氣",
+        "wrong_meaning_zh_TW": [
+          "氣味",
+          "煙霧",
+          "味道"
+        ],
+        "examples": [
+          {
+            "sentence": "The [scent] of flowers filled the room.",
+            "translation_zh_TW": "房間裡充滿了花香。"
+          },
+          {
+            "sentence": "She loves the [scent] of fresh coffee in the morning.",
+            "translation_zh_TW": "她喜愛早晨新鮮咖啡的香氣。"
+          },
+          {
+            "sentence": "The [scent] reminded him of his childhood.",
+            "translation_zh_TW": "那香氣讓他想起了童年。"
+          }
+        ],
+        "synonyms": [
+          "fragrance",
+          "aroma"
+        ]
+      }
+    ],
+    "confusion": [
+      "sent",
+      "cent",
+      "sentiment",
+      "scented"
+    ]
+  },
+  {
+    "word": "stance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A public or mental attitude toward a particular issue.",
+        "meaning_zh_TW": "立場",
+        "wrong_meaning_zh_TW": [
+          "行動",
+          "位置",
+          "策略"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [stance] on climate change is well known.",
+            "translation_zh_TW": "她對氣候變遷的立場是眾所周知的"
+          },
+          {
+            "sentence": "The politician changed his [stance] during the debate.",
+            "translation_zh_TW": "該政治家在辯論中改變了他的立場"
+          },
+          {
+            "sentence": "You need to clarify your [stance] on education reform.",
+            "translation_zh_TW": "你需要闡明你對教育改革的立場"
+          }
+        ],
+        "synonyms": [
+          "position",
+          "viewpoint"
+        ]
+      }
+    ],
+    "confusion": [
+      "stance",
+      "stunt",
+      "stains",
+      "stancee"
+    ]
+  },
+  {
+    "word": "derive",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To obtain something from (a specified source).",
+        "meaning_zh_TW": "衍生",
+        "wrong_meaning_zh_TW": [
+          "失去",
+          "放棄",
+          "採用"
+        ],
+        "examples": [
+          {
+            "sentence": "We can [derive] satisfaction from helping others.",
+            "translation_zh_TW": "我們可以從幫助他人中獲得滿足感"
+          },
+          {
+            "sentence": "Many English words [derive] from Latin.",
+            "translation_zh_TW": "許多英語單詞源自拉丁語"
+          },
+          {
+            "sentence": "The researchers aim to [derive] meaningful insights from the data.",
+            "translation_zh_TW": "研究人員的目的是從數據中獲得有意義的見解"
+          }
+        ],
+        "synonyms": [
+          "obtained",
+          "extract"
+        ]
+      }
+    ],
+    "confusion": [
+      "derived",
+      "derivation",
+      "derivee",
+      "deriveable"
+    ]
+  },
+  {
+    "word": "quota",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fixed share of something that a person or group is entitled to receive or is bound to contribute.",
+        "meaning_zh_TW": "配額、限額",
+        "wrong_meaning_zh_TW": [
+          "全體人數",
+          "要求的量",
+          "指定的數字"
+        ],
+        "examples": [
+          {
+            "sentence": "The company set a [quota] for each department to meet.",
+            "translation_zh_TW": "公司為每個部門設立了配額。"
+          },
+          {
+            "sentence": "We need to fulfill our annual sales [quota].",
+            "translation_zh_TW": "我們需要完成年度銷售配額。"
+          },
+          {
+            "sentence": "Each student is assigned a [quota] of volunteer hours.",
+            "translation_zh_TW": "每位學生被分配了一定的志願服務時間配額。"
+          }
+        ],
+        "synonyms": [
+          "allowance",
+          "share"
+        ]
+      }
+    ],
+    "confusion": [
+      "quota",
+      "quote",
+      "cota",
+      "quota"
+    ]
+  },
+  {
+    "word": "unprecedented",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Never done or known before.",
+        "meaning_zh_TW": "前所未有的",
+        "wrong_meaning_zh_TW": [
+          "不合時宜的",
+          "常見的",
+          "無聊的"
+        ],
+        "examples": [
+          {
+            "sentence": "This year has seen an [unprecedented] rise in temperatures.",
+            "translation_zh_TW": "今年的氣溫上升是前所未有的。"
+          },
+          {
+            "sentence": "The company experienced [unprecedented] growth last quarter.",
+            "translation_zh_TW": "該公司上個季度經歷了前所未有的增長。"
+          },
+          {
+            "sentence": "We are facing an [unprecedented] challenge.",
+            "translation_zh_TW": "我們面臨著前所未有的挑戰。"
+          }
+        ],
+        "synonyms": [
+          "extraordinary",
+          "unmatched"
+        ]
+      }
+    ],
+    "confusion": [
+      "president",
+      "precedent",
+      "unpreserved",
+      "unpresented"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "word": "tasty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a pleasant or delicious flavor.",
+        "meaning_zh_TW": "美味的",
+        "wrong_meaning_zh_TW": [
+          "難吃的",
+          "無味的",
+          "過鹹的"
+        ],
+        "examples": [
+          {
+            "sentence": "The pizza was so [tasty] that they ordered another.",
+            "translation_zh_TW": "披薩如此美味以至於他們又點了一份"
+          },
+          {
+            "sentence": "She prepared a [tasty] meal for her guests.",
+            "translation_zh_TW": "她為客人準備了一頓美味的飯菜"
+          },
+          {
+            "sentence": "This dessert is quite [tasty] and worth trying.",
+            "translation_zh_TW": "這道甜點相當美味，值得一試"
+          }
+        ],
+        "synonyms": [
+          "delicious",
+          "flavorful"
+        ]
+      }
+    ],
+    "confusion": [
+      "tastier",
+      "tastys",
+      "tastyly",
+      "tastyful"
+    ]
+  },
+  {
+    "word": "meadow",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of grassland, especially one used for hay.",
+        "meaning_zh_TW": "草地",
+        "wrong_meaning_zh_TW": [
+          "山脈",
+          "沙漠",
+          "海岸"
+        ],
+        "examples": [
+          {
+            "sentence": "The cow grazed peacefully in the [meadow].",
+            "translation_zh_TW": "牛在草地上安靜地吃草"
+          },
+          {
+            "sentence": "Wildflowers bloomed in the sunny [meadow].",
+            "translation_zh_TW": "野花在陽光明媚的草地上盛開"
+          },
+          {
+            "sentence": "We had a picnic in the lush [meadow].",
+            "translation_zh_TW": "我們在豐滿的草地上野餐"
+          }
+        ],
+        "synonyms": [
+          "pasture",
+          "grassland"
+        ]
+      }
+    ],
+    "confusion": [
+      "meadowlark",
+      "mead",
+      "meadowy",
+      "meado"
+    ]
+  },
+  {
+    "word": "peanut",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of nut that grows underground and is often used in snacks and cooking.",
+        "meaning_zh_TW": "花生",
+        "wrong_meaning_zh_TW": [
+          "腰果",
+          "杏仁",
+          "核桃"
+        ],
+        "examples": [
+          {
+            "sentence": "She likes to snack on [peanuts] while watching movies.",
+            "translation_zh_TW": "她喜歡在看電影時吃花生作為零食。"
+          },
+          {
+            "sentence": "Peanut butter is made from ground [peanuts].",
+            "translation_zh_TW": "花生醬是由磨碎的花生製成的。"
+          },
+          {
+            "sentence": "Some people have allergies to [peanuts].",
+            "translation_zh_TW": "有些人對花生過敏。"
+          }
+        ],
+        "synonyms": [
+          "nut",
+          "legume"
+        ]
+      }
+    ],
+    "confusion": [
+      "peanute",
+      "peenut",
+      "peanuut",
+      "penut"
+    ]
+  },
+  {
+    "word": "trumpet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A brass musical instrument with a flared bell.",
+        "meaning_zh_TW": "小號",
+        "wrong_meaning_zh_TW": [
+          "小號",
+          "號角",
+          "圓號"
+        ],
+        "examples": [
+          {
+            "sentence": "He plays the [trumpet] in the jazz band.",
+            "translation_zh_TW": "他在爵士樂隊中吹小號。"
+          },
+          {
+            "sentence": "The [trumpet] is known for its bright, powerful sound.",
+            "translation_zh_TW": "小號以其明亮而強烈的音色而聞名。"
+          },
+          {
+            "sentence": "She is learning to play the [trumpet].",
+            "translation_zh_TW": "她正在學習吹小號。"
+          }
+        ],
+        "synonyms": [
+          "brass instrument",
+          "horn"
+        ]
+      }
+    ],
+    "confusion": [
+      "trump",
+      "trombone",
+      "trumpeter",
+      "tramping"
+    ]
+  },
+  {
+    "word": "sensible",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Chosen with wisdom; showing good judgment.",
+        "meaning_zh_TW": "明智的",
+        "wrong_meaning_zh_TW": [
+          "任性的",
+          "愚蠢的",
+          "衝動的"
+        ],
+        "examples": [
+          {
+            "sentence": "It's [sensible] to save money for emergencies.",
+            "translation_zh_TW": "為緊急情況存錢是明智的。"
+          },
+          {
+            "sentence": "She made a [sensible] decision after thinking it through.",
+            "translation_zh_TW": "她深思熟慮後做出了明智的決定。"
+          },
+          {
+            "sentence": "A [sensible] person considers the consequences.",
+            "translation_zh_TW": "明智的人會考慮後果。"
+          }
+        ],
+        "synonyms": [
+          "prudent",
+          "wise"
+        ]
+      }
+    ],
+    "confusion": [
+      "sensitive",
+      "sensational",
+      "sensible",
+      "sensorial"
+    ]
+  },
+  {
+    "word": "elbow",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The joint between the forearm and the upper arm.",
+        "meaning_zh_TW": "肘部",
+        "wrong_meaning_zh_TW": [
+          "膝蓋",
+          "手腕",
+          "肩膀"
+        ],
+        "examples": [
+          {
+            "sentence": "He rested his head on his [elbow].",
+            "translation_zh_TW": "他把頭放在手肘上"
+          },
+          {
+            "sentence": "She bumped her [elbow] against the wall.",
+            "translation_zh_TW": "她的肘部撞到了牆上"
+          },
+          {
+            "sentence": "He extended his [elbow] to shake hands.",
+            "translation_zh_TW": "他伸出肘部來握手"
+          }
+        ],
+        "synonyms": [
+          "joint",
+          "hinge"
+        ]
+      }
+    ],
+    "confusion": [
+      "elbo",
+      "elbowed",
+      "elbw",
+      "elboe"
+    ]
+  },
+  {
+    "word": "hut",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small, simple structure used as a shelter.",
+        "meaning_zh_TW": "小屋",
+        "wrong_meaning_zh_TW": [
+          "酒店",
+          "高樓",
+          "教堂"
+        ],
+        "examples": [
+          {
+            "sentence": "They built a small [hut] in the woods.",
+            "translation_zh_TW": "他們在樹林裡建了一個小屋"
+          },
+          {
+            "sentence": "The [hut] served as a temporary shelter during the storm.",
+            "translation_zh_TW": "那個小屋在暴風雨期間充當臨時庇護所"
+          },
+          {
+            "sentence": "He lives in a rustic [hut] by the lake.",
+            "translation_zh_TW": "他住在湖邊一間樸素的小屋裡"
+          }
+        ],
+        "synonyms": [
+          "cabin",
+          "shack"
+        ]
+      }
+    ],
+    "confusion": [
+      "hutting",
+      "huts",
+      "hutta",
+      "hutt"
+    ]
+  },
+  {
+    "word": "razor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool used for shaving hair from the face or body.",
+        "meaning_zh_TW": "刮鬍刀",
+        "wrong_meaning_zh_TW": [
+          "刀子",
+          "剪刀",
+          "剃刀"
+        ],
+        "examples": [
+          {
+            "sentence": "He bought a new [razor] for shaving.",
+            "translation_zh_TW": "他買了一把新的刮鬍刀來剃鬍子。"
+          },
+          {
+            "sentence": "A sharp [razor] is essential for a clean shave.",
+            "translation_zh_TW": "鋒利的刮鬍刀對於乾淨的剃鬍子來說至關重要。"
+          },
+          {
+            "sentence": "Be careful with that [razor]!",
+            "translation_zh_TW": "小心那把刮鬍刀！"
+          }
+        ],
+        "synonyms": [
+          "shaving tool",
+          "blade"
+        ]
+      }
+    ],
+    "confusion": [
+      "razors",
+      "razorback",
+      "razorblade",
+      "racer"
+    ]
+  },
+  {
+    "word": "cough",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To expel air from the lungs with a sudden, sharp sound.",
+        "meaning_zh_TW": "咳嗽",
+        "wrong_meaning_zh_TW": [
+          "呼吸",
+          "講話",
+          "呼喊"
+        ],
+        "examples": [
+          {
+            "sentence": "He had to [cough] during the presentation.",
+            "translation_zh_TW": "他在演講中不得不咳嗽。"
+          },
+          {
+            "sentence": "She tried not to [cough] during the movie.",
+            "translation_zh_TW": "她試圖在電影中不咳嗽。"
+          },
+          {
+            "sentence": "A cold can make you [cough] frequently.",
+            "translation_zh_TW": "感冒會讓你經常咳嗽。"
+          }
+        ],
+        "synonyms": [
+          "expel",
+          "hack"
+        ]
+      }
+    ],
+    "confusion": [
+      "coughs",
+      "caugh",
+      "coughing",
+      "coff"
+    ]
+  },
+  {
+    "word": "accompany",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To go along with or occur together with.",
+        "meaning_zh_TW": "伴隨",
+        "wrong_meaning_zh_TW": [
+          "離開",
+          "拒絕",
+          "單獨"
+        ],
+        "examples": [
+          {
+            "sentence": "He will [accompany] her to the event.",
+            "translation_zh_TW": "他將伴隨她參加活動"
+          },
+          {
+            "sentence": "Music will [accompany] the performance.",
+            "translation_zh_TW": "音樂將伴隨演出"
+          },
+          {
+            "sentence": "You may need someone to [accompany] you on the trip.",
+            "translation_zh_TW": "你可能需要人陪伴你旅行"
+          }
+        ],
+        "synonyms": [
+          "escort",
+          "join"
+        ]
+      }
+    ],
+    "confusion": [
+      "accompanny",
+      "acommpany",
+      "accomapany",
+      "acompany"
+    ]
+  },
+  {
+    "word": "hesitate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To pause before saying or doing something, often due to uncertainty.",
+        "meaning_zh_TW": "猶豫",
+        "wrong_meaning_zh_TW": [
+          "快速",
+          "直接",
+          "肯定"
+        ],
+        "examples": [
+          {
+            "sentence": "She did not [hesitate] to speak her mind.",
+            "translation_zh_TW": "她毫不猶豫地表達了自己的想法"
+          },
+          {
+            "sentence": "If you [hesitate], you might miss the opportunity.",
+            "translation_zh_TW": "如果你猶豫不決，你可能會錯過這個機會"
+          },
+          {
+            "sentence": "He always [hesitates] when making important decisions.",
+            "translation_zh_TW": "在做重要決定時，他總是會猶豫"
+          }
+        ],
+        "synonyms": [
+          "waver",
+          "pause"
+        ]
+      }
+    ],
+    "confusion": [
+      "hesitat",
+      "hesatate",
+      "hesitaite",
+      "hesitance"
+    ]
+  },
+  {
+    "word": "pavement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hard surface for roads, sidewalks, or paths.",
+        "meaning_zh_TW": "人行道",
+        "wrong_meaning_zh_TW": [
+          "道路",
+          "圍牆",
+          "天花板"
+        ],
+        "examples": [
+          {
+            "sentence": "The children played on the [pavement] outside.",
+            "translation_zh_TW": "孩子們在外面的人行道上玩耍。"
+          },
+          {
+            "sentence": "He slipped on the wet [pavement].",
+            "translation_zh_TW": "他在濕滑的人行道上跌倒了。"
+          },
+          {
+            "sentence": "It's important to keep the [pavement] clear for pedestrians.",
+            "translation_zh_TW": "保持人行道的暢通對行人來說是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "sidewalk",
+          "pathway"
+        ]
+      }
+    ],
+    "confusion": [
+      "payment",
+      "pavmen",
+      "pavemant",
+      "pavemnt"
+    ]
+  },
+  {
+    "word": "lick",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To pass the tongue over something, especially in order to taste, moisten, or clean it.",
+        "meaning_zh_TW": "舔",
+        "wrong_meaning_zh_TW": [
+          "咬",
+          "抓",
+          "挤"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog began to [lick] its paw.",
+            "translation_zh_TW": "狗開始舔它的爪子。"
+          },
+          {
+            "sentence": "She had to [lick] the ice cream cone carefully.",
+            "translation_zh_TW": "她必須小心地舔冰淇淋圓錐。"
+          },
+          {
+            "sentence": "He watched as the child [licked] the frosting off the cake.",
+            "translation_zh_TW": "他看著孩子舔蛋糕上的糖霜。"
+          }
+        ],
+        "synonyms": [
+          "taste",
+          "moisten"
+        ]
+      }
+    ],
+    "confusion": [
+      "licker",
+      "licks",
+      "licked",
+      "flick"
+    ]
+  },
+  {
+    "word": "whip",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool consisting of a long, flexible handle used for striking or urging on.",
+        "meaning_zh_TW": "鞭子",
+        "wrong_meaning_zh_TW": [
+          "繩子",
+          "刀子",
+          "棒子"
+        ],
+        "examples": [
+          {
+            "sentence": "The cowboy cracked his [whip] to get the horses moving.",
+            "translation_zh_TW": "牛仔用鞭子啪的一聲，讓馬兒開始動。"
+          },
+          {
+            "sentence": "A [whip] can be used in certain sports.",
+            "translation_zh_TW": "鞭子可以在某些運動中使用。"
+          },
+          {
+            "sentence": "He made a crack with the [whip] in the air.",
+            "translation_zh_TW": "他在空中用鞭子劈了一聲。"
+          }
+        ],
+        "synonyms": [
+          "lash",
+          "stripe"
+        ]
+      }
+    ],
+    "confusion": [
+      "chip",
+      "whisp",
+      "ship",
+      "whiped"
+    ]
+  },
+  {
+    "word": "handful",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quantity that fills the hand; a small number.",
+        "meaning_zh_TW": "一把，少數",
+        "wrong_meaning_zh_TW": [
+          "一桶",
+          "一大堆",
+          "一箱"
+        ],
+        "examples": [
+          {
+            "sentence": "She took a [handful] of candy from the jar.",
+            "translation_zh_TW": "她從罐子裡拿了一把糖果。"
+          },
+          {
+            "sentence": "Only a [handful] of people showed up for the meeting.",
+            "translation_zh_TW": "只有少數人參加了會議。"
+          },
+          {
+            "sentence": "He has a [handful] of important tasks to complete.",
+            "translation_zh_TW": "他有幾個重要的任務需要完成。"
+          }
+        ],
+        "synonyms": [
+          "few",
+          "smattering"
+        ]
+      }
+    ],
+    "confusion": [
+      "handfuls",
+      "handpalms",
+      "handsome",
+      "handcar"
+    ]
+  },
+  {
+    "word": "autobiography",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An account of a person's life written by that person.",
+        "meaning_zh_TW": "自傳",
+        "wrong_meaning_zh_TW": [
+          "小說",
+          "傳記",
+          "詩集"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [autobiography] reveals much about her childhood.",
+            "translation_zh_TW": "她的自傳透露了很多關於她童年的事"
+          },
+          {
+            "sentence": "He spent years writing his [autobiography].",
+            "translation_zh_TW": "他花了好幾年寫他的自傳"
+          },
+          {
+            "sentence": "An [autobiography] can provide insights into a person's thoughts.",
+            "translation_zh_TW": "自傳可以提供對一個人思想的見解"
+          }
+        ],
+        "synonyms": [
+          "life story",
+          "memoir"
+        ]
+      }
+    ],
+    "confusion": [
+      "biography",
+      "auto biography",
+      "autobiographies",
+      "autobigraphy"
+    ]
+  },
+  {
+    "word": "shampoo",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A liquid preparation for washing the hair.",
+        "meaning_zh_TW": "洗髮精",
+        "wrong_meaning_zh_TW": [
+          "護髮素",
+          "肥皂",
+          "沐浴露"
+        ],
+        "examples": [
+          {
+            "sentence": "She applied [shampoo] to her hair and lathered it well.",
+            "translation_zh_TW": "她在頭髮上塗了洗髮精並充分起泡。"
+          },
+          {
+            "sentence": "This [shampoo] is made from natural ingredients.",
+            "translation_zh_TW": "這款洗髮精是用天然成分製成的。"
+          },
+          {
+            "sentence": "Don't forget to rinse the [shampoo] out completely.",
+            "translation_zh_TW": "別忘了將洗髮精完全沖洗乾淨。"
+          }
+        ],
+        "synonyms": [
+          "hair cleanser",
+          "cleaning agent"
+        ]
+      }
+    ],
+    "confusion": [
+      "shampoos",
+      "champion",
+      "sham",
+      "shame"
+    ]
+  },
+  {
+    "word": "steep",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Rising or falling sharply; having a nearly vertical slope.",
+        "meaning_zh_TW": "陡峭的",
+        "wrong_meaning_zh_TW": [
+          "平坦的",
+          "圓滑的",
+          "緩和的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [steep] hill was difficult to climb.",
+            "translation_zh_TW": "那座陡峭的山丘難以攀爬。"
+          },
+          {
+            "sentence": "They took a [steep] path through the woods.",
+            "translation_zh_TW": "他們走了一條陡峭的小路穿過森林。"
+          },
+          {
+            "sentence": "He took a [steep] dive into the water.",
+            "translation_zh_TW": "他從高處陡然跳入水中。"
+          }
+        ],
+        "synonyms": [
+          "precipitous",
+          "sharp"
+        ]
+      }
+    ],
+    "confusion": [
+      "sleep",
+      "step",
+      "stoop",
+      "steeple"
+    ]
+  },
+  {
+    "word": "wealthy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a great deal of money, assets, or resources.",
+        "meaning_zh_TW": "富裕的",
+        "wrong_meaning_zh_TW": [
+          "貧窮的",
+          "中等的",
+          "不安的"
+        ],
+        "examples": [
+          {
+            "sentence": "She comes from a [wealthy] family.",
+            "translation_zh_TW": "她來自一個富有的家庭。"
+          },
+          {
+            "sentence": "The [wealthy] man donated a million dollars to charity.",
+            "translation_zh_TW": "那位富有的男人向慈善機構捐贈了一百萬美元。"
+          },
+          {
+            "sentence": "He has a [wealthy] lifestyle with many luxuries.",
+            "translation_zh_TW": "他的生活方式富裕，享有許多奢侈品。"
+          }
+        ],
+        "synonyms": [
+          "affluent",
+          "rich"
+        ]
+      }
+    ],
+    "confusion": [
+      "wealth",
+      "weal",
+      "healthy",
+      "wealthier"
+    ]
+  },
+  {
+    "word": "skinny",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Very thin or slender.",
+        "meaning_zh_TW": "瘦的",
+        "wrong_meaning_zh_TW": [
+          "肥胖的",
+          "豐滿的",
+          "有肉的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is too [skinny] to be healthy.",
+            "translation_zh_TW": "他太瘦了，不健康。"
+          },
+          {
+            "sentence": "The cat is quite [skinny] after the winter.",
+            "translation_zh_TW": "冬天過後，這隻貓變得相當瘦。"
+          },
+          {
+            "sentence": "I prefer [skinny] jeans over baggy ones.",
+            "translation_zh_TW": "我喜歡瘦身牛仔褲而不是寬鬆的。"
+          }
+        ],
+        "synonyms": [
+          "thin",
+          "slim"
+        ]
+      }
+    ],
+    "confusion": [
+      "skin",
+      "skiny",
+      "skinnie",
+      "skinner"
+    ]
+  }
+]

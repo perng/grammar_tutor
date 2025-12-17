@@ -1,0 +1,784 @@
+[
+  {
+    "word": "vigorous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Strong, healthy, and full of energy.",
+        "meaning_zh_TW": "精力充沛的",
+        "wrong_meaning_zh_TW": [
+          "脆弱的",
+          "懶散的",
+          "無趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "He leads a vigorous lifestyle with regular exercise.",
+            "translation_zh_TW": "他過著精力充沛的生活，定期運動。"
+          },
+          {
+            "sentence": "The vigorous debate energized the room.",
+            "translation_zh_TW": "激烈的辯論使房間充滿活力。"
+          },
+          {
+            "sentence": "She has a vigorous interest in environmental issues.",
+            "translation_zh_TW": "她對環境問題有強烈的興趣。"
+          }
+        ],
+        "synonyms": [
+          "energetic",
+          "forceful",
+          "dynamic"
+        ]
+      }
+    ],
+    "confusion": [
+      "vigor",
+      "vicious",
+      "vicissitude",
+      "vigorously"
+    ]
+  },
+  {
+    "word": "statesman",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is involved in politics and government, especially at the national level.",
+        "meaning_zh_TW": "政治家",
+        "wrong_meaning_zh_TW": [
+          "國家",
+          "市民",
+          "法律"
+        ],
+        "examples": [
+          {
+            "sentence": "The [statesman] gave a speech about unity.",
+            "translation_zh_TW": "這位政治家發表了一篇關於團結的演講。"
+          },
+          {
+            "sentence": "He is known as a great [statesman] of our time.",
+            "translation_zh_TW": "他被譽為我們時代的偉大政治家。"
+          },
+          {
+            "sentence": "A true [statesman] listens to the people's needs.",
+            "translation_zh_TW": "真正的政治家會聆聽人民的需求。"
+          }
+        ],
+        "synonyms": [
+          "politician",
+          "diplomat"
+        ]
+      }
+    ],
+    "confusion": [
+      "statesmen",
+      "stateswoman",
+      "stateman",
+      "stage"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To gather or collect, often in gradual degrees.",
+        "meaning_zh_TW": "積累",
+        "wrong_meaning_zh_TW": [
+          "計算",
+          "促進",
+          "減少"
+        ],
+        "examples": [
+          {
+            "sentence": "Over time, dust can [accumulate] in the corners.",
+            "translation_zh_TW": "隨著時間的推移，灰塵可以在角落裡積累。"
+          },
+          {
+            "sentence": "He started to [accumulate] wealth through smart investments.",
+            "translation_zh_TW": "他開始通過聰明的投資積累財富。"
+          },
+          {
+            "sentence": "The snow began to [accumulate] on the ground.",
+            "translation_zh_TW": "雪開始在地上積累。"
+          }
+        ],
+        "synonyms": [
+          "gather",
+          "amass",
+          "collect"
+        ]
+      }
+    ],
+    "confusion": [
+      "accumulate",
+      "acquire",
+      "accusate",
+      "accusatory"
+    ]
+  },
+  {
+    "word": "morale",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The confidence, enthusiasm, or discipline of a person or group at a particular time.",
+        "meaning_zh_TW": "士氣",
+        "wrong_meaning_zh_TW": [
+          "角色",
+          "道德",
+          "隔離"
+        ],
+        "examples": [
+          {
+            "sentence": "High [morale] among the team led to a successful project.",
+            "translation_zh_TW": "團隊的高士氣導致了項目的成功。"
+          },
+          {
+            "sentence": "The manager organized events to boost the [morale] of the staff.",
+            "translation_zh_TW": "經理組織了活動來提升員工的士氣。"
+          },
+          {
+            "sentence": "Maintaining [morale] is crucial during tough times.",
+            "translation_zh_TW": "在艱難時期維持士氣至關重要。"
+          }
+        ],
+        "synonyms": [
+          "spirit",
+          "confidence"
+        ]
+      }
+    ],
+    "confusion": [
+      "morals",
+      "morros",
+      "morald",
+      "moralle"
+    ]
+  },
+  {
+    "word": "revolt",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To rise in rebellion against authority.",
+        "meaning_zh_TW": "反抗",
+        "wrong_meaning_zh_TW": [
+          "合作",
+          "妥協",
+          "負責"
+        ],
+        "examples": [
+          {
+            "sentence": "The citizens began to [revolt] against the oppressive regime.",
+            "translation_zh_TW": "市民開始反抗壓迫的政權。"
+          },
+          {
+            "sentence": "Students were encouraged to [revolt] against unfair practices.",
+            "translation_zh_TW": "學生們被鼓勵反抗不公正的做法。"
+          },
+          {
+            "sentence": "The group planned to [revolt] after years of neglect.",
+            "translation_zh_TW": "該團體計劃在多年被忽視後反抗。"
+          }
+        ],
+        "synonyms": [
+          "rebel",
+          "insurgency"
+        ]
+      }
+    ],
+    "confusion": [
+      "revolt",
+      "revolting",
+      "revolve",
+      "revolted"
+    ]
+  },
+  {
+    "word": "narrator",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who tells a story or gives an account of events.",
+        "meaning_zh_TW": "敘述者",
+        "wrong_meaning_zh_TW": [
+          "監督",
+          "編輯",
+          "評論員"
+        ],
+        "examples": [
+          {
+            "sentence": "The [narrator] spoke in a calm, soothing voice.",
+            "translation_zh_TW": "敘述者用平靜舒緩的聲音講述。"
+          },
+          {
+            "sentence": "In the documentary, the [narrator] provided context for the events.",
+            "translation_zh_TW": "在紀錄片中，敘述者提供了事件的背景。"
+          },
+          {
+            "sentence": "The [narrator] helps the audience understand the plot.",
+            "translation_zh_TW": "敘述者幫助觀眾理解情節。"
+          }
+        ],
+        "synonyms": [
+          "storyteller",
+          "recounter"
+        ]
+      }
+    ],
+    "confusion": [
+      "narration",
+      "navigator",
+      "narrative",
+      "narrated"
+    ]
+  },
+  {
+    "word": "stroll",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To walk in a slow, relaxed manner, especially for pleasure.",
+        "meaning_zh_TW": "散步",
+        "wrong_meaning_zh_TW": [
+          "快走",
+          "工作",
+          "奔跑"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [stroll] through the park.",
+            "translation_zh_TW": "他們決定在公園裡散步。"
+          },
+          {
+            "sentence": "I love to [stroll] along the beach at sunset.",
+            "translation_zh_TW": "我喜歡在日落時沿著海灘散步。"
+          },
+          {
+            "sentence": "We often [stroll] downtown on weekends.",
+            "translation_zh_TW": "我們經常在週末在市中心散步。"
+          }
+        ],
+        "synonyms": [
+          "walk",
+          "amble"
+        ]
+      }
+    ],
+    "confusion": [
+      "scroll",
+      "troll",
+      "stroller",
+      "strode"
+    ]
+  },
+  {
+    "word": "synonym",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A word or phrase that means exactly or nearly the same as another word.",
+        "meaning_zh_TW": "同義詞",
+        "wrong_meaning_zh_TW": [
+          "反義詞",
+          "成語",
+          "術語"
+        ],
+        "examples": [
+          {
+            "sentence": "A 'car' is a [synonym] for 'automobile'.",
+            "translation_zh_TW": "「汽車」是「自動車」的同義詞。"
+          },
+          {
+            "sentence": "Finding a [synonym] can help improve your vocabulary.",
+            "translation_zh_TW": "找到一個同義詞可以幫助提高你的詞彙量。"
+          },
+          {
+            "sentence": "They taught us how to use [synonyms] in our writing.",
+            "translation_zh_TW": "他們教我們如何在寫作中使用同義詞。"
+          }
+        ],
+        "synonyms": [
+          "equivalent",
+          "substitute"
+        ]
+      }
+    ],
+    "confusion": [
+      "synonyms",
+      "syndicate",
+      "synapse",
+      "synthisize"
+    ]
+  },
+  {
+    "word": "outing",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A trip taken for pleasure.",
+        "meaning_zh_TW": "外出",
+        "wrong_meaning_zh_TW": [
+          "戶外運動",
+          "野餐",
+          "假期"
+        ],
+        "examples": [
+          {
+            "sentence": "We planned an [outing] to the lake this weekend.",
+            "translation_zh_TW": "我們計劃這個週末去湖邊外出。"
+          },
+          {
+            "sentence": "The family enjoyed a fun [outing] at the amusement park.",
+            "translation_zh_TW": "這家人在遊樂園享受了一次愉快的外出。"
+          },
+          {
+            "sentence": "An [outing] to the museum can be educational.",
+            "translation_zh_TW": "去博物館的外出可能會很有教育意義。"
+          }
+        ],
+        "synonyms": [
+          "trip",
+          "excursion"
+        ]
+      }
+    ],
+    "confusion": [
+      "outing",
+      "outing",
+      "outers",
+      "outings"
+    ]
+  },
+  {
+    "word": "affirm",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To state or assert positively; to maintain as true.",
+        "meaning_zh_TW": "肯定",
+        "wrong_meaning_zh_TW": [
+          "否定",
+          "懷疑",
+          "混淆"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [affirm] her commitment to the project.",
+            "translation_zh_TW": "她將肯定她對該計畫的承諾。"
+          },
+          {
+            "sentence": "He was asked to [affirm] his loyalty.",
+            "translation_zh_TW": "他被要求肯定他的忠誠。"
+          },
+          {
+            "sentence": "The lawyer will [affirm] the validity of the contract.",
+            "translation_zh_TW": "律師將肯定合同的有效性。"
+          }
+        ],
+        "synonyms": [
+          "confirm",
+          "assert"
+        ]
+      }
+    ],
+    "confusion": [
+      "inform",
+      "affirmative",
+      "affect",
+      "afferm"
+    ]
+  },
+  {
+    "word": "fable",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A short story, typically with a moral lesson.",
+        "meaning_zh_TW": "寓言",
+        "wrong_meaning_zh_TW": [
+          "小說",
+          "傳說",
+          "故事書"
+        ],
+        "examples": [
+          {
+            "sentence": "The [fable] teaches us a valuable lesson.",
+            "translation_zh_TW": "這個寓言教會了我們一個寶貴的教訓"
+          },
+          {
+            "sentence": "Many children enjoy reading [fables].",
+            "translation_zh_TW": "許多孩子喜歡閱讀寓言"
+          },
+          {
+            "sentence": "A famous [fable] is 'The Tortoise and the Hare'.",
+            "translation_zh_TW": "著名的寓言是《烏龜與兔子》"
+          }
+        ],
+        "synonyms": [
+          "tale",
+          "story"
+        ]
+      }
+    ],
+    "confusion": [
+      "label",
+      "fables",
+      "fablese",
+      "fablet"
+    ]
+  },
+  {
+    "word": "whisky",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of distilled alcoholic beverage, often used to refer specifically to Scotch whisky.",
+        "meaning_zh_TW": "威士忌",
+        "wrong_meaning_zh_TW": [
+          "茶飲",
+          "軟飲",
+          "牛奶"
+        ],
+        "examples": [
+          {
+            "sentence": "Scotch [whisky] is known for its distinct flavor.",
+            "translation_zh_TW": "蘇格蘭威士忌以其獨特的風味而聞名。"
+          },
+          {
+            "sentence": "He prefers [whisky] over other spirits.",
+            "translation_zh_TW": "他更喜歡威士忌而不是其他烈酒。"
+          },
+          {
+            "sentence": "The aged [whisky] has a rich aroma.",
+            "translation_zh_TW": "陳年威士忌散發著濃郁的香氣。"
+          }
+        ],
+        "synonyms": [
+          "scotch",
+          "bourbon"
+        ]
+      }
+    ],
+    "confusion": [
+      "whiskey",
+      "whisk",
+      "whiskys",
+      "whispea"
+    ]
+  },
+  {
+    "word": "batter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mixture of flour and liquid used to make cakes, pancakes, etc.",
+        "meaning_zh_TW": "麵糊",
+        "wrong_meaning_zh_TW": [
+          "投手",
+          "打者",
+          "混合物"
+        ],
+        "examples": [
+          {
+            "sentence": "I made a thick [batter] for the pancakes.",
+            "translation_zh_TW": "我為鬆餅做了一種濃稠的麵糊"
+          },
+          {
+            "sentence": "You need to whisk the [batter] until it's smooth.",
+            "translation_zh_TW": "你需要攪拌麵糊直到它變得平滑"
+          },
+          {
+            "sentence": "The [batter] should rest for at least 30 minutes.",
+            "translation_zh_TW": "麵糊至少要靜置30分鐘"
+          }
+        ],
+        "synonyms": [
+          "mixture",
+          "dough"
+        ]
+      }
+    ],
+    "confusion": [
+      "batterer",
+      "batteries",
+      "battler",
+      "better"
+    ]
+  },
+  {
+    "word": "crocodile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large aquatic reptile with a long snout and sharp teeth.",
+        "meaning_zh_TW": "鱷魚",
+        "wrong_meaning_zh_TW": [
+          "鯊魚",
+          "鰐魚",
+          "蝰蛇"
+        ],
+        "examples": [
+          {
+            "sentence": "The [crocodile] basked in the sun by the river.",
+            "translation_zh_TW": "鱷魚在河邊的陽光下曬著。"
+          },
+          {
+            "sentence": "We saw a [crocodile] during our safari in Africa.",
+            "translation_zh_TW": "我們在非洲的狩獵旅行中看到了鱷魚。"
+          },
+          {
+            "sentence": "A [crocodile]'s skin is tough and durable.",
+            "translation_zh_TW": "鱷魚的皮膚堅韌且耐用。"
+          }
+        ],
+        "synonyms": [
+          "reptile",
+          "alligator"
+        ]
+      }
+    ],
+    "confusion": [
+      "crocodilian",
+      "crocus",
+      "croquet",
+      "cordial"
+    ]
+  },
+  {
+    "word": "spokesperson",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who speaks on behalf of others.",
+        "meaning_zh_TW": "發言人",
+        "wrong_meaning_zh_TW": [
+          "隱藏者",
+          "騙子",
+          "侍從"
+        ],
+        "examples": [
+          {
+            "sentence": "The [spokesperson] addressed the media today.",
+            "translation_zh_TW": "發言人今天對媒體發表了講話。"
+          },
+          {
+            "sentence": "A company [spokesperson] announced the new policy.",
+            "translation_zh_TW": "公司發言人宣布了新政策。"
+          },
+          {
+            "sentence": "The [spokesperson] answered all the questions.",
+            "translation_zh_TW": "發言人回答了所有問題。"
+          }
+        ],
+        "synonyms": [
+          "representative",
+          "delegate"
+        ]
+      }
+    ],
+    "confusion": [
+      "spokesman",
+      "spokeswoman",
+      "spoke",
+      "spoking"
+    ]
+  },
+  {
+    "word": "dresser",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of furniture with drawers for storing clothes.",
+        "meaning_zh_TW": "梳妝台",
+        "wrong_meaning_zh_TW": [
+          "衣服",
+          "茶具",
+          "書架"
+        ],
+        "examples": [
+          {
+            "sentence": "She placed her jewelry on the dresser.",
+            "translation_zh_TW": "她把珠寶放在梳妝台上。"
+          },
+          {
+            "sentence": "He opened the top drawer of the dresser.",
+            "translation_zh_TW": "他打開了梳妝台的最上面一個抽屜。"
+          },
+          {
+            "sentence": "The dresser was painted a bright white.",
+            "translation_zh_TW": "梳妝台被刷成了明亮的白色。"
+          }
+        ],
+        "synonyms": [
+          "chest of drawers",
+          "wardrobe"
+        ]
+      }
+    ],
+    "confusion": [
+      "dress",
+      "dressor",
+      "deresser",
+      "dreser"
+    ]
+  },
+  {
+    "word": "intervene",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come between so as to prevent or alter a result or course of events.",
+        "meaning_zh_TW": "干預",
+        "wrong_meaning_zh_TW": [
+          "越界",
+          "察覺",
+          "參與"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher had to [intervene] to stop the argument.",
+            "translation_zh_TW": "老師不得不干預以停止爭論。"
+          },
+          {
+            "sentence": "He decided to [intervene] in the situation.",
+            "translation_zh_TW": "他決定在這種情況下干預。"
+          },
+          {
+            "sentence": "Sometimes it’s best not to [intervene] in personal matters.",
+            "translation_zh_TW": "有時最好不要在個人事務中干預。"
+          }
+        ],
+        "synonyms": [
+          "intercede",
+          "interject"
+        ]
+      }
+    ],
+    "confusion": [
+      "interverne",
+      "entervene",
+      "interviene",
+      "intervein"
+    ]
+  },
+  {
+    "word": "superficial",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Existing or occurring at or on the surface.",
+        "meaning_zh_TW": "表面上的",
+        "wrong_meaning_zh_TW": [
+          "深刻的",
+          "複雜的",
+          "不明的"
+        ],
+        "examples": [
+          {
+            "sentence": "His understanding of the topic was quite [superficial].",
+            "translation_zh_TW": "他對該主題的理解相當表面。"
+          },
+          {
+            "sentence": "The damage from the storm was mostly [superficial].",
+            "translation_zh_TW": "風暴造成的損害主要是表面上的。"
+          },
+          {
+            "sentence": "She only made [superficial] changes to her essay.",
+            "translation_zh_TW": "她對她的論文僅做了表面上的改動。"
+          }
+        ],
+        "synonyms": [
+          "surface-level",
+          "shallow"
+        ]
+      }
+    ],
+    "confusion": [
+      "superficies",
+      "superficiality",
+      "superficially",
+      "super"
+    ]
+  },
+  {
+    "word": "coastline",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The outline of a coast, especially with regard to its shape and appearance.",
+        "meaning_zh_TW": "海岸線",
+        "wrong_meaning_zh_TW": [
+          "海灘",
+          "沙洲",
+          "啤酒"
+        ],
+        "examples": [
+          {
+            "sentence": "The beautiful [coastline] attracts many tourists.",
+            "translation_zh_TW": "美麗的海岸線吸引了許多遊客。"
+          },
+          {
+            "sentence": "He enjoys sailing along the [coastline] during the summer.",
+            "translation_zh_TW": "他喜歡在夏天沿著海岸線航行。"
+          },
+          {
+            "sentence": "The [coastline] is changing due to erosion.",
+            "translation_zh_TW": "海岸線因侵蝕而改變。"
+          }
+        ],
+        "synonyms": [
+          "shoreline",
+          "beachfront"
+        ]
+      }
+    ],
+    "confusion": [
+      "costline",
+      "coasting",
+      "coastal",
+      "coaster"
+    ]
+  },
+  {
+    "word": "weary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or showing tiredness, especially as a result of excessive exertion.",
+        "meaning_zh_TW": "疲倦的",
+        "wrong_meaning_zh_TW": [
+          "渴望的",
+          "興奮的",
+          "壯觀的"
+        ],
+        "examples": [
+          {
+            "sentence": "After the long journey, they felt weary.",
+            "translation_zh_TW": "經過漫長的旅程，他們感到疲倦。"
+          },
+          {
+            "sentence": "She gave a weary sigh after finishing the project.",
+            "translation_zh_TW": "完成這個項目後，她發出一聲疲倦的嘆息。"
+          },
+          {
+            "sentence": "The weary travelers rested at the inn.",
+            "translation_zh_TW": "疲憊的旅行者在旅店休息。"
+          }
+        ],
+        "synonyms": [
+          "tired",
+          "exhausted"
+        ]
+      }
+    ],
+    "confusion": [
+      "wearying",
+      "weave",
+      "weaver",
+      "weird"
+    ]
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "word": "traffic",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The movement of vehicles, people, or goods along roads, railways, etc.",
+        "meaning_zh_TW": "交通",
+        "wrong_meaning_zh_TW": [
+          "物流",
+          "疾病",
+          "運動"
+        ],
+        "examples": [
+          {
+            "sentence": "The [traffic] was heavy during rush hour.",
+            "translation_zh_TW": "高峰時間交通繁忙。"
+          },
+          {
+            "sentence": "She reported the [traffic] accident to the police.",
+            "translation_zh_TW": "她向警方報告了交通事故。"
+          },
+          {
+            "sentence": "There is a lot of [traffic] near the city center.",
+            "translation_zh_TW": "市中心附近交通繁忙。"
+          }
+        ],
+        "synonyms": [
+          "congestion",
+          "transportation"
+        ]
+      }
+    ],
+    "confusion": [
+      "traffick",
+      "trafer",
+      "trafik",
+      "trffic"
+    ]
+  },
+  {
+    "word": "modern",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the present or recent times as opposed to the remote past.",
+        "meaning_zh_TW": "現代的",
+        "wrong_meaning_zh_TW": [
+          "古典的、傳統的",
+          "過時的、陳舊的",
+          "原始的、粗糙的"
+        ],
+        "examples": [
+          {
+            "sentence": "The building features a [modern] design.",
+            "translation_zh_TW": "這棟大樓具有現代的設計。"
+          },
+          {
+            "sentence": "Many [modern] technologies have improved our lives.",
+            "translation_zh_TW": "許多現代科技改善了我們的生活。"
+          },
+          {
+            "sentence": "She prefers [modern] art over classical art.",
+            "translation_zh_TW": "她更喜歡現代藝術而不是古典藝術。"
+          }
+        ],
+        "synonyms": [
+          "contemporary",
+          "current",
+          "up-to-date"
+        ]
+      }
+    ],
+    "confusion": [
+      "modem",
+      "modor",
+      "mother",
+      "model"
+    ]
+  },
+  {
+    "word": "door",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A movable barrier used to open and close an entrance.",
+        "meaning_zh_TW": "門",
+        "wrong_meaning_zh_TW": [
+          "窗戶",
+          "牆壁",
+          "天花板"
+        ],
+        "examples": [
+          {
+            "sentence": "Please close the [door].",
+            "translation_zh_TW": "請關上門。"
+          },
+          {
+            "sentence": "He knocked on the [door] before entering.",
+            "translation_zh_TW": "他在進入前敲了門。"
+          },
+          {
+            "sentence": "The [door] is painted red.",
+            "translation_zh_TW": "這扇門漆成紅色。"
+          }
+        ],
+        "synonyms": [
+          "entrance",
+          "barrier"
+        ]
+      }
+    ],
+    "confusion": [
+      "doar",
+      "dor",
+      "dooer",
+      "dorr"
+    ]
+  },
+  {
+    "word": "cool",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Somewhat cold; moderately cold.",
+        "meaning_zh_TW": "涼的",
+        "wrong_meaning_zh_TW": [
+          "熱的",
+          "像火的",
+          "濕的"
+        ],
+        "examples": [
+          {
+            "sentence": "The breeze is [cool] this evening.",
+            "translation_zh_TW": "今晚的微風很涼爽。"
+          },
+          {
+            "sentence": "She likes to wear [cool] colors.",
+            "translation_zh_TW": "她喜歡穿涼爽的顏色。"
+          },
+          {
+            "sentence": "It feels [cool] in the shade.",
+            "translation_zh_TW": "在陰影下感覺很涼爽。"
+          }
+        ],
+        "synonyms": [
+          "chilly",
+          "refreshing"
+        ]
+      }
+    ],
+    "confusion": [
+      "coal",
+      "pour",
+      "pool",
+      "cooler"
+    ]
+  },
+  {
+    "word": "pass",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move past or through something.",
+        "meaning_zh_TW": "通過、經過",
+        "wrong_meaning_zh_TW": [
+          "停留、停住",
+          "返回、回到",
+          "阻擋、攔住"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [pass] me the salt.",
+            "translation_zh_TW": "請把鹽遞給我。"
+          },
+          {
+            "sentence": "We didn't [pass] the test this time.",
+            "translation_zh_TW": "我們這次沒有通過測試。"
+          },
+          {
+            "sentence": "He will [pass] through the tunnel soon.",
+            "translation_zh_TW": "他很快就會通過隧道。"
+          }
+        ],
+        "synonyms": [
+          "move",
+          "transit",
+          "navigate"
+        ]
+      }
+    ],
+    "confusion": [
+      "passs",
+      "pas",
+      "passed",
+      "passer"
+    ]
+  },
+  {
+    "word": "ring",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small circular band, typically of precious metal, worn on a finger.",
+        "meaning_zh_TW": "戒指",
+        "wrong_meaning_zh_TW": [
+          "圓形",
+          "音環",
+          "花環"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a beautiful diamond [ring].",
+            "translation_zh_TW": "她戴著一枚漂亮的鑽石戒指"
+          },
+          {
+            "sentence": "He proposed with a sparkling [ring].",
+            "translation_zh_TW": "他用一枚閃閃發光的戒指求婚"
+          },
+          {
+            "sentence": "The [ring] glimmered in the light.",
+            "translation_zh_TW": "戒指在光中閃爍"
+          }
+        ],
+        "synonyms": [
+          "band",
+          "circle"
+        ]
+      }
+    ],
+    "confusion": [
+      "wring",
+      "ringing",
+      "rung",
+      "wing"
+    ]
+  },
+  {
+    "word": "grade",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A rating or score given to a student's work.",
+        "meaning_zh_TW": "成績",
+        "wrong_meaning_zh_TW": [
+          "獎項",
+          "職業",
+          "責任"
+        ],
+        "examples": [
+          {
+            "sentence": "She received a high [grade] on her exam.",
+            "translation_zh_TW": "她在考試中獲得了高分"
+          },
+          {
+            "sentence": "The [grade] will affect your overall score.",
+            "translation_zh_TW": "成績將影響你的總分"
+          },
+          {
+            "sentence": "He is in the fifth [grade].",
+            "translation_zh_TW": "他在五年級"
+          }
+        ],
+        "synonyms": [
+          "score",
+          "mark"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assign a score to a student's work.",
+        "meaning_zh_TW": "評分",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "抄寫",
+          "誤解"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher will [grade] the tests this weekend.",
+            "translation_zh_TW": "老師將在這個週末評分考試"
+          },
+          {
+            "sentence": "I need to [grade] my assignments.",
+            "translation_zh_TW": "我需要評分我的作業"
+          },
+          {
+            "sentence": "He always tries to [grade] fairly.",
+            "translation_zh_TW": "他總是嘗試公平地評分"
+          }
+        ],
+        "synonyms": [
+          "evaluate",
+          "assess"
+        ]
+      }
+    ],
+    "confusion": [
+      "grate",
+      "great",
+      "grad",
+      "gride"
+    ]
+  },
+  {
+    "word": "mountain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+        "meaning_zh_TW": "山",
+        "wrong_meaning_zh_TW": [
+          "丘陵",
+          "平原",
+          "山谷"
+        ],
+        "examples": [
+          {
+            "sentence": "They went hiking in the [mountain].",
+            "translation_zh_TW": "他們在山中遠足。"
+          },
+          {
+            "sentence": "The view from the top of the [mountain] was breathtaking.",
+            "translation_zh_TW": "山頂的景色令人屏息。"
+          },
+          {
+            "sentence": "He climbed the highest [mountain] in the region.",
+            "translation_zh_TW": "他攀登了該地區最高的山。"
+          }
+        ],
+        "synonyms": [
+          "peak",
+          "summit"
+        ]
+      }
+    ],
+    "confusion": [
+      "mount",
+      "mansion",
+      "month",
+      "mounty"
+    ]
+  },
+  {
+    "word": "behind",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "At a point in space or time in relation to something else.",
+        "meaning_zh_TW": "在...後面",
+        "wrong_meaning_zh_TW": [
+          "前面",
+          "旁邊",
+          "上面"
+        ],
+        "examples": [
+          {
+            "sentence": "He stood [behind] her in line.",
+            "translation_zh_TW": "他在她的身後排隊。"
+          },
+          {
+            "sentence": "The sun sets [behind] the mountains.",
+            "translation_zh_TW": "太陽在山後落下。"
+          },
+          {
+            "sentence": "There's a secret [behind] that door.",
+            "translation_zh_TW": "那扇門後面有個秘密。"
+          }
+        ],
+        "synonyms": [
+          "at the back of",
+          "in the rear of"
+        ],
+        "note": "Can refer to both physical and metaphorical positions."
+      }
+    ],
+    "confusion": [
+      "behing",
+      "beind",
+      "beside",
+      "behynd"
+    ]
+  },
+  {
+    "word": "floor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The bottom surface of a room.",
+        "meaning_zh_TW": "地板",
+        "wrong_meaning_zh_TW": [
+          "屋頂",
+          "牆面",
+          "地板磚"
+        ],
+        "examples": [
+          {
+            "sentence": "The children are playing on the [floor].",
+            "translation_zh_TW": "孩子們正在地板上玩。"
+          },
+          {
+            "sentence": "He swept the [floor] yesterday.",
+            "translation_zh_TW": "他昨天掃了地板。"
+          },
+          {
+            "sentence": "Please take your shoes off before entering the [floor].",
+            "translation_zh_TW": "請在進入地板前脫掉鞋子。"
+          }
+        ],
+        "synonyms": [
+          "ground",
+          "surface"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A level of a building.",
+        "meaning_zh_TW": "樓層",
+        "wrong_meaning_zh_TW": [
+          "牆壁",
+          "天花板",
+          "窗戶"
+        ],
+        "examples": [
+          {
+            "sentence": "She lives on the third [floor].",
+            "translation_zh_TW": "她住在第三樓。"
+          },
+          {
+            "sentence": "The office is located on the first [floor].",
+            "translation_zh_TW": "辦公室位於一樓。"
+          },
+          {
+            "sentence": "Let's meet on the rooftop [floor].",
+            "translation_zh_TW": "我們在屋頂樓層見面吧。"
+          }
+        ],
+        "synonyms": [
+          "level",
+          "story"
+        ]
+      }
+    ],
+    "confusion": [
+      "flour",
+      "flore",
+      "floar",
+      "flor"
+    ]
+  },
+  {
+    "word": "deep",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Situated far down from the top or surface.",
+        "meaning_zh_TW": "深的、深遠的",
+        "wrong_meaning_zh_TW": [
+          "淺的、膚淺的",
+          "狹的、狹小的",
+          "平坦的、平的"
+        ],
+        "examples": [
+          {
+            "sentence": "The lake is very [deep].",
+            "translation_zh_TW": "這個湖非常深。"
+          },
+          {
+            "sentence": "He has a [deep] voice.",
+            "translation_zh_TW": "他的聲音很低沉。"
+          },
+          {
+            "sentence": "There is a [deep] sense of loss.",
+            "translation_zh_TW": "有一種深切的失落感。"
+          }
+        ],
+        "synonyms": [
+          "profound",
+          "intense",
+          "far-reaching"
+        ]
+      }
+    ],
+    "confusion": [
+      "deap",
+      "depp",
+      "deeps",
+      "deet"
+    ]
+  },
+  {
+    "word": "morning",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of time from sunrise to noon.",
+        "meaning_zh_TW": "早晨",
+        "wrong_meaning_zh_TW": [
+          "黃昏",
+          "夜晚",
+          "正午"
+        ],
+        "examples": [
+          {
+            "sentence": "I love to go for a walk in the [morning].",
+            "translation_zh_TW": "我喜歡在早晨散步"
+          },
+          {
+            "sentence": "Coffee in the [morning] is a routine for many.",
+            "translation_zh_TW": "早上的咖啡對很多人來說是常規"
+          },
+          {
+            "sentence": "The birds chirp in the [morning].",
+            "translation_zh_TW": "鳥兒在早晨啁啾"
+          }
+        ],
+        "synonyms": [
+          "dawn",
+          "daybreak"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The early part of the day.",
+        "meaning_zh_TW": "早期",
+        "wrong_meaning_zh_TW": [
+          "下午",
+          "晚上",
+          "午夜"
+        ],
+        "examples": [
+          {
+            "sentence": "I always feel more productive in the [morning].",
+            "translation_zh_TW": "我總是在早期感覺更高效"
+          },
+          {
+            "sentence": "She exercises every [morning].",
+            "translation_zh_TW": "她每天早晨都運動"
+          },
+          {
+            "sentence": "Meet me in the [morning] at the coffee shop.",
+            "translation_zh_TW": "在咖啡店的早晨見我"
+          }
+        ],
+        "synonyms": [
+          "forenoon",
+          "first half of the day"
+        ]
+      }
+    ],
+    "confusion": [
+      "mourning",
+      "moron",
+      "morningstar",
+      "mourner"
+    ]
+  },
+  {
+    "word": "rest",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being at rest or not active.",
+        "meaning_zh_TW": "休息",
+        "wrong_meaning_zh_TW": [
+          "運動",
+          "旅行",
+          "焦慮"
+        ],
+        "examples": [
+          {
+            "sentence": "It's important to take a [rest] after a long day.",
+            "translation_zh_TW": "長時間工作後，休息是很重要的"
+          },
+          {
+            "sentence": "He needed some [rest] to recover his strength.",
+            "translation_zh_TW": "他需要一些休息來恢復力量"
+          },
+          {
+            "sentence": "Find a quiet place to [rest] your mind.",
+            "translation_zh_TW": "找個安靜的地方休息你的思緒"
+          }
+        ],
+        "synonyms": [
+          "relaxation",
+          "break"
+        ]
+      }
+    ],
+    "confusion": [
+      "best",
+      "rested",
+      "reset",
+      "restard"
+    ]
+  },
+  {
+    "word": "plant",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A living organism that typically grows in soil and gets nutrients from it.",
+        "meaning_zh_TW": "植物",
+        "wrong_meaning_zh_TW": [
+          "動物",
+          "礦物",
+          "草地"
+        ],
+        "examples": [
+          {
+            "sentence": "The [plant] in the corner is thriving.",
+            "translation_zh_TW": "角落裡的植物生長得很好"
+          },
+          {
+            "sentence": "Make sure to water the [plant] regularly.",
+            "translation_zh_TW": "確保定期給植物澆水"
+          },
+          {
+            "sentence": "This [plant] requires a lot of sunlight.",
+            "translation_zh_TW": "這種植物需要很多陽光"
+          }
+        ],
+        "synonyms": [
+          "vegetation",
+          "flora"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To place a seed, bulb, or plant in soil to grow.",
+        "meaning_zh_TW": "種植",
+        "wrong_meaning_zh_TW": [
+          "拔除",
+          "燃燒",
+          "毀壞"
+        ],
+        "examples": [
+          {
+            "sentence": "We decided to [plant] flowers in the garden.",
+            "translation_zh_TW": "我們決定在花園裡種花"
+          },
+          {
+            "sentence": "He will [plant] vegetables this spring.",
+            "translation_zh_TW": "他今年春天會種植蔬菜"
+          },
+          {
+            "sentence": "They learned how to [plant] trees to help the environment.",
+            "translation_zh_TW": "他們學會了如何種植樹木來幫助環境"
+          }
+        ],
+        "synonyms": [
+          "sow",
+          "cultivate"
+        ]
+      }
+    ],
+    "confusion": [
+      "plantation",
+      "planet",
+      "planning",
+      "pant"
+    ]
+  },
+  {
+    "word": "hit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To touch or contact someone or something forcefully.",
+        "meaning_zh_TW": "打擊",
+        "wrong_meaning_zh_TW": [
+          "擊敗",
+          "碰撞",
+          "觸摸"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [hit] the ball.",
+            "translation_zh_TW": "他試著[打擊]球。"
+          },
+          {
+            "sentence": "Don't [hit] your sister!",
+            "translation_zh_TW": "不要[打擊]你的妹妹！"
+          },
+          {
+            "sentence": "She [hit] the target with accuracy.",
+            "translation_zh_TW": "她準確地[打擊]了目標。"
+          }
+        ],
+        "synonyms": [
+          "strike",
+          "punch"
+        ]
+      }
+    ],
+    "confusion": [
+      "hitch",
+      "heat",
+      "hitched",
+      "hat"
+    ]
+  },
+  {
+    "word": "pool",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small body of still water, typically one that is artificial and used for swimming.",
+        "meaning_zh_TW": "游泳池",
+        "wrong_meaning_zh_TW": [
+          "水井",
+          "湖泊",
+          "海洋"
+        ],
+        "examples": [
+          {
+            "sentence": "The children splashed around in the [pool].",
+            "translation_zh_TW": "孩子們在游泳池裡嬉戲。"
+          },
+          {
+            "sentence": "We enjoyed a sunny day by the [pool].",
+            "translation_zh_TW": "我們在游泳池旁享受陽光明媚的一天。"
+          },
+          {
+            "sentence": "The hotel has a beautiful [pool] area.",
+            "translation_zh_TW": "那家酒店有個漂亮的游泳池區域。"
+          }
+        ],
+        "synonyms": [
+          "basin",
+          "tank",
+          "reservoir"
+        ]
+      }
+    ],
+    "confusion": [
+      "pole",
+      "pools",
+      "pull",
+      "poul"
+    ]
+  }
+]

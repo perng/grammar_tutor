@@ -1,0 +1,738 @@
+[
+  {
+    "word": "hold",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To grasp, carry, or support with one’s arms or hands.",
+        "meaning_zh_TW": "握住",
+        "wrong_meaning_zh_TW": [
+          "放開",
+          "擱置",
+          "結束"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [hold] my hand while we cross the street.",
+            "translation_zh_TW": "過馬路時請握住我的手。"
+          },
+          {
+            "sentence": "He [holds] the record for most wins.",
+            "translation_zh_TW": "他保持著最多勝利的紀錄。"
+          },
+          {
+            "sentence": "They decided to [hold] a meeting next week.",
+            "translation_zh_TW": "他們決定下週舉行會議。"
+          }
+        ],
+        "synonyms": [
+          "grasp",
+          "carry"
+        ]
+      }
+    ],
+    "confusion": [
+      "hole",
+      "cold",
+      "gold",
+      "fold"
+    ]
+  },
+  {
+    "word": "glass",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hard, brittle substance typically transparent or translucent, made by fusing sand with soda and lime, used for windows, bottles, and other items.",
+        "meaning_zh_TW": "玻璃",
+        "wrong_meaning_zh_TW": [
+          "牛奶",
+          "水",
+          "陶瓷"
+        ],
+        "examples": [
+          {
+            "sentence": "The window is made of [glass].",
+            "translation_zh_TW": "窗戶是用玻璃製成的"
+          },
+          {
+            "sentence": "She drank water from a [glass].",
+            "translation_zh_TW": "她用杯子喝水"
+          },
+          {
+            "sentence": "The [glass] shattered when it fell.",
+            "translation_zh_TW": "當杯子掉下時碎了"
+          }
+        ],
+        "synonyms": [
+          "pane",
+          "crystal"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "An optical instrument consisting of a lens or combination of lenses for magnifying or viewing objects.",
+        "meaning_zh_TW": "眼鏡",
+        "wrong_meaning_zh_TW": [
+          "放大鏡",
+          "手電筒",
+          "顯微鏡"
+        ],
+        "examples": [
+          {
+            "sentence": "He wears [glasses] for reading.",
+            "translation_zh_TW": "他佩戴眼鏡以便閱讀"
+          },
+          {
+            "sentence": "She cleans her [glasses] regularly.",
+            "translation_zh_TW": "她經常清潔眼鏡"
+          },
+          {
+            "sentence": "My [glasses] are prescription ones.",
+            "translation_zh_TW": "我的眼鏡是處方眼鏡"
+          }
+        ],
+        "synonyms": [
+          "spectacles",
+          "lenses"
+        ]
+      }
+    ],
+    "confusion": [
+      "class",
+      "grass",
+      "gloss",
+      "glad"
+    ]
+  },
+  {
+    "word": "happy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or showing pleasure or contentment.",
+        "meaning_zh_TW": "快樂的",
+        "wrong_meaning_zh_TW": [
+          "悲傷的",
+          "憤怒的",
+          "焦慮的"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt [happy] when she received the news.",
+            "translation_zh_TW": "當她收到消息時，她感到快樂。"
+          },
+          {
+            "sentence": "A [happy] child is always a joy to be around.",
+            "translation_zh_TW": "快樂的孩子總是讓人愉快。"
+          },
+          {
+            "sentence": "They shared [happy] moments together.",
+            "translation_zh_TW": "他們共同分享快樂的時光。"
+          }
+        ],
+        "synonyms": [
+          "joyful",
+          "content"
+        ]
+      }
+    ],
+    "confusion": [
+      "hapy",
+      "happpy",
+      "happi",
+      "happyly"
+    ]
+  },
+  {
+    "word": "thank",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To express gratitude or show appreciation.",
+        "meaning_zh_TW": "感謝、謝謝",
+        "wrong_meaning_zh_TW": [
+          "責備、指責",
+          "請求、要求",
+          "給予、提供"
+        ],
+        "examples": [
+          {
+            "sentence": "I want to [thank] you for your help.",
+            "translation_zh_TW": "我想感謝你的幫助。"
+          },
+          {
+            "sentence": "She always remembers to [thank] her parents.",
+            "translation_zh_TW": "她總是記得感謝她的父母。"
+          },
+          {
+            "sentence": "It’s polite to [thank] someone after a meal.",
+            "translation_zh_TW": "餐後感謝某人是有禮貌的。"
+          }
+        ],
+        "synonyms": [
+          "appreciate",
+          "grateful"
+        ]
+      }
+    ],
+    "confusion": [
+      "thunk",
+      "thanke",
+      "thang",
+      "tank"
+    ]
+  },
+  {
+    "word": "safe",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Protected from or not exposed to danger.",
+        "meaning_zh_TW": "安全的",
+        "wrong_meaning_zh_TW": [
+          "舒適的",
+          "保險的",
+          "無害的"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure you are in a [safe] location during the storm.",
+            "translation_zh_TW": "在暴風雨期間確保你在安全的地方。"
+          },
+          {
+            "sentence": "He felt [safe] in his own home.",
+            "translation_zh_TW": "他在自己家中感到安全。"
+          },
+          {
+            "sentence": "The building has [safe] emergency exits.",
+            "translation_zh_TW": "這座建築有安全的緊急出口。"
+          }
+        ],
+        "synonyms": [
+          "secure",
+          "protected"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A strong box for keeping valuables.",
+        "meaning_zh_TW": "保險箱",
+        "wrong_meaning_zh_TW": [
+          "箱子",
+          "儲物櫃",
+          "櫃子"
+        ],
+        "examples": [
+          {
+            "sentence": "She keeps her jewelry in a [safe].",
+            "translation_zh_TW": "她把珠寶放在保險箱裡。"
+          },
+          {
+            "sentence": "He opened the [safe] with a code.",
+            "translation_zh_TW": "他用密碼打開了保險箱。"
+          },
+          {
+            "sentence": "A bank [safe] is designed to protect money.",
+            "translation_zh_TW": "銀行的保險箱設計用來保護金錢。"
+          }
+        ],
+        "synonyms": [
+          "vault",
+          "strongbox"
+        ]
+      }
+    ],
+    "confusion": [
+      "safely",
+      "safeguard",
+      "safari",
+      "satiate"
+    ]
+  },
+  {
+    "word": "telephone",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system that converts acoustic vibrations to electrical signals for transmission over wires.",
+        "meaning_zh_TW": "電話",
+        "wrong_meaning_zh_TW": [
+          "電視",
+          "鬧鐘",
+          "收音機"
+        ],
+        "examples": [
+          {
+            "sentence": "Please answer the [telephone].",
+            "translation_zh_TW": "請接電話。"
+          },
+          {
+            "sentence": "I called him on the [telephone].",
+            "translation_zh_TW": "我用電話打給了他。"
+          },
+          {
+            "sentence": "The [telephone] rang loudly in the other room.",
+            "translation_zh_TW": "電話在另一個房間響亮地響了。"
+          }
+        ],
+        "synonyms": [
+          "phone",
+          "call"
+        ]
+      }
+    ],
+    "confusion": [
+      "telegraph",
+      "televison",
+      "telecommute",
+      "tephone"
+    ]
+  },
+  {
+    "word": "ready",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Prepared for action or use.",
+        "meaning_zh_TW": "準備好的",
+        "wrong_meaning_zh_TW": [
+          "不安的",
+          "懷疑的",
+          "懶惰的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [ready] to leave now.",
+            "translation_zh_TW": "我現在已經準備好離開了。"
+          },
+          {
+            "sentence": "Are you [ready] for the test?",
+            "translation_zh_TW": "你準備好考試了嗎？"
+          },
+          {
+            "sentence": "She is [ready] to present her project.",
+            "translation_zh_TW": "她準備好展示她的計畫了。"
+          }
+        ],
+        "synonyms": [
+          "prepared",
+          "set"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being prepared.",
+        "meaning_zh_TW": "準備狀態",
+        "wrong_meaning_zh_TW": [
+          "不安狀態",
+          "忙碌狀態",
+          "休息狀態"
+        ],
+        "examples": [
+          {
+            "sentence": "His [ready] was evident before the competition.",
+            "translation_zh_TW": "在比賽前他的準備狀態很明顯。"
+          },
+          {
+            "sentence": "The team's [ready] was shown with their performance.",
+            "translation_zh_TW": "團隊的準備狀態在他們的表現中體現出來。"
+          },
+          {
+            "sentence": "She was in a state of [ready] for the presentation.",
+            "translation_zh_TW": "她在準備展示時處於準備狀態。"
+          }
+        ],
+        "synonyms": [
+          "preparedness",
+          "readiness"
+        ]
+      }
+    ],
+    "confusion": [
+      "reddy",
+      "read",
+      "rady",
+      "readying"
+    ]
+  },
+  {
+    "word": "feed",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give food to someone or something.",
+        "meaning_zh_TW": "餵食",
+        "wrong_meaning_zh_TW": [
+          "孤獨",
+          "休息",
+          "玩耍"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [feed] the dog before I leave.",
+            "translation_zh_TW": "我需要在離開之前餵狗。"
+          },
+          {
+            "sentence": "We [feed] the birds every morning.",
+            "translation_zh_TW": "我們每天早上餵鳥。"
+          },
+          {
+            "sentence": "He likes to [feed] the hungry children in the village.",
+            "translation_zh_TW": "他喜歡餵村裡饑餓的孩子們。"
+          }
+        ],
+        "synonyms": [
+          "nourish",
+          "supply"
+        ]
+      }
+    ],
+    "confusion": [
+      "seed",
+      "lead",
+      "led",
+      "reed"
+    ]
+  },
+  {
+    "word": "animal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system.",
+        "meaning_zh_TW": "動物",
+        "wrong_meaning_zh_TW": [
+          "植物",
+          "礦物",
+          "人類"
+        ],
+        "examples": [
+          {
+            "sentence": "The [animal] was wandering in the forest.",
+            "translation_zh_TW": "那隻動物在森林裡徘徊。"
+          },
+          {
+            "sentence": "He is studying how each [animal] interacts with its environment.",
+            "translation_zh_TW": "他正在研究每種動物如何與環境互動。"
+          },
+          {
+            "sentence": "The zoo has many exotic [animals].",
+            "translation_zh_TW": "動物園裡有許多異國情調的動物。"
+          }
+        ],
+        "synonyms": [
+          "creature",
+          "beast"
+        ]
+      }
+    ],
+    "confusion": [
+      "animate",
+      "anomaly",
+      "armor",
+      "anvil"
+    ]
+  },
+  {
+    "word": "station",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A regular stopping place on a public transportation route.",
+        "meaning_zh_TW": "車站",
+        "wrong_meaning_zh_TW": [
+          "站立",
+          "位置",
+          "障礙"
+        ],
+        "examples": [
+          {
+            "sentence": "We waited at the [station] for the train.",
+            "translation_zh_TW": "我們在車站等火車。"
+          },
+          {
+            "sentence": "The bus [station] was very crowded.",
+            "translation_zh_TW": "汽車站非常擁擠。"
+          },
+          {
+            "sentence": "She purchased a ticket at the [station].",
+            "translation_zh_TW": "她在車站買了一張票。"
+          }
+        ],
+        "synonyms": [
+          "terminal",
+          "depot"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assign someone to a particular place or position.",
+        "meaning_zh_TW": "駐紮",
+        "wrong_meaning_zh_TW": [
+          "資助",
+          "訓練",
+          "分配"
+        ],
+        "examples": [
+          {
+            "sentence": "He was [stationed] overseas for a year.",
+            "translation_zh_TW": "他在海外駐紮了一年。"
+          },
+          {
+            "sentence": "They [station] volunteers at various locations.",
+            "translation_zh_TW": "他們在各個地點駐紮志工。"
+          },
+          {
+            "sentence": "The army units are [stationed] near the border.",
+            "translation_zh_TW": "陸軍部隊駐紮在邊境附近。"
+          }
+        ],
+        "synonyms": [
+          "post",
+          "place"
+        ]
+      }
+    ],
+    "confusion": [
+      "stationary",
+      "staging",
+      "statistic",
+      "stationery"
+    ]
+  },
+  {
+    "word": "round",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a shape like a circle or a sphere.",
+        "meaning_zh_TW": "圓形的",
+        "wrong_meaning_zh_TW": [
+          "方形的",
+          "尖銳的",
+          "凹陷的"
+        ],
+        "examples": [
+          {
+            "sentence": "The table is [round].",
+            "translation_zh_TW": "這張桌子是圓形的"
+          },
+          {
+            "sentence": "She smiled and made a [round] gesture.",
+            "translation_zh_TW": "她微笑並做了圓形的手勢"
+          },
+          {
+            "sentence": "The ball is [round].",
+            "translation_zh_TW": "這個球是圓形的"
+          }
+        ],
+        "synonyms": [
+          "circular",
+          "spherical"
+        ]
+      }
+    ],
+    "confusion": [
+      "found",
+      "rund",
+      "ground",
+      "wound"
+    ]
+  },
+  {
+    "word": "understand",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To grasp the meaning, significance, or nature of something.",
+        "meaning_zh_TW": "理解",
+        "wrong_meaning_zh_TW": [
+          "相信",
+          "記住",
+          "分析"
+        ],
+        "examples": [
+          {
+            "sentence": "I hope you [understand] my situation.",
+            "translation_zh_TW": "我希望你能[理解]我的情況。"
+          },
+          {
+            "sentence": "Do you [understand] the instructions?",
+            "translation_zh_TW": "你[理解]這些指示嗎？"
+          },
+          {
+            "sentence": "It's important to [understand] the consequences.",
+            "translation_zh_TW": "理解後果是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "comprehend",
+          "grasp"
+        ]
+      }
+    ],
+    "confusion": [
+      "understood",
+      "underlying",
+      "understudy",
+      "undersea"
+    ]
+  },
+  {
+    "word": "probably",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Almost certainly; as far as one knows or can tell.",
+        "meaning_zh_TW": "很可能",
+        "wrong_meaning_zh_TW": [
+          "不太可能",
+          "絕對",
+          "正確"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [probably] come to the meeting.",
+            "translation_zh_TW": "她很可能會來參加會議。"
+          },
+          {
+            "sentence": "It will [probably] rain tomorrow.",
+            "translation_zh_TW": "明天很可能會下雨。"
+          },
+          {
+            "sentence": "They [probably] finished the project by now.",
+            "translation_zh_TW": "他們很可能現在已經完成了這個專案。"
+          }
+        ],
+        "synonyms": [
+          "likely",
+          "most likely"
+        ]
+      }
+    ],
+    "confusion": [
+      "probability",
+      "problem",
+      "proably",
+      "proably"
+    ]
+  },
+  {
+    "word": "sea",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large body of saltwater that is smaller than an ocean and is partially enclosed by land.",
+        "meaning_zh_TW": "海",
+        "wrong_meaning_zh_TW": [
+          "湖泊",
+          "河流",
+          "池塘"
+        ],
+        "examples": [
+          {
+            "sentence": "The [sea] is calm today.",
+            "translation_zh_TW": "今天海面平靜"
+          },
+          {
+            "sentence": "They went swimming in the [sea].",
+            "translation_zh_TW": "他們在海裡游泳"
+          },
+          {
+            "sentence": "The [sea] is home to many creatures.",
+            "translation_zh_TW": "海裡是許多生物的家"
+          }
+        ],
+        "synonyms": [
+          "ocean",
+          "waterbody"
+        ]
+      }
+    ],
+    "confusion": [
+      "see",
+      "seat",
+      "seafood",
+      "seas"
+    ]
+  },
+  {
+    "word": "cut",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To divide or sever something using a sharp tool.",
+        "meaning_zh_TW": "切割",
+        "wrong_meaning_zh_TW": [
+          "讀書",
+          "貼紙",
+          "飲料"
+        ],
+        "examples": [
+          {
+            "sentence": "Be careful not to [cut] yourself with that knife.",
+            "translation_zh_TW": "小心不要被那把刀切到自己。"
+          },
+          {
+            "sentence": "She decided to [cut] the paper into smaller pieces.",
+            "translation_zh_TW": "她決定把紙剪成小片。"
+          },
+          {
+            "sentence": "He can [cut] the vegetables very quickly.",
+            "translation_zh_TW": "他可以非常快地切菜。"
+          }
+        ],
+        "synonyms": [
+          "slice",
+          "chop"
+        ]
+      }
+    ],
+    "confusion": [
+      "cute",
+      "curt",
+      "cat",
+      "cup"
+    ]
+  },
+  {
+    "word": "earth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The planet on which we live; the world.",
+        "meaning_zh_TW": "地球",
+        "wrong_meaning_zh_TW": [
+          "火星",
+          "星球",
+          "天空"
+        ],
+        "examples": [
+          {
+            "sentence": "The [earth] revolves around the sun.",
+            "translation_zh_TW": "地球圍繞著太陽運行。"
+          },
+          {
+            "sentence": "There is a need to protect our [earth].",
+            "translation_zh_TW": "我們需要保護我們的地球。"
+          },
+          {
+            "sentence": "Many species inhabit the [earth].",
+            "translation_zh_TW": "許多物種生活在地球上。"
+          }
+        ],
+        "synonyms": [
+          "planet",
+          "world"
+        ]
+      }
+    ],
+    "confusion": [
+      "earthquake",
+      "earthy",
+      "earthen",
+      "earthy"
+    ]
+  }
+]

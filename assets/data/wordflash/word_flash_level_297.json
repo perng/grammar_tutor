@@ -1,0 +1,784 @@
+[
+  {
+    "word": "concession",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing that is granted, especially in response to demands.",
+        "meaning_zh_TW": "讓步",
+        "wrong_meaning_zh_TW": [
+          "拒絕",
+          "堅持",
+          "妥協"
+        ],
+        "examples": [
+          {
+            "sentence": "The government made a [concession] to appease the protesters.",
+            "translation_zh_TW": "政府作出讓步以平息抗議者。"
+          },
+          {
+            "sentence": "In negotiations, a [concession] is often necessary for progress.",
+            "translation_zh_TW": "在談判中，讓步通常是推進的必要條件。"
+          },
+          {
+            "sentence": "She felt that the [concession] was too small to satisfy the demands.",
+            "translation_zh_TW": "她認為這項讓步太小，無法滿足要求。"
+          }
+        ],
+        "synonyms": [
+          "compromise",
+          "yielding"
+        ]
+      }
+    ],
+    "confusion": [
+      "consciousness",
+      "confession",
+      "concessive",
+      "concrete"
+    ]
+  },
+  {
+    "word": "brace",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that reinforces or strengthens a part of the body.",
+        "meaning_zh_TW": "支撐物",
+        "wrong_meaning_zh_TW": [
+          "袖子",
+          "繩子",
+          "邊框"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a knee [brace] after his injury.",
+            "translation_zh_TW": "在受傷後，他戴了一個膝蓋支撐物。"
+          },
+          {
+            "sentence": "The orthopedist recommended a back [brace] for better support.",
+            "translation_zh_TW": "骨科醫生建議使用背部支撐物以提供更好的支撐。"
+          },
+          {
+            "sentence": "She tightened the [brace] around her wrist.",
+            "translation_zh_TW": "她把手腕的支撐物收緊了。"
+          }
+        ],
+        "synonyms": [
+          "support",
+          "reinforcement"
+        ]
+      }
+    ],
+    "confusion": [
+      "break",
+      "brake",
+      "bracelet",
+      "bracing"
+    ]
+  },
+  {
+    "word": "suppress",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To put an end to the activities of a person, body of persons, etc.",
+        "meaning_zh_TW": "壓制",
+        "wrong_meaning_zh_TW": [
+          "增加",
+          "獨立",
+          "宣傳"
+        ],
+        "examples": [
+          {
+            "sentence": "The government tried to [suppress] the protest.",
+            "translation_zh_TW": "政府試圖壓制抗議。"
+          },
+          {
+            "sentence": "He had to [suppress] his laughter during the meeting.",
+            "translation_zh_TW": "他在會議中必須壓制他的笑聲。"
+          },
+          {
+            "sentence": "The police were called to [suppress] the riot.",
+            "translation_zh_TW": "警方被叫來壓制暴動。"
+          }
+        ],
+        "synonyms": [
+          "stifle",
+          "quash"
+        ]
+      }
+    ],
+    "confusion": [
+      "suppressor",
+      "supposition",
+      "upgrade",
+      "surpass"
+    ]
+  },
+  {
+    "word": "precedent",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An earlier event or action that is regarded as an example or guide.",
+        "meaning_zh_TW": "先例",
+        "wrong_meaning_zh_TW": [
+          "例外",
+          "習慣",
+          "罕見"
+        ],
+        "examples": [
+          {
+            "sentence": "The court's decision set a new [precedent].",
+            "translation_zh_TW": "這個法院的決定創造了一個新的先例。"
+          },
+          {
+            "sentence": "Several [precedents] exist for this kind of case.",
+            "translation_zh_TW": "這種類型的案件有幾個先例。"
+          },
+          {
+            "sentence": "This ruling could create a dangerous [precedent].",
+            "translation_zh_TW": "這一裁決可能會創造一個危險的先例。"
+          }
+        ],
+        "synonyms": [
+          "example",
+          "model"
+        ]
+      }
+    ],
+    "confusion": [
+      "precede",
+      "preside",
+      "preceding",
+      "predicament"
+    ]
+  },
+  {
+    "word": "spur",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To encourage or stimulate someone to take action.",
+        "meaning_zh_TW": "激勵",
+        "wrong_meaning_zh_TW": [
+          "鞭策",
+          "干擾",
+          "拖延"
+        ],
+        "examples": [
+          {
+            "sentence": "The coach's words [spur] the players to perform better.",
+            "translation_zh_TW": "教練的話激勵著球員們表現得更好"
+          },
+          {
+            "sentence": "They hope to [spur] economic growth through innovation.",
+            "translation_zh_TW": "他們希望通過創新來激勵經濟增長"
+          },
+          {
+            "sentence": "This project aims to [spur] interest in science among students.",
+            "translation_zh_TW": "這個項目的目的是激發學生對科學的興趣"
+          }
+        ],
+        "synonyms": [
+          "motivate",
+          "encourage"
+        ]
+      }
+    ],
+    "confusion": [
+      "spurred",
+      "spear",
+      "spore",
+      "spurts"
+    ]
+  },
+  {
+    "word": "mastery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Comprehensive knowledge or skill in a subject or activity.",
+        "meaning_zh_TW": "精通",
+        "wrong_meaning_zh_TW": [
+          "製造",
+          "鍛煉",
+          "考試"
+        ],
+        "examples": [
+          {
+            "sentence": "His [mastery] of the guitar is impressive.",
+            "translation_zh_TW": "他對吉他的精通令人印象深刻。"
+          },
+          {
+            "sentence": "Achieving [mastery] in a language takes time and practice.",
+            "translation_zh_TW": "在一門語言中達到精通需要時間和練習。"
+          },
+          {
+            "sentence": "She showed great [mastery] in her craft.",
+            "translation_zh_TW": "她在自己的技藝上顯示出極大的精通。"
+          }
+        ],
+        "synonyms": [
+          "expertise",
+          "proficiency"
+        ]
+      }
+    ],
+    "confusion": [
+      "mystery",
+      "master",
+      "mistreat",
+      "masterpiece"
+    ]
+  },
+  {
+    "word": "thermometer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An instrument for measuring temperature.",
+        "meaning_zh_TW": "溫度計",
+        "wrong_meaning_zh_TW": [
+          "計算機",
+          "手電筒",
+          "收音機"
+        ],
+        "examples": [
+          {
+            "sentence": "She checked the [thermometer] to see if it was warm outside.",
+            "translation_zh_TW": "她查看溫度計以確定外面是否溫暖。"
+          },
+          {
+            "sentence": "A [thermometer] is essential for cooking meat properly.",
+            "translation_zh_TW": "溫度計是正確烹飪肉類所必需的。"
+          },
+          {
+            "sentence": "The doctor used a [thermometer] to check my temperature.",
+            "translation_zh_TW": "醫生用溫度計來檢查我的體溫。"
+          }
+        ],
+        "synonyms": [
+          "temperature gauge"
+        ]
+      }
+    ],
+    "confusion": [
+      "thermometer",
+      "thermopolis",
+      "thermostat",
+      "thermo"
+    ]
+  },
+  {
+    "word": "outward",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Situated away from a center or point of reference.",
+        "meaning_zh_TW": "向外的",
+        "wrong_meaning_zh_TW": [
+          "內向的",
+          "沉悶的",
+          "強烈的"
+        ],
+        "examples": [
+          {
+            "sentence": "She made an [outward] appearance of confidence.",
+            "translation_zh_TW": "她給人一種自信的外表。"
+          },
+          {
+            "sentence": "The [outward] signs of wear were evident on the car.",
+            "translation_zh_TW": "這輛車的外部磨損跡象很明顯。"
+          },
+          {
+            "sentence": "He focused on his [outward] behavior in social settings.",
+            "translation_zh_TW": "他專注於社交場合中的外在行為。"
+          }
+        ],
+        "synonyms": [
+          "external",
+          "exterior"
+        ]
+      }
+    ],
+    "confusion": [
+      "outwardly",
+      "outwar",
+      "outwork",
+      "outword"
+    ]
+  },
+  {
+    "word": "jingle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A short and catchy tune or song, often used in advertising.",
+        "meaning_zh_TW": "廣告歌",
+        "wrong_meaning_zh_TW": [
+          "旋律",
+          "歌曲",
+          "樂器"
+        ],
+        "examples": [
+          {
+            "sentence": "The [jingle] stuck in my head all day.",
+            "translation_zh_TW": "這首廣告歌整天在我腦中揮之不去。"
+          },
+          {
+            "sentence": "They created a catchy [jingle] for the product.",
+            "translation_zh_TW": "他們為產品創作了一個朗朗上口的廣告歌。"
+          },
+          {
+            "sentence": "Everyone can hum the [jingle] of that brand.",
+            "translation_zh_TW": "每個人都能哼出那個品牌的廣告歌。"
+          }
+        ],
+        "synonyms": [
+          "tune",
+          "melody"
+        ]
+      }
+    ],
+    "confusion": [
+      "jingles",
+      "jinglese",
+      "jinger",
+      "jingley"
+    ]
+  },
+  {
+    "word": "whiskey",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of distilled alcoholic beverage made from fermented grain mash.",
+        "meaning_zh_TW": "威士忌",
+        "wrong_meaning_zh_TW": [
+          "果汁",
+          "啤酒",
+          "汽水"
+        ],
+        "examples": [
+          {
+            "sentence": "He enjoyed a glass of [whiskey] by the fireplace.",
+            "translation_zh_TW": "他在壁爐旁享用一杯威士忌。"
+          },
+          {
+            "sentence": "They toast with [whiskey] at the celebration.",
+            "translation_zh_TW": "他們在慶祝時用威士忌乾杯。"
+          },
+          {
+            "sentence": "The distillery produces high-quality [whiskey].",
+            "translation_zh_TW": "這家蒸餾廠生產高品質的威士忌。"
+          }
+        ],
+        "synonyms": [
+          "liquor",
+          "spirit"
+        ]
+      }
+    ],
+    "confusion": [
+      "whisky",
+      "whist",
+      "whiskeys",
+      "wisky"
+    ]
+  },
+  {
+    "word": "psychotherapy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The treatment of mental disorder by psychological means.",
+        "meaning_zh_TW": "心理治療",
+        "wrong_meaning_zh_TW": [
+          "藥物治療",
+          "物理治療",
+          "手術治療"
+        ],
+        "examples": [
+          {
+            "sentence": "She attends psychotherapy sessions every week.",
+            "translation_zh_TW": "她每週參加心理治療課程"
+          },
+          {
+            "sentence": "Psychotherapy can help with various mental health issues.",
+            "translation_zh_TW": "心理治療可以幫助解決各種心理健康問題"
+          },
+          {
+            "sentence": "Different approaches to psychotherapy may be used.",
+            "translation_zh_TW": "可以使用不同的方法進行心理治療"
+          }
+        ],
+        "synonyms": [
+          "talk therapy",
+          "counseling"
+        ]
+      }
+    ],
+    "confusion": [
+      "psychology",
+      "physiotherapy",
+      "psychosocial",
+      "psychotic"
+    ]
+  },
+  {
+    "word": "destined",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Certain to happen; predetermined.",
+        "meaning_zh_TW": "注定的",
+        "wrong_meaning_zh_TW": [
+          "偶然的",
+          "隨機的",
+          "不確定的"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt she was [destined] for greatness.",
+            "translation_zh_TW": "她覺得自己注定要偉大。"
+          },
+          {
+            "sentence": "They believe their meeting was [destined].",
+            "translation_zh_TW": "他們相信他們的相遇是注定的。"
+          },
+          {
+            "sentence": "It seems he is [destined] to succeed.",
+            "translation_zh_TW": "看來他注定要成功。"
+          }
+        ],
+        "synonyms": [
+          "fated",
+          "predetermined",
+          "ordained"
+        ]
+      }
+    ],
+    "confusion": [
+      "destine",
+      "dustin",
+      "designed",
+      "distant"
+    ]
+  },
+  {
+    "word": "lad",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A boy or young man.",
+        "meaning_zh_TW": "少年",
+        "wrong_meaning_zh_TW": [
+          "嬰兒",
+          "成人",
+          "老年人"
+        ],
+        "examples": [
+          {
+            "sentence": "The [lad] was playing football in the park.",
+            "translation_zh_TW": "那個少年在公園裡踢足球。"
+          },
+          {
+            "sentence": "He grew up to be a fine [lad].",
+            "translation_zh_TW": "他長大後成為了一位出色的少年。"
+          },
+          {
+            "sentence": "That [lad] has a great sense of humor.",
+            "translation_zh_TW": "那個少年有很好的幽默感。"
+          }
+        ],
+        "synonyms": [
+          "boy",
+          "youth",
+          "guy"
+        ]
+      }
+    ],
+    "confusion": [
+      "ladder",
+      "lard",
+      "ladies",
+      "ladle"
+    ]
+  },
+  {
+    "word": "cracker",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin, crisp biscuit.",
+        "meaning_zh_TW": "薄脆餅乾",
+        "wrong_meaning_zh_TW": [
+          "巧克力",
+          "餅乾",
+          "薯片"
+        ],
+        "examples": [
+          {
+            "sentence": "They served cheese with the [cracker].",
+            "translation_zh_TW": "他們用薄脆餅乾搭配起司。"
+          },
+          {
+            "sentence": "She likes her soup with a [cracker].",
+            "translation_zh_TW": "她喜歡湯中加薄脆餅乾。"
+          },
+          {
+            "sentence": "A [cracker] can be a great snack.",
+            "translation_zh_TW": "薄脆餅乾是一個很好的零食。"
+          }
+        ],
+        "synonyms": [
+          "biscuit",
+          "snack"
+        ]
+      }
+    ],
+    "confusion": [
+      "cracked",
+      "stacker",
+      "snacker",
+      "tracker"
+    ]
+  },
+  {
+    "word": "contention",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Heated disagreement or argument.",
+        "meaning_zh_TW": "爭論",
+        "wrong_meaning_zh_TW": [
+          "同意",
+          "妥協",
+          "合作"
+        ],
+        "examples": [
+          {
+            "sentence": "Their contention over the policy led to a heated debate.",
+            "translation_zh_TW": "他們對該政策的爭論導致了一場激烈的辯論。"
+          },
+          {
+            "sentence": "The main contention of his argument was that change is necessary.",
+            "translation_zh_TW": "他論點的主要爭論是變革是必要的。"
+          },
+          {
+            "sentence": "There was a contention between the two rival groups.",
+            "translation_zh_TW": "兩個對立團體之間有著爭論。"
+          }
+        ],
+        "synonyms": [
+          "dispute",
+          "conflict",
+          "debate"
+        ]
+      }
+    ],
+    "confusion": [
+      "content",
+      "convention",
+      "contingent",
+      "contend"
+    ]
+  },
+  {
+    "word": "utter",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To speak or pronounce.",
+        "meaning_zh_TW": "說出",
+        "wrong_meaning_zh_TW": [
+          "沉默",
+          "博覽",
+          "哭泣"
+        ],
+        "examples": [
+          {
+            "sentence": "She didn’t [utter] a single word during the meeting.",
+            "translation_zh_TW": "她在會議中沒有說出一句話"
+          },
+          {
+            "sentence": "He chose to [utter] his thoughts plainly.",
+            "translation_zh_TW": "他選擇明言他的想法"
+          },
+          {
+            "sentence": "Can you [utter] these words clearly?",
+            "translation_zh_TW": "你能清楚地說出這些話嗎？"
+          }
+        ],
+        "synonyms": [
+          "speak",
+          "express"
+        ]
+      }
+    ],
+    "confusion": [
+      "utterly",
+      "butter",
+      "utterings",
+      "utters"
+    ]
+  },
+  {
+    "word": "cater",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To provide food and services for a social event.",
+        "meaning_zh_TW": "提供餐飲服務",
+        "wrong_meaning_zh_TW": [
+          "捕獲者",
+          "捏造的",
+          "標籤"
+        ],
+        "examples": [
+          {
+            "sentence": "They will [cater] the wedding reception.",
+            "translation_zh_TW": "他們將提供婚禮的餐飲服務。"
+          },
+          {
+            "sentence": "The company decided to [cater] for corporate events.",
+            "translation_zh_TW": "該公司決定為企業活動提供餐飲服務。"
+          },
+          {
+            "sentence": "We need someone to [cater] the birthday party.",
+            "translation_zh_TW": "我們需要找人為生日派對提供餐飲服務。"
+          }
+        ],
+        "synonyms": [
+          "provide",
+          "serve"
+        ]
+      }
+    ],
+    "confusion": [
+      "caterer",
+      "caters",
+      "catering",
+      "cated"
+    ]
+  },
+  {
+    "word": "tuck",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To push, fold, or turn something in or into a place to make it more secure.",
+        "meaning_zh_TW": "收起",
+        "wrong_meaning_zh_TW": [
+          "打包",
+          "掏出",
+          "照顧"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [tuck] his shirt into his pants.",
+            "translation_zh_TW": "他決定把襯衫收進褲子裡。"
+          },
+          {
+            "sentence": "Make sure to [tuck] the blanket under the mattress.",
+            "translation_zh_TW": "確保把毯子收在床墊下。"
+          },
+          {
+            "sentence": "She [tucked] her hair behind her ear.",
+            "translation_zh_TW": "她把頭髮收到耳後。"
+          }
+        ],
+        "synonyms": [
+          "fold",
+          "insert"
+        ]
+      }
+    ],
+    "confusion": [
+      "truck",
+      "tuckered",
+      "luck",
+      "pluck"
+    ]
+  },
+  {
+    "word": "lure",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To tempt or attract someone, usually for a deceptive purpose.",
+        "meaning_zh_TW": "引誘",
+        "wrong_meaning_zh_TW": [
+          "驅逐",
+          "拒絕",
+          "挑戰"
+        ],
+        "examples": [
+          {
+            "sentence": "They tried to [lure] the fish with bait.",
+            "translation_zh_TW": "他們試圖用餌引誘魚"
+          },
+          {
+            "sentence": "The advertisement was designed to [lure] customers.",
+            "translation_zh_TW": "這則廣告旨在引誘顧客"
+          },
+          {
+            "sentence": "Don't let the flashy signs [lure] you into a trap.",
+            "translation_zh_TW": "不要讓那些耀眼的標誌引誘你進入陷阱"
+          }
+        ],
+        "synonyms": [
+          "tempt",
+          "entice"
+        ]
+      }
+    ],
+    "confusion": [
+      "lure",
+      "lurr",
+      "luree",
+      "lur"
+    ]
+  },
+  {
+    "word": "pinch",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To squeeze something between the thumb and a finger.",
+        "meaning_zh_TW": "夾",
+        "wrong_meaning_zh_TW": [
+          "拉",
+          "推",
+          "打"
+        ],
+        "examples": [
+          {
+            "sentence": "Be careful not to [pinch] yourself while closing the door.",
+            "translation_zh_TW": "關門時小心不要夾到自己。"
+          },
+          {
+            "sentence": "He gave her a light [pinch] on the arm as a joke.",
+            "translation_zh_TW": "他開玩笑地輕輕夾了她的手臂。"
+          },
+          {
+            "sentence": "You need to [pinch] the fabric to get the right amount.",
+            "translation_zh_TW": "你需要夾住布料才能獲得正確的分量。"
+          }
+        ],
+        "synonyms": [
+          "squeeze",
+          "nip"
+        ]
+      }
+    ],
+    "confusion": [
+      "pincher",
+      "pinching",
+      "pincer",
+      "pined"
+    ]
+  }
+]

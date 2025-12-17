@@ -1,0 +1,769 @@
+[
+  {
+    "word": "golf",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A game played on a large outdoor course in which you hit a small ball into a series of holes using clubs.",
+        "meaning_zh_TW": "高爾夫",
+        "wrong_meaning_zh_TW": [
+          "籃球",
+          "網球",
+          "二人三腳"
+        ],
+        "examples": [
+          {
+            "sentence": "They went out to play [golf] on the weekend.",
+            "translation_zh_TW": "他們週末出去打高爾夫"
+          },
+          {
+            "sentence": "He is a passionate [golf] player.",
+            "translation_zh_TW": "他是一個熱愛高爾夫的玩家"
+          },
+          {
+            "sentence": "She watched the [golf] tournament on TV.",
+            "translation_zh_TW": "她在電視上觀看高爾夫比賽"
+          }
+        ],
+        "synonyms": [
+          "golfing",
+          "club sport"
+        ]
+      }
+    ],
+    "confusion": [
+      "golfy",
+      "gofl",
+      "golff",
+      "golfer"
+    ]
+  },
+  {
+    "word": "protection",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of protecting someone or something, or the state of being protected.",
+        "meaning_zh_TW": "保護",
+        "wrong_meaning_zh_TW": [
+          "威脅",
+          "危險",
+          "損失"
+        ],
+        "examples": [
+          {
+            "sentence": "They sought [protection] from the storm.",
+            "translation_zh_TW": "他們尋求對暴風雨的保護。"
+          },
+          {
+            "sentence": "The law offers [protection] to whistle-blowers.",
+            "translation_zh_TW": "法律提供對舉報者的保護。"
+          },
+          {
+            "sentence": "He feels safe under the [protection] of his friends.",
+            "translation_zh_TW": "他在朋友的保護下感到安全。"
+          }
+        ],
+        "synonyms": [
+          "safeguarding",
+          "security"
+        ]
+      }
+    ],
+    "confusion": [
+      "project",
+      "projection",
+      "protectionism",
+      "practitioner"
+    ]
+  },
+  {
+    "word": "whole",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "All of something; complete.",
+        "meaning_zh_TW": "整個的",
+        "wrong_meaning_zh_TW": [
+          "部分的",
+          "碎片的",
+          "不完整的"
+        ],
+        "examples": [
+          {
+            "sentence": "He ate the [whole] cake.",
+            "translation_zh_TW": "他吃了整個蛋糕"
+          },
+          {
+            "sentence": "It was a [whole] day event.",
+            "translation_zh_TW": "這是一整天的活動"
+          },
+          {
+            "sentence": "She gave him the [whole] story.",
+            "translation_zh_TW": "她告訴了他整個故事"
+          }
+        ],
+        "synonyms": [
+          "entire",
+          "complete"
+        ]
+      }
+    ],
+    "confusion": [
+      "hole",
+      "whol",
+      "hoal",
+      "wholesome"
+    ]
+  },
+  {
+    "word": "annual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring once every year.",
+        "meaning_zh_TW": "年度的",
+        "wrong_meaning_zh_TW": [
+          "每月的",
+          "每日的",
+          "不定期的"
+        ],
+        "examples": [
+          {
+            "sentence": "I look forward to our [annual] picnic.",
+            "translation_zh_TW": "我期待著我們的年度野餐。"
+          },
+          {
+            "sentence": "The company holds an [annual] meeting in June.",
+            "translation_zh_TW": "公司在六月份舉行年度會議。"
+          },
+          {
+            "sentence": "She has an [annual] subscription to the magazine.",
+            "translation_zh_TW": "她擁有該雜誌的年度訂閱。"
+          }
+        ],
+        "synonyms": [
+          "yearly",
+          "once-a-year"
+        ]
+      }
+    ],
+    "confusion": [
+      "annul",
+      "annualize",
+      "anual",
+      "annuity"
+    ]
+  },
+  {
+    "word": "response",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A reaction to something.",
+        "meaning_zh_TW": "回應",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "不理會",
+          "忘記"
+        ],
+        "examples": [
+          {
+            "sentence": "His [response] was unexpected.",
+            "translation_zh_TW": "他的反應出乎意料。"
+          },
+          {
+            "sentence": "We need a quick [response] to the emergency.",
+            "translation_zh_TW": "我們需要對緊急情況做出快速反應。"
+          },
+          {
+            "sentence": "Her [response] to the invitation was positive.",
+            "translation_zh_TW": "她對邀請的反應是積極的。"
+          }
+        ],
+        "synonyms": [
+          "reaction",
+          "reply"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To reply or react to something.",
+        "meaning_zh_TW": "回應",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "不理會",
+          "忘記"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [respond] to the email at your earliest convenience.",
+            "translation_zh_TW": "請在方便時儘快回應電子郵件。"
+          },
+          {
+            "sentence": "The team will [respond] to customer inquiries promptly.",
+            "translation_zh_TW": "團隊將迅速回應客戶詢問。"
+          },
+          {
+            "sentence": "He failed to [respond] to the call.",
+            "translation_zh_TW": "他沒有回應這通電話。"
+          }
+        ],
+        "synonyms": [
+          "reply",
+          "react"
+        ]
+      }
+    ],
+    "confusion": [
+      "responsiveness",
+      "responser",
+      "responsibly",
+      "responce"
+    ]
+  },
+  {
+    "word": "chat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To talk in a friendly or informal way.",
+        "meaning_zh_TW": "聊天",
+        "wrong_meaning_zh_TW": [
+          "爭論",
+          "命令",
+          "詢問"
+        ],
+        "examples": [
+          {
+            "sentence": "They like to [chat] over coffee.",
+            "translation_zh_TW": "他們喜歡在咖啡時聊天"
+          },
+          {
+            "sentence": "Let's [chat] about your plans.",
+            "translation_zh_TW": "讓我們聊聊你的計劃"
+          },
+          {
+            "sentence": "We spent hours [chatting] last night.",
+            "translation_zh_TW": "我們昨晚聊了好幾個小時"
+          }
+        ],
+        "synonyms": [
+          "talk",
+          "converse"
+        ]
+      }
+    ],
+    "confusion": [
+      "chatter",
+      "chatroom",
+      "cheat",
+      "chart"
+    ]
+  },
+  {
+    "word": "discount",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A reduction in the usual price of something.",
+        "meaning_zh_TW": "折扣",
+        "wrong_meaning_zh_TW": [
+          "附加費",
+          "稅金",
+          "罰款"
+        ],
+        "examples": [
+          {
+            "sentence": "The store is offering a [discount] on all items.",
+            "translation_zh_TW": "商店對所有商品提供折扣"
+          },
+          {
+            "sentence": "She received a [discount] for being a member.",
+            "translation_zh_TW": "因為是會員她獲得了折扣"
+          },
+          {
+            "sentence": "If you buy in bulk, you'll get a [discount].",
+            "translation_zh_TW": "如果你大量購買，你將獲得折扣"
+          }
+        ],
+        "synonyms": [
+          "reduction",
+          "markdown"
+        ]
+      }
+    ],
+    "confusion": [
+      "discontent",
+      "discourse",
+      "disconnect",
+      "disc"
+    ]
+  },
+  {
+    "word": "political",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the government or the public affairs of a country.",
+        "meaning_zh_TW": "政治的",
+        "wrong_meaning_zh_TW": [
+          "環保的",
+          "經濟的",
+          "社會的"
+        ],
+        "examples": [
+          {
+            "sentence": "The decision was highly [political].",
+            "translation_zh_TW": "這個決定是高度政治性的。"
+          },
+          {
+            "sentence": "In a [political] debate, opinions can clash.",
+            "translation_zh_TW": "在政治辯論中，意見可能會衝突。"
+          },
+          {
+            "sentence": "The [political] climate is changing rapidly.",
+            "translation_zh_TW": "政治氣候正在快速變化。"
+          }
+        ],
+        "synonyms": [
+          "governmental",
+          "state"
+        ]
+      }
+    ],
+    "confusion": [
+      "politician",
+      "politics",
+      "policy",
+      "poll"
+    ]
+  },
+  {
+    "word": "advertise",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make something known to the public, especially through paid announcements.",
+        "meaning_zh_TW": "廣告宣傳",
+        "wrong_meaning_zh_TW": [
+          "保護",
+          "警告",
+          "介紹"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [advertise] the new product on television.",
+            "translation_zh_TW": "他們計畫在電視上廣告宣傳新產品"
+          },
+          {
+            "sentence": "It's important to [advertise] your services online.",
+            "translation_zh_TW": "在網上廣告宣傳你的服務很重要"
+          },
+          {
+            "sentence": "Many companies [advertise] during major events.",
+            "translation_zh_TW": "許多公司在大型活動中進行廣告宣傳"
+          }
+        ],
+        "synonyms": [
+          "promote",
+          "publicize"
+        ]
+      }
+    ],
+    "confusion": [
+      "advert",
+      "adventure",
+      "advise",
+      "advertise"
+    ]
+  },
+  {
+    "word": "kingdom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A country or state ruled by a king or queen.",
+        "meaning_zh_TW": "王國",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "國家",
+          "部落"
+        ],
+        "examples": [
+          {
+            "sentence": "The [kingdom] is known for its beautiful landscapes.",
+            "translation_zh_TW": "這個王國以其美麗的風景而聞名。"
+          },
+          {
+            "sentence": "She dreams of visiting a fairy tale [kingdom].",
+            "translation_zh_TW": "她夢想著造訪一個童話王國。"
+          },
+          {
+            "sentence": "The ancient [kingdom] was powerful and prosperous.",
+            "translation_zh_TW": "這個古老的王國曾經強大而繁榮。"
+          }
+        ],
+        "synonyms": [
+          "realm",
+          "empire"
+        ]
+      }
+    ],
+    "confusion": [
+      "kingly",
+      "kingfisher",
+      "kindness",
+      "kingpin"
+    ]
+  },
+  {
+    "word": "thought",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An idea or opinion produced by thinking.",
+        "meaning_zh_TW": "思考、想法",
+        "wrong_meaning_zh_TW": [
+          "計畫",
+          "聲音",
+          "動作"
+        ],
+        "examples": [
+          {
+            "sentence": "She had a sudden [thought] about the project.",
+            "translation_zh_TW": "她對這個項目有了突如其來的想法。"
+          },
+          {
+            "sentence": "His [thoughts] were consumed by worry.",
+            "translation_zh_TW": "他的思緒被擔憂佔據。"
+          },
+          {
+            "sentence": "What a strange [thought] to have!",
+            "translation_zh_TW": "真是一個奇怪的想法！"
+          }
+        ],
+        "synonyms": [
+          "idea",
+          "notion"
+        ]
+      }
+    ],
+    "confusion": [
+      "throught",
+      "thaught",
+      "thoought",
+      "througth"
+    ]
+  },
+  {
+    "word": "stuff",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Materials, supplies, or equipment.",
+        "meaning_zh_TW": "東西、材料",
+        "wrong_meaning_zh_TW": [
+          "工具",
+          "技術",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "I have so much [stuff] to do today.",
+            "translation_zh_TW": "我今天有很多事情要做。"
+          },
+          {
+            "sentence": "She packed all her [stuff] into the car.",
+            "translation_zh_TW": "她把所有的東西打包進車裡。"
+          },
+          {
+            "sentence": "Can you help me organize my [stuff]?",
+            "translation_zh_TW": "你能幫我整理我的東西嗎？"
+          }
+        ],
+        "synonyms": [
+          "items",
+          "things"
+        ]
+      }
+    ],
+    "confusion": [
+      "stuf",
+      "stufff",
+      "stufz"
+    ]
+  },
+  {
+    "word": "entry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of entering or a way to enter; an entrance.",
+        "meaning_zh_TW": "進入、入口",
+        "wrong_meaning_zh_TW": [
+          "出口",
+          "退場",
+          "鑰匙"
+        ],
+        "examples": [
+          {
+            "sentence": "The [entry] to the museum is free on Sundays.",
+            "translation_zh_TW": "博物館的進入在星期日是免費的。"
+          },
+          {
+            "sentence": "Please sign your name at the [entry].",
+            "translation_zh_TW": "請在入口處簽名。"
+          },
+          {
+            "sentence": "I found the [entry] to the garden.",
+            "translation_zh_TW": "我找到了進入花園的入口。"
+          }
+        ],
+        "synonyms": [
+          "entrance",
+          "access"
+        ]
+      }
+    ],
+    "confusion": [
+      "entree",
+      "entryway",
+      "entries",
+      "entropy"
+    ]
+  },
+  {
+    "word": "summary",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A brief statement or account of the main points of something.",
+        "meaning_zh_TW": "摘要",
+        "wrong_meaning_zh_TW": [
+          "細節",
+          "夢想",
+          "詳細"
+        ],
+        "examples": [
+          {
+            "sentence": "She wrote a [summary] of the report.",
+            "translation_zh_TW": "她寫了一份報告的摘要"
+          },
+          {
+            "sentence": "The book ends with a [summary] of the key themes.",
+            "translation_zh_TW": "這本書以關鍵主題的摘要結束"
+          },
+          {
+            "sentence": "Can you provide a [summary] of your findings?",
+            "translation_zh_TW": "你能提供你的發現摘要嗎？"
+          }
+        ],
+        "synonyms": [
+          "overview",
+          "recap"
+        ]
+      }
+    ],
+    "confusion": [
+      "summit",
+      "summons",
+      "summarys",
+      "summery"
+    ]
+  },
+  {
+    "word": "agency",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An organization, company, or bureau that provides a particular service.",
+        "meaning_zh_TW": "機構、代理",
+        "wrong_meaning_zh_TW": [
+          "個人、個體",
+          "組織、團體",
+          "產品、物品"
+        ],
+        "examples": [
+          {
+            "sentence": "She works for an advertising [agency].",
+            "translation_zh_TW": "她在一家廣告代理機構工作"
+          },
+          {
+            "sentence": "The travel [agency] helped us plan our vacation.",
+            "translation_zh_TW": "旅行社幫助我們計劃假期"
+          },
+          {
+            "sentence": "The government [agency] oversees public health.",
+            "translation_zh_TW": "政府機構負責公共健康"
+          }
+        ],
+        "synonyms": [
+          "organization",
+          "bureau"
+        ]
+      }
+    ],
+    "confusion": [
+      "agencies",
+      "agenc",
+      "agenvy",
+      "agenciy"
+    ]
+  },
+  {
+    "word": "western",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the western part of the world or its culture.",
+        "meaning_zh_TW": "西方的",
+        "wrong_meaning_zh_TW": [
+          "東方的",
+          "南方的",
+          "北方的"
+        ],
+        "examples": [
+          {
+            "sentence": "She prefers [western] movies over others.",
+            "translation_zh_TW": "她更喜歡西方電影"
+          },
+          {
+            "sentence": "The [western] style of dining is casual.",
+            "translation_zh_TW": "西式用餐風格很隨意"
+          },
+          {
+            "sentence": "Many [western] traditions are celebrated globally.",
+            "translation_zh_TW": "許多西方傳統在全球都有慶祝"
+          }
+        ],
+        "synonyms": [
+          "occidental"
+        ]
+      }
+    ],
+    "confusion": [
+      "eastward",
+      "westernly",
+      "westward",
+      "weathering"
+    ]
+  },
+  {
+    "word": "bay",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A broad inlet of the sea where the land curves inward.",
+        "meaning_zh_TW": "海灣",
+        "wrong_meaning_zh_TW": [
+          "沙灘",
+          "河流",
+          "湖泊"
+        ],
+        "examples": [
+          {
+            "sentence": "The boat sailed into the calm [bay].",
+            "translation_zh_TW": "船駛入平靜的海灣"
+          },
+          {
+            "sentence": "They enjoyed a picnic by the [bay].",
+            "translation_zh_TW": "他們在海灣旁享受野餐"
+          },
+          {
+            "sentence": "The city is located on a beautiful [bay].",
+            "translation_zh_TW": "這座城市位於美麗的海灣上"
+          }
+        ],
+        "synonyms": [
+          "cove",
+          "inlet"
+        ]
+      }
+    ],
+    "confusion": [
+      "bayonet",
+      "bays",
+      "bayed",
+      "baying"
+    ]
+  },
+  {
+    "word": "regional",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or characteristic of a particular region.",
+        "meaning_zh_TW": "地區的",
+        "wrong_meaning_zh_TW": [
+          "全球的",
+          "本地的",
+          "國際的"
+        ],
+        "examples": [
+          {
+            "sentence": "They focus on [regional] development projects.",
+            "translation_zh_TW": "他們專注於地區發展項目"
+          },
+          {
+            "sentence": "The [regional] cuisine is famous for its unique flavors.",
+            "translation_zh_TW": "該地區的料理以其獨特的風味聞名"
+          },
+          {
+            "sentence": "We have [regional] offices across the country.",
+            "translation_zh_TW": "我們在全國各地有地區辦事處"
+          }
+        ],
+        "synonyms": [
+          "local",
+          "territorial"
+        ]
+      }
+    ],
+    "confusion": [
+      "reginal",
+      "regionalism",
+      "region",
+      "regroup"
+    ]
+  },
+  {
+    "word": "exchange",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give something and receive something of the same kind in return.",
+        "meaning_zh_TW": "交換、互換",
+        "wrong_meaning_zh_TW": [
+          "保留",
+          "抵抗",
+          "隱藏"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [exchange] gifts at the party.",
+            "translation_zh_TW": "他們決定在派對上互換禮物。"
+          },
+          {
+            "sentence": "It's common to [exchange] pleasantries in social situations.",
+            "translation_zh_TW": "在社交場合互致問候是很常見的。"
+          },
+          {
+            "sentence": "The students will [exchange] ideas during the workshop.",
+            "translation_zh_TW": "學生們在研討會上會互換想法。"
+          }
+        ],
+        "synonyms": [
+          "swap",
+          "trade"
+        ]
+      }
+    ],
+    "confusion": [
+      "exchanging",
+      "exclaim",
+      "experience",
+      "exceed"
+    ]
+  }
+]

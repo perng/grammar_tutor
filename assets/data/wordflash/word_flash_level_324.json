@@ -1,0 +1,429 @@
+[
+  {
+    "word": "Kingdom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A nation or territory ruled by a king or queen.",
+        "meaning_zh_TW": "王國",
+        "wrong_meaning_zh_TW": [
+          "客廳",
+          "瑞士",
+          "教堂"
+        ],
+        "examples": [
+          {
+            "sentence": "The [kingdom] was known for its rich culture.",
+            "translation_zh_TW": "這個王國以其豐富的文化而聞名。"
+          },
+          {
+            "sentence": "She dreams of a [kingdom] filled with peace.",
+            "translation_zh_TW": "她夢想著一個充滿和平的王國。"
+          },
+          {
+            "sentence": "The [kingdom] has a powerful army.",
+            "translation_zh_TW": "這個王國擁有一支強大的軍隊。"
+          }
+        ],
+        "synonyms": [
+          "realm",
+          "empire"
+        ]
+      }
+    ],
+    "confusion": [
+      "Kingsdom",
+      "Kingdome",
+      "Kingdoms",
+      "Kindgom"
+    ]
+  },
+  {
+    "word": "Taoism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A philosophical and religious tradition originating in China, emphasizing living in harmony with the Tao.",
+        "meaning_zh_TW": "道教",
+        "wrong_meaning_zh_TW": [
+          "道理",
+          "道場",
+          "導師"
+        ],
+        "examples": [
+          {
+            "sentence": "Many people practice [Taoism] as a way to connect with nature.",
+            "translation_zh_TW": "許多人修行道教，以便與自然連結。"
+          },
+          {
+            "sentence": "[Taoism] teaches that simplicity is the key to a good life.",
+            "translation_zh_TW": "道教教導簡單是美好生活的關鍵。"
+          },
+          {
+            "sentence": "The principles of [Taoism] can be found in many aspects of Chinese culture.",
+            "translation_zh_TW": "道教的原則可以在中國文化的許多方面找到。"
+          }
+        ],
+        "synonyms": [
+          "Daoism",
+          "Taoist philosophy"
+        ]
+      }
+    ],
+    "confusion": [
+      "Taoist",
+      "Tao",
+      "Taoismic",
+      "Taism"
+    ]
+  },
+  {
+    "word": "Celsius",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A scale used for measuring temperature where 0 degrees is the freezing point of water.",
+        "meaning_zh_TW": "攝氏",
+        "wrong_meaning_zh_TW": [
+          "華氏",
+          "凍結",
+          "煮沸"
+        ],
+        "examples": [
+          {
+            "sentence": "Water freezes at 0 degrees [Celsius].",
+            "translation_zh_TW": "水在0度攝氏時凍結"
+          },
+          {
+            "sentence": "He prefers his drinks at 12 degrees [Celsius].",
+            "translation_zh_TW": "他喜歡他的飲料在12度攝氏"
+          },
+          {
+            "sentence": "The recipe requires the oven to be set at 180 degrees [Celsius].",
+            "translation_zh_TW": "食譜要求爐子設定在180度攝氏"
+          }
+        ],
+        "synonyms": [
+          "centigrade"
+        ]
+      }
+    ],
+    "confusion": [
+      "Celsis",
+      "Celsiuis",
+      "Celsuis",
+      "Celsium"
+    ]
+  },
+  {
+    "word": "India",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A country in South Asia known for its diverse culture and history.",
+        "meaning_zh_TW": "印度",
+        "wrong_meaning_zh_TW": [
+          "印象派",
+          "銀髮族",
+          "音調"
+        ],
+        "examples": [
+          {
+            "sentence": "[India] is famous for its rich spices and cuisines.",
+            "translation_zh_TW": "[印度]以其豐富的香料和菜餚聞名。"
+          },
+          {
+            "sentence": "She plans to travel to [India] for a spiritual retreat.",
+            "translation_zh_TW": "她計劃去[印度]進行靈性靜修。"
+          },
+          {
+            "sentence": "The Taj Mahal is an iconic landmark in [India].",
+            "translation_zh_TW": "[印度]的泰姬瑪哈陵是一個標誌性地標。"
+          }
+        ],
+        "synonyms": [
+          "Bharat",
+          "Republic of India"
+        ]
+      }
+    ],
+    "confusion": [
+      "Inda",
+      "Inida",
+      "Inda",
+      "Inidaa"
+    ]
+  },
+  {
+    "word": "Antarctica",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The southernmost continent, containing the geographic South Pole.",
+        "meaning_zh_TW": "南極洲",
+        "wrong_meaning_zh_TW": [
+          "太平洋",
+          "北極",
+          "冰箱"
+        ],
+        "examples": [
+          {
+            "sentence": "Antarctica is largely covered in ice.",
+            "translation_zh_TW": "南極洲大部分被冰覆蓋。"
+          },
+          {
+            "sentence": "Few people live in [Antarctica] due to extreme conditions.",
+            "translation_zh_TW": "由於極端的氣候，鮮少有人居住在南極洲。"
+          },
+          {
+            "sentence": "Research in [Antarctica] helps us understand climate change.",
+            "translation_zh_TW": "在南極洲的研究有助於我們理解氣候變化。"
+          }
+        ],
+        "synonyms": [
+          "polar region",
+          "continent"
+        ]
+      }
+    ],
+    "confusion": [
+      "Antartica",
+      "Antarctia",
+      "Antartctia",
+      "Antarctice"
+    ]
+  },
+  {
+    "word": "Christianity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The religion based on the life and teachings of Jesus Christ.",
+        "meaning_zh_TW": "基督教",
+        "wrong_meaning_zh_TW": [
+          "佛教",
+          "道教",
+          "猶太教"
+        ],
+        "examples": [
+          {
+            "sentence": "He studies the principles of [Christianity].",
+            "translation_zh_TW": "他研究基督教的原則。"
+          },
+          {
+            "sentence": "Many cultures have been influenced by [Christianity].",
+            "translation_zh_TW": "許多文化受到了基督教的影響。"
+          },
+          {
+            "sentence": "The teachings of [Christianity] promote love and compassion.",
+            "translation_zh_TW": "基督教的教導促進愛與同情。"
+          }
+        ],
+        "synonyms": [
+          "faith",
+          "religion"
+        ]
+      }
+    ],
+    "confusion": [
+      "christians",
+      "christanit",
+      "chrisitanity",
+      "christianitys"
+    ]
+  },
+  {
+    "word": "Catholicism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The faith, doctrine, and system of the Roman Catholic Church.",
+        "meaning_zh_TW": "天主教",
+        "wrong_meaning_zh_TW": [
+          "新教",
+          "佛教",
+          "道教"
+        ],
+        "examples": [
+          {
+            "sentence": "He was raised in [Catholicism] and attended Mass regularly.",
+            "translation_zh_TW": "他在天主教家庭中長大，並定期參加彌撒。"
+          },
+          {
+            "sentence": "[Catholicism] emphasizes the significance of the sacraments.",
+            "translation_zh_TW": "天主教強調聖事的重要性。"
+          },
+          {
+            "sentence": "Through [Catholicism], she found a strong sense of community.",
+            "translation_zh_TW": "透過天主教，她找到了強烈的社群歸屬感。"
+          }
+        ],
+        "synonyms": [
+          "Roman Catholicism",
+          "Catholic faith"
+        ]
+      }
+    ],
+    "confusion": [
+      "Catholic",
+      "Catholism",
+      "Catholisism",
+      "Catholics"
+    ]
+  },
+  {
+    "word": "Fahrenheit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A scale for measuring temperature, with freezing point at 32 degrees and boiling point at 212 degrees.",
+        "meaning_zh_TW": "華氏溫度計",
+        "wrong_meaning_zh_TW": [
+          "攝氏溫度計",
+          "符號",
+          "指標"
+        ],
+        "examples": [
+          {
+            "sentence": "The water boils at 212 degrees [Fahrenheit].",
+            "translation_zh_TW": "水在華氏212度沸騰。"
+          },
+          {
+            "sentence": "In [Fahrenheit], the winter temperatures are quite cold.",
+            "translation_zh_TW": "在華氏溫度下，冬天的氣溫非常冷。"
+          },
+          {
+            "sentence": "Convert this temperature from Celsius to [Fahrenheit].",
+            "translation_zh_TW": "將這個溫度從攝氏轉換為華氏。"
+          }
+        ],
+        "synonyms": [
+          "temperature scale"
+        ]
+      }
+    ],
+    "confusion": [
+      "Farenheit",
+      "Fahrneheit",
+      "Farenhight",
+      "Farnheit"
+    ]
+  },
+  {
+    "word": "Italy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A country in southern Europe, known for its rich history and cultural heritage.",
+        "meaning_zh_TW": "意大利",
+        "wrong_meaning_zh_TW": [
+          "意圖",
+          "意外",
+          "意旨"
+        ],
+        "examples": [
+          {
+            "sentence": "I dream of visiting [Italy] someday.",
+            "translation_zh_TW": "我夢想有一天去拜訪意大利。"
+          },
+          {
+            "sentence": "[Italy] is famous for its art and cuisine.",
+            "translation_zh_TW": "意大利以其藝術和美食而聞名。"
+          },
+          {
+            "sentence": "The Colosseum is an iconic symbol of [Italy].",
+            "translation_zh_TW": "羅馬鬥獸場是意大利的標誌性象徵。"
+          }
+        ],
+        "synonyms": [
+          "Italian Republic",
+          "the Boot"
+        ]
+      }
+    ],
+    "confusion": [
+      "Italy",
+      "Italya",
+      "Ittaly",
+      "Itallly"
+    ]
+  },
+  {
+    "word": "Singapore",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A city-state in Southeast Asia, known for its global financial hub and multicultural population.",
+        "meaning_zh_TW": "新加坡",
+        "wrong_meaning_zh_TW": [
+          "新西蘭",
+          "新加坡麵",
+          "新加坡樹"
+        ],
+        "examples": [
+          {
+            "sentence": "I am planning a trip to [Singapore] next summer.",
+            "translation_zh_TW": "我計劃明年夏天去新加坡旅行。"
+          },
+          {
+            "sentence": "The food in [Singapore] is incredibly diverse.",
+            "translation_zh_TW": "新加坡的食物非常多樣化。"
+          },
+          {
+            "sentence": "Many tourists visit [Singapore] to explore its gardens.",
+            "translation_zh_TW": "許多遊客來新加坡探索其花園。"
+          }
+        ],
+        "synonyms": [
+          "city-state",
+          "financial center"
+        ]
+      }
+    ],
+    "confusion": [
+      "Singapura",
+      "Singaporean",
+      "Singapour",
+      "Singaore"
+    ]
+  },
+  {
+    "word": "Germany",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A country in Central Europe known for its history, culture, and engineering.",
+        "meaning_zh_TW": "德國",
+        "wrong_meaning_zh_TW": [
+          "德行",
+          "德國文學",
+          "德國羊"
+        ],
+        "examples": [
+          {
+            "sentence": "He was born in [Germany] but moved to the US.",
+            "translation_zh_TW": "他出生在[德國]，但移居到美國。"
+          },
+          {
+            "sentence": "[Germany] is known for its beer and sausages.",
+            "translation_zh_TW": "[德國]以其啤酒和香腸聞名。"
+          },
+          {
+            "sentence": "The Berlin Wall was a significant part of [Germany]'s history.",
+            "translation_zh_TW": "[德國]的柏林牆是歷史上的重要部分。"
+          }
+        ],
+        "synonyms": [
+          "Federal Republic of Germany",
+          "Deutschland"
+        ]
+      }
+    ],
+    "confusion": [
+      "Germnay",
+      "Germnay",
+      "Germeny",
+      "Germaany"
+    ]
+  }
+]

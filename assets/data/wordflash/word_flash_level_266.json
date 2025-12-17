@@ -1,0 +1,771 @@
+[
+  {
+    "word": "mammal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Any warm-blooded vertebrate animal of the class Mammalia, characterized by the presence of mammary glands.",
+        "meaning_zh_TW": "哺乳動物",
+        "wrong_meaning_zh_TW": [
+          "爬行動物",
+          "魚",
+          "昆蟲"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mammal] gave birth to live young.",
+            "translation_zh_TW": "這種哺乳動物生下了活的幼崽."
+          },
+          {
+            "sentence": "Humans are classified as a type of [mammal].",
+            "translation_zh_TW": "人類被歸類為一種哺乳動物."
+          },
+          {
+            "sentence": "The [mammal] has fur to keep it warm.",
+            "translation_zh_TW": "這種哺乳動物有毛來保持溫暖."
+          }
+        ],
+        "synonyms": [
+          "beast",
+          "animal"
+        ]
+      }
+    ],
+    "confusion": [
+      "mammo",
+      "mammoth",
+      "mammoal",
+      "mammeld"
+    ]
+  },
+  {
+    "word": "dialect",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular form of a language which is peculiar to a specific region or social group.",
+        "meaning_zh_TW": "方言",
+        "wrong_meaning_zh_TW": [
+          "俚語",
+          "語言",
+          "口音"
+        ],
+        "examples": [
+          {
+            "sentence": "He spoke in a thick [dialect] that was hard to understand.",
+            "translation_zh_TW": "他用濃重的方言說話，讓人難以理解。"
+          },
+          {
+            "sentence": "Different regions have their own unique [dialects].",
+            "translation_zh_TW": "不同地區都有自己獨特的方言。"
+          },
+          {
+            "sentence": "Studying the local [dialect] helped her connect with the community.",
+            "translation_zh_TW": "學習當地方言幫助她與社區建立聯繫。"
+          }
+        ],
+        "synonyms": [
+          "locale",
+          "variant"
+        ]
+      }
+    ],
+    "confusion": [
+      "dialectic",
+      "dialogue",
+      "dilettante",
+      "dialectal"
+    ]
+  },
+  {
+    "word": "dreadful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing fear or dread; extremely bad.",
+        "meaning_zh_TW": "造成恐懼或可怕的；極其糟糕的",
+        "wrong_meaning_zh_TW": [
+          "美好的景象",
+          "高品質的產品",
+          "輕鬆的時刻"
+        ],
+        "examples": [
+          {
+            "sentence": "The movie was simply [dreadful].",
+            "translation_zh_TW": "這部電影簡直太糟糕了。"
+          },
+          {
+            "sentence": "He had a [dreadful] headache all day.",
+            "translation_zh_TW": "他整天都有可怕的頭痛。"
+          },
+          {
+            "sentence": "The weather was [dreadful] during our trip.",
+            "translation_zh_TW": "我們旅行時的天氣非常糟糕。"
+          }
+        ],
+        "synonyms": [
+          "terrible",
+          "awful"
+        ]
+      }
+    ],
+    "confusion": [
+      "deadful",
+      "dreamful",
+      "dread",
+      "dreadfully"
+    ]
+  },
+  {
+    "word": "envision",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To imagine or conceive of something in the future.",
+        "meaning_zh_TW": "想像、預見",
+        "wrong_meaning_zh_TW": [
+          "實際執行",
+          "避免失誤",
+          "加強訓練"
+        ],
+        "examples": [
+          {
+            "sentence": "She began to [envision] her future career.",
+            "translation_zh_TW": "她開始想像她的未來職業。"
+          },
+          {
+            "sentence": "It's important to [envision] success before attempting.",
+            "translation_zh_TW": "在嘗試之前想像成功是很重要的。"
+          },
+          {
+            "sentence": "He could [envision] a world without war.",
+            "translation_zh_TW": "他能想像一個沒有戰爭的世界。"
+          }
+        ],
+        "synonyms": [
+          "imagine",
+          "visualize"
+        ]
+      }
+    ],
+    "confusion": [
+      "envy",
+      "evident",
+      "envisioned",
+      "envisions"
+    ]
+  },
+  {
+    "word": "inject",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To introduce a substance into something, generally using a syringe or similar device.",
+        "meaning_zh_TW": "注射",
+        "wrong_meaning_zh_TW": [
+          "刪除",
+          "吸入",
+          "擴展"
+        ],
+        "examples": [
+          {
+            "sentence": "The nurse will [inject] the vaccine.",
+            "translation_zh_TW": "護士將注射疫苗"
+          },
+          {
+            "sentence": "Doctors can [inject] medication directly into the bloodstream.",
+            "translation_zh_TW": "醫生可以將藥物直接注射到血液中"
+          },
+          {
+            "sentence": "It's important to [inject] the disinfectant thoroughly.",
+            "translation_zh_TW": "徹底注射消毒劑是很重要的"
+          }
+        ],
+        "synonyms": [
+          "introduce",
+          "administer"
+        ]
+      }
+    ],
+    "confusion": [
+      "inspector",
+      "injection",
+      "interject",
+      "indict"
+    ]
+  },
+  {
+    "word": "adore",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To love and respect someone deeply.",
+        "meaning_zh_TW": "熱愛",
+        "wrong_meaning_zh_TW": [
+          "討厭",
+          "忽視",
+          "不屑"
+        ],
+        "examples": [
+          {
+            "sentence": "I [adore] my grandmother.",
+            "translation_zh_TW": "我熱愛我的祖母。"
+          },
+          {
+            "sentence": "They [adore] the way he plays the guitar.",
+            "translation_zh_TW": "他們熱愛他彈吉他的方式。"
+          },
+          {
+            "sentence": "She [adores] her pet cat.",
+            "translation_zh_TW": "她熱愛她的寵物貓。"
+          }
+        ],
+        "synonyms": [
+          "love",
+          "admire"
+        ]
+      }
+    ],
+    "confusion": [
+      "ignore",
+      "abhor",
+      "restore",
+      "core"
+    ]
+  },
+  {
+    "word": "indifferent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having no particular interest or concern; apathetic.",
+        "meaning_zh_TW": "冷漠的",
+        "wrong_meaning_zh_TW": [
+          "熱心的",
+          "關心的",
+          "積極的"
+        ],
+        "examples": [
+          {
+            "sentence": "She remained [indifferent] to the chaos around her.",
+            "translation_zh_TW": "她對周圍的混亂保持冷漠"
+          },
+          {
+            "sentence": "His [indifferent] attitude upset many people.",
+            "translation_zh_TW": "他冷漠的態度讓很多人不滿"
+          },
+          {
+            "sentence": "Being [indifferent] can sometimes be interpreted as apathy.",
+            "translation_zh_TW": "冷漠有時會被解讀為無動於衷"
+          }
+        ],
+        "synonyms": [
+          "apathetic",
+          "uninterested"
+        ]
+      }
+    ],
+    "confusion": [
+      "indifference",
+      "indiff",
+      "indecent",
+      "indifferentt"
+    ]
+  },
+  {
+    "word": "rattle",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a rapid series of short loud noises.",
+        "meaning_zh_TW": "發出聲音",
+        "wrong_meaning_zh_TW": [
+          "輕聲細語",
+          "悄悄移動",
+          "安靜無聲"
+        ],
+        "examples": [
+          {
+            "sentence": "The wind began to [rattle] the windows.",
+            "translation_zh_TW": "風開始使窗戶發出聲音"
+          },
+          {
+            "sentence": "He tried to [rattle] his opponent’s confidence.",
+            "translation_zh_TW": "他試圖搖動對手的信心"
+          },
+          {
+            "sentence": "The baby liked the sound of the [rattle].",
+            "translation_zh_TW": "寶寶喜歡搖鈴的聲音"
+          }
+        ],
+        "synonyms": [
+          "shake",
+          "clatter"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A rapid series of short, sharp sounds.",
+        "meaning_zh_TW": "快速的一系列短促尖銳的聲音",
+        "wrong_meaning_zh_TW": [
+          "悅耳的樂曲",
+          "平和的靜默",
+          "低頻共鳴"
+        ],
+        "examples": [
+          {
+            "sentence": "The [rattle] of the train kept her awake.",
+            "translation_zh_TW": "火車的轟轟聲讓她無法入睡"
+          },
+          {
+            "sentence": "He heard the [rattle] of coins in the jar.",
+            "translation_zh_TW": "他聽到罐子裡硬幣的響聲"
+          },
+          {
+            "sentence": "A sudden [rattle] startled the entire audience.",
+            "translation_zh_TW": "突然的噪音驚嚇了整個觀眾"
+          }
+        ],
+        "synonyms": [
+          "clatter",
+          "noise"
+        ]
+      }
+    ],
+    "confusion": [
+      "battle",
+      "rattled",
+      "rattletrap",
+      "rattlesnake"
+    ]
+  },
+  {
+    "word": "outsider",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is not a member of a particular group or organization.",
+        "meaning_zh_TW": "外部人士、局外人",
+        "wrong_meaning_zh_TW": [
+          "內部成員",
+          "支持者",
+          "客戶"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt like an [outsider] at the party.",
+            "translation_zh_TW": "他在聚會上感覺像個局外人。"
+          },
+          {
+            "sentence": "The [outsider] was treated with skepticism.",
+            "translation_zh_TW": "這位外部人士受到懷疑的對待。"
+          },
+          {
+            "sentence": "Being an [outsider] can be quite challenging.",
+            "translation_zh_TW": "作為外部人士可能會很具挑戰性。"
+          }
+        ],
+        "synonyms": [
+          "stranger",
+          "alien"
+        ]
+      }
+    ],
+    "confusion": [
+      "insider",
+      "outliner",
+      "outsell",
+      "outshone"
+    ]
+  },
+  {
+    "word": "barren",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Land that is too poor to produce much or any vegetation.",
+        "meaning_zh_TW": "貧瘠的",
+        "wrong_meaning_zh_TW": [
+          "肥沃的",
+          "繁茂的",
+          "富饒的"
+        ],
+        "examples": [
+          {
+            "sentence": "The landscape was [barren], with only a few scattered shrubs.",
+            "translation_zh_TW": "這片土地貧瘠，只有幾棵零星的灌木。"
+          },
+          {
+            "sentence": "They were unable to farm on the [barren] soil.",
+            "translation_zh_TW": "他們無法在貧瘠的土壤上耕作。"
+          },
+          {
+            "sentence": "The region was known for its [barren] and desolate terrain.",
+            "translation_zh_TW": "這個地區以貧瘠和荒涼的地形而聞名。"
+          }
+        ],
+        "synonyms": [
+          "desolate",
+          "infertile"
+        ]
+      }
+    ],
+    "confusion": [
+      "baron",
+      "barn",
+      "barrier",
+      "barrenly"
+    ]
+  },
+  {
+    "word": "plead",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make an emotional appeal or request.",
+        "meaning_zh_TW": "懇求",
+        "wrong_meaning_zh_TW": [
+          "拒絕",
+          "控告",
+          "施壓"
+        ],
+        "examples": [
+          {
+            "sentence": "She [plead] for mercy.",
+            "translation_zh_TW": "她懇求寬恕。"
+          },
+          {
+            "sentence": "He decided to [plead] his innocence.",
+            "translation_zh_TW": "他決定為自己的清白辯護。"
+          },
+          {
+            "sentence": "They [plead] with the government to change the laws.",
+            "translation_zh_TW": "他們懇求政府改變法律。"
+          }
+        ],
+        "synonyms": [
+          "petition",
+          "implore"
+        ]
+      }
+    ],
+    "confusion": [
+      "plead's",
+      "pleadable",
+      "plea",
+      "pleaser"
+    ]
+  },
+  {
+    "word": "vow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a solemn promise.",
+        "meaning_zh_TW": "發誓",
+        "wrong_meaning_zh_TW": [
+          "懺悔",
+          "放棄",
+          "結束"
+        ],
+        "examples": [
+          {
+            "sentence": "They [vow] to support each other always.",
+            "translation_zh_TW": "他們發誓永遠支持對方"
+          },
+          {
+            "sentence": "She made a [vow] to improve her life.",
+            "translation_zh_TW": "她發誓要改善她的生活"
+          },
+          {
+            "sentence": "He took a [vow] of silence.",
+            "translation_zh_TW": "他發誓保持沉默"
+          }
+        ],
+        "synonyms": [
+          "promise",
+          "pledge"
+        ]
+      }
+    ],
+    "confusion": [
+      "wow",
+      "vowel",
+      "vower",
+      "vows"
+    ]
+  },
+  {
+    "word": "commentator",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who provides commentary on events, especially in sports.",
+        "meaning_zh_TW": "評論員",
+        "wrong_meaning_zh_TW": [
+          "參與者",
+          "觀眾",
+          "記者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [commentator] explained the strategies used in the game.",
+            "translation_zh_TW": "評論員解釋了比賽中使用的策略。"
+          },
+          {
+            "sentence": "As a sports [commentator], he is well-respected.",
+            "translation_zh_TW": "作為一名體育評論員，他備受尊敬。"
+          },
+          {
+            "sentence": "The [commentator]'s insights were invaluable.",
+            "translation_zh_TW": "評論員的見解是無價的。"
+          }
+        ],
+        "synonyms": [
+          "analyst",
+          "broadcaster"
+        ]
+      }
+    ],
+    "confusion": [
+      "commantator",
+      "commentry",
+      "commentor",
+      "commenter"
+    ]
+  },
+  {
+    "word": "conceal",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To keep something hidden or secret.",
+        "meaning_zh_TW": "隱藏",
+        "wrong_meaning_zh_TW": [
+          "展示",
+          "公開",
+          "揭露"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [conceal] his feelings.",
+            "translation_zh_TW": "他試著隱藏自己的感情。"
+          },
+          {
+            "sentence": "The evidence was [concealed] under a pile of papers.",
+            "translation_zh_TW": "證據被藏在一堆文件下。"
+          },
+          {
+            "sentence": "She did not [conceal] her excitement.",
+            "translation_zh_TW": "她沒有隱藏自己的興奮。"
+          }
+        ],
+        "synonyms": [
+          "hide",
+          "mask"
+        ]
+      }
+    ],
+    "confusion": [
+      "concede",
+      "conseal",
+      "conceiver",
+      "concede"
+    ]
+  },
+  {
+    "word": "sentimental",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of or prompted by feelings of tenderness, sadness, or nostalgia.",
+        "meaning_zh_TW": "感傷的,感性的",
+        "wrong_meaning_zh_TW": [
+          "實用的、現實的",
+          "剛硬的、冷漠的",
+          "忙碌的、令人煩惱的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is often [sentimental] about her childhood.",
+            "translation_zh_TW": "她常常對她的童年感到懷舊。"
+          },
+          {
+            "sentence": "The movie was too [sentimental] for my taste.",
+            "translation_zh_TW": "對我來說這部電影太感傷了。"
+          },
+          {
+            "sentence": "He keeps [sentimental] items from his travels.",
+            "translation_zh_TW": "他保留了旅行中的感性物品。"
+          }
+        ],
+        "synonyms": [
+          "emotional",
+          "nostalgic"
+        ]
+      }
+    ],
+    "confusion": [
+      "sensitive",
+      "sentiment",
+      "sententious",
+      "sentimentalism"
+    ]
+  },
+  {
+    "word": "stumble",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To trip or lose balance while walking or running.",
+        "meaning_zh_TW": "絆倒",
+        "wrong_meaning_zh_TW": [
+          "跳躍",
+          "平穩地移動",
+          "轉向"
+        ],
+        "examples": [
+          {
+            "sentence": "He [stumbled] over a rock while hiking.",
+            "translation_zh_TW": "他在徒步旅行時絆倒在一塊石頭上。"
+          },
+          {
+            "sentence": "I tend to [stumble] when I am nervous.",
+            "translation_zh_TW": "我緊張時容易絆倒。"
+          },
+          {
+            "sentence": "She [stumbled] through her speech due to anxiety.",
+            "translation_zh_TW": "她因焦慮而在演講中絆倒了。"
+          }
+        ],
+        "synonyms": [
+          "trip",
+          "falter"
+        ]
+      }
+    ],
+    "confusion": [
+      "stombel",
+      "stamble",
+      "stumbler",
+      "stumps"
+    ]
+  },
+  {
+    "word": "scramble",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move quickly and with difficulty, often using the hands to help.",
+        "meaning_zh_TW": "爬行",
+        "wrong_meaning_zh_TW": [
+          "跳舞",
+          "放鬆",
+          "靜止"
+        ],
+        "examples": [
+          {
+            "sentence": "They had to [scramble] up the hill to catch the bus.",
+            "translation_zh_TW": "他們不得不爬上山去追上公車"
+          },
+          {
+            "sentence": "The kids [scrambled] to get their sandwiches.",
+            "translation_zh_TW": "孩子們爭先恐後地去拿他們的三明治"
+          },
+          {
+            "sentence": "Please [scramble] the eggs for breakfast.",
+            "translation_zh_TW": "請為早餐炒雞蛋"
+          }
+        ],
+        "synonyms": [
+          "climb",
+          "hasten"
+        ]
+      }
+    ],
+    "confusion": [
+      "scramble",
+      "scraple",
+      "scrummage",
+      "cramble"
+    ]
+  },
+  {
+    "word": "descend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move or fall downward.",
+        "meaning_zh_TW": "下降",
+        "wrong_meaning_zh_TW": [
+          "上升",
+          "稍微移動",
+          "懸空"
+        ],
+        "examples": [
+          {
+            "sentence": "As the sun began to [descend], the sky turned orange.",
+            "translation_zh_TW": "隨著太陽開始下降，天空變成了橙色"
+          },
+          {
+            "sentence": "We will [descend] into the valley after the hike.",
+            "translation_zh_TW": "徒步旅行後我們會下降到山谷"
+          },
+          {
+            "sentence": "The plane will [descend] for landing soon.",
+            "translation_zh_TW": "飛機將很快下降著陸"
+          }
+        ],
+        "synonyms": [
+          "sink",
+          "drop"
+        ]
+      }
+    ],
+    "confusion": [
+      "descendant",
+      "ascend",
+      "descended",
+      "descent"
+    ]
+  },
+  {
+    "word": "gasp",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To breathe in suddenly and audibly, often in shock or surprise.",
+        "meaning_zh_TW": "喘不過氣",
+        "wrong_meaning_zh_TW": [
+          "大聲呼喊",
+          "平靜呼吸",
+          "微笑"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave a [gasp] of surprise when she saw the gift.",
+            "translation_zh_TW": "她看到禮物時驚呼"
+          },
+          {
+            "sentence": "He couldn't help but [gasp] at the stunning view.",
+            "translation_zh_TW": "他忍不住對壯觀的景色吸了一口氣"
+          },
+          {
+            "sentence": "The audience let out a collective [gasp] when the performer took a leap.",
+            "translation_zh_TW": "當表演者跳躍時，觀眾發出驚呼"
+          }
+        ],
+        "synonyms": [
+          "breathe",
+          "sigh"
+        ]
+      }
+    ],
+    "confusion": [
+      "gossip",
+      "gasoline",
+      "gaze",
+      "gap"
+    ]
+  }
+]

@@ -1,0 +1,780 @@
+[
+  {
+    "word": "pineapple",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tropical fruit with a rough, spiky exterior and sweet, juicy flesh.",
+        "meaning_zh_TW": "鳳梨",
+        "wrong_meaning_zh_TW": [
+          "水果沙拉",
+          "果醬",
+          "橙子"
+        ],
+        "examples": [
+          {
+            "sentence": "She bought a fresh [pineapple] from the market.",
+            "translation_zh_TW": "她從市場上買了一個新鮮的鳳梨。"
+          },
+          {
+            "sentence": "Pineapple is great on pizza or in smoothies.",
+            "translation_zh_TW": "鳳梨在披薩或奶昔中都很好。"
+          },
+          {
+            "sentence": "He loves the tropical flavor of [pineapple].",
+            "translation_zh_TW": "他喜愛鳳梨的熱帶風味。"
+          }
+        ],
+        "synonyms": [
+          "tropical fruit"
+        ]
+      }
+    ],
+    "confusion": [
+      "pine",
+      "penapple",
+      "pinapple",
+      "pipe"
+    ]
+  },
+  {
+    "word": "sincere",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Free from pretense or deceit; genuine.",
+        "meaning_zh_TW": "真誠的，誠懇的",
+        "wrong_meaning_zh_TW": [
+          "虛情假意的",
+          "欺騙的",
+          "不誠實的"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave a [sincere] apology.",
+            "translation_zh_TW": "她誠懇地道歉"
+          },
+          {
+            "sentence": "His [sincere] interest in helping was appreciated.",
+            "translation_zh_TW": "他真誠的幫助興趣受到讚賞"
+          },
+          {
+            "sentence": "They offered a [sincere] invitation to the event.",
+            "translation_zh_TW": "他們誠懇地邀請參加活動"
+          }
+        ],
+        "synonyms": [
+          "genuine",
+          "honest"
+        ]
+      }
+    ],
+    "confusion": [
+      "insincere",
+      "since",
+      "sincerity",
+      "siner"
+    ]
+  },
+  {
+    "word": "nap",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To sleep lightly or briefly.",
+        "meaning_zh_TW": "小睡",
+        "wrong_meaning_zh_TW": [
+          "激烈地睡",
+          "長時間沉睡",
+          "冥想"
+        ],
+        "examples": [
+          {
+            "sentence": "I like to [nap] during the day.",
+            "translation_zh_TW": "我喜歡在白天小睡"
+          },
+          {
+            "sentence": "He took a quick [nap] on the couch.",
+            "translation_zh_TW": "他在沙發上小睡了一會兒"
+          },
+          {
+            "sentence": "A short [nap] can refresh your mind.",
+            "translation_zh_TW": "短暫的小睡可以讓你的頭腦清醒"
+          }
+        ],
+        "synonyms": [
+          "doze",
+          "snooze"
+        ]
+      }
+    ],
+    "confusion": [
+      "naps",
+      "napper",
+      "nappa",
+      "neap"
+    ]
+  },
+  {
+    "word": "scissors",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An instrument used for cutting, consisting of two blades that pivot, with handles on each end.",
+        "meaning_zh_TW": "剪刀",
+        "wrong_meaning_zh_TW": [
+          "刀具",
+          "鉗子",
+          "兜子"
+        ],
+        "examples": [
+          {
+            "sentence": "I used [scissors] to cut the paper.",
+            "translation_zh_TW": "我用剪刀剪了那張紙"
+          },
+          {
+            "sentence": "Please hand me the [scissors] on the table.",
+            "translation_zh_TW": "請把桌子上的剪刀遞給我"
+          },
+          {
+            "sentence": "The children were excited to use [scissors] for their crafts.",
+            "translation_zh_TW": "孩子們對使用剪刀做手工非常興奮"
+          }
+        ],
+        "synonyms": [
+          "shears",
+          "cutters"
+        ]
+      }
+    ],
+    "confusion": [
+      "scissers",
+      "sciser",
+      "scisors",
+      "sissors"
+    ]
+  },
+  {
+    "word": "misery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A state or feeling of great distress or discomfort.",
+        "meaning_zh_TW": "極大的痛苦",
+        "wrong_meaning_zh_TW": [
+          "快樂的時刻",
+          "興奮的體驗",
+          "幸福的生活"
+        ],
+        "examples": [
+          {
+            "sentence": "He lived in [misery] after losing his job.",
+            "translation_zh_TW": "失去工作後，他過著痛苦的生活"
+          },
+          {
+            "sentence": "Many people experience [misery] due to poverty.",
+            "translation_zh_TW": "由於貧困，許多人都經歷了痛苦"
+          },
+          {
+            "sentence": "The book describes the character's [misery].",
+            "translation_zh_TW": "這本書描述了角色的痛苦"
+          }
+        ],
+        "synonyms": [
+          "suffering",
+          "distress"
+        ]
+      }
+    ],
+    "confusion": [
+      "miser",
+      "miserably",
+      "misere",
+      "missery"
+    ]
+  },
+  {
+    "word": "envy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.",
+        "meaning_zh_TW": "羨慕、嫉妒",
+        "wrong_meaning_zh_TW": [
+          "快樂",
+          "誠實",
+          "友好"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt a pang of [envy] when she saw her friend's new car.",
+            "translation_zh_TW": "當她看到朋友的新車時，感到一陣羨慕。"
+          },
+          {
+            "sentence": "His success did not inspire [envy] in his peers.",
+            "translation_zh_TW": "他的成功並沒有激起同儕的嫉妒。"
+          },
+          {
+            "sentence": "They say that [envy] is a normal human emotion.",
+            "translation_zh_TW": "他們說羨慕是一種正常的人類情感。"
+          }
+        ],
+        "synonyms": [
+          "jealousy",
+          "covetousness"
+        ]
+      }
+    ],
+    "confusion": [
+      "envoy",
+      "envyingly",
+      "endow",
+      "envious"
+    ]
+  },
+  {
+    "word": "rumor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A story or statement in general circulation without confirmation or certainty as to facts.",
+        "meaning_zh_TW": "謠言",
+        "wrong_meaning_zh_TW": [
+          "消息來源",
+          "直接證據",
+          "社交媒體"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [rumor] that the school would close.",
+            "translation_zh_TW": "有謠言說學校將會關閉。"
+          },
+          {
+            "sentence": "She heard a [rumor] about a possible merger.",
+            "translation_zh_TW": "她聽到了關於可能合併的謠言。"
+          },
+          {
+            "sentence": "The [rumor] spread quickly through the office.",
+            "translation_zh_TW": "這個謠言在辦公室迅速傳開。"
+          }
+        ],
+        "synonyms": [
+          "gossip",
+          "news"
+        ]
+      }
+    ],
+    "confusion": [
+      "rumors",
+      "roamer",
+      "rumour",
+      "rummor"
+    ]
+  },
+  {
+    "word": "zipper",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fastening device consisting of two flexible strips of material, with interlocking metal or plastic teeth.",
+        "meaning_zh_TW": "拉鍊",
+        "wrong_meaning_zh_TW": [
+          "鈕扣",
+          "扣子",
+          "拉環"
+        ],
+        "examples": [
+          {
+            "sentence": "He pulled up the [zipper] on his jacket.",
+            "translation_zh_TW": "他拉起了夾克上的拉鍊。"
+          },
+          {
+            "sentence": "The [zipper] got stuck, and I had to fix it.",
+            "translation_zh_TW": "拉鍊卡住了，我不得不修理它。"
+          },
+          {
+            "sentence": "Make sure the [zipper] is closed before washing.",
+            "translation_zh_TW": "在洗衣前確保拉鍊關閉。"
+          }
+        ],
+        "synonyms": [
+          "fastener",
+          "closure"
+        ]
+      }
+    ],
+    "confusion": [
+      "zipperss",
+      "zippier",
+      "zipurr",
+      "zipe"
+    ]
+  },
+  {
+    "word": "robbery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of taking property unlawfully from a person or place by force or threat.",
+        "meaning_zh_TW": "搶劫",
+        "wrong_meaning_zh_TW": [
+          "借貸",
+          "經濟學",
+          "捐款"
+        ],
+        "examples": [
+          {
+            "sentence": "The police are investigating the recent [robbery] in the area.",
+            "translation_zh_TW": "警方正在調查該地區最近的搶劫事件。"
+          },
+          {
+            "sentence": "He was arrested for his involvement in the [robbery].",
+            "translation_zh_TW": "他因參與搶劫而被逮捕。"
+          },
+          {
+            "sentence": "Witnesses reported a [robbery] at the convenience store.",
+            "translation_zh_TW": "目擊者報告說便利商店發生搶劫。"
+          }
+        ],
+        "synonyms": [
+          "heist",
+          "burglary"
+        ]
+      }
+    ],
+    "confusion": [
+      "rob",
+      "lob",
+      "trophy",
+      "robot"
+    ]
+  },
+  {
+    "word": "chimney",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A vertical structure that conveys smoke or gases from a fireplace or stove to the outside air.",
+        "meaning_zh_TW": "煙囪",
+        "wrong_meaning_zh_TW": [
+          "圓柱體",
+          "籃球",
+          "電梯"
+        ],
+        "examples": [
+          {
+            "sentence": "The smoke rose from the [chimney] into the sky.",
+            "translation_zh_TW": "煙霧從煙囪升向天空"
+          },
+          {
+            "sentence": "Santa Claus comes down the [chimney] on Christmas Eve.",
+            "translation_zh_TW": "聖誕老人會在平安夜從煙囪裡進來"
+          },
+          {
+            "sentence": "We noticed the [chimney] needed cleaning.",
+            "translation_zh_TW": "我們注意到煙囪需要清理"
+          }
+        ],
+        "synonyms": [
+          "flue",
+          "stack"
+        ]
+      }
+    ],
+    "confusion": [
+      "chummy",
+      "chimera",
+      "chime",
+      "chilly"
+    ]
+  },
+  {
+    "word": "indoors",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Within a building; inside.",
+        "meaning_zh_TW": "室內.",
+        "wrong_meaning_zh_TW": [
+          "戶外",
+          "地底",
+          "高空"
+        ],
+        "examples": [
+          {
+            "sentence": "We stayed [indoors] because of the bad weather.",
+            "translation_zh_TW": "由於天氣惡劣，我們待在室內。"
+          },
+          {
+            "sentence": "It's much warmer [indoors] during winter.",
+            "translation_zh_TW": "冬天在室內要暖和得多。"
+          },
+          {
+            "sentence": "They usually play games [indoors] when it rains.",
+            "translation_zh_TW": "當下雨時，他們通常會在室內玩遊戲。"
+          }
+        ],
+        "synonyms": [
+          "inside",
+          "interior"
+        ]
+      }
+    ],
+    "confusion": [
+      "indoor",
+      "indoorsy",
+      "indoor-outdoor",
+      "indoorsy"
+    ]
+  },
+  {
+    "word": "flashlight",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A portable hand-held electric light.",
+        "meaning_zh_TW": "手電筒",
+        "wrong_meaning_zh_TW": [
+          "燭光",
+          "照相機",
+          "燈泡"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [flashlight] to navigate through the dark cave.",
+            "translation_zh_TW": "他使用手電筒在黑暗的洞穴中導航。"
+          },
+          {
+            "sentence": "The [flashlight] was critical during the power outage.",
+            "translation_zh_TW": "在停電期間，手電筒至關重要。"
+          },
+          {
+            "sentence": "She always keeps a [flashlight] in her emergency kit.",
+            "translation_zh_TW": "她總是在緊急工具包中放一個手電筒。"
+          }
+        ],
+        "synonyms": [
+          "torch",
+          "lantern"
+        ]
+      }
+    ],
+    "confusion": [
+      "flashlight",
+      "flaslight",
+      "flashligt",
+      "flashelight"
+    ]
+  },
+  {
+    "word": "scarce",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Insufficient to satisfy the needs or demands; not plentiful.",
+        "meaning_zh_TW": "稀少的",
+        "wrong_meaning_zh_TW": [
+          "豐富的",
+          "容易的",
+          "快樂的"
+        ],
+        "examples": [
+          {
+            "sentence": "Water is becoming [scarce] in many regions.",
+            "translation_zh_TW": "在許多地區，水變得稀少。"
+          },
+          {
+            "sentence": "Food was [scarce] during the drought.",
+            "translation_zh_TW": "在乾旱期間，食物稀少。"
+          },
+          {
+            "sentence": "Jobs for unskilled workers are [scarce].",
+            "translation_zh_TW": "對於無技能勞動者的工作稀少。"
+          }
+        ],
+        "synonyms": [
+          "rare",
+          "limited"
+        ]
+      }
+    ],
+    "confusion": [
+      "scare",
+      "scale",
+      "scar",
+      "scarecrow"
+    ]
+  },
+  {
+    "word": "rag",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of old cloth, especially one torn from a larger piece.",
+        "meaning_zh_TW": "破布",
+        "wrong_meaning_zh_TW": [
+          "傢俱",
+          "裝飾",
+          "玩具"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [rag] to wipe the table.",
+            "translation_zh_TW": "他用一塊破布擦拭桌子。"
+          },
+          {
+            "sentence": "She found a [rag] in the garage.",
+            "translation_zh_TW": "她在車庫裡找到了破布。"
+          },
+          {
+            "sentence": "The old [rag] was perfect for cleaning.",
+            "translation_zh_TW": "那塊舊破布非常適合清潔。"
+          }
+        ],
+        "synonyms": [
+          "cloth",
+          "scrap"
+        ]
+      }
+    ],
+    "confusion": [
+      "ragged",
+      "ragging",
+      "Ray",
+      "raggedy"
+    ]
+  },
+  {
+    "word": "absorb",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take in or soak up a substance.",
+        "meaning_zh_TW": "吸收",
+        "wrong_meaning_zh_TW": [
+          "釋放",
+          "排斥",
+          "丟棄"
+        ],
+        "examples": [
+          {
+            "sentence": "Plants [absorb] water through their roots.",
+            "translation_zh_TW": "植物通過其根部吸收水分。"
+          },
+          {
+            "sentence": "The sponge can [absorb] a lot of liquid.",
+            "translation_zh_TW": "海綿能夠吸收大量液體。"
+          },
+          {
+            "sentence": "Your skin can also [absorb] some nutrients.",
+            "translation_zh_TW": "你的皮膚也能吸收一些營養素。"
+          }
+        ],
+        "synonyms": [
+          "soak up",
+          "take in"
+        ]
+      }
+    ],
+    "confusion": [
+      "advert",
+      "assorb",
+      "abuse",
+      "abstract"
+    ]
+  },
+  {
+    "word": "ditch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A narrow channel dug in the ground, typically used for drainage.",
+        "meaning_zh_TW": "溝渠",
+        "wrong_meaning_zh_TW": [
+          "河流",
+          "湖泊",
+          "水池"
+        ],
+        "examples": [
+          {
+            "sentence": "The farmer dug a [ditch] to help with drainage.",
+            "translation_zh_TW": "農夫挖了一條溝渠來幫助排水。"
+          },
+          {
+            "sentence": "We saw frogs jumping in the [ditch].",
+            "translation_zh_TW": "我們看到青蛙在溝渠裡跳。"
+          },
+          {
+            "sentence": "The [ditch] needs to be cleaned out.",
+            "translation_zh_TW": "這條溝渠需要清理。"
+          }
+        ],
+        "synonyms": [
+          "trench",
+          "gutter"
+        ]
+      }
+    ],
+    "confusion": [
+      "dutch",
+      "itch",
+      "match",
+      "diddle"
+    ]
+  },
+  {
+    "word": "dragonfly",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An insect characterized by large, multifaceted eyes, two pairs of strong transparent wings, and an elongated body.",
+        "meaning_zh_TW": "蜻蜓",
+        "wrong_meaning_zh_TW": [
+          "螳螂",
+          "蝴蝶",
+          "蜜蜂"
+        ],
+        "examples": [
+          {
+            "sentence": "The [dragonfly] hovered above the pond.",
+            "translation_zh_TW": "蜻蜓在池塘上方盤旋"
+          },
+          {
+            "sentence": "We saw a beautiful [dragonfly] resting on a leaf.",
+            "translation_zh_TW": "我們看到一隻漂亮的蜻蜓栖息在葉子上"
+          },
+          {
+            "sentence": "The [dragonfly] flew swiftly over the water.",
+            "translation_zh_TW": "蜻蜓在水面上方迅速飛翔"
+          }
+        ],
+        "synonyms": [
+          "libellula"
+        ]
+      }
+    ],
+    "confusion": [
+      "dragonflye",
+      "dragonly",
+      "dragoonfly",
+      "dragonlye"
+    ]
+  },
+  {
+    "word": "scrub",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To clean (something) by rubbing it hard with a brush or cloth.",
+        "meaning_zh_TW": "擦洗",
+        "wrong_meaning_zh_TW": [
+          "噴灑",
+          "放置",
+          "埋藏"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a brush to [scrub] the dirty floor.",
+            "translation_zh_TW": "她用刷子擦洗髒地板"
+          },
+          {
+            "sentence": "You need to [scrub] the pots after cooking.",
+            "translation_zh_TW": "煮完飯後你需要擦洗鍋"
+          },
+          {
+            "sentence": "He spent the afternoon [scrubbing] the car.",
+            "translation_zh_TW": "他花了一個下午在擦洗車子"
+          }
+        ],
+        "synonyms": [
+          "clean",
+          "wash"
+        ]
+      }
+    ],
+    "confusion": [
+      "scrubs",
+      "scrup",
+      "srob",
+      "scrubed"
+    ]
+  },
+  {
+    "word": "limb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A leg or arm of a human or animal.",
+        "meaning_zh_TW": "四肢",
+        "wrong_meaning_zh_TW": [
+          "智能",
+          "部分",
+          "樹枝"
+        ],
+        "examples": [
+          {
+            "sentence": "He injured his [limb] during the game.",
+            "translation_zh_TW": "他在比賽中受傷了四肢。"
+          },
+          {
+            "sentence": "The creature has six [limbs] to aid in movement.",
+            "translation_zh_TW": "這種生物有六肢來幫助移動。"
+          },
+          {
+            "sentence": "Each [limb] moved gracefully as she danced.",
+            "translation_zh_TW": "她跳舞時，每個肢體都優雅地移動。"
+          }
+        ],
+        "synonyms": [
+          "appendage",
+          "extremity"
+        ]
+      }
+    ],
+    "confusion": [
+      "limbs",
+      "limn",
+      "lamp",
+      "limbo"
+    ]
+  },
+  {
+    "word": "tricky",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Hard to deal with or understand; requiring skill or cleverness.",
+        "meaning_zh_TW": "難對付的",
+        "wrong_meaning_zh_TW": [
+          "簡單的",
+          "直接的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "The puzzle was too [tricky] for him to solve.",
+            "translation_zh_TW": "這個拼圖對他來說太難對付了。"
+          },
+          {
+            "sentence": "She gave him a [tricky] question in the exam.",
+            "translation_zh_TW": "她在考試中給了他一個難題。"
+          },
+          {
+            "sentence": "Navigating the city can be quite [tricky] at night.",
+            "translation_zh_TW": "在夜間穿越城市可能相當困難。"
+          }
+        ],
+        "synonyms": [
+          "challenging",
+          "deceptive"
+        ]
+      }
+    ],
+    "confusion": [
+      "trick",
+      "trickster",
+      "trickle",
+      "trickling"
+    ]
+  }
+]

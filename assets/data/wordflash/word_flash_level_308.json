@@ -1,0 +1,776 @@
+[
+  {
+    "word": "frantic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Wild or distraught with fear, anxiety, or other emotions.",
+        "meaning_zh_TW": "發狂的",
+        "wrong_meaning_zh_TW": [
+          "安靜的",
+          "平靜的",
+          "穩定的"
+        ],
+        "examples": [
+          {
+            "sentence": "She made a [frantic] call for help.",
+            "translation_zh_TW": "她發出了一個發狂的求助電話。"
+          },
+          {
+            "sentence": "His [frantic] search for his missing dog lasted hours.",
+            "translation_zh_TW": "他為了尋找失踪的狗而發狂的搜索持續了幾個小時。"
+          },
+          {
+            "sentence": "The children were [frantic] with excitement at the carnival.",
+            "translation_zh_TW": "孩子們在狂歡節上興奮得發狂。"
+          }
+        ],
+        "synonyms": [
+          "hysterical",
+          "desperate",
+          "frenzied"
+        ]
+      }
+    ],
+    "confusion": [
+      "fantastic",
+      "franticly",
+      "frank",
+      "franker"
+    ]
+  },
+  {
+    "word": "dictatorship",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A form of government in which absolute power is concentrated in a dictator.",
+        "meaning_zh_TW": "獨裁統治",
+        "wrong_meaning_zh_TW": [
+          "民主制度",
+          "行政部門",
+          "兵役"
+        ],
+        "examples": [
+          {
+            "sentence": "The country suffered under a brutal [dictatorship].",
+            "translation_zh_TW": "這個國家在殘酷的獨裁統治下受苦。"
+          },
+          {
+            "sentence": "Many citizens opposed the [dictatorship] and fought for their rights.",
+            "translation_zh_TW": "許多公民反對獨裁統治，為他們的權利而戰。"
+          },
+          {
+            "sentence": "The fall of the [dictatorship] brought about significant change.",
+            "translation_zh_TW": "獨裁統治的垮台帶來了重大變化。"
+          }
+        ],
+        "synonyms": [
+          "autocracy",
+          "tyranny",
+          "despotism"
+        ]
+      }
+    ],
+    "confusion": [
+      "dictate",
+      "dictionary",
+      "dictatorial",
+      "dictateorship"
+    ]
+  },
+  {
+    "word": "plow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To turn over the soil using a plow.",
+        "meaning_zh_TW": "耕作",
+        "wrong_meaning_zh_TW": [
+          "翻譯",
+          "移動",
+          "玩笑"
+        ],
+        "examples": [
+          {
+            "sentence": "Farmers [plow] the fields in spring.",
+            "translation_zh_TW": "農民在春天耕作田地。"
+          },
+          {
+            "sentence": "We need to [plow] the garden before planting.",
+            "translation_zh_TW": "在播種之前，我們需要耕作花園。"
+          },
+          {
+            "sentence": "He uses a tractor to [plow] the land.",
+            "translation_zh_TW": "他用拖拉機耕作土地。"
+          }
+        ],
+        "synonyms": [
+          "till",
+          "cultivate"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool used to turn over the soil.",
+        "meaning_zh_TW": "犁",
+        "wrong_meaning_zh_TW": [
+          "鏟子",
+          "斧頭",
+          "水管"
+        ],
+        "examples": [
+          {
+            "sentence": "The farmer bought a new [plow] for the season.",
+            "translation_zh_TW": "農夫為這個季節買了一把新的犁。"
+          },
+          {
+            "sentence": "A [plow] helps to aerate the soil.",
+            "translation_zh_TW": "犁有助於通氣土壤。"
+          },
+          {
+            "sentence": "He attached the [plow] to his tractor.",
+            "translation_zh_TW": "他把犁連接到拖拉機上。"
+          }
+        ],
+        "synonyms": [
+          "tiller",
+          "cultivator"
+        ]
+      }
+    ],
+    "confusion": [
+      "plough",
+      "plover",
+      "plows",
+      "paw"
+    ]
+  },
+  {
+    "word": "blot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A spot or stain, typically of ink or other substance.",
+        "meaning_zh_TW": "污漬",
+        "wrong_meaning_zh_TW": [
+          "圓點",
+          "圖案",
+          "邊界"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a blot on the page.",
+            "translation_zh_TW": "頁面上有一個污漬。"
+          },
+          {
+            "sentence": "He tried to remove the ink blot.",
+            "translation_zh_TW": "他試圖清除墨水污漬。"
+          },
+          {
+            "sentence": "The artist used a blot technique in her painting.",
+            "translation_zh_TW": "藝術家在她的畫作中使用了污漬技法。"
+          }
+        ],
+        "synonyms": [
+          "stain",
+          "spot"
+        ]
+      }
+    ],
+    "confusion": [
+      "block",
+      "bloat",
+      "slot",
+      "blott"
+    ]
+  },
+  {
+    "word": "starvation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of extreme hunger or lack of nourishment.",
+        "meaning_zh_TW": "饑餓",
+        "wrong_meaning_zh_TW": [
+          "星際旅行",
+          "營養補充",
+          "食物鏈"
+        ],
+        "examples": [
+          {
+            "sentence": "He suffered from [starvation] during the war.",
+            "translation_zh_TW": "他在戰爭期間遭受饑餓。"
+          },
+          {
+            "sentence": "Starvation can lead to serious health issues.",
+            "translation_zh_TW": "饑餓會導致嚴重的健康問題。"
+          },
+          {
+            "sentence": "They organized a campaign to fight [starvation].",
+            "translation_zh_TW": "他們組織了一個抵抗饑餓的運動。"
+          }
+        ],
+        "synonyms": [
+          "hunger",
+          "malnutrition"
+        ]
+      }
+    ],
+    "confusion": [
+      "starvation",
+      "starve",
+      "starvationly",
+      "starveation"
+    ]
+  },
+  {
+    "word": "legislator",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who makes laws.",
+        "meaning_zh_TW": "立法者",
+        "wrong_meaning_zh_TW": [
+          "首相",
+          "市長",
+          "法官"
+        ],
+        "examples": [
+          {
+            "sentence": "The [legislator] proposed a new bill to improve education.",
+            "translation_zh_TW": "這位立法者提出了一項改善教育的新法案。"
+          },
+          {
+            "sentence": "Every [legislator] has a responsibility to their constituents.",
+            "translation_zh_TW": "每位立法者都有責任對其選民負責。"
+          },
+          {
+            "sentence": "The [legislator] gave a speech on the importance of voting.",
+            "translation_zh_TW": "這位立法者發表了一篇有關投票重要性的演講。"
+          }
+        ],
+        "synonyms": [
+          "lawmaker",
+          "politician"
+        ]
+      }
+    ],
+    "confusion": [
+      "legislative",
+      "legit",
+      "legislates",
+      "legitimize"
+    ]
+  },
+  {
+    "word": "exert",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To put forth effort or energy to achieve a goal.",
+        "meaning_zh_TW": "施加",
+        "wrong_meaning_zh_TW": [
+          "排解",
+          "分級",
+          "暴露"
+        ],
+        "examples": [
+          {
+            "sentence": "He needs to [exert] more effort in his studies.",
+            "translation_zh_TW": "他需要在學業上施加更多努力。"
+          },
+          {
+            "sentence": "The athlete will [exert] himself to win the championship.",
+            "translation_zh_TW": "這位運動員會施加努力來贏得冠軍。"
+          },
+          {
+            "sentence": "You must [exert] control over your emotions.",
+            "translation_zh_TW": "你必須對自己的情緒施加控制。"
+          }
+        ],
+        "synonyms": [
+          "apply",
+          "utilize",
+          "exercise"
+        ]
+      }
+    ],
+    "confusion": [
+      "exertion",
+      "exalt",
+      "exterm",
+      "exertcise"
+    ]
+  },
+  {
+    "word": "infer",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To conclude information from evidence rather than from explicit statements.",
+        "meaning_zh_TW": "推斷",
+        "wrong_meaning_zh_TW": [
+          "證明",
+          "質疑",
+          "假定"
+        ],
+        "examples": [
+          {
+            "sentence": "From the evidence, we can [infer] his guilt.",
+            "translation_zh_TW": "根據證據，我們可以推斷他的罪行。"
+          },
+          {
+            "sentence": "She wanted to [infer] more from the comments made.",
+            "translation_zh_TW": "她想從所作的評論中推斷更多。"
+          },
+          {
+            "sentence": "It's difficult to [infer] his feelings.",
+            "translation_zh_TW": "推斷他的感受是困難的。"
+          }
+        ],
+        "synonyms": [
+          "deduce",
+          "conclude"
+        ]
+      }
+    ],
+    "confusion": [
+      "infer",
+      "infeer",
+      "infir",
+      "infar"
+    ]
+  },
+  {
+    "word": "prosecute",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To initiate legal proceedings against someone.",
+        "meaning_zh_TW": "起訴",
+        "wrong_meaning_zh_TW": [
+          "辯護",
+          "警告",
+          "和解"
+        ],
+        "examples": [
+          {
+            "sentence": "The company decided to [prosecute] the fraudsters.",
+            "translation_zh_TW": "公司決定起訴那些詐騙者。"
+          },
+          {
+            "sentence": "The state will [prosecute] anyone caught stealing.",
+            "translation_zh_TW": "州政府將起訴任何被抓到偷竊的人。"
+          },
+          {
+            "sentence": "It is important to [prosecute] cases of domestic violence.",
+            "translation_zh_TW": "起訴家庭暴力案件是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "litigate",
+          "sue"
+        ]
+      }
+    ],
+    "confusion": [
+      "persecute",
+      "prospect",
+      "procession",
+      "processor"
+    ]
+  },
+  {
+    "word": "solemn",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Serious, formal, and dignified.",
+        "meaning_zh_TW": "嚴肅的",
+        "wrong_meaning_zh_TW": [
+          "隨意的",
+          "快樂的",
+          "輕鬆的"
+        ],
+        "examples": [
+          {
+            "sentence": "His expression was [solemn] during the ceremony.",
+            "translation_zh_TW": "在典禮中他的表情是嚴肅的。"
+          },
+          {
+            "sentence": "They made a [solemn] promise to each other.",
+            "translation_zh_TW": "他們對彼此作出了嚴肅的承諾。"
+          },
+          {
+            "sentence": "A [solemn] atmosphere filled the room as they gathered in remembrance.",
+            "translation_zh_TW": "當他們聚集在一起紀念時，房間裡充滿了嚴肅的氛圍。"
+          }
+        ],
+        "synonyms": [
+          "serious",
+          "grave"
+        ]
+      }
+    ],
+    "confusion": [
+      "solomn",
+      "solemen",
+      "solemnly",
+      "sollemn"
+    ]
+  },
+  {
+    "word": "motherhood",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being a mother.",
+        "meaning_zh_TW": "母性",
+        "wrong_meaning_zh_TW": [
+          "父性",
+          "單身",
+          "寄養"
+        ],
+        "examples": [
+          {
+            "sentence": "She embraced the challenges of [motherhood].",
+            "translation_zh_TW": "她接受了母性的挑戰。"
+          },
+          {
+            "sentence": "The joys of [motherhood] are unparalleled.",
+            "translation_zh_TW": "母性的喜悅是無與倫比的。"
+          },
+          {
+            "sentence": "Every woman has her own journey into [motherhood].",
+            "translation_zh_TW": "每個女人都有自己踏入母性的旅程。"
+          }
+        ],
+        "synonyms": [
+          "maternal role",
+          "parenthood"
+        ]
+      }
+    ],
+    "confusion": [
+      "motherland",
+      "motherboard",
+      "motherly",
+      "mothershed"
+    ]
+  },
+  {
+    "word": "lessen",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make or become less; to reduce.",
+        "meaning_zh_TW": "減少",
+        "wrong_meaning_zh_TW": [
+          "增加",
+          "提高",
+          "維持"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [lessen] our carbon footprint.",
+            "translation_zh_TW": "我們需要減少我們的碳足跡。"
+          },
+          {
+            "sentence": "He took measures to [lessen] the damage.",
+            "translation_zh_TW": "他採取措施來減少損害。"
+          },
+          {
+            "sentence": "Can we [lessen] our expenses this month?",
+            "translation_zh_TW": "這個月我們可以減少支出嗎？"
+          }
+        ],
+        "synonyms": [
+          "reduce",
+          "diminish"
+        ]
+      }
+    ],
+    "confusion": [
+      "lesson",
+      "lesser",
+      "lessenings",
+      "lesters"
+    ]
+  },
+  {
+    "word": "shabby",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "In poor condition through long or hard use.",
+        "meaning_zh_TW": "破舊",
+        "wrong_meaning_zh_TW": [
+          "華麗",
+          "偉大",
+          "豪華"
+        ],
+        "examples": [
+          {
+            "sentence": "The [shabby] old couch should be replaced.",
+            "translation_zh_TW": "那張破舊的沙發應該被更換。"
+          },
+          {
+            "sentence": "He was embarrassed by his [shabby] clothes.",
+            "translation_zh_TW": "他對自己破舊的衣服感到尷尬。"
+          },
+          {
+            "sentence": "The hotel had a [shabby] appearance from the outside.",
+            "translation_zh_TW": "這家酒店的外觀看起來很破舊。"
+          }
+        ],
+        "synonyms": [
+          "worn",
+          "tattered"
+        ]
+      }
+    ],
+    "confusion": [
+      "shabbychic",
+      "shabbily",
+      "sharp",
+      "shab"
+    ]
+  },
+  {
+    "word": "melancholy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A deep, persistent sadness or gloom.",
+        "meaning_zh_TW": "憂鬱",
+        "wrong_meaning_zh_TW": [
+          "盡頭",
+          "心情",
+          "音樂"
+        ],
+        "examples": [
+          {
+            "sentence": "The film's tone was one of beautiful [melancholy].",
+            "translation_zh_TW": "這部電影的基調充滿了美麗的憂鬱。"
+          },
+          {
+            "sentence": "He wrote poetry that resonated with his [melancholy].",
+            "translation_zh_TW": "他的詩歌與他的憂鬱共鳴。"
+          },
+          {
+            "sentence": "Artists often draw inspiration from their feelings of [melancholy].",
+            "translation_zh_TW": "藝術家們經常從憂鬱的情感中獲得靈感。"
+          }
+        ],
+        "synonyms": [
+          "sorrow",
+          "despondency"
+        ]
+      }
+    ],
+    "confusion": [
+      "melody",
+      "melatonin",
+      "melodrama",
+      "melting"
+    ]
+  },
+  {
+    "word": "outskirts",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The outer parts of a city or town.",
+        "meaning_zh_TW": "城郊",
+        "wrong_meaning_zh_TW": [
+          "中心區",
+          "工業區",
+          "商業區"
+        ],
+        "examples": [
+          {
+            "sentence": "They live on the [outskirts] of the city.",
+            "translation_zh_TW": "他們住在城市的邊緣。"
+          },
+          {
+            "sentence": "The new shopping mall is located in the [outskirts].",
+            "translation_zh_TW": "這個新的購物中心位於城郊。"
+          },
+          {
+            "sentence": "Traffic is lighter in the [outskirts] compared to downtown.",
+            "translation_zh_TW": "與市中心相比，城郊的交通輕鬆得多。"
+          }
+        ],
+        "synonyms": [
+          "periphery",
+          "fringe"
+        ]
+      }
+    ],
+    "confusion": [
+      "outcast",
+      "outplay",
+      "outlook",
+      "outsmart"
+    ]
+  },
+  {
+    "word": "indifference",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Lack of interest, concern, or sympathy.",
+        "meaning_zh_TW": "漠不關心",
+        "wrong_meaning_zh_TW": [
+          "關心",
+          "興趣",
+          "同情"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [indifference] to the suffering around her was shocking.",
+            "translation_zh_TW": "她對周圍痛苦的漠不關心讓人震驚。"
+          },
+          {
+            "sentence": "He showed an air of [indifference] during the discussion.",
+            "translation_zh_TW": "在討論中，他表現出一種漠不關心的態度。"
+          },
+          {
+            "sentence": "The community’s [indifference] to the problem was evident.",
+            "translation_zh_TW": "社區對這個問題的漠不關心是顯而易見的。"
+          }
+        ],
+        "synonyms": [
+          "apathy",
+          "insensitivity",
+          "unconcern"
+        ]
+      }
+    ],
+    "confusion": [
+      "independent",
+      "indignant",
+      "inference",
+      "indicate"
+    ]
+  },
+  {
+    "word": "uprising",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An act of rising in opposition or resistance.",
+        "meaning_zh_TW": "起義",
+        "wrong_meaning_zh_TW": [
+          "和平",
+          "安靜",
+          "無所作為"
+        ],
+        "examples": [
+          {
+            "sentence": "The [uprising] against the government gained significant support.",
+            "translation_zh_TW": "對政府的起義獲得了顯著的支持。"
+          },
+          {
+            "sentence": "Historical events show the consequences of such an [uprising].",
+            "translation_zh_TW": "歷史事件顯示此類起義的後果。"
+          },
+          {
+            "sentence": "An [uprising] is often a sign of societal discontent.",
+            "translation_zh_TW": "起義通常是社會不滿的一個標誌。"
+          }
+        ],
+        "synonyms": [
+          "rebellion",
+          "revolt",
+          "insurrection"
+        ]
+      }
+    ],
+    "confusion": [
+      "uprise",
+      "uprising",
+      "uprizing",
+      "uposing"
+    ]
+  },
+  {
+    "word": "roam",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move around or travel without a fixed purpose or destination.",
+        "meaning_zh_TW": "漫遊",
+        "wrong_meaning_zh_TW": [
+          "鋪路",
+          "守候",
+          "定居"
+        ],
+        "examples": [
+          {
+            "sentence": "They love to [roam] the countryside during summer.",
+            "translation_zh_TW": "他們喜愛在夏天漫遊鄉村。"
+          },
+          {
+            "sentence": "You can [roam] freely in the park.",
+            "translation_zh_TW": "你可以在公園裡自由漫遊。"
+          },
+          {
+            "sentence": "The dog began to [roam] around the neighborhood.",
+            "translation_zh_TW": "那隻狗開始在鄰里漫遊。"
+          }
+        ],
+        "synonyms": [
+          "wander",
+          "meander"
+        ]
+      }
+    ],
+    "confusion": [
+      "room",
+      "roamie",
+      "roamer",
+      "groom"
+    ]
+  },
+  {
+    "word": "stun",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause someone to lose consciousness or awareness temporarily.",
+        "meaning_zh_TW": "使暈眩",
+        "wrong_meaning_zh_TW": [
+          "成功",
+          "驚喜",
+          "拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "The loud noise could [stun] anyone nearby.",
+            "translation_zh_TW": "那聲音會讓附近的人暈眩。"
+          },
+          {
+            "sentence": "He was [stunned] by the unexpected news.",
+            "translation_zh_TW": "他被突如其來的消息震驚了。"
+          },
+          {
+            "sentence": "The athlete's performance was enough to [stun] the audience.",
+            "translation_zh_TW": "那位運動員的表現足以讓觀眾震驚。"
+          }
+        ],
+        "synonyms": [
+          "shock",
+          "daze"
+        ]
+      }
+    ],
+    "confusion": [
+      "stunt",
+      "stone",
+      "stung",
+      "stunnee"
+    ]
+  }
+]

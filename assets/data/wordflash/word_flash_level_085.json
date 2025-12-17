@@ -1,0 +1,782 @@
+[
+  {
+    "word": "storm",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+        "meaning_zh_TW": "暴風雨",
+        "wrong_meaning_zh_TW": [
+          "風暴管理",
+          "風霜",
+          "颱風監測"
+        ],
+        "examples": [
+          {
+            "sentence": "The [storm] caused significant damage to the town.",
+            "translation_zh_TW": "這場暴風雨對小鎮造成了重大損失"
+          },
+          {
+            "sentence": "They took shelter from the [storm].",
+            "translation_zh_TW": "他們躲避暴風雨"
+          },
+          {
+            "sentence": "The weather report predicts a severe [storm] this evening.",
+            "translation_zh_TW": "天氣預報預測今晚將有一場嚴重的暴風雨"
+          }
+        ],
+        "synonyms": [
+          "tempest",
+          "gale"
+        ]
+      }
+    ],
+    "confusion": [
+      "form",
+      "stormy",
+      "stork",
+      "stormer"
+    ]
+  },
+  {
+    "word": "mile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of measurement equal to 1,760 yards or about 1.609 kilometers.",
+        "meaning_zh_TW": "英里",
+        "wrong_meaning_zh_TW": [
+          "公尺",
+          "手臂",
+          "公里"
+        ],
+        "examples": [
+          {
+            "sentence": "The city is five [miles] away from here.",
+            "translation_zh_TW": "這座城市距離這裡五英里。"
+          },
+          {
+            "sentence": "He ran a [mile] in under six minutes.",
+            "translation_zh_TW": "他在六分鐘內跑了英里。"
+          },
+          {
+            "sentence": "There is a park every few [miles] along the road.",
+            "translation_zh_TW": "沿著這條路每幾英里就有一個公園。"
+          }
+        ],
+        "synonyms": [
+          "distance",
+          "length"
+        ]
+      }
+    ],
+    "confusion": [
+      "smile",
+      "mile",
+      "mildew",
+      "mild"
+    ]
+  },
+  {
+    "word": "encourage",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give support, confidence, or hope to someone.",
+        "meaning_zh_TW": "鼓勵",
+        "wrong_meaning_zh_TW": [
+          "禁止",
+          "惡化",
+          "輕視"
+        ],
+        "examples": [
+          {
+            "sentence": "Teachers should [encourage] their students to ask questions.",
+            "translation_zh_TW": "老師應該鼓勵學生提問。"
+          },
+          {
+            "sentence": "She tried to [encourage] him to pursue his dreams.",
+            "translation_zh_TW": "她試圖鼓勵他追求自己的夢想。"
+          },
+          {
+            "sentence": "Positive feedback can [encourage] better performance.",
+            "translation_zh_TW": "正面的反饋可以鼓勵更好的表現。"
+          }
+        ],
+        "synonyms": [
+          "inspire",
+          "boost"
+        ]
+      }
+    ],
+    "confusion": [
+      "discourage",
+      "endure",
+      "encouragements",
+      "encouragingly"
+    ]
+  },
+  {
+    "word": "cancel",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To annul or invalidate something, often a planned event or order.",
+        "meaning_zh_TW": "取消",
+        "wrong_meaning_zh_TW": [
+          "確認",
+          "加強",
+          "安排"
+        ],
+        "examples": [
+          {
+            "sentence": "We had to [cancel] the meeting due to a scheduling conflict.",
+            "translation_zh_TW": "由於時間衝突，我們不得不取消會議。"
+          },
+          {
+            "sentence": "He decided to [cancel] his subscription.",
+            "translation_zh_TW": "他決定取消訂閱。"
+          },
+          {
+            "sentence": "They will [cancel] the flight if the weather doesn't improve.",
+            "translation_zh_TW": "如果天氣不改善，他們將取消航班。"
+          }
+        ],
+        "synonyms": [
+          "abandon",
+          "void"
+        ]
+      }
+    ],
+    "confusion": [
+      "cancer",
+      "candle",
+      "cantaloupe",
+      "candy"
+    ]
+  },
+  {
+    "word": "delay",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make someone or something late or slow down.",
+        "meaning_zh_TW": "延遲",
+        "wrong_meaning_zh_TW": [
+          "加速",
+          "推進",
+          "促進"
+        ],
+        "examples": [
+          {
+            "sentence": "The train was [delayed] by heavy snow.",
+            "translation_zh_TW": "火車因為大雪而延遲。"
+          },
+          {
+            "sentence": "We must not [delay] our response to the situation.",
+            "translation_zh_TW": "我們不能延遲對這個情況的回應。"
+          },
+          {
+            "sentence": "They decided to [delay] the meeting until next week.",
+            "translation_zh_TW": "他們決定將會議推遲到下周。"
+          }
+        ],
+        "synonyms": [
+          "postpone",
+          "halt"
+        ]
+      }
+    ],
+    "confusion": [
+      "display",
+      "delay",
+      "defray",
+      "relay"
+    ]
+  },
+  {
+    "word": "novel",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fictitious prose narrative of book length.",
+        "meaning_zh_TW": "小說",
+        "wrong_meaning_zh_TW": [
+          "文章",
+          "詩歌",
+          "文獻"
+        ],
+        "examples": [
+          {
+            "sentence": "She is writing a [novel] about her adventures.",
+            "translation_zh_TW": "她正在寫一本有關她冒險的小說."
+          },
+          {
+            "sentence": "The [novel] became a bestseller in no time.",
+            "translation_zh_TW": "這本小說短時間內就成為暢銷書."
+          },
+          {
+            "sentence": "He enjoys reading a [novel] every month.",
+            "translation_zh_TW": "他喜歡每個月閱讀一本小說."
+          }
+        ],
+        "synonyms": [
+          "story",
+          "tale"
+        ]
+      }
+    ],
+    "confusion": [
+      "novelty",
+      "noble",
+      "novella",
+      "novelette"
+    ]
+  },
+  {
+    "word": "pan",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A shallow, open container used for cooking or holding food.",
+        "meaning_zh_TW": "平底鍋",
+        "wrong_meaning_zh_TW": [
+          "碗",
+          "杯子",
+          "壺"
+        ],
+        "examples": [
+          {
+            "sentence": "She sautéed the vegetables in the [pan].",
+            "translation_zh_TW": "她在平底鍋裡炒了蔬菜。"
+          },
+          {
+            "sentence": "Please put the [pan] on the stove.",
+            "translation_zh_TW": "請把平底鍋放在爐子上。"
+          },
+          {
+            "sentence": "He cleaned the [pan] after cooking.",
+            "translation_zh_TW": "他煮完後清理了平底鍋。"
+          }
+        ],
+        "synonyms": [
+          "skillet",
+          "frying pan"
+        ]
+      }
+    ],
+    "confusion": [
+      "pantry",
+      "plane",
+      "pansy",
+      "pannier"
+    ]
+  },
+  {
+    "word": "examination",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A detailed inspection or analysis.",
+        "meaning_zh_TW": "檢查、考試",
+        "wrong_meaning_zh_TW": [
+          "對話",
+          "隨便",
+          "實驗"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor performed a thorough [examination].",
+            "translation_zh_TW": "醫生進行了徹底的檢查。"
+          },
+          {
+            "sentence": "She studied hard for her final [examination].",
+            "translation_zh_TW": "她為期末考試努力學習。"
+          },
+          {
+            "sentence": "The [examination] results were surprising.",
+            "translation_zh_TW": "檢查結果令人驚訝。"
+          }
+        ],
+        "synonyms": [
+          "test",
+          "assessment"
+        ]
+      }
+    ],
+    "confusion": [
+      "examination",
+      "exam",
+      "examine",
+      "exanimations"
+    ]
+  },
+  {
+    "word": "painting",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act or art of producing a picture using paints.",
+        "meaning_zh_TW": "繪畫",
+        "wrong_meaning_zh_TW": [
+          "發展",
+          "建築",
+          "設計"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [painting] won the first prize in the competition.",
+            "translation_zh_TW": "她的繪畫在比賽中獲得了第一名。"
+          },
+          {
+            "sentence": "The gallery exhibited a [painting] by a famous artist.",
+            "translation_zh_TW": "畫廊展出了著名藝術家的繪畫作品。"
+          },
+          {
+            "sentence": "She took a class to improve her [painting] skills.",
+            "translation_zh_TW": "她上了一門課程以提高自己的繪畫技巧。"
+          }
+        ],
+        "synonyms": [
+          "artwork",
+          "canvas"
+        ]
+      }
+    ],
+    "confusion": [
+      "painter",
+      "paint",
+      "paying",
+      "planting"
+    ]
+  },
+  {
+    "word": "mirror",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A reflective surface, typically glass coated with a metallic silver, that reflects a clear image.",
+        "meaning_zh_TW": "鏡子",
+        "wrong_meaning_zh_TW": [
+          "窗口",
+          "屏風",
+          "圖像"
+        ],
+        "examples": [
+          {
+            "sentence": "He looked into the [mirror] to fix his hair.",
+            "translation_zh_TW": "他看著鏡子整理他的頭髮"
+          },
+          {
+            "sentence": "A [mirror] can help you check your appearance.",
+            "translation_zh_TW": "鏡子可以幫助你檢查外表"
+          },
+          {
+            "sentence": "She admired her dress in the [mirror].",
+            "translation_zh_TW": "她在鏡子中欣賞她的裙子"
+          }
+        ],
+        "synonyms": [
+          "reflector",
+          "looking glass"
+        ]
+      }
+    ],
+    "confusion": [
+      "mire",
+      "miner",
+      "merry",
+      "mourn"
+    ]
+  },
+  {
+    "word": "consideration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Careful thought, typically over a period.",
+        "meaning_zh_TW": "考量",
+        "wrong_meaning_zh_TW": [
+          "期望",
+          "信念",
+          "隨意"
+        ],
+        "examples": [
+          {
+            "sentence": "Safety is an important [consideration] in this project.",
+            "translation_zh_TW": "安全是本專案中的一個重要考量。"
+          },
+          {
+            "sentence": "She gave the matter much [consideration].",
+            "translation_zh_TW": "她對此事給予了充分的考量。"
+          },
+          {
+            "sentence": "Financial [considerations] influenced their decision.",
+            "translation_zh_TW": "財務考量影響了他們的決定。"
+          }
+        ],
+        "synonyms": [
+          "deliberation",
+          "thought"
+        ]
+      }
+    ],
+    "confusion": [
+      "consider",
+      "concentration",
+      "connotation",
+      "consolation"
+    ]
+  },
+  {
+    "word": "broad",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having an ample distance from side to side; wide.",
+        "meaning_zh_TW": "寬廣的",
+        "wrong_meaning_zh_TW": [
+          "狹窄的",
+          "有限的",
+          "細小的"
+        ],
+        "examples": [
+          {
+            "sentence": "They sat on the [broad] lawn.",
+            "translation_zh_TW": "他們坐在寬廣的草地上"
+          },
+          {
+            "sentence": "The river was [broad] in this section.",
+            "translation_zh_TW": "這段河流寬廣"
+          },
+          {
+            "sentence": "He has a [broad] knowledge of history.",
+            "translation_zh_TW": "他對歷史有著廣泛的知識"
+          }
+        ],
+        "synonyms": [
+          "wide",
+          "vast"
+        ]
+      }
+    ],
+    "confusion": [
+      "brood",
+      "road",
+      "broached",
+      "broadly"
+    ]
+  },
+  {
+    "word": "liquid",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A substance that flows freely and is not solid or gaseous.",
+        "meaning_zh_TW": "液體",
+        "wrong_meaning_zh_TW": [
+          "氣體",
+          "固體",
+          "霧氣"
+        ],
+        "examples": [
+          {
+            "sentence": "Water is a common [liquid] found on Earth.",
+            "translation_zh_TW": "水是地球上常見的液體。"
+          },
+          {
+            "sentence": "The [liquid] spilled all over the table.",
+            "translation_zh_TW": "液體潑灑到了桌子上。"
+          },
+          {
+            "sentence": "She poured the [liquid] into the glass.",
+            "translation_zh_TW": "她把液體倒進杯子裡。"
+          }
+        ],
+        "synonyms": [
+          "fluid",
+          "solution"
+        ]
+      }
+    ],
+    "confusion": [
+      "liquidate",
+      "ligand",
+      "licorice",
+      "likened"
+    ]
+  },
+  {
+    "word": "guard",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To protect from danger, harm, or loss.",
+        "meaning_zh_TW": "保護",
+        "wrong_meaning_zh_TW": [
+          "攻擊",
+          "盜竊",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "The security officer was hired to [guard] the building.",
+            "translation_zh_TW": "這名保安人員被雇用來保護這座建築"
+          },
+          {
+            "sentence": "She took steps to [guard] her privacy online.",
+            "translation_zh_TW": "她採取措施來保護她的線上隱私"
+          },
+          {
+            "sentence": "They need to [guard] their resources carefully.",
+            "translation_zh_TW": "他們需要仔細保護他們的資源"
+          }
+        ],
+        "synonyms": [
+          "protect",
+          "safeguard"
+        ]
+      }
+    ],
+    "confusion": [
+      "garden",
+      "gourd",
+      "guardrail",
+      "garde"
+    ]
+  },
+  {
+    "word": "drama",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A play that is performed on a stage, or a series of events that have a strong emotional impact.",
+        "meaning_zh_TW": "戲劇",
+        "wrong_meaning_zh_TW": [
+          "喜劇",
+          "小說",
+          "凌虐"
+        ],
+        "examples": [
+          {
+            "sentence": "She loves watching [drama] series on television.",
+            "translation_zh_TW": "她喜歡看電視劇集。"
+          },
+          {
+            "sentence": "The [drama] unfolds with unexpected twists and turns.",
+            "translation_zh_TW": "這部戲劇充滿了意想不到的曲折。"
+          },
+          {
+            "sentence": "He decided to study [drama] in college.",
+            "translation_zh_TW": "他決定在大學學習戲劇。"
+          }
+        ],
+        "synonyms": [
+          "play",
+          "performance"
+        ]
+      }
+    ],
+    "confusion": [
+      "dramatics",
+      "dream",
+      "dreamer",
+      "dormant"
+    ]
+  },
+  {
+    "word": "suitable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Right or appropriate for a particular person, purpose, or situation.",
+        "meaning_zh_TW": "合適的",
+        "wrong_meaning_zh_TW": [
+          "不合適的",
+          "劣質的",
+          "昂貴的"
+        ],
+        "examples": [
+          {
+            "sentence": "This position is suitable for experienced candidates.",
+            "translation_zh_TW": "這個職位適合有經驗的候選人"
+          },
+          {
+            "sentence": "Finding a suitable place to live can be challenging.",
+            "translation_zh_TW": "找到合適的居住地可能很有挑戰性"
+          },
+          {
+            "sentence": "He chose a suitable gift for her birthday.",
+            "translation_zh_TW": "他為她的生日選擇了一份合適的禮物"
+          }
+        ],
+        "synonyms": [
+          "appropriate",
+          "fitting"
+        ]
+      }
+    ],
+    "confusion": [
+      "subtle",
+      "suitable",
+      "suitably",
+      "suspect"
+    ]
+  },
+  {
+    "word": "attend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be present at an event or gathering.",
+        "meaning_zh_TW": "參加",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "退出",
+          "延遲"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [attend] the meeting tomorrow.",
+            "translation_zh_TW": "我明天會參加會議"
+          },
+          {
+            "sentence": "They [attend] classes every day.",
+            "translation_zh_TW": "他們每天都上課"
+          },
+          {
+            "sentence": "She was invited to [attend] the wedding.",
+            "translation_zh_TW": "她被邀請參加婚禮"
+          }
+        ],
+        "synonyms": [
+          "participate",
+          "join"
+        ]
+      }
+    ],
+    "confusion": [
+      "atend",
+      "attendd",
+      "attand",
+      "attaned"
+    ]
+  },
+  {
+    "word": "shell",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The hard outer covering of some animals.",
+        "meaning_zh_TW": "殼",
+        "wrong_meaning_zh_TW": [
+          "衣服",
+          "碗具",
+          "包裝"
+        ],
+        "examples": [
+          {
+            "sentence": "The turtle hid inside its [shell].",
+            "translation_zh_TW": "烏龜躲進了它的殼裡。"
+          },
+          {
+            "sentence": "You can hear the ocean if you hold the [shell] to your ear.",
+            "translation_zh_TW": "如果你把貝殼放在耳邊，你可以聽到海洋的聲音。"
+          },
+          {
+            "sentence": "Find a [shell] on the beach.",
+            "translation_zh_TW": "在海灘上找到一個貝殼。"
+          }
+        ],
+        "synonyms": [
+          "case",
+          "husk"
+        ]
+      }
+    ],
+    "confusion": [
+      "sell",
+      "shelter",
+      "shelled",
+      "shiell"
+    ]
+  },
+  {
+    "word": "beer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fermented beverage brewed from malt and hops.",
+        "meaning_zh_TW": "啤酒",
+        "wrong_meaning_zh_TW": [
+          "果汁",
+          "清水",
+          "飲料"
+        ],
+        "examples": [
+          {
+            "sentence": "He ordered a cold [beer] at the bar.",
+            "translation_zh_TW": "他在酒吧點了一杯冷啤酒。"
+          },
+          {
+            "sentence": "Craft [beer] has become very popular.",
+            "translation_zh_TW": "手工啤酒變得非常受歡迎。"
+          },
+          {
+            "sentence": "They celebrated with [beer] and laughter.",
+            "translation_zh_TW": "他們用啤酒和笑聲慶祝。"
+          }
+        ],
+        "synonyms": [
+          "lager",
+          "ale"
+        ]
+      }
+    ],
+    "confusion": [
+      "beeer",
+      "bear",
+      "bier",
+      "beers"
+    ]
+  },
+  {
+    "word": "measurement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The size, length, or amount of something, as established by measuring.",
+        "meaning_zh_TW": "測量",
+        "wrong_meaning_zh_TW": [
+          "形狀",
+          "類型",
+          "顏色"
+        ],
+        "examples": [
+          {
+            "sentence": "The [measurement] of the room is 20 by 30 feet.",
+            "translation_zh_TW": "這間房間的測量是20乘30英尺。"
+          },
+          {
+            "sentence": "Accurate [measurement] is crucial in construction.",
+            "translation_zh_TW": "準確的測量在建築中至關重要。"
+          },
+          {
+            "sentence": "We took [measurements] for the new furniture.",
+            "translation_zh_TW": "我們為新家具進行了測量。"
+          }
+        ],
+        "synonyms": [
+          "dimension",
+          "size"
+        ]
+      }
+    ],
+    "confusion": [
+      "measures",
+      "measurements",
+      "measured",
+      "measuring"
+    ]
+  }
+]

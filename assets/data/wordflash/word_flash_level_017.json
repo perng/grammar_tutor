@@ -1,0 +1,760 @@
+[
+  {
+    "word": "once",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "On one occasion or at one time.",
+        "meaning_zh_TW": "曾經",
+        "wrong_meaning_zh_TW": [
+          "從未",
+          "多次",
+          "總是"
+        ],
+        "examples": [
+          {
+            "sentence": "I visited Paris once when I was a child.",
+            "translation_zh_TW": "我在小時候去過巴黎一次。"
+          },
+          {
+            "sentence": "Once I finish my work, I'll go out.",
+            "translation_zh_TW": "一旦我完成工作，就會出去。"
+          },
+          {
+            "sentence": "She told the story once, and it was unforgettable.",
+            "translation_zh_TW": "她講過一次這個故事，令人難忘。"
+          }
+        ],
+        "synonyms": [
+          "formerly",
+          "previously"
+        ]
+      }
+    ],
+    "confusion": [
+      "oce",
+      "oncee",
+      "onci",
+      "wonce"
+    ]
+  },
+  {
+    "word": "agreement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mutual understanding between two or more parties about their relative rights and duties regarding past or future performances.",
+        "meaning_zh_TW": "協議、合約",
+        "wrong_meaning_zh_TW": [
+          "爭執",
+          "懷疑",
+          "困惑"
+        ],
+        "examples": [
+          {
+            "sentence": "They came to an [agreement] after lengthy discussions.",
+            "translation_zh_TW": "經過漫長的討論，他們達成了協議。"
+          },
+          {
+            "sentence": "The [agreement] was signed by both parties yesterday.",
+            "translation_zh_TW": "該協議昨天由雙方簽署。"
+          },
+          {
+            "sentence": "It's important to have a clear [agreement] in business.",
+            "translation_zh_TW": "在商業中，擁有清晰的協議是重要的。"
+          }
+        ],
+        "synonyms": [
+          "contract",
+          "pact"
+        ]
+      }
+    ],
+    "confusion": [
+      "agreements",
+      "agrement",
+      "agreemant",
+      "agrmement"
+    ]
+  },
+  {
+    "word": "least",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "The smallest amount or degree.",
+        "meaning_zh_TW": "最少的",
+        "wrong_meaning_zh_TW": [
+          "最大的",
+          "適中的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has the [least] experience among the candidates.",
+            "translation_zh_TW": "她在候選人中擁有最少的經驗。"
+          },
+          {
+            "sentence": "This is the [least] expensive option.",
+            "translation_zh_TW": "這是最便宜的選擇。"
+          },
+          {
+            "sentence": "You should know at [least] the basics.",
+            "translation_zh_TW": "你應該了解至少一些基本知識。"
+          }
+        ],
+        "synonyms": [
+          "minimal",
+          "smallest"
+        ]
+      }
+    ],
+    "confusion": [
+      "leastest",
+      "last",
+      "leest",
+      "leaf"
+    ]
+  },
+  {
+    "word": "sure",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Confident in what one thinks or knows.",
+        "meaning_zh_TW": "確定的",
+        "wrong_meaning_zh_TW": [
+          "不確定的",
+          "模糊的",
+          "多疑的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [sure] about my decision.",
+            "translation_zh_TW": "我對我的決定是確定的。"
+          },
+          {
+            "sentence": "Are you [sure] you locked the door?",
+            "translation_zh_TW": "你確定已經把門鎖上了嗎？"
+          },
+          {
+            "sentence": "She felt [sure] that everything would work out.",
+            "translation_zh_TW": "她確信一切會好起來。"
+          }
+        ],
+        "synonyms": [
+          "certain",
+          "confident"
+        ]
+      }
+    ],
+    "confusion": [
+      "suer",
+      "shore",
+      "sore",
+      "surely"
+    ]
+  },
+  {
+    "word": "tell",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To communicate information to someone.",
+        "meaning_zh_TW": "告訴",
+        "wrong_meaning_zh_TW": [
+          "隱瞞",
+          "斷言",
+          "教育"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [tell] me your name.",
+            "translation_zh_TW": "請告訴我你的名字。"
+          },
+          {
+            "sentence": "She couldn't [tell] the truth.",
+            "translation_zh_TW": "她無法告訴真相。"
+          },
+          {
+            "sentence": "Can you [tell] a story?",
+            "translation_zh_TW": "你能講一個故事嗎？"
+          }
+        ],
+        "synonyms": [
+          "inform",
+          "notify"
+        ]
+      }
+    ],
+    "confusion": [
+      "tlel",
+      "tel",
+      "telll",
+      "teel"
+    ]
+  },
+  {
+    "word": "able",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the power, skill, means, or opportunity to do something.",
+        "meaning_zh_TW": "能夠的",
+        "wrong_meaning_zh_TW": [
+          "無能的",
+          "不可行的",
+          "男性的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is [able] to solve the problem quickly.",
+            "translation_zh_TW": "她能迅速解決這個問題。"
+          },
+          {
+            "sentence": "Are you [able] to attend the meeting?",
+            "translation_zh_TW": "你能參加會議嗎？"
+          },
+          {
+            "sentence": "He felt [able] to change his life.",
+            "translation_zh_TW": "他感到能改變他的生活。"
+          }
+        ],
+        "synonyms": [
+          "capable",
+          "competent"
+        ]
+      }
+    ],
+    "confusion": [
+      "abole",
+      "ablee",
+      "aable",
+      "abel"
+    ]
+  },
+  {
+    "word": "fun",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Enjoyment, amusement, or lighthearted pleasure.",
+        "meaning_zh_TW": "樂趣",
+        "wrong_meaning_zh_TW": [
+          "沉重的工作",
+          "無聊的時光",
+          "壓力"
+        ],
+        "examples": [
+          {
+            "sentence": "We had a lot of [fun] at the amusement park.",
+            "translation_zh_TW": "我們在遊樂園玩得很開心。"
+          },
+          {
+            "sentence": "The party was full of [fun] activities.",
+            "translation_zh_TW": "派對上有很多有趣的活動。"
+          },
+          {
+            "sentence": "Playing games is a great way to have [fun].",
+            "translation_zh_TW": "玩遊戲是享受樂趣的好方法。"
+          }
+        ],
+        "synonyms": [
+          "amusement",
+          "enjoyment"
+        ]
+      }
+    ],
+    "confusion": [
+      "fan",
+      "fund",
+      "funn",
+      "funny"
+    ]
+  },
+  {
+    "word": "already",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Before or by now; previously.",
+        "meaning_zh_TW": "已經",
+        "wrong_meaning_zh_TW": [
+          "尚未",
+          "未來",
+          "將來"
+        ],
+        "examples": [
+          {
+            "sentence": "I have [already] eaten lunch.",
+            "translation_zh_TW": "我已經吃過午餐了。"
+          },
+          {
+            "sentence": "Are you [already] here?",
+            "translation_zh_TW": "你已經在這裡了嗎？"
+          },
+          {
+            "sentence": "She [already] finished her homework.",
+            "translation_zh_TW": "她已經完成了她的作業。"
+          }
+        ],
+        "synonyms": [
+          "previously",
+          "beforehand"
+        ]
+      }
+    ],
+    "confusion": [
+      "allready",
+      "alreadyed",
+      "alreadied",
+      "alreaady"
+    ]
+  },
+  {
+    "word": "green",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of the color between blue and yellow in the spectrum.",
+        "meaning_zh_TW": "綠色的",
+        "wrong_meaning_zh_TW": [
+          "藍色的",
+          "黃色的",
+          "紅色的"
+        ],
+        "examples": [
+          {
+            "sentence": "The grass is [green].",
+            "translation_zh_TW": "草是綠色的。"
+          },
+          {
+            "sentence": "She wore a [green] dress.",
+            "translation_zh_TW": "她穿了一條綠色的裙子。"
+          },
+          {
+            "sentence": "He painted the walls [green].",
+            "translation_zh_TW": "他把牆壁漆成綠色。"
+          }
+        ],
+        "synonyms": [
+          "verdant",
+          "leafy"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Inexperienced or naive.",
+        "meaning_zh_TW": "缺乏經驗的",
+        "wrong_meaning_zh_TW": [
+          "老練的",
+          "成熟的",
+          "專業的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is still [green] in the industry.",
+            "translation_zh_TW": "他在這個行業仍然很缺乏經驗。"
+          },
+          {
+            "sentence": "The [green] workers learned quickly.",
+            "translation_zh_TW": "那些缺乏經驗的工人很快學會了。"
+          },
+          {
+            "sentence": "Don't be [green]; ask for help.",
+            "translation_zh_TW": "不要缺乏經驗，請求幫助。"
+          }
+        ],
+        "synonyms": [
+          "naive",
+          "immature"
+        ]
+      }
+    ],
+    "confusion": [
+      "greene",
+      "grain",
+      "great",
+      "grin"
+    ]
+  },
+  {
+    "word": "close",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move something so that it is no longer open.",
+        "meaning_zh_TW": "關閉，合上",
+        "wrong_meaning_zh_TW": [
+          "關於，相關",
+          "明亮",
+          "遠離"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [close] the door behind you.",
+            "translation_zh_TW": "請在你身後關上門。"
+          },
+          {
+            "sentence": "He forgot to [close] the window.",
+            "translation_zh_TW": "他忘記關窗了。"
+          },
+          {
+            "sentence": "Can you [close] the lid on the box?",
+            "translation_zh_TW": "你能把盒子的蓋子關上嗎？"
+          }
+        ],
+        "synonyms": [
+          "shut",
+          "lock"
+        ]
+      }
+    ],
+    "confusion": [
+      "clothes",
+      "clash",
+      "closure",
+      "closet"
+    ]
+  },
+  {
+    "word": "common",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring, found, or done often; prevalent.",
+        "meaning_zh_TW": "常見",
+        "wrong_meaning_zh_TW": [
+          "特殊",
+          "稀有",
+          "獨特"
+        ],
+        "examples": [
+          {
+            "sentence": "It's common to see people jogging in the park.",
+            "translation_zh_TW": "在公園裡看到人們慢跑是很常見的"
+          },
+          {
+            "sentence": "This type of bird is very common in our area.",
+            "translation_zh_TW": "這種鳥在我們這片區域非常常見"
+          },
+          {
+            "sentence": "Having lunch at noon is a common practice.",
+            "translation_zh_TW": "中午吃午餐是一個常見的做法"
+          }
+        ],
+        "synonyms": [
+          "frequent",
+          "usual"
+        ]
+      }
+    ],
+    "confusion": [
+      "community",
+      "comedy",
+      "commonly",
+      "commune"
+    ]
+  },
+  {
+    "word": "drive",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To operate and control the direction and speed of a motor vehicle.",
+        "meaning_zh_TW": "駕駛",
+        "wrong_meaning_zh_TW": [
+          "走路",
+          "乘坐",
+          "修理"
+        ],
+        "examples": [
+          {
+            "sentence": "I like to [drive] on the highway.",
+            "translation_zh_TW": "我喜歡在高速公路上駕駛。"
+          },
+          {
+            "sentence": "Can you [drive] me home?",
+            "translation_zh_TW": "你可以開車送我回家嗎？"
+          },
+          {
+            "sentence": "He learned to [drive] at a young age.",
+            "translation_zh_TW": "他在年輕時學會了駕駛。"
+          }
+        ],
+        "synonyms": [
+          "operate",
+          "steer"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A trip in a vehicle.",
+        "meaning_zh_TW": "駕車旅行",
+        "wrong_meaning_zh_TW": [
+          "步行",
+          "慢跑",
+          "公車"
+        ],
+        "examples": [
+          {
+            "sentence": "We took a long [drive] through the countryside.",
+            "translation_zh_TW": "我們沿著鄉村進行了一次長途駕車旅行。"
+          },
+          {
+            "sentence": "The [drive] was very scenic.",
+            "translation_zh_TW": "這次駕車旅行非常風景如畫。"
+          },
+          {
+            "sentence": "Let's go for a [drive] this weekend.",
+            "translation_zh_TW": "這周末我們去兜風吧。"
+          }
+        ],
+        "synonyms": [
+          "ride",
+          "trip"
+        ]
+      }
+    ],
+    "confusion": [
+      "drill",
+      "drave",
+      "drove",
+      "driveway"
+    ]
+  },
+  {
+    "word": "several",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "More than two but not many; a number of.",
+        "meaning_zh_TW": "幾個",
+        "wrong_meaning_zh_TW": [
+          "一個",
+          "很多",
+          "大多數"
+        ],
+        "examples": [
+          {
+            "sentence": "She has visited [several] countries.",
+            "translation_zh_TW": "她已經訪問了[幾個]國家。"
+          },
+          {
+            "sentence": "There are [several] options to choose from.",
+            "translation_zh_TW": "有[幾個]選項可供選擇。"
+          },
+          {
+            "sentence": "I have [several] friends in that city.",
+            "translation_zh_TW": "我在那個城市有[幾個]朋友。"
+          }
+        ],
+        "synonyms": [
+          "various",
+          "diverse"
+        ]
+      }
+    ],
+    "confusion": [
+      "sever",
+      "cereal",
+      "special",
+      "evangel"
+    ]
+  },
+  {
+    "word": "short",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having little length or height; not tall or long.",
+        "meaning_zh_TW": "短的",
+        "wrong_meaning_zh_TW": [
+          "長的",
+          "高的",
+          "圓的"
+        ],
+        "examples": [
+          {
+            "sentence": "The story is too [short] for our discussion.",
+            "translation_zh_TW": "這個故事對我們的討論來說太短了。"
+          },
+          {
+            "sentence": "He wore [short] pants in the summer.",
+            "translation_zh_TW": "他在夏天穿了短褲。"
+          },
+          {
+            "sentence": "The meeting was unexpectedly [short].",
+            "translation_zh_TW": "會議出乎意料地很短。"
+          }
+        ],
+        "synonyms": [
+          "brief",
+          "concise"
+        ]
+      }
+    ],
+    "confusion": [
+      "shrt",
+      "shortly",
+      "shore",
+      "shot"
+    ]
+  },
+  {
+    "word": "lot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large number or amount; a considerable quantity.",
+        "meaning_zh_TW": "許多",
+        "wrong_meaning_zh_TW": [
+          "運氣",
+          "選擇",
+          "努力"
+        ],
+        "examples": [
+          {
+            "sentence": "There are a [lot] of options to choose from.",
+            "translation_zh_TW": "有很多選擇可以選擇。"
+          },
+          {
+            "sentence": "She has a [lot] of experience in this field.",
+            "translation_zh_TW": "她在這個領域有很多經驗。"
+          },
+          {
+            "sentence": "He gave a [lot] of effort into his work.",
+            "translation_zh_TW": "他在工作中付出了很多努力。"
+          }
+        ],
+        "synonyms": [
+          "many",
+          "a great deal"
+        ]
+      }
+    ],
+    "confusion": [
+      "lotto",
+      "lotus",
+      "lost",
+      "lout"
+    ]
+  },
+  {
+    "word": "ask",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To request information or an answer from someone.",
+        "meaning_zh_TW": "詢問",
+        "wrong_meaning_zh_TW": [
+          "幫助",
+          "展示",
+          "猶豫"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [ask] me if you need help.",
+            "translation_zh_TW": "如果需要幫助，請[詢問]我。"
+          },
+          {
+            "sentence": "I will [ask] for directions.",
+            "translation_zh_TW": "我會[詢問]路徑。"
+          },
+          {
+            "sentence": "Don't hesitate to [ask] questions.",
+            "translation_zh_TW": "不要猶豫，隨時[詢問]問題。"
+          }
+        ],
+        "synonyms": [
+          "inquire",
+          "question"
+        ]
+      }
+    ],
+    "confusion": [
+      "asked",
+      "asks",
+      "task",
+      "mask"
+    ]
+  },
+  {
+    "word": "beach",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A pebbly or sandy shore, especially by the ocean between high and low water marks.",
+        "meaning_zh_TW": "海灘",
+        "wrong_meaning_zh_TW": [
+          "河流",
+          "山脈",
+          "沙漠"
+        ],
+        "examples": [
+          {
+            "sentence": "We spent the day relaxing on the [beach].",
+            "translation_zh_TW": "我們在海灘上放鬆了一整天。"
+          },
+          {
+            "sentence": "The children built sandcastles on the [beach].",
+            "translation_zh_TW": "孩子們在海灘上建造沙堡。"
+          },
+          {
+            "sentence": "She loves to walk along the [beach] at sunset.",
+            "translation_zh_TW": "她喜歡在日落時分沿著海灘散步。"
+          }
+        ],
+        "synonyms": [
+          "shore",
+          "coast"
+        ]
+      }
+    ],
+    "confusion": [
+      "beaches",
+      "bech",
+      "beachy",
+      "beachs"
+    ]
+  },
+  {
+    "word": "past",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The time before the present.",
+        "meaning_zh_TW": "過去",
+        "wrong_meaning_zh_TW": [
+          "未來",
+          "現在",
+          "當前"
+        ],
+        "examples": [
+          {
+            "sentence": "We can learn lessons from the [past].",
+            "translation_zh_TW": "我們可以從過去學習教訓。"
+          },
+          {
+            "sentence": "She often thinks about her [past].",
+            "translation_zh_TW": "她經常思考她的過去。"
+          },
+          {
+            "sentence": "The [past] is not something we can change.",
+            "translation_zh_TW": "過去是我們無法改變的。"
+          }
+        ],
+        "synonyms": [
+          "history",
+          "bygone"
+        ]
+      }
+    ],
+    "confusion": [
+      "pest",
+      "payst",
+      "pastt",
+      "pasta"
+    ]
+  }
+]

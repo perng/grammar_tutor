@@ -1,0 +1,771 @@
+[
+  {
+    "word": "contract",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A written or spoken agreement.",
+        "meaning_zh_TW": "合同",
+        "wrong_meaning_zh_TW": [
+          "備忘錄",
+          "報告",
+          "證書"
+        ],
+        "examples": [
+          {
+            "sentence": "They signed a [contract] for the new project.",
+            "translation_zh_TW": "他們為新項目簽署了一份合同。"
+          },
+          {
+            "sentence": "Before starting work, please review the [contract].",
+            "translation_zh_TW": "開始工作之前，請瀏覽合同。"
+          },
+          {
+            "sentence": "The [contract] outlines the terms of the agreement.",
+            "translation_zh_TW": "合同詳細說明了協議的條款。"
+          }
+        ],
+        "synonyms": [
+          "agreement",
+          "deal"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To decrease in size or become smaller.",
+        "meaning_zh_TW": "收縮",
+        "wrong_meaning_zh_TW": [
+          "擴張",
+          "增長",
+          "變化"
+        ],
+        "examples": [
+          {
+            "sentence": "The balloon will [contract] as the air escapes.",
+            "translation_zh_TW": "當空氣流失時，氣球會收縮。"
+          },
+          {
+            "sentence": "Muscles [contract] during exercise.",
+            "translation_zh_TW": "肌肉在運動過程中收縮。"
+          },
+          {
+            "sentence": "The metal will [contract] when cooled.",
+            "translation_zh_TW": "金屬冷卻時會收縮。"
+          }
+        ],
+        "synonyms": [
+          "shrink",
+          "reduce"
+        ]
+      }
+    ],
+    "confusion": [
+      "contracted",
+      "contrack",
+      "contart",
+      "contrict"
+    ]
+  },
+  {
+    "word": "super",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of a higher or superior kind.",
+        "meaning_zh_TW": "極好的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "差勁的",
+          "平凡的"
+        ],
+        "examples": [
+          {
+            "sentence": "She had a super time at the party.",
+            "translation_zh_TW": "她在派對上過得非常愉快"
+          },
+          {
+            "sentence": "The movie received super reviews.",
+            "translation_zh_TW": "這部電影獲得了極好的評價"
+          },
+          {
+            "sentence": "He is a super athlete.",
+            "translation_zh_TW": "他是一位極好的運動員"
+          }
+        ],
+        "synonyms": [
+          "excellent",
+          "fantastic"
+        ]
+      }
+    ],
+    "confusion": [
+      "supper",
+      "superb",
+      "supreme",
+      "superior"
+    ]
+  },
+  {
+    "word": "male",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Belonging to the sex that produces small, mobile gametes (spermatozoa) in species that reproduce sexually.",
+        "meaning_zh_TW": "男性的，雄性的",
+        "wrong_meaning_zh_TW": [
+          "女性的，母性的",
+          "中性的",
+          "小孩的，幼稚的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [male] lion has a distinctive mane.",
+            "translation_zh_TW": "雄獅有獨特的鬃毛。"
+          },
+          {
+            "sentence": "A [male] member of the species often displays brighter colors.",
+            "translation_zh_TW": "該物種的雄性通常顯示出更亮的顏色。"
+          },
+          {
+            "sentence": "The [male] population is often studied in biology.",
+            "translation_zh_TW": "雄性群體在生物學中常被研究。"
+          }
+        ],
+        "synonyms": [
+          "masculine",
+          "manly"
+        ]
+      }
+    ],
+    "confusion": [
+      "mail",
+      "mole",
+      "malevolent",
+      "mellow"
+    ]
+  },
+  {
+    "word": "custom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A traditional and widely accepted way of behaving or doing something.",
+        "meaning_zh_TW": "習俗",
+        "wrong_meaning_zh_TW": [
+          "時尚",
+          "習慣",
+          "關稅"
+        ],
+        "examples": [
+          {
+            "sentence": "It is a [custom] to celebrate the New Year with fireworks.",
+            "translation_zh_TW": "在新年用煙花慶祝是個習俗。"
+          },
+          {
+            "sentence": "Each culture has its own [customs].",
+            "translation_zh_TW": "每個文化都有自己的習俗。"
+          },
+          {
+            "sentence": "Breaking bread together is a [custom] in many traditions.",
+            "translation_zh_TW": "一起破餅是許多傳統中的習俗。"
+          }
+        ],
+        "synonyms": [
+          "tradition",
+          "practice"
+        ]
+      }
+    ],
+    "confusion": [
+      "customs",
+      "costume",
+      "customer",
+      "custody"
+    ]
+  },
+  {
+    "word": "cause",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that gives rise to an action, phenomenon, or condition.",
+        "meaning_zh_TW": "原因",
+        "wrong_meaning_zh_TW": [
+          "效果",
+          "結果",
+          "結局"
+        ],
+        "examples": [
+          {
+            "sentence": "The main [cause] of the problem was identified.",
+            "translation_zh_TW": "問題的主要原因被識別出來。"
+          },
+          {
+            "sentence": "They rallied for a [cause] they believed in.",
+            "translation_zh_TW": "他們為信仰的原因而集會。"
+          },
+          {
+            "sentence": "Understanding the [cause] can lead to better solutions.",
+            "translation_zh_TW": "理解原因可以導致更好的解決方案。"
+          }
+        ],
+        "synonyms": [
+          "reason",
+          "motive"
+        ]
+      }
+    ],
+    "confusion": [
+      "cuse",
+      "caws",
+      "cues",
+      "coarse"
+    ]
+  },
+  {
+    "word": "focus",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The center of interest or activity.",
+        "meaning_zh_TW": "焦點",
+        "wrong_meaning_zh_TW": [
+          "周邊",
+          "邊緣",
+          "次要"
+        ],
+        "examples": [
+          {
+            "sentence": "Their [focus] is on environmental issues.",
+            "translation_zh_TW": "他們的焦點在環保問題上。"
+          },
+          {
+            "sentence": "The team's [focus] shifted after the new project.",
+            "translation_zh_TW": "這個團隊的焦點在新項目後發生了變化。"
+          },
+          {
+            "sentence": "He tried to keep his [focus] during the exam.",
+            "translation_zh_TW": "他試著在考試中保持專注。"
+          }
+        ],
+        "synonyms": [
+          "concentration",
+          "emphasis"
+        ]
+      }
+    ],
+    "confusion": [
+      "foci",
+      "foes",
+      "foucs",
+      "foocus"
+    ]
+  },
+  {
+    "word": "female",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of or denoting the sex that can bear offspring or produce eggs.",
+        "meaning_zh_TW": "女性的",
+        "wrong_meaning_zh_TW": [
+          "男性的",
+          "中性的",
+          "不孕的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [female] cat is nurturing her kittens.",
+            "translation_zh_TW": "母貓在照顧她的小貓。"
+          },
+          {
+            "sentence": "She is a [female] athlete competing in the Olympics.",
+            "translation_zh_TW": "她是一名參加奧運會的女運動員。"
+          },
+          {
+            "sentence": "The [female] plant produces fruit.",
+            "translation_zh_TW": "雌性植物會結出果實。"
+          }
+        ],
+        "synonyms": [
+          "womanly",
+          "lady"
+        ]
+      }
+    ],
+    "confusion": [
+      "mail",
+      "male",
+      "femal",
+      "females"
+    ]
+  },
+  {
+    "word": "responsible",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having an obligation to do something.",
+        "meaning_zh_TW": "負責的、應負責任的",
+        "wrong_meaning_zh_TW": [
+          "無辜的、自由的",
+          "不確定的、隨意的",
+          "臨時的、隨便的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is a [responsible] person who always meets deadlines.",
+            "translation_zh_TW": "他是一個負責任的人，總是按時完成工作。"
+          },
+          {
+            "sentence": "As a team leader, you are [responsible] for your members’ performance.",
+            "translation_zh_TW": "作為團隊領導者，你需要對成員的表現負責。"
+          },
+          {
+            "sentence": "It is [responsible] to plan for the future.",
+            "translation_zh_TW": "為未來做計劃是負責任的行為。"
+          }
+        ],
+        "synonyms": [
+          "accountable",
+          "liable"
+        ]
+      }
+    ],
+    "confusion": [
+      "respondable",
+      "responsibleness",
+      "responsibly",
+      "respondible"
+    ]
+  },
+  {
+    "word": "win",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be successful or victorious in a contest or conflict.",
+        "meaning_zh_TW": "贏",
+        "wrong_meaning_zh_TW": [
+          "失敗",
+          "放棄",
+          "平局"
+        ],
+        "examples": [
+          {
+            "sentence": "He hopes to [win] the championship.",
+            "translation_zh_TW": "他希望贏得冠軍"
+          },
+          {
+            "sentence": "They [win] every match this season.",
+            "translation_zh_TW": "他們這個賽季每場比賽都贏了"
+          },
+          {
+            "sentence": "To [win], you need to train hard.",
+            "translation_zh_TW": "想要贏，你必須努力訓練"
+          }
+        ],
+        "synonyms": [
+          "victor",
+          "triumph"
+        ]
+      }
+    ],
+    "confusion": [
+      "wine",
+      "wind",
+      "winnow",
+      "wink"
+    ]
+  },
+  {
+    "word": "primary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of chief importance; principal.",
+        "meaning_zh_TW": "主要的、首要的",
+        "wrong_meaning_zh_TW": [
+          "次要的",
+          "附加的",
+          "劣質的"
+        ],
+        "examples": [
+          {
+            "sentence": "Education is the [primary] focus of the reform.",
+            "translation_zh_TW": "教育是改革的主要焦點"
+          },
+          {
+            "sentence": "Her [primary] concern is her family's well-being.",
+            "translation_zh_TW": "她的主要關心是家人的福祉"
+          },
+          {
+            "sentence": "The [primary] colors are red, blue, and yellow.",
+            "translation_zh_TW": "主要顏色是紅色、藍色和黃色"
+          }
+        ],
+        "synonyms": [
+          "main",
+          "chief"
+        ]
+      }
+    ],
+    "confusion": [
+      "secondary",
+      "priming",
+      "primal",
+      "primero"
+    ]
+  },
+  {
+    "word": "cancer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A disease caused by an uncontrolled division of abnormal cells in a part of the body.",
+        "meaning_zh_TW": "癌症",
+        "wrong_meaning_zh_TW": [
+          "過敏",
+          "流感",
+          "糖尿病"
+        ],
+        "examples": [
+          {
+            "sentence": "She was diagnosed with [cancer] last year.",
+            "translation_zh_TW": "她去年被診斷出患有癌症。"
+          },
+          {
+            "sentence": "Early detection of [cancer] can improve the chances of recovery.",
+            "translation_zh_TW": "早期診斷癌症可以提高康復的機會。"
+          },
+          {
+            "sentence": "He is participating in a marathon to raise awareness for [cancer] research.",
+            "translation_zh_TW": "他參加馬拉松以提高人們對癌症研究的認識。"
+          }
+        ],
+        "synonyms": [
+          "malignancy",
+          "tumor"
+        ]
+      }
+    ],
+    "confusion": [
+      "cancerous",
+      "candor",
+      "canter",
+      "canca"
+    ]
+  },
+  {
+    "word": "voice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The sound produced by humans or animals when speaking or singing.",
+        "meaning_zh_TW": "聲音",
+        "wrong_meaning_zh_TW": [
+          "音樂",
+          "噪音",
+          "回聲"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a beautiful singing [voice].",
+            "translation_zh_TW": "她有一個美妙的唱歌聲音"
+          },
+          {
+            "sentence": "Listen to the sound of her [voice] in the recording.",
+            "translation_zh_TW": "聽聽她在錄音中的聲音"
+          },
+          {
+            "sentence": "He raised his [voice] to be heard over the crowd.",
+            "translation_zh_TW": "他提高了聲音以便在人群中被聽到"
+          }
+        ],
+        "synonyms": [
+          "tone",
+          "vocalization"
+        ]
+      }
+    ],
+    "confusion": [
+      "vices",
+      "voiced",
+      "void",
+      "voyce"
+    ]
+  },
+  {
+    "word": "schedule",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A plan for carrying out a process or procedure.",
+        "meaning_zh_TW": "行程",
+        "wrong_meaning_zh_TW": [
+          "隨意",
+          "變更",
+          "版次"
+        ],
+        "examples": [
+          {
+            "sentence": "I have a busy [schedule] this week.",
+            "translation_zh_TW": "我這周的行程很忙。"
+          },
+          {
+            "sentence": "Please check the [schedule] for the meeting.",
+            "translation_zh_TW": "請查看會議的時間表。"
+          },
+          {
+            "sentence": "The [schedule] includes all my appointments.",
+            "translation_zh_TW": "這個日程表包括了我的所有約會。"
+          }
+        ],
+        "synonyms": [
+          "timetable",
+          "agenda"
+        ]
+      }
+    ],
+    "confusion": [
+      "scandal",
+      "scuttle",
+      "saddle",
+      "seldom"
+    ]
+  },
+  {
+    "word": "purpose",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The reason for which something is done or created or for which something exists.",
+        "meaning_zh_TW": "目的、意義",
+        "wrong_meaning_zh_TW": [
+          "偶然性",
+          "手段",
+          "意外"
+        ],
+        "examples": [
+          {
+            "sentence": "Understanding your [purpose] is essential for happiness.",
+            "translation_zh_TW": "理解你的目的對於快樂至關重要"
+          },
+          {
+            "sentence": "The [purpose] of the meeting was to discuss plans.",
+            "translation_zh_TW": "這次會議的目的是討論計劃"
+          },
+          {
+            "sentence": "Every action has its own [purpose].",
+            "translation_zh_TW": "每個行動都有其目的"
+          }
+        ],
+        "synonyms": [
+          "intent",
+          "objective"
+        ]
+      }
+    ],
+    "confusion": [
+      "purposely",
+      "purport",
+      "purged",
+      "purrpose"
+    ]
+  },
+  {
+    "word": "feature",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A distinctive attribute or aspect of something.",
+        "meaning_zh_TW": "特徵",
+        "wrong_meaning_zh_TW": [
+          "缺點",
+          "問題",
+          "無能"
+        ],
+        "examples": [
+          {
+            "sentence": "The smartphone has several advanced [features].",
+            "translation_zh_TW": "這款智能手機有幾個先進的特徵。"
+          },
+          {
+            "sentence": "Her unique [features] make her stand out.",
+            "translation_zh_TW": "她獨特的特徵讓她脫穎而出。"
+          },
+          {
+            "sentence": "The new software includes a user-friendly [feature].",
+            "translation_zh_TW": "這款新軟體包含了一個使用者友好的特徵。"
+          }
+        ],
+        "synonyms": [
+          "attribute",
+          "characteristic"
+        ]
+      }
+    ],
+    "confusion": [
+      "fetcha",
+      "featurre",
+      "feeter",
+      "featrue"
+    ]
+  },
+  {
+    "word": "independent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not influenced or controlled by others in matters of opinion, conduct, etc.; thinking or acting for oneself.",
+        "meaning_zh_TW": "獨立的",
+        "wrong_meaning_zh_TW": [
+          "依賴的",
+          "順從的",
+          "從屬的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is an [independent] thinker who values her own opinions.",
+            "translation_zh_TW": "她是一個獨立的思想者，重視自己的觀點。"
+          },
+          {
+            "sentence": "The country became [independent] after years of colonization.",
+            "translation_zh_TW": "這個國家在多年殖民後變得獨立。"
+          },
+          {
+            "sentence": "Being [independent] means making your own decisions.",
+            "translation_zh_TW": "獨立意味著自己做決定。"
+          }
+        ],
+        "synonyms": [
+          "autonomous",
+          "self-sufficient"
+        ]
+      }
+    ],
+    "confusion": [
+      "interdependent",
+      "indie",
+      "interpersonal",
+      "indifferent"
+    ]
+  },
+  {
+    "word": "approach",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come near or nearer to.",
+        "meaning_zh_TW": "接近",
+        "wrong_meaning_zh_TW": [
+          "逃避",
+          "暗示",
+          "討論"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [approach] the problem from a different angle.",
+            "translation_zh_TW": "你需要從不同的角度接近這個問題。"
+          },
+          {
+            "sentence": "The train is about to [approach] the station.",
+            "translation_zh_TW": "火車即將接近車站。"
+          },
+          {
+            "sentence": "She slowly [approached] the podium to give her speech.",
+            "translation_zh_TW": "她慢慢接近演講台準備發言。"
+          }
+        ],
+        "synonyms": [
+          "near",
+          "advance"
+        ]
+      }
+    ],
+    "confusion": [
+      "approching",
+      "approch",
+      "aproach",
+      "approachh"
+    ]
+  },
+  {
+    "word": "sport",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An activity involving physical exertion and skill in which an individual or team competes against another or others.",
+        "meaning_zh_TW": "運動",
+        "wrong_meaning_zh_TW": [
+          "休閒",
+          "工作",
+          "旅行"
+        ],
+        "examples": [
+          {
+            "sentence": "Football is a popular [sport] around the world.",
+            "translation_zh_TW": "足球是世界各地受歡迎的運動。"
+          },
+          {
+            "sentence": "She enjoys participating in [sports] every weekend.",
+            "translation_zh_TW": "她喜歡在每個週末參加運動。"
+          },
+          {
+            "sentence": "The national [sport] is celebrated with a yearly tournament.",
+            "translation_zh_TW": "國家運動每年舉行一次比賽來慶祝。"
+          }
+        ],
+        "synonyms": [
+          "exercise",
+          "game"
+        ]
+      }
+    ],
+    "confusion": [
+      "sort",
+      "spork",
+      "spot",
+      "sporty"
+    ]
+  },
+  {
+    "word": "population",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The total number of people inhabiting a specific area or country.",
+        "meaning_zh_TW": "特定區域或國家居住的總人數",
+        "wrong_meaning_zh_TW": [
+          "國土面積",
+          "經濟成長",
+          "社會制度"
+        ],
+        "examples": [
+          {
+            "sentence": "The [population] of the city has increased significantly over the past decade.",
+            "translation_zh_TW": "該城市的總居住人數在過去十年中顯著增加。"
+          },
+          {
+            "sentence": "Understanding [population] trends can help with urban planning.",
+            "translation_zh_TW": "了解人口趨勢有助於城市規劃。"
+          },
+          {
+            "sentence": "The [population] of this region is diverse and multicultural.",
+            "translation_zh_TW": "該地區的居民總體人數多樣且多元文化。"
+          }
+        ],
+        "synonyms": [
+          "inhabitants",
+          "citizens"
+        ]
+      }
+    ],
+    "confusion": [
+      "populations",
+      "populism",
+      "popularity",
+      "popalation"
+    ]
+  }
+]

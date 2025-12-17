@@ -1,0 +1,783 @@
+[
+  {
+    "word": "eyelid",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fold of skin that covers the eye when closed.",
+        "meaning_zh_TW": "眼瞼",
+        "wrong_meaning_zh_TW": [
+          "瞳孔",
+          "眼球",
+          "睫毛"
+        ],
+        "examples": [
+          {
+            "sentence": "She gently closed her [eyelid] to fall asleep.",
+            "translation_zh_TW": "她輕輕地閉上眼瞼入睡"
+          },
+          {
+            "sentence": "He has a scar on his [eyelid].",
+            "translation_zh_TW": "他在眼瞼上有一道傷疤"
+          },
+          {
+            "sentence": "The [eyelid] protects the eye from dust.",
+            "translation_zh_TW": "眼瞼可以保護眼睛免受灰塵"
+          }
+        ],
+        "synonyms": [
+          "lid"
+        ]
+      }
+    ],
+    "confusion": [
+      "eyelids",
+      "eyelide",
+      "eyelides",
+      "eylid"
+    ]
+  },
+  {
+    "word": "janitor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person employed to clean and maintain a building.",
+        "meaning_zh_TW": "清潔工",
+        "wrong_meaning_zh_TW": [
+          "保安",
+          "郵差",
+          "經理"
+        ],
+        "examples": [
+          {
+            "sentence": "The [janitor] mopped the floor every evening.",
+            "translation_zh_TW": "清潔工每晚都拖地。"
+          },
+          {
+            "sentence": "She saw the [janitor] fixing a leak.",
+            "translation_zh_TW": "她看到清潔工在修理漏水。"
+          },
+          {
+            "sentence": "The school [janitor] is very friendly.",
+            "translation_zh_TW": "學校的清潔工非常友好。"
+          }
+        ],
+        "synonyms": [
+          "custodian",
+          "cleaner"
+        ]
+      }
+    ],
+    "confusion": [
+      "janitorium",
+      "janiting",
+      "janitree",
+      "janitile"
+    ]
+  },
+  {
+    "word": "refute",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To prove that a statement or theory is false.",
+        "meaning_zh_TW": "駁斥",
+        "wrong_meaning_zh_TW": [
+          "批准",
+          "增強",
+          "鼓勵"
+        ],
+        "examples": [
+          {
+            "sentence": "The lawyer was able to [refute] the allegations against her client.",
+            "translation_zh_TW": "律師能夠駁斥對她客戶的指控。"
+          },
+          {
+            "sentence": "He presented evidence to [refute] the false claims.",
+            "translation_zh_TW": "他提供了證據來駁斥虛假指控。"
+          },
+          {
+            "sentence": "She tried to [refute] his argument with facts.",
+            "translation_zh_TW": "她試著用事實來駁斥他的論點。"
+          }
+        ],
+        "synonyms": [
+          "disprove",
+          "counter"
+        ]
+      }
+    ],
+    "confusion": [
+      "refutee",
+      "refuer",
+      "repute",
+      "refuter"
+    ]
+  },
+  {
+    "word": "eyesight",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to see.",
+        "meaning_zh_TW": "視力",
+        "wrong_meaning_zh_TW": [
+          "視野",
+          "視窗",
+          "鏡頭"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [eyesight] has deteriorated with age.",
+            "translation_zh_TW": "她的視力隨著年齡的增長而下降"
+          },
+          {
+            "sentence": "He has excellent [eyesight] for detail.",
+            "translation_zh_TW": "他對細節的視力極為出色"
+          },
+          {
+            "sentence": "Protecting your [eyesight] is important.",
+            "translation_zh_TW": "保護視力是很重要的"
+          }
+        ],
+        "synonyms": [
+          "vision",
+          "sight"
+        ]
+      }
+    ],
+    "confusion": [
+      "eyes",
+      "eyese",
+      "sight",
+      "sightse"
+    ]
+  },
+  {
+    "word": "intimidate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To frighten or overawe someone, especially in order to make them do what one wants.",
+        "meaning_zh_TW": "威脅",
+        "wrong_meaning_zh_TW": [
+          "支持",
+          "鼓勵",
+          "放手"
+        ],
+        "examples": [
+          {
+            "sentence": "The loud noise seemed to [intimidate] the children.",
+            "translation_zh_TW": "那聲音似乎威脅了孩子們。"
+          },
+          {
+            "sentence": "He tried to [intimidate] his opponents.",
+            "translation_zh_TW": "他試圖威脅對手。"
+          },
+          {
+            "sentence": "Don't [intimidate] others with your strong presence.",
+            "translation_zh_TW": "不要用你強大的存在威脅他人。"
+          }
+        ],
+        "synonyms": [
+          "frighten",
+          "bully"
+        ]
+      }
+    ],
+    "confusion": [
+      "intimidating",
+      "intimation",
+      "intimiadate",
+      "intsimidate"
+    ]
+  },
+  {
+    "word": "nourishment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The food or other substances necessary for growth, health, and condition.",
+        "meaning_zh_TW": "滋養物",
+        "wrong_meaning_zh_TW": [
+          "廢物",
+          "毒素",
+          "垃圾"
+        ],
+        "examples": [
+          {
+            "sentence": "A balanced diet provides the essential [nourishment].",
+            "translation_zh_TW": "均衡的飲食提供必要的滋養物。"
+          },
+          {
+            "sentence": "Water is an important source of [nourishment].",
+            "translation_zh_TW": "水是重要的滋養物來源。"
+          },
+          {
+            "sentence": "Plants need sunlight as part of their [nourishment].",
+            "translation_zh_TW": "植物需要陽光作為它們的滋養物的一部分。"
+          }
+        ],
+        "synonyms": [
+          "sustenance",
+          "nutrition"
+        ]
+      }
+    ],
+    "confusion": [
+      "nourish",
+      "nourished",
+      "nurturing",
+      "nurturer"
+    ]
+  },
+  {
+    "word": "nourish",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To provide with the food or other substances necessary for growth, health, and condition.",
+        "meaning_zh_TW": "滋養",
+        "wrong_meaning_zh_TW": [
+          "消耗",
+          "毀壞",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "Parents should [nourish] their children properly.",
+            "translation_zh_TW": "父母應該好好滋養他們的孩子。"
+          },
+          {
+            "sentence": "This diet will help you [nourish] your body.",
+            "translation_zh_TW": "這種飲食將幫助你滋養身體。"
+          },
+          {
+            "sentence": "We must [nourish] our minds with knowledge.",
+            "translation_zh_TW": "我們必須用知識滋養我們的頭腦。"
+          }
+        ],
+        "synonyms": [
+          "feed",
+          "sustain"
+        ]
+      }
+    ],
+    "confusion": [
+      "nourishment",
+      "nourished",
+      "nursery",
+      "nurture"
+    ]
+  },
+  {
+    "word": "mow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cut down grass or grain.",
+        "meaning_zh_TW": "割草",
+        "wrong_meaning_zh_TW": [
+          "收拾行李",
+          "翻譯文件",
+          "修理機器"
+        ],
+        "examples": [
+          {
+            "sentence": "He asked me to [mow] the lawn this weekend.",
+            "translation_zh_TW": "他讓我這個週末去割草。"
+          },
+          {
+            "sentence": "It was time to [mow] the overgrown garden.",
+            "translation_zh_TW": "是時候去割那片長草的花園了。"
+          },
+          {
+            "sentence": "Do you know how to [mow] grass properly?",
+            "translation_zh_TW": "你知道如何正確地割草嗎？"
+          }
+        ],
+        "synonyms": [
+          "cut",
+          "trim"
+        ]
+      }
+    ],
+    "confusion": [
+      "mould",
+      "moe",
+      "moue",
+      "mowk"
+    ]
+  },
+  {
+    "word": "cowardly",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking courage; timid.",
+        "meaning_zh_TW": "懦弱的",
+        "wrong_meaning_zh_TW": [
+          "勇敢的",
+          "平靜的",
+          "仁慈的"
+        ],
+        "examples": [
+          {
+            "sentence": "His [cowardly] behavior disappointed his friends.",
+            "translation_zh_TW": "他懦弱的行為讓朋友們失望。"
+          },
+          {
+            "sentence": "She described him as a [cowardly] person.",
+            "translation_zh_TW": "她形容他是一個懦弱的人。"
+          },
+          {
+            "sentence": "It's [cowardly] to avoid a challenge.",
+            "translation_zh_TW": "逃避挑戰是懦弱的。"
+          }
+        ],
+        "synonyms": [
+          "timid",
+          "fearful"
+        ]
+      }
+    ],
+    "confusion": [
+      "coward",
+      "cower",
+      "cow",
+      "cowed"
+    ]
+  },
+  {
+    "word": "healthful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Conducive to health; wholesome.",
+        "meaning_zh_TW": "有益健康的",
+        "wrong_meaning_zh_TW": [
+          "有害的",
+          "無趣的",
+          "發霉的"
+        ],
+        "examples": [
+          {
+            "sentence": "Eating fruits is a [healthful] choice.",
+            "translation_zh_TW": "吃水果是一個有益健康的選擇。"
+          },
+          {
+            "sentence": "The diet is surprisingly [healthful] and satisfying.",
+            "translation_zh_TW": "這種飲食意外地有益健康且令人滿意。"
+          },
+          {
+            "sentence": "She prefers [healthful] snacks over junk food.",
+            "translation_zh_TW": "她更喜歡健康的小吃而不是垃圾食品。"
+          }
+        ],
+        "synonyms": [
+          "nourishing",
+          "beneficial"
+        ]
+      }
+    ],
+    "confusion": [
+      "healthfully",
+      "healthily",
+      "helathful",
+      "helthy"
+    ]
+  },
+  {
+    "word": "preside",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be in a position of authority at a meeting or gathering.",
+        "meaning_zh_TW": "主持",
+        "wrong_meaning_zh_TW": [
+          "參加",
+          "退出",
+          "關閉"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [preside] over the meeting next week.",
+            "translation_zh_TW": "她將主持下週的會議。"
+          },
+          {
+            "sentence": "The judge needs to [preside] fairly over the trial.",
+            "translation_zh_TW": "法官需要公正地主持這次審判。"
+          },
+          {
+            "sentence": "He was chosen to [preside] at the annual conference.",
+            "translation_zh_TW": "他被選中主持年度會議。"
+          }
+        ],
+        "synonyms": [
+          "lead",
+          "direct"
+        ]
+      }
+    ],
+    "confusion": [
+      "president",
+      "presentation",
+      "preservation",
+      "pizza"
+    ]
+  },
+  {
+    "word": "detain",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To keep someone in custody or under restraint.",
+        "meaning_zh_TW": "拘留",
+        "wrong_meaning_zh_TW": [
+          "釋放",
+          "解散",
+          "放鬆"
+        ],
+        "examples": [
+          {
+            "sentence": "The police had to [detain] the suspect for questioning.",
+            "translation_zh_TW": "警方必須拘留嫌疑人以便訊問。"
+          },
+          {
+            "sentence": "They were [detain]ed at the border for paperwork.",
+            "translation_zh_TW": "他們在邊界被拘留以進行文件檢查。"
+          },
+          {
+            "sentence": "The school decided to [detain] students who were late.",
+            "translation_zh_TW": "學校決定拘留遲到的學生。"
+          }
+        ],
+        "synonyms": [
+          "hold",
+          "confine",
+          "retain"
+        ]
+      }
+    ],
+    "confusion": [
+      "detained",
+      "detained",
+      "retained",
+      "detaine"
+    ]
+  },
+  {
+    "word": "rehabilitate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To restore someone to health or normal life through training and therapy after imprisonment, addiction, or illness.",
+        "meaning_zh_TW": "重新融入社會",
+        "wrong_meaning_zh_TW": [
+          "失敗",
+          "困境",
+          "混亂"
+        ],
+        "examples": [
+          {
+            "sentence": "Programs are available to [rehabilitate] former offenders.",
+            "translation_zh_TW": "有計劃可供前罪犯重新融入社會。"
+          },
+          {
+            "sentence": "She underwent surgery to [rehabilitate] her knee.",
+            "translation_zh_TW": "她接受了手術以修復膝蓋。"
+          },
+          {
+            "sentence": "The goal is to [rehabilitate] patients back to their daily activities.",
+            "translation_zh_TW": "目標是幫助患者恢復日常活動。"
+          }
+        ],
+        "synonyms": [
+          "restore",
+          "redeem"
+        ]
+      }
+    ],
+    "confusion": [
+      "rehab",
+      "rehabilitated",
+      "rehearse",
+      "rehabilitating"
+    ]
+  },
+  {
+    "word": "violinist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who plays the violin.",
+        "meaning_zh_TW": "小提琴手",
+        "wrong_meaning_zh_TW": [
+          "樂團指揮",
+          "鋼琴家",
+          "歌手"
+        ],
+        "examples": [
+          {
+            "sentence": "The violinist performed beautifully at the concert.",
+            "translation_zh_TW": "小提琴手在音樂會上演奏得非常優美。"
+          },
+          {
+            "sentence": "She started training as a violinist at a young age.",
+            "translation_zh_TW": "她在年輕時開始接受小提琴手的訓練。"
+          },
+          {
+            "sentence": "The famous violinist toured the world with her orchestra.",
+            "translation_zh_TW": "這位著名的小提琴手和她的管弦樂團巡演世界。"
+          }
+        ],
+        "synonyms": [
+          "fiddler",
+          "string player",
+          "orchestral musician"
+        ]
+      }
+    ],
+    "confusion": [
+      "viola",
+      "viol",
+      "violence",
+      "violet"
+    ]
+  },
+  {
+    "word": "broil",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cook (meat or fish) by exposing it to direct, intense heat.",
+        "meaning_zh_TW": "燒烤",
+        "wrong_meaning_zh_TW": [
+          "煮沸",
+          "油炸",
+          "蒸熟"
+        ],
+        "examples": [
+          {
+            "sentence": "You should [broil] the chicken for about 20 minutes.",
+            "translation_zh_TW": "你應該把雞燒烤大約20分鐘。"
+          },
+          {
+            "sentence": "I love to [broil] vegetables on the grill.",
+            "translation_zh_TW": "我喜歡在燒烤架上燒烤蔬菜。"
+          },
+          {
+            "sentence": "Make sure to [broil] the steaks evenly on both sides.",
+            "translation_zh_TW": "確保為牛排兩面均勻燒烤。"
+          }
+        ],
+        "synonyms": [
+          "grill",
+          "scorch"
+        ]
+      }
+    ],
+    "confusion": [
+      "brood",
+      "brawl",
+      "broke",
+      "broad"
+    ]
+  },
+  {
+    "word": "groan",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a low sound of pain or discomfort.",
+        "meaning_zh_TW": "呻吟",
+        "wrong_meaning_zh_TW": [
+          "歡笑",
+          "嬉鬧",
+          "鼓掌"
+        ],
+        "examples": [
+          {
+            "sentence": "He let out a [groan] of frustration.",
+            "translation_zh_TW": "他因沮喪而發出一聲呻吟"
+          },
+          {
+            "sentence": "The old chair would [groan] when you sat down.",
+            "translation_zh_TW": "當你坐下來時，舊椅子會發出呻吟聲"
+          },
+          {
+            "sentence": "She [groan]ed when she realized her mistake.",
+            "translation_zh_TW": "她意識到自己的錯誤時發出呻吟"
+          }
+        ],
+        "synonyms": [
+          "moan",
+          "lament"
+        ]
+      }
+    ],
+    "confusion": [
+      "groom",
+      "groove",
+      "grocery",
+      "gron"
+    ]
+  },
+  {
+    "word": "growl",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To emit a low, guttural sound of anger or menace.",
+        "meaning_zh_TW": "低沉地咆哮",
+        "wrong_meaning_zh_TW": [
+          "高亢的叫聲",
+          "甜美的歌唱",
+          "沉默不語"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog began to [growl] at the stranger.",
+            "translation_zh_TW": "那隻狗開始對陌生人咆哮。"
+          },
+          {
+            "sentence": "He could hear the thunder [growling] in the distance.",
+            "translation_zh_TW": "他能聽到遠處的雷聲滾動。"
+          },
+          {
+            "sentence": "The cat [growled] when I tried to pet her.",
+            "translation_zh_TW": "當我試著摸她時，貓咪咆哮了。"
+          }
+        ],
+        "synonyms": [
+          "snarl",
+          "grumble"
+        ]
+      }
+    ],
+    "confusion": [
+      "grow",
+      "gowl",
+      "grawl",
+      "crowl"
+    ]
+  },
+  {
+    "word": "gallop",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To run fast while producing a gait characteristic of a horse.",
+        "meaning_zh_TW": "疾馳",
+        "wrong_meaning_zh_TW": [
+          "慢跑",
+          "遊蕩",
+          "擺動"
+        ],
+        "examples": [
+          {
+            "sentence": "The horse began to [gallop] across the field.",
+            "translation_zh_TW": "馬開始在田野上疾馳。"
+          },
+          {
+            "sentence": "They [gallop] to catch up with their friends.",
+            "translation_zh_TW": "他們疾馳以趕上朋友。"
+          },
+          {
+            "sentence": "She loves to [gallop] during the races.",
+            "translation_zh_TW": "她喜歡在比賽中疾馳。"
+          }
+        ],
+        "synonyms": [
+          "dash",
+          "race"
+        ]
+      }
+    ],
+    "confusion": [
+      "galloped",
+      "galop",
+      "galloping",
+      "gally"
+    ]
+  },
+  {
+    "word": "mischievous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing or showing a fondness for causing trouble in a playful way.",
+        "meaning_zh_TW": "調皮的",
+        "wrong_meaning_zh_TW": [
+          "呆板的",
+          "無趣的",
+          "討厭的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mischievous] child hid behind the curtain.",
+            "translation_zh_TW": "那個調皮的孩子藏在窗簾後面。"
+          },
+          {
+            "sentence": "He had a [mischievous] grin on his face.",
+            "translation_zh_TW": "他臉上帶著一個調皮的笑容。"
+          },
+          {
+            "sentence": "She made a [mischievous] joke during class.",
+            "translation_zh_TW": "她在課堂上說了一個調皮的笑話。"
+          }
+        ],
+        "synonyms": [
+          "playful",
+          "naughty"
+        ]
+      }
+    ],
+    "confusion": [
+      "mischief",
+      "miserable",
+      "miser",
+      "missile"
+    ]
+  },
+  {
+    "word": "subsidize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To support an organization or activity financially.",
+        "meaning_zh_TW": "補貼",
+        "wrong_meaning_zh_TW": [
+          "收費",
+          "償還",
+          "削減"
+        ],
+        "examples": [
+          {
+            "sentence": "The government will [subsidize] public transportation.",
+            "translation_zh_TW": "政府將補貼公共交通。"
+          },
+          {
+            "sentence": "They plan to [subsidize] education programs.",
+            "translation_zh_TW": "他們計劃補貼教育項目。"
+          },
+          {
+            "sentence": "Many farmers receive [subsidize] from the state.",
+            "translation_zh_TW": "許多農民從國家獲得補貼。"
+          }
+        ],
+        "synonyms": [
+          "financial aid",
+          "support"
+        ]
+      }
+    ],
+    "confusion": [
+      "subsidized",
+      "subsidizing",
+      "subsidizer",
+      "subside"
+    ]
+  }
+]

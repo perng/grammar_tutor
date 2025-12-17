@@ -1,0 +1,782 @@
+[
+  {
+    "word": "colonial",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or characteristic of a colony or colonies.",
+        "meaning_zh_TW": "殖民的",
+        "wrong_meaning_zh_TW": [
+          "經典的",
+          "獨立的",
+          "傳奇的"
+        ],
+        "examples": [
+          {
+            "sentence": "The museum features [colonial] artifacts from the 18th century.",
+            "translation_zh_TW": "博物館展出了18世紀的殖民文物。"
+          },
+          {
+            "sentence": "The [colonial] architecture is a major tourist attraction.",
+            "translation_zh_TW": "這座殖民建築是主要的旅遊景點。"
+          },
+          {
+            "sentence": "Many [colonial] influences can be seen in the local culture.",
+            "translation_zh_TW": "當地文化中可以看到許多殖民影響。"
+          }
+        ],
+        "synonyms": [
+          "settler",
+          "imperial"
+        ]
+      }
+    ],
+    "confusion": [
+      "colonel",
+      "colony",
+      "colonize",
+      "colorful"
+    ]
+  },
+  {
+    "word": "reminder",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A message or note that serves to alert someone to something they need to remember.",
+        "meaning_zh_TW": "提醒，通知",
+        "wrong_meaning_zh_TW": [
+          "闡述",
+          "螢幕",
+          "提示器"
+        ],
+        "examples": [
+          {
+            "sentence": "I set a [reminder] on my phone for the meeting.",
+            "translation_zh_TW": "我在手機上設定了會議的提醒。"
+          },
+          {
+            "sentence": "The calendar serves as a useful [reminder] for important dates.",
+            "translation_zh_TW": "日曆作為重要日期的有用提醒。"
+          },
+          {
+            "sentence": "He received a [reminder] email about the upcoming deadline.",
+            "translation_zh_TW": "他收到了一封關於即將到期的提醒郵件。"
+          }
+        ],
+        "synonyms": [
+          "alert",
+          "notification"
+        ]
+      }
+    ],
+    "confusion": [
+      "remind",
+      "remindder",
+      "remainder",
+      "remindar"
+    ]
+  },
+  {
+    "word": "nonprofit",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not aiming to make a profit; typically a type of organization that serves a public good.",
+        "meaning_zh_TW": "非盈利的",
+        "wrong_meaning_zh_TW": [
+          "低成本",
+          "非正式",
+          "商業性"
+        ],
+        "examples": [
+          {
+            "sentence": "She works for a [nonprofit] organization focused on education.",
+            "translation_zh_TW": "她在一家專注於教育的非盈利組織工作。"
+          },
+          {
+            "sentence": "The [nonprofit] sector plays a vital role in society.",
+            "translation_zh_TW": "非盈利部門在社會中扮演著重要角色。"
+          },
+          {
+            "sentence": "Many [nonprofit] groups rely on donations.",
+            "translation_zh_TW": "許多非盈利團體依賴捐款。"
+          }
+        ],
+        "synonyms": [
+          "charitable",
+          "philanthropic"
+        ]
+      }
+    ],
+    "confusion": [
+      "nonprofitability",
+      "nonnative",
+      "nonprofitability",
+      "nonstop"
+    ]
+  },
+  {
+    "word": "integrate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To combine two or more things to form a whole.",
+        "meaning_zh_TW": "整合",
+        "wrong_meaning_zh_TW": [
+          "分開",
+          "延伸",
+          "分散"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [integrate] the new software into our system.",
+            "translation_zh_TW": "我們需要將新軟體整合進系統中。"
+          },
+          {
+            "sentence": "The school aims to [integrate] students from diverse backgrounds.",
+            "translation_zh_TW": "這所學校的目標是整合來自不同背景的學生。"
+          },
+          {
+            "sentence": "Efforts to [integrate] the local culture with modern practices are vital.",
+            "translation_zh_TW": "將當地文化與現代實踐整合的努力至關重要。"
+          }
+        ],
+        "synonyms": [
+          "combine",
+          "unite"
+        ]
+      }
+    ],
+    "confusion": [
+      "inaggregate",
+      "integrator",
+      "integral",
+      "intergate"
+    ]
+  },
+  {
+    "word": "custody",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The protective care or guardianship of someone or something.",
+        "meaning_zh_TW": "監護",
+        "wrong_meaning_zh_TW": [
+          "借貸",
+          "監視器",
+          "出售"
+        ],
+        "examples": [
+          {
+            "sentence": "The child was placed in the [custody] of her grandparents.",
+            "translation_zh_TW": "孩子被安置在祖父母的監護之下"
+          },
+          {
+            "sentence": "Legal battles often arise over [custody] arrangements.",
+            "translation_zh_TW": "法律糾紛經常圍繞監護安排展開"
+          },
+          {
+            "sentence": "He was denied [custody] rights due to his past.",
+            "translation_zh_TW": "由於他的過去，他被拒絕了監護權"
+          }
+        ],
+        "synonyms": [
+          "guardianship",
+          "care"
+        ]
+      }
+    ],
+    "confusion": [
+      "costody",
+      "custom",
+      "customer",
+      "casualty"
+    ]
+  },
+  {
+    "word": "nasty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Highly unpleasant, offensive, or disgusting.",
+        "meaning_zh_TW": "令人厭惡的",
+        "wrong_meaning_zh_TW": [
+          "十分可愛",
+          "非常花俏",
+          "極其平靜"
+        ],
+        "examples": [
+          {
+            "sentence": "The weather turned [nasty] during the event.",
+            "translation_zh_TW": "活動期間天氣變得令人厭惡"
+          },
+          {
+            "sentence": "He made some [nasty] comments about her.",
+            "translation_zh_TW": "他對她發表了一些令人厭惡的評論"
+          },
+          {
+            "sentence": "That was a [nasty] fall you took.",
+            "translation_zh_TW": "你摔得可真慘"
+          }
+        ],
+        "synonyms": [
+          "gross",
+          "foul"
+        ]
+      }
+    ],
+    "confusion": [
+      "nasty",
+      "nasssty",
+      "nastyly",
+      "nastee"
+    ]
+  },
+  {
+    "word": "tumor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mass of tissue that's formed by the abnormal growth of cells.",
+        "meaning_zh_TW": "腫瘤",
+        "wrong_meaning_zh_TW": [
+          "健康",
+          "肌肉",
+          "組織"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor discovered a [tumor] during the examination.",
+            "translation_zh_TW": "醫生在檢查中發現了一個腫瘤。"
+          },
+          {
+            "sentence": "Not all [tumors] are cancerous.",
+            "translation_zh_TW": "不是所有腫瘤都是惡性的。"
+          },
+          {
+            "sentence": "Early detection of a [tumor] can improve treatment outcomes.",
+            "translation_zh_TW": "及早發現腫瘤可以改善治療效果。"
+          }
+        ],
+        "synonyms": [
+          "neoplasm",
+          "growth"
+        ]
+      }
+    ],
+    "confusion": [
+      "tutor",
+      "tumors",
+      "tummor",
+      "tumer"
+    ]
+  },
+  {
+    "word": "notion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A belief or idea about something.",
+        "meaning_zh_TW": "觀念、想法",
+        "wrong_meaning_zh_TW": [
+          "具體事物",
+          "實體",
+          "事務"
+        ],
+        "examples": [
+          {
+            "sentence": "His [notion] of success is different from others.",
+            "translation_zh_TW": "他對成功的觀念與他人不同。"
+          },
+          {
+            "sentence": "The [notion] of freedom varies by culture.",
+            "translation_zh_TW": "自由的觀念因文化而異。"
+          },
+          {
+            "sentence": "They challenged the common [notion] of beauty.",
+            "translation_zh_TW": "他們挑戰了對於美的共同觀念。"
+          }
+        ],
+        "synonyms": [
+          "idea",
+          "concept"
+        ]
+      }
+    ],
+    "confusion": [
+      "motion",
+      "notifier",
+      "notation",
+      "not fatal"
+    ]
+  },
+  {
+    "word": "surplus",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An amount of something that is more than needed.",
+        "meaning_zh_TW": "過剩、剩餘",
+        "wrong_meaning_zh_TW": [
+          "借款",
+          "預算赤字",
+          "誤算"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a surplus of food after the event.",
+            "translation_zh_TW": "活動結束後有食物的剩餘。"
+          },
+          {
+            "sentence": "They sold off their surplus inventory.",
+            "translation_zh_TW": "他們清理了多餘的庫存。"
+          },
+          {
+            "sentence": "A budget surplus can be used for future projects.",
+            "translation_zh_TW": "預算過剩可以用來未來的項目。"
+          }
+        ],
+        "synonyms": [
+          "excess",
+          "remainder"
+        ]
+      }
+    ],
+    "confusion": [
+      "surveil",
+      "surliness",
+      "surtax",
+      "surprise"
+    ]
+  },
+  {
+    "word": "gravity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The force that attracts a body towards the center of the earth, or towards any other physical body having mass.",
+        "meaning_zh_TW": "重力",
+        "wrong_meaning_zh_TW": [
+          "磁力",
+          "浮力",
+          "推力"
+        ],
+        "examples": [
+          {
+            "sentence": "The [gravity] of the situation was clear.",
+            "translation_zh_TW": "情況的重力是明顯的。"
+          },
+          {
+            "sentence": "He explained the laws of [gravity] in his lecture.",
+            "translation_zh_TW": "他在講座中解釋了重力的法則。"
+          },
+          {
+            "sentence": "Objects fall due to [gravity].",
+            "translation_zh_TW": "物體因重力而下落。"
+          }
+        ],
+        "synonyms": [
+          "attraction",
+          "force"
+        ]
+      }
+    ],
+    "confusion": [
+      "gravitation",
+      "gravitational",
+      "grave",
+      "gravy"
+    ]
+  },
+  {
+    "word": "incorporate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take in or contain (something) as part of a whole.",
+        "meaning_zh_TW": "合併",
+        "wrong_meaning_zh_TW": [
+          "拆分",
+          "分開",
+          "排斥"
+        ],
+        "examples": [
+          {
+            "sentence": "We should [incorporate] feedback into our plan.",
+            "translation_zh_TW": "我們應該將反饋合併到計畫中。"
+          },
+          {
+            "sentence": "The new design will [incorporate] several innovative features.",
+            "translation_zh_TW": "新設計將合併幾項創新特徵。"
+          },
+          {
+            "sentence": "It is important to [incorporate] diverse perspectives.",
+            "translation_zh_TW": "合併多元觀點很重要。"
+          }
+        ],
+        "synonyms": [
+          "merge",
+          "combine"
+        ]
+      }
+    ],
+    "confusion": [
+      "incorperate",
+      "incorporat",
+      "inccorporate",
+      "incoproate"
+    ]
+  },
+  {
+    "word": "essence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The intrinsic nature or indispensable quality of something.",
+        "meaning_zh_TW": "本質、精髓",
+        "wrong_meaning_zh_TW": [
+          "外表",
+          "形式",
+          "狀態"
+        ],
+        "examples": [
+          {
+            "sentence": "The essence of the argument was lost.",
+            "translation_zh_TW": "論點的本質被忽略了。"
+          },
+          {
+            "sentence": "In essence, we all want the same thing.",
+            "translation_zh_TW": "本質上，我們都想要相同的東西。"
+          },
+          {
+            "sentence": "Her essence is reflected in her artwork.",
+            "translation_zh_TW": "她的藝術作品反映了她的本質。"
+          }
+        ],
+        "synonyms": [
+          "nature",
+          "substance"
+        ]
+      }
+    ],
+    "confusion": [
+      "presence",
+      "essence's",
+      "absence",
+      "essential"
+    ]
+  },
+  {
+    "word": "galaxy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+        "meaning_zh_TW": "星系",
+        "wrong_meaning_zh_TW": [
+          "銀河",
+          "星座",
+          "行星"
+        ],
+        "examples": [
+          {
+            "sentence": "The Milky Way is the galaxy that contains our solar system.",
+            "translation_zh_TW": "銀河系是包含我們太陽系的星系"
+          },
+          {
+            "sentence": "Astronomers are studying another distant [galaxy].",
+            "translation_zh_TW": "天文學家正在研究另一個遙遠的星系"
+          },
+          {
+            "sentence": "There are billions of stars in our [galaxy].",
+            "translation_zh_TW": "我們的星系中有數十億顆星星"
+          }
+        ],
+        "synonyms": [
+          "star system",
+          "universe"
+        ]
+      }
+    ],
+    "confusion": [
+      "gallery",
+      "gallop",
+      "gallium",
+      "galas"
+    ]
+  },
+  {
+    "word": "minimize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To reduce something to the least possible amount or degree.",
+        "meaning_zh_TW": "最小化、減少到最少",
+        "wrong_meaning_zh_TW": [
+          "增加、擴大",
+          "強化、增強",
+          "暴增、加大"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [minimize] the risks involved in the project.",
+            "translation_zh_TW": "我們需要將這個項目中的風險最小化。"
+          },
+          {
+            "sentence": "He tried to [minimize] his mistakes during the presentation.",
+            "translation_zh_TW": "他試圖在演示中最小化他的錯誤。"
+          },
+          {
+            "sentence": "The team worked hard to [minimize] costs.",
+            "translation_zh_TW": "團隊努力將成本降到最低。"
+          }
+        ],
+        "synonyms": [
+          "reduce",
+          "diminish"
+        ]
+      }
+    ],
+    "confusion": [
+      "minimizee",
+      "minimus",
+      "minamize",
+      "minmiz"
+    ]
+  },
+  {
+    "word": "wilderness",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A natural environment that has not been significantly modified by human activity.",
+        "meaning_zh_TW": "荒野",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "人造物",
+          "建築群"
+        ],
+        "examples": [
+          {
+            "sentence": "The hikers ventured deep into the [wilderness].",
+            "translation_zh_TW": "徒步旅行者深入荒野。"
+          },
+          {
+            "sentence": "Protecting the [wilderness] is crucial for preserving biodiversity.",
+            "translation_zh_TW": "保護荒野對於維護生物多樣性至關重要。"
+          },
+          {
+            "sentence": "They loved camping in the [wilderness] every summer.",
+            "translation_zh_TW": "他們每年夏天都喜歡在荒野露營。"
+          }
+        ],
+        "synonyms": [
+          "backcountry",
+          "wild"
+        ]
+      }
+    ],
+    "confusion": [
+      "wilder",
+      "wildernes",
+      "wildness",
+      "wildernes"
+    ]
+  },
+  {
+    "word": "debut",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person's first appearance or performance in a particular capacity.",
+        "meaning_zh_TW": "首次登場、出道",
+        "wrong_meaning_zh_TW": [
+          "結束",
+          "宣告",
+          "命名"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [debut] album received critical acclaim.",
+            "translation_zh_TW": "她的首張專輯獲得了評論界的讚譽"
+          },
+          {
+            "sentence": "He made his [debut] on Broadway last night.",
+            "translation_zh_TW": "他昨晚在百老匯首次登場"
+          },
+          {
+            "sentence": "The film marked her [debut] as a director.",
+            "translation_zh_TW": "這部電影標誌著她的導演處女作"
+          }
+        ],
+        "synonyms": [
+          "introduction",
+          "premiere"
+        ]
+      }
+    ],
+    "confusion": [
+      "debute",
+      "debuty",
+      "debutt",
+      "debeut"
+    ]
+  },
+  {
+    "word": "sponsorship",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Financial support for an event or organization.",
+        "meaning_zh_TW": "贊助",
+        "wrong_meaning_zh_TW": [
+          "調整",
+          "報名費",
+          "費用"
+        ],
+        "examples": [
+          {
+            "sentence": "The [sponsorship] helped the team travel to the finals.",
+            "translation_zh_TW": "贊助幫助了球隊前往決賽。"
+          },
+          {
+            "sentence": "We are seeking [sponsorship] for our upcoming project.",
+            "translation_zh_TW": "我們正在尋求即將舉行的項目的贊助。"
+          },
+          {
+            "sentence": "Their [sponsorship] will allow us to enhance our facilities.",
+            "translation_zh_TW": "他們的贊助將使我們能夠改善設施。"
+          }
+        ],
+        "synonyms": [
+          "funding",
+          "backing"
+        ]
+      }
+    ],
+    "confusion": [
+      "sponshorship",
+      "sponsers",
+      "sponsorships",
+      "sponsering"
+    ]
+  },
+  {
+    "word": "fraction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A numerical quantity that is not a whole number.",
+        "meaning_zh_TW": "分數",
+        "wrong_meaning_zh_TW": [
+          "整數",
+          "比率",
+          "量度"
+        ],
+        "examples": [
+          {
+            "sentence": "She calculated the [fraction] to find her score.",
+            "translation_zh_TW": "她計算了分數來查找她的得分。"
+          },
+          {
+            "sentence": "A [fraction] of the voters turned out to participate.",
+            "translation_zh_TW": "只有一部分選民出來參加投票。"
+          },
+          {
+            "sentence": "He understands how to add and subtract [fractions].",
+            "translation_zh_TW": "他了解如何加減分數。"
+          }
+        ],
+        "synonyms": [
+          "portion",
+          "part"
+        ]
+      }
+    ],
+    "confusion": [
+      "faction",
+      "traction",
+      "friction",
+      "frictional"
+    ]
+  },
+  {
+    "word": "clarity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being clear, coherent, and easily understood.",
+        "meaning_zh_TW": "清晰、明確",
+        "wrong_meaning_zh_TW": [
+          "混亂",
+          "模糊",
+          "不確定"
+        ],
+        "examples": [
+          {
+            "sentence": "The [clarity] of her explanation helped everyone understand.",
+            "translation_zh_TW": "她的解釋清晰，使每個人都能理解"
+          },
+          {
+            "sentence": "He strived for [clarity] in his writing.",
+            "translation_zh_TW": "他在寫作中追求清晰性"
+          },
+          {
+            "sentence": "We need to ensure the [clarity] of our communication.",
+            "translation_zh_TW": "我們需要確保我們的溝通清晰"
+          }
+        ],
+        "synonyms": [
+          "lucidity",
+          "clearness"
+        ]
+      }
+    ],
+    "confusion": [
+      "clarities",
+      "clarityz",
+      "clarityy",
+      "claratty"
+    ]
+  },
+  {
+    "word": "beneficial",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Producing good results or helpful effects.",
+        "meaning_zh_TW": "有益的",
+        "wrong_meaning_zh_TW": [
+          "有害的",
+          "無效的",
+          "相對的"
+        ],
+        "examples": [
+          {
+            "sentence": "Regular exercise is [beneficial] for health.",
+            "translation_zh_TW": "定期運動對健康是有益的"
+          },
+          {
+            "sentence": "The program aims to provide [beneficial] resources.",
+            "translation_zh_TW": "該計劃旨在提供有益的資源"
+          },
+          {
+            "sentence": "These changes can have [beneficial] impacts.",
+            "translation_zh_TW": "這些變化可以產生有益的影響"
+          }
+        ],
+        "synonyms": [
+          "advantageous",
+          "helpful"
+        ]
+      }
+    ],
+    "confusion": [
+      "benificial",
+      "benefit",
+      "benefits",
+      "benefice"
+    ]
+  }
+]

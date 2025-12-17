@@ -1,0 +1,740 @@
+[
+  {
+    "word": "garden",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+        "meaning_zh_TW": "花園",
+        "wrong_meaning_zh_TW": [
+          "草地",
+          "遊樂場",
+          "農場"
+        ],
+        "examples": [
+          {
+            "sentence": "She spends her weekends tending to her [garden].",
+            "translation_zh_TW": "她在週末花時間照顧她的花園。"
+          },
+          {
+            "sentence": "The [garden] is full of blooming flowers in spring.",
+            "translation_zh_TW": "這個花園在春天裡充滿盛開的花朵。"
+          },
+          {
+            "sentence": "They have a vegetable [garden] in their backyard.",
+            "translation_zh_TW": "他們的後院有一個菜園。"
+          }
+        ],
+        "synonyms": [
+          "yard",
+          "plot"
+        ]
+      }
+    ],
+    "confusion": [
+      "garbage",
+      "warden",
+      "great",
+      "gardenia"
+    ]
+  },
+  {
+    "word": "million",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equivalent to the product of a thousand and a thousand; 1,000,000.",
+        "meaning_zh_TW": "百萬",
+        "wrong_meaning_zh_TW": [
+          "一千",
+          "一百",
+          "千萬"
+        ],
+        "examples": [
+          {
+            "sentence": "There are over a [million] stars in the sky.",
+            "translation_zh_TW": "天空中有超過一百萬顆星星。"
+          },
+          {
+            "sentence": "She won a [million] dollars in the lottery.",
+            "translation_zh_TW": "她在彩票中贏得了一百萬美元。"
+          },
+          {
+            "sentence": "The population of the city reached a [million].",
+            "translation_zh_TW": "該市的人口達到一百萬。"
+          }
+        ],
+        "synonyms": [
+          "one million",
+          "meg"
+        ]
+      }
+    ],
+    "confusion": [
+      "millionaire",
+      "millions",
+      "millon",
+      "milion"
+    ]
+  },
+  {
+    "word": "baby",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A very young child, especially one newly or recently born.",
+        "meaning_zh_TW": "嬰兒",
+        "wrong_meaning_zh_TW": [
+          "成年人",
+          "青少年",
+          "幼犬"
+        ],
+        "examples": [
+          {
+            "sentence": "The [baby] is sleeping peacefully.",
+            "translation_zh_TW": "嬰兒正安靜地睡著。"
+          },
+          {
+            "sentence": "She holds the [baby] close to her heart.",
+            "translation_zh_TW": "她將嬰兒緊緊抱在心口。"
+          },
+          {
+            "sentence": "The [baby] giggled at the funny faces.",
+            "translation_zh_TW": "嬰兒對搞笑的臉龐咯咯笑。"
+          }
+        ],
+        "synonyms": [
+          "infant",
+          "newborn"
+        ]
+      }
+    ],
+    "confusion": [
+      "babby",
+      "bab",
+      "babe",
+      "bayba"
+    ]
+  },
+  {
+    "word": "run",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move at a speed faster than a walk.",
+        "meaning_zh_TW": "跑",
+        "wrong_meaning_zh_TW": [
+          "靜止不動",
+          "跳躍",
+          "慢走"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [run] in the marathon this year.",
+            "translation_zh_TW": "他決定今年參加馬拉松賽跑"
+          },
+          {
+            "sentence": "They [run] home every day after school.",
+            "translation_zh_TW": "他們每天放學後都跑回家"
+          },
+          {
+            "sentence": "She can [run] very fast for her age.",
+            "translation_zh_TW": "對於她的年齡來說，她能跑得很快"
+          }
+        ],
+        "synonyms": [
+          "sprint",
+          "jog"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A period of running or exercise.",
+        "meaning_zh_TW": "跑步",
+        "wrong_meaning_zh_TW": [
+          "散步",
+          "停留",
+          "拖延"
+        ],
+        "examples": [
+          {
+            "sentence": "I go for a [run] every morning.",
+            "translation_zh_TW": "我每天早上去跑步"
+          },
+          {
+            "sentence": "Her daily [run] keeps her fit.",
+            "translation_zh_TW": "她每天的跑步讓她保持健康"
+          },
+          {
+            "sentence": "He is training for a long-distance [run].",
+            "translation_zh_TW": "他正在訓練參加長跑"
+          }
+        ],
+        "synonyms": [
+          "jog",
+          "sprint"
+        ]
+      }
+    ],
+    "confusion": [
+      "runny",
+      "rung",
+      "rune",
+      "ruin"
+    ]
+  },
+  {
+    "word": "net",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fabric consisting of a network of filaments, used for catching fish or other animals.",
+        "meaning_zh_TW": "網",
+        "wrong_meaning_zh_TW": [
+          "圍欄",
+          "繩子",
+          "泡沫"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [net] to catch fish.",
+            "translation_zh_TW": "他用了網來捕魚。"
+          },
+          {
+            "sentence": "The [net] was tangled in the branches.",
+            "translation_zh_TW": "網被纏在樹枝上。"
+          },
+          {
+            "sentence": "She bought a [net] for her gardening.",
+            "translation_zh_TW": "她為她的園藝買了一個網。"
+          }
+        ],
+        "synonyms": [
+          "mesh",
+          "web"
+        ]
+      }
+    ],
+    "confusion": [
+      "nett",
+      "not",
+      "netted",
+      "netw"
+    ]
+  },
+  {
+    "word": "popular",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Liked or admired by many people.",
+        "meaning_zh_TW": "受歡迎的",
+        "wrong_meaning_zh_TW": [
+          "普及的",
+          "流行音樂",
+          "公眾演講"
+        ],
+        "examples": [
+          {
+            "sentence": "This movie is very [popular] among teenagers.",
+            "translation_zh_TW": "這部電影在青少年中非常受歡迎。"
+          },
+          {
+            "sentence": "His ideas are [popular] on social media.",
+            "translation_zh_TW": "他的想法在社交媒體上非常受歡迎。"
+          },
+          {
+            "sentence": "She is [popular] in her school for her achievements.",
+            "translation_zh_TW": "她因為成就而在學校中很受歡迎。"
+          }
+        ],
+        "synonyms": [
+          "well-liked",
+          "fashionable"
+        ]
+      }
+    ],
+    "confusion": [
+      "poplar",
+      "popularity",
+      "publication",
+      "populate"
+    ]
+  },
+  {
+    "word": "film",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin layer or coating.",
+        "meaning_zh_TW": "薄膜",
+        "wrong_meaning_zh_TW": [
+          "厚塊",
+          "鋼鐵",
+          "液體"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [film] of dust on the table.",
+            "translation_zh_TW": "桌子上有一層灰塵。"
+          },
+          {
+            "sentence": "She removed the [film] from the window.",
+            "translation_zh_TW": "她從窗戶上移除了薄膜。"
+          },
+          {
+            "sentence": "A [film] of ice covered the pond.",
+            "translation_zh_TW": "池塘上覆蓋著一層冰。"
+          }
+        ],
+        "synonyms": [
+          "layer",
+          "sheet"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A motion picture, especially a feature length film.",
+        "meaning_zh_TW": "電影",
+        "wrong_meaning_zh_TW": [
+          "廣告",
+          "料理",
+          "表演"
+        ],
+        "examples": [
+          {
+            "sentence": "I watched a great [film] last night.",
+            "translation_zh_TW": "我昨晚看了一部精彩的電影。"
+          },
+          {
+            "sentence": "The [film] received several awards.",
+            "translation_zh_TW": "這部電影獲得了幾個獎項。"
+          },
+          {
+            "sentence": "We are going to see a new [film] this weekend.",
+            "translation_zh_TW": "我們這個週末要去看一部新電影。"
+          }
+        ],
+        "synonyms": [
+          "movie",
+          "cinema"
+        ]
+      }
+    ],
+    "confusion": [
+      "firm",
+      "fill",
+      "flimsy",
+      "felm"
+    ]
+  },
+  {
+    "word": "put",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To place something in a particular position.",
+        "meaning_zh_TW": "放置",
+        "wrong_meaning_zh_TW": [
+          "拿走",
+          "舉起",
+          "挪動"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [put] the book on the table.",
+            "translation_zh_TW": "請把書放在桌子上。"
+          },
+          {
+            "sentence": "He decided to [put] his plans into action.",
+            "translation_zh_TW": "他決定開始實行他的計畫。"
+          },
+          {
+            "sentence": "You should [put] your phone away during the meeting.",
+            "translation_zh_TW": "你在會議期間應該把手機收起來。"
+          }
+        ],
+        "synonyms": [
+          "place",
+          "set"
+        ]
+      }
+    ],
+    "confusion": [
+      "putt",
+      "but",
+      "pat",
+      "pit"
+    ]
+  },
+  {
+    "word": "try",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make an attempt or effort to accomplish something.",
+        "meaning_zh_TW": "嘗試",
+        "wrong_meaning_zh_TW": [
+          "放棄",
+          "忽略",
+          "系統性"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [try] my best to finish the project.",
+            "translation_zh_TW": "我會盡力完成這個項目"
+          },
+          {
+            "sentence": "He decided to [try] a new recipe for dinner.",
+            "translation_zh_TW": "他決定試做一個新的晚餐食譜"
+          },
+          {
+            "sentence": "She always tells me to [try] again if I fail.",
+            "translation_zh_TW": "她總是告訴我如果失敗就要再嘗試一次"
+          }
+        ],
+        "synonyms": [
+          "attempt",
+          "endeavor"
+        ]
+      }
+    ],
+    "confusion": [
+      "cry",
+      "fly",
+      "dry",
+      "tie"
+    ]
+  },
+  {
+    "word": "notice",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To become aware of something.",
+        "meaning_zh_TW": "注意到",
+        "wrong_meaning_zh_TW": [
+          "忽略",
+          "忘記",
+          "不稀罕"
+        ],
+        "examples": [
+          {
+            "sentence": "Did you [notice] the changes in the schedule?",
+            "translation_zh_TW": "你有注意到日程的變更嗎？"
+          },
+          {
+            "sentence": "He failed to [notice] the warning signs.",
+            "translation_zh_TW": "他未能注意到警告標誌。"
+          },
+          {
+            "sentence": "I just [noticed] the time!",
+            "translation_zh_TW": "我剛注意到時間！"
+          }
+        ],
+        "synonyms": [
+          "observe",
+          "perceive"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A written or printed announcement.",
+        "meaning_zh_TW": "通知",
+        "wrong_meaning_zh_TW": [
+          "記事本",
+          "手冊",
+          "索引"
+        ],
+        "examples": [
+          {
+            "sentence": "The [notice] on the board is important.",
+            "translation_zh_TW": "公告板上的通知很重要。"
+          },
+          {
+            "sentence": "Please read the [notice] carefully.",
+            "translation_zh_TW": "請仔細閱讀通知。"
+          },
+          {
+            "sentence": "He put up a [notice] about the meeting.",
+            "translation_zh_TW": "他張貼了一個關於會議的通知。"
+          }
+        ],
+        "synonyms": [
+          "announcement",
+          "notification"
+        ]
+      }
+    ],
+    "confusion": [
+      "notable",
+      "noticeable",
+      "notices",
+      "noticed"
+    ]
+  },
+  {
+    "word": "god",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A superhuman being, worshipped as having power over nature or human fortunes.",
+        "meaning_zh_TW": "神",
+        "wrong_meaning_zh_TW": [
+          "地方",
+          "人類",
+          "鳥類"
+        ],
+        "examples": [
+          {
+            "sentence": "Many cultures have their own concept of [God].",
+            "translation_zh_TW": "許多文化都有自己對神的概念"
+          },
+          {
+            "sentence": "In times of trouble, people often turn to [God].",
+            "translation_zh_TW": "在困難時期，人們經常向神祈求"
+          },
+          {
+            "sentence": "She felt a deep connection to [God].",
+            "translation_zh_TW": "她感到與神有深刻的聯繫"
+          }
+        ],
+        "synonyms": [
+          "deity",
+          "divinity"
+        ]
+      }
+    ],
+    "confusion": [
+      "good",
+      "gog",
+      "gad",
+      "goad"
+    ]
+  },
+  {
+    "word": "head",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The uppermost or front part of the body, containing the brain, eyes, ears, nose, and mouth.",
+        "meaning_zh_TW": "頭部",
+        "wrong_meaning_zh_TW": [
+          "包包",
+          "手腕",
+          "膝蓋"
+        ],
+        "examples": [
+          {
+            "sentence": "She nodded her [head] in agreement.",
+            "translation_zh_TW": "她點了點頭表示同意。"
+          },
+          {
+            "sentence": "He wears a hat on his [head].",
+            "translation_zh_TW": "他在頭上戴著一頂帽子。"
+          },
+          {
+            "sentence": "The child has a fever and is holding his [head].",
+            "translation_zh_TW": "孩子發燒，正在捂著他的頭。"
+          }
+        ],
+        "synonyms": [
+          "crown",
+          "skull"
+        ]
+      }
+    ],
+    "confusion": [
+      "hed",
+      "heady",
+      "heade",
+      "headd"
+    ]
+  },
+  {
+    "word": "radio",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The technology of signaling and communicating using radio waves.",
+        "meaning_zh_TW": "無線電",
+        "wrong_meaning_zh_TW": [
+          "電視",
+          "電話",
+          "網絡"
+        ],
+        "examples": [
+          {
+            "sentence": "He listens to [radio] every morning.",
+            "translation_zh_TW": "他每天早上都聽無線電"
+          },
+          {
+            "sentence": "The [radio] broadcast started at noon.",
+            "translation_zh_TW": "無線電廣播在中午開始"
+          },
+          {
+            "sentence": "She works at a local [radio] station.",
+            "translation_zh_TW": "她在當地的無線電台工作"
+          }
+        ],
+        "synonyms": [
+          "broadcast",
+          "transmission"
+        ]
+      }
+    ],
+    "confusion": [
+      "radios",
+      "raido",
+      "reido",
+      "radioo"
+    ]
+  },
+  {
+    "word": "until",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "Up to the point in time or the event mentioned.",
+        "meaning_zh_TW": "直到",
+        "wrong_meaning_zh_TW": [
+          "之後、過後",
+          "相對、相比",
+          "再者、進一步"
+        ],
+        "examples": [
+          {
+            "sentence": "I will wait [until] you arrive.",
+            "translation_zh_TW": "我會等直到你到達。"
+          },
+          {
+            "sentence": "The store is open [until] 10 PM.",
+            "translation_zh_TW": "商店營業到晚上10點。"
+          },
+          {
+            "sentence": "You can stay here [until] the morning.",
+            "translation_zh_TW": "你可以在這裡待到早上。"
+          }
+        ],
+        "synonyms": [
+          "till",
+          "up to",
+          "prior to"
+        ]
+      }
+    ],
+    "confusion": [
+      "untils",
+      "untill",
+      "utnil",
+      "untail"
+    ]
+  },
+  {
+    "word": "color",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.",
+        "meaning_zh_TW": "顏色",
+        "wrong_meaning_zh_TW": [
+          "形狀",
+          "質地",
+          "尺寸"
+        ],
+        "examples": [
+          {
+            "sentence": "The sky turned a beautiful shade of [color] at sunset.",
+            "translation_zh_TW": "夕陽下天空變成了美麗的顏色"
+          },
+          {
+            "sentence": "What [color] do you prefer for the walls?",
+            "translation_zh_TW": "你喜歡牆壁的什麼顏色？"
+          },
+          {
+            "sentence": "She chose a bright red [color] for her dress.",
+            "translation_zh_TW": "她為她的裙子選了一種鮮紅色"
+          }
+        ],
+        "synonyms": [
+          "hue",
+          "shade"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give color to something.",
+        "meaning_zh_TW": "上色",
+        "wrong_meaning_zh_TW": [
+          "再造",
+          "削減",
+          "增強"
+        ],
+        "examples": [
+          {
+            "sentence": "Children love to [color] pictures.",
+            "translation_zh_TW": "孩子們喜歡給圖片上色"
+          },
+          {
+            "sentence": "You can [color] the text using different shades.",
+            "translation_zh_TW": "你可以用不同的顏色給文本上色"
+          },
+          {
+            "sentence": "She decided to [color] her hair blue.",
+            "translation_zh_TW": "她決定把頭髮染藍"
+          }
+        ],
+        "synonyms": [
+          "paint",
+          "dye"
+        ]
+      }
+    ],
+    "confusion": [
+      "collar",
+      "colore",
+      "clor",
+      "clolor"
+    ]
+  },
+  {
+    "word": "away",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "To or at a distance from a particular place.",
+        "meaning_zh_TW": "遠離",
+        "wrong_meaning_zh_TW": [
+          "靠近、接近",
+          "回來、返回",
+          "將要、即將"
+        ],
+        "examples": [
+          {
+            "sentence": "He moved [away] to start a new life.",
+            "translation_zh_TW": "他搬走了以開始新生活。"
+          },
+          {
+            "sentence": "Don't stray too [away] from the path.",
+            "translation_zh_TW": "不要離小路太遠。"
+          },
+          {
+            "sentence": "She is living [away] from home for the first time.",
+            "translation_zh_TW": "她第一次離家生活。"
+          }
+        ],
+        "synonyms": [
+          "distant",
+          "far",
+          "aside"
+        ]
+      }
+    ],
+    "confusion": [
+      "way",
+      "aware",
+      "weigh",
+      "awayy"
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "word": "coalition",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A combination of groups or parties for a particular purpose.",
+        "meaning_zh_TW": "聯盟",
+        "wrong_meaning_zh_TW": [
+          "競爭",
+          "合併",
+          "分裂"
+        ],
+        "examples": [
+          {
+            "sentence": "The two parties formed a [coalition] to win the election.",
+            "translation_zh_TW": "這兩個政黨組成了聯盟以贏得選舉。"
+          },
+          {
+            "sentence": "The [coalition] worked together to pass the new law.",
+            "translation_zh_TW": "聯盟共同努力通過了新法律。"
+          },
+          {
+            "sentence": "A diverse [coalition] can bring about significant change.",
+            "translation_zh_TW": "多元化的聯盟可以帶來重大的變革。"
+          }
+        ],
+        "synonyms": [
+          "alliance",
+          "association"
+        ]
+      }
+    ],
+    "confusion": [
+      "collation",
+      "colonial",
+      "colloquialism",
+      "coalitional"
+    ]
+  },
+  {
+    "word": "enrollment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of enrolling or the number of individuals enrolled.",
+        "meaning_zh_TW": "註冊",
+        "wrong_meaning_zh_TW": [
+          "退學",
+          "限制",
+          "延誤"
+        ],
+        "examples": [
+          {
+            "sentence": "The [enrollment] for the new semester has increased significantly.",
+            "translation_zh_TW": "新學期的註冊人數顯著增加。"
+          },
+          {
+            "sentence": "She checked her [enrollment] status online.",
+            "translation_zh_TW": "她在線檢查了自己的註冊狀態。"
+          },
+          {
+            "sentence": "The school reported a drop in [enrollment] this year.",
+            "translation_zh_TW": "學校報告稱今年的註冊人數下降。"
+          }
+        ],
+        "synonyms": [
+          "registration",
+          "admission",
+          "sign-up"
+        ]
+      }
+    ],
+    "confusion": [
+      "unrollment",
+      "enrollments",
+      "enroll",
+      "inrollment"
+    ]
+  },
+  {
+    "word": "restoration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of bringing back or re-establishing something.",
+        "meaning_zh_TW": "恢復",
+        "wrong_meaning_zh_TW": [
+          "損壞",
+          "降低",
+          "終止"
+        ],
+        "examples": [
+          {
+            "sentence": "The [restoration] of the painting took several months.",
+            "translation_zh_TW": "這幅畫的恢復花了幾個月。"
+          },
+          {
+            "sentence": "They are working on the [restoration] of the old building.",
+            "translation_zh_TW": "他們正在進行老建築的恢復工作。"
+          },
+          {
+            "sentence": "Her health requires [restoration] after the illness.",
+            "translation_zh_TW": "她的健康在生病後需要恢復。"
+          }
+        ],
+        "synonyms": [
+          "recovery",
+          "rebuilding"
+        ]
+      }
+    ],
+    "confusion": [
+      "restorative",
+      "registration",
+      "restful",
+      "restorationist"
+    ]
+  },
+  {
+    "word": "liable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Legally responsible.",
+        "meaning_zh_TW": "負有法律責任的",
+        "wrong_meaning_zh_TW": [
+          "無責任的",
+          "不法的",
+          "可疑的"
+        ],
+        "examples": [
+          {
+            "sentence": "The company is [liable] for the damages.",
+            "translation_zh_TW": "公司對損害負有法律責任。"
+          },
+          {
+            "sentence": "They are [liable] to pay fines.",
+            "translation_zh_TW": "他們可能需要支付罰款。"
+          },
+          {
+            "sentence": "In case of a breach, you are [liable].",
+            "translation_zh_TW": "如果違規，你將負有法律責任。"
+          }
+        ],
+        "synonyms": [
+          "responsible",
+          "accountable"
+        ]
+      }
+    ],
+    "confusion": [
+      "libel",
+      "liabley",
+      "lyable",
+      "libelous"
+    ]
+  },
+  {
+    "word": "brochure",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small book or magazine containing pictures and information about a product or service.",
+        "meaning_zh_TW": "小冊子",
+        "wrong_meaning_zh_TW": [
+          "報告",
+          "目錄",
+          "傳單"
+        ],
+        "examples": [
+          {
+            "sentence": "I received a [brochure] about the new hotel.",
+            "translation_zh_TW": "我收到了有關新酒店的小冊子。"
+          },
+          {
+            "sentence": "The [brochure] highlights the amazing features of the car.",
+            "translation_zh_TW": "這本小冊子突出了這輛汽車的驚人特點。"
+          },
+          {
+            "sentence": "She handed me a [brochure] for the upcoming festival.",
+            "translation_zh_TW": "她把即將舉行的節日的小冊子遞給我。"
+          }
+        ],
+        "synonyms": [
+          "pamphlet",
+          "leaflet"
+        ]
+      }
+    ],
+    "confusion": [
+      "brother",
+      "broach",
+      "brooding",
+      "brouhaha"
+    ]
+  },
+  {
+    "word": "refine",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To improve or perfect by introducing finer elements.",
+        "meaning_zh_TW": "提煉",
+        "wrong_meaning_zh_TW": [
+          "誤會",
+          "防範",
+          "修補"
+        ],
+        "examples": [
+          {
+            "sentence": "She wanted to [refine] her skills before the competition.",
+            "translation_zh_TW": "她想在比賽之前提煉自己的技能。"
+          },
+          {
+            "sentence": "Engineers work to [refine] the design for better performance.",
+            "translation_zh_TW": "工程師努力提煉設計以提高性能。"
+          },
+          {
+            "sentence": "The artist aims to [refine] her technique with each new piece.",
+            "translation_zh_TW": "這位藝術家希望隨著每件新作品來提煉她的技巧。"
+          }
+        ],
+        "synonyms": [
+          "improve",
+          "enhance"
+        ]
+      }
+    ],
+    "confusion": [
+      "define",
+      "refined",
+      "redfine",
+      "reline"
+    ]
+  },
+  {
+    "word": "literacy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to read and write.",
+        "meaning_zh_TW": "識字能力",
+        "wrong_meaning_zh_TW": [
+          "無知",
+          "文盲",
+          "資訊"
+        ],
+        "examples": [
+          {
+            "sentence": "Improving [literacy] rates is essential for the economy.",
+            "translation_zh_TW": "提高識字率對經濟來說是必不可少的。"
+          },
+          {
+            "sentence": "Many organizations are working to enhance [literacy] globally.",
+            "translation_zh_TW": "許多組織正致力於在全球提高識字能力。"
+          },
+          {
+            "sentence": "He was proud of his [literacy] skills from a young age.",
+            "translation_zh_TW": "他從小就為自己的識字能力感到自豪。"
+          }
+        ],
+        "synonyms": [
+          "reading ability",
+          "writing skills"
+        ]
+      }
+    ],
+    "confusion": [
+      "literally",
+      "literature",
+      "litigious",
+      "illicit"
+    ]
+  },
+  {
+    "word": "lottery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A means of raising money by selling numbered tickets and drawing them for prizes.",
+        "meaning_zh_TW": "彩票",
+        "wrong_meaning_zh_TW": [
+          "抽獎",
+          "捐款",
+          "賭博"
+        ],
+        "examples": [
+          {
+            "sentence": "He won a large sum in the [lottery].",
+            "translation_zh_TW": "他在彩票中贏得了一大筆資金."
+          },
+          {
+            "sentence": "Many people buy tickets hoping to win the [lottery].",
+            "translation_zh_TW": "許多人購買彩票希望能中獎."
+          },
+          {
+            "sentence": "The [lottery] funds are used for educational programs.",
+            "translation_zh_TW": "彩票的資金用於教育計畫."
+          }
+        ],
+        "synonyms": [
+          "raffle",
+          "drawing"
+        ]
+      }
+    ],
+    "confusion": [
+      "lotery",
+      "lahtery",
+      "lotta",
+      "lotto"
+    ]
+  },
+  {
+    "word": "disposal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or process of getting rid of something.",
+        "meaning_zh_TW": "處理",
+        "wrong_meaning_zh_TW": [
+          "收集",
+          "管理",
+          "抵押"
+        ],
+        "examples": [
+          {
+            "sentence": "Proper waste [disposal] is crucial for environmental health.",
+            "translation_zh_TW": "適當的廢物處理對於環境健康至關重要。"
+          },
+          {
+            "sentence": "They have a policy for the [disposal] of hazardous materials.",
+            "translation_zh_TW": "他們有一項危險材料處理政策。"
+          },
+          {
+            "sentence": "The [disposal] site is located far from residential areas.",
+            "translation_zh_TW": "處理場地位於遠離居民區的地方。"
+          }
+        ],
+        "synonyms": [
+          "management",
+          "elimination"
+        ]
+      }
+    ],
+    "confusion": [
+      "dispose",
+      "dispossession",
+      "disposalist",
+      "disposable"
+    ]
+  },
+  {
+    "word": "commonwealth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A political community founded for the common good.",
+        "meaning_zh_TW": "共同體",
+        "wrong_meaning_zh_TW": [
+          "國王的",
+          "獨裁者",
+          "私有財產"
+        ],
+        "examples": [
+          {
+            "sentence": "The concept of [commonwealth] emphasizes the welfare of the public.",
+            "translation_zh_TW": "共同體的概念強調公共福利。"
+          },
+          {
+            "sentence": "Several states in the U.S. are considered [commonwealths].",
+            "translation_zh_TW": "美國的幾個州被視為共同體。"
+          },
+          {
+            "sentence": "The [commonwealth] was established to promote cooperation among its members.",
+            "translation_zh_TW": "共同體的成立旨在促進成員之間的合作。"
+          }
+        ],
+        "synonyms": [
+          "community",
+          "association"
+        ]
+      }
+    ],
+    "confusion": [
+      "commoners",
+      "common",
+      "commerce",
+      "commander"
+    ]
+  },
+  {
+    "word": "workforce",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The group of people engaged in or available for work.",
+        "meaning_zh_TW": "勞動力",
+        "wrong_meaning_zh_TW": [
+          "工作場所",
+          "工作物件",
+          "工資"
+        ],
+        "examples": [
+          {
+            "sentence": "The company's [workforce] is highly skilled.",
+            "translation_zh_TW": "公司的勞動力技術高超。"
+          },
+          {
+            "sentence": "A diverse [workforce] can enhance innovation.",
+            "translation_zh_TW": "多元的勞動力能增強創新。"
+          },
+          {
+            "sentence": "The [workforce] is adapting to remote work.",
+            "translation_zh_TW": "勞動力正適應遠距工作。"
+          }
+        ],
+        "synonyms": [
+          "staff",
+          "employees"
+        ]
+      }
+    ],
+    "confusion": [
+      "workforcees",
+      "workforse",
+      "workforcee",
+      "workfroce"
+    ]
+  },
+  {
+    "word": "excerpt",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A portion or extract from a larger text, such as a book or an article.",
+        "meaning_zh_TW": "摘錄",
+        "wrong_meaning_zh_TW": [
+          "更新",
+          "雜誌",
+          "報導"
+        ],
+        "examples": [
+          {
+            "sentence": "The book begins with an [excerpt] from the author’s diary.",
+            "translation_zh_TW": "這本書以作者的日記摘錄開始。"
+          },
+          {
+            "sentence": "She read an [excerpt] during the presentation.",
+            "translation_zh_TW": "她在報告中讀了摘錄。"
+          },
+          {
+            "sentence": "An [excerpt] of the article was published online.",
+            "translation_zh_TW": "文章的摘錄已在線上出版。"
+          }
+        ],
+        "synonyms": [
+          "extract",
+          "fragment"
+        ]
+      }
+    ],
+    "confusion": [
+      "excerpt",
+      "excerp",
+      "exerpt",
+      "excerpted"
+    ]
+  },
+  {
+    "word": "discharge",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To release someone from a duty or obligation.",
+        "meaning_zh_TW": "解除",
+        "wrong_meaning_zh_TW": [
+          "收費",
+          "責任",
+          "負擔"
+        ],
+        "examples": [
+          {
+            "sentence": "He was [discharged] from the hospital after recovery.",
+            "translation_zh_TW": "他康復後被[解除]醫院的檢查。"
+          },
+          {
+            "sentence": "They decided to [discharge] the contract.",
+            "translation_zh_TW": "他們決定[解除]合同。"
+          },
+          {
+            "sentence": "The officer was [discharged] from service.",
+            "translation_zh_TW": "該軍官[解除]了職務。"
+          }
+        ],
+        "synonyms": [
+          "release",
+          "dismiss"
+        ]
+      }
+    ],
+    "confusion": [
+      "dischargeable",
+      "discuss",
+      "dispatched",
+      "disengage"
+    ]
+  },
+  {
+    "word": "resistant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Withstanding the action or effect of something.",
+        "meaning_zh_TW": "有抵抗力的",
+        "wrong_meaning_zh_TW": [
+          "敏感的",
+          "易受影響的",
+          "無抵抗的"
+        ],
+        "examples": [
+          {
+            "sentence": "The plant is [resistant] to drought.",
+            "translation_zh_TW": "這種植物對乾旱有抵抗力。"
+          },
+          {
+            "sentence": "They developed a [resistant] strain of bacteria.",
+            "translation_zh_TW": "他們培養出一種耐藥性的細菌株。"
+          },
+          {
+            "sentence": "This model is [resistant] to water damage.",
+            "translation_zh_TW": "這個模型對水損壞是有抵抗力的。"
+          }
+        ],
+        "synonyms": [
+          "immune",
+          "proof"
+        ]
+      }
+    ],
+    "confusion": [
+      "persistent",
+      "assistant",
+      "resist",
+      "residency"
+    ]
+  },
+  {
+    "word": "extract",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To remove or take out, often by force.",
+        "meaning_zh_TW": "提取",
+        "wrong_meaning_zh_TW": [
+          "添加",
+          "混合",
+          "分配"
+        ],
+        "examples": [
+          {
+            "sentence": "The dentist will [extract] the decayed tooth.",
+            "translation_zh_TW": "牙醫將[提取]蛀牙。"
+          },
+          {
+            "sentence": "You can [extract] juice from fresh fruits.",
+            "translation_zh_TW": "你可以從新鮮水果中[提取]果汁。"
+          },
+          {
+            "sentence": "He managed to [extract] useful information from the data.",
+            "translation_zh_TW": "他成功地從數據中[提取]了有用的信息。"
+          }
+        ],
+        "synonyms": [
+          "remove",
+          "withdraw",
+          "derive"
+        ]
+      }
+    ],
+    "confusion": [
+      "extraction",
+      "extractor",
+      "extra",
+      "extracted"
+    ]
+  },
+  {
+    "word": "coupon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A voucher redeemable for a discount or rebate.",
+        "meaning_zh_TW": "優惠券",
+        "wrong_meaning_zh_TW": [
+          "壓克力",
+          "數量限制",
+          "普通的商品"
+        ],
+        "examples": [
+          {
+            "sentence": "I used a [coupon] to buy the shoes at a lower price.",
+            "translation_zh_TW": "我用優惠券以較低的價格購買鞋子"
+          },
+          {
+            "sentence": "Remember to bring your [coupon] for the discount.",
+            "translation_zh_TW": "記得帶上你的優惠券以享受折扣"
+          },
+          {
+            "sentence": "The store is offering a [coupon] for new customers.",
+            "translation_zh_TW": "這家店為新客戶提供優惠券"
+          }
+        ],
+        "synonyms": [
+          "voucher",
+          "discount ticket"
+        ]
+      }
+    ],
+    "confusion": [
+      "coup",
+      "cooupon",
+      "cupon",
+      "coopen"
+    ]
+  },
+  {
+    "word": "astronomy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The scientific study of the universe and the objects in it.",
+        "meaning_zh_TW": "天文學",
+        "wrong_meaning_zh_TW": [
+          "物理學",
+          "地理學",
+          "氣象學"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a degree in [astronomy].",
+            "translation_zh_TW": "他擁有天文學學位。"
+          },
+          {
+            "sentence": "Modern [astronomy] has advanced our understanding of the universe.",
+            "translation_zh_TW": "現代天文學增進了我們對宇宙的理解。"
+          },
+          {
+            "sentence": "She enjoys reading about [astronomy] and space exploration.",
+            "translation_zh_TW": "她喜歡閱讀有關天文學和太空探索的書籍。"
+          }
+        ],
+        "synonyms": [
+          "cosmology",
+          "stellar science"
+        ]
+      }
+    ],
+    "confusion": [
+      "astrological",
+      "astronomy",
+      "astrology",
+      "astro"
+    ]
+  },
+  {
+    "word": "rap",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To strike a hard surface quickly and sharply.",
+        "meaning_zh_TW": "輕敲",
+        "wrong_meaning_zh_TW": [
+          "猛擊",
+          "拍子",
+          "連續打擊"
+        ],
+        "examples": [
+          {
+            "sentence": "He gave the door a sharp [rap] to get their attention.",
+            "translation_zh_TW": "他輕輕敲了敲門以引起他們的注意。"
+          },
+          {
+            "sentence": "The teacher asked him to [rap] the table for silence.",
+            "translation_zh_TW": "老師要求他輕敲桌子以讓大家安靜。"
+          },
+          {
+            "sentence": "I heard a [rap] on the window during the storm.",
+            "translation_zh_TW": "我在暴風雨中聽到窗口的輕敲聲。"
+          }
+        ],
+        "synonyms": [
+          "knock",
+          "tap"
+        ]
+      }
+    ],
+    "confusion": [
+      "wrap",
+      "rapt",
+      "ramp",
+      "rapp"
+    ]
+  },
+  {
+    "word": "trek",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To go on a long, challenging journey on foot.",
+        "meaning_zh_TW": "徒步長途旅行",
+        "wrong_meaning_zh_TW": [
+          "爬山",
+          "運動會",
+          "旅行團"
+        ],
+        "examples": [
+          {
+            "sentence": "We decided to [trek] through the mountains for a week.",
+            "translation_zh_TW": "我們決定徒步穿越山脈一週。"
+          },
+          {
+            "sentence": "He loves to [trek] in the wilderness on weekends.",
+            "translation_zh_TW": "他喜歡在週末進行野外徒步旅行。"
+          },
+          {
+            "sentence": "They [trek] across the desert during their vacation.",
+            "translation_zh_TW": "他們在度假期間橫越沙漠。"
+          }
+        ],
+        "synonyms": [
+          "hike",
+          "journey"
+        ]
+      }
+    ],
+    "confusion": [
+      "track",
+      "treat",
+      "trick",
+      "trump"
+    ]
+  },
+  {
+    "word": "cosmetic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Related to beauty or the application of makeup.",
+        "meaning_zh_TW": "美容的",
+        "wrong_meaning_zh_TW": [
+          "常見的事物",
+          "多樣的選擇",
+          "測試儀器"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a [cosmetic] product to enhance her features.",
+            "translation_zh_TW": "她使用美容產品來增強她的五官"
+          },
+          {
+            "sentence": "The [cosmetic] industry is constantly evolving.",
+            "translation_zh_TW": "美容行業不斷進化"
+          },
+          {
+            "sentence": "He has a keen interest in [cosmetic] science.",
+            "translation_zh_TW": "他對美容科學有著濃厚的興趣"
+          }
+        ],
+        "synonyms": [
+          "beauty",
+          "makeup"
+        ]
+      }
+    ],
+    "confusion": [
+      "cosmetics",
+      "cosmic",
+      "costume",
+      "convention"
+    ]
+  }
+]

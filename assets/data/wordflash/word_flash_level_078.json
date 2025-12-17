@@ -1,0 +1,771 @@
+[
+  {
+    "word": "manage",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be in charge of or to control a business, organization, or a group of people.",
+        "meaning_zh_TW": "管理，經營",
+        "wrong_meaning_zh_TW": [
+          "放棄，抵抗",
+          "選擇，挑選",
+          "混亂，失敗"
+        ],
+        "examples": [
+          {
+            "sentence": "She hopes to [manage] a large company one day.",
+            "translation_zh_TW": "她希望有一天能管理一家大公司。"
+          },
+          {
+            "sentence": "It is challenging to [manage] a diverse team.",
+            "translation_zh_TW": "管理多元化的團隊是具有挑戰性的。"
+          },
+          {
+            "sentence": "They will [manage] the event together.",
+            "translation_zh_TW": "他們將共同管理這個活動。"
+          }
+        ],
+        "synonyms": [
+          "administer",
+          "oversee"
+        ]
+      }
+    ],
+    "confusion": [
+      "manages",
+      "mange",
+      "mandate",
+      "mango"
+    ]
+  },
+  {
+    "word": "birth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The emergence of a baby or other young from the body of its parent.",
+        "meaning_zh_TW": "出生",
+        "wrong_meaning_zh_TW": [
+          "死亡",
+          "衰老",
+          "結束"
+        ],
+        "examples": [
+          {
+            "sentence": "The baby’s [birth] was celebrated by the family.",
+            "translation_zh_TW": "這個寶寶的出生受到家庭的祝賀"
+          },
+          {
+            "sentence": "She prepared for the [birth] with great anticipation.",
+            "translation_zh_TW": "她期待著這次的出生"
+          },
+          {
+            "sentence": "The hospital was ready for the [birth] of the triplets.",
+            "translation_zh_TW": "醫院為三胞胎的出生做好了準備"
+          }
+        ],
+        "synonyms": [
+          "delivery",
+          "nativity"
+        ]
+      }
+    ],
+    "confusion": [
+      "berth",
+      "birthplace",
+      "birthed",
+      "birthed"
+    ]
+  },
+  {
+    "word": "separate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause to move or be apart.",
+        "meaning_zh_TW": "分開",
+        "wrong_meaning_zh_TW": [
+          "組合",
+          "聚集",
+          "結合"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [separate] the two fighting dogs.",
+            "translation_zh_TW": "他試圖把兩隻打架的狗分開。"
+          },
+          {
+            "sentence": "Please [separate] the trash by type.",
+            "translation_zh_TW": "請按類別將垃圾分開。"
+          },
+          {
+            "sentence": "They decided to [separate] for a while.",
+            "translation_zh_TW": "他們決定暫時分開。"
+          }
+        ],
+        "synonyms": [
+          "detach",
+          "divide"
+        ]
+      }
+    ],
+    "confusion": [
+      "separatee",
+      "separately",
+      "separite",
+      "separator"
+    ]
+  },
+  {
+    "word": "leadership",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of leading a group of people or an organization.",
+        "meaning_zh_TW": "領導",
+        "wrong_meaning_zh_TW": [
+          "指導",
+          "跟隨",
+          "管理"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [leadership] style inspires others.",
+            "translation_zh_TW": "她的領導風格激勵著其他人"
+          },
+          {
+            "sentence": "Effective [leadership] is crucial during a crisis.",
+            "translation_zh_TW": "在危機期間，有效的領導至關重要"
+          },
+          {
+            "sentence": "The [leadership] training program was beneficial.",
+            "translation_zh_TW": "這個領導培訓計劃是有益的"
+          }
+        ],
+        "synonyms": [
+          "guidance",
+          "management"
+        ]
+      }
+    ],
+    "confusion": [
+      "lead",
+      "readership",
+      "leakage",
+      "leadless"
+    ]
+  },
+  {
+    "word": "chain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A series of connected links used for fastening or securing.",
+        "meaning_zh_TW": "鏈條",
+        "wrong_meaning_zh_TW": [
+          "鋼索",
+          "繩索",
+          "電纜"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a silver [chain] around her neck.",
+            "translation_zh_TW": "她脖子上戴著一條銀鏈"
+          },
+          {
+            "sentence": "The [chain] broke, and the fence fell down.",
+            "translation_zh_TW": "鏈條斷了，圍欄倒了"
+          },
+          {
+            "sentence": "They formed a [chain] of volunteers to clean the park.",
+            "translation_zh_TW": "他們組成了一個志願者鏈來清理公園"
+          }
+        ],
+        "synonyms": [
+          "link",
+          "connexion"
+        ]
+      }
+    ],
+    "confusion": [
+      "chan",
+      "chaine",
+      "chayan",
+      "chian"
+    ]
+  },
+  {
+    "word": "domestic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the running of a home or to family relations.",
+        "meaning_zh_TW": "家庭的、國內的",
+        "wrong_meaning_zh_TW": [
+          "外國的、海外的",
+          "專業的、商業的",
+          "工業的、製造的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [domestic] issues were discussed at the meeting.",
+            "translation_zh_TW": "會議上討論了家庭問題。"
+          },
+          {
+            "sentence": "She prefers [domestic] travel over international trips.",
+            "translation_zh_TW": "她更喜歡國內旅行而不是國際旅行。"
+          },
+          {
+            "sentence": "The [domestic] market is growing rapidly.",
+            "translation_zh_TW": "國內市場正在迅速增長。"
+          }
+        ],
+        "synonyms": [
+          "home",
+          "national"
+        ]
+      }
+    ],
+    "confusion": [
+      "dometic",
+      "domestik",
+      "domenstic",
+      "demestic"
+    ]
+  },
+  {
+    "word": "damage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Physical harm caused to something.",
+        "meaning_zh_TW": "損害",
+        "wrong_meaning_zh_TW": [
+          "治療",
+          "修復",
+          "維護"
+        ],
+        "examples": [
+          {
+            "sentence": "The storm caused significant [damage] to the roof.",
+            "translation_zh_TW": "風暴對屋頂造成了重大損害。"
+          },
+          {
+            "sentence": "Her negligence resulted in [damage] to the car.",
+            "translation_zh_TW": "她的疏忽導致了汽車損壞。"
+          },
+          {
+            "sentence": "You must pay for any [damage] you cause.",
+            "translation_zh_TW": "你必須為造成的任何損害支付賠償。"
+          }
+        ],
+        "synonyms": [
+          "harm",
+          "injury"
+        ]
+      }
+    ],
+    "confusion": [
+      "damages",
+      "manage",
+      "dam",
+      "demage"
+    ]
+  },
+  {
+    "word": "produce",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To create or manufacture something.",
+        "meaning_zh_TW": "生產",
+        "wrong_meaning_zh_TW": [
+          "消耗",
+          "出售",
+          "消失"
+        ],
+        "examples": [
+          {
+            "sentence": "The factory will [produce] more cars this year.",
+            "translation_zh_TW": "這家工廠今年將生產更多汽車"
+          },
+          {
+            "sentence": "They aim to [produce] high-quality films.",
+            "translation_zh_TW": "他們的目標是製作高品質的電影"
+          },
+          {
+            "sentence": "Farmers [produce] a variety of crops each season.",
+            "translation_zh_TW": "農民每個季節生產各種農作物"
+          }
+        ],
+        "synonyms": [
+          "manufacture",
+          "create"
+        ]
+      }
+    ],
+    "confusion": [
+      "producing",
+      "producer",
+      "produces",
+      "productive"
+    ]
+  },
+  {
+    "word": "failure",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The lack of success in achieving a goal.",
+        "meaning_zh_TW": "失敗",
+        "wrong_meaning_zh_TW": [
+          "優勢",
+          "獎項",
+          "成就"
+        ],
+        "examples": [
+          {
+            "sentence": "His first attempt was a total [failure].",
+            "translation_zh_TW": "他的第一次嘗試完全失敗了。"
+          },
+          {
+            "sentence": "They learned from their [failure].",
+            "translation_zh_TW": "他們從失敗中學到了教訓。"
+          },
+          {
+            "sentence": "The project was deemed a [failure] by the committee.",
+            "translation_zh_TW": "該項目被委員會視為失敗。"
+          }
+        ],
+        "synonyms": [
+          "defeat",
+          "setback"
+        ]
+      }
+    ],
+    "confusion": [
+      "falcon",
+      "fawner",
+      "faller",
+      "failover"
+    ]
+  },
+  {
+    "word": "weekend",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period from Friday evening through Sunday evening, especially regarded as a time for relaxation or recreation.",
+        "meaning_zh_TW": "週末",
+        "wrong_meaning_zh_TW": [
+          "工作日",
+          "假期",
+          "早晨"
+        ],
+        "examples": [
+          {
+            "sentence": "I always look forward to the [weekend].",
+            "translation_zh_TW": "我總是期待週末。"
+          },
+          {
+            "sentence": "We plan to go hiking this [weekend].",
+            "translation_zh_TW": "我們計劃這個週末去爬山。"
+          },
+          {
+            "sentence": "The [weekend] is a great time to relax.",
+            "translation_zh_TW": "週末是放鬆的好時光。"
+          }
+        ],
+        "synonyms": [
+          "Saturday and Sunday",
+          "week's end"
+        ]
+      }
+    ],
+    "confusion": [
+      "weaken",
+      "week",
+      "waken",
+      "wicker"
+    ]
+  },
+  {
+    "word": "chart",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A visual representation of data.",
+        "meaning_zh_TW": "圖表",
+        "wrong_meaning_zh_TW": [
+          "列表",
+          "數據",
+          "資料夾"
+        ],
+        "examples": [
+          {
+            "sentence": "He created a [chart] to visualize the sales data.",
+            "translation_zh_TW": "他創建了一個圖表來視覺化銷售數據。"
+          },
+          {
+            "sentence": "The [chart] shows trends over the last year.",
+            "translation_zh_TW": "這張圖表顯示了過去一年的趨勢。"
+          },
+          {
+            "sentence": "Students must learn to read a [chart] in math class.",
+            "translation_zh_TW": "學生必須學會在數學課上閱讀圖表。"
+          }
+        ],
+        "synonyms": [
+          "graph",
+          "diagram"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To organize information visually.",
+        "meaning_zh_TW": "繪製",
+        "wrong_meaning_zh_TW": [
+          "刪除",
+          "製作",
+          "計算"
+        ],
+        "examples": [
+          {
+            "sentence": "We will [chart] the progress of the project.",
+            "translation_zh_TW": "我們將繪製項目的進展。"
+          },
+          {
+            "sentence": "She decided to [chart] her financial goals.",
+            "translation_zh_TW": "她決定繪製她的財務目標。"
+          },
+          {
+            "sentence": "The team will [chart] the timeline for the launch.",
+            "translation_zh_TW": "團隊將繪製發佈的時間表。"
+          }
+        ],
+        "synonyms": [
+          "map",
+          "outline"
+        ]
+      }
+    ],
+    "confusion": [
+      "chartt",
+      "chrat",
+      "charrt",
+      "chard"
+    ]
+  },
+  {
+    "word": "equal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Being the same in quantity, quality, or degree.",
+        "meaning_zh_TW": "相等的",
+        "wrong_meaning_zh_TW": [
+          "不相同的",
+          "優越的",
+          "劣質的"
+        ],
+        "examples": [
+          {
+            "sentence": "All people should have [equal] rights.",
+            "translation_zh_TW": "所有人應該擁有平等的權利。"
+          },
+          {
+            "sentence": "The two teams are [equal] in skill.",
+            "translation_zh_TW": "這兩支隊伍的技術是相等的。"
+          },
+          {
+            "sentence": "Make sure the measurements are [equal].",
+            "translation_zh_TW": "確保這些測量是相等的。"
+          }
+        ],
+        "synonyms": [
+          "identical",
+          "equivalent"
+        ]
+      }
+    ],
+    "confusion": [
+      "equality",
+      "equate",
+      "equation",
+      "equaled"
+    ]
+  },
+  {
+    "word": "yesterday",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "On the day before today.",
+        "meaning_zh_TW": "昨天",
+        "wrong_meaning_zh_TW": [
+          "明天",
+          "未來",
+          "今天"
+        ],
+        "examples": [
+          {
+            "sentence": "We went to the beach [yesterday].",
+            "translation_zh_TW": "我們昨天去了海灘。"
+          },
+          {
+            "sentence": "I finished the book [yesterday].",
+            "translation_zh_TW": "我昨天完成了這本書。"
+          },
+          {
+            "sentence": "She called me [yesterday] to discuss the plans.",
+            "translation_zh_TW": "她昨天打電話給我討論計劃。"
+          }
+        ],
+        "synonyms": [
+          "the day before",
+          "previous day"
+        ]
+      }
+    ],
+    "confusion": [
+      "yesteryear",
+      "today",
+      "tomorrow",
+      "yest"
+    ]
+  },
+  {
+    "word": "golden",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the color or appearance of gold; valuable or excellent.",
+        "meaning_zh_TW": "金色",
+        "wrong_meaning_zh_TW": [
+          "古老",
+          "貴的",
+          "光亮"
+        ],
+        "examples": [
+          {
+            "sentence": "The sunset painted the sky a beautiful [golden] hue.",
+            "translation_zh_TW": "日落把天空染成美麗的金色。"
+          },
+          {
+            "sentence": "He received a [golden] opportunity to work abroad.",
+            "translation_zh_TW": "他獲得了一個出國工作的難得機會。"
+          },
+          {
+            "sentence": "Her [golden] voice captivated the entire audience.",
+            "translation_zh_TW": "她的金色嗓音吸引了整個觀眾。"
+          }
+        ],
+        "synonyms": [
+          "gilded",
+          "radiant"
+        ]
+      }
+    ],
+    "confusion": [
+      "golde",
+      "golding",
+      "golder",
+      "golding"
+    ]
+  },
+  {
+    "word": "electrical",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Related to or involving electricity or electrical devices.",
+        "meaning_zh_TW": "電氣的",
+        "wrong_meaning_zh_TW": [
+          "電機工程",
+          "電壓計",
+          "無線電"
+        ],
+        "examples": [
+          {
+            "sentence": "We hired an [electrical] engineer for the project.",
+            "translation_zh_TW": "我們為這個項目雇了一位電氣工程師。"
+          },
+          {
+            "sentence": "The [electrical] connections need to be checked.",
+            "translation_zh_TW": "需要檢查電氣連接。"
+          },
+          {
+            "sentence": "He specializes in [electrical] systems.",
+            "translation_zh_TW": "他專注於電氣系統。"
+          }
+        ],
+        "synonyms": [
+          "electromagnetic",
+          "power-related"
+        ]
+      }
+    ],
+    "confusion": [
+      "electric",
+      "elector",
+      "electorate",
+      "electronic"
+    ]
+  },
+  {
+    "word": "pattern",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A repeated decorative design.",
+        "meaning_zh_TW": "圖案",
+        "wrong_meaning_zh_TW": [
+          "規則",
+          "趨勢",
+          "顏色"
+        ],
+        "examples": [
+          {
+            "sentence": "The dress had a floral [pattern].",
+            "translation_zh_TW": "這件裙子有花卉圖案。"
+          },
+          {
+            "sentence": "We studied the [pattern] of the data collected.",
+            "translation_zh_TW": "我們研究了收集到的數據圖案。"
+          },
+          {
+            "sentence": "She knitted a blanket with a unique [pattern].",
+            "translation_zh_TW": "她編織了一條帶有獨特圖案的毛毯。"
+          }
+        ],
+        "synonyms": [
+          "design",
+          "template"
+        ]
+      }
+    ],
+    "confusion": [
+      "patter",
+      "patten",
+      "patterrn",
+      "patern"
+    ]
+  },
+  {
+    "word": "classical",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the ancient Greek and Roman world or to traditional forms of art and literature.",
+        "meaning_zh_TW": "古典的",
+        "wrong_meaning_zh_TW": [
+          "現代的",
+          "大眾的",
+          "實用的"
+        ],
+        "examples": [
+          {
+            "sentence": "She enjoys listening to [classical] music during her study time.",
+            "translation_zh_TW": "她喜歡在學習時聽古典音樂"
+          },
+          {
+            "sentence": "The painting is a great example of [classical] art.",
+            "translation_zh_TW": "這幅畫是古典藝術的一個很好的例子"
+          },
+          {
+            "sentence": "He studied [classical] literature in college.",
+            "translation_zh_TW": "他在大學學習古典文學"
+          }
+        ],
+        "synonyms": [
+          "traditional",
+          "timeless"
+        ]
+      }
+    ],
+    "confusion": [
+      "classicality",
+      "classic",
+      "classism",
+      "classmate"
+    ]
+  },
+  {
+    "word": "direction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The course or path on which something moves or points.",
+        "meaning_zh_TW": "方向",
+        "wrong_meaning_zh_TW": [
+          "決定",
+          "意見",
+          "步驟"
+        ],
+        "examples": [
+          {
+            "sentence": "Please follow the [direction] on the sign.",
+            "translation_zh_TW": "請按照告示牌上的指示行進"
+          },
+          {
+            "sentence": "The wind is blowing in the opposite [direction].",
+            "translation_zh_TW": "風正朝著相反的方向吹"
+          },
+          {
+            "sentence": "He needs to get clear [direction] on his project.",
+            "translation_zh_TW": "他需要對他的項目有清楚的指導"
+          }
+        ],
+        "synonyms": [
+          "course",
+          "way"
+        ]
+      }
+    ],
+    "confusion": [
+      "directions",
+      "directive",
+      "director",
+      "diversion"
+    ]
+  },
+  {
+    "word": "brain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The organ of the body that is located in the head and controls thoughts, feelings, and movements.",
+        "meaning_zh_TW": "大腦",
+        "wrong_meaning_zh_TW": [
+          "小腦",
+          "心臟",
+          "肺"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a brilliant [brain].",
+            "translation_zh_TW": "他的頭腦非常聰明。"
+          },
+          {
+            "sentence": "The [brain] can process a lot of information.",
+            "translation_zh_TW": "大腦可以處理大量信息。"
+          },
+          {
+            "sentence": "Studying stimulates the [brain].",
+            "translation_zh_TW": "學習能夠刺激大腦。"
+          }
+        ],
+        "synonyms": [
+          "mind",
+          "cortex"
+        ]
+      }
+    ],
+    "confusion": [
+      "train",
+      "grain",
+      "brink",
+      "brine"
+    ]
+  }
+]

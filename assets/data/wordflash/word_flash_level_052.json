@@ -1,0 +1,777 @@
+[
+  {
+    "word": "habit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A settled or regular tendency or practice, especially one that is hard to give up.",
+        "meaning_zh_TW": "習慣",
+        "wrong_meaning_zh_TW": [
+          "房子",
+          "意見",
+          "食物"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a habit of reading before bed.",
+            "translation_zh_TW": "他在睡前有閱讀的習慣"
+          },
+          {
+            "sentence": "Breaking a bad [habit] can be difficult.",
+            "translation_zh_TW": "打破壞習慣可能很困難"
+          },
+          {
+            "sentence": "She developed a habit of jogging every morning.",
+            "translation_zh_TW": "她養成了每天早上慢跑的習慣"
+          }
+        ],
+        "synonyms": [
+          "routine",
+          "practice"
+        ]
+      }
+    ],
+    "confusion": [
+      "habitat",
+      "habitual",
+      "habits",
+      "habita"
+    ]
+  },
+  {
+    "word": "sixty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equivalent to the sum of six tens; one more than fifty-nine.",
+        "meaning_zh_TW": "六十",
+        "wrong_meaning_zh_TW": [
+          "七十",
+          "五十",
+          "六十一"
+        ],
+        "examples": [
+          {
+            "sentence": "There are [sixty] seconds in a minute.",
+            "translation_zh_TW": "每分鐘有六十秒"
+          },
+          {
+            "sentence": "He is [sixty] years old.",
+            "translation_zh_TW": "他六十歲"
+          },
+          {
+            "sentence": "The event starts at [sixty] past noon.",
+            "translation_zh_TW": "活動在中午六十分鐘後開始"
+          }
+        ],
+        "synonyms": [
+          "60",
+          "LX"
+        ]
+      }
+    ],
+    "confusion": [
+      "sixty-one",
+      "sisty",
+      "soxty",
+      "sisty"
+    ]
+  },
+  {
+    "word": "goodbye",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A conventional expression used to express good wishes when parting or ending a conversation.",
+        "meaning_zh_TW": "再見",
+        "wrong_meaning_zh_TW": [
+          "歡迎",
+          "你好",
+          "祝賀"
+        ],
+        "examples": [
+          {
+            "sentence": "She waved and said [goodbye] as she left.",
+            "translation_zh_TW": "她揮手告別，然後離開了。"
+          },
+          {
+            "sentence": "We said our [goodbye]s and parted ways.",
+            "translation_zh_TW": "我們道別，然後各自離開。"
+          },
+          {
+            "sentence": "A tear rolled down her cheek as she whispered [goodbye].",
+            "translation_zh_TW": "當她低聲說再見時，一滴淚水滑落了她的臉頰。"
+          }
+        ],
+        "synonyms": [
+          "farewell",
+          "adieu"
+        ]
+      }
+    ],
+    "confusion": [
+      "gobye",
+      "goodbaye",
+      "goodmorn",
+      "goodnight"
+    ]
+  },
+  {
+    "word": "goddess",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A female deity or divine figure.",
+        "meaning_zh_TW": "女神",
+        "wrong_meaning_zh_TW": [
+          "凡人",
+          "侍者",
+          "祭司"
+        ],
+        "examples": [
+          {
+            "sentence": "She was revered as a [goddess] of love.",
+            "translation_zh_TW": "她被尊崇為愛的女神。"
+          },
+          {
+            "sentence": "The artist painted a [goddess] on the mural.",
+            "translation_zh_TW": "藝術家在壁畫上畫了一位女神。"
+          },
+          {
+            "sentence": "In mythology, the [goddess] of wisdom is Athena.",
+            "translation_zh_TW": "在神話中，智慧女神是雅典娜。"
+          }
+        ],
+        "synonyms": [
+          "deity",
+          "divinity"
+        ]
+      }
+    ],
+    "confusion": [
+      "god",
+      "gobbess",
+      "goddessy",
+      "goddessess"
+    ]
+  },
+  {
+    "word": "glove",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A covering for the hand made with a separate sheath for each finger.",
+        "meaning_zh_TW": "手套",
+        "wrong_meaning_zh_TW": [
+          "靴子",
+          "帽子",
+          "圍巾"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a warm [glove] during winter.",
+            "translation_zh_TW": "他在冬天戴著暖和的手套。"
+          },
+          {
+            "sentence": "She bought a new pair of [glove]s.",
+            "translation_zh_TW": "她買了一雙新的手套。"
+          },
+          {
+            "sentence": "Her [glove] fell to the ground.",
+            "translation_zh_TW": "她的手套掉到了地上。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "glove",
+      "glove",
+      "gloves",
+      "glovebox"
+    ]
+  },
+  {
+    "word": "aunt",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The sister of one's father or mother.",
+        "meaning_zh_TW": "父母的姐妹",
+        "wrong_meaning_zh_TW": [
+          "姑姑的女兒",
+          "叔叔的朋友",
+          "祖母"
+        ],
+        "examples": [
+          {
+            "sentence": "My [aunt] is coming to visit us this weekend.",
+            "translation_zh_TW": "我的阿姨這個週末要來拜訪我們。"
+          },
+          {
+            "sentence": "She has a close relationship with her [aunt].",
+            "translation_zh_TW": "她和她的阿姨關係很親密。"
+          },
+          {
+            "sentence": "I used to spend my summers at my [aunt]'s house.",
+            "translation_zh_TW": "我以前的夏天都在我阿姨家度過。"
+          }
+        ],
+        "synonyms": [
+          "relative",
+          "kin"
+        ]
+      }
+    ],
+    "confusion": [
+      "ant",
+      "auntie",
+      "aunty",
+      "count"
+    ]
+  },
+  {
+    "word": "couch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of furniture for seating multiple people.",
+        "meaning_zh_TW": "沙發",
+        "wrong_meaning_zh_TW": [
+          "椅子",
+          "床",
+          "凳子"
+        ],
+        "examples": [
+          {
+            "sentence": "We sat on the [couch] to watch TV.",
+            "translation_zh_TW": "我們坐在沙發上看電視"
+          },
+          {
+            "sentence": "The [couch] is very comfortable.",
+            "translation_zh_TW": "這個沙發非常舒適"
+          },
+          {
+            "sentence": "She has a new [couch] in her living room.",
+            "translation_zh_TW": "她的客廳裡有一個新的沙發"
+          }
+        ],
+        "synonyms": [
+          "sofa",
+          "settee"
+        ]
+      }
+    ],
+    "confusion": [
+      "couching",
+      "coach",
+      "clutch",
+      "cough"
+    ]
+  },
+  {
+    "word": "insect",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small arthropod animal that has six legs and generally one or two pairs of wings.",
+        "meaning_zh_TW": "昆蟲",
+        "wrong_meaning_zh_TW": [
+          "爬蟲類",
+          "魚類",
+          "兩棲類"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden is full of [insects].",
+            "translation_zh_TW": "花園裡充滿了昆蟲。"
+          },
+          {
+            "sentence": "Some [insects] can be harmful to crops.",
+            "translation_zh_TW": "有些昆蟲可能對農作物有害。"
+          },
+          {
+            "sentence": "She studies [insects] in her biology class.",
+            "translation_zh_TW": "她在生物課上研究昆蟲。"
+          }
+        ],
+        "synonyms": [
+          "bug",
+          "arthropod"
+        ]
+      }
+    ],
+    "confusion": [
+      "insects",
+      "insecticide",
+      "insectular",
+      "insectt"
+    ]
+  },
+  {
+    "word": "ninth",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The ordinal number corresponding to nine, indicating position in a sequence.",
+        "meaning_zh_TW": "第九",
+        "wrong_meaning_zh_TW": [
+          "第十",
+          "第一",
+          "第二"
+        ],
+        "examples": [
+          {
+            "sentence": "She finished in [ninth] place in the race.",
+            "translation_zh_TW": "她在比賽中獲得了第九名。"
+          },
+          {
+            "sentence": "His birthday is on the [ninth] of March.",
+            "translation_zh_TW": "他的生日是在三月九日。"
+          },
+          {
+            "sentence": "This is my [ninth] cup of coffee today.",
+            "translation_zh_TW": "這是我今天的第九杯咖啡。"
+          }
+        ],
+        "synonyms": [
+          "9th",
+          "ninthly"
+        ]
+      }
+    ],
+    "confusion": [
+      "nineth",
+      "tenth",
+      "eight",
+      "ninetieth"
+    ]
+  },
+  {
+    "word": "cousin",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A child of one's uncle or aunt.",
+        "meaning_zh_TW": "表兄弟姐妹",
+        "wrong_meaning_zh_TW": [
+          "兄弟",
+          "親戚",
+          "朋友"
+        ],
+        "examples": [
+          {
+            "sentence": "My [cousin] is coming to visit us this weekend.",
+            "translation_zh_TW": "我的表兄弟姐妹這個週末會來看我們。"
+          },
+          {
+            "sentence": "We grew up playing with our [cousins].",
+            "translation_zh_TW": "我們從小一起和表兄弟姐妹玩。"
+          },
+          {
+            "sentence": "I have a few [cousins] on my father's side.",
+            "translation_zh_TW": "我在父親那邊有幾個表兄弟姐妹。"
+          }
+        ],
+        "synonyms": [
+          "relative",
+          "sibling"
+        ]
+      }
+    ],
+    "confusion": [
+      "cozen",
+      "coast",
+      "council",
+      "cousins"
+    ]
+  },
+  {
+    "word": "headache",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A continuous pain in the head.",
+        "meaning_zh_TW": "頭痛",
+        "wrong_meaning_zh_TW": [
+          "食慾不振",
+          "胸痛",
+          "鼻塞"
+        ],
+        "examples": [
+          {
+            "sentence": "I have a terrible [headache] today.",
+            "translation_zh_TW": "我今天有個可怕的頭痛。"
+          },
+          {
+            "sentence": "She couldn't concentrate because of her [headache].",
+            "translation_zh_TW": "她因為頭痛無法集中精力。"
+          },
+          {
+            "sentence": "A [headache] can sometimes be a sign of stress.",
+            "translation_zh_TW": "頭痛有時可能是壓力的徵兆。"
+          }
+        ],
+        "synonyms": [
+          "migraine",
+          "pain"
+        ]
+      }
+    ],
+    "confusion": [
+      "headachey",
+      "headakes",
+      "headachy",
+      "headachs"
+    ]
+  },
+  {
+    "word": "borrow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take and use something belonging to someone else with the intention of returning it.",
+        "meaning_zh_TW": "借",
+        "wrong_meaning_zh_TW": [
+          "偷",
+          "贈與",
+          "佔有"
+        ],
+        "examples": [
+          {
+            "sentence": "Can I [borrow] your pen for a moment?",
+            "translation_zh_TW": "我可以借你的筆一會兒嗎？"
+          },
+          {
+            "sentence": "He needs to [borrow] money for his expenses.",
+            "translation_zh_TW": "他需要借錢來支付開支。"
+          },
+          {
+            "sentence": "It's polite to ask before you [borrow] something.",
+            "translation_zh_TW": "在借用東西之前詢問是很有禮貌的。"
+          }
+        ],
+        "synonyms": [
+          "take",
+          "rent"
+        ]
+      }
+    ],
+    "confusion": [
+      "borrowd",
+      "borrrow",
+      "borrown",
+      "borrwow"
+    ]
+  },
+  {
+    "word": "grandfather",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "the father of one's father or mother.",
+        "meaning_zh_TW": "祖父,外公",
+        "wrong_meaning_zh_TW": [
+          "父親",
+          "叔叔",
+          "曾祖父"
+        ],
+        "examples": [
+          {
+            "sentence": "My [grandfather] taught me how to fish.",
+            "translation_zh_TW": "我的祖父教我如何釣魚。"
+          },
+          {
+            "sentence": "He visits his [grandfather] every summer.",
+            "translation_zh_TW": "他每年夏天都會拜訪他的外公。"
+          },
+          {
+            "sentence": "I have many stories from my [grandfather].",
+            "translation_zh_TW": "我有很多來自祖父的故事。"
+          }
+        ],
+        "synonyms": [
+          "ancestor",
+          "forebear"
+        ]
+      }
+    ],
+    "confusion": [
+      "grandmother",
+      "grandchild",
+      "grandily",
+      "grandpa"
+    ]
+  },
+  {
+    "word": "shout",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To call out loudly, often to attract attention or express strong emotion.",
+        "meaning_zh_TW": "大聲呼喊",
+        "wrong_meaning_zh_TW": [
+          "低語",
+          "靜默",
+          "絕望"
+        ],
+        "examples": [
+          {
+            "sentence": "She had to [shout] to be heard over the noise.",
+            "translation_zh_TW": "她不得不大聲呼喊才能在噪音中被聽見。"
+          },
+          {
+            "sentence": "He [shouted] with joy when he heard the news.",
+            "translation_zh_TW": "當他聽到消息時，他高興地大叫。"
+          },
+          {
+            "sentence": "Don't [shout] in the library!",
+            "translation_zh_TW": "在圖書館裡不要大聲叫喊！"
+          }
+        ],
+        "synonyms": [
+          "yell",
+          "cry out"
+        ]
+      }
+    ],
+    "confusion": [
+      "shout",
+      "shoot",
+      "shoutt",
+      "shatu"
+    ]
+  },
+  {
+    "word": "enjoyment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state or process of taking pleasure in something.",
+        "meaning_zh_TW": "享受",
+        "wrong_meaning_zh_TW": [
+          "困擾",
+          "痛苦",
+          "無聊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [enjoyment] of music is universal.",
+            "translation_zh_TW": "音樂的享受是普遍的。"
+          },
+          {
+            "sentence": "He took great [enjoyment] in reading.",
+            "translation_zh_TW": "他非常享受閱讀。"
+          },
+          {
+            "sentence": "Her [enjoyment] of the film was evident.",
+            "translation_zh_TW": "她對這部電影的享受顯而易見。"
+          }
+        ],
+        "synonyms": [
+          "pleasure",
+          "delight"
+        ]
+      }
+    ],
+    "confusion": [
+      "enjoy",
+      "enjoyable",
+      "enjoying",
+      "enjoymet"
+    ]
+  },
+  {
+    "word": "hen",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A female bird, especially a chicken.",
+        "meaning_zh_TW": "母雞",
+        "wrong_meaning_zh_TW": [
+          "公雞",
+          "鴨子",
+          "鵝"
+        ],
+        "examples": [
+          {
+            "sentence": "The [hen] laid two eggs this morning.",
+            "translation_zh_TW": "這隻母雞今天早上下了兩個蛋"
+          },
+          {
+            "sentence": "We have a [hen] that wanders around the yard.",
+            "translation_zh_TW": "我們有一隻在院子裡遊走的母雞"
+          },
+          {
+            "sentence": "The farmer took care of the [hens] in the coop.",
+            "translation_zh_TW": "農夫照顧雞舍裡的母雞"
+          }
+        ],
+        "synonyms": [
+          "female chicken"
+        ]
+      }
+    ],
+    "confusion": [
+      "henry",
+      "henne",
+      "henn",
+      "henro"
+    ]
+  },
+  {
+    "word": "noisy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Making a lot of noise; loud.",
+        "meaning_zh_TW": "吵鬧的",
+        "wrong_meaning_zh_TW": [
+          "安靜的",
+          "寧靜的",
+          "柔和的"
+        ],
+        "examples": [
+          {
+            "sentence": "The kids were being very [noisy] in the playground.",
+            "translation_zh_TW": "孩子們在操場上吵鬧得很厲害。"
+          },
+          {
+            "sentence": "I couldn't concentrate because of the [noisy] party next door.",
+            "translation_zh_TW": "我因為隔壁的派對吵鬧而無法集中注意力。"
+          },
+          {
+            "sentence": "The [noisy] traffic made it hard to sleep.",
+            "translation_zh_TW": "吵鬧的交通聲讓我很難入睡。"
+          }
+        ],
+        "synonyms": [
+          "loud",
+          "boisterous"
+        ]
+      }
+    ],
+    "confusion": [
+      "noisey",
+      "nosey",
+      "noisy!"
+    ]
+  },
+  {
+    "word": "grandmother",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The mother of one's father or mother.",
+        "meaning_zh_TW": "祖母,外婆",
+        "wrong_meaning_zh_TW": [
+          "姑姑",
+          "舅母",
+          "曾祖母"
+        ],
+        "examples": [
+          {
+            "sentence": "My [grandmother] loves to bake cookies.",
+            "translation_zh_TW": "我的祖母喜歡烤餅乾"
+          },
+          {
+            "sentence": "I visit my [grandmother] every weekend.",
+            "translation_zh_TW": "我每個週末都去看我的祖母"
+          },
+          {
+            "sentence": "She tells the best stories, just like my [grandmother].",
+            "translation_zh_TW": "她講的故事最好，就像我的祖母一樣"
+          }
+        ],
+        "synonyms": [
+          "nana",
+          "granny"
+        ]
+      }
+    ],
+    "confusion": [
+      "grandfather",
+      "grandma",
+      "grammatical",
+      "grandiosity"
+    ]
+  },
+  {
+    "word": "twentieth",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The position in a sequence corresponding to the number 20.",
+        "meaning_zh_TW": "第二十",
+        "wrong_meaning_zh_TW": [
+          "第十九",
+          "第二十一",
+          "第二十七"
+        ],
+        "examples": [
+          {
+            "sentence": "She celebrated her [twentieth] birthday this year.",
+            "translation_zh_TW": "她今年慶祝了她的第二十個生日。"
+          },
+          {
+            "sentence": "The [twentieth] century brought many changes.",
+            "translation_zh_TW": "第二十個世紀帶來了許多變化。"
+          },
+          {
+            "sentence": "He was the [twentieth] student to arrive.",
+            "translation_zh_TW": "他是第二十個到達的學生。"
+          }
+        ],
+        "synonyms": [
+          "20th",
+          "twentieth part"
+        ]
+      }
+    ],
+    "confusion": [
+      "twentieths",
+      "twente",
+      "twentyth",
+      "twent"
+    ]
+  },
+  {
+    "word": "sore",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or expressing pain or discomfort.",
+        "meaning_zh_TW": "感到疼痛的",
+        "wrong_meaning_zh_TW": [
+          "喜悅的",
+          "無所事事的",
+          "冷靜的"
+        ],
+        "examples": [
+          {
+            "sentence": "My muscles are [sore] after the workout.",
+            "translation_zh_TW": "我的肌肉在鍛煉後感到疼痛。"
+          },
+          {
+            "sentence": "She has a [sore] throat.",
+            "translation_zh_TW": "她的喉嚨感到疼痛。"
+          },
+          {
+            "sentence": "He found a [sore] spot on his arm.",
+            "translation_zh_TW": "他在手臂上發現了一個疼痛的地方。"
+          }
+        ],
+        "synonyms": [
+          "painful",
+          "hurt"
+        ]
+      }
+    ],
+    "confusion": [
+      "sorely",
+      "store",
+      "soar",
+      "sour"
+    ]
+  }
+]

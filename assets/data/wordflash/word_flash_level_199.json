@@ -1,0 +1,771 @@
+[
+  {
+    "word": "concentrate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To focus one's attention or mental effort on a particular task or subject.",
+        "meaning_zh_TW": "集中注意力",
+        "wrong_meaning_zh_TW": [
+          "分散注意",
+          "減少強度",
+          "擴大範圍"
+        ],
+        "examples": [
+          {
+            "sentence": "It’s difficult to [concentrate] with all the noise.",
+            "translation_zh_TW": "在所有噪音下集中注意力是困難的。"
+          },
+          {
+            "sentence": "You need to [concentrate] on your studies to improve.",
+            "translation_zh_TW": "你需要專注於學習以便進步。"
+          },
+          {
+            "sentence": "She tried to [concentrate] despite the distractions.",
+            "translation_zh_TW": "儘管有干擾，她仍然試圖專注。"
+          }
+        ],
+        "synonyms": [
+          "focus",
+          "gather"
+        ]
+      }
+    ],
+    "confusion": [
+      "consent",
+      "concert",
+      "contort",
+      "concept"
+    ]
+  },
+  {
+    "word": "intimate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Closely acquainted; familiar.",
+        "meaning_zh_TW": "親密的",
+        "wrong_meaning_zh_TW": [
+          "陌生的",
+          "冷漠的",
+          "猜疑的"
+        ],
+        "examples": [
+          {
+            "sentence": "They shared an [intimate] dinner together.",
+            "translation_zh_TW": "他們一起共享了一頓親密的晚餐"
+          },
+          {
+            "sentence": "He felt a deep [intimate] connection with his best friend.",
+            "translation_zh_TW": "他和最好的朋友之間感到深厚的親密聯結"
+          },
+          {
+            "sentence": "The couple enjoyed an [intimate] moment at sunset.",
+            "translation_zh_TW": "這對情侶在日落時享受了一個親密的時刻"
+          }
+        ],
+        "synonyms": [
+          "close",
+          "personal"
+        ]
+      }
+    ],
+    "confusion": [
+      "intimidate",
+      "internal",
+      "introvert",
+      "intelligent"
+    ]
+  },
+  {
+    "word": "keen",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a sharp edge or point; also used to describe an intense interest or enthusiasm.",
+        "meaning_zh_TW": "敏锐的，渴望的",
+        "wrong_meaning_zh_TW": [
+          "遲鈍的",
+          "平淡的",
+          "冷漠的"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a [keen] interest in technology.",
+            "translation_zh_TW": "他對科技有濃厚的興趣"
+          },
+          {
+            "sentence": "Her [keen] intellect made her stand out in class.",
+            "translation_zh_TW": "她敏銳的智力使她在班上脫穎而出"
+          },
+          {
+            "sentence": "The knife has a [keen] blade.",
+            "translation_zh_TW": "這把刀的刀片很鋒利"
+          }
+        ],
+        "synonyms": [
+          "sharp",
+          "enthusiastic"
+        ]
+      }
+    ],
+    "confusion": [
+      "keenly",
+      "keens",
+      "kean",
+      "keening"
+    ]
+  },
+  {
+    "word": "brutal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Savage; cruel; harsh.",
+        "meaning_zh_TW": "殘酷的",
+        "wrong_meaning_zh_TW": [
+          "善良的",
+          "溫和的",
+          "柔軟的"
+        ],
+        "examples": [
+          {
+            "sentence": "The weather was [brutal] during the winter.",
+            "translation_zh_TW": "冬天的天氣非常殘酷。"
+          },
+          {
+            "sentence": "He faced [brutal] criticism for his actions.",
+            "translation_zh_TW": "他因為自己的行為面對殘酷的批評。"
+          },
+          {
+            "sentence": "The movie depicted a [brutal] battle.",
+            "translation_zh_TW": "這部電影描繪了一場殘酷的戰鬥。"
+          }
+        ],
+        "synonyms": [
+          "savage",
+          "ferocious"
+        ]
+      }
+    ],
+    "confusion": [
+      "brutally",
+      "brute",
+      "buffer",
+      "brutality"
+    ]
+  },
+  {
+    "word": "sacrifice",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give up something valued for the sake of something else.",
+        "meaning_zh_TW": "犧牲",
+        "wrong_meaning_zh_TW": [
+          "獲利",
+          "收益",
+          "利益"
+        ],
+        "examples": [
+          {
+            "sentence": "She decided to [sacrifice] her time to help others.",
+            "translation_zh_TW": "她決定放棄自己的時間去幫助他人"
+          },
+          {
+            "sentence": "Parents often [sacrifice] their comfort for their children.",
+            "translation_zh_TW": "父母常常為了孩子而放棄自己的舒適"
+          },
+          {
+            "sentence": "He made a great [sacrifice] for his country.",
+            "translation_zh_TW": "他為祖國做出了巨大的犧牲"
+          }
+        ],
+        "synonyms": [
+          "offer",
+          "forfeit"
+        ]
+      }
+    ],
+    "confusion": [
+      "sacred",
+      "sacrament",
+      "sacrilege",
+      "sack"
+    ]
+  },
+  {
+    "word": "flush",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause to flow or to pour out in a rush.",
+        "meaning_zh_TW": "沖洗",
+        "wrong_meaning_zh_TW": [
+          "吸收",
+          "蒐集",
+          "散發"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to [flush] the toilet after use.",
+            "translation_zh_TW": "使用後務必沖洗馬桶。"
+          },
+          {
+            "sentence": "We need to [flush] the system with clean water.",
+            "translation_zh_TW": "我們需要用清水沖洗系統。"
+          },
+          {
+            "sentence": "He quickly [flushed] the paint away.",
+            "translation_zh_TW": "他迅速沖走了顏料。"
+          }
+        ],
+        "synonyms": [
+          "wash",
+          "cleanse"
+        ]
+      }
+    ],
+    "confusion": [
+      "flash",
+      "flesh",
+      "flushes",
+      "flus"
+    ]
+  },
+  {
+    "word": "delight",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of great pleasure or enjoyment.",
+        "meaning_zh_TW": "愉悅",
+        "wrong_meaning_zh_TW": [
+          "悲傷",
+          "厭惡",
+          "無聊"
+        ],
+        "examples": [
+          {
+            "sentence": "The children squealed in [delight] at the surprise.",
+            "translation_zh_TW": "孩子們因為這個驚喜而高興地尖叫。"
+          },
+          {
+            "sentence": "The garden is a [delight] for the eyes.",
+            "translation_zh_TW": "這個花園讓人眼前一亮。"
+          },
+          {
+            "sentence": "Her smile brought him great [delight].",
+            "translation_zh_TW": "她的微笑給了他極大的愉悅。"
+          }
+        ],
+        "synonyms": [
+          "pleasure",
+          "joy"
+        ]
+      }
+    ],
+    "confusion": [
+      "delighted",
+      "delightful",
+      "deliquent",
+      "delete"
+    ]
+  },
+  {
+    "word": "declare",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To state something in an emphatic or formal manner.",
+        "meaning_zh_TW": "宣告",
+        "wrong_meaning_zh_TW": [
+          "隱瞞",
+          "反駁",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [declare] her candidacy next week.",
+            "translation_zh_TW": "她將在下週宣告她的候選資格。"
+          },
+          {
+            "sentence": "He [declared] his love for her in front of everyone.",
+            "translation_zh_TW": "他在所有人面前宣告了對她的愛。"
+          },
+          {
+            "sentence": "The country [declared] a state of emergency.",
+            "translation_zh_TW": "該國宣告進入緊急狀態。"
+          }
+        ],
+        "synonyms": [
+          "announce",
+          "state"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A formal statement or announcement.",
+        "meaning_zh_TW": "聲明",
+        "wrong_meaning_zh_TW": [
+          "反對意見",
+          "讉責",
+          "謊言"
+        ],
+        "examples": [
+          {
+            "sentence": "The CEO made a [declaration] about the company's future.",
+            "translation_zh_TW": "首席執行官就公司的未來做了一個聲明。"
+          },
+          {
+            "sentence": "Her [declaration] of independence was widely praised.",
+            "translation_zh_TW": "她的獨立聲明受到廣泛讚揚。"
+          },
+          {
+            "sentence": "The government released an official [declaration].",
+            "translation_zh_TW": "政府發布了一項官方聲明。"
+          }
+        ],
+        "synonyms": [
+          "proclamation",
+          "announcement"
+        ]
+      }
+    ],
+    "confusion": [
+      "decline",
+      "depict",
+      "declareative",
+      "declarative"
+    ]
+  },
+  {
+    "word": "tragedy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A dramatic representation of serious and important actions that often end in disaster.",
+        "meaning_zh_TW": "悲劇",
+        "wrong_meaning_zh_TW": [
+          "喜劇",
+          "戲劇",
+          "鬧劇"
+        ],
+        "examples": [
+          {
+            "sentence": "The play is a classic Greek [tragedy].",
+            "translation_zh_TW": "這部劇是經典的希臘悲劇。"
+          },
+          {
+            "sentence": "The news of the accident was a terrible [tragedy] for the community.",
+            "translation_zh_TW": "這起事故的消息對社區來說是一場可怕的悲劇。"
+          },
+          {
+            "sentence": "He wrote a [tragedy] about lost love.",
+            "translation_zh_TW": "他寫了一部關於失去的愛的悲劇。"
+          }
+        ],
+        "synonyms": [
+          "catastrophe",
+          "disaster"
+        ]
+      }
+    ],
+    "confusion": [
+      "strategy",
+      "tragic",
+      "trig",
+      "tradition"
+    ]
+  },
+  {
+    "word": "idol",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or object that is greatly admired, loved, or revered.",
+        "meaning_zh_TW": "偶像，崇拜的對象",
+        "wrong_meaning_zh_TW": [
+          "普通人",
+          "壞榜樣",
+          "缺乏靈感"
+        ],
+        "examples": [
+          {
+            "sentence": "She has always looked up to her [idol].",
+            "translation_zh_TW": "她一直崇拜她的偶像。"
+          },
+          {
+            "sentence": "He became a music [idol] at a young age.",
+            "translation_zh_TW": "他在年輕時成為音樂偶像。"
+          },
+          {
+            "sentence": "Many fans gathered to see their favorite [idol].",
+            "translation_zh_TW": "許多粉絲聚集在一起看他們的偶像。"
+          }
+        ],
+        "synonyms": [
+          "icon",
+          "hero"
+        ]
+      }
+    ],
+    "confusion": [
+      "idole",
+      "iddol",
+      "idaol",
+      "iodl"
+    ]
+  },
+  {
+    "word": "helicopter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of aircraft that derives its lift from rotors.",
+        "meaning_zh_TW": "直升機",
+        "wrong_meaning_zh_TW": [
+          "飛機",
+          "滑翔機",
+          "熱氣球"
+        ],
+        "examples": [
+          {
+            "sentence": "The helicopter flew over the city.",
+            "translation_zh_TW": "直升機在城市上空飛行。"
+          },
+          {
+            "sentence": "They used a helicopter for rescue operations.",
+            "translation_zh_TW": "他們使用直升機進行救援行動。"
+          },
+          {
+            "sentence": "The sound of the helicopter was deafening.",
+            "translation_zh_TW": "直升機的聲音震耳欲聾。"
+          }
+        ],
+        "synonyms": [
+          "chopper",
+          "copter"
+        ]
+      }
+    ],
+    "confusion": [
+      "helix",
+      "horizon",
+      "helicoptering",
+      "helico"
+    ]
+  },
+  {
+    "word": "workout",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A session of vigorous physical exercise or training.",
+        "meaning_zh_TW": "鍛煉、運動",
+        "wrong_meaning_zh_TW": [
+          "休息",
+          "靜坐",
+          "冥想"
+        ],
+        "examples": [
+          {
+            "sentence": "She enjoys her daily [workout] at the gym.",
+            "translation_zh_TW": "她喜歡在健身房的日常鍛煉。"
+          },
+          {
+            "sentence": "He follows a strict [workout] routine.",
+            "translation_zh_TW": "他遵循嚴格的運動計劃。"
+          },
+          {
+            "sentence": "After the intense [workout], I felt exhausted.",
+            "translation_zh_TW": "經過激烈的鍛煉後，我感到精疲力竭。"
+          }
+        ],
+        "synonyms": [
+          "exercise session",
+          "training"
+        ]
+      }
+    ],
+    "confusion": [
+      "workouts",
+      "workoutd",
+      "workaut",
+      "workaut"
+    ]
+  },
+  {
+    "word": "triumph",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A great victory or achievement.",
+        "meaning_zh_TW": "巨大勝利或成就",
+        "wrong_meaning_zh_TW": [
+          "失敗",
+          "挫折",
+          "敗北"
+        ],
+        "examples": [
+          {
+            "sentence": "The team's victory was a true [triumph].",
+            "translation_zh_TW": "這支隊伍的勝利是真正的巨大勝利"
+          },
+          {
+            "sentence": "Winning the championship felt like a personal [triumph].",
+            "translation_zh_TW": "贏得冠軍感覺像是個人的成就"
+          },
+          {
+            "sentence": "His story is one of struggle and [triumph].",
+            "translation_zh_TW": "他的故事是一個奮鬥和勝利的故事"
+          }
+        ],
+        "synonyms": [
+          "victory",
+          "success"
+        ]
+      }
+    ],
+    "confusion": [
+      "triumphantly",
+      "triumphal",
+      "triumvirate",
+      "truncheon"
+    ]
+  },
+  {
+    "word": "bloom",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To produce flowers; to thrive.",
+        "meaning_zh_TW": "開花",
+        "wrong_meaning_zh_TW": [
+          "枯萎",
+          "枯死",
+          "凋謝"
+        ],
+        "examples": [
+          {
+            "sentence": "The roses began to [bloom] in early spring.",
+            "translation_zh_TW": "玫瑰在春天初期開始[開花]"
+          },
+          {
+            "sentence": "The garden will [bloom] with vibrant colors this summer.",
+            "translation_zh_TW": "這個花園在夏天會[開花]出鮮豔的色彩"
+          },
+          {
+            "sentence": "She watched her orchids [bloom] with excitement.",
+            "translation_zh_TW": "她激動地看著她的蘭花[開花]"
+          }
+        ],
+        "synonyms": [
+          "flower",
+          "flourish"
+        ]
+      }
+    ],
+    "confusion": [
+      "blooming",
+      "blooms",
+      "bloomers",
+      "bloomy"
+    ]
+  },
+  {
+    "word": "possess",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To have ownership or control over something.",
+        "meaning_zh_TW": "擁有",
+        "wrong_meaning_zh_TW": [
+          "丟失",
+          "放棄",
+          "購買"
+        ],
+        "examples": [
+          {
+            "sentence": "She hopes to [possess] the skill of speaking multiple languages.",
+            "translation_zh_TW": "她希望擁有多種語言的能力。"
+          },
+          {
+            "sentence": "He will [possess] the title after completing the necessary requirements.",
+            "translation_zh_TW": "完成必要的要求後，他將擁有該稱號。"
+          },
+          {
+            "sentence": "To [possess] great wealth often comes with responsibility.",
+            "translation_zh_TW": "擁有巨大的財富常常伴隨著責任。"
+          }
+        ],
+        "synonyms": [
+          "own",
+          "have"
+        ]
+      }
+    ],
+    "confusion": [
+      "prosess",
+      "possition",
+      "posses",
+      "posess"
+    ]
+  },
+  {
+    "word": "defensive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Intended to protect or defend.",
+        "meaning_zh_TW": "防禦的",
+        "wrong_meaning_zh_TW": [
+          "攻擊的",
+          "不屈服的",
+          "主動的"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a [defensive] stance during the debate.",
+            "translation_zh_TW": "他在辯論中採取了防禦的立場。"
+          },
+          {
+            "sentence": "The team's [defensive] strategies were effective in the match.",
+            "translation_zh_TW": "該隊的防禦策略在比賽中有效。"
+          },
+          {
+            "sentence": "Being overly [defensive] can hinder communication.",
+            "translation_zh_TW": "過度防禦可能會妨礙溝通。"
+          }
+        ],
+        "synonyms": [
+          "protective",
+          "guarded"
+        ]
+      }
+    ],
+    "confusion": [
+      "defense",
+      "defensible",
+      "defender",
+      "defined"
+    ]
+  },
+  {
+    "word": "pursuit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of pursuing someone or something.",
+        "meaning_zh_TW": "追求",
+        "wrong_meaning_zh_TW": [
+          "無所事事的狀態",
+          "逃跑的理由",
+          "學習的過程"
+        ],
+        "examples": [
+          {
+            "sentence": "His lifelong [pursuit] of happiness led him to many adventures.",
+            "translation_zh_TW": "他終其一生追求快樂，讓他經歷了許多冒險。"
+          },
+          {
+            "sentence": "In [pursuit] of excellence, she worked tirelessly.",
+            "translation_zh_TW": "為了追求卓越，她不知疲倦地工作。"
+          },
+          {
+            "sentence": "The detective's [pursuit] of the criminal proved successful.",
+            "translation_zh_TW": "偵探對罪犯的追捕獲得了成功。"
+          }
+        ],
+        "synonyms": [
+          "chase",
+          "quest"
+        ]
+      }
+    ],
+    "confusion": [
+      "pursue",
+      "pursued",
+      "puree",
+      "purse"
+    ]
+  },
+  {
+    "word": "orbit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+        "meaning_zh_TW": "軌道",
+        "wrong_meaning_zh_TW": [
+          "相遇",
+          "衝突",
+          "旅行"
+        ],
+        "examples": [
+          {
+            "sentence": "The satellite is in a stable [orbit] around the Earth.",
+            "translation_zh_TW": "衛星在地球周圍有穩定的軌道。"
+          },
+          {
+            "sentence": "Planets move in elliptical [orbits].",
+            "translation_zh_TW": "行星沿著橢圓形的軌道運行。"
+          },
+          {
+            "sentence": "The moon's [orbit] around the Earth affects tides.",
+            "translation_zh_TW": "月球圍繞地球的軌道影響潮汐。"
+          }
+        ],
+        "synonyms": [
+          "path",
+          "trajectory"
+        ]
+      }
+    ],
+    "confusion": [
+      "orbiting",
+      "orbed",
+      "orbital",
+      "orbiter"
+    ]
+  },
+  {
+    "word": "detective",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person, especially a police officer, whose job is to investigate and solve crimes.",
+        "meaning_zh_TW": "偵探",
+        "wrong_meaning_zh_TW": [
+          "刑警",
+          "守衛",
+          "間諜"
+        ],
+        "examples": [
+          {
+            "sentence": "The [detective] gathered evidence to solve the case.",
+            "translation_zh_TW": "偵探收集證據以解決案件。"
+          },
+          {
+            "sentence": "She always dreamed of becoming a [detective].",
+            "translation_zh_TW": "她一直夢想成為一名偵探。"
+          },
+          {
+            "sentence": "The [detective] interviewed the witnesses for more information.",
+            "translation_zh_TW": "偵探對目擊者進行了訪問以獲取更多信息。"
+          }
+        ],
+        "synonyms": [
+          "investigator",
+          "sleuth"
+        ]
+      }
+    ],
+    "confusion": [
+      "detect",
+      "detection",
+      "detector",
+      "defective"
+    ]
+  }
+]

@@ -1,0 +1,739 @@
+[
+  {
+    "word": "musical",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or having the form of music.",
+        "meaning_zh_TW": "音樂的",
+        "wrong_meaning_zh_TW": [
+          "回聲的",
+          "交響的",
+          "無聲的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a very [musical] voice.",
+            "translation_zh_TW": "她的嗓音非常音樂化。"
+          },
+          {
+            "sentence": "The [musical] performance was captivating.",
+            "translation_zh_TW": "那場音樂表演引人入勝。"
+          },
+          {
+            "sentence": "He enjoys [musical] compositions from various cultures.",
+            "translation_zh_TW": "他喜歡來自多元文化的音樂作品。"
+          }
+        ],
+        "synonyms": [
+          "melodic",
+          "harmonic"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A theatrical production that features songs and music.",
+        "meaning_zh_TW": "音樂劇",
+        "wrong_meaning_zh_TW": [
+          "舞台劇",
+          "電影",
+          "歌舞"
+        ],
+        "examples": [
+          {
+            "sentence": "We went to see a new [musical] last night.",
+            "translation_zh_TW": "我們昨晚去看了一部新音樂劇。"
+          },
+          {
+            "sentence": "The [musical] featured a live orchestra.",
+            "translation_zh_TW": "這部音樂劇有一個現場樂團伴奏。"
+          },
+          {
+            "sentence": "She wants to star in a Broadway [musical].",
+            "translation_zh_TW": "她想在百老匯音樂劇中主演。"
+          }
+        ],
+        "synonyms": [
+          "show",
+          "performance"
+        ]
+      }
+    ],
+    "confusion": [
+      "mystical",
+      "musician",
+      "muscle",
+      "musicality"
+    ]
+  },
+  {
+    "word": "path",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A way or track laid down for walking or made by continual treading.",
+        "meaning_zh_TW": "路徑",
+        "wrong_meaning_zh_TW": [
+          "道路",
+          "邊界",
+          "位置"
+        ],
+        "examples": [
+          {
+            "sentence": "The narrow [path] led to the garden.",
+            "translation_zh_TW": "狹窄的小路通向花園"
+          },
+          {
+            "sentence": "We walked along the beach [path].",
+            "translation_zh_TW": "我們沿著海灘小路行走"
+          },
+          {
+            "sentence": "Follow the [path] to the lake.",
+            "translation_zh_TW": "沿著小路走到湖邊"
+          }
+        ],
+        "synonyms": [
+          "trail",
+          "way",
+          "route"
+        ]
+      }
+    ],
+    "confusion": [
+      "pathway",
+      "pathe",
+      "poth",
+      "batch"
+    ]
+  },
+  {
+    "word": "employee",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is hired to work for another person or a company.",
+        "meaning_zh_TW": "受雇者",
+        "wrong_meaning_zh_TW": [
+          "老板",
+          "公司",
+          "工人"
+        ],
+        "examples": [
+          {
+            "sentence": "An [employee] must always be punctual.",
+            "translation_zh_TW": "員工必須遵守準時。"
+          },
+          {
+            "sentence": "Every [employee] receives a performance review.",
+            "translation_zh_TW": "每位員工都會收到績效評估。"
+          },
+          {
+            "sentence": "The [employee] was recognized for her outstanding work.",
+            "translation_zh_TW": "這位員工因其出色的工作而受到表彰。"
+          }
+        ],
+        "synonyms": [
+          "worker",
+          "staff member"
+        ]
+      }
+    ],
+    "confusion": [
+      "employer",
+      "employ",
+      "empleado",
+      "empire"
+    ]
+  },
+  {
+    "word": "chief",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A leader or ruler of a people or clan.",
+        "meaning_zh_TW": "首領、領袖",
+        "wrong_meaning_zh_TW": [
+          "助手",
+          "小角色",
+          "追隨者"
+        ],
+        "examples": [
+          {
+            "sentence": "The [chief] made an important announcement.",
+            "translation_zh_TW": "首領發表了一個重要公告。"
+          },
+          {
+            "sentence": "He is the [chief] of the tribe.",
+            "translation_zh_TW": "他是這個部落的首領。"
+          },
+          {
+            "sentence": "The town's [chief] is well-respected.",
+            "translation_zh_TW": "這個城鎮的領袖受到尊重。"
+          }
+        ],
+        "synonyms": [
+          "leader",
+          "head"
+        ]
+      }
+    ],
+    "confusion": [
+      "cheif",
+      "cheif",
+      "chiefs",
+      "chiefly"
+    ]
+  },
+  {
+    "word": "detail",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An individual feature, fact, or item.",
+        "meaning_zh_TW": "細節",
+        "wrong_meaning_zh_TW": [
+          "總體",
+          "概念",
+          "捲宗"
+        ],
+        "examples": [
+          {
+            "sentence": "Every [detail] of the plan was carefully considered.",
+            "translation_zh_TW": "計劃的每個細節都經過仔細考慮。"
+          },
+          {
+            "sentence": "She noticed the smallest [detail] in the artwork.",
+            "translation_zh_TW": "她注意到了藝術作品中最小的細節。"
+          },
+          {
+            "sentence": "Can you provide more [detail] about the project?",
+            "translation_zh_TW": "你能提供更多有關該項目的細節嗎？"
+          }
+        ],
+        "synonyms": [
+          "particular",
+          "aspect"
+        ]
+      }
+    ],
+    "confusion": [
+      "deter",
+      "detailed",
+      "dietetics",
+      "de tail"
+    ]
+  },
+  {
+    "word": "royal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of or relating to a king, queen, or royal family.",
+        "meaning_zh_TW": "王室的",
+        "wrong_meaning_zh_TW": [
+          "平民的",
+          "普通的",
+          "非凡的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [royal] gown at the gala.",
+            "translation_zh_TW": "她在晚會上穿著一襲王室禮服。"
+          },
+          {
+            "sentence": "The [royal] family attended the ceremony.",
+            "translation_zh_TW": "王室成員出席了儀式。"
+          },
+          {
+            "sentence": "He was treated with [royal] hospitality.",
+            "translation_zh_TW": "他受到了王室般的款待。"
+          }
+        ],
+        "synonyms": [
+          "regal",
+          "majestic"
+        ]
+      }
+    ],
+    "confusion": [
+      "loyal",
+      "royals",
+      "royalty",
+      "royales"
+    ]
+  },
+  {
+    "word": "switch",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To change or exchange something.",
+        "meaning_zh_TW": "切換",
+        "wrong_meaning_zh_TW": [
+          "堅持不變",
+          "停止",
+          "加入"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [switch] the lights off when you leave.",
+            "translation_zh_TW": "離開時請關掉燈"
+          },
+          {
+            "sentence": "They decided to [switch] their seats.",
+            "translation_zh_TW": "他們決定互換座位"
+          },
+          {
+            "sentence": "You can [switch] channels on the remote.",
+            "translation_zh_TW": "你可以在遙控器上切換頻道"
+          }
+        ],
+        "synonyms": [
+          "change",
+          "swap"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device for making and breaking the connection in an electric circuit.",
+        "meaning_zh_TW": "開關",
+        "wrong_meaning_zh_TW": [
+          "插頭",
+          "電池",
+          "燈泡"
+        ],
+        "examples": [
+          {
+            "sentence": "The [switch] is located by the door.",
+            "translation_zh_TW": "開關在門旁"
+          },
+          {
+            "sentence": "You need to flip the [switch] to turn on the power.",
+            "translation_zh_TW": "你需要撥動開關來打開電源"
+          },
+          {
+            "sentence": "He repaired the broken [switch] yesterday.",
+            "translation_zh_TW": "他昨天修理了壞掉的開關"
+          }
+        ],
+        "synonyms": [
+          "toggle",
+          "lever"
+        ]
+      }
+    ],
+    "confusion": [
+      "stitch",
+      "witch",
+      "switcher",
+      "swatch"
+    ]
+  },
+  {
+    "word": "justice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being fair and just.",
+        "meaning_zh_TW": "正義、公正",
+        "wrong_meaning_zh_TW": [
+          "道德倫理",
+          "宗教信仰",
+          "社會活動"
+        ],
+        "examples": [
+          {
+            "sentence": "People strive for [justice] in society.",
+            "translation_zh_TW": "人們在社會中追求正義。"
+          },
+          {
+            "sentence": "Justice should be served to all individuals equally.",
+            "translation_zh_TW": "正義應平等地施加於所有個體。"
+          },
+          {
+            "sentence": "The pursuit of [justice] can be challenging.",
+            "translation_zh_TW": "追求正義可能是具有挑戰性的。"
+          }
+        ],
+        "synonyms": [
+          "fairness",
+          "equity"
+        ]
+      }
+    ],
+    "confusion": [
+      "justise",
+      "justus",
+      "jistica",
+      "justist"
+    ]
+  },
+  {
+    "word": "attention",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of focusing the mind on something.",
+        "meaning_zh_TW": "注意力",
+        "wrong_meaning_zh_TW": [
+          "失焦",
+          "遺忘",
+          "無視"
+        ],
+        "examples": [
+          {
+            "sentence": "He needs to pay more [attention] in class.",
+            "translation_zh_TW": "他需要在課堂上更加專注"
+          },
+          {
+            "sentence": "Please give your [attention] to the speaker.",
+            "translation_zh_TW": "請注意聽講者"
+          },
+          {
+            "sentence": "Her [attention] to detail is impressive.",
+            "translation_zh_TW": "她對細節的注意力令人讚嘆"
+          }
+        ],
+        "synonyms": [
+          "focus",
+          "concentration"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A condition characterized by the active engagement of an individual's mental faculties.",
+        "meaning_zh_TW": "專注狀態",
+        "wrong_meaning_zh_TW": [
+          "散漫",
+          "困惑",
+          "疲倦"
+        ],
+        "examples": [
+          {
+            "sentence": "He maintained his [attention] throughout the lecture.",
+            "translation_zh_TW": "他在整個演講中保持了專注"
+          },
+          {
+            "sentence": "They struggled with [attention] during long meetings.",
+            "translation_zh_TW": "在漫長的會議中他們很難集中注意力"
+          },
+          {
+            "sentence": "The task requires full [attention].",
+            "translation_zh_TW": "這項任務需要全神貫注"
+          }
+        ],
+        "synonyms": [
+          "alertness",
+          "awareness"
+        ]
+      }
+    ],
+    "confusion": [
+      "attent",
+      "intent",
+      "atten",
+      "attend"
+    ]
+  },
+  {
+    "word": "advance",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move forward in a purposeful way.",
+        "meaning_zh_TW": "前進",
+        "wrong_meaning_zh_TW": [
+          "後退",
+          "停滯",
+          "分散"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [advance] to the next level.",
+            "translation_zh_TW": "他們打算晉升到下一個級別"
+          },
+          {
+            "sentence": "The troops [advanced] towards the enemy.",
+            "translation_zh_TW": "部隊向敵人前進"
+          },
+          {
+            "sentence": "She is looking to [advance] her career.",
+            "translation_zh_TW": "她希望推進自己的職業生涯"
+          }
+        ],
+        "synonyms": [
+          "progress",
+          "move forward"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A forward movement or improvement.",
+        "meaning_zh_TW": "進步",
+        "wrong_meaning_zh_TW": [
+          "退步",
+          "混亂",
+          "維持"
+        ],
+        "examples": [
+          {
+            "sentence": "There has been significant [advance] in technology.",
+            "translation_zh_TW": "在技術上已經有了顯著的進步"
+          },
+          {
+            "sentence": "The [advances] in medicine are remarkable.",
+            "translation_zh_TW": "醫學的進展是令人驚奇的"
+          },
+          {
+            "sentence": "We celebrated our [advance] in the project.",
+            "translation_zh_TW": "我們慶祝在這個項目的進步"
+          }
+        ],
+        "synonyms": [
+          "progress",
+          "improvement"
+        ]
+      }
+    ],
+    "confusion": [
+      "avanced",
+      "advence",
+      "advant",
+      "enfance"
+    ]
+  },
+  {
+    "word": "diet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The kinds of food that a person, animal, or community habitually eats.",
+        "meaning_zh_TW": "飲食",
+        "wrong_meaning_zh_TW": [
+          "食物",
+          "療法",
+          "運動"
+        ],
+        "examples": [
+          {
+            "sentence": "He follows a strict [diet] to stay healthy.",
+            "translation_zh_TW": "他遵循嚴格的飲食來保持健康。"
+          },
+          {
+            "sentence": "A balanced [diet] is essential for good health.",
+            "translation_zh_TW": "均衡的飲食對健康至關重要。"
+          },
+          {
+            "sentence": "She read about a new [diet] plan.",
+            "translation_zh_TW": "她了解了一個新的飲食計劃。"
+          }
+        ],
+        "synonyms": [
+          "nutrition",
+          "regimen"
+        ]
+      }
+    ],
+    "confusion": [
+      "riot",
+      "diadem",
+      "dietician",
+      "docket"
+    ]
+  },
+  {
+    "word": "army",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large organized body of armed personnel equipped for combat.",
+        "meaning_zh_TW": "軍隊",
+        "wrong_meaning_zh_TW": [
+          "空軍、海軍",
+          "攝影隊、演出團",
+          "科研團隊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [army] was deployed to maintain peace.",
+            "translation_zh_TW": "軍隊被派遣維持和平。"
+          },
+          {
+            "sentence": "He served in the [army] for five years.",
+            "translation_zh_TW": "他在軍隊服役了五年。"
+          },
+          {
+            "sentence": "The [army] is well-trained for various operations.",
+            "translation_zh_TW": "軍隊對各種行動訓練有素。"
+          }
+        ],
+        "synonyms": [
+          "military",
+          "forces"
+        ]
+      }
+    ],
+    "confusion": [
+      "arm",
+      "armey",
+      "armee",
+      "arma"
+    ]
+  },
+  {
+    "word": "difference",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A point or way in which people or things are dissimilar.",
+        "meaning_zh_TW": "差異",
+        "wrong_meaning_zh_TW": [
+          "相同",
+          "比較",
+          "結果"
+        ],
+        "examples": [
+          {
+            "sentence": "The main [difference] between the two cars is efficiency.",
+            "translation_zh_TW": "這兩輛車的主要差異是效率。"
+          },
+          {
+            "sentence": "Can you tell the [difference] between these two colors?",
+            "translation_zh_TW": "你能告訴這兩種顏色的差異嗎？"
+          },
+          {
+            "sentence": "Understanding the [difference] is crucial for this project.",
+            "translation_zh_TW": "理解差異對這個項目至關重要。"
+          }
+        ],
+        "synonyms": [
+          "variation",
+          "distinction"
+        ]
+      }
+    ],
+    "confusion": [
+      "deference",
+      "difference",
+      "differ",
+      "diffract"
+    ]
+  },
+  {
+    "word": "nation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large body of people united by common descent, history, culture, or language.",
+        "meaning_zh_TW": "國家",
+        "wrong_meaning_zh_TW": [
+          "部落",
+          "城市",
+          "項目"
+        ],
+        "examples": [
+          {
+            "sentence": "Every [nation] has its own culture.",
+            "translation_zh_TW": "每個國家都有自己的文化"
+          },
+          {
+            "sentence": "The [nation] celebrated its independence.",
+            "translation_zh_TW": "該國慶祝其獨立"
+          },
+          {
+            "sentence": "A strong [nation] stands together.",
+            "translation_zh_TW": "一個強大的國家團結在一起"
+          }
+        ],
+        "synonyms": [
+          "country",
+          "state"
+        ]
+      }
+    ],
+    "confusion": [
+      "station",
+      "ration",
+      "notation",
+      "creation"
+    ]
+  },
+  {
+    "word": "sheet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large piece of fabric, paper, or material.",
+        "meaning_zh_TW": "一塊布料、紙張或材料",
+        "wrong_meaning_zh_TW": [
+          "樓層",
+          "單位",
+          "槍桿"
+        ],
+        "examples": [
+          {
+            "sentence": "I need a clean [sheet] for the bed.",
+            "translation_zh_TW": "我需要一張乾淨的床單。"
+          },
+          {
+            "sentence": "He wrote his notes on a piece of [sheet].",
+            "translation_zh_TW": "他在一張紙上寫下他的筆記。"
+          },
+          {
+            "sentence": "The artist used a large canvas [sheet] for painting.",
+            "translation_zh_TW": "藝術家用一張大畫布來畫畫。"
+          }
+        ],
+        "synonyms": [
+          "page",
+          "piece"
+        ]
+      }
+    ],
+    "confusion": [
+      "seat",
+      "sleet",
+      "sheep",
+      "shet"
+    ]
+  },
+  {
+    "word": "fashion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A popular trend, especially in styles of dress and ornament or manners of behavior.",
+        "meaning_zh_TW": "流行、時尚",
+        "wrong_meaning_zh_TW": [
+          "設計",
+          "建造",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "She is always ahead of the [fashion].",
+            "translation_zh_TW": "她總是走在時尚的最前端。"
+          },
+          {
+            "sentence": "The designer is known for her innovative [fashion].",
+            "translation_zh_TW": "這位設計師以其創新的時尚聞名。"
+          },
+          {
+            "sentence": "Vintage [fashion] is making a comeback.",
+            "translation_zh_TW": "復古時尚正在回潮。"
+          }
+        ],
+        "synonyms": [
+          "style",
+          "trend"
+        ]
+      }
+    ],
+    "confusion": [
+      "faction",
+      "fashun",
+      "fashin",
+      "fashoon"
+    ]
+  }
+]

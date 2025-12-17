@@ -1,0 +1,762 @@
+[
+  {
+    "word": "unique",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Being the only one of its kind.",
+        "meaning_zh_TW": "獨特的",
+        "wrong_meaning_zh_TW": [
+          "常見的",
+          "普通的",
+          "重複的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a [unique] talent for music.",
+            "translation_zh_TW": "她對音樂有獨特的天賦"
+          },
+          {
+            "sentence": "This design is truly [unique].",
+            "translation_zh_TW": "這個設計真的是獨特的"
+          },
+          {
+            "sentence": "Each snowflake is [unique] in its form.",
+            "translation_zh_TW": "每一片雪花在形狀上都是獨特的"
+          }
+        ],
+        "synonyms": [
+          "distinctive",
+          "singular"
+        ]
+      }
+    ],
+    "confusion": [
+      "unite",
+      "united",
+      "unqiue",
+      "unquie"
+    ]
+  },
+  {
+    "word": "survey",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A method of collecting information from a group of people.",
+        "meaning_zh_TW": "調查、問卷",
+        "wrong_meaning_zh_TW": [
+          "討論",
+          "藉口",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "The [survey] revealed interesting trends.",
+            "translation_zh_TW": "這項調查顯示了有趣的趨勢。"
+          },
+          {
+            "sentence": "Participants were asked to complete the [survey].",
+            "translation_zh_TW": "受訪者被要求填寫調查問卷。"
+          },
+          {
+            "sentence": "A recent [survey] showed changes in consumer preferences.",
+            "translation_zh_TW": "最近的調查顯示了消費者偏好的變化。"
+          }
+        ],
+        "synonyms": [
+          "poll",
+          "questionnaire",
+          "study"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To examine or look at closely.",
+        "meaning_zh_TW": "調查、檢查",
+        "wrong_meaning_zh_TW": [
+          "忽略",
+          "模糊",
+          "積累"
+        ],
+        "examples": [
+          {
+            "sentence": "They will [survey] the area for developments.",
+            "translation_zh_TW": "他們將對該地區進行調查以便發展。"
+          },
+          {
+            "sentence": "I need to [survey] my options before deciding.",
+            "translation_zh_TW": "在做決定之前，我需要檢查我的選擇。"
+          },
+          {
+            "sentence": "The architect will [survey] the site next week.",
+            "translation_zh_TW": "建築師將於下週檢查該地點。"
+          }
+        ],
+        "synonyms": [
+          "examine",
+          "inspect",
+          "analyze"
+        ]
+      }
+    ],
+    "confusion": [
+      "servant",
+      "serving",
+      "surveyor",
+      "surgery"
+    ]
+  },
+  {
+    "word": "therefore",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "For that reason; as a consequence.",
+        "meaning_zh_TW": "因此",
+        "wrong_meaning_zh_TW": [
+          "然後",
+          "同時",
+          "不過"
+        ],
+        "examples": [
+          {
+            "sentence": "She was late; [therefore], she missed the train.",
+            "translation_zh_TW": "她遲到了，因此她錯過了火車。"
+          },
+          {
+            "sentence": "It rained heavily; [therefore], the match was canceled.",
+            "translation_zh_TW": "下了大雨，因此比賽被取消了。"
+          },
+          {
+            "sentence": "He studied hard; [therefore], he passed the exam.",
+            "translation_zh_TW": "他努力學習，因此他通過了考試。"
+          }
+        ],
+        "synonyms": [
+          "thus",
+          "consequently"
+        ]
+      }
+    ],
+    "confusion": [
+      "therefore",
+      "therefor",
+      "theirfore",
+      "therfore"
+    ]
+  },
+  {
+    "word": "valley",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A low area of land between hills or mountains, typically with a river running through it.",
+        "meaning_zh_TW": "山谷",
+        "wrong_meaning_zh_TW": [
+          "高地",
+          "海洋",
+          "沙漠"
+        ],
+        "examples": [
+          {
+            "sentence": "The river flows through the [valley].",
+            "translation_zh_TW": "河流流經這個山谷。"
+          },
+          {
+            "sentence": "The valley is surrounded by tall mountains.",
+            "translation_zh_TW": "這個山谷四周環繞著高山。"
+          },
+          {
+            "sentence": "We hiked down into the [valley] to explore.",
+            "translation_zh_TW": "我們爬下山谷去探險。"
+          }
+        ],
+        "synonyms": [
+          "glen",
+          "dale"
+        ]
+      }
+    ],
+    "confusion": [
+      "vally",
+      "vallet",
+      "vallye",
+      "valli"
+    ]
+  },
+  {
+    "word": "wedding",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A ceremony in which two people are united in marriage.",
+        "meaning_zh_TW": "婚禮。",
+        "wrong_meaning_zh_TW": [
+          "約會",
+          "離婚",
+          "葬禮"
+        ],
+        "examples": [
+          {
+            "sentence": "Their [wedding] was held in a beautiful garden.",
+            "translation_zh_TW": "他們的婚禮在美麗的花園中舉行。"
+          },
+          {
+            "sentence": "She wore a stunning dress for the [wedding].",
+            "translation_zh_TW": "她穿著一件驚豔的婚紗。"
+          },
+          {
+            "sentence": "They invited many friends to their [wedding].",
+            "translation_zh_TW": "他們邀請了許多朋友參加他們的婚禮。"
+          }
+        ],
+        "synonyms": [
+          "marriage",
+          "ceremony"
+        ]
+      }
+    ],
+    "confusion": [
+      "wadding",
+      "wending",
+      "bedding",
+      "wedding"
+    ]
+  },
+  {
+    "word": "opportunity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A set of circumstances that makes it possible to do something.",
+        "meaning_zh_TW": "機會，時機",
+        "wrong_meaning_zh_TW": [
+          "障礙",
+          "挑戰",
+          "限制"
+        ],
+        "examples": [
+          {
+            "sentence": "This is a great [opportunity] for you to learn.",
+            "translation_zh_TW": "這是你學習的好機會"
+          },
+          {
+            "sentence": "Don't miss the [opportunity] to travel abroad.",
+            "translation_zh_TW": "不要錯過出國旅行的機會"
+          },
+          {
+            "sentence": "The job fair provides valuable [opportunities].",
+            "translation_zh_TW": "那個招聘會提供了寶貴的機會"
+          }
+        ],
+        "synonyms": [
+          "chance",
+          "prospect"
+        ]
+      }
+    ],
+    "confusion": [
+      "opportunities",
+      "opprtunity",
+      "opprtunit",
+      "opportinity"
+    ]
+  },
+  {
+    "word": "kit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A set of tools or equipment for a specific purpose.",
+        "meaning_zh_TW": "工具包",
+        "wrong_meaning_zh_TW": [
+          "包裹",
+          "盒子",
+          "背包"
+        ],
+        "examples": [
+          {
+            "sentence": "He bought a first aid [kit] for emergencies.",
+            "translation_zh_TW": "他為了應急買了一個急救工具包。"
+          },
+          {
+            "sentence": "The craftsman used a special [kit] for woodworking.",
+            "translation_zh_TW": "工匠使用了一個特別的工具包來做木工。"
+          },
+          {
+            "sentence": "She needed a repair [kit] to fix the bicycle.",
+            "translation_zh_TW": "她需要一個修理工具包來修理自行車。"
+          }
+        ],
+        "synonyms": [
+          "set",
+          "collection"
+        ]
+      }
+    ],
+    "confusion": [
+      "kitchen",
+      "kite",
+      "kitten",
+      "kith"
+    ]
+  },
+  {
+    "word": "award",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Something given in recognition of achievement.",
+        "meaning_zh_TW": "獎項",
+        "wrong_meaning_zh_TW": [
+          "賠償",
+          "懲罰",
+          "罰款"
+        ],
+        "examples": [
+          {
+            "sentence": "She received an [award] for her outstanding performance.",
+            "translation_zh_TW": "她因其傑出的表現獲得了一個獎項。"
+          },
+          {
+            "sentence": "The ceremony was held to present the [awards].",
+            "translation_zh_TW": "頒獎典禮是舉行以頒發獎項。"
+          },
+          {
+            "sentence": "Winning the [award] was a surprise for him.",
+            "translation_zh_TW": "獲獎對他來說是一個驚喜。"
+          }
+        ],
+        "synonyms": [
+          "prize",
+          "honor"
+        ]
+      }
+    ],
+    "confusion": [
+      "ward",
+      "awards",
+      "awarding",
+      "awar"
+    ]
+  },
+  {
+    "word": "thus",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "As a result or in this way.",
+        "meaning_zh_TW": "因此",
+        "wrong_meaning_zh_TW": [
+          "可是",
+          "雖然",
+          "因為"
+        ],
+        "examples": [
+          {
+            "sentence": "She studied hard; [thus], she passed the exam.",
+            "translation_zh_TW": "她努力學習；因此，她通過了考試。"
+          },
+          {
+            "sentence": "He was late, [thus] we missed the beginning.",
+            "translation_zh_TW": "他遲到了，因此我們錯過了開始。"
+          },
+          {
+            "sentence": "The project was completed early; [thus], we got extra time.",
+            "translation_zh_TW": "項目提前完成；因此，我們多出了時間。"
+          }
+        ],
+        "synonyms": [
+          "therefore",
+          "consequently"
+        ]
+      }
+    ],
+    "confusion": [
+      "thusly",
+      "tusks",
+      "thrust",
+      "thush"
+    ]
+  },
+  {
+    "word": "budget",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An estimate of income and expenditure for a set period of time.",
+        "meaning_zh_TW": "預算",
+        "wrong_meaning_zh_TW": [
+          "報告",
+          "帳單",
+          "借款"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to create a [budget] for our trip.",
+            "translation_zh_TW": "我們需要為旅行制定預算"
+          },
+          {
+            "sentence": "The department has a limited [budget] for supplies.",
+            "translation_zh_TW": "該部門的供應預算有限"
+          },
+          {
+            "sentence": "He reviewed the annual [budget] for the company.",
+            "translation_zh_TW": "他審查了公司的年度預算"
+          }
+        ],
+        "synonyms": [
+          "financial plan",
+          "allocation"
+        ]
+      }
+    ],
+    "confusion": [
+      "bidget",
+      "budgett",
+      "budjet",
+      "budgee"
+    ]
+  },
+  {
+    "word": "operation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fact or condition of functioning or being active.",
+        "meaning_zh_TW": "操作，運行",
+        "wrong_meaning_zh_TW": [
+          "停止",
+          "修理",
+          "故障"
+        ],
+        "examples": [
+          {
+            "sentence": "The [operation] of the machine is smooth.",
+            "translation_zh_TW": "這台機器的運作很順利"
+          },
+          {
+            "sentence": "Surgery is a complex [operation].",
+            "translation_zh_TW": "外科手術是一個複雜的過程"
+          },
+          {
+            "sentence": "The [operation] of the company has improved this year.",
+            "translation_zh_TW": "公司的運營在今年有所改善"
+          }
+        ],
+        "synonyms": [
+          "process",
+          "activity"
+        ]
+      }
+    ],
+    "confusion": [
+      "operation",
+      "operations",
+      "operational",
+      "operarion"
+    ]
+  },
+  {
+    "word": "wine",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An alcoholic beverage made from fermented grapes or other fruits.",
+        "meaning_zh_TW": "葡萄酒",
+        "wrong_meaning_zh_TW": [
+          "果汁",
+          "醋",
+          "咖啡"
+        ],
+        "examples": [
+          {
+            "sentence": "She enjoys a glass of [wine] with dinner.",
+            "translation_zh_TW": "她在晚餐時喜歡喝一杯葡萄酒。"
+          },
+          {
+            "sentence": "Red [wine] pairs well with steak.",
+            "translation_zh_TW": "紅葡萄酒與牛排很搭。"
+          },
+          {
+            "sentence": "They visited a vineyard to taste the [wine].",
+            "translation_zh_TW": "他們參觀了一家酒莊品嚐葡萄酒。"
+          }
+        ],
+        "synonyms": [
+          "vino",
+          "nectar"
+        ]
+      }
+    ],
+    "confusion": [
+      "winnow",
+      "whine",
+      "wind",
+      "wong"
+    ]
+  },
+  {
+    "word": "vote",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To express one’s choice or opinion in a formal manner, especially in an election.",
+        "meaning_zh_TW": "投票",
+        "wrong_meaning_zh_TW": [
+          "選擇偏好",
+          "決定命運",
+          "購物"
+        ],
+        "examples": [
+          {
+            "sentence": "Citizens have the right to [vote] in elections.",
+            "translation_zh_TW": "公民有權在選舉中投票"
+          },
+          {
+            "sentence": "She decided to [vote] for her favorite candidate.",
+            "translation_zh_TW": "她決定為她最喜歡的候選人投票"
+          },
+          {
+            "sentence": "The committee will [vote] on the new proposal next week.",
+            "translation_zh_TW": "委員會將在下週對新提案投票"
+          }
+        ],
+        "synonyms": [
+          "poll",
+          "elect"
+        ]
+      }
+    ],
+    "confusion": [
+      "note",
+      "veto",
+      "votee",
+      "voce"
+    ]
+  },
+  {
+    "word": "significant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Important and deserving attention.",
+        "meaning_zh_TW": "重要的，值得注意的",
+        "wrong_meaning_zh_TW": [
+          "微小的",
+          "無關的",
+          "不重要的"
+        ],
+        "examples": [
+          {
+            "sentence": "The study produced [significant] results.",
+            "translation_zh_TW": "這項研究產生了重要的結果"
+          },
+          {
+            "sentence": "There was a [significant] difference between the two groups.",
+            "translation_zh_TW": "兩組之間存在著重要的差異"
+          },
+          {
+            "sentence": "His contribution was [significant] to the project.",
+            "translation_zh_TW": "他的貢獻對這個項目是重要的"
+          }
+        ],
+        "synonyms": [
+          "important",
+          "notable"
+        ]
+      }
+    ],
+    "confusion": [
+      "insignificant",
+      "sign",
+      "signature",
+      "sinificant"
+    ]
+  },
+  {
+    "word": "authority",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The power or right to give orders, make decisions, and enforce obedience.",
+        "meaning_zh_TW": "權威、權力",
+        "wrong_meaning_zh_TW": [
+          "道德觀",
+          "團隊合作",
+          "學術範疇"
+        ],
+        "examples": [
+          {
+            "sentence": "The police have the [authority] to enforce the law.",
+            "translation_zh_TW": "警察有執法的權力"
+          },
+          {
+            "sentence": "She acted with [authority] and confidence.",
+            "translation_zh_TW": "她的行為充滿了權威和自信"
+          },
+          {
+            "sentence": "His experience gave him the [authority] to speak on the topic.",
+            "translation_zh_TW": "他的經驗使他有權就此話題發言"
+          }
+        ],
+        "synonyms": [
+          "power",
+          "control"
+        ]
+      }
+    ],
+    "confusion": [
+      "author",
+      "authorize",
+      "authority's",
+      "aouthority"
+    ]
+  },
+  {
+    "word": "strategy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A plan of action designed to achieve a long-term or overall aim.",
+        "meaning_zh_TW": "策略",
+        "wrong_meaning_zh_TW": [
+          "牙科",
+          "象棋",
+          "動漫"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [strategy] was to save money for a house.",
+            "translation_zh_TW": "她的策略是存錢買房子。"
+          },
+          {
+            "sentence": "The team developed a new [strategy] for marketing.",
+            "translation_zh_TW": "團隊制定了一個新的行銷策略。"
+          },
+          {
+            "sentence": "He analyzed the competition to refine his [strategy].",
+            "translation_zh_TW": "他分析了競爭對手以完善自己的策略。"
+          }
+        ],
+        "synonyms": [
+          "plan",
+          "tactic"
+        ]
+      }
+    ],
+    "confusion": [
+      "strategic",
+      "strata",
+      "strange",
+      "stray"
+    ]
+  },
+  {
+    "word": "agent",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who acts on behalf of another person or group.",
+        "meaning_zh_TW": "代理人、經紀人",
+        "wrong_meaning_zh_TW": [
+          "顧客、消費者",
+          "產品、商品",
+          "古董、寶物"
+        ],
+        "examples": [
+          {
+            "sentence": "The real estate [agent] helped us find a house.",
+            "translation_zh_TW": "房地產代理人幫助我們找到一個房子"
+          },
+          {
+            "sentence": "He is an undercover [agent] for the police.",
+            "translation_zh_TW": "他是警方的臥底"
+          },
+          {
+            "sentence": "An insurance [agent] can provide valuable advice.",
+            "translation_zh_TW": "保險代理人可以提供有價值的建議"
+          }
+        ],
+        "synonyms": [
+          "representative",
+          "broker"
+        ]
+      }
+    ],
+    "confusion": [
+      "agents",
+      "agant",
+      "agen",
+      "ageant"
+    ]
+  },
+  {
+    "word": "senior",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person in the last year of a course of study, particularly in high school or college.",
+        "meaning_zh_TW": "高年級學生",
+        "wrong_meaning_zh_TW": [
+          "新生",
+          "老師",
+          "助教"
+        ],
+        "examples": [
+          {
+            "sentence": "He is a [senior] at the university.",
+            "translation_zh_TW": "他是大學的高年級學生。"
+          },
+          {
+            "sentence": "The [senior] class is planning a trip.",
+            "translation_zh_TW": "高年級班正在計劃一次旅行。"
+          },
+          {
+            "sentence": "As a [senior], she has many responsibilities.",
+            "translation_zh_TW": "作為一名高年級學生，她有很多責任。"
+          }
+        ],
+        "synonyms": [
+          "elder",
+          "graduate"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Older or higher in age or rank.",
+        "meaning_zh_TW": "資深的",
+        "wrong_meaning_zh_TW": [
+          "年輕的",
+          "普通的",
+          "新鮮的"
+        ],
+        "examples": [
+          {
+            "sentence": "She took a [senior] position in the company.",
+            "translation_zh_TW": "她在公司擔任一個資深職位。"
+          },
+          {
+            "sentence": "The [senior] members of the team led the project.",
+            "translation_zh_TW": "團隊的資深成員負責該專案。"
+          },
+          {
+            "sentence": "In a [senior] role, you need to mentor others.",
+            "translation_zh_TW": "在資深角色中，你需要指導他人。"
+          }
+        ],
+        "synonyms": [
+          "aged",
+          "superior"
+        ]
+      }
+    ],
+    "confusion": [
+      "junior",
+      "seniate",
+      "senility",
+      "senors"
+    ]
+  }
+]

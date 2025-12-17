@@ -1,0 +1,782 @@
+[
+  {
+    "word": "beard",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Facial hair that grows on the chin and cheeks.",
+        "meaning_zh_TW": "鬍子",
+        "wrong_meaning_zh_TW": [
+          "眉毛",
+          "指甲",
+          "髮型"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a long [beard] that he takes great care of.",
+            "translation_zh_TW": "他有一頭長鬍子，並且非常注重護理。"
+          },
+          {
+            "sentence": "Many cultures have different traditions concerning [beard].",
+            "translation_zh_TW": "許多文化對於鬍子有不同的傳統。"
+          },
+          {
+            "sentence": "He decided to grow a [beard] for the winter.",
+            "translation_zh_TW": "他決定在冬季留鬍子。"
+          }
+        ],
+        "synonyms": [
+          "facial hair",
+          "moustache"
+        ]
+      }
+    ],
+    "confusion": [
+      "beard",
+      "bored",
+      "beardly",
+      "beater"
+    ]
+  },
+  {
+    "word": "burger",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A casual term for a hamburger, often referring to variations of hamburgers.",
+        "meaning_zh_TW": "漢堡",
+        "wrong_meaning_zh_TW": [
+          "肉圓",
+          "炸雞",
+          "壽司"
+        ],
+        "examples": [
+          {
+            "sentence": "She prefers a veggie [burger] over meat.",
+            "translation_zh_TW": "她喜歡素漢堡而不是肉。"
+          },
+          {
+            "sentence": "The restaurant offers a special [burger] of the month.",
+            "translation_zh_TW": "這家餐廳提供每月特製漢堡。"
+          },
+          {
+            "sentence": "They decided to have [burgers] for dinner.",
+            "translation_zh_TW": "他們決定晚餐吃漢堡。"
+          }
+        ],
+        "synonyms": [
+          "sandwich",
+          "slider"
+        ]
+      }
+    ],
+    "confusion": [
+      "burgr",
+      "borger",
+      "burgerz",
+      "barger"
+    ]
+  },
+  {
+    "word": "encouragement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of giving someone support, confidence, or hope.",
+        "meaning_zh_TW": "鼓勵",
+        "wrong_meaning_zh_TW": [
+          "批評",
+          "威脅",
+          "反對"
+        ],
+        "examples": [
+          {
+            "sentence": "The coach's [encouragement] was vital for the team’s morale.",
+            "translation_zh_TW": "教練的鼓勵對於球隊的士氣至關重要。"
+          },
+          {
+            "sentence": "She offered words of [encouragement] to her friend.",
+            "translation_zh_TW": "她對朋友提供了鼓舞的話語。"
+          },
+          {
+            "sentence": "His constant [encouragement] helped her overcome challenges.",
+            "translation_zh_TW": "他不斷的鼓勵幫助她克服了挑戰。"
+          }
+        ],
+        "synonyms": [
+          "support",
+          "inspiration"
+        ]
+      }
+    ],
+    "confusion": [
+      "discouragement",
+      "encouraging",
+      "encouraged",
+      "courage"
+    ]
+  },
+  {
+    "word": "roach",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of small fish that resembles a carp, commonly found in Europe.",
+        "meaning_zh_TW": "犬齒魚",
+        "wrong_meaning_zh_TW": [
+          "電視機",
+          "香腸",
+          "抹茶"
+        ],
+        "examples": [
+          {
+            "sentence": "He caught a [roach] while fishing at the lake.",
+            "translation_zh_TW": "他在湖邊釣魚時抓到了一條犬齒魚。"
+          },
+          {
+            "sentence": "The river is home to many species including the [roach].",
+            "translation_zh_TW": "這條河是許多物種的家，包括犬齒魚。"
+          },
+          {
+            "sentence": "They love to eat [roach] during the summer.",
+            "translation_zh_TW": "他們喜歡在夏天吃犬齒魚。"
+          }
+        ],
+        "synonyms": [
+          "fish",
+          "carp"
+        ]
+      }
+    ],
+    "confusion": [
+      "coach",
+      "roachie",
+      "roche",
+      "couch"
+    ]
+  },
+  {
+    "word": "scare",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause someone to feel frightened or alarmed.",
+        "meaning_zh_TW": "使人害怕",
+        "wrong_meaning_zh_TW": [
+          "安慰",
+          "引導",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "The loud noise will [scare] the children.",
+            "translation_zh_TW": "那聲音會讓孩子們感到害怕。"
+          },
+          {
+            "sentence": "She didn't mean to [scare] him.",
+            "translation_zh_TW": "她不是故意想嚇到他的。"
+          },
+          {
+            "sentence": "The horror movie really [scared] me.",
+            "translation_zh_TW": "那部恐怖電影真的嚇到我了。"
+          }
+        ],
+        "synonyms": [
+          "frighten",
+          "terrify"
+        ]
+      }
+    ],
+    "confusion": [
+      "scar",
+      "share",
+      "scarecrow",
+      "scale"
+    ]
+  },
+  {
+    "word": "insist",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To demand something forcefully, not allowing refusal.",
+        "meaning_zh_TW": "堅持",
+        "wrong_meaning_zh_TW": [
+          "拒絕",
+          "懷疑",
+          "接受"
+        ],
+        "examples": [
+          {
+            "sentence": "She [insist] on attending the meeting.",
+            "translation_zh_TW": "她堅持參加會議。"
+          },
+          {
+            "sentence": "I must [insist] that you follow the rules.",
+            "translation_zh_TW": "我必須堅持你遵守規則。"
+          },
+          {
+            "sentence": "He will [insist] on his point of view.",
+            "translation_zh_TW": "他將堅持自己的觀點。"
+          }
+        ],
+        "synonyms": [
+          "demand",
+          "assert"
+        ]
+      }
+    ],
+    "confusion": [
+      "exist",
+      "assist",
+      "resist",
+      "insisted"
+    ]
+  },
+  {
+    "word": "lend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To grant someone the use of something on the condition that it shall be returned.",
+        "meaning_zh_TW": "借出",
+        "wrong_meaning_zh_TW": [
+          "寄存",
+          "謀取",
+          "收取"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you [lend] me your pen?",
+            "translation_zh_TW": "你可以把你的筆借給我嗎？"
+          },
+          {
+            "sentence": "They decided to [lend] a helping hand to the community.",
+            "translation_zh_TW": "他們決定向社區伸出援手"
+          },
+          {
+            "sentence": "I’ll [lend] you my book if you promise to return it.",
+            "translation_zh_TW": "如果你保證還給我，我會把書借給你"
+          }
+        ],
+        "synonyms": [
+          "loan",
+          "provide"
+        ]
+      }
+    ],
+    "confusion": [
+      "end",
+      "send",
+      "land",
+      "lendable"
+    ]
+  },
+  {
+    "word": "cereal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A common breakfast food made from processed grains.",
+        "meaning_zh_TW": "麥片",
+        "wrong_meaning_zh_TW": [
+          "飲料",
+          "小吃",
+          "沙拉"
+        ],
+        "examples": [
+          {
+            "sentence": "I eat [cereal] with milk every morning.",
+            "translation_zh_TW": "我每天早上都吃牛奶麥片"
+          },
+          {
+            "sentence": "Cereal can be a healthy breakfast choice.",
+            "translation_zh_TW": "麥片可以是一個健康的早餐選擇"
+          },
+          {
+            "sentence": "There are many varieties of [cereal] available.",
+            "translation_zh_TW": "市面上有許多種麥片可供選擇"
+          }
+        ],
+        "synonyms": [
+          "grains",
+          "breakfast food"
+        ]
+      }
+    ],
+    "confusion": [
+      "serial",
+      "cereals",
+      "cirreal",
+      "cerreal"
+    ]
+  },
+  {
+    "word": "obey",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To comply with the command, direction, or request of a person or a law.",
+        "meaning_zh_TW": "服從",
+        "wrong_meaning_zh_TW": [
+          "違抗",
+          "忽視",
+          "挑戰"
+        ],
+        "examples": [
+          {
+            "sentence": "Children should [obey] their parents.",
+            "translation_zh_TW": "孩子們應該服從他們的父母."
+          },
+          {
+            "sentence": "It’s important to [obey] the traffic rules.",
+            "translation_zh_TW": "遵守交通規則是很重要的."
+          },
+          {
+            "sentence": "Dogs are trained to [obey] commands.",
+            "translation_zh_TW": "狗狗接受訓練以服從命令."
+          }
+        ],
+        "synonyms": [
+          "follow",
+          "submit"
+        ]
+      }
+    ],
+    "confusion": [
+      "obeying",
+      "obscure",
+      "obese",
+      "obeyed"
+    ]
+  },
+  {
+    "word": "seldom",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Not often; rarely.",
+        "meaning_zh_TW": "鮮少",
+        "wrong_meaning_zh_TW": [
+          "時常",
+          "經常",
+          "有時"
+        ],
+        "examples": [
+          {
+            "sentence": "She [seldom] visits her relatives.",
+            "translation_zh_TW": "她鮮少拜訪親戚。"
+          },
+          {
+            "sentence": "He [seldom] eats out at restaurants.",
+            "translation_zh_TW": "他鮮少在餐廳吃飯。"
+          },
+          {
+            "sentence": "They [seldom] go to the movies anymore.",
+            "translation_zh_TW": "他們幾乎不再去看電影。"
+          }
+        ],
+        "synonyms": [
+          "rarely",
+          "infrequently"
+        ]
+      }
+    ],
+    "confusion": [
+      "seldomly",
+      "sale",
+      "sell",
+      "heldom"
+    ]
+  },
+  {
+    "word": "supper",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An evening meal, typically a light or informal one.",
+        "meaning_zh_TW": "晚餐",
+        "wrong_meaning_zh_TW": [
+          "早餐",
+          "午餐",
+          "點心"
+        ],
+        "examples": [
+          {
+            "sentence": "They often have supper together at home.",
+            "translation_zh_TW": "他們經常在家一起吃晚餐"
+          },
+          {
+            "sentence": "Supper is served at six o'clock.",
+            "translation_zh_TW": "晚餐在六點供應"
+          },
+          {
+            "sentence": "She prepared a delicious supper for her family.",
+            "translation_zh_TW": "她為家人準備了一頓美味的晚餐"
+          }
+        ],
+        "synonyms": [
+          "dinner",
+          "meal"
+        ]
+      }
+    ],
+    "confusion": [
+      "supper",
+      "super",
+      "suppress",
+      "supperclub"
+    ]
+  },
+  {
+    "word": "beg",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To ask someone earnestly or humbly for something.",
+        "meaning_zh_TW": "乞求",
+        "wrong_meaning_zh_TW": [
+          "命令",
+          "拒絕",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "She had to [beg] for mercy.",
+            "translation_zh_TW": "她不得不乞求仁慈。"
+          },
+          {
+            "sentence": "He will [beg] you for help.",
+            "translation_zh_TW": "他會向你乞求幫助。"
+          },
+          {
+            "sentence": "Don’t [beg] if you have the means.",
+            "translation_zh_TW": "如果你有能力就不要乞求。"
+          }
+        ],
+        "synonyms": [
+          "plead",
+          "implore"
+        ]
+      }
+    ],
+    "confusion": [
+      "bag",
+      "begg",
+      "big",
+      "begs"
+    ]
+  },
+  {
+    "word": "lantern",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A portable light source consisting of a protective case enclosing a light.",
+        "meaning_zh_TW": "燈籠",
+        "wrong_meaning_zh_TW": [
+          "手電筒",
+          "燭台",
+          "火炬"
+        ],
+        "examples": [
+          {
+            "sentence": "She hung a beautiful [lantern] in the garden.",
+            "translation_zh_TW": "她在花園裡掛了一個漂亮的燈籠。"
+          },
+          {
+            "sentence": "The festival featured colorful [lanterns] lighting up the night sky.",
+            "translation_zh_TW": "這個節日有五顏六色的燈籠照亮夜空。"
+          },
+          {
+            "sentence": "We used a [lantern] to find our way through the dark forest.",
+            "translation_zh_TW": "我們用燈籠在黑暗的森林中找路。"
+          }
+        ],
+        "synonyms": [
+          "light",
+          "lamp"
+        ]
+      }
+    ],
+    "confusion": [
+      "latter",
+      "layering",
+      "lantana",
+      "larnex"
+    ]
+  },
+  {
+    "word": "gardener",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who tends and cultivates a garden.",
+        "meaning_zh_TW": "園丁",
+        "wrong_meaning_zh_TW": [
+          "畫家",
+          "建築師",
+          "廚師"
+        ],
+        "examples": [
+          {
+            "sentence": "The [gardener] planted new flowers.",
+            "translation_zh_TW": "園丁種下了新花。"
+          },
+          {
+            "sentence": "She hired a [gardener] to maintain the yard.",
+            "translation_zh_TW": "她雇了一位園丁來維護院子。"
+          },
+          {
+            "sentence": "The [gardener] uses organic methods.",
+            "translation_zh_TW": "園丁使用有機方法。"
+          }
+        ],
+        "synonyms": [
+          "horticulturist",
+          "landscaper"
+        ]
+      }
+    ],
+    "confusion": [
+      "gardenia",
+      "gardesh",
+      "garde",
+      "garden"
+    ]
+  },
+  {
+    "word": "chalk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A soft white or grayish mineral used for writing or drawing.",
+        "meaning_zh_TW": "粉筆",
+        "wrong_meaning_zh_TW": [
+          "粉筆盒",
+          "畫筆",
+          "顏料"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher wrote on the board with [chalk].",
+            "translation_zh_TW": "老師用粉筆在黑板上寫字"
+          },
+          {
+            "sentence": "Kids love to draw with colorful [chalk].",
+            "translation_zh_TW": "孩子們喜歡用彩色粉筆畫畫"
+          },
+          {
+            "sentence": "She used [chalk] to outline the drawing.",
+            "translation_zh_TW": "她用粉筆勾勒出畫的輪廓"
+          }
+        ],
+        "synonyms": [
+          "marking tool",
+          "writing instrument"
+        ]
+      }
+    ],
+    "confusion": [
+      "chlk",
+      "chalks",
+      "chok",
+      "chack"
+    ]
+  },
+  {
+    "word": "fisherman",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who catches fish for a living or as a hobby.",
+        "meaning_zh_TW": "漁夫",
+        "wrong_meaning_zh_TW": [
+          "獵人",
+          "農夫",
+          "廚師"
+        ],
+        "examples": [
+          {
+            "sentence": "The [fisherman] cast his net into the sea.",
+            "translation_zh_TW": "漁夫將他的網投進海裡。"
+          },
+          {
+            "sentence": "Every [fisherman] knows the best fishing spots.",
+            "translation_zh_TW": "每位漁夫都知道最佳釣魚地點。"
+          },
+          {
+            "sentence": "The [fisherman] proudly displayed his catch.",
+            "translation_zh_TW": "漁夫驕傲地展示了他的捕獲。"
+          }
+        ],
+        "synonyms": [
+          "angler",
+          "catcher"
+        ]
+      }
+    ],
+    "confusion": [
+      "fishermen",
+      "fishing",
+      "fished",
+      "fishery"
+    ]
+  },
+  {
+    "word": "ape",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large primate that includes gorillas, chimpanzees, and orangutans.",
+        "meaning_zh_TW": "猿",
+        "wrong_meaning_zh_TW": [
+          "猴子",
+          "爬蟲類",
+          "小狗"
+        ],
+        "examples": [
+          {
+            "sentence": "The [ape] swung from tree to tree.",
+            "translation_zh_TW": "猿類從樹上擺盪到樹上"
+          },
+          {
+            "sentence": "An [ape] can use tools just like humans.",
+            "translation_zh_TW": "猿類可以像人類一樣使用工具"
+          },
+          {
+            "sentence": "He watched the [ape] at the zoo.",
+            "translation_zh_TW": "他在動物園觀察那只猿"
+          }
+        ],
+        "synonyms": [
+          "primate",
+          "monkey"
+        ]
+      }
+    ],
+    "confusion": [
+      "apee",
+      "apei",
+      "aple",
+      "pee"
+    ]
+  },
+  {
+    "word": "boil",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To heat a liquid until it begins to bubble and vaporize.",
+        "meaning_zh_TW": "煮沸",
+        "wrong_meaning_zh_TW": [
+          "冷卻",
+          "凍結",
+          "攪拌"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [boil] the water before adding the pasta.",
+            "translation_zh_TW": "你需要先將水煮沸才能加入意大利麵。"
+          },
+          {
+            "sentence": "Make sure the eggs are fully [boiled] before serving.",
+            "translation_zh_TW": "確保雞蛋完全煮熟後再上桌。"
+          },
+          {
+            "sentence": "She likes to [boil] vegetables for a healthier dish.",
+            "translation_zh_TW": "她喜歡將蔬菜煮沸做成更健康的菜餚。"
+          }
+        ],
+        "synonyms": [
+          "heat",
+          "bubble"
+        ]
+      }
+    ],
+    "confusion": [
+      "soil",
+      "roll",
+      "foil",
+      "bowl"
+    ]
+  },
+  {
+    "word": "comb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool with a row of narrow teeth used for untangling or arranging hair.",
+        "meaning_zh_TW": "梳子",
+        "wrong_meaning_zh_TW": [
+          "條子",
+          "工具",
+          "肥皂"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a [comb] to tidy her hair.",
+            "translation_zh_TW": "她用梳子整理她的頭髮。"
+          },
+          {
+            "sentence": "A plastic [comb] is often used for styling.",
+            "translation_zh_TW": "塑膠梳子通常用於造型。"
+          },
+          {
+            "sentence": "He found a [comb] in his drawer.",
+            "translation_zh_TW": "他在抽屜裡找到了梳子。"
+          }
+        ],
+        "synonyms": [
+          "hairbrush",
+          "toothed tool"
+        ]
+      }
+    ],
+    "confusion": [
+      "come",
+      "combining",
+      "combative",
+      "combs"
+    ]
+  },
+  {
+    "word": "foolish",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking good sense or judgment; unwise.",
+        "meaning_zh_TW": "愚蠢的",
+        "wrong_meaning_zh_TW": [
+          "聰明的",
+          "狡猾的",
+          "明智的"
+        ],
+        "examples": [
+          {
+            "sentence": "It was [foolish] of him to ignore the warning signs.",
+            "translation_zh_TW": "忽視警告標誌對他來說是愚蠢的。"
+          },
+          {
+            "sentence": "Making such a [foolish] mistake can be costly.",
+            "translation_zh_TW": "犯這樣愚蠢的錯誤會代價高昂。"
+          },
+          {
+            "sentence": "They laughed at the [foolish] idea.",
+            "translation_zh_TW": "他們嘲笑這個愚蠢的主意。"
+          }
+        ],
+        "synonyms": [
+          "silly",
+          "unwise"
+        ]
+      }
+    ],
+    "confusion": [
+      "fool",
+      "coolish",
+      "foolery",
+      "foulish"
+    ]
+  }
+]

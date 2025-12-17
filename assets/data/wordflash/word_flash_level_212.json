@@ -1,0 +1,760 @@
+[
+  {
+    "word": "seize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take hold of suddenly and forcibly.",
+        "meaning_zh_TW": "攫取",
+        "wrong_meaning_zh_TW": [
+          "歸還",
+          "交出",
+          "釋放"
+        ],
+        "examples": [
+          {
+            "sentence": "He [seized] the opportunity to travel abroad.",
+            "translation_zh_TW": "他抓住了出國旅行的機會。"
+          },
+          {
+            "sentence": "The police [seized] the illegal goods.",
+            "translation_zh_TW": "警方查獲了非法貨物。"
+          },
+          {
+            "sentence": "She [seized] upon the idea with enthusiasm.",
+            "translation_zh_TW": "她熱情地抓住了這個想法。"
+          }
+        ],
+        "synonyms": [
+          "grab",
+          "take"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of taking possession suddenly.",
+        "meaning_zh_TW": "攫取",
+        "wrong_meaning_zh_TW": [
+          "歸還",
+          "交出",
+          "釋放"
+        ],
+        "examples": [
+          {
+            "sentence": "The [seize] of the city was quick.",
+            "translation_zh_TW": "城市的攫取是迅速的。"
+          },
+          {
+            "sentence": "His [seize] of power was unexpected.",
+            "translation_zh_TW": "他對權力的攫取是意外的。"
+          },
+          {
+            "sentence": "A sudden [seize] can lead to chaos.",
+            "translation_zh_TW": "突如其來的攫取可能導致混亂。"
+          }
+        ],
+        "synonyms": [
+          "capture",
+          "takeover"
+        ]
+      }
+    ],
+    "confusion": [
+      "cease",
+      "seas",
+      "sieze",
+      "seized"
+    ]
+  },
+  {
+    "word": "claw",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sharp, curved appendage on the foot or hand of an animal, used for grasping or climbing.",
+        "meaning_zh_TW": "爪子",
+        "wrong_meaning_zh_TW": [
+          "螳螂",
+          "刀具",
+          "尖端"
+        ],
+        "examples": [
+          {
+            "sentence": "The cat extended its [claw] to scratch the post.",
+            "translation_zh_TW": "貓伸出爪子去抓柱子。"
+          },
+          {
+            "sentence": "The bird gripped the branch with its sharp [claws].",
+            "translation_zh_TW": "鳥用鋒利的爪子緊抓樹枝。"
+          },
+          {
+            "sentence": "The crab scuttled away, using its [claws] to move sideways.",
+            "translation_zh_TW": "螃蟹側著身子用爪子快速爬走。"
+          }
+        ],
+        "synonyms": [
+          "digit",
+          "talon"
+        ]
+      }
+    ],
+    "confusion": [
+      "law",
+      "clawing",
+      "claustrophobia",
+      "clawback"
+    ]
+  },
+  {
+    "word": "damp",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Slightly wet; moist.",
+        "meaning_zh_TW": "潮濕的",
+        "wrong_meaning_zh_TW": [
+          "乾燥的",
+          "炎熱的",
+          "刺眼的"
+        ],
+        "examples": [
+          {
+            "sentence": "The ground was still [damp] after the rain.",
+            "translation_zh_TW": "雨後地面仍然潮濕。"
+          },
+          {
+            "sentence": "She wrung out the [damp] towel.",
+            "translation_zh_TW": "她擰乾了潮濕的毛巾。"
+          },
+          {
+            "sentence": "It was a chilly, [damp] day at the beach.",
+            "translation_zh_TW": "沙灘上是一個寒冷而潮濕的日子。"
+          }
+        ],
+        "synonyms": [
+          "moist",
+          "wet"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make something slightly wet.",
+        "meaning_zh_TW": "使潮濕",
+        "wrong_meaning_zh_TW": [
+          "乾燥",
+          "加熱",
+          "變硬"
+        ],
+        "examples": [
+          {
+            "sentence": "You should [damp] the paper before folding it.",
+            "translation_zh_TW": "在摺紙之前應該讓紙稍微潮濕。"
+          },
+          {
+            "sentence": "He [damped] the sponge before cleaning the table.",
+            "translation_zh_TW": "他在清潔桌子之前將海綿弄濕。"
+          },
+          {
+            "sentence": "The gardener [damp]ed the soil to help the plants grow.",
+            "translation_zh_TW": "園丁讓土壤變得潮濕，以促進植物生長。"
+          }
+        ],
+        "synonyms": [
+          "moisten",
+          "wet"
+        ]
+      }
+    ],
+    "confusion": [
+      "dump",
+      "lamp",
+      "dam",
+      "dampness"
+    ]
+  },
+  {
+    "word": "motivate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To provide someone with a reason for doing something.",
+        "meaning_zh_TW": "激勵、促使",
+        "wrong_meaning_zh_TW": [
+          "推動故事",
+          "埋葬冤屈",
+          "冷卻情緒"
+        ],
+        "examples": [
+          {
+            "sentence": "Teachers often try to [motivate] their students to study harder.",
+            "translation_zh_TW": "教師常常試圖激勵學生更努力地學習"
+          },
+          {
+            "sentence": "She found ways to [motivate] herself during tough times.",
+            "translation_zh_TW": "她在艱難時期找到激勵自己的方法"
+          },
+          {
+            "sentence": "A good leader knows how to [motivate] their team.",
+            "translation_zh_TW": "一個好的領導者知道如何激勵他的團隊"
+          }
+        ],
+        "synonyms": [
+          "inspire",
+          "encourage"
+        ]
+      }
+    ],
+    "confusion": [
+      "motivation",
+      "motivated",
+      "motive",
+      "motivatee"
+    ]
+  },
+  {
+    "word": "eventual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring at the end of a process or series of events.",
+        "meaning_zh_TW": "最終的",
+        "wrong_meaning_zh_TW": [
+          "即時的",
+          "不確定的",
+          "危急的"
+        ],
+        "examples": [
+          {
+            "sentence": "Their efforts will lead to an [eventual] success.",
+            "translation_zh_TW": "他們的努力將導致最終的成功。"
+          },
+          {
+            "sentence": "She anticipates an [eventual] resolution to the conflict.",
+            "translation_zh_TW": "她預計這場衝突最終將得到解決。"
+          },
+          {
+            "sentence": "The project had [eventual] approvals after several revisions.",
+            "translation_zh_TW": "該項目經過多次修訂後最終獲得批准。"
+          }
+        ],
+        "synonyms": [
+          "ultimate",
+          "final"
+        ]
+      }
+    ],
+    "confusion": [
+      "event",
+      "eventide",
+      "adventual",
+      "eventuality"
+    ]
+  },
+  {
+    "word": "muddy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Covered with or full of mud.",
+        "meaning_zh_TW": "泥濘的",
+        "wrong_meaning_zh_TW": [
+          "清新的空氣",
+          "明亮的顏色",
+          "乾爽的感覺"
+        ],
+        "examples": [
+          {
+            "sentence": "The path was [muddy] after the rain.",
+            "translation_zh_TW": "小徑在雨後變得泥濘"
+          },
+          {
+            "sentence": "She got her shoes all [muddy] while walking through the field.",
+            "translation_zh_TW": "她在田野裡走路時把鞋子弄得泥濘"
+          },
+          {
+            "sentence": "It was difficult to drive on the [muddy] road.",
+            "translation_zh_TW": "在泥濘的路上駕駛很困難"
+          }
+        ],
+        "synonyms": [
+          "slushy",
+          "soiled"
+        ]
+      }
+    ],
+    "confusion": [
+      "muddled",
+      "muddle",
+      "muddying",
+      "muddyier"
+    ]
+  },
+  {
+    "word": "confess",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To admit or acknowledge a wrongdoing or guilt.",
+        "meaning_zh_TW": "承認、懺悔",
+        "wrong_meaning_zh_TW": [
+          "拒絕",
+          "隱藏",
+          "誣陷"
+        ],
+        "examples": [
+          {
+            "sentence": "He chose to [confess] his mistakes to the teacher.",
+            "translation_zh_TW": "他選擇向老師承認自己的錯誤"
+          },
+          {
+            "sentence": "She felt relieved after she decided to [confess].",
+            "translation_zh_TW": "她決定承認後感到輕鬆"
+          },
+          {
+            "sentence": "They wanted to [confess] their love for each other.",
+            "translation_zh_TW": "他們想要承認對彼此的愛"
+          }
+        ],
+        "synonyms": [
+          "admit",
+          "acknowledge"
+        ]
+      }
+    ],
+    "confusion": [
+      "confide",
+      "confer",
+      "defend",
+      "confess"
+    ]
+  },
+  {
+    "word": "liar",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who tells lies.",
+        "meaning_zh_TW": "說謊者",
+        "wrong_meaning_zh_TW": [
+          "真實者",
+          "證人",
+          "批評者"
+        ],
+        "examples": [
+          {
+            "sentence": "He was caught being a [liar] during the trial.",
+            "translation_zh_TW": "他在審判中被抓到是個說謊者。"
+          },
+          {
+            "sentence": "A [liar] never gains the trust of others.",
+            "translation_zh_TW": "說謊者永遠無法贏得他人的信任。"
+          },
+          {
+            "sentence": "She proved him to be a [liar] with evidence.",
+            "translation_zh_TW": "她用證據證明他是個說謊者。"
+          }
+        ],
+        "synonyms": [
+          "falsifier",
+          "deceiver"
+        ]
+      }
+    ],
+    "confusion": [
+      "lair",
+      "liar's",
+      "lily",
+      "lier"
+    ]
+  },
+  {
+    "word": "creep",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move slowly and carefully, especially in order to avoid being noticed.",
+        "meaning_zh_TW": "爬行",
+        "wrong_meaning_zh_TW": [
+          "奔跑",
+          "飛行",
+          "跳躍"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [creep] away without being seen.",
+            "translation_zh_TW": "他試圖悄悄爬行離開而不被看見"
+          },
+          {
+            "sentence": "The shadows began to [creep] into the room as the sun set.",
+            "translation_zh_TW": "隨著日落，陰影開始爬進房間"
+          },
+          {
+            "sentence": "They [creep] through the forest, trying not to make a sound.",
+            "translation_zh_TW": "他們在森林中爬行，盡量不發出聲音"
+          }
+        ],
+        "synonyms": [
+          "slither",
+          "crawl"
+        ]
+      }
+    ],
+    "confusion": [
+      "creeped",
+      "creepy",
+      "crepe",
+      "creeper"
+    ]
+  },
+  {
+    "word": "hardship",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Severe suffering or privation.",
+        "meaning_zh_TW": "困苦",
+        "wrong_meaning_zh_TW": [
+          "快樂",
+          "舒適",
+          "富裕"
+        ],
+        "examples": [
+          {
+            "sentence": "They faced many [hardships] during the war.",
+            "translation_zh_TW": "他們在戰爭中面對了很多困苦。"
+          },
+          {
+            "sentence": "The charity aims to alleviate [hardship] for the homeless.",
+            "translation_zh_TW": "該慈善機構旨在減輕無家可歸者的困苦。"
+          },
+          {
+            "sentence": "Enduring [hardship] can build character.",
+            "translation_zh_TW": "忍受困苦可以塑造性格。"
+          }
+        ],
+        "synonyms": [
+          "struggle",
+          "difficulty"
+        ]
+      }
+    ],
+    "confusion": [
+      "hardchips",
+      "hardships",
+      "hardskips",
+      "hardshipz"
+    ]
+  },
+  {
+    "word": "intuition",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to understand something immediately, without the need for conscious reasoning.",
+        "meaning_zh_TW": "直覺",
+        "wrong_meaning_zh_TW": [
+          "記憶力",
+          "分析力",
+          "判斷力"
+        ],
+        "examples": [
+          {
+            "sentence": "She trusted her [intuition] in making the decision.",
+            "translation_zh_TW": "她相信自己的直覺來做決定"
+          },
+          {
+            "sentence": "His [intuition] told him that something was wrong.",
+            "translation_zh_TW": "他的直覺告訴他有些不對勁"
+          },
+          {
+            "sentence": "Intuition often guides us in uncertain situations.",
+            "translation_zh_TW": "在不確定的情況下，直覺往往引導我們"
+          }
+        ],
+        "synonyms": [
+          "insight",
+          "hunch"
+        ]
+      }
+    ],
+    "confusion": [
+      "institution",
+      "intention",
+      "interaction",
+      "interpretation"
+    ]
+  },
+  {
+    "word": "sew",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To join or fasten something together using a needle and thread.",
+        "meaning_zh_TW": "縫合、縫紉",
+        "wrong_meaning_zh_TW": [
+          "撕裂",
+          "剪裁",
+          "破壞"
+        ],
+        "examples": [
+          {
+            "sentence": "She learned how to [sew] a button back on her shirt.",
+            "translation_zh_TW": "她學會了如何把鈕扣縫回她的衬衫上。"
+          },
+          {
+            "sentence": "He enjoys to [sew] quilts for his family.",
+            "translation_zh_TW": "他喜歡為家人縫製被子。"
+          },
+          {
+            "sentence": "They will [sew] patches onto their jackets.",
+            "translation_zh_TW": "他們會在外套上縫上補丁。"
+          }
+        ],
+        "synonyms": [
+          " stitch",
+          "embroider"
+        ]
+      }
+    ],
+    "confusion": [
+      "show",
+      "sow",
+      "sewer",
+      "so"
+    ]
+  },
+  {
+    "word": "slogan",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A short and striking or memorable phrase used in advertising.",
+        "meaning_zh_TW": "口號",
+        "wrong_meaning_zh_TW": [
+          "文章",
+          "散文",
+          "故事"
+        ],
+        "examples": [
+          {
+            "sentence": "The company's [slogan] is well known.",
+            "translation_zh_TW": "公司的口號非常著名。"
+          },
+          {
+            "sentence": "They created a catchy [slogan] for their product.",
+            "translation_zh_TW": "他們為這個產品創造了一個引人注目的口號。"
+          },
+          {
+            "sentence": "A great [slogan] can help boost sales.",
+            "translation_zh_TW": "一個好口號可以幫助提高銷售。"
+          }
+        ],
+        "synonyms": [
+          "motto",
+          "catchphrase"
+        ]
+      }
+    ],
+    "confusion": [
+      "slowdown",
+      "slumber",
+      "slog",
+      "slogun"
+    ]
+  },
+  {
+    "word": "flee",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To run away from a place or situation of danger.",
+        "meaning_zh_TW": "逃跑",
+        "wrong_meaning_zh_TW": [
+          "追逐",
+          "留在",
+          "潛伏"
+        ],
+        "examples": [
+          {
+            "sentence": "They had to [flee] the house during the fire.",
+            "translation_zh_TW": "他們不得不在火災中逃出房子。"
+          },
+          {
+            "sentence": "He decided to [flee] from the police.",
+            "translation_zh_TW": "他決定從警察那裡逃跑。"
+          },
+          {
+            "sentence": "We must [flee] before it's too late.",
+            "translation_zh_TW": "我們必須在為時已晚之前逃跑。"
+          }
+        ],
+        "synonyms": [
+          "run away",
+          "escape"
+        ]
+      }
+    ],
+    "confusion": [
+      "fleeful",
+      "fleeing",
+      "fleek",
+      "fleecy"
+    ]
+  },
+  {
+    "word": "classify",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To arrange or organize by categories.",
+        "meaning_zh_TW": "分類",
+        "wrong_meaning_zh_TW": [
+          "混亂",
+          "無序",
+          "解釋"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [classify] these documents according to their subjects.",
+            "translation_zh_TW": "請根據主題把這些文件分類。"
+          },
+          {
+            "sentence": "They will [classify] the animals into different groups.",
+            "translation_zh_TW": "他們將把動物分成不同的組別。"
+          },
+          {
+            "sentence": "It’s important to [classify] information for better understanding.",
+            "translation_zh_TW": "將信息分類以便更好地理解是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "categorize",
+          "organize"
+        ]
+      }
+    ],
+    "confusion": [
+      "classifier",
+      "classification",
+      "class",
+      "clarified"
+    ]
+  },
+  {
+    "word": "hush",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Make (someone) quiet or calm.",
+        "meaning_zh_TW": "使安靜",
+        "wrong_meaning_zh_TW": [
+          "吵鬧",
+          "喚醒",
+          "干擾"
+        ],
+        "examples": [
+          {
+            "sentence": "The mother tried to [hush] her crying baby.",
+            "translation_zh_TW": "母親試圖讓哭泣的寶寶安靜下來。"
+          },
+          {
+            "sentence": "He whispered to [hush] the group.",
+            "translation_zh_TW": "他低聲說話讓這個團體安靜下來。"
+          },
+          {
+            "sentence": "A gentle hug can [hush] a troubled mind.",
+            "translation_zh_TW": "一個溫柔的擁抱可以使困擾的心靈安靜。"
+          }
+        ],
+        "synonyms": [
+          "quiet",
+          "silence"
+        ]
+      }
+    ],
+    "confusion": [
+      "hushpuppy",
+      "hushed",
+      "hushing",
+      "huzh"
+    ]
+  },
+  {
+    "word": "generosity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being kind and giving.",
+        "meaning_zh_TW": "慷慨",
+        "wrong_meaning_zh_TW": [
+          "小氣",
+          "自私",
+          "吝嗇"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [generosity] is truly inspiring.",
+            "translation_zh_TW": "她的慷慨真的很激勵人心。"
+          },
+          {
+            "sentence": "Acts of [generosity] can change lives.",
+            "translation_zh_TW": "慷慨的行為可以改變生命。"
+          },
+          {
+            "sentence": "Communities thrive on [generosity].",
+            "translation_zh_TW": "社區依賴慷慨而繁榮。"
+          }
+        ],
+        "synonyms": [
+          "kindness",
+          "benevolence"
+        ]
+      }
+    ],
+    "confusion": [
+      "generosities",
+      "generate",
+      "geneticities",
+      "genera"
+    ]
+  },
+  {
+    "word": "persuasion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of convincing someone to do or believe something.",
+        "meaning_zh_TW": "說服",
+        "wrong_meaning_zh_TW": [
+          "欺騙",
+          "強迫",
+          "困惑"
+        ],
+        "examples": [
+          {
+            "sentence": "Her gentle [persuasion] finally convinced him.",
+            "translation_zh_TW": "她的溫柔說服最終說服了他。"
+          },
+          {
+            "sentence": "Effective [persuasion] requires understanding the audience.",
+            "translation_zh_TW": "有效的說服需要理解聽眾。"
+          },
+          {
+            "sentence": "The speaker used [persuasion] techniques to engage the crowd.",
+            "translation_zh_TW": "演講者使用了說服技巧來吸引人群。"
+          }
+        ],
+        "synonyms": [
+          "convincing",
+          "enticement"
+        ]
+      }
+    ],
+    "confusion": [
+      "persuasiveness",
+      "precaution",
+      "perspective",
+      "persuade"
+    ]
+  }
+]

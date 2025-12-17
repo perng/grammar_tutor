@@ -1,0 +1,782 @@
+[
+  {
+    "word": "forum",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A place, meeting, or medium where ideas and views on a particular issue can be exchanged.",
+        "meaning_zh_TW": "論壇",
+        "wrong_meaning_zh_TW": [
+          "廳堂",
+          "醫院",
+          "廣場"
+        ],
+        "examples": [
+          {
+            "sentence": "The community held a [forum] to discuss local issues.",
+            "translation_zh_TW": "社區舉辦了一個論壇來討論當地問題。"
+          },
+          {
+            "sentence": "She participated in an online [forum] about technology.",
+            "translation_zh_TW": "她參加了一個關於科技的在線論壇。"
+          },
+          {
+            "sentence": "Experts gathered at the [forum] to share their knowledge.",
+            "translation_zh_TW": "專家們聚集在論壇上分享他們的知識。"
+          }
+        ],
+        "synonyms": [
+          "discussion panel",
+          "assembly"
+        ]
+      }
+    ],
+    "confusion": [
+      "former",
+      "forumque",
+      "farom",
+      "foe"
+    ]
+  },
+  {
+    "word": "index",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A systematic list of items, typically organized in a specific order.",
+        "meaning_zh_TW": "索引",
+        "wrong_meaning_zh_TW": [
+          "目錄",
+          "列表",
+          "參考"
+        ],
+        "examples": [
+          {
+            "sentence": "You can find the information you need in the [index].",
+            "translation_zh_TW": "你可以在索引中找到你需要的信息"
+          },
+          {
+            "sentence": "The book's [index] is at the end.",
+            "translation_zh_TW": "這本書的索引在後面"
+          },
+          {
+            "sentence": "Try searching the [index] for related topics.",
+            "translation_zh_TW": "嘗試在索引中搜尋相關主題"
+          }
+        ],
+        "synonyms": [
+          "directory",
+          "catalog"
+        ]
+      }
+    ],
+    "confusion": [
+      "indexes",
+      "indec",
+      "indic",
+      "inex"
+    ]
+  },
+  {
+    "word": "version",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular form of something differing in certain respects from an earlier form.",
+        "meaning_zh_TW": "版本",
+        "wrong_meaning_zh_TW": [
+          "模型",
+          "複製",
+          "形式"
+        ],
+        "examples": [
+          {
+            "sentence": "The software [version] was updated to fix bugs.",
+            "translation_zh_TW": "這個軟體版本已更新以修復錯誤。"
+          },
+          {
+            "sentence": "Can you send me the latest [version] of the document?",
+            "translation_zh_TW": "你能把文件的最新版本發給我嗎？"
+          },
+          {
+            "sentence": "She prefers the original [version] of the movie.",
+            "translation_zh_TW": "她偏愛這部電影的原始版本。"
+          }
+        ],
+        "synonyms": [
+          "edition",
+          "release"
+        ]
+      }
+    ],
+    "confusion": [
+      "versus",
+      "versatile",
+      "versioning",
+      "vortex"
+    ]
+  },
+  {
+    "word": "directory",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A book or electronic resource containing an alphabetical or classified list of individuals, businesses, etc.",
+        "meaning_zh_TW": "名錄",
+        "wrong_meaning_zh_TW": [
+          "報告",
+          "告示",
+          "手冊"
+        ],
+        "examples": [
+          {
+            "sentence": "You can find the contact information in the [directory].",
+            "translation_zh_TW": "您可以在名錄中找到聯繫信息。"
+          },
+          {
+            "sentence": "The company provides an online [directory] of its services.",
+            "translation_zh_TW": "該公司提供在線服務名錄。"
+          },
+          {
+            "sentence": "The university maintains a [directory] of its alumni.",
+            "translation_zh_TW": "大學維護著其校友名錄。"
+          }
+        ],
+        "synonyms": [
+          "list",
+          "catalog"
+        ]
+      }
+    ],
+    "confusion": [
+      "directory",
+      "directly",
+      "direct",
+      "directorys"
+    ]
+  },
+  {
+    "word": "profile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An outline of something, especially a person's face.",
+        "meaning_zh_TW": "輪廓、側面圖",
+        "wrong_meaning_zh_TW": [
+          "全貌",
+          "虛構",
+          "背景"
+        ],
+        "examples": [
+          {
+            "sentence": "The artist drew a [profile] of the model.",
+            "translation_zh_TW": "藝術家為模特繪製了一幅側面圖。"
+          },
+          {
+            "sentence": "Create a [profile] on the website to access features.",
+            "translation_zh_TW": "在網站上創建一個檔案以訪問功能。"
+          },
+          {
+            "sentence": "The [profile] highlighted her best features.",
+            "translation_zh_TW": "這個輪廓突出了她最好的特點。"
+          }
+        ],
+        "synonyms": [
+          "contour",
+          "outline"
+        ]
+      }
+    ],
+    "confusion": [
+      "profiles",
+      "proflile",
+      "prolife",
+      "profield"
+    ]
+  },
+  {
+    "word": "stock",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The goods or merchandise kept on the premises of a shop.",
+        "meaning_zh_TW": "庫存",
+        "wrong_meaning_zh_TW": [
+          "失靈",
+          "過剩",
+          "骨幹"
+        ],
+        "examples": [
+          {
+            "sentence": "The store has a large [stock] of seasonal items.",
+            "translation_zh_TW": "商店存有大量季節性商品的庫存。"
+          },
+          {
+            "sentence": "It's important to manage your [stock] levels carefully.",
+            "translation_zh_TW": "仔細管理庫存水平非常重要。"
+          },
+          {
+            "sentence": "He checked the [stock] before placing an order.",
+            "translation_zh_TW": "下訂單之前，他檢查了庫存。"
+          }
+        ],
+        "synonyms": [
+          "inventory",
+          "supply"
+        ]
+      }
+    ],
+    "confusion": [
+      "stoked",
+      "stocks",
+      "blocking",
+      "stoker"
+    ]
+  },
+  {
+    "word": "estate",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An extensive area of land in the countryside, often with a large house.",
+        "meaning_zh_TW": "莊園、土地",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "小區",
+          "產業"
+        ],
+        "examples": [
+          {
+            "sentence": "They own a large [estate] in the mountains.",
+            "translation_zh_TW": "他們在山裡擁有一個大莊園。"
+          },
+          {
+            "sentence": "The family estate has been passed down for generations.",
+            "translation_zh_TW": "這個家族的莊園已經傳承了幾代。"
+          },
+          {
+            "sentence": "We visited the historical [estate] last summer.",
+            "translation_zh_TW": "我們去年夏天參觀了這座歷史莊園。"
+          }
+        ],
+        "synonyms": [
+          "property",
+          "land"
+        ]
+      }
+    ],
+    "confusion": [
+      "state",
+      "estates",
+      "estate's",
+      "stated"
+    ]
+  },
+  {
+    "word": "series",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A number of things or events of the same class coming one after another.",
+        "meaning_zh_TW": "系列",
+        "wrong_meaning_zh_TW": [
+          "單一項目",
+          "隨機",
+          "分散"
+        ],
+        "examples": [
+          {
+            "sentence": "I watched the entire [series] in one weekend.",
+            "translation_zh_TW": "我在一個週末內看完了整個系列。"
+          },
+          {
+            "sentence": "The book is part of a [series] of novels.",
+            "translation_zh_TW": "這本書是小說系列的一部分。"
+          },
+          {
+            "sentence": "There was a [series] of events leading up to the festival.",
+            "translation_zh_TW": "有一系列事件導致了這個節日的舉行。"
+          }
+        ],
+        "synonyms": [
+          "sequence",
+          "succession"
+        ]
+      }
+    ],
+    "confusion": [
+      "series",
+      "serious",
+      "sirius",
+      "sere"
+    ]
+  },
+  {
+    "word": "server",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A computer or program that manages access to a centralized resource or service in a network.",
+        "meaning_zh_TW": "伺服器",
+        "wrong_meaning_zh_TW": [
+          "客戶端",
+          "用戶",
+          "網頁"
+        ],
+        "examples": [
+          {
+            "sentence": "The [server] crashed during the update.",
+            "translation_zh_TW": "更新期間伺服器當機。"
+          },
+          {
+            "sentence": "He is a professional game [server] administrator.",
+            "translation_zh_TW": "他是一名專業的遊戲伺服器管理員。"
+          },
+          {
+            "sentence": "Make sure your [server] is backed up regularly.",
+            "translation_zh_TW": "確保你的伺服器定期備份。"
+          }
+        ],
+        "synonyms": [
+          "host",
+          "provider"
+        ]
+      }
+    ],
+    "confusion": [
+      "server",
+      "saver",
+      "servant",
+      "sorver"
+    ]
+  },
+  {
+    "word": "browse",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To look through or glance at casually.",
+        "meaning_zh_TW": "瀏覽",
+        "wrong_meaning_zh_TW": [
+          "急忙",
+          "閱讀",
+          "檢查"
+        ],
+        "examples": [
+          {
+            "sentence": "I like to [browse] the internet for interesting articles.",
+            "translation_zh_TW": "我喜歡在網上瀏覽有趣的文章"
+          },
+          {
+            "sentence": "She decided to [browse] through the store before buying anything.",
+            "translation_zh_TW": "她決定在購買任何東西之前先瀏覽一下商店"
+          },
+          {
+            "sentence": "You can [browse] the menu online before dining.",
+            "translation_zh_TW": "你可以在線上瀏覽菜單，然後再用餐"
+          }
+        ],
+        "synonyms": [
+          "scan",
+          "peruse"
+        ]
+      }
+    ],
+    "confusion": [
+      "browse",
+      "brose",
+      "browze",
+      "browsing"
+    ]
+  },
+  {
+    "word": "format",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The arrangement, plan, or layout of something.",
+        "meaning_zh_TW": "格式",
+        "wrong_meaning_zh_TW": [
+          "內容",
+          "測試",
+          "提議"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to follow the correct [format] for the report.",
+            "translation_zh_TW": "確保遵循正確的報告格式。"
+          },
+          {
+            "sentence": "The presentation needs a better [format] to engage the audience.",
+            "translation_zh_TW": "演示需要更好的格式來吸引觀眾。"
+          },
+          {
+            "sentence": "Adobe Acrobat is used to create PDF [formats].",
+            "translation_zh_TW": "Adobe Acrobat 用於創建 PDF 格式。"
+          }
+        ],
+        "synonyms": [
+          "layout",
+          "structure"
+        ]
+      }
+    ],
+    "confusion": [
+      "formatting",
+      "formate",
+      "formatt",
+      "form"
+    ]
+  },
+  {
+    "word": "update",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make something more modern or up to date.",
+        "meaning_zh_TW": "更新",
+        "wrong_meaning_zh_TW": [
+          "降級",
+          "減少",
+          "簡化"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [update] your contact information.",
+            "translation_zh_TW": "請更新您的聯絡資訊。"
+          },
+          {
+            "sentence": "He needs to [update] the software on his computer.",
+            "translation_zh_TW": "他需要更新他電腦上的軟件。"
+          },
+          {
+            "sentence": "I will [update] you on the progress of the project.",
+            "translation_zh_TW": "我會向您更新項目的進展情況。"
+          }
+        ],
+        "synonyms": [
+          "revise",
+          "refresh"
+        ]
+      }
+    ],
+    "confusion": [
+      "upload",
+      "upgrade",
+      "outdate",
+      "updater"
+    ]
+  },
+  {
+    "word": "document",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A written or printed paper that provides information or evidence.",
+        "meaning_zh_TW": "文件",
+        "wrong_meaning_zh_TW": [
+          "報告",
+          "圖像",
+          "資料夾"
+        ],
+        "examples": [
+          {
+            "sentence": "Please submit the required [document] by the deadline.",
+            "translation_zh_TW": "請在截止日期前提交所需的文件。"
+          },
+          {
+            "sentence": "This [document] contains important information.",
+            "translation_zh_TW": "這份文件包含重要信息。"
+          },
+          {
+            "sentence": "Make sure to review the [document] carefully.",
+            "translation_zh_TW": "請確保仔細審查該文件。"
+          }
+        ],
+        "synonyms": [
+          "file",
+          "record"
+        ]
+      }
+    ],
+    "confusion": [
+      "document",
+      "documet",
+      "dockument",
+      "dokument"
+    ]
+  },
+  {
+    "word": "federal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the central government of a federation.",
+        "meaning_zh_TW": "聯邦的",
+        "wrong_meaning_zh_TW": [
+          "州立的",
+          "地方性的",
+          "縣級的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [federal] government enacted new laws.",
+            "translation_zh_TW": "聯邦政府制定了新法律。"
+          },
+          {
+            "sentence": "She works for a [federal] agency.",
+            "translation_zh_TW": "她在一家聯邦機構工作。"
+          },
+          {
+            "sentence": "The [federal] system allows for shared power.",
+            "translation_zh_TW": "聯邦系統允許權力共享。"
+          }
+        ],
+        "synonyms": [
+          "national",
+          "central"
+        ]
+      }
+    ],
+    "confusion": [
+      "federation",
+      "federel",
+      "federary",
+      "federalism"
+    ]
+  },
+  {
+    "word": "via",
+    "meanings": [
+      {
+        "type": "介系詞",
+        "meaning_en_US": "By way of; through.",
+        "meaning_zh_TW": "經由，透過",
+        "wrong_meaning_zh_TW": [
+          "在…之間",
+          "接著",
+          "相遇"
+        ],
+        "examples": [
+          {
+            "sentence": "We will travel to Paris [via] London.",
+            "translation_zh_TW": "我們將透過倫敦前往巴黎。"
+          },
+          {
+            "sentence": "Please send me the document [via] email.",
+            "translation_zh_TW": "請透過電子郵件發送文件給我。"
+          },
+          {
+            "sentence": "He made the call [via] his mobile phone.",
+            "translation_zh_TW": "他透過他的手機打了電話。"
+          }
+        ],
+        "synonyms": [
+          "through",
+          "by way of"
+        ]
+      }
+    ],
+    "confusion": [
+      "viva",
+      "vial",
+      "viral",
+      "visa"
+    ]
+  },
+  {
+    "word": "submit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To present or propose something for consideration, approval, or judgment.",
+        "meaning_zh_TW": "提交",
+        "wrong_meaning_zh_TW": [
+          "否決",
+          "監視",
+          "反對"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [submit] your report by Friday.",
+            "translation_zh_TW": "請在星期五之前提交你的報告。"
+          },
+          {
+            "sentence": "They had to [submit] the application form online.",
+            "translation_zh_TW": "他們必須在線上提交申請表。"
+          },
+          {
+            "sentence": "When you [submit] your work, ensure it is complete.",
+            "translation_zh_TW": "提交作品時，確保它是完整的。"
+          }
+        ],
+        "synonyms": [
+          "present",
+          "propose"
+        ]
+      }
+    ],
+    "confusion": [
+      "suber",
+      "sumbit",
+      "submittal",
+      "subtraction"
+    ]
+  },
+  {
+    "word": "domain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An area of knowledge or activity; a field.",
+        "meaning_zh_TW": "領域",
+        "wrong_meaning_zh_TW": [
+          "農地",
+          "領土",
+          "社區"
+        ],
+        "examples": [
+          {
+            "sentence": "Mathematics is a complex [domain] of study.",
+            "translation_zh_TW": "數學是一個複雜的學習領域。"
+          },
+          {
+            "sentence": "In the digital age, data is a critical [domain].",
+            "translation_zh_TW": "在數位時代，數據是一個關鍵領域。"
+          },
+          {
+            "sentence": "His research falls within the [domain] of psychology.",
+            "translation_zh_TW": "他的研究屬於心理學領域。"
+          }
+        ],
+        "synonyms": [
+          "field",
+          "area"
+        ]
+      }
+    ],
+    "confusion": [
+      "domaine",
+      "domine",
+      "domained",
+      "do-main"
+    ]
+  },
+  {
+    "word": "corporate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to a corporation or to large businesses.",
+        "meaning_zh_TW": "公司的",
+        "wrong_meaning_zh_TW": [
+          "個人的",
+          "小型的",
+          "非營利的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [corporate] culture encourages innovation.",
+            "translation_zh_TW": "公司的文化鼓勵創新"
+          },
+          {
+            "sentence": "They made a [corporate] decision to expand to new markets.",
+            "translation_zh_TW": "他們做出了擴展到新市場的公司決策"
+          },
+          {
+            "sentence": "She works in [corporate] finance.",
+            "translation_zh_TW": "她在公司的財務部門工作"
+          }
+        ],
+        "synonyms": [
+          "business",
+          "commercial"
+        ]
+      }
+    ],
+    "confusion": [
+      "corporal",
+      "corral",
+      "corporation",
+      "corset"
+    ]
+  },
+  {
+    "word": "purchase",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To acquire something by paying for it.",
+        "meaning_zh_TW": "購買",
+        "wrong_meaning_zh_TW": [
+          "出售",
+          "贈送",
+          "預訂"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [purchase] some groceries.",
+            "translation_zh_TW": "我需要購買一些雜貨。"
+          },
+          {
+            "sentence": "She plans to [purchase] a new car.",
+            "translation_zh_TW": "她計劃購買一輛新車。"
+          },
+          {
+            "sentence": "They will [purchase] tickets for the concert.",
+            "translation_zh_TW": "他們將購買音樂會的票。"
+          }
+        ],
+        "synonyms": [
+          "buy",
+          "acquire"
+        ]
+      }
+    ],
+    "confusion": [
+      "pursue",
+      "purse",
+      "persuade",
+      "perch"
+    ]
+  },
+  {
+    "word": "storage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or method of storing something for future use.",
+        "meaning_zh_TW": "儲存",
+        "wrong_meaning_zh_TW": [
+          "放棄",
+          "消耗",
+          "丟棄"
+        ],
+        "examples": [
+          {
+            "sentence": "The [storage] of food is essential in hot climates.",
+            "translation_zh_TW": "在炎熱的氣候中，儲存食物是必需的。"
+          },
+          {
+            "sentence": "They built a [storage] room to keep supplies.",
+            "translation_zh_TW": "他們建了個儲存室來保存物資。"
+          },
+          {
+            "sentence": "Optimizing [storage] solutions can save space.",
+            "translation_zh_TW": "優化儲存解決方案可以節省空間。"
+          }
+        ],
+        "synonyms": [
+          "keeping",
+          "safeguarding"
+        ]
+      }
+    ],
+    "confusion": [
+      "storing",
+      "storeroom",
+      "store",
+      "storehouse"
+    ]
+  }
+]

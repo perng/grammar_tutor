@@ -1,0 +1,770 @@
+[
+  {
+    "word": "dumb",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Temporarily unable or unwilling to speak.",
+        "meaning_zh_TW": "啞的",
+        "wrong_meaning_zh_TW": [
+          "健談的",
+          "話多的",
+          "喧鬧的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was [dumb] after the shock.",
+            "translation_zh_TW": "在震驚後他變得啞口無言。"
+          },
+          {
+            "sentence": "She felt [dumb] when she couldn't respond.",
+            "translation_zh_TW": "當她無法回答時，她感到啞口無言。"
+          },
+          {
+            "sentence": "The sudden news left him [dumb].",
+            "translation_zh_TW": "突如其來的消息讓他啞口無言。"
+          }
+        ],
+        "synonyms": [
+          "mute",
+          "speechless"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking intelligence or common sense.",
+        "meaning_zh_TW": "啞的",
+        "wrong_meaning_zh_TW": [
+          "健談的",
+          "話多的",
+          "喧鬧的"
+        ],
+        "examples": [
+          {
+            "sentence": "It was a [dumb] mistake.",
+            "translation_zh_TW": "這是一個愚蠢的錯誤。"
+          },
+          {
+            "sentence": "Don't make [dumb] decisions.",
+            "translation_zh_TW": "不要做愚蠢的決定。"
+          },
+          {
+            "sentence": "That's a [dumb] question.",
+            "translation_zh_TW": "那是一個愚蠢的問題。"
+          }
+        ],
+        "synonyms": [
+          "stupid",
+          "foolish"
+        ]
+      }
+    ],
+    "confusion": [
+      "dumber",
+      "dumbest",
+      "dumbly",
+      "dumbs"
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A structure with a glass roof and glass walls, used for the cultivation and protection of plants.",
+        "meaning_zh_TW": "溫室",
+        "wrong_meaning_zh_TW": [
+          "步道",
+          "儲藏室",
+          "奇幻森林"
+        ],
+        "examples": [
+          {
+            "sentence": "They build a large [greenhouse] to grow their vegetables.",
+            "translation_zh_TW": "他們建了一個大溫室來種植蔬菜"
+          },
+          {
+            "sentence": "The flowers bloomed beautifully in the [greenhouse].",
+            "translation_zh_TW": "花在溫室裡盛開得很美"
+          },
+          {
+            "sentence": "You can find exotic plants in a [greenhouse].",
+            "translation_zh_TW": "你可以在溫室裡找到奇特的植物"
+          }
+        ],
+        "synonyms": [
+          "nursery",
+          "hothouse"
+        ]
+      }
+    ],
+    "confusion": [
+      "greenhorne",
+      "greenehouse",
+      "greenhousey",
+      "greenhousegas"
+    ]
+  },
+  {
+    "word": "bacon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of salt-cured meat prepared from pork.",
+        "meaning_zh_TW": "培根",
+        "wrong_meaning_zh_TW": [
+          "素食者",
+          "蔬菜",
+          "漢堡"
+        ],
+        "examples": [
+          {
+            "sentence": "I had crispy [bacon] for breakfast.",
+            "translation_zh_TW": "我早餐吃了脆脆的培根。"
+          },
+          {
+            "sentence": "This burger comes with extra [bacon].",
+            "translation_zh_TW": "這個漢堡有多加的培根。"
+          },
+          {
+            "sentence": "He loves [bacon] with his eggs.",
+            "translation_zh_TW": "他喜歡把培根與蛋一起吃。"
+          }
+        ],
+        "synonyms": [
+          "pork",
+          "meat"
+        ]
+      }
+    ],
+    "confusion": [
+      "baconite",
+      "bican",
+      "bacan",
+      "bicion"
+    ]
+  },
+  {
+    "word": "heater",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device for warming the air or liquid.",
+        "meaning_zh_TW": "暖氣",
+        "wrong_meaning_zh_TW": [
+          "冷卻器",
+          "空調",
+          "烤箱"
+        ],
+        "examples": [
+          {
+            "sentence": "The [heater] kept the room warm during winter.",
+            "translation_zh_TW": "在冬天，暖氣讓房間保持溫暖"
+          },
+          {
+            "sentence": "She turned on the [heater] to fight the chill.",
+            "translation_zh_TW": "她打開暖氣來抵抗寒冷"
+          },
+          {
+            "sentence": "Their [heater] broke down before the cold snap.",
+            "translation_zh_TW": "他們的暖氣在寒潮來臨之前壞了"
+          }
+        ],
+        "synonyms": [
+          "radiator",
+          "furnace"
+        ]
+      }
+    ],
+    "confusion": [
+      "heaters",
+      "heaterbox",
+      "skeeter",
+      "hater"
+    ]
+  },
+  {
+    "word": "colony",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of people or animals living together in a community.",
+        "meaning_zh_TW": "殖民地",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "村莊",
+          "農地"
+        ],
+        "examples": [
+          {
+            "sentence": "The ant [colony] worked together.",
+            "translation_zh_TW": "螞蟻的殖民地一起工作。"
+          },
+          {
+            "sentence": "They discovered a [colony] of penguins in Antarctica.",
+            "translation_zh_TW": "他們在南極發現了一個企鵝殖民地。"
+          },
+          {
+            "sentence": "The settlers formed a new [colony].",
+            "translation_zh_TW": "這些定居者建立了一個新的殖民地。"
+          }
+        ],
+        "synonyms": [
+          "community",
+          "settlement"
+        ]
+      }
+    ],
+    "confusion": [
+      "color",
+      "clony",
+      "collony"
+    ]
+  },
+  {
+    "word": "circus",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A traveling company of performers that may include acrobats, clowns, and trained animals.",
+        "meaning_zh_TW": "馬戲團",
+        "wrong_meaning_zh_TW": [
+          "劇院",
+          "桌子",
+          "表演者"
+        ],
+        "examples": [
+          {
+            "sentence": "We went to see the [circus] last night.",
+            "translation_zh_TW": "我們昨晚去看馬戲團了。"
+          },
+          {
+            "sentence": "The kids were excited to watch the animals at the [circus].",
+            "translation_zh_TW": "孩子們對觀看馬戲團的動物感到興奮。"
+          },
+          {
+            "sentence": "She dreams of performing in a famous [circus].",
+            "translation_zh_TW": "她夢想在一個著名的馬戲團表演。"
+          }
+        ],
+        "synonyms": [
+          "carnival",
+          "show"
+        ]
+      }
+    ],
+    "confusion": [
+      "circuit",
+      "circlet",
+      "circular",
+      "circa"
+    ]
+  },
+  {
+    "word": "hunger",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of discomfort or weakness caused by lack of food.",
+        "meaning_zh_TW": "饑餓",
+        "wrong_meaning_zh_TW": [
+          "口渴",
+          "疲倦",
+          "飽足"
+        ],
+        "examples": [
+          {
+            "sentence": "I felt a strong [hunger] after the long hike.",
+            "translation_zh_TW": "在長途健行後我感到強烈的饑餓"
+          },
+          {
+            "sentence": "His [hunger] for knowledge is inspiring.",
+            "translation_zh_TW": "他對知識的渴望令人鼓舞"
+          },
+          {
+            "sentence": "The child complained about his [hunger].",
+            "translation_zh_TW": "孩子抱怨他的饑餓"
+          }
+        ],
+        "synonyms": [
+          "appetite",
+          "hankering"
+        ]
+      }
+    ],
+    "confusion": [
+      "hungry",
+      "hungrily",
+      "hungers",
+      "hungerer"
+    ]
+  },
+  {
+    "word": "missile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An object that is forcibly propelled at a target, typically used as a weapon.",
+        "meaning_zh_TW": "導彈",
+        "wrong_meaning_zh_TW": [
+          "目標",
+          "飛行器",
+          "前驅"
+        ],
+        "examples": [
+          {
+            "sentence": "The military launched a [missile] during the test.",
+            "translation_zh_TW": "軍方在測試中發射了一枚導彈"
+          },
+          {
+            "sentence": "They designed a new [missile] defense system.",
+            "translation_zh_TW": "他們設計了一個新的導彈防禦系統"
+          },
+          {
+            "sentence": "The [missile] struck its target precisely.",
+            "translation_zh_TW": "導彈準確地擊中了目標"
+          }
+        ],
+        "synonyms": [
+          "projectile",
+          "rocket"
+        ]
+      }
+    ],
+    "confusion": [
+      "missiles",
+      "missilee",
+      "misseal",
+      "missileer"
+    ]
+  },
+  {
+    "word": "glow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To produce a steady light.",
+        "meaning_zh_TW": "發光",
+        "wrong_meaning_zh_TW": [
+          "熄滅",
+          "消失",
+          "凋謝"
+        ],
+        "examples": [
+          {
+            "sentence": "The fire began to [glow].",
+            "translation_zh_TW": "火開始發光"
+          },
+          {
+            "sentence": "Her face [glowed] with happiness.",
+            "translation_zh_TW": "她的臉因快樂而發光"
+          },
+          {
+            "sentence": "The stars began to [glow] in the night sky.",
+            "translation_zh_TW": "星星在夜空中開始閃爍"
+          }
+        ],
+        "synonyms": [
+          "shine",
+          "radiate"
+        ]
+      }
+    ],
+    "confusion": [
+      "gloww",
+      "glo",
+      "glowe",
+      "glot"
+    ]
+  },
+  {
+    "word": "aquarium",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A transparent tank of water containing plants and animals.",
+        "meaning_zh_TW": "水族館",
+        "wrong_meaning_zh_TW": [
+          "魚市場",
+          "魚缸",
+          "水池"
+        ],
+        "examples": [
+          {
+            "sentence": "We visited the local [aquarium] to see the sharks.",
+            "translation_zh_TW": "我們參觀了當地的水族館，觀賞鯊魚。"
+          },
+          {
+            "sentence": "The [aquarium] features a variety of aquatic species.",
+            "translation_zh_TW": "這個水族館展示了各種水生物種。"
+          },
+          {
+            "sentence": "Children love to watch the fish in the [aquarium].",
+            "translation_zh_TW": "孩子們喜歡看水族館裡的魚。"
+          }
+        ],
+        "synonyms": [
+          "fish tank",
+          "marine exhibit"
+        ]
+      }
+    ],
+    "confusion": [
+      "aquatic",
+      "aquifer",
+      "aquarian",
+      "aquas"
+    ]
+  },
+  {
+    "word": "harmful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing or capable of causing damage or injury.",
+        "meaning_zh_TW": "有害的",
+        "wrong_meaning_zh_TW": [
+          "有益的",
+          "健康的",
+          "安全的"
+        ],
+        "examples": [
+          {
+            "sentence": "The chemical was found to be [harmful].",
+            "translation_zh_TW": "這種化學物質被發現是有害的。"
+          },
+          {
+            "sentence": "Pollution is [harmful] to the environment.",
+            "translation_zh_TW": "污染對環境是有害的。"
+          },
+          {
+            "sentence": "Some habits can be [harmful] to your health.",
+            "translation_zh_TW": "一些習慣可能對你的健康有害。"
+          }
+        ],
+        "synonyms": [
+          "detrimental",
+          "injurious"
+        ]
+      }
+    ],
+    "confusion": [
+      "plentiful",
+      "harmless",
+      "hamper",
+      "harmer"
+    ]
+  },
+  {
+    "word": "turtle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A slow-moving reptile with a shell that protects its body.",
+        "meaning_zh_TW": "烏龜",
+        "wrong_meaning_zh_TW": [
+          "海豚",
+          "鯊魚",
+          "蜥蜴"
+        ],
+        "examples": [
+          {
+            "sentence": "The [turtle] slowly crawled across the beach.",
+            "translation_zh_TW": "烏龜慢慢爬過沙灘。"
+          },
+          {
+            "sentence": "She saw a [turtle] swimming in the water.",
+            "translation_zh_TW": "她看到一隻烏龜在水中游泳。"
+          },
+          {
+            "sentence": "The little [turtle] hid in its shell when scared.",
+            "translation_zh_TW": "當害怕時，小烏龜藏進了它的殼裡。"
+          }
+        ],
+        "synonyms": [
+          "reptile",
+          "chelonian"
+        ]
+      }
+    ],
+    "confusion": [
+      "turkey",
+      "turf",
+      "turtleneck",
+      "turtledove"
+    ]
+  },
+  {
+    "word": "hometown",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The town or city where one was born or grew up.",
+        "meaning_zh_TW": "故鄉",
+        "wrong_meaning_zh_TW": [
+          "家族",
+          "城市",
+          "國家"
+        ],
+        "examples": [
+          {
+            "sentence": "She returned to her [hometown] after many years.",
+            "translation_zh_TW": "她多年後回到故鄉。"
+          },
+          {
+            "sentence": "His [hometown] is famous for its festivals.",
+            "translation_zh_TW": "他的故鄉以其節慶聞名。"
+          },
+          {
+            "sentence": "I love visiting my [hometown] during the holidays.",
+            "translation_zh_TW": "我喜歡在假期間回故鄉探訪。"
+          }
+        ],
+        "synonyms": [
+          "native town",
+          "birthplace"
+        ]
+      }
+    ],
+    "confusion": [
+      "homeowner",
+      "hometake",
+      "hometone",
+      "hometrail"
+    ]
+  },
+  {
+    "word": "badly",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In a bad manner; poorly.",
+        "meaning_zh_TW": "糟糕地",
+        "wrong_meaning_zh_TW": [
+          "快樂地",
+          "安靜地",
+          "簡單地"
+        ],
+        "examples": [
+          {
+            "sentence": "He performed [badly] on the test.",
+            "translation_zh_TW": "他在考試中表現糟糕。"
+          },
+          {
+            "sentence": "She sang [badly] at the concert.",
+            "translation_zh_TW": "她在音樂會上唱得糟糕。"
+          },
+          {
+            "sentence": "The team played [badly] last night.",
+            "translation_zh_TW": "該隊昨晚表現糟糕。"
+          }
+        ],
+        "synonyms": [
+          "poorly",
+          "terribly"
+        ]
+      }
+    ],
+    "confusion": [
+      "badless",
+      "bade",
+      "badsly",
+      "badi"
+    ]
+  },
+  {
+    "word": "awful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Very bad or terrible.",
+        "meaning_zh_TW": "糟糕",
+        "wrong_meaning_zh_TW": [
+          "極好",
+          "華麗",
+          "優雅"
+        ],
+        "examples": [
+          {
+            "sentence": "The weather today is [awful].",
+            "translation_zh_TW": "今天的天氣糟透了。"
+          },
+          {
+            "sentence": "Her performance was simply [awful].",
+            "translation_zh_TW": "她的表現真是糟糕。"
+          },
+          {
+            "sentence": "I had an [awful] day at work.",
+            "translation_zh_TW": "我在工作的時候過得很糟。"
+          }
+        ],
+        "synonyms": [
+          "terrible",
+          "dreadful"
+        ]
+      }
+    ],
+    "confusion": [
+      "aweful",
+      "awesome",
+      "awfy",
+      "awfool"
+    ]
+  },
+  {
+    "word": "wagon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A vehicle of various forms, often used for transporting goods.",
+        "meaning_zh_TW": "貨車",
+        "wrong_meaning_zh_TW": [
+          "拖車",
+          "小車",
+          "飛機"
+        ],
+        "examples": [
+          {
+            "sentence": "The children played in the [wagon] at the park.",
+            "translation_zh_TW": "孩子們在公園裡的貨車上玩耍。"
+          },
+          {
+            "sentence": "They loaded the [wagon] with supplies for the trip.",
+            "translation_zh_TW": "他們在貨車上裝載供應品以備旅行。"
+          },
+          {
+            "sentence": "The old [wagon] reminded him of his childhood.",
+            "translation_zh_TW": "那輛老貨車讓他想起了童年。"
+          }
+        ],
+        "synonyms": [
+          "cart",
+          "carriage"
+        ]
+      }
+    ],
+    "confusion": [
+      "waggon",
+      "wagoner",
+      "wagn",
+      "waggons"
+    ]
+  },
+  {
+    "word": "creature",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A living being, especially an animal.",
+        "meaning_zh_TW": "生物",
+        "wrong_meaning_zh_TW": [
+          "植物",
+          "人工物",
+          "幻影"
+        ],
+        "examples": [
+          {
+            "sentence": "The forest is home to many [creatures].",
+            "translation_zh_TW": "這片森林是許多生物的家"
+          },
+          {
+            "sentence": "My favorite mythical [creature] is the dragon.",
+            "translation_zh_TW": "我最喜歡的神話生物是龍"
+          },
+          {
+            "sentence": "The ocean is filled with diverse [creatures].",
+            "translation_zh_TW": "海洋中充滿了各種各樣的生物"
+          }
+        ],
+        "synonyms": [
+          "being",
+          "animal"
+        ]
+      }
+    ],
+    "confusion": [
+      "creatures",
+      "creativity",
+      "creaturely",
+      "creat"
+    ]
+  },
+  {
+    "word": "shepherd",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who tends and rears sheep.",
+        "meaning_zh_TW": "牧羊人",
+        "wrong_meaning_zh_TW": [
+          "農民",
+          "獵人",
+          "獸醫"
+        ],
+        "examples": [
+          {
+            "sentence": "The [shepherd] guided his flock to fresh pasture.",
+            "translation_zh_TW": "牧羊人把他的羊群引導到新鮮的牧場。"
+          },
+          {
+            "sentence": "A [shepherd] must be patient and diligent.",
+            "translation_zh_TW": "牧羊人必須有耐心和勤奮。"
+          },
+          {
+            "sentence": "The story is about a brave [shepherd] and his sheepdog.",
+            "translation_zh_TW": "這個故事是關於一位勇敢的牧羊人和他的牧羊犬。"
+          }
+        ],
+        "synonyms": [
+          "herder",
+          "wrangler"
+        ]
+      }
+    ],
+    "confusion": [
+      "sheep",
+      "sheriff",
+      "shipwreck",
+      "sheer"
+    ]
+  },
+  {
+    "word": "cradle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A baby bed with sides and a rockable base.",
+        "meaning_zh_TW": "搖籃",
+        "wrong_meaning_zh_TW": [
+          "椅子",
+          "床",
+          "籃子"
+        ],
+        "examples": [
+          {
+            "sentence": "The baby slept soundly in the [cradle].",
+            "translation_zh_TW": "嬰兒安靜地在搖籃裡睡著。"
+          },
+          {
+            "sentence": "She gently rocked the [cradle] to soothe the baby.",
+            "translation_zh_TW": "她輕輕地搖動搖籃以安撫嬰兒。"
+          },
+          {
+            "sentence": "They gifted a beautiful wooden [cradle] for the newborn.",
+            "translation_zh_TW": "他們送了一個漂亮的木搖籃作為新生兒的禮物。"
+          }
+        ],
+        "synonyms": [
+          "bassinet",
+          "crib"
+        ]
+      }
+    ],
+    "confusion": [
+      "caddle",
+      "credule",
+      "crate",
+      "cradleboard"
+    ]
+  }
+]

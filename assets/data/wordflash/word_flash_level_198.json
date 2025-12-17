@@ -1,0 +1,783 @@
+[
+  {
+    "word": "rage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Extreme anger or fury.",
+        "meaning_zh_TW": "極度憤怒",
+        "wrong_meaning_zh_TW": [
+          "冷靜",
+          "快樂",
+          "平靜"
+        ],
+        "examples": [
+          {
+            "sentence": "His face turned red with [rage] when he heard the news.",
+            "translation_zh_TW": "當他聽到消息時，臉因憤怒而變紅。"
+          },
+          {
+            "sentence": "She expressed her [rage] through a powerful speech.",
+            "translation_zh_TW": "她通過強有力的演講表達了她的憤怒。"
+          },
+          {
+            "sentence": "The [rage] in the crowd was palpable after the incident.",
+            "translation_zh_TW": "事件發生後，人群中的憤怒是可感知的。"
+          }
+        ],
+        "synonyms": [
+          "fury",
+          "anger"
+        ]
+      }
+    ],
+    "confusion": [
+      "rave",
+      "page",
+      "range",
+      "sage"
+    ]
+  },
+  {
+    "word": "predict",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To say what will happen in the future.",
+        "meaning_zh_TW": "預測",
+        "wrong_meaning_zh_TW": [
+          "改變",
+          "理解",
+          "發明"
+        ],
+        "examples": [
+          {
+            "sentence": "Experts can [predict] the weather with high accuracy.",
+            "translation_zh_TW": "專家可以準確地預測天氣。"
+          },
+          {
+            "sentence": "He can't [predict] whether his team will win.",
+            "translation_zh_TW": "他無法預測他的團隊是否會獲勝。"
+          },
+          {
+            "sentence": "Scientists often [predict] earthquakes.",
+            "translation_zh_TW": "科學家們經常預測地震。"
+          }
+        ],
+        "synonyms": [
+          "foretell",
+          "forecast"
+        ]
+      }
+    ],
+    "confusion": [
+      "prodict",
+      "prdict",
+      "predic",
+      "preduct"
+    ]
+  },
+  {
+    "word": "publicity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The attention or awareness given to someone or something by the media.",
+        "meaning_zh_TW": "宣傳",
+        "wrong_meaning_zh_TW": [
+          "隱私的保護",
+          "私人生活",
+          "秘密的討論"
+        ],
+        "examples": [
+          {
+            "sentence": "The event gained a lot of [publicity] through social media.",
+            "translation_zh_TW": "該活動透過社交媒體獲得了很多關注。"
+          },
+          {
+            "sentence": "Good [publicity] can greatly influence a product's success.",
+            "translation_zh_TW": "良好的宣傳可以大大影響產品的成功。"
+          },
+          {
+            "sentence": "She managed the [publicity] for the new movie.",
+            "translation_zh_TW": "她負責新電影的宣傳工作。"
+          }
+        ],
+        "synonyms": [
+          "advertising",
+          "promotion"
+        ]
+      }
+    ],
+    "confusion": [
+      "publication",
+      "public",
+      "publishing",
+      "publically"
+    ]
+  },
+  {
+    "word": "marathon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long-distance running race of 26.2 miles (42.195 kilometers).",
+        "meaning_zh_TW": "馬拉松",
+        "wrong_meaning_zh_TW": [
+          "賽車比賽",
+          "長途旅行",
+          "騎馬競賽"
+        ],
+        "examples": [
+          {
+            "sentence": "She trained for months to run her first [marathon].",
+            "translation_zh_TW": "她訓練了幾個月來參加她的第一場馬拉松。"
+          },
+          {
+            "sentence": "The city hosts an annual [marathon] that attracts thousands.",
+            "translation_zh_TW": "這個城市每年舉辦一次馬拉松，吸引了成千上萬的人參加。"
+          },
+          {
+            "sentence": "He felt a great sense of accomplishment after finishing the [marathon].",
+            "translation_zh_TW": "他在完成馬拉松後感到一種巨大的成就感。"
+          }
+        ],
+        "synonyms": [
+          "long-distance race",
+          "endurance run"
+        ]
+      }
+    ],
+    "confusion": [
+      "marathin",
+      "marithon",
+      "marathone",
+      "marathoner"
+    ]
+  },
+  {
+    "word": "civilization",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The stage of human social development and organization that is considered most advanced.",
+        "meaning_zh_TW": "文明",
+        "wrong_meaning_zh_TW": [
+          "野蠻",
+          "混亂",
+          "無知"
+        ],
+        "examples": [
+          {
+            "sentence": "The ancient Greeks contributed significantly to Western [civilization].",
+            "translation_zh_TW": "古希臘人對西方文明貢獻良多。"
+          },
+          {
+            "sentence": "The fall of the Roman Empire marked a significant change in European [civilization].",
+            "translation_zh_TW": "羅馬帝國的衰落標誌著歐洲文明的重大變化。"
+          },
+          {
+            "sentence": "Understanding different [civilizations] helps us appreciate cultural diversity.",
+            "translation_zh_TW": "理解不同文明使我們能夠欣賞文化多樣性。"
+          }
+        ],
+        "synonyms": [
+          "culture",
+          "society"
+        ]
+      }
+    ],
+    "confusion": [
+      "civilizations",
+      "civilize",
+      "civil",
+      "civility"
+    ]
+  },
+  {
+    "word": "tremendous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Very large or great in amount, scale, or intensity.",
+        "meaning_zh_TW": "巨大的",
+        "wrong_meaning_zh_TW": [
+          "微小的",
+          "渺小的",
+          "細小的"
+        ],
+        "examples": [
+          {
+            "sentence": "She made a [tremendous] effort to improve her skills.",
+            "translation_zh_TW": "她付出了巨大的努力來提高自己的技能。"
+          },
+          {
+            "sentence": "The concert was a [tremendous] success.",
+            "translation_zh_TW": "音樂會取得了巨大的成功。"
+          },
+          {
+            "sentence": "He has a [tremendous] impact on his community.",
+            "translation_zh_TW": "他對他的社區有著巨大的影響。"
+          }
+        ],
+        "synonyms": [
+          "enormous",
+          "immense"
+        ]
+      }
+    ],
+    "confusion": [
+      "trend",
+      "tremor",
+      "tremble",
+      "tremolo"
+    ]
+  },
+  {
+    "word": "vegetarian",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who does not eat meat, and sometimes other animal products, for health, religious, or ethical reasons.",
+        "meaning_zh_TW": "素食者",
+        "wrong_meaning_zh_TW": [
+          "肉食者",
+          "雜食者",
+          "甜食者"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a strict [vegetarian] who avoids all animal products.",
+            "translation_zh_TW": "她是一位嚴格的素食者，避免所有動物產品。"
+          },
+          {
+            "sentence": "Many [vegetarians] choose to eat more fruits and vegetables.",
+            "translation_zh_TW": "許多素食者選擇多吃水果和蔬菜。"
+          },
+          {
+            "sentence": "He decided to become a [vegetarian] for health reasons.",
+            "translation_zh_TW": "他決定出於健康原因成為素食者。"
+          }
+        ],
+        "synonyms": [
+          "plant-eater",
+          "herbivore"
+        ]
+      }
+    ],
+    "confusion": [
+      "vegetation",
+      "vehement",
+      "veteran",
+      "vegetable"
+    ]
+  },
+  {
+    "word": "intend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To have a plan or purpose in mind.",
+        "meaning_zh_TW": "打算、意圖",
+        "wrong_meaning_zh_TW": [
+          "停止",
+          "拒絕",
+          "猶豫"
+        ],
+        "examples": [
+          {
+            "sentence": "I [intend] to travel next summer.",
+            "translation_zh_TW": "我打算明年夏天去旅行。"
+          },
+          {
+            "sentence": "Do you [intend] to finish the project?",
+            "translation_zh_TW": "你打算完成這個項目嗎？"
+          },
+          {
+            "sentence": "He didn't [intend] to hurt her feelings.",
+            "translation_zh_TW": "他並不打算傷害她的感情。"
+          }
+        ],
+        "synonyms": [
+          "plan",
+          "mean"
+        ]
+      }
+    ],
+    "confusion": [
+      "intents",
+      "intends",
+      "intent",
+      "intoned"
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fact or situation that is observed to exist or happen.",
+        "meaning_zh_TW": "現象",
+        "wrong_meaning_zh_TW": [
+          "假設",
+          "主觀意見",
+          "幻覺"
+        ],
+        "examples": [
+          {
+            "sentence": "The aurora borealis is a beautiful natural [phenomenon].",
+            "translation_zh_TW": "北極光是一種美麗的自然現象"
+          },
+          {
+            "sentence": "This social [phenomenon] needs further study.",
+            "translation_zh_TW": "這一社會現象需要進一步研究"
+          },
+          {
+            "sentence": "Such [phenomena] often challenge conventional wisdom.",
+            "translation_zh_TW": "這些現象常常挑戰傳統智慧"
+          }
+        ],
+        "synonyms": [
+          "event",
+          "occurrence"
+        ]
+      }
+    ],
+    "confusion": [
+      "phenomenal",
+      "phase",
+      "phenomenological",
+      "phenom"
+    ]
+  },
+  {
+    "word": "remark",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To say something as a comment; to mention.",
+        "meaning_zh_TW": "評論",
+        "wrong_meaning_zh_TW": [
+          "忽視",
+          "默默無言",
+          "保持沉默"
+        ],
+        "examples": [
+          {
+            "sentence": "She made a [remark] about the weather.",
+            "translation_zh_TW": "她對天氣發表了一個評論。"
+          },
+          {
+            "sentence": "His [remark] was taken out of context.",
+            "translation_zh_TW": "他的評論被脫離了上下文。"
+          },
+          {
+            "sentence": "They often [remark] on her exceptional talent.",
+            "translation_zh_TW": "他們經常對她的非凡才能作出評論。"
+          }
+        ],
+        "synonyms": [
+          "comment",
+          "observation"
+        ]
+      }
+    ],
+    "confusion": [
+      "remake",
+      "remake",
+      "relink",
+      "remarkable"
+    ]
+  },
+  {
+    "word": "researcher",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who conducts research, especially in a scientific or academic field.",
+        "meaning_zh_TW": "研究人員",
+        "wrong_meaning_zh_TW": [
+          "受試者",
+          "被調查者",
+          "實驗對象"
+        ],
+        "examples": [
+          {
+            "sentence": "The [researcher] published her findings last month.",
+            "translation_zh_TW": "這位研究人員上個月發表了她的研究結果"
+          },
+          {
+            "sentence": "As a [researcher], he focuses on renewable energy.",
+            "translation_zh_TW": "作為一名研究人員，他專注於可再生能源"
+          },
+          {
+            "sentence": "Every [researcher] needs access to reliable data.",
+            "translation_zh_TW": "每位研究人員都需要獲得可靠的數據"
+          }
+        ],
+        "synonyms": [
+          "scholar",
+          "investigator"
+        ]
+      }
+    ],
+    "confusion": [
+      "reacher",
+      "research",
+      "researher",
+      "recher"
+    ]
+  },
+  {
+    "word": "privilege",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A special right, advantage, or immunity granted or available only to a particular person or group.",
+        "meaning_zh_TW": "特權",
+        "wrong_meaning_zh_TW": [
+          "義務",
+          "責任",
+          "限制"
+        ],
+        "examples": [
+          {
+            "sentence": "Being a member of the club gives her [privilege] over others.",
+            "translation_zh_TW": "成為俱樂部成員使她擁有特權。"
+          },
+          {
+            "sentence": "Education is a [privilege] that not everyone has.",
+            "translation_zh_TW": "教育是一種不是每個人都有的特權。"
+          },
+          {
+            "sentence": "He felt it was a [privilege] to meet the author.",
+            "translation_zh_TW": "他覺得能見到作者是一種特權。"
+          }
+        ],
+        "synonyms": [
+          "exemption",
+          "special right"
+        ]
+      }
+    ],
+    "confusion": [
+      "privileged",
+      "prodigy",
+      "prologue",
+      "procedure"
+    ]
+  },
+  {
+    "word": "bald",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having no hair on the scalp.",
+        "meaning_zh_TW": "光禿禿的",
+        "wrong_meaning_zh_TW": [
+          "鬍子",
+          "披肩髮",
+          "中長髮"
+        ],
+        "examples": [
+          {
+            "sentence": "He is going bald and has started to wear hats.",
+            "translation_zh_TW": "他開始禿頭，並開始戴帽子"
+          },
+          {
+            "sentence": "The bald eagle is a symbol of the United States.",
+            "translation_zh_TW": "白頭鷹是美國的象徵"
+          },
+          {
+            "sentence": "She didn't like the idea of being bald.",
+            "translation_zh_TW": "她不喜歡禿頭的主意"
+          }
+        ],
+        "synonyms": [
+          "hairless",
+          "shorn"
+        ]
+      }
+    ],
+    "confusion": [
+      "bald spot",
+      "bald eagle",
+      "baldness",
+      "balding"
+    ]
+  },
+  {
+    "word": "frost",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin layer of ice that forms on surfaces when temperature drops.",
+        "meaning_zh_TW": "霜",
+        "wrong_meaning_zh_TW": [
+          "泥土",
+          "水庫",
+          "雲層"
+        ],
+        "examples": [
+          {
+            "sentence": "The grass was covered in [frost] this morning.",
+            "translation_zh_TW": "今早草地上覆蓋著霜。"
+          },
+          {
+            "sentence": "He scraped the [frost] off the windshield.",
+            "translation_zh_TW": "他刮掉了擋風玻璃上的霜。"
+          },
+          {
+            "sentence": "The [frost] on the leaves was beautiful.",
+            "translation_zh_TW": "葉子上的霜很美麗。"
+          }
+        ],
+        "synonyms": [
+          "ice",
+          "chill"
+        ]
+      }
+    ],
+    "confusion": [
+      "frosted",
+      "froze",
+      "frisk",
+      "frostbite"
+    ]
+  },
+  {
+    "word": "idle",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not active or not involved in work.",
+        "meaning_zh_TW": "空閒的，無工作的",
+        "wrong_meaning_zh_TW": [
+          "忙碌的",
+          "勤奮的",
+          "有目的的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was sitting [idle] during the meeting.",
+            "translation_zh_TW": "會議期間他無所事事地坐著。"
+          },
+          {
+            "sentence": "Don't let your mind stay [idle].",
+            "translation_zh_TW": "不要讓你的心靈保持空閒。"
+          },
+          {
+            "sentence": "She spent her summer [idle].",
+            "translation_zh_TW": "她的夏天過得無所事事。"
+          }
+        ],
+        "synonyms": [
+          "inactive",
+          "unoccupied"
+        ]
+      }
+    ],
+    "confusion": [
+      "idleo",
+      "idlle",
+      "idlle",
+      "idile"
+    ]
+  },
+  {
+    "word": "grateful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or showing an appreciation for something done or received.",
+        "meaning_zh_TW": "感激的",
+        "wrong_meaning_zh_TW": [
+          "高興的",
+          "興奮的",
+          "沮喪的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [grateful] for your help.",
+            "translation_zh_TW": "我對你的幫助心存感激。"
+          },
+          {
+            "sentence": "She felt [grateful] after receiving the gift.",
+            "translation_zh_TW": "收到禮物後，她感到非常感激。"
+          },
+          {
+            "sentence": "Being [grateful] can improve your mood.",
+            "translation_zh_TW": "感激能改善你的情緒。"
+          }
+        ],
+        "synonyms": [
+          "appreciative",
+          "thankful",
+          "obliged"
+        ]
+      }
+    ],
+    "confusion": [
+      "gratefully",
+      "greatful",
+      "grater",
+      "grate"
+    ]
+  },
+  {
+    "word": "cliff",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A steep rock face, especially at the edge of the sea or a river.",
+        "meaning_zh_TW": "懸崖",
+        "wrong_meaning_zh_TW": [
+          "平地",
+          "山谷",
+          "山丘"
+        ],
+        "examples": [
+          {
+            "sentence": "The hiker stood at the edge of the [cliff], admiring the view.",
+            "translation_zh_TW": "登山者站在懸崖邊緣，欣賞風景。"
+          },
+          {
+            "sentence": "They built a house on the [cliff] to have an ocean view.",
+            "translation_zh_TW": "他們在懸崖上建了一棟房子以俯瞰海洋。"
+          },
+          {
+            "sentence": "The waves crashed against the base of the [cliff], sending sprays of water into the air.",
+            "translation_zh_TW": "浪潮衝擊懸崖底部，將水花四濺。"
+          }
+        ],
+        "synonyms": [
+          "precipice",
+          "bluff"
+        ]
+      }
+    ],
+    "confusion": [
+      "clift",
+      "cleft",
+      "cliffhanger",
+      "clifford"
+    ]
+  },
+  {
+    "word": "ballet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A highly technical form of dance with a theatrical narrative.",
+        "meaning_zh_TW": "芭蕾舞",
+        "wrong_meaning_zh_TW": [
+          "街舞",
+          "現代舞",
+          "唱歌"
+        ],
+        "examples": [
+          {
+            "sentence": "She has been practicing ballet since childhood.",
+            "translation_zh_TW": "她從小就開始練習芭蕾舞"
+          },
+          {
+            "sentence": "The ballet performance was enchanting.",
+            "translation_zh_TW": "這場芭蕾舞表演令人著迷"
+          },
+          {
+            "sentence": "He decided to pursue a career in ballet.",
+            "translation_zh_TW": "他決定從事芭蕾舞的職業"
+          }
+        ],
+        "synonyms": [
+          "dance",
+          "theater dance"
+        ]
+      }
+    ],
+    "confusion": [
+      "ballet dancer",
+      "balletic",
+      "balletomania",
+      "balet"
+    ]
+  },
+  {
+    "word": "explosion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sudden and violent release of energy, often causing destruction.",
+        "meaning_zh_TW": "爆炸、爆發",
+        "wrong_meaning_zh_TW": [
+          "悶聲",
+          "凝聚",
+          "平靜"
+        ],
+        "examples": [
+          {
+            "sentence": "The [explosion] was heard miles away.",
+            "translation_zh_TW": "爆炸的聲音在幾英里外都能聽到。"
+          },
+          {
+            "sentence": "The film featured a dramatic [explosion] scene.",
+            "translation_zh_TW": "這部電影有一個戲劇性的爆炸場面。"
+          },
+          {
+            "sentence": "Emergency services rushed to the site of the [explosion].",
+            "translation_zh_TW": "緊急服務迅速趕到爆炸現場。"
+          }
+        ],
+        "synonyms": [
+          "blast",
+          "detonation"
+        ]
+      }
+    ],
+    "confusion": [
+      "implosion",
+      "exploit",
+      "exploratory",
+      "exploitative"
+    ]
+  },
+  {
+    "word": "pasta",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of food made from wheat flour and water, commonly shaped into sheets, tubes, or various other forms.",
+        "meaning_zh_TW": "義大利麵",
+        "wrong_meaning_zh_TW": [
+          "米飯",
+          "麵包",
+          "餃子"
+        ],
+        "examples": [
+          {
+            "sentence": "She made a delicious dish of [pasta] with pesto sauce.",
+            "translation_zh_TW": "她做了一道美味的義大利麵，搭配青醬。"
+          },
+          {
+            "sentence": "Pasta can be served with a variety of sauces.",
+            "translation_zh_TW": "義大利麵可以搭配各種醬汁。"
+          },
+          {
+            "sentence": "He prefers [pasta] over rice for dinner.",
+            "translation_zh_TW": "他晚餐更喜歡吃義大利麵而不是米飯。"
+          }
+        ],
+        "synonyms": [
+          "noodles",
+          "macaroni"
+        ]
+      }
+    ],
+    "confusion": [
+      "pastae",
+      "past",
+      "paste",
+      "pastas"
+    ]
+  }
+]

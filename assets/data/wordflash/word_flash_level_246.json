@@ -1,0 +1,782 @@
+[
+  {
+    "word": "hypothesis",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A proposed explanation for a phenomenon, which can be tested through study and experimentation.",
+        "meaning_zh_TW": "假說",
+        "wrong_meaning_zh_TW": [
+          "結論",
+          "假設房屋",
+          "理論基礎"
+        ],
+        "examples": [
+          {
+            "sentence": "The scientist developed a [hypothesis] to explain the results.",
+            "translation_zh_TW": "科學家制定了一個假說來解釋結果。"
+          },
+          {
+            "sentence": "Her [hypothesis] was supported by the experimental data.",
+            "translation_zh_TW": "她的假說得到了實驗數據的支持。"
+          },
+          {
+            "sentence": "They will test their [hypothesis] in the next phase of the project.",
+            "translation_zh_TW": "他們將在下一個階段測試他們的假說。"
+          }
+        ],
+        "synonyms": [
+          "theory",
+          "assumption"
+        ]
+      }
+    ],
+    "confusion": [
+      "hypothesize",
+      "hypothetical",
+      "hypothermia",
+      "hypothesize"
+    ]
+  },
+  {
+    "word": "doctrine",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A belief or set of beliefs held and taught by a church, political party, or other group.",
+        "meaning_zh_TW": "教義",
+        "wrong_meaning_zh_TW": [
+          "習慣",
+          "模式",
+          "理念"
+        ],
+        "examples": [
+          {
+            "sentence": "The church's [doctrine] influences its followers.",
+            "translation_zh_TW": "教會的教義影響其信徒。"
+          },
+          {
+            "sentence": "They debated the [doctrine] of the party.",
+            "translation_zh_TW": "他們爭論這一政黨的教義。"
+          },
+          {
+            "sentence": "The legal [doctrine] is based on previous court cases.",
+            "translation_zh_TW": "法律的教義基於前幾次的法庭案件。"
+          }
+        ],
+        "synonyms": [
+          "principle",
+          "dogma"
+        ]
+      }
+    ],
+    "confusion": [
+      "doctrine",
+      "dogma",
+      "document",
+      "dotrine"
+    ]
+  },
+  {
+    "word": "widespread",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Distributed over a large area; occurring in many places.",
+        "meaning_zh_TW": "廣泛的",
+        "wrong_meaning_zh_TW": [
+          "狹窄的",
+          "封閉的",
+          "局部的"
+        ],
+        "examples": [
+          {
+            "sentence": "The disease was [widespread] in the region.",
+            "translation_zh_TW": "該疾病在該地區廣泛流行。"
+          },
+          {
+            "sentence": "There is [widespread] support for the initiative.",
+            "translation_zh_TW": "這項倡議得到了廣泛的支持。"
+          },
+          {
+            "sentence": "Widespread reports of the event filled the news.",
+            "translation_zh_TW": "對該事件的廣泛報導充滿了新聞。"
+          }
+        ],
+        "synonyms": [
+          "extensive",
+          "common"
+        ]
+      }
+    ],
+    "confusion": [
+      "woolspread",
+      "wideband",
+      "widescreen",
+      "widely"
+    ]
+  },
+  {
+    "word": "interference",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of obstructing or hindering something.",
+        "meaning_zh_TW": "干擾",
+        "wrong_meaning_zh_TW": [
+          "積極參與",
+          "支持行為",
+          "合作"
+        ],
+        "examples": [
+          {
+            "sentence": "The radio signal suffered from [interference] during the storm.",
+            "translation_zh_TW": "暴風雨期間，無線電信號受到干擾。"
+          },
+          {
+            "sentence": "His [interference] was unhelpful and caused more problems.",
+            "translation_zh_TW": "他的干擾沒有幫助，反而引起更多問題。"
+          },
+          {
+            "sentence": "We need to reduce [interference] in this process.",
+            "translation_zh_TW": "我們需要減少這個過程中的干擾。"
+          }
+        ],
+        "synonyms": [
+          "obstruction",
+          "hindrance"
+        ]
+      }
+    ],
+    "confusion": [
+      "intercessor",
+      "interact",
+      "intermittent",
+      "interrogate"
+    ]
+  },
+  {
+    "word": "undo",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To reverse the action of something.",
+        "meaning_zh_TW": "撤銷、反轉",
+        "wrong_meaning_zh_TW": [
+          "確認、驗證",
+          "增強、加強",
+          "繼續、持續"
+        ],
+        "examples": [
+          {
+            "sentence": "You can [undo] the last operation if you made a mistake.",
+            "translation_zh_TW": "如果你犯了錯，可以撤銷上一個操作"
+          },
+          {
+            "sentence": "He wants to [undo] the changes made to the document.",
+            "translation_zh_TW": "他想撤銷對文檔所做的更改"
+          },
+          {
+            "sentence": "Don't forget to [undo] your last action.",
+            "translation_zh_TW": "不要忘記撤銷你最後的操作"
+          }
+        ],
+        "synonyms": [
+          "reverse",
+          "cancel"
+        ]
+      }
+    ],
+    "confusion": [
+      "duo",
+      "dun",
+      "dough",
+      "dune"
+    ]
+  },
+  {
+    "word": "apt",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a tendency to do something; likely or inclined.",
+        "meaning_zh_TW": "傾向於 / 易於",
+        "wrong_meaning_zh_TW": [
+          "不適合的",
+          "遲鈍的",
+          "適應的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is [apt] to forget names.",
+            "translation_zh_TW": "他容易忘記名字。"
+          },
+          {
+            "sentence": "The child is [apt] at learning languages quickly.",
+            "translation_zh_TW": "這個孩子學習語言的能力很強。"
+          },
+          {
+            "sentence": "She has an [apt] sense of humor that everyone enjoys.",
+            "translation_zh_TW": "她有著人人喜愛的幽默感。"
+          }
+        ],
+        "synonyms": [
+          "likely",
+          "inclined"
+        ]
+      }
+    ],
+    "confusion": [
+      "aptitude",
+      "app",
+      "aptly",
+      "aptitude test"
+    ]
+  },
+  {
+    "word": "denial",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of declaring something to be untrue.",
+        "meaning_zh_TW": "否認",
+        "wrong_meaning_zh_TW": [
+          "確認",
+          "承認",
+          "接受"
+        ],
+        "examples": [
+          {
+            "sentence": "His [denial] of the accusations only made people more suspicious.",
+            "translation_zh_TW": "他對指控的否認只讓人們更加懷疑。"
+          },
+          {
+            "sentence": "The patient went into [denial] about his illness.",
+            "translation_zh_TW": "病人對自己的疾病進入了否認狀態。"
+          },
+          {
+            "sentence": "She was in [denial] about her financial situation.",
+            "translation_zh_TW": "她否認了自己的財務狀況。"
+          }
+        ],
+        "synonyms": [
+          "rejection",
+          "refusal"
+        ]
+      }
+    ],
+    "confusion": [
+      "refusal",
+      "denials",
+      "denied",
+      "declarations"
+    ]
+  },
+  {
+    "word": "criterion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A standard or principle by which something is judged or decided.",
+        "meaning_zh_TW": "標準",
+        "wrong_meaning_zh_TW": [
+          "需要",
+          "問題",
+          "挑戰"
+        ],
+        "examples": [
+          {
+            "sentence": "The main [criterion] for admission is academic performance.",
+            "translation_zh_TW": "入學的主要標準是學業表現"
+          },
+          {
+            "sentence": "They set their own [criteria] for success.",
+            "translation_zh_TW": "他們為成功設定了自己的標準"
+          },
+          {
+            "sentence": "Each [criterion] is important for evaluation.",
+            "translation_zh_TW": "每一個標準對評估都很重要"
+          }
+        ],
+        "synonyms": [
+          "standard",
+          "benchmark"
+        ]
+      }
+    ],
+    "confusion": [
+      "criteria",
+      "criterion",
+      "critique",
+      "critical"
+    ]
+  },
+  {
+    "word": "ballot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A process of voting, in writing and typically in secret.",
+        "meaning_zh_TW": "投票",
+        "wrong_meaning_zh_TW": [
+          "議會",
+          "投票箱",
+          "選舉事務"
+        ],
+        "examples": [
+          {
+            "sentence": "Each citizen received a [ballot] for the election.",
+            "translation_zh_TW": "每位公民都收到了選舉的投票。"
+          },
+          {
+            "sentence": "He filled out his [ballot] carefully.",
+            "translation_zh_TW": "他小心翼翼地填寫了投票。"
+          },
+          {
+            "sentence": "The [ballot] counting will begin after the polls close.",
+            "translation_zh_TW": "投票開始後，計票將會開始。"
+          }
+        ],
+        "synonyms": [
+          "vote",
+          "referendum"
+        ]
+      }
+    ],
+    "confusion": [
+      "ballade",
+      "ballet",
+      "ballistics",
+      "balloter"
+    ]
+  },
+  {
+    "word": "realm",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A domain or a field of activity.",
+        "meaning_zh_TW": "領域",
+        "wrong_meaning_zh_TW": [
+          "幻境",
+          "市場",
+          "幻覺"
+        ],
+        "examples": [
+          {
+            "sentence": "She is an expert in the [realm] of astrophysics.",
+            "translation_zh_TW": "她是天體物理學領域的專家"
+          },
+          {
+            "sentence": "In the [realm] of fantasy, anything is possible.",
+            "translation_zh_TW": "在幻想的領域裡，任何事情都是可能的"
+          },
+          {
+            "sentence": "His contributions to the [realm] of literature are notable.",
+            "translation_zh_TW": "他對文學領域的貢獻是顯著的"
+          }
+        ],
+        "synonyms": [
+          "domain",
+          "field"
+        ]
+      }
+    ],
+    "confusion": [
+      "reel",
+      "ream",
+      "realm's",
+      "real"
+    ]
+  },
+  {
+    "word": "striking",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Attractive or impressive because of being unusual or remarkable.",
+        "meaning_zh_TW": "驚人的",
+        "wrong_meaning_zh_TW": [
+          "平凡的",
+          "無趣的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [striking] features caught everyone's attention.",
+            "translation_zh_TW": "她驚人的特徵吸引了每個人的注意。"
+          },
+          {
+            "sentence": "The painting has a [striking] use of colors.",
+            "translation_zh_TW": "這幅畫在顏色使用上很驚人。"
+          },
+          {
+            "sentence": "He delivered a [striking] performance on stage.",
+            "translation_zh_TW": "他在舞台上呈現了驚人的表演。"
+          }
+        ],
+        "synonyms": [
+          "remarkable",
+          "impressive"
+        ]
+      }
+    ],
+    "confusion": [
+      "strick",
+      "stricken",
+      "strikes",
+      "striker"
+    ]
+  },
+  {
+    "word": "myth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon.",
+        "meaning_zh_TW": "神話",
+        "wrong_meaning_zh_TW": [
+          "歷史",
+          "傳說",
+          "信仰"
+        ],
+        "examples": [
+          {
+            "sentence": "In ancient times, many cultures had their own [myths].",
+            "translation_zh_TW": "在古代，許多文化都有自己的神話。"
+          },
+          {
+            "sentence": "The [myth] of Hercules is well-known.",
+            "translation_zh_TW": "海克力士的神話是眾所周知的。"
+          },
+          {
+            "sentence": "Some [myths] explain the creation of the world.",
+            "translation_zh_TW": "一些神話解釋了世界的創造。"
+          }
+        ],
+        "synonyms": [
+          "legend",
+          "fable"
+        ]
+      }
+    ],
+    "confusion": [
+      "mythical",
+      "mirth",
+      "mythos",
+      "myt"
+    ]
+  },
+  {
+    "word": "utilize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make practical and effective use of something.",
+        "meaning_zh_TW": "利用",
+        "wrong_meaning_zh_TW": [
+          "廢棄",
+          "丟棄",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "We should [utilize] our resources wisely.",
+            "translation_zh_TW": "我們應該明智地利用我們的資源。"
+          },
+          {
+            "sentence": "She will [utilize] her skills in the new job.",
+            "translation_zh_TW": "她將在新工作中利用她的技能。"
+          },
+          {
+            "sentence": "The program aims to [utilize] technology for better education.",
+            "translation_zh_TW": "該計劃旨在利用科技來改善教育。"
+          }
+        ],
+        "synonyms": [
+          "deploy",
+          "apply"
+        ]
+      }
+    ],
+    "confusion": [
+      "utilizee",
+      "utility",
+      "utilised",
+      "ulitze"
+    ]
+  },
+  {
+    "word": "unlock",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To open or make something accessible.",
+        "meaning_zh_TW": "解鎖、打開",
+        "wrong_meaning_zh_TW": [
+          "封鎖、限制",
+          "摧毀、破壞",
+          "保護、維護"
+        ],
+        "examples": [
+          {
+            "sentence": "He learned how to [unlock] his phone.",
+            "translation_zh_TW": "他學會了如何解鎖他的手機"
+          },
+          {
+            "sentence": "You need a key to [unlock] the door.",
+            "translation_zh_TW": "你需要一把鑰匙來打開這扇門"
+          },
+          {
+            "sentence": "The software will [unlock] additional features.",
+            "translation_zh_TW": "這個軟體將解鎖額外的功能"
+          }
+        ],
+        "synonyms": [
+          "open",
+          "release"
+        ]
+      }
+    ],
+    "confusion": [
+      "lock",
+      "lunk",
+      "lunkhead",
+      "lucky"
+    ]
+  },
+  {
+    "word": "pledge",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A solemn promise or agreement.",
+        "meaning_zh_TW": "承諾",
+        "wrong_meaning_zh_TW": [
+          "懷疑",
+          "批評",
+          "取消"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [pledge] to support the community.",
+            "translation_zh_TW": "他承諾支持社區。"
+          },
+          {
+            "sentence": "The [pledge] was taken seriously by the volunteers.",
+            "translation_zh_TW": "志願者們非常認真地對待這個承諾。"
+          },
+          {
+            "sentence": "She signed a [pledge] to protect the environment.",
+            "translation_zh_TW": "她簽署了承諾保護環境。"
+          }
+        ],
+        "synonyms": [
+          "promise",
+          "commitment"
+        ]
+      }
+    ],
+    "confusion": [
+      "plague",
+      "plod",
+      "plead",
+      "plug"
+    ]
+  },
+  {
+    "word": "merge",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To combine or cause to combine to form a single entity.",
+        "meaning_zh_TW": "合併",
+        "wrong_meaning_zh_TW": [
+          "分開",
+          "全景",
+          "分裂"
+        ],
+        "examples": [
+          {
+            "sentence": "The two companies decided to [merge] their resources.",
+            "translation_zh_TW": "兩家公司決定合併他們的資源。"
+          },
+          {
+            "sentence": "When you [merge] layers in Photoshop, be careful.",
+            "translation_zh_TW": "在Photoshop中合併圖層時要小心。"
+          },
+          {
+            "sentence": "Our departments will [merge] next year.",
+            "translation_zh_TW": "我們的部門將於明年合併。"
+          }
+        ],
+        "synonyms": [
+          "combine",
+          "blend"
+        ]
+      }
+    ],
+    "confusion": [
+      "marge",
+      "merg",
+      "merje",
+      "merging"
+    ]
+  },
+  {
+    "word": "yacht",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A medium-sized sailboat or motorboat used for pleasure or racing.",
+        "meaning_zh_TW": "游艇",
+        "wrong_meaning_zh_TW": [
+          "小船",
+          "漁船",
+          "潛艇"
+        ],
+        "examples": [
+          {
+            "sentence": "They rented a [yacht] for their vacation.",
+            "translation_zh_TW": "他們租了一艘游艇度假。"
+          },
+          {
+            "sentence": "He dreams of owning a luxury [yacht].",
+            "translation_zh_TW": "他夢想擁有一艘豪華游艇。"
+          },
+          {
+            "sentence": "The race featured several impressive [yachts].",
+            "translation_zh_TW": "比賽中有幾艘令人印象深刻的游艇。"
+          }
+        ],
+        "synonyms": [
+          "pleasure craft",
+          "sailing boat"
+        ]
+      }
+    ],
+    "confusion": [
+      "yatch",
+      "yaught",
+      "yaht",
+      "laht"
+    ]
+  },
+  {
+    "word": "herb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A flowering plant that is not woody, typically having green, soft stems.",
+        "meaning_zh_TW": "草本植物",
+        "wrong_meaning_zh_TW": [
+          "香料",
+          "根",
+          "樹"
+        ],
+        "examples": [
+          {
+            "sentence": "Basil is a popular [herb] used in cooking.",
+            "translation_zh_TW": "羅勒是烹飪中常用的草本植物。"
+          },
+          {
+            "sentence": "She planted an [herb] garden in her backyard.",
+            "translation_zh_TW": "她在後院種了一個草本植物花園。"
+          },
+          {
+            "sentence": "Many [herbs] have medicinal properties.",
+            "translation_zh_TW": "許多草本植物具有醫療特性。"
+          }
+        ],
+        "synonyms": [
+          "plant",
+          "flora"
+        ]
+      }
+    ],
+    "confusion": [
+      "herbs",
+      "orb",
+      "hurt",
+      "her"
+    ]
+  },
+  {
+    "word": "competent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the necessary ability, knowledge, or skill to do something successfully.",
+        "meaning_zh_TW": "有能力的、滿意的",
+        "wrong_meaning_zh_TW": [
+          "不合格的、無能的",
+          "不確定的、模糊的",
+          "粗心的、馬虎的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a highly [competent] engineer.",
+            "translation_zh_TW": "她是一位非常有能力的工程師。"
+          },
+          {
+            "sentence": "Only [competent] individuals are promoted to management positions.",
+            "translation_zh_TW": "只有有能力的人才能晉升到管理職位。"
+          },
+          {
+            "sentence": "The team performed better after hiring more [competent] staff.",
+            "translation_zh_TW": "在聘用更多有能力的員工後，團隊表現更好。"
+          }
+        ],
+        "synonyms": [
+          "capable",
+          "qualified"
+        ]
+      }
+    ],
+    "confusion": [
+      "competence",
+      "composure",
+      "compliant",
+      "complaint"
+    ]
+  },
+  {
+    "word": "journalist",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who writes for newspapers, magazines, or news websites or prepares news to be broadcast.",
+        "meaning_zh_TW": "記者",
+        "wrong_meaning_zh_TW": [
+          "編輯",
+          "小說家",
+          "專欄作家"
+        ],
+        "examples": [
+          {
+            "sentence": "The [journalist] interviewed the politician.",
+            "translation_zh_TW": "這位記者採訪了這位政治家。"
+          },
+          {
+            "sentence": "She is a well-respected [journalist] in her field.",
+            "translation_zh_TW": "她是其領域內備受尊敬的記者。"
+          },
+          {
+            "sentence": "Many [journalists] work under tight deadlines.",
+            "translation_zh_TW": "許多記者在緊迫的截止日期下工作。"
+          }
+        ],
+        "synonyms": [
+          "reporter",
+          "news writer"
+        ]
+      }
+    ],
+    "confusion": [
+      "journalist's",
+      "journalists'",
+      "journalistic",
+      "journals"
+    ]
+  }
+]

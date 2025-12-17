@@ -1,0 +1,777 @@
+[
+  {
+    "word": "May",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fifth month of the year.",
+        "meaning_zh_TW": "五月",
+        "wrong_meaning_zh_TW": [
+          "四月",
+          "六月",
+          "三月"
+        ],
+        "examples": [
+          {
+            "sentence": "May is known for its flowers.",
+            "translation_zh_TW": "五月以花朵而聞名"
+          },
+          {
+            "sentence": "The holiday falls in [May].",
+            "translation_zh_TW": "假日落在五月"
+          },
+          {
+            "sentence": "We celebrate Labor Day in [May].",
+            "translation_zh_TW": "我們在五月慶祝勞動節"
+          }
+        ],
+        "synonyms": [
+          "N/A"
+        ]
+      }
+    ],
+    "confusion": [
+      "may",
+      "mate",
+      "mace",
+      "me"
+    ]
+  },
+  {
+    "word": "September",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ninth month of the year in the Gregorian calendar.",
+        "meaning_zh_TW": "九月",
+        "wrong_meaning_zh_TW": [
+          "四月",
+          "十月",
+          "二月"
+        ],
+        "examples": [
+          {
+            "sentence": "My birthday is in [September].",
+            "translation_zh_TW": "我的生日在[九月]。"
+          },
+          {
+            "sentence": "The season begins in early [September].",
+            "translation_zh_TW": "季節在[九月]初開始。"
+          },
+          {
+            "sentence": "School starts in [September] every year.",
+            "translation_zh_TW": "每年[九月]開學。"
+          }
+        ],
+        "synonyms": [
+          "month",
+          "calendar month"
+        ]
+      }
+    ],
+    "confusion": [
+      "septemeber",
+      "setpember",
+      "septeber",
+      "septembern"
+    ]
+  },
+  {
+    "word": "TV",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device used for viewing programs, movies, or broadcasts.",
+        "meaning_zh_TW": "電視",
+        "wrong_meaning_zh_TW": [
+          "電壓",
+          "電子元件",
+          "模型"
+        ],
+        "examples": [
+          {
+            "sentence": "I love watching my favorite show on [TV].",
+            "translation_zh_TW": "我喜歡在電視上看我最喜歡的節目。"
+          },
+          {
+            "sentence": "The [TV] broadcasted the news every hour.",
+            "translation_zh_TW": "這個電視每小時播報新聞。"
+          },
+          {
+            "sentence": "He bought a new [TV] for the living room.",
+            "translation_zh_TW": "他為客廳買了一台新電視。"
+          }
+        ],
+        "synonyms": [
+          "television",
+          "set"
+        ]
+      }
+    ],
+    "confusion": [
+      "T.V.",
+      "TTY",
+      "TAB",
+      "TVs"
+    ]
+  },
+  {
+    "word": "April",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fourth month of the year.",
+        "meaning_zh_TW": "四月",
+        "wrong_meaning_zh_TW": [
+          "陽光",
+          "冬季",
+          "旅遊"
+        ],
+        "examples": [
+          {
+            "sentence": "April is known for its showers.",
+            "translation_zh_TW": "四月以其春雨著稱。"
+          },
+          {
+            "sentence": "The flowers bloom in [April].",
+            "translation_zh_TW": "花在四月綻放。"
+          },
+          {
+            "sentence": "Tax returns are due in [April].",
+            "translation_zh_TW": "報稅是在四月到期。"
+          }
+        ],
+        "synonyms": [
+          "春季"
+        ],
+        "note": "Often associated with spring."
+      }
+    ],
+    "confusion": [
+      "Aprile",
+      "Aprial",
+      "April's",
+      "Apr"
+    ]
+  },
+  {
+    "word": "Sunday",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The day of the week following Saturday and preceding Monday.",
+        "meaning_zh_TW": "星期天",
+        "wrong_meaning_zh_TW": [
+          "星期一",
+          "星期四",
+          "假日"
+        ],
+        "examples": [
+          {
+            "sentence": "We always have family brunch on [Sunday].",
+            "translation_zh_TW": "我們總是在星期天舉行家庭早午餐"
+          },
+          {
+            "sentence": "Many people go to church on [Sunday].",
+            "translation_zh_TW": "許多人在星期天去教堂"
+          },
+          {
+            "sentence": "I like to relax on [Sunday] before the work week starts.",
+            "translation_zh_TW": "我喜歡在星期天放鬆，為工作周做準備"
+          }
+        ],
+        "synonyms": [
+          "weekend",
+          "Sabbath"
+        ]
+      }
+    ],
+    "confusion": [
+      "sundae",
+      "sunny",
+      "sundown",
+      "sundance"
+    ]
+  },
+  {
+    "word": "July",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The seventh month of the year in the Gregorian calendar, consisting of 31 days.",
+        "meaning_zh_TW": "七月",
+        "wrong_meaning_zh_TW": [
+          "夏天",
+          "月份",
+          "冬季"
+        ],
+        "examples": [
+          {
+            "sentence": "My birthday is in [July].",
+            "translation_zh_TW": "我的生日在七月。"
+          },
+          {
+            "sentence": "Independence Day is celebrated on [July] 4th in the United States.",
+            "translation_zh_TW": "獨立日是在美國的七月四日慶祝的。"
+          },
+          {
+            "sentence": "[July] is often hot in many places.",
+            "translation_zh_TW": "七月在很多地方通常都很熱。"
+          }
+        ],
+        "synonyms": [
+          "n/a"
+        ]
+      }
+    ],
+    "confusion": [
+      "Julu",
+      "Juli",
+      "Juily",
+      "Jully"
+    ]
+  },
+  {
+    "word": "o’clock",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used to indicate the time on the hour.",
+        "meaning_zh_TW": "整點",
+        "wrong_meaning_zh_TW": [
+          "切點",
+          "半點",
+          "上午點"
+        ],
+        "examples": [
+          {
+            "sentence": "The meeting starts at 3 [o’clock].",
+            "translation_zh_TW": "會議在三點整開始。"
+          },
+          {
+            "sentence": "Please be here by 10 [o’clock].",
+            "translation_zh_TW": "請在十點整前到這裡。"
+          },
+          {
+            "sentence": "It is 5 [o’clock] now.",
+            "translation_zh_TW": "現在是五點整。"
+          }
+        ],
+        "synonyms": [
+          "hour"
+        ]
+      }
+    ],
+    "confusion": [
+      "o-clok",
+      "o' clock",
+      "oclock",
+      "o'cloc"
+    ]
+  },
+  {
+    "word": "March",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The third month of the year in the Gregorian calendar.",
+        "meaning_zh_TW": "三月",
+        "wrong_meaning_zh_TW": [
+          "一月",
+          "二月",
+          "四月"
+        ],
+        "examples": [
+          {
+            "sentence": "My birthday is in [March].",
+            "translation_zh_TW": "我的生日在三月"
+          },
+          {
+            "sentence": "[March] often brings the first signs of spring.",
+            "translation_zh_TW": "三月通常帶來春天的最初跡象"
+          },
+          {
+            "sentence": "The event will take place in [March].",
+            "translation_zh_TW": "該活動將於三月舉行"
+          }
+        ],
+        "synonyms": [
+          "month"
+        ]
+      }
+    ],
+    "confusion": [
+      "Marsh",
+      "Mark",
+      "MARCH",
+      "Marches"
+    ]
+  },
+  {
+    "word": "Mister",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A title used before the surname or full name of a man.",
+        "meaning_zh_TW": "先生",
+        "wrong_meaning_zh_TW": [
+          "小姐",
+          "女士",
+          "高人"
+        ],
+        "examples": [
+          {
+            "sentence": "Please help me, [Mister]!",
+            "translation_zh_TW": "請幫我，先生！"
+          },
+          {
+            "sentence": "Mr. Smith is a respectable [Mister] in our town.",
+            "translation_zh_TW": "史密斯先生是我們鎮上一位受人尊敬的先生。"
+          },
+          {
+            "sentence": "Excuse me, [Mister], do you have the time?",
+            "translation_zh_TW": "不好意思，先生，你知道幾點了嗎？"
+          }
+        ],
+        "synonyms": [
+          "Mr.",
+          "gentleman"
+        ]
+      }
+    ],
+    "confusion": [
+      "mister!",
+      "mistress",
+      "misster"
+    ]
+  },
+  {
+    "word": "Tuesday",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The day of the week following Monday and preceding Wednesday.",
+        "meaning_zh_TW": "星期二",
+        "wrong_meaning_zh_TW": [
+          "週一",
+          "週三",
+          "週五"
+        ],
+        "examples": [
+          {
+            "sentence": "Our meeting is scheduled for [Tuesday].",
+            "translation_zh_TW": "我們的會議定在星期二。"
+          },
+          {
+            "sentence": "I always enjoy taco night on [Tuesday].",
+            "translation_zh_TW": "我總是喜歡星期二的玉米餅之夜。"
+          },
+          {
+            "sentence": "She has a yoga class every [Tuesday].",
+            "translation_zh_TW": "她每個星期二都有瑜伽課。"
+          }
+        ],
+        "synonyms": [
+          "二",
+          "Sun-Chi"
+        ]
+      }
+    ],
+    "confusion": [
+      "Tuseday",
+      "Tues",
+      "Tudad",
+      "Twesday"
+    ]
+  },
+  {
+    "word": "Friday",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The day of the week before Saturday.",
+        "meaning_zh_TW": "星期五",
+        "wrong_meaning_zh_TW": [
+          "星期二",
+          "星期三",
+          "星期六"
+        ],
+        "examples": [
+          {
+            "sentence": "I usually go out on [Friday] nights.",
+            "translation_zh_TW": "我通常在星期五晚上出門。"
+          },
+          {
+            "sentence": "The meeting is scheduled for [Friday].",
+            "translation_zh_TW": "會議定於星期五舉行。"
+          },
+          {
+            "sentence": "[Friday] is the last weekday before the weekend.",
+            "translation_zh_TW": "星期五是周末前的最後一個工作日。"
+          }
+        ],
+        "synonyms": [
+          "the fifth day",
+          "星期五"
+        ]
+      }
+    ],
+    "confusion": [
+      "Fryday",
+      "Fridai",
+      "Frieday",
+      "Fridday"
+    ]
+  },
+  {
+    "word": "Days",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of 24 hours as a unit of time.",
+        "meaning_zh_TW": "天",
+        "wrong_meaning_zh_TW": [
+          "星期、週",
+          "時期、歷史",
+          "分、秒"
+        ],
+        "examples": [
+          {
+            "sentence": "There are seven [days] in a week.",
+            "translation_zh_TW": "一週有七天。"
+          },
+          {
+            "sentence": "She spent many [days] traveling across Europe.",
+            "translation_zh_TW": "她花了很多天在歐洲旅行。"
+          },
+          {
+            "sentence": "The [days] are getting longer as summer approaches.",
+            "translation_zh_TW": "隨著夏天的到來，白天越來越長。"
+          }
+        ],
+        "synonyms": [
+          "24 hours",
+          "time period"
+        ]
+      }
+    ],
+    "confusion": [
+      "daays",
+      "daze",
+      "dayz",
+      "daes"
+    ]
+  },
+  {
+    "word": "Cardinal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A high-ranking official in the Catholic Church, typically a member of the clergy.",
+        "meaning_zh_TW": "紅衣主教",
+        "wrong_meaning_zh_TW": [
+          "教士",
+          "信徒",
+          "神父"
+        ],
+        "examples": [
+          {
+            "sentence": "The [Cardinal] spoke at the Vatican.",
+            "translation_zh_TW": "這位紅衣主教在梵蒂岡發表演講。"
+          },
+          {
+            "sentence": "A [Cardinal] is known for his red robes.",
+            "translation_zh_TW": "紅衣主教以他的紅色長袍而聞名。"
+          },
+          {
+            "sentence": "He was appointed as a [Cardinal] by the Pope.",
+            "translation_zh_TW": "他被教宗任命為紅衣主教。"
+          }
+        ],
+        "synonyms": [
+          "bishop",
+          "priest",
+          "clergyman"
+        ]
+      }
+    ],
+    "confusion": [
+      "cardigan",
+      "cardinality",
+      "card",
+      "cargo"
+    ]
+  },
+  {
+    "word": "Thursday",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fifth day of the week, following Wednesday and preceding Friday.",
+        "meaning_zh_TW": "星期四",
+        "wrong_meaning_zh_TW": [
+          "星期五",
+          "星期三",
+          "周末"
+        ],
+        "examples": [
+          {
+            "sentence": "We have a meeting scheduled for [Thursday].",
+            "translation_zh_TW": "我們的會議定在星期四。"
+          },
+          {
+            "sentence": "Thursday is my favorite day of the week.",
+            "translation_zh_TW": "星期四是我最喜歡的一天。"
+          },
+          {
+            "sentence": "I always do laundry on [Thursday].",
+            "translation_zh_TW": "我總是在星期四洗衣服。"
+          }
+        ],
+        "synonyms": [
+          "T-h-e-u-r-s-d-a-y"
+        ]
+      }
+    ],
+    "confusion": [
+      "Thurday",
+      "Thurs",
+      "Thursay",
+      "Thurdayy"
+    ]
+  },
+  {
+    "word": "with",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "In the company of; accompanied by.",
+        "meaning_zh_TW": "和、與",
+        "wrong_meaning_zh_TW": [
+          "反對、與……相反",
+          "算術、數學",
+          "沒有、缺少"
+        ],
+        "examples": [
+          {
+            "sentence": "I went to the movies [with] my friends.",
+            "translation_zh_TW": "我和朋友一起去看電影。"
+          },
+          {
+            "sentence": "She is studying [with] a professor.",
+            "translation_zh_TW": "她和一位教授一起學習。"
+          },
+          {
+            "sentence": "You can come [with] us if you like.",
+            "translation_zh_TW": "如果你願意，可以和我們一起來。"
+          }
+        ],
+        "synonyms": [
+          "alongside",
+          "together with"
+        ]
+      }
+    ],
+    "confusion": [
+      "without",
+      "width",
+      "witch",
+      "ith"
+    ]
+  },
+  {
+    "word": "will",
+    "meanings": [
+      {
+        "type": "助動詞",
+        "meaning_en_US": "Expressing the future tense or intention.",
+        "meaning_zh_TW": "將要",
+        "wrong_meaning_zh_TW": [
+          "現在",
+          "過去",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "I [will] go to the store tomorrow.",
+            "translation_zh_TW": "我明天會去商店"
+          },
+          {
+            "sentence": "She [will] finish her homework later.",
+            "translation_zh_TW": "她稍後會完成她的作業"
+          },
+          {
+            "sentence": "They [will] join us for dinner.",
+            "translation_zh_TW": "他們會和我們一起吃晚餐"
+          }
+        ],
+        "synonyms": [
+          "shall",
+          "intend to"
+        ]
+      }
+    ],
+    "confusion": [
+      "well",
+      "wall",
+      "willow",
+      "wild"
+    ]
+  },
+  {
+    "word": "search",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To look for or seek something or someone.",
+        "meaning_zh_TW": "搜尋",
+        "wrong_meaning_zh_TW": [
+          "找不到",
+          "放棄",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [search] for the missing keys.",
+            "translation_zh_TW": "我會搜尋丟失的鑰匙。"
+          },
+          {
+            "sentence": "She began to [search] online for information.",
+            "translation_zh_TW": "她開始上網搜尋資訊。"
+          },
+          {
+            "sentence": "They [search] the area for any signs of life.",
+            "translation_zh_TW": "他們搜尋該地區是否有生命的跡象。"
+          }
+        ],
+        "synonyms": [
+          "look for",
+          "seek"
+        ]
+      }
+    ],
+    "confusion": [
+      "serach",
+      "sarch",
+      "seach",
+      "serch"
+    ]
+  },
+  {
+    "word": "what",
+    "meanings": [
+      {
+        "type": "代名詞",
+        "meaning_en_US": "Used to ask for information about something.",
+        "meaning_zh_TW": "什麼",
+        "wrong_meaning_zh_TW": [
+          "誰",
+          "哪裡",
+          "為什麼"
+        ],
+        "examples": [
+          {
+            "sentence": "What do you want to eat?",
+            "translation_zh_TW": "你想吃什麼？"
+          },
+          {
+            "sentence": "What is your favorite color?",
+            "translation_zh_TW": "你最喜歡的顏色是什麼？"
+          },
+          {
+            "sentence": "What happened last night?",
+            "translation_zh_TW": "昨晚發生了什麼？"
+          }
+        ],
+        "synonyms": [
+          "which",
+          "that"
+        ]
+      }
+    ],
+    "confusion": [
+      "wat",
+      "whut",
+      "watt",
+      "what's"
+    ]
+  },
+  {
+    "word": "which",
+    "meanings": [
+      {
+        "type": "代名詞",
+        "meaning_en_US": "A question word used to ask about one or more items from a defined set.",
+        "meaning_zh_TW": "哪個",
+        "wrong_meaning_zh_TW": [
+          "什麼",
+          "誰",
+          "為什麼"
+        ],
+        "examples": [
+          {
+            "sentence": "Do you know [which] book he prefers?",
+            "translation_zh_TW": "你知道他偏好哪本書嗎？"
+          },
+          {
+            "sentence": "I can't remember [which] way to go.",
+            "translation_zh_TW": "我記不起來該走哪條路"
+          },
+          {
+            "sentence": "She asked [which] dress to wear.",
+            "translation_zh_TW": "她問該穿哪條裙子"
+          }
+        ],
+        "synonyms": [
+          "what",
+          "that one"
+        ]
+      }
+    ],
+    "confusion": [
+      "witch",
+      "whitch",
+      "while",
+      "whick"
+    ]
+  },
+  {
+    "word": "when",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At what time.",
+        "meaning_zh_TW": "在什麼時候",
+        "wrong_meaning_zh_TW": [
+          "即時",
+          "隨時",
+          "常常"
+        ],
+        "examples": [
+          {
+            "sentence": "I remember the day [when] we first met.",
+            "translation_zh_TW": "我記得我們第一次見面的那一天"
+          },
+          {
+            "sentence": "Please let me know [when] you arrive.",
+            "translation_zh_TW": "請告訴我你什麼時候到達"
+          },
+          {
+            "sentence": "Do you know [when] the event starts?",
+            "translation_zh_TW": "你知道活動什麼時候開始嗎？"
+          }
+        ],
+        "synonyms": [
+          "at what time",
+          "whenever"
+        ]
+      }
+    ],
+    "confusion": [
+      "then",
+      "wren",
+      "wen",
+      "whn"
+    ]
+  }
+]

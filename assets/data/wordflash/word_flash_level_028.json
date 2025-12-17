@@ -1,0 +1,772 @@
+[
+  {
+    "word": "fish",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A limbless cold-blooded vertebrate animal with gills and fins.",
+        "meaning_zh_TW": "魚",
+        "wrong_meaning_zh_TW": [
+          "爬蟲類",
+          "哺乳動物",
+          "昆蟲"
+        ],
+        "examples": [
+          {
+            "sentence": "I caught a big [fish] today.",
+            "translation_zh_TW": "我今天釣到一條大[魚]。"
+          },
+          {
+            "sentence": "The aquarium is full of colorful [fish].",
+            "translation_zh_TW": "水族館裡充滿了色彩繽紛的[魚]。"
+          },
+          {
+            "sentence": "Do you like to eat [fish]?",
+            "translation_zh_TW": "你喜歡吃[魚]嗎？"
+          }
+        ],
+        "synonyms": [
+          "seafood",
+          "catch"
+        ]
+      }
+    ],
+    "confusion": [
+      "flesh",
+      "fissure",
+      "fist",
+      "fished"
+    ]
+  },
+  {
+    "word": "eye",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The organ of vision; the faculty of seeing.",
+        "meaning_zh_TW": "眼睛、視力",
+        "wrong_meaning_zh_TW": [
+          "耳朵",
+          "嘴巴",
+          "手"
+        ],
+        "examples": [
+          {
+            "sentence": "She has beautiful [eyes] that sparkle.",
+            "translation_zh_TW": "她的眼睛閃閃發光，十分漂亮。"
+          },
+          {
+            "sentence": "He caught her [eye] across the crowded room.",
+            "translation_zh_TW": "他在擁擠的房間裡注意到了她的眼神。"
+          },
+          {
+            "sentence": "Close your [eyes] and relax.",
+            "translation_zh_TW": "閉上眼睛，放鬆。"
+          }
+        ],
+        "synonyms": [
+          "sight",
+          "vision"
+        ]
+      }
+    ],
+    "confusion": [
+      "aye",
+      "ice",
+      "aye-aye",
+      "ewe"
+    ]
+  },
+  {
+    "word": "string",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin piece of material, typically used for tying or fastening things.",
+        "meaning_zh_TW": "繩子",
+        "wrong_meaning_zh_TW": [
+          "線",
+          "織物",
+          "帶子"
+        ],
+        "examples": [
+          {
+            "sentence": "She used a [string] to tie the package.",
+            "translation_zh_TW": "她用一根繩子把包裹綁起來。"
+          },
+          {
+            "sentence": "The kite was held up by a long [string].",
+            "translation_zh_TW": "風箏是用一根長繩子固定的。"
+          },
+          {
+            "sentence": "He played a tune on the [string] instrument.",
+            "translation_zh_TW": "他在弦樂器上演奏了一首曲子。"
+          }
+        ],
+        "synonyms": [
+          "cord",
+          "twine"
+        ]
+      }
+    ],
+    "confusion": [
+      "stirng",
+      "sting",
+      "strang",
+      "stringed"
+    ]
+  },
+  {
+    "word": "pack",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To fill a container with items, usually for transport or storage.",
+        "meaning_zh_TW": "打包、裝箱",
+        "wrong_meaning_zh_TW": [
+          "出包",
+          "洗包",
+          "退包"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [pack] my suitcase for the trip.",
+            "translation_zh_TW": "我需要為這次旅行打包我的行李。"
+          },
+          {
+            "sentence": "They [pack] the food neatly into boxes.",
+            "translation_zh_TW": "他們把食物整齊地裝進箱子裡。"
+          },
+          {
+            "sentence": "She will [pack] her books into the backpack.",
+            "translation_zh_TW": "她會把書裝進背包裡。"
+          }
+        ],
+        "synonyms": [
+          "fill",
+          "load"
+        ]
+      }
+    ],
+    "confusion": [
+      "peck",
+      "pact",
+      "packt",
+      "pock"
+    ]
+  },
+  {
+    "word": "born",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come into existence as a result of birth.",
+        "meaning_zh_TW": "出生",
+        "wrong_meaning_zh_TW": [
+          "創造",
+          "研發",
+          "發生"
+        ],
+        "examples": [
+          {
+            "sentence": "She was [born] in 1995.",
+            "translation_zh_TW": "她在1995年出生。"
+          },
+          {
+            "sentence": "He was [born] with a natural talent for music.",
+            "translation_zh_TW": "他天生就有音樂才華。"
+          },
+          {
+            "sentence": "They were [born] into a wealthy family.",
+            "translation_zh_TW": "他們出生在一個富裕的家庭。"
+          }
+        ],
+        "synonyms": [
+          "delivered",
+          "brought into the world"
+        ]
+      }
+    ],
+    "confusion": [
+      "bore",
+      "borne",
+      "barn",
+      "borned"
+    ]
+  },
+  {
+    "word": "race",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A competition of speed.",
+        "meaning_zh_TW": "比賽、賽跑",
+        "wrong_meaning_zh_TW": [
+          "社會、階級",
+          "品種、類型",
+          "物種、分類"
+        ],
+        "examples": [
+          {
+            "sentence": "The [race] was exciting and very close.",
+            "translation_zh_TW": "這場比賽令人興奮且非常接近。"
+          },
+          {
+            "sentence": "She finished first in the [race].",
+            "translation_zh_TW": "她在這場比賽中獲得第一名。"
+          },
+          {
+            "sentence": "They are training hard for the upcoming [race].",
+            "translation_zh_TW": "他們在為即將到來的比賽而努力訓練。"
+          }
+        ],
+        "synonyms": [
+          "competition",
+          "contest",
+          "event"
+        ]
+      }
+    ],
+    "confusion": [
+      "rase",
+      "racy",
+      "ricer",
+      "rake"
+    ]
+  },
+  {
+    "word": "except",
+    "meanings": [
+      {
+        "type": "介詞",
+        "meaning_en_US": "Excluding; not including.",
+        "meaning_zh_TW": "除了",
+        "wrong_meaning_zh_TW": [
+          "包含、包括",
+          "選擇、挑選",
+          "加入、收錄"
+        ],
+        "examples": [
+          {
+            "sentence": "Everyone was invited [except] John.",
+            "translation_zh_TW": "除了約翰，所有人都受邀。"
+          },
+          {
+            "sentence": "I eat all fruits [except] bananas.",
+            "translation_zh_TW": "我吃所有的水果，除了香蕉。"
+          },
+          {
+            "sentence": "He works every day [except] Sunday.",
+            "translation_zh_TW": "他每天都工作，除了星期天。"
+          }
+        ],
+        "synonyms": [
+          "excluding",
+          "besides"
+        ]
+      }
+    ],
+    "confusion": [
+      "accept",
+      "excepting",
+      "excel",
+      "exepct"
+    ]
+  },
+  {
+    "word": "ability",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The possession of the means or skill to do something.",
+        "meaning_zh_TW": "能力",
+        "wrong_meaning_zh_TW": [
+          "責任",
+          "計畫",
+          "狀態"
+        ],
+        "examples": [
+          {
+            "sentence": "She has the [ability] to solve complex problems.",
+            "translation_zh_TW": "她有解決複雜問題的能力。"
+          },
+          {
+            "sentence": "His [ability] to communicate effectively is impressive.",
+            "translation_zh_TW": "他有效溝通的能力讓人印象深刻。"
+          },
+          {
+            "sentence": "You should develop your [ability] to adapt to change.",
+            "translation_zh_TW": "你應該培養適應變化的能力。"
+          }
+        ],
+        "synonyms": [
+          "capability",
+          "技能"
+        ]
+      }
+    ],
+    "confusion": [
+      "abilty",
+      "abilitye",
+      "abilty",
+      "abillity"
+    ]
+  },
+  {
+    "word": "maybe",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Perhaps; it is possible.",
+        "meaning_zh_TW": "也許",
+        "wrong_meaning_zh_TW": [
+          "確定",
+          "不會",
+          "必然"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [maybe] go to the party.",
+            "translation_zh_TW": "我可能會去派對"
+          },
+          {
+            "sentence": "[Maybe] we can try again tomorrow.",
+            "translation_zh_TW": "或許我們明天可以再試一次"
+          },
+          {
+            "sentence": "She said she would [maybe] call later.",
+            "translation_zh_TW": "她說她可能稍後會打電話"
+          }
+        ],
+        "synonyms": [
+          "perhaps",
+          "possibly"
+        ]
+      }
+    ],
+    "confusion": [
+      "maybee",
+      "mabe",
+      "mayby",
+      "mabye"
+    ]
+  },
+  {
+    "word": "pretty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Attractive in a delicate way without being truly beautiful.",
+        "meaning_zh_TW": "漂亮的",
+        "wrong_meaning_zh_TW": [
+          "醜陋的",
+          "粗糙的",
+          "無趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [pretty] dress to the party.",
+            "translation_zh_TW": "她在派對上穿著一件漂亮的裙子。"
+          },
+          {
+            "sentence": "The garden is filled with [pretty] flowers.",
+            "translation_zh_TW": "花園裡滿是漂亮的花。"
+          },
+          {
+            "sentence": "It was a [pretty] good movie, surprisingly.",
+            "translation_zh_TW": "這是一部相當不錯的電影，讓人驚訝。"
+          }
+        ],
+        "synonyms": [
+          "attractive",
+          "charming"
+        ]
+      }
+    ],
+    "confusion": [
+      "pity",
+      "prettyf",
+      "prettie",
+      "prity"
+    ]
+  },
+  {
+    "word": "winter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The coldest season of the year, occurring between autumn and spring.",
+        "meaning_zh_TW": "冬天",
+        "wrong_meaning_zh_TW": [
+          "夏天",
+          "春天",
+          "梧桐"
+        ],
+        "examples": [
+          {
+            "sentence": "Snow often falls in [winter].",
+            "translation_zh_TW": "雪通常在冬天降下"
+          },
+          {
+            "sentence": "People wear heavy coats in [winter].",
+            "translation_zh_TW": "人們在冬天穿厚外套"
+          },
+          {
+            "sentence": "The days are shorter in [winter].",
+            "translation_zh_TW": "冬天的日子更短"
+          }
+        ],
+        "synonyms": [
+          "cold season",
+          "frosty season"
+        ]
+      }
+    ],
+    "confusion": [
+      "winder",
+      "winner",
+      "whiner",
+      "wintery"
+    ]
+  },
+  {
+    "word": "medium",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A means by which something is communicated or expressed.",
+        "meaning_zh_TW": "媒介",
+        "wrong_meaning_zh_TW": [
+          "大型",
+          "小型",
+          "重型"
+        ],
+        "examples": [
+          {
+            "sentence": "Television is an effective [medium] for advertising.",
+            "translation_zh_TW": "電視是一個有效的廣告媒介。"
+          },
+          {
+            "sentence": "Art can be expressed through different [mediums].",
+            "translation_zh_TW": "藝術可以通過不同的媒介來表達。"
+          },
+          {
+            "sentence": "He prefers using digital [medium] for his illustrations.",
+            "translation_zh_TW": "他偏好使用數位媒介來進行插圖。"
+          }
+        ],
+        "synonyms": [
+          "method",
+          "medium of exchange"
+        ]
+      }
+    ],
+    "confusion": [
+      "mediam",
+      "medion",
+      "meddium",
+      "media"
+    ]
+  },
+  {
+    "word": "television",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that receives broadcast signals and displays them as visual images.",
+        "meaning_zh_TW": "電視",
+        "wrong_meaning_zh_TW": [
+          "電話",
+          "傳真機",
+          "播音器"
+        ],
+        "examples": [
+          {
+            "sentence": "They watched their favorite show on the [television].",
+            "translation_zh_TW": "他們在電視上看他們最喜歡的節目。"
+          },
+          {
+            "sentence": "The [television] screen was too small to see clearly.",
+            "translation_zh_TW": "電視屏幕太小，無法清楚看到。"
+          },
+          {
+            "sentence": "She turned off the [television] after the news.",
+            "translation_zh_TW": "新聞結束後，她關掉了電視。"
+          }
+        ],
+        "synonyms": [
+          "TV",
+          "screen"
+        ]
+      }
+    ],
+    "confusion": [
+      "telekinesis",
+      "telegraph",
+      "telescope",
+      "telemarketing"
+    ]
+  },
+  {
+    "word": "interested",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having an attention or concern about something.",
+        "meaning_zh_TW": "感興趣的",
+        "wrong_meaning_zh_TW": [
+          "無聊的",
+          "忙碌的",
+          "不感興趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [interested] in learning new languages.",
+            "translation_zh_TW": "我對學習新語言[感興趣]。"
+          },
+          {
+            "sentence": "She seems very [interested] in art.",
+            "translation_zh_TW": "她似乎對藝術非常[感興趣]。"
+          },
+          {
+            "sentence": "Are you [interested] in joining the club?",
+            "translation_zh_TW": "你對加入這個俱樂部[感興趣]嗎？"
+          }
+        ],
+        "synonyms": [
+          "curious",
+          "engaged"
+        ]
+      }
+    ],
+    "confusion": [
+      "interesting",
+      "interject",
+      "internal",
+      "interstate"
+    ]
+  },
+  {
+    "word": "break",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To separate into pieces or cause to come apart.",
+        "meaning_zh_TW": "打破",
+        "wrong_meaning_zh_TW": [
+          "合併",
+          "保持",
+          "修復"
+        ],
+        "examples": [
+          {
+            "sentence": "Please be careful not to [break] the glass.",
+            "translation_zh_TW": "請小心不要打破玻璃。"
+          },
+          {
+            "sentence": "He [broke] the record with his new performance.",
+            "translation_zh_TW": "他以新的表現打破了紀錄。"
+          },
+          {
+            "sentence": "Don't [break] your promise.",
+            "translation_zh_TW": "不要打破你的承諾。"
+          }
+        ],
+        "synonyms": [
+          "shatter",
+          "fracture"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "An interruption or pause in an activity.",
+        "meaning_zh_TW": "休息",
+        "wrong_meaning_zh_TW": [
+          "加班",
+          "運動",
+          "工作"
+        ],
+        "examples": [
+          {
+            "sentence": "Let's take a short [break] after the meeting.",
+            "translation_zh_TW": "會議後我們休息一下。"
+          },
+          {
+            "sentence": "She decided to have a [break] from her studies.",
+            "translation_zh_TW": "她決定從學業中休息一下。"
+          },
+          {
+            "sentence": "A coffee [break] can help refresh your mind.",
+            "translation_zh_TW": "咖啡休息可以幫助清醒思緒。"
+          }
+        ],
+        "synonyms": [
+          "pause",
+          "intermission"
+        ]
+      }
+    ],
+    "confusion": [
+      "brake",
+      "bake",
+      "breaks",
+      "broke"
+    ]
+  },
+  {
+    "word": "dance",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move the body rhythmically, often to music.",
+        "meaning_zh_TW": "跳舞",
+        "wrong_meaning_zh_TW": [
+          "靜止",
+          "走路",
+          "爬行"
+        ],
+        "examples": [
+          {
+            "sentence": "They like to [dance] at parties.",
+            "translation_zh_TW": "他們喜歡在派對上跳舞。"
+          },
+          {
+            "sentence": "She learned to [dance] when she was young.",
+            "translation_zh_TW": "她從小就學會了跳舞。"
+          },
+          {
+            "sentence": "Let's [dance] to our favorite song.",
+            "translation_zh_TW": "讓我們隨著我們最喜歡的歌曲跳舞。"
+          }
+        ],
+        "synonyms": [
+          "boogie",
+          "tap"
+        ]
+      }
+    ],
+    "confusion": [
+      "dancer",
+      "danced",
+      "dances",
+      "chance"
+    ]
+  },
+  {
+    "word": "dark",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "With little or no light.",
+        "meaning_zh_TW": "黑暗的",
+        "wrong_meaning_zh_TW": [
+          "明亮的",
+          "透明的",
+          "清晰的"
+        ],
+        "examples": [
+          {
+            "sentence": "The room was too [dark] to see anything.",
+            "translation_zh_TW": "房間太黑暗了，什麼都看不見。"
+          },
+          {
+            "sentence": "She felt scared in the [dark].",
+            "translation_zh_TW": "她在黑暗中感到害怕。"
+          },
+          {
+            "sentence": "The sky turned [dark] before the storm.",
+            "translation_zh_TW": "暴風雨來臨之前天空變得黑暗。"
+          }
+        ],
+        "synonyms": [
+          "dim",
+          "gloomy"
+        ]
+      }
+    ],
+    "confusion": [
+      "bark",
+      "mark",
+      "dare",
+      "park"
+    ]
+  },
+  {
+    "word": "apple",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A round fruit of a tree of the rose family, typically having a green, red, or yellow skin.",
+        "meaning_zh_TW": "蘋果",
+        "wrong_meaning_zh_TW": [
+          "香蕉",
+          "橘子",
+          "葡萄"
+        ],
+        "examples": [
+          {
+            "sentence": "She took a bite of the [apple].",
+            "translation_zh_TW": "她咬了一口[蘋果]。"
+          },
+          {
+            "sentence": "I bought fresh [apples] from the market.",
+            "translation_zh_TW": "我在市場上買了新鮮的[蘋果]。"
+          },
+          {
+            "sentence": "An [apple] a day keeps the doctor away.",
+            "translation_zh_TW": "一天一個[蘋果]，醫生遠離我。"
+          }
+        ],
+        "synonyms": [
+          "fruit",
+          "orchard fruit"
+        ]
+      }
+    ],
+    "confusion": [
+      "apples",
+      "maple",
+      "ample",
+      "upple"
+    ]
+  },
+  {
+    "word": "enjoy",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take pleasure or satisfaction in something.",
+        "meaning_zh_TW": "享受",
+        "wrong_meaning_zh_TW": [
+          "痛苦",
+          "避免",
+          "忽視"
+        ],
+        "examples": [
+          {
+            "sentence": "I really [enjoy] reading books.",
+            "translation_zh_TW": "我真的很享受閱讀書籍。"
+          },
+          {
+            "sentence": "They [enjoy] going out for dinner.",
+            "translation_zh_TW": "他們享受外出用餐。"
+          },
+          {
+            "sentence": "She [enjoys] traveling to new places.",
+            "translation_zh_TW": "她享受去新地方旅行。"
+          }
+        ],
+        "synonyms": [
+          "relish",
+          "appreciate"
+        ]
+      }
+    ],
+    "confusion": [
+      "enjoi",
+      "enjoiy",
+      "enjyo",
+      "enijoy"
+    ]
+  }
+]

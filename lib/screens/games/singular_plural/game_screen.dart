@@ -1,0 +1,548 @@
+import 'dart:convert';
+import 'package:confetti/confetti.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import '../../../models/story_level.dart';
+
+class Word {
+  final String text;
+  final int index;
+  final bool isNoun;
+  final String singularForm;
+  final String pluralForm;
+  final String correctForm;
+  final bool isSpace;
+  final bool isPunctuation;
+
+  Word({
+    required this.text,
+    required this.index,
+    required this.isNoun,
+    required this.singularForm,
+    required this.pluralForm,
+    required this.correctForm,
+    this.isSpace = false,
+    this.isPunctuation = false,
+  });
+}
+
+class SingularPluralGameScreen extends StatefulWidget {
+  final int levelIndex;
+
+  const SingularPluralGameScreen({super.key, required this.levelIndex});
+
+  @override
+  State<SingularPluralGameScreen> createState() =>
+      _SingularPluralGameScreenState();
+}
+
+class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
+  List<Word> _words = [];
+  Map<int, String> _playerSelections = {};
+  Map<int, String> _correctAnswers = {};
+
+  bool _isLoading = true;
+  bool _showResults = false;
+  int _correctCount = 0;
+  int _errorCount = 0;
+  int _scorePercentage = 0;
+
+  StoryLevel? _story;
+  late ConfettiController _confettiController;
+
+  // Explanation
+  String? _currentExplanationLanguage; // 'en-US' or 'zh-TW'
+
+  @override
+  void initState() {
+    super.initState();
+    _confettiController = ConfettiController(
+      duration: const Duration(seconds: 2),
+    );
+    _loadLevel();
+  }
+
+  @override
+  void dispose() {
+    _confettiController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _loadLevel() async {
+    try {
+      final String response = await rootBundle.loadString(
+        'assets/data/singular.json',
+      );
+      final List<dynamic> data = json.decode(response);
+
+      if (widget.levelIndex >= 0 && widget.levelIndex < data.length) {
+        _story = StoryLevel.fromJson(data[widget.levelIndex]);
+        _processText(_story!.content);
+      }
+
+      setState(() {
+        _isLoading = false;
+      });
+    } catch (e) {
+      debugPrint('Error loading level: $e');
+      setState(() {
+        _isLoading = false;
+      });
+    }
+  }
+
+  void _processText(String text) {
+    List<Word> words = [];
+    int currentIndex = 0;
+
+    // Regex logic from React: split by /(\[[^\]]+\]|\s+)/
+    // Dart split keeps delimiters if using lookahead/lookbehind or if we manually implemented.
+    // simpler: RegExp(r'(\[[^\]]+\]|\s+)') and use `allMatches` or similar.
+
+    final RegExp exp = RegExp(r'(\[[^\]]+\]|\s+|[^\[\s]+)');
+    final matches = exp.allMatches(text);
+
+    for (final match in matches) {
+      String part = match.group(0)!;
+      if (part.isEmpty) continue;
+
+      if (part.startsWith('[') && part.endsWith(']')) {
+        // Noun block [singular|plural] or [singular-plural]
+        String content = part.substring(1, part.length - 1); // remove [ ]
+        List<String> forms = content.split(RegExp(r'[-|]'));
+        if (forms.length >= 2) {
+          String singular = forms[0];
+          String plural = forms[1];
+          String separator = content.contains('|') ? '|' : '-';
+          String correctForm = separator == '|'
+              ? singular
+              : content; // Logic from React: if |, correct is first? No wait.
+
+          /*
+             React Logic:
+             const [singular, plural] = part.slice(1, -1).split(/[-|]/);
+             const separator = part.slice(1, -1).includes('|') ? '|' : '-';
+             const correctForm = separator === '|' ? singular : part.slice(1, -1);
+             
+             Wait, if sep is '|', correctForm IS singular?
+             Checking explanation: [forest|forests] -> correct is forest.
+             So yes, if |, the first one is correct.
+             If '-', both might be acceptable forms in the UI? 
+             React Check Logic:
+             if (isHyphenSeparator) {
+                // ... formatBothCorrect ...
+                score.correct++;
+             } else if (word.text === word.correctForm) {
+                // ...
+             }
+           */
+
+          // Initial Display
+          // React: const showWrongForm = separator === '|' && Math.random() < 0.67;
+          // const initialForm = showWrongForm ? plural : singular;
+          // We'll mimic this or just randomize.
+          bool showWrong =
+              separator == '|' &&
+              (DateTime.now().millisecondsSinceEpoch % 3 != 0); // approx 66%
+          String initialText = showWrong ? plural : singular;
+
+          words.add(
+            Word(
+              text: initialText,
+              index: currentIndex,
+              isNoun: true,
+              singularForm: singular,
+              pluralForm: plural,
+              correctForm: correctForm,
+            ),
+          );
+
+          if (separator == '|') {
+            _correctAnswers[currentIndex] = singular;
+          } else {
+            _correctAnswers[currentIndex] = "BOTH"; // Special marker
+          }
+
+          currentIndex++;
+        }
+      } else if (RegExp(r'^\s+$').hasMatch(part)) {
+        words.add(
+          Word(
+            text: part,
+            index: currentIndex++,
+            isNoun: false,
+            singularForm: '',
+            pluralForm: '',
+            correctForm: '',
+            isSpace: true,
+          ),
+        );
+      } else {
+        // Regular text. May contain punctuation at end.
+        // React matches /^(.*?)([.,!?]*)$/
+        final matchPunc = RegExp(r'^(.*?)([.,!?]*)$').firstMatch(part);
+        if (matchPunc != null) {
+          String wordText = matchPunc.group(1) ?? '';
+          String puncText = matchPunc.group(2) ?? '';
+
+          if (wordText.isNotEmpty) {
+            words.add(
+              Word(
+                text: wordText,
+                index: currentIndex++,
+                isNoun: false,
+                singularForm: wordText,
+                pluralForm: wordText,
+                correctForm: wordText,
+              ),
+            );
+          }
+          if (puncText.isNotEmpty) {
+            words.add(
+              Word(
+                text: puncText,
+                index: currentIndex++,
+                isNoun: false,
+                singularForm: puncText,
+                pluralForm: puncText,
+                correctForm: puncText,
+                isPunctuation: true,
+              ),
+            );
+          }
+        }
+      }
+    }
+
+    setState(() {
+      _words = words;
+      _playerSelections = {};
+    });
+  }
+
+  void _handleWordClick(int index) {
+    if (_showResults) return;
+
+    // Find word
+    final word = _words.firstWhere((w) => w.index == index);
+    if (!word.isNoun) return;
+
+    // Toggle
+    String current =
+        _playerSelections[index] ?? word.text; // initially displayed text
+    String next = (current == word.singularForm)
+        ? word.pluralForm
+        : word.singularForm;
+
+    setState(() {
+      _playerSelections[index] = next;
+    });
+
+    // "Pop" effect could be done with animation, but simple state change for now.
+    _confettiController.play();
+  }
+
+  Future<void> _checkAnswers() async {
+    int correct = 0;
+    int error = 0;
+
+    for (var word in _words) {
+      if (word.isNoun) {
+        String selected = _playerSelections[word.index] ?? word.text;
+        String correctAns = _correctAnswers[word.index] ?? '';
+
+        if (correctAns == "BOTH") {
+          correct++;
+        } else {
+          if (selected == correctAns) {
+            correct++;
+          } else {
+            error++;
+          }
+        }
+      }
+    }
+
+    int total = correct + error;
+    int percentage = total > 0 ? ((correct / total) * 100).round() : 0;
+
+    setState(() {
+      _correctCount = correct;
+      _errorCount = error;
+      _scorePercentage = percentage;
+      _showResults = true;
+    });
+
+    // Save progress
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(
+      'singular-plural-${widget.levelIndex}',
+      percentage.toString(),
+    );
+
+    if (percentage == 100) {
+      _confettiController.play();
+    }
+  }
+
+  void _reset() {
+    setState(() {
+      _showResults = false;
+      _playerSelections = {};
+
+      // Re-randomize?
+      if (_story != null) {
+        _processText(_story!.content);
+      }
+      _currentExplanationLanguage = null;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_isLoading)
+      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    if (_story == null)
+      return const Scaffold(body: Center(child: Text("Level not found")));
+
+    return Scaffold(
+      appBar: AppBar(title: Text(_story!.title)),
+      body: Stack(
+        children: [
+          Column(
+            children: [
+              Expanded(
+                child: SingleChildScrollView(
+                  padding: const EdgeInsets.all(24),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      Wrap(
+                        children: _words.map((word) {
+                          if (word.isSpace) return const Text(' ');
+
+                          bool isSelected = _playerSelections.containsKey(
+                            word.index,
+                          );
+                          String displayText =
+                              _playerSelections[word.index] ?? word.text;
+
+                          Color textColor = Colors.black;
+                          TextDecoration? decoration;
+
+                          if (word.isNoun) {
+                            textColor = Colors.blue.shade700;
+                            decoration = TextDecoration.underline;
+
+                            if (_showResults) {
+                              String correctAns =
+                                  _correctAnswers[word.index] ?? '';
+                              if (correctAns == "BOTH") {
+                                textColor = Colors.blue;
+                                displayText =
+                                    "${word.singularForm}/${word.pluralForm}";
+                                decoration = null;
+                              } else {
+                                if (displayText == correctAns) {
+                                  textColor = Colors.green;
+                                  decoration = null;
+                                } else {
+                                  textColor = Colors.red;
+                                  decoration = TextDecoration.lineThrough;
+                                  // For wrong answers, we usually append correct one, but simpler to just show red for now
+                                  // React does: <span red strike>selected</span> <span blue>correct</span>
+                                }
+                              }
+                            }
+                          }
+
+                          // Noun Widget
+                          if (word.isNoun) {
+                            if (_showResults &&
+                                _correctAnswers[word.index] != "BOTH" &&
+                                displayText != _correctAnswers[word.index]) {
+                              // Wrong Answer Display
+                              return Container(
+                                margin: const EdgeInsets.symmetric(
+                                  horizontal: 2,
+                                ),
+                                child: Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    Text(
+                                      displayText,
+                                      style: TextStyle(
+                                        fontSize: 18,
+                                        color: Colors.red,
+                                        decoration: TextDecoration.lineThrough,
+                                      ),
+                                    ),
+                                    const SizedBox(width: 4),
+                                    Text(
+                                      _correctAnswers[word.index]!,
+                                      style: const TextStyle(
+                                        fontSize: 18,
+                                        color: Colors.green,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              );
+                            }
+
+                            return GestureDetector(
+                              onTap: () => _handleWordClick(word.index),
+                              child: Container(
+                                margin: const EdgeInsets.symmetric(
+                                  horizontal: 2,
+                                ),
+                                padding: const EdgeInsets.symmetric(
+                                  horizontal: 2,
+                                  vertical: 2,
+                                ),
+                                decoration: BoxDecoration(
+                                  color: isSelected && !_showResults
+                                      ? Colors.blue.shade50
+                                      : null,
+                                  borderRadius: BorderRadius.circular(4),
+                                ),
+                                child: Text(
+                                  displayText,
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    color: textColor,
+                                    decoration: decoration,
+                                    fontWeight: word.isNoun
+                                        ? FontWeight.w500
+                                        : FontWeight.normal,
+                                  ),
+                                ),
+                              ),
+                            );
+                          }
+
+                          // Normal Word
+                          return Text(
+                            word.text,
+                            style: const TextStyle(fontSize: 18, height: 1.6),
+                          );
+                        }).toList(),
+                      ),
+                      const SizedBox(height: 32),
+
+                      if (_showResults) ...[
+                        Container(
+                          padding: const EdgeInsets.all(16),
+                          decoration: BoxDecoration(
+                            color: Colors.grey.shade100,
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          child: Column(
+                            children: [
+                              Text(
+                                "Score: $_scorePercentage%",
+                                style: const TextStyle(
+                                  fontSize: 24,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              const SizedBox(height: 8),
+                              Text(
+                                "Correct: $_correctCount, Wrong: $_errorCount",
+                              ),
+                              const SizedBox(height: 16),
+                              Wrap(
+                                alignment: WrapAlignment.center,
+                                spacing: 12,
+                                runSpacing: 8,
+                                children: [
+                                  ElevatedButton(
+                                    onPressed: _reset,
+                                    child: const Text('Try Again'),
+                                  ),
+                                  ElevatedButton(
+                                    onPressed: () {
+                                      setState(() {
+                                        _currentExplanationLanguage =
+                                            (_currentExplanationLanguage ==
+                                                'en-US')
+                                            ? null
+                                            : 'en-US';
+                                      });
+                                    },
+                                    child: const Text('English Explanation'),
+                                  ),
+                                  ElevatedButton(
+                                    onPressed: () {
+                                      setState(() {
+                                        _currentExplanationLanguage =
+                                            (_currentExplanationLanguage ==
+                                                'zh-TW')
+                                            ? null
+                                            : 'zh-TW';
+                                      });
+                                    },
+                                    child: const Text('中文解說'),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                        if (_currentExplanationLanguage != null) ...[
+                          const SizedBox(height: 24),
+                          MarkdownBody(
+                            data: _currentExplanationLanguage == 'en-US'
+                                ? _story!.explanationEnUs
+                                : _story!.explanationZhTw,
+                            selectable: true,
+                          ),
+                        ],
+                      ],
+                    ],
+                  ),
+                ),
+              ),
+              if (!_showResults)
+                Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    boxShadow: [
+                      BoxShadow(blurRadius: 10, color: Colors.black12),
+                    ],
+                  ),
+                  child: SizedBox(
+                    width: double.infinity,
+                    child: ElevatedButton(
+                      onPressed: _checkAnswers,
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        backgroundColor: Colors.indigo,
+                        foregroundColor: Colors.white,
+                      ),
+                      child: const Text(
+                        'Check Answers',
+                        style: TextStyle(fontSize: 18),
+                      ),
+                    ),
+                  ),
+                ),
+            ],
+          ),
+          Align(
+            alignment: Alignment.topCenter,
+            child: ConfettiWidget(
+              confettiController: _confettiController,
+              blastDirectionality: BlastDirectionality.explosive,
+              shouldLoop: false,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

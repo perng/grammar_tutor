@@ -1,0 +1,758 @@
+[
+  {
+    "word": "sixteen",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number equivalent to the sum of one and fifteen; 16.",
+        "meaning_zh_TW": "十六",
+        "wrong_meaning_zh_TW": [
+          "十七",
+          "十五",
+          "二十"
+        ],
+        "examples": [
+          {
+            "sentence": "I turned [sixteen] last month.",
+            "translation_zh_TW": "我上個月滿了十六歲。"
+          },
+          {
+            "sentence": "There are [sixteen] players in the game.",
+            "translation_zh_TW": "比賽中有十六名球員。"
+          },
+          {
+            "sentence": "The building has [sixteen] floors.",
+            "translation_zh_TW": "這棟建築有十六層樓。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "sixten",
+      "sixteen",
+      "sixtee",
+      "sixte"
+    ]
+  },
+  {
+    "word": "tenth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "One part of something divided into ten equal parts.",
+        "meaning_zh_TW": "第十",
+        "wrong_meaning_zh_TW": [
+          "第五",
+          "第九",
+          "第七"
+        ],
+        "examples": [
+          {
+            "sentence": "He finished in [tenth] place in the race.",
+            "translation_zh_TW": "他在比賽中名列第十"
+          },
+          {
+            "sentence": "A [tenth] of the cake is left.",
+            "translation_zh_TW": "蛋糕剩下十分之一"
+          },
+          {
+            "sentence": "She scored a [tenth] of the total points.",
+            "translation_zh_TW": "她得到了總分的十分之一"
+          }
+        ],
+        "synonyms": [
+          "1/10",
+          "decima"
+        ]
+      }
+    ],
+    "confusion": [
+      "twenth",
+      "teeth",
+      "tenthly",
+      "tenths"
+    ]
+  },
+  {
+    "word": "thirteen",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number equivalent to the sum of three and ten; 13.",
+        "meaning_zh_TW": "十三",
+        "wrong_meaning_zh_TW": [
+          "十二",
+          "十四",
+          "十"
+        ],
+        "examples": [
+          {
+            "sentence": "I have [thirteen] apples in the basket.",
+            "translation_zh_TW": "我在籃子裡有十三個蘋果。"
+          },
+          {
+            "sentence": "She was [thirteen] years old when she learned to ride a bike.",
+            "translation_zh_TW": "她十三歲時學會了騎自行車。"
+          },
+          {
+            "sentence": "The team won by [thirteen] points.",
+            "translation_zh_TW": "該隊以十三分的優勢獲勝。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "thirtheen",
+      "thirteen",
+      "thirtn",
+      "thirteenn"
+    ]
+  },
+  {
+    "word": "eighteen",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number following seventeen and preceding nineteen.",
+        "meaning_zh_TW": "十八",
+        "wrong_meaning_zh_TW": [
+          "十七",
+          "十九",
+          "二十"
+        ],
+        "examples": [
+          {
+            "sentence": "She turned [eighteen] last month.",
+            "translation_zh_TW": "她上個月滿了十八歲。"
+          },
+          {
+            "sentence": "There are [eighteen] students in the class.",
+            "translation_zh_TW": "班上有十八名學生。"
+          },
+          {
+            "sentence": "He will be eligible to vote when he turns [eighteen].",
+            "translation_zh_TW": "當他滿十八歲時就可以投票。"
+          }
+        ],
+        "synonyms": [
+          "18",
+          "eighteen years"
+        ]
+      }
+    ],
+    "confusion": [
+      "eighteens",
+      "eight",
+      "eighteeneth",
+      "eighten"
+    ]
+  },
+  {
+    "word": "fourteen",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equivalent to the sum of three and eleven.",
+        "meaning_zh_TW": "十四",
+        "wrong_meaning_zh_TW": [
+          "十三",
+          "十六",
+          "五十"
+        ],
+        "examples": [
+          {
+            "sentence": "I will turn [fourteen] next month.",
+            "translation_zh_TW": "我下個月就滿十四歲了"
+          },
+          {
+            "sentence": "There are [fourteen] days in the two-week period.",
+            "translation_zh_TW": "兩週中有十四天"
+          },
+          {
+            "sentence": "He scored [fourteen] points in the game.",
+            "translation_zh_TW": "他在比賽中得了十四分"
+          }
+        ],
+        "synonyms": [
+          "四",
+          "十以及四"
+        ]
+      }
+    ],
+    "confusion": [
+      "forteen",
+      "fourty",
+      "fourth",
+      "fourteens"
+    ]
+  },
+  {
+    "word": "teenager",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person aged between 13 and 19 years old.",
+        "meaning_zh_TW": "青少年",
+        "wrong_meaning_zh_TW": [
+          "嬰兒",
+          "中年人",
+          "老人"
+        ],
+        "examples": [
+          {
+            "sentence": "As a [teenager], he faced many challenges.",
+            "translation_zh_TW": "作為一名青少年，他面臨著許多挑戰。"
+          },
+          {
+            "sentence": "The festival is popular among [teenagers].",
+            "translation_zh_TW": "這個節日在青少年中很受歡迎。"
+          },
+          {
+            "sentence": "Every [teenager] wants to fit in with their peers.",
+            "translation_zh_TW": "每個青少年都想融入同齡人中。"
+          }
+        ],
+        "synonyms": [
+          "youth",
+          "adolescent"
+        ]
+      }
+    ],
+    "confusion": [
+      "teenage",
+      "teenagerz",
+      "teenger",
+      "tean"
+    ]
+  },
+  {
+    "word": "housewife",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A married woman whose main occupation is managing the household and caring for children.",
+        "meaning_zh_TW": "家庭主婦",
+        "wrong_meaning_zh_TW": [
+          "單身女性",
+          "職業婦女",
+          "保姆"
+        ],
+        "examples": [
+          {
+            "sentence": "The [housewife] prepared dinner for her family.",
+            "translation_zh_TW": "家庭主婦為她的家人準備晚餐。"
+          },
+          {
+            "sentence": "Being a [housewife] can be very rewarding.",
+            "translation_zh_TW": "家庭主婦的生活可以非常有成就感。"
+          },
+          {
+            "sentence": "A [housewife] often manages the household budget.",
+            "translation_zh_TW": "家庭主婦經常負責家庭預算。"
+          }
+        ],
+        "synonyms": [
+          "homemaker",
+          "wife"
+        ]
+      }
+    ],
+    "confusion": [
+      "housewives",
+      "housewive",
+      "housewif",
+      "housewifes"
+    ]
+  },
+  {
+    "word": "popcorn",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A variety of corn that expands when heated and is eaten as a snack.",
+        "meaning_zh_TW": "爆米花",
+        "wrong_meaning_zh_TW": [
+          "爆米花機",
+          "鹽花",
+          "雞米花"
+        ],
+        "examples": [
+          {
+            "sentence": "We always make [popcorn] while watching movies.",
+            "translation_zh_TW": "我們在看電影時總是做爆米花。"
+          },
+          {
+            "sentence": "She loves caramel [popcorn] for snacks.",
+            "translation_zh_TW": "她喜歡吃焦糖爆米花作為零食。"
+          },
+          {
+            "sentence": "The [popcorn] was fresh and hot at the fair.",
+            "translation_zh_TW": "展覽會上爆米花是新鮮和熱的。"
+          }
+        ],
+        "synonyms": [
+          "corn",
+          "snack"
+        ]
+      }
+    ],
+    "confusion": [
+      "popcorn!",
+      "popped corn",
+      "popcon"
+    ]
+  },
+  {
+    "word": "supermarket",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large self-service store selling foods and other products.",
+        "meaning_zh_TW": "超級市場",
+        "wrong_meaning_zh_TW": [
+          "小商店",
+          "食品工廠",
+          "大型批發"
+        ],
+        "examples": [
+          {
+            "sentence": "I bought fruits and vegetables at the [supermarket].",
+            "translation_zh_TW": "我在超級市場買了水果和蔬菜。"
+          },
+          {
+            "sentence": "The [supermarket] is open 24 hours.",
+            "translation_zh_TW": "這家超級市場24小時營業。"
+          },
+          {
+            "sentence": "We need to go to the [supermarket] for supplies.",
+            "translation_zh_TW": "我們需要去超級市場購買日用品。"
+          }
+        ],
+        "synonyms": [
+          "grocery store",
+          "market"
+        ]
+      }
+    ],
+    "confusion": [
+      "superb market",
+      "supermaret",
+      "super mark",
+      "supermarketz"
+    ]
+  },
+  {
+    "word": "cellphone",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A portable telephone that uses wireless technology to send and receive calls.",
+        "meaning_zh_TW": "行動電話",
+        "wrong_meaning_zh_TW": [
+          "手機殼",
+          "無線網路",
+          "電腦"
+        ],
+        "examples": [
+          {
+            "sentence": "I forgot my [cellphone] at home.",
+            "translation_zh_TW": "我把行動電話忘在家裡了。"
+          },
+          {
+            "sentence": "She checked her [cellphone] for messages.",
+            "translation_zh_TW": "她查看了她的行動電話以查看消息。"
+          },
+          {
+            "sentence": "Using a [cellphone] during the meeting is rude.",
+            "translation_zh_TW": "在會議期間使用行動電話是不禮貌的。"
+          }
+        ],
+        "synonyms": [
+          "mobile phone",
+          "smartphone"
+        ]
+      }
+    ],
+    "confusion": [
+      "cell phone",
+      "cellphon",
+      "selphone"
+    ]
+  },
+  {
+    "word": "kite",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A lightweight framework covered with paper, cloth, or plastic, flown in the wind at the end of a long string.",
+        "meaning_zh_TW": "風箏",
+        "wrong_meaning_zh_TW": [
+          "鐵線",
+          "飛行器",
+          "垂釣"
+        ],
+        "examples": [
+          {
+            "sentence": "The child flew her [kite] high in the sky.",
+            "translation_zh_TW": "這個孩子把她的風箏放得高高的。"
+          },
+          {
+            "sentence": "We had fun flying our [kite] at the park.",
+            "translation_zh_TW": "我們在公園裡放風箏玩得很開心。"
+          },
+          {
+            "sentence": "It was a windy day, perfect for flying a [kite].",
+            "translation_zh_TW": "今天風大，非常適合放風箏。"
+          }
+        ],
+        "synonyms": [
+          "sail",
+          "tethered flyer"
+        ]
+      }
+    ],
+    "confusion": [
+      "kit",
+      "kites",
+      "kite!"
+    ]
+  },
+  {
+    "word": "nineteenth",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number following eighteenth and preceding twentieth.",
+        "meaning_zh_TW": "第十九",
+        "wrong_meaning_zh_TW": [
+          "第十五",
+          "第二十",
+          "第二十一次"
+        ],
+        "examples": [
+          {
+            "sentence": "The event is scheduled for the [nineteenth] of June.",
+            "translation_zh_TW": "活動定於六月十九日舉行。"
+          },
+          {
+            "sentence": "She finished in [nineteenth] place.",
+            "translation_zh_TW": "她以第十九名完成。"
+          },
+          {
+            "sentence": "The [nineteenth] century saw many changes.",
+            "translation_zh_TW": "十九世紀見證了許多變化。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "eighteenth",
+      "nineteen",
+      "ninetieth",
+      "nineteeenth"
+    ]
+  },
+  {
+    "word": "ruler",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A tool for measuring distances or drawing straight lines, usually marked with units of measurement.",
+        "meaning_zh_TW": "直尺",
+        "wrong_meaning_zh_TW": [
+          "圓規",
+          "剪刀",
+          "尺子"
+        ],
+        "examples": [
+          {
+            "sentence": "He measured the paper with a [ruler].",
+            "translation_zh_TW": "他用直尺測量紙張。"
+          },
+          {
+            "sentence": "I need a [ruler] to draw a straight line.",
+            "translation_zh_TW": "我需要一把直尺來畫直線。"
+          },
+          {
+            "sentence": "The [ruler] has both metric and imperial units.",
+            "translation_zh_TW": "這把直尺有公制和英制兩種單位。"
+          }
+        ],
+        "synonyms": [
+          "measuring stick",
+          "scale"
+        ]
+      }
+    ],
+    "confusion": [
+      "rullers",
+      "ruler",
+      "rueler",
+      "rollo"
+    ]
+  },
+  {
+    "word": "seventy",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number following sixty-nine and preceding seventy-one.",
+        "meaning_zh_TW": "七十",
+        "wrong_meaning_zh_TW": [
+          "一百",
+          "十五",
+          "五十"
+        ],
+        "examples": [
+          {
+            "sentence": "He is turning [seventy] next week.",
+            "translation_zh_TW": "他下周將滿七十歲。"
+          },
+          {
+            "sentence": "The temperature reached [seventy] degrees.",
+            "translation_zh_TW": "氣溫達到七十度。"
+          },
+          {
+            "sentence": "[Seventy] years ago, this city was founded.",
+            "translation_zh_TW": "七十年前，這座城市成立。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "seventy-one",
+      "seventy-two",
+      "seventies",
+      "seventyt"
+    ]
+  },
+  {
+    "word": "ninety",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number that is the product of nine and ten.",
+        "meaning_zh_TW": "九十",
+        "wrong_meaning_zh_TW": [
+          "八十",
+          "百",
+          "九十一"
+        ],
+        "examples": [
+          {
+            "sentence": "She is turning [ninety] next year.",
+            "translation_zh_TW": "她明年將滿九十歲。"
+          },
+          {
+            "sentence": "There are [ninety] students in the class.",
+            "translation_zh_TW": "班上有九十名學生。"
+          },
+          {
+            "sentence": "[Ninety] percent of the job is done.",
+            "translation_zh_TW": "這項工作的九十個百分比已經完成了。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "ninety",
+      "ninety-one",
+      "ninety-nine",
+      "ninty"
+    ]
+  },
+  {
+    "word": "rainy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Characterized by rain; wet with rain.",
+        "meaning_zh_TW": "多雨的",
+        "wrong_meaning_zh_TW": [
+          "潮濕的",
+          "晴朗的",
+          "寒冷的"
+        ],
+        "examples": [
+          {
+            "sentence": "It was a [rainy] day.",
+            "translation_zh_TW": "那是一個多雨的日子。"
+          },
+          {
+            "sentence": "We stayed indoors on the [rainy] afternoon.",
+            "translation_zh_TW": "我們在多雨的午後待在室內。"
+          },
+          {
+            "sentence": "He loves [rainy] weather.",
+            "translation_zh_TW": "他喜歡多雨的天氣。"
+          }
+        ],
+        "synonyms": [
+          "wet",
+          "showery"
+        ]
+      }
+    ],
+    "confusion": [
+      "rainy",
+      "raining",
+      "raindrop",
+      "rain"
+    ]
+  },
+  {
+    "word": "eighty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number that is the product of eight and ten.",
+        "meaning_zh_TW": "八十",
+        "wrong_meaning_zh_TW": [
+          "十",
+          "九十",
+          "七十"
+        ],
+        "examples": [
+          {
+            "sentence": "He is [eighty] years old.",
+            "translation_zh_TW": "他八十歲了。"
+          },
+          {
+            "sentence": "[Eighty] percent of the class passed.",
+            "translation_zh_TW": "班上有八十的學生通過了。"
+          },
+          {
+            "sentence": "They need [eighty] volunteers.",
+            "translation_zh_TW": "他們需要八十名志工。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "eighty",
+      "eighteen",
+      "eighty-one",
+      "eight"
+    ]
+  },
+  {
+    "word": "nope",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Informal way to say 'no'.",
+        "meaning_zh_TW": "不",
+        "wrong_meaning_zh_TW": [
+          "是",
+          "可能",
+          "請"
+        ],
+        "examples": [
+          {
+            "sentence": "Are you coming to the party? [Nope].",
+            "translation_zh_TW": "你會來派對嗎？不。"
+          },
+          {
+            "sentence": "Did you finish your homework? [Nope].",
+            "translation_zh_TW": "你完成作業了嗎？不。"
+          },
+          {
+            "sentence": "Is this the right way? [Nope].",
+            "translation_zh_TW": "這是正確的路嗎？不。"
+          }
+        ],
+        "synonyms": [
+          "no",
+          "nah"
+        ]
+      }
+    ],
+    "confusion": [
+      "noop",
+      "nape",
+      "node",
+      "neap"
+    ]
+  },
+  {
+    "word": "polite",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having good manners; showing consideration for others.",
+        "meaning_zh_TW": "有礼貌的",
+        "wrong_meaning_zh_TW": [
+          "粗魯的",
+          "冷漠的",
+          "直率的"
+        ],
+        "examples": [
+          {
+            "sentence": "It is important to be [polite] when meeting new people.",
+            "translation_zh_TW": "在見到新朋友時，禮貌是很重要的。"
+          },
+          {
+            "sentence": "He was very [polite] in his response.",
+            "translation_zh_TW": "他的回答非常有禮貌。"
+          },
+          {
+            "sentence": "Children should learn to be [polite] at an early age.",
+            "translation_zh_TW": "孩子們應該從小學會禮貌。"
+          }
+        ],
+        "synonyms": [
+          "courteous",
+          "civil"
+        ]
+      }
+    ],
+    "confusion": [
+      "polit",
+      "pollite",
+      "politey",
+      "poliite"
+    ]
+  },
+  {
+    "word": "seventeen",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number that is the sum of sixteen and one.",
+        "meaning_zh_TW": "十七",
+        "wrong_meaning_zh_TW": [
+          "十三",
+          "十六",
+          "十八"
+        ],
+        "examples": [
+          {
+            "sentence": "She turned [seventeen] last week.",
+            "translation_zh_TW": "她上星期滿十七歲。"
+          },
+          {
+            "sentence": "There are [seventeen] players on the field.",
+            "translation_zh_TW": "場上有十七名球員。"
+          },
+          {
+            "sentence": "[Seventeen] is my favorite number.",
+            "translation_zh_TW": "十七是我最喜歡的數字。"
+          }
+        ],
+        "synonyms": []
+      }
+    ],
+    "confusion": [
+      "seventen",
+      "seventeen",
+      "eighteen",
+      "seventen"
+    ]
+  }
+]

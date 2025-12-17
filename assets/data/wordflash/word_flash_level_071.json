@@ -1,0 +1,760 @@
+[
+  {
+    "word": "success",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The accomplishment of a goal or aim.",
+        "meaning_zh_TW": "成功",
+        "wrong_meaning_zh_TW": [
+          "挫折",
+          "困境",
+          "迷失"
+        ],
+        "examples": [
+          {
+            "sentence": "Her book was a great [success].",
+            "translation_zh_TW": "她的書大獲成功。"
+          },
+          {
+            "sentence": "They celebrated their [success] with a party.",
+            "translation_zh_TW": "他們用派對來慶祝成功。"
+          },
+          {
+            "sentence": "Success requires hard work.",
+            "translation_zh_TW": "成功需要辛勤的工作。"
+          }
+        ],
+        "synonyms": [
+          "achievement",
+          "victory"
+        ]
+      }
+    ],
+    "confusion": [
+      "succession",
+      "successes",
+      "sucsess",
+      "succeess"
+    ]
+  },
+  {
+    "word": "forward",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Moving toward the front; advanced.",
+        "meaning_zh_TW": "前面的；向前的",
+        "wrong_meaning_zh_TW": [
+          "後面的",
+          "側面的",
+          "靜止的"
+        ],
+        "examples": [
+          {
+            "sentence": "She took a [forward] step in her career.",
+            "translation_zh_TW": "她在事業上邁出了前進的一步。"
+          },
+          {
+            "sentence": "The team needs to be more [forward]-thinking.",
+            "translation_zh_TW": "團隊需要更具前瞻性。"
+          },
+          {
+            "sentence": "He has a very [forward] approach to problem-solving.",
+            "translation_zh_TW": "他對解決問題的方式非常前瞻。"
+          }
+        ],
+        "synonyms": [
+          "advancing",
+          "progressive"
+        ]
+      },
+      {
+        "type": "副詞",
+        "meaning_en_US": "Toward the front; in the direction that one is facing.",
+        "meaning_zh_TW": "向前；預先",
+        "wrong_meaning_zh_TW": [
+          "向後",
+          "停滯不前",
+          "來回"
+        ],
+        "examples": [
+          {
+            "sentence": "Please move [forward] in line.",
+            "translation_zh_TW": "請在隊伍中向前移動。"
+          },
+          {
+            "sentence": "The plan has been moved [forward] for review.",
+            "translation_zh_TW": "計畫已提前進行審查。"
+          },
+          {
+            "sentence": "She pushed [forward] with her ideas.",
+            "translation_zh_TW": "她推進了她的想法。"
+          }
+        ],
+        "synonyms": [
+          "ahead",
+          "onward"
+        ]
+      }
+    ],
+    "confusion": [
+      "forwards",
+      "foreword",
+      "forwarder",
+      "forever"
+    ]
+  },
+  {
+    "word": "owner",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who owns something.",
+        "meaning_zh_TW": "擁有者、所有人",
+        "wrong_meaning_zh_TW": [
+          "學生",
+          "工作者",
+          "租客"
+        ],
+        "examples": [
+          {
+            "sentence": "The [owner] of the restaurant greeted us at the door.",
+            "translation_zh_TW": "餐廳的擁有者在門口迎接我們。"
+          },
+          {
+            "sentence": "Every [owner] should take responsibility for their property.",
+            "translation_zh_TW": "每位擁有者都應對自己的財產負責。"
+          },
+          {
+            "sentence": "She is the proud [owner] of a vintage car.",
+            "translation_zh_TW": "她是那輛古董車的驕傲擁有者。"
+          }
+        ],
+        "synonyms": [
+          "proprietor",
+          "holder"
+        ]
+      }
+    ],
+    "confusion": [
+      "ocean",
+      "open",
+      "oner",
+      "owl"
+    ]
+  },
+  {
+    "word": "grand",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Impressive in size, appearance, or scope.",
+        "meaning_zh_TW": "宏大的，壯觀的",
+        "wrong_meaning_zh_TW": [
+          "簡單的美學",
+          "微不足道的職位",
+          "小得可憐的"
+        ],
+        "examples": [
+          {
+            "sentence": "The palace was [grand] and beautifully decorated.",
+            "translation_zh_TW": "宮殿宏大且裝飾精美"
+          },
+          {
+            "sentence": "They planned a [grand] celebration for their anniversary.",
+            "translation_zh_TW": "他們為周年慶計劃了一場盛大的慶祝活動"
+          },
+          {
+            "sentence": "The [grand] view from the mountain top was breathtaking.",
+            "translation_zh_TW": "山頂的壯觀景色令人驚嘆"
+          }
+        ],
+        "synonyms": [
+          "impressive",
+          "majestic"
+        ]
+      }
+    ],
+    "confusion": [
+      "grandeur",
+      "grind",
+      "granted",
+      "grandee"
+    ]
+  },
+  {
+    "word": "charge",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The price required for a service.",
+        "meaning_zh_TW": "收費",
+        "wrong_meaning_zh_TW": [
+          "稅金",
+          "貸款",
+          "帳單"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to increase the service [charge].",
+            "translation_zh_TW": "他們決定提高服務收費。"
+          },
+          {
+            "sentence": "The [charge] for late payments is substantial.",
+            "translation_zh_TW": "逾期付款的收費相當龐大。"
+          },
+          {
+            "sentence": "Each service has a different [charge].",
+            "translation_zh_TW": "每項服務的收費各不相同。"
+          }
+        ],
+        "synonyms": [
+          "fee",
+          "cost"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To demand a payment.",
+        "meaning_zh_TW": "收取",
+        "wrong_meaning_zh_TW": [
+          "提供",
+          "購買",
+          "運送"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [charge] customers for the upgrades.",
+            "translation_zh_TW": "我們需要向客戶收取升級費用。"
+          },
+          {
+            "sentence": "Don't forget to [charge] him for the materials.",
+            "translation_zh_TW": "別忘了向他收取材料費用。"
+          },
+          {
+            "sentence": "They will [charge] more for express service.",
+            "translation_zh_TW": "他們會對快速服務收取更多費用。"
+          }
+        ],
+        "synonyms": [
+          "bill",
+          "invoice"
+        ]
+      }
+    ],
+    "confusion": [
+      "charget",
+      "charch",
+      "chager",
+      "carge"
+    ]
+  },
+  {
+    "word": "instead",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In place of; as a substitute.",
+        "meaning_zh_TW": "而不是",
+        "wrong_meaning_zh_TW": [
+          "因此",
+          "而且",
+          "雖然"
+        ],
+        "examples": [
+          {
+            "sentence": "She chose tea [instead] of coffee.",
+            "translation_zh_TW": "她選擇茶而不是咖啡。"
+          },
+          {
+            "sentence": "You can take the bus [instead] of walking.",
+            "translation_zh_TW": "你可以搭巴士，而不是走路。"
+          },
+          {
+            "sentence": "He went to the party [instead].",
+            "translation_zh_TW": "他去參加派對而不是。"
+          }
+        ],
+        "synonyms": [
+          "rather",
+          "alternatively"
+        ]
+      }
+    ],
+    "confusion": [
+      "in stead",
+      "in set",
+      "instead of",
+      "in step"
+    ]
+  },
+  {
+    "word": "entire",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Whole and complete; not lacking or leaving out any part.",
+        "meaning_zh_TW": "整個的",
+        "wrong_meaning_zh_TW": [
+          "部分的",
+          "次要的",
+          "不完整的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [entire] team worked hard to meet the deadline.",
+            "translation_zh_TW": "整個團隊努力工作以達成最後期限。"
+          },
+          {
+            "sentence": "She read the [entire] book in one sitting.",
+            "translation_zh_TW": "她一口氣讀完了整本書。"
+          },
+          {
+            "sentence": "The project was funded by the [entire] community.",
+            "translation_zh_TW": "這個項目由整個社區資助。"
+          }
+        ],
+        "synonyms": [
+          "whole",
+          "complete"
+        ]
+      }
+    ],
+    "confusion": [
+      "intire",
+      "entires",
+      "entiray",
+      "intire"
+    ]
+  },
+  {
+    "word": "metal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A solid material that is typically hard, shiny, and can conduct electricity and heat.",
+        "meaning_zh_TW": "金屬",
+        "wrong_meaning_zh_TW": [
+          "塑料",
+          "化合物",
+          "合金"
+        ],
+        "examples": [
+          {
+            "sentence": "The [metal] used in the construction is durable.",
+            "translation_zh_TW": "建築中使用的金屬非常耐用"
+          },
+          {
+            "sentence": "She loves collecting different types of [metal].",
+            "translation_zh_TW": "她喜歡收集不同類型的金屬"
+          },
+          {
+            "sentence": "This [metal] can be recycled.",
+            "translation_zh_TW": "這種金屬可以回收"
+          }
+        ],
+        "synonyms": [
+          "alloy",
+          "iron"
+        ]
+      }
+    ],
+    "confusion": [
+      "metals",
+      "metallurgy",
+      "meticulous",
+      "metaphor"
+    ]
+  },
+  {
+    "word": "positive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Expressing or containing affirmation or acceptance.",
+        "meaning_zh_TW": "肯定的, 正面的",
+        "wrong_meaning_zh_TW": [
+          "消極的",
+          "懷疑的",
+          "中立的"
+        ],
+        "examples": [
+          {
+            "sentence": "She always has a [positive] attitude towards challenges.",
+            "translation_zh_TW": "她始終對挑戰保持正面的態度。"
+          },
+          {
+            "sentence": "The feedback was overwhelmingly [positive].",
+            "translation_zh_TW": "反饋意見非常正面。"
+          },
+          {
+            "sentence": "Maintaining a [positive] outlook can improve your mental health.",
+            "translation_zh_TW": "保持正面的心態可以改善你的心理健康。"
+          }
+        ],
+        "synonyms": [
+          "affirmative",
+          "optimistic"
+        ]
+      }
+    ],
+    "confusion": [
+      "positives",
+      "posiive",
+      "positivey",
+      "possible"
+    ]
+  },
+  {
+    "word": "opinion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A view or judgment formed about something, not necessarily based on fact or knowledge.",
+        "meaning_zh_TW": "意見",
+        "wrong_meaning_zh_TW": [
+          "證據",
+          "事實",
+          "結論"
+        ],
+        "examples": [
+          {
+            "sentence": "Everyone is entitled to their own [opinion].",
+            "translation_zh_TW": "每個人都有權持有自己的意見。"
+          },
+          {
+            "sentence": "What's your [opinion] on the matter?",
+            "translation_zh_TW": "你對此事的看法是什麼？"
+          },
+          {
+            "sentence": "My [opinion] is based on personal experience.",
+            "translation_zh_TW": "我的意見基於個人的經驗。"
+          }
+        ],
+        "synonyms": [
+          "view",
+          "belief"
+        ]
+      }
+    ],
+    "confusion": [
+      "opinon",
+      "opiion",
+      "opnion",
+      "opinoin"
+    ]
+  },
+  {
+    "word": "football",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A team game played on a field, where players use their feet to kick a ball into the opposing goal.",
+        "meaning_zh_TW": "足球",
+        "wrong_meaning_zh_TW": [
+          "籃球",
+          "手球",
+          "曲棍球"
+        ],
+        "examples": [
+          {
+            "sentence": "They played [football] in the park every weekend.",
+            "translation_zh_TW": "他們每個週末都在公園裡踢足球。"
+          },
+          {
+            "sentence": "The championship [football] game was thrilling.",
+            "translation_zh_TW": "冠軍足球賽非常令人激動。"
+          },
+          {
+            "sentence": "He is a huge fan of [football].",
+            "translation_zh_TW": "他是足球的巨大粉絲。"
+          }
+        ],
+        "synonyms": [
+          "soccer",
+          "gridiron"
+        ]
+      }
+    ],
+    "confusion": [
+      "foot",
+      "footloose",
+      "footfall",
+      "fortball"
+    ]
+  },
+  {
+    "word": "likely",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a high probability of occurring or being true.",
+        "meaning_zh_TW": "有可能的",
+        "wrong_meaning_zh_TW": [
+          "不太可能",
+          "不確定",
+          "肯定的"
+        ],
+        "examples": [
+          {
+            "sentence": "It is [likely] to rain tomorrow.",
+            "translation_zh_TW": "明天很可能會下雨."
+          },
+          {
+            "sentence": "She is the [likely] candidate for the job.",
+            "translation_zh_TW": "她是這份工作的可能候選人."
+          },
+          {
+            "sentence": "The project will [likely] succeed with hard work.",
+            "translation_zh_TW": "這個項目如果努力工作很可能會成功."
+          }
+        ],
+        "synonyms": [
+          "probable",
+          "expected"
+        ]
+      }
+    ],
+    "confusion": [
+      "likly",
+      "likelihood",
+      "likes",
+      "lykely"
+    ]
+  },
+  {
+    "word": "develop",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To grow or cause to grow and become more mature, advanced, or elaborate.",
+        "meaning_zh_TW": "發展",
+        "wrong_meaning_zh_TW": [
+          "崩潰",
+          "消失",
+          "計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "She hopes to [develop] her skills in programming.",
+            "translation_zh_TW": "她希望能提升自己的程式設計技能。"
+          },
+          {
+            "sentence": "The country plans to [develop] its infrastructure.",
+            "translation_zh_TW": "該國計劃發展其基礎設施。"
+          },
+          {
+            "sentence": "Scientists continue to [develop] new technologies.",
+            "translation_zh_TW": "科學家們持續發展新技術。"
+          }
+        ],
+        "synonyms": [
+          "evolve",
+          "advance"
+        ]
+      }
+    ],
+    "confusion": [
+      "devolves",
+      "depol",
+      "devalue",
+      "devel"
+    ]
+  },
+  {
+    "word": "guest",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is invited to visit or stay in someone's home.",
+        "meaning_zh_TW": "客人",
+        "wrong_meaning_zh_TW": [
+          "主人",
+          "房客",
+          "朋友"
+        ],
+        "examples": [
+          {
+            "sentence": "The [guest] was warmly welcomed at the entrance.",
+            "translation_zh_TW": "客人在入口處受到熱情的歡迎"
+          },
+          {
+            "sentence": "She prepared a special meal for her [guests].",
+            "translation_zh_TW": "她為她的客人準備了一頓特別的餐"
+          },
+          {
+            "sentence": "They treated their [guest] with great hospitality.",
+            "translation_zh_TW": "他們以極大的款待來接待他們的客人"
+          }
+        ],
+        "synonyms": [
+          "visitor",
+          "invitee"
+        ]
+      }
+    ],
+    "confusion": [
+      "guilt",
+      "gust",
+      "guster",
+      "guise"
+    ]
+  },
+  {
+    "word": "century",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A period of one hundred years.",
+        "meaning_zh_TW": "一百年",
+        "wrong_meaning_zh_TW": [
+          "千年",
+          "十年",
+          "一世紀"
+        ],
+        "examples": [
+          {
+            "sentence": "The 21st [century] has brought many technological advances.",
+            "translation_zh_TW": "21世紀帶來了許多科技進步"
+          },
+          {
+            "sentence": "We are living in the 20th [century].",
+            "translation_zh_TW": "我們生活在20世紀"
+          },
+          {
+            "sentence": "Each [century] has its own unique challenges.",
+            "translation_zh_TW": "每個世紀都有其獨特的挑戰"
+          }
+        ],
+        "synonyms": [
+          "hundred years",
+          "centenary"
+        ]
+      }
+    ],
+    "confusion": [
+      "centry",
+      "centrye",
+      "centee",
+      "centur"
+    ]
+  },
+  {
+    "word": "skin",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The thin layer of tissue forming the complete covering of the body.",
+        "meaning_zh_TW": "皮膚",
+        "wrong_meaning_zh_TW": [
+          "外套",
+          "組織",
+          "細胞"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [skin] is very smooth.",
+            "translation_zh_TW": "她的皮膚非常光滑。"
+          },
+          {
+            "sentence": "Protect your [skin] from the sun.",
+            "translation_zh_TW": "保護你的皮膚免受陽光照射。"
+          },
+          {
+            "sentence": "He has sensitive [skin].",
+            "translation_zh_TW": "他有敏感的皮膚。"
+          }
+        ],
+        "synonyms": [
+          "epidermis",
+          "dermis"
+        ]
+      }
+    ],
+    "confusion": [
+      "skinn",
+      "sin",
+      "skinny",
+      "skien"
+    ]
+  },
+  {
+    "word": "pop",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a short, sharp sound; to burst.",
+        "meaning_zh_TW": "噼啪作響；爆裂",
+        "wrong_meaning_zh_TW": [
+          "有趣",
+          "中斷",
+          "抵達"
+        ],
+        "examples": [
+          {
+            "sentence": "The balloon will [pop] if you keep squeezing it.",
+            "translation_zh_TW": "如果你一直擠它，氣球會爆裂"
+          },
+          {
+            "sentence": "He heard a [pop] as he opened the soda can.",
+            "translation_zh_TW": "他打開汽水罐時聽見一聲噼啪"
+          },
+          {
+            "sentence": "Make sure to [pop] the lid back on the jar tightly.",
+            "translation_zh_TW": "確保把瓶蓋緊緊蓋回去"
+          }
+        ],
+        "synonyms": [
+          "burst",
+          "bang"
+        ]
+      }
+    ],
+    "confusion": [
+      "pup",
+      "pool",
+      "poverty",
+      "poppy"
+    ]
+  },
+  {
+    "word": "consider",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To think carefully about something, typically before making a decision.",
+        "meaning_zh_TW": "考慮",
+        "wrong_meaning_zh_TW": [
+          "忽略",
+          "衡量",
+          "決定"
+        ],
+        "examples": [
+          {
+            "sentence": "You should [consider] all the options before deciding.",
+            "translation_zh_TW": "在決定之前，你應該考慮所有選項。"
+          },
+          {
+            "sentence": "Please [consider] my request.",
+            "translation_zh_TW": "請考慮我的請求。"
+          },
+          {
+            "sentence": "He didn't [consider] the consequences of his actions.",
+            "translation_zh_TW": "他沒有考慮到自己行為的後果。"
+          }
+        ],
+        "synonyms": [
+          "think about",
+          "contemplate"
+        ]
+      }
+    ],
+    "confusion": [
+      "consult",
+      "constate",
+      "construe",
+      "consist"
+    ]
+  }
+]

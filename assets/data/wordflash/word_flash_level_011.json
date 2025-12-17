@@ -1,0 +1,742 @@
+[
+  {
+    "word": "look",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To direct one's gaze in a specified direction.",
+        "meaning_zh_TW": "看",
+        "wrong_meaning_zh_TW": [
+          "聽",
+          "說",
+          "感覺"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [look] at the board.",
+            "translation_zh_TW": "請看黑板。"
+          },
+          {
+            "sentence": "She turned to [look] at him.",
+            "translation_zh_TW": "她轉身看著他。"
+          },
+          {
+            "sentence": "The dog seemed to [look] for something.",
+            "translation_zh_TW": "那隻狗似乎在找東西。"
+          }
+        ],
+        "synonyms": [
+          "gaze",
+          "glance"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of directing one's gaze or the appearance of someone or something.",
+        "meaning_zh_TW": "外觀",
+        "wrong_meaning_zh_TW": [
+          "手勢",
+          "語氣",
+          "聲音"
+        ],
+        "examples": [
+          {
+            "sentence": "He had a serious [look] on his face.",
+            "translation_zh_TW": "他的臉上有一個嚴肅的表情。"
+          },
+          {
+            "sentence": "Her [look] was very stylish.",
+            "translation_zh_TW": "她的外觀非常時尚。"
+          },
+          {
+            "sentence": "I love the cozy [look] of this room.",
+            "translation_zh_TW": "我喜歡這個房間舒適的外觀。"
+          }
+        ],
+        "synonyms": [
+          "appearance",
+          "aspect"
+        ]
+      }
+    ],
+    "confusion": [
+      "lock",
+      "book",
+      "cook",
+      "looked"
+    ]
+  },
+  {
+    "word": "left",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "On or towards the side of the body that is opposite the right.",
+        "meaning_zh_TW": "左邊的",
+        "wrong_meaning_zh_TW": [
+          "向後的",
+          "金色的",
+          "奇怪的"
+        ],
+        "examples": [
+          {
+            "sentence": "Turn [left] at the traffic light.",
+            "translation_zh_TW": "在紅綠燈那裡向左轉。"
+          },
+          {
+            "sentence": "She is left-handed and writes with her [left] hand.",
+            "translation_zh_TW": "她是左撇子，用她的左手寫字。"
+          },
+          {
+            "sentence": "The book is on the [left] side of the shelf.",
+            "translation_zh_TW": "這本書在書架的左邊。"
+          }
+        ],
+        "synonyms": [
+          "port",
+          "sinistral"
+        ]
+      }
+    ],
+    "confusion": [
+      "lefts",
+      "lift",
+      "lefted",
+      "lefft"
+    ]
+  },
+  {
+    "word": "team",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of individuals working together toward a common goal.",
+        "meaning_zh_TW": "團隊",
+        "wrong_meaning_zh_TW": [
+          "個人",
+          "任務、計劃",
+          "賽季、時期"
+        ],
+        "examples": [
+          {
+            "sentence": "Our [team] won the championship last year.",
+            "translation_zh_TW": "我們的團隊去年贏得了冠軍。"
+          },
+          {
+            "sentence": "Each [team] member contributed their skills.",
+            "translation_zh_TW": "每位團隊成員都貢獻了他們的技能。"
+          },
+          {
+            "sentence": "The [team] is preparing for the upcoming match.",
+            "translation_zh_TW": "團隊正在為即將到來的比賽做準備。"
+          }
+        ],
+        "synonyms": [
+          "group",
+          "squad",
+          "crew"
+        ]
+      }
+    ],
+    "confusion": [
+      "teem",
+      "tame",
+      "teal",
+      "teem"
+    ]
+  },
+  {
+    "word": "box",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A container with flat sides and a lid.",
+        "meaning_zh_TW": "盒子",
+        "wrong_meaning_zh_TW": [
+          "包包",
+          "房間",
+          "櫃子"
+        ],
+        "examples": [
+          {
+            "sentence": "I put my books in a [box].",
+            "translation_zh_TW": "我把書放進了一個盒子裡。"
+          },
+          {
+            "sentence": "The gift was wrapped in a large [box].",
+            "translation_zh_TW": "禮物包裝在一個大盒子裡。"
+          },
+          {
+            "sentence": "She found a [box] full of old toys in the attic.",
+            "translation_zh_TW": "她在閣樓上找到了滿是舊玩具的盒子。"
+          }
+        ],
+        "synonyms": [
+          "container",
+          "case",
+          "storage"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To place or pack something in a box.",
+        "meaning_zh_TW": "裝箱、放入盒中",
+        "wrong_meaning_zh_TW": [
+          "拆開、打開",
+          "測量、計算",
+          "撕毀、破壞"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [box] the items carefully for shipping.",
+            "translation_zh_TW": "請仔細將物品裝箱以便運送。"
+          },
+          {
+            "sentence": "They [box] the toys to keep them organized.",
+            "translation_zh_TW": "他們把玩具裝箱以保持整齊。"
+          },
+          {
+            "sentence": "She wants to [box] her collection of books.",
+            "translation_zh_TW": "她想把她的書籍收藏裝箱。"
+          }
+        ],
+        "synonyms": [
+          "pack",
+          "containerize",
+          "encase"
+        ]
+      }
+    ],
+    "confusion": [
+      "boxing",
+      "fox",
+      "fixed",
+      "broke"
+    ]
+  },
+  {
+    "word": "note",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A brief record of something written down for future reference.",
+        "meaning_zh_TW": "筆記",
+        "wrong_meaning_zh_TW": [
+          "日記",
+          "作業",
+          "信件"
+        ],
+        "examples": [
+          {
+            "sentence": "I made a [note] about the meeting.",
+            "translation_zh_TW": "我對會議做了筆記"
+          },
+          {
+            "sentence": "Please leave a [note] for the guests.",
+            "translation_zh_TW": "請為客人留個便條"
+          },
+          {
+            "sentence": "She wrote a [note] to remind herself.",
+            "translation_zh_TW": "她寫了一個便條提醒自己"
+          }
+        ],
+        "synonyms": [
+          "memo",
+          "message"
+        ]
+      }
+    ],
+    "confusion": [
+      "not",
+      "knot",
+      "nod",
+      "noot"
+    ]
+  },
+  {
+    "word": "live",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To remain alive or have life.",
+        "meaning_zh_TW": "生存",
+        "wrong_meaning_zh_TW": [
+          "死去",
+          "消失",
+          "靜默"
+        ],
+        "examples": [
+          {
+            "sentence": "They want to live in a peaceful environment.",
+            "translation_zh_TW": "他們希望在一個和平的環境中生活。"
+          },
+          {
+            "sentence": "He chose to live according to his own values.",
+            "translation_zh_TW": "他選擇根據自己的價值觀生活。"
+          },
+          {
+            "sentence": "The animals live in the forest.",
+            "translation_zh_TW": "這些動物生活在森林裡。"
+          }
+        ],
+        "synonyms": [
+          "exist",
+          "survive"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "To be happening in real time; not recorded.",
+        "meaning_zh_TW": "實時的",
+        "wrong_meaning_zh_TW": [
+          "錄製的",
+          "虛構的",
+          "未發生的"
+        ],
+        "examples": [
+          {
+            "sentence": "We watched the live concert on TV.",
+            "translation_zh_TW": "我們在電視上觀看了現場音樂會。"
+          },
+          {
+            "sentence": "He gave a live update from the scene.",
+            "translation_zh_TW": "他在現場提供了即時更新。"
+          },
+          {
+            "sentence": "The live stream was very popular.",
+            "translation_zh_TW": "這個直播非常受歡迎。"
+          }
+        ],
+        "synonyms": [
+          "real-time",
+          "unrecorded"
+        ]
+      }
+    ],
+    "confusion": [
+      "livee",
+      "liv",
+      "lyve",
+      "lively"
+    ]
+  },
+  {
+    "word": "large",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of considerable size, extent, or capacity.",
+        "meaning_zh_TW": "大的",
+        "wrong_meaning_zh_TW": [
+          "小的",
+          "稀少的",
+          "狹窄的"
+        ],
+        "examples": [
+          {
+            "sentence": "They live in a [large] house.",
+            "translation_zh_TW": "他們住在一個大房子裡。"
+          },
+          {
+            "sentence": "He ordered a [large] pizza.",
+            "translation_zh_TW": "他點了一個大比薩。"
+          },
+          {
+            "sentence": "There is a [large] crowd at the event.",
+            "translation_zh_TW": "活動上有一大群人。"
+          }
+        ],
+        "synonyms": [
+          "big",
+          "huge"
+        ]
+      }
+    ],
+    "confusion": [
+      "lage",
+      "lorge",
+      "laarge",
+      "lurge"
+    ]
+  },
+  {
+    "word": "table",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of furniture with a flat top and one or more legs.",
+        "meaning_zh_TW": "桌子",
+        "wrong_meaning_zh_TW": [
+          "椅子",
+          "櫃子",
+          "書架"
+        ],
+        "examples": [
+          {
+            "sentence": "Please put the book on the [table].",
+            "translation_zh_TW": "請把書放在桌子上。"
+          },
+          {
+            "sentence": "We need a bigger [table] for dinner.",
+            "translation_zh_TW": "我們需要一張更大的桌子來吃晚餐。"
+          },
+          {
+            "sentence": "The meeting will be held around the [table].",
+            "translation_zh_TW": "會議將在桌子周圍舉行。"
+          }
+        ],
+        "synonyms": [
+          "desk",
+          "cart"
+        ]
+      }
+    ],
+    "confusion": [
+      "tabel",
+      "tabe",
+      "talbe",
+      "tablespoon"
+    ]
+  },
+  {
+    "word": "however",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used to introduce a statement that contrasts with or seems to contradict something that has been said previously.",
+        "meaning_zh_TW": "然而",
+        "wrong_meaning_zh_TW": [
+          "可是",
+          "但是",
+          "雖然"
+        ],
+        "examples": [
+          {
+            "sentence": "She was tired; [however], she finished the work.",
+            "translation_zh_TW": "她很累；然而，她完成了工作。"
+          },
+          {
+            "sentence": "It was raining. [However], we decided to go out.",
+            "translation_zh_TW": "天在下雨。然而，我們決定出門。"
+          },
+          {
+            "sentence": "He claims to be an expert; [however], his work suggests otherwise.",
+            "translation_zh_TW": "他聲稱自己是專家；然而，他的工作顯示出不同的情況。"
+          }
+        ],
+        "synonyms": [
+          "nevertheless",
+          "nonetheless"
+        ]
+      }
+    ],
+    "confusion": [
+      "howeverly",
+      "whoever",
+      "whenever",
+      "wherever"
+    ]
+  },
+  {
+    "word": "market",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A regular gathering place for the purchase and sale of provisions, livestock, and other goods.",
+        "meaning_zh_TW": "市場",
+        "wrong_meaning_zh_TW": [
+          "商業計畫",
+          "銷售報告",
+          "物價指數"
+        ],
+        "examples": [
+          {
+            "sentence": "She went to the [market] to buy fresh vegetables.",
+            "translation_zh_TW": "她去市場買新鮮的蔬菜"
+          },
+          {
+            "sentence": "The local [market] is crowded on weekends.",
+            "translation_zh_TW": "當地市場在週末很擁擠"
+          },
+          {
+            "sentence": "He set up a stall at the [market] to sell handmade crafts.",
+            "translation_zh_TW": "他在市場上設了個攤位賣手工藝品"
+          }
+        ],
+        "synonyms": [
+          "bazaar",
+          "exchange"
+        ]
+      }
+    ],
+    "confusion": [
+      "markets",
+      "marquet",
+      "markett",
+      "marke"
+    ]
+  },
+  {
+    "word": "library",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A place where books and other media are kept for reading and borrowing.",
+        "meaning_zh_TW": "圖書館",
+        "wrong_meaning_zh_TW": [
+          "書店",
+          "出版社",
+          "書房"
+        ],
+        "examples": [
+          {
+            "sentence": "I love to study in the [library].",
+            "translation_zh_TW": "我喜歡在圖書館學習。"
+          },
+          {
+            "sentence": "The [library] has a great selection of novels.",
+            "translation_zh_TW": "這個圖書館有很棒的小說選擇。"
+          },
+          {
+            "sentence": "Please return the book to the [library].",
+            "translation_zh_TW": "請將書歸還到圖書館。"
+          }
+        ],
+        "synonyms": [
+          "bookstore",
+          "archive"
+        ]
+      }
+    ],
+    "confusion": [
+      "libary",
+      "libra",
+      "llibary",
+      "liberary"
+    ]
+  },
+  {
+    "word": "really",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In actual fact, genuinely.",
+        "meaning_zh_TW": "真的",
+        "wrong_meaning_zh_TW": [
+          "假裝",
+          "不真的",
+          "謊言"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [really] excited about the trip.",
+            "translation_zh_TW": "我對這次旅行真的很興奮。"
+          },
+          {
+            "sentence": "She [really] knows how to cook.",
+            "translation_zh_TW": "她真的知道如何做飯。"
+          },
+          {
+            "sentence": "This movie is [really] amazing.",
+            "translation_zh_TW": "這部電影真的很精彩。"
+          }
+        ],
+        "synonyms": [
+          "truly",
+          "genuinely"
+        ]
+      }
+    ],
+    "confusion": [
+      "relly",
+      "reeally",
+      "reelly",
+      "rilly"
+    ]
+  },
+  {
+    "word": "action",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fact or process of doing something, typically to achieve an aim.",
+        "meaning_zh_TW": "行動",
+        "wrong_meaning_zh_TW": [
+          "反應",
+          "結果",
+          "計劃"
+        ],
+        "examples": [
+          {
+            "sentence": "Take immediate [action] in case of emergency.",
+            "translation_zh_TW": "在緊急情況下立即採取行動"
+          },
+          {
+            "sentence": "The group is discussing their next course of [action].",
+            "translation_zh_TW": "小組正在討論他們的下一步行動"
+          },
+          {
+            "sentence": "Her [action] surprised everyone.",
+            "translation_zh_TW": "她的行動讓每個人都感到驚訝"
+          }
+        ],
+        "synonyms": [
+          "deed",
+          "act"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The events or activities that occur in a particular situation or setting.",
+        "meaning_zh_TW": "情節",
+        "wrong_meaning_zh_TW": [
+          "場景",
+          "特徵",
+          "主題"
+        ],
+        "examples": [
+          {
+            "sentence": "The movie was full of exciting [action].",
+            "translation_zh_TW": "這部電影充滿了刺激的情節"
+          },
+          {
+            "sentence": "The [action] unfolds in a small town.",
+            "translation_zh_TW": "情節發生在一個小鎮上"
+          },
+          {
+            "sentence": "I enjoy films that have a lot of [action].",
+            "translation_zh_TW": "我喜歡情節緊湊的電影"
+          }
+        ],
+        "synonyms": [
+          "plot",
+          "sequence"
+        ]
+      }
+    ],
+    "confusion": [
+      "reaction",
+      "act",
+      "actor",
+      "actionable"
+    ]
+  },
+  {
+    "word": "start",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To begin or to commence something.",
+        "meaning_zh_TW": "開始",
+        "wrong_meaning_zh_TW": [
+          "結束",
+          "等待",
+          "延遲"
+        ],
+        "examples": [
+          {
+            "sentence": "They will [start] the meeting at 10 AM.",
+            "translation_zh_TW": "他們將於上午10點開始會議。"
+          },
+          {
+            "sentence": "Did you [start] your homework yet?",
+            "translation_zh_TW": "你開始做作業了嗎？"
+          },
+          {
+            "sentence": "He decided to [start] a new project.",
+            "translation_zh_TW": "他決定開始一個新項目。"
+          }
+        ],
+        "synonyms": [
+          "begin",
+          "commence"
+        ]
+      }
+    ],
+    "confusion": [
+      "starrt",
+      "strart",
+      "staart",
+      "stear"
+    ]
+  },
+  {
+    "word": "air",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The invisible gaseous substance surrounding the Earth.",
+        "meaning_zh_TW": "空氣",
+        "wrong_meaning_zh_TW": [
+          "水",
+          "土壤",
+          "雲"
+        ],
+        "examples": [
+          {
+            "sentence": "The [air] was fresh and clean in the mountains.",
+            "translation_zh_TW": "山裡的空氣清新而乾淨"
+          },
+          {
+            "sentence": "He filled his lungs with [air] before diving.",
+            "translation_zh_TW": "他在潛水前吸入了空氣"
+          },
+          {
+            "sentence": "The [air] was filled with the smell of flowers.",
+            "translation_zh_TW": "空氣中充滿了花香"
+          }
+        ],
+        "synonyms": [
+          "atmosphere",
+          "breath"
+        ]
+      }
+    ],
+    "confusion": [
+      "airh",
+      "are",
+      "aer",
+      "asr"
+    ]
+  },
+  {
+    "word": "plan",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A detailed proposal for doing or achieving something.",
+        "meaning_zh_TW": "計劃",
+        "wrong_meaning_zh_TW": [
+          "隨意",
+          "想像",
+          "建築"
+        ],
+        "examples": [
+          {
+            "sentence": "They put the [plan] into action swiftly.",
+            "translation_zh_TW": "他們迅速實施了計劃。"
+          },
+          {
+            "sentence": "The [plan] was discussed in the meeting.",
+            "translation_zh_TW": "計劃在會議上討論。"
+          },
+          {
+            "sentence": "She has a secret [plan].",
+            "translation_zh_TW": "她有一個秘密計劃。"
+          }
+        ],
+        "synonyms": [
+          "strategy",
+          "scheme"
+        ],
+        "note": "Can refer to both a blueprint and the process of arranging."
+      }
+    ],
+    "confusion": [
+      "plain",
+      "plaan",
+      "planter",
+      "plank"
+    ]
+  }
+]

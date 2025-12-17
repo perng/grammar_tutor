@@ -1,0 +1,774 @@
+[
+  {
+    "word": "underground",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Located or operating below the surface of the ground.",
+        "meaning_zh_TW": "地下的",
+        "wrong_meaning_zh_TW": [
+          "開放的",
+          "公共的",
+          "透明的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [underground] tunnels are part of a historic network.",
+            "translation_zh_TW": "這些地下隧道是歷史網絡的一部分。"
+          },
+          {
+            "sentence": "They discovered an [underground] spring in their backyard.",
+            "translation_zh_TW": "他們在後院發現了一個地下泉。"
+          },
+          {
+            "sentence": "Underground artists often explore taboo subjects.",
+            "translation_zh_TW": "地下藝術家經常探討禁忌主題。"
+          }
+        ],
+        "synonyms": [
+          "subterranean",
+          "beneath",
+          "below ground"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A subway or metro system.",
+        "meaning_zh_TW": "地鐵",
+        "wrong_meaning_zh_TW": [
+          "地面交通",
+          "長途巴士",
+          "輕軌"
+        ],
+        "examples": [
+          {
+            "sentence": "She prefers taking the [underground] to avoid traffic.",
+            "translation_zh_TW": "她更喜歡乘坐地鐵以避免交通擁堵。"
+          },
+          {
+            "sentence": "The [underground] is a fast way to get around the city.",
+            "translation_zh_TW": "地鐵是快速在城市中移動的一種方式。"
+          },
+          {
+            "sentence": "He often reads while riding the [underground].",
+            "translation_zh_TW": "他常在乘坐地鐵時閱讀。"
+          }
+        ],
+        "synonyms": [
+          "metro",
+          "subway",
+          "tube"
+        ]
+      }
+    ],
+    "confusion": [
+      "undergroun",
+      "undergron",
+      "undergrond",
+      "undrground"
+    ]
+  },
+  {
+    "word": "appearance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The way that someone or something looks.",
+        "meaning_zh_TW": "外觀",
+        "wrong_meaning_zh_TW": [
+          "性格",
+          "聲音",
+          "氣味"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [appearance] at the event surprised everyone.",
+            "translation_zh_TW": "她在活動上的出現讓每個人都感到驚訝。"
+          },
+          {
+            "sentence": "The [appearance] of the building has changed over the years.",
+            "translation_zh_TW": "這座建築的外觀多年來一直在變化。"
+          },
+          {
+            "sentence": "He focused on his personal [appearance] for the interview.",
+            "translation_zh_TW": "他在面試時專注於自己的外觀。"
+          }
+        ],
+        "synonyms": [
+          "look",
+          "aspect"
+        ]
+      }
+    ],
+    "confusion": [
+      "appearing",
+      "appearancee",
+      "appear",
+      "apprearance"
+    ]
+  },
+  {
+    "word": "fellow",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person of the same age, status, or ability as another specified person.",
+        "meaning_zh_TW": "同儕",
+        "wrong_meaning_zh_TW": [
+          "教師",
+          "夥伴",
+          "男士"
+        ],
+        "examples": [
+          {
+            "sentence": "He is a good [fellow] who always helps others.",
+            "translation_zh_TW": "他是一個總是幫助他人的好同儕。"
+          },
+          {
+            "sentence": "My [fellow] students and I studied together.",
+            "translation_zh_TW": "我和我的同儕一起學習。"
+          },
+          {
+            "sentence": "She introduced me to her [fellow] writers.",
+            "translation_zh_TW": "她把我介紹給她的作家同儕。"
+          }
+        ],
+        "synonyms": [
+          "peer",
+          "colleague"
+        ]
+      }
+    ],
+    "confusion": [
+      "fellowship",
+      "felon",
+      "fellowing",
+      "fello"
+    ]
+  },
+  {
+    "word": "cafe",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small restaurant or coffeehouse.",
+        "meaning_zh_TW": "咖啡館",
+        "wrong_meaning_zh_TW": [
+          "餐廳",
+          "酒吧",
+          "快餐店"
+        ],
+        "examples": [
+          {
+            "sentence": "They met at the local [cafe].",
+            "translation_zh_TW": "他們在當地的咖啡館見面。"
+          },
+          {
+            "sentence": "I enjoy reading while sipping coffee in a [cafe].",
+            "translation_zh_TW": "我喜歡在咖啡館邊喝咖啡邊閱讀。"
+          },
+          {
+            "sentence": "The [cafe] serves delicious pastries.",
+            "translation_zh_TW": "這家咖啡館提供美味的糕點。"
+          }
+        ],
+        "synonyms": [
+          "coffeehouse",
+          "bistro"
+        ]
+      }
+    ],
+    "confusion": [
+      "cafe au lait",
+      "cafe racer",
+      "caff",
+      "case"
+    ]
+  },
+  {
+    "word": "sand",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A loose, granular substance resulting from the erosion of rocks.",
+        "meaning_zh_TW": "沙子",
+        "wrong_meaning_zh_TW": [
+          "水泥",
+          "石塊",
+          "泥土"
+        ],
+        "examples": [
+          {
+            "sentence": "The beach is covered in soft [sand].",
+            "translation_zh_TW": "海灘上覆蓋著柔軟的沙子。"
+          },
+          {
+            "sentence": "Children love to play in the [sand] at the park.",
+            "translation_zh_TW": "孩子們喜歡在公園的沙子裡玩。"
+          },
+          {
+            "sentence": "The artist used [sand] to create beautiful patterns.",
+            "translation_zh_TW": "藝術家用沙子創造了美麗的圖案。"
+          }
+        ],
+        "synonyms": [
+          "grains",
+          "silt"
+        ]
+      }
+    ],
+    "confusion": [
+      "sund",
+      "send",
+      "band",
+      "hand"
+    ]
+  },
+  {
+    "word": "prize",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A reward given for excellence or achievement.",
+        "meaning_zh_TW": "獎品",
+        "wrong_meaning_zh_TW": [
+          "懲罰",
+          "花費",
+          "普通物品"
+        ],
+        "examples": [
+          {
+            "sentence": "She won a [prize] for her outstanding performance.",
+            "translation_zh_TW": "因為她出色的表現，她贏得了獎品"
+          },
+          {
+            "sentence": "The scholarship is a highly prestigious [prize].",
+            "translation_zh_TW": "這獎學金是非常有聲望的獎品"
+          },
+          {
+            "sentence": "He was thrilled to receive the [prize] for the best student.",
+            "translation_zh_TW": "他很高興能獲得最佳學生獎"
+          }
+        ],
+        "synonyms": [
+          "award",
+          "trophy"
+        ]
+      }
+    ],
+    "confusion": [
+      "prizing",
+      "prizes",
+      "price",
+      "premise"
+    ]
+  },
+  {
+    "word": "anytime",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At any time.",
+        "meaning_zh_TW": "隨時",
+        "wrong_meaning_zh_TW": [
+          "現在",
+          "每一次",
+          "常常"
+        ],
+        "examples": [
+          {
+            "sentence": "You can call me [anytime].",
+            "translation_zh_TW": "你可以隨時打電話給我"
+          },
+          {
+            "sentence": "She is available [anytime] during the week.",
+            "translation_zh_TW": "她在週內隨時都有空"
+          },
+          {
+            "sentence": "Feel free to drop by [anytime].",
+            "translation_zh_TW": "隨時來訪都可以"
+          }
+        ],
+        "synonyms": [
+          "whenever",
+          "at any moment"
+        ]
+      }
+    ],
+    "confusion": [
+      "anytimee",
+      "anytim",
+      "anytme",
+      "anyayme"
+    ]
+  },
+  {
+    "word": "ill",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Sick or unwell.",
+        "meaning_zh_TW": "生病的",
+        "wrong_meaning_zh_TW": [
+          "健康的",
+          "強壯的",
+          "快樂的"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt [ill] after eating too much.",
+            "translation_zh_TW": "他吃太多後感到生病。"
+          },
+          {
+            "sentence": "The [ill] child needs rest.",
+            "translation_zh_TW": "這個生病的孩子需要休息。"
+          },
+          {
+            "sentence": "She has been feeling [ill] for days.",
+            "translation_zh_TW": "她已經感覺生病好幾天。"
+          }
+        ],
+        "synonyms": [
+          "sick",
+          "unwell"
+        ]
+      }
+    ],
+    "confusion": [
+      "illness",
+      "illicit",
+      "ilk",
+      "illogical"
+    ]
+  },
+  {
+    "word": "lay",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To put down, especially gently or carefully.",
+        "meaning_zh_TW": "放下",
+        "wrong_meaning_zh_TW": [
+          "鋪設",
+          "擊打",
+          "埋葬"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [lay] the book on the table.",
+            "translation_zh_TW": "他決定把書放在桌上"
+          },
+          {
+            "sentence": "Please [lay] the blanket out for a picnic.",
+            "translation_zh_TW": "請把毛毯攤開以便野餐"
+          },
+          {
+            "sentence": "She will [lay] the foundation for the new project.",
+            "translation_zh_TW": "她將為新項目奠定基礎"
+          }
+        ],
+        "synonyms": [
+          "place",
+          "put"
+        ]
+      }
+    ],
+    "confusion": [
+      "lie",
+      "pay",
+      "gray",
+      "day"
+    ]
+  },
+  {
+    "word": "worker",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who works, especially one who does manual or unskilled work.",
+        "meaning_zh_TW": "工作者",
+        "wrong_meaning_zh_TW": [
+          "失業者",
+          "管理者",
+          "助理"
+        ],
+        "examples": [
+          {
+            "sentence": "Every [worker] deserves fair wages.",
+            "translation_zh_TW": "每位工作者都應該獲得公平的工資。"
+          },
+          {
+            "sentence": "The factory employs over 200 [workers].",
+            "translation_zh_TW": "這家工廠雇用了超過200名工人。"
+          },
+          {
+            "sentence": "She is a skilled [worker] in her field.",
+            "translation_zh_TW": "她在她的領域是一位技術熟練的工作者。"
+          }
+        ],
+        "synonyms": [
+          "employee",
+          "laborer"
+        ]
+      }
+    ],
+    "confusion": [
+      "worker's",
+      "workshop",
+      "working",
+      "worked"
+    ]
+  },
+  {
+    "word": "alive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having life; living; not dead.",
+        "meaning_zh_TW": "活著的",
+        "wrong_meaning_zh_TW": [
+          "呆滯的",
+          "靜止的",
+          "無生命的"
+        ],
+        "examples": [
+          {
+            "sentence": "The plant is still [alive] despite the harsh winter.",
+            "translation_zh_TW": "雖然嚴冬，這植物依然活著"
+          },
+          {
+            "sentence": "He felt [alive] when he traveled to new places.",
+            "translation_zh_TW": "當他去新的地方時，他感到活著"
+          },
+          {
+            "sentence": "She hugged her pet to feel the warmth of something [alive].",
+            "translation_zh_TW": "她擁抱她的寵物，以感受某種活著的溫暖"
+          }
+        ],
+        "synonyms": [
+          "living",
+          "active"
+        ]
+      }
+    ],
+    "confusion": [
+      "alivaa",
+      "alivee",
+      "allive",
+      "alive!"
+    ]
+  },
+  {
+    "word": "prove",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To establish the truth or validity of something.",
+        "meaning_zh_TW": "證明、證實",
+        "wrong_meaning_zh_TW": [
+          "隱藏、隱瞞",
+          "混淆、混亂",
+          "推測、猜測"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [prove] your identity to access the account.",
+            "translation_zh_TW": "你需要證明你的身份才能訪問該帳戶。"
+          },
+          {
+            "sentence": "The results will [prove] his theory correct.",
+            "translation_zh_TW": "結果將證明他的理論是正確的。"
+          },
+          {
+            "sentence": "They hope to [prove] their innocence in court.",
+            "translation_zh_TW": "他們希望在法庭上證明自己的清白。"
+          }
+        ],
+        "synonyms": [
+          "establish",
+          "demonstrate"
+        ]
+      }
+    ],
+    "confusion": [
+      "proveable",
+      "proves",
+      "proven",
+      "preve"
+    ]
+  },
+  {
+    "word": "promise",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A declaration or assurance that one will do a particular thing or that a particular thing will happen.",
+        "meaning_zh_TW": "承諾",
+        "wrong_meaning_zh_TW": [
+          "遊戲規則",
+          "法律責任",
+          "產品特徵"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [promise] to help her with her project.",
+            "translation_zh_TW": "他承諾幫助她完成項目"
+          },
+          {
+            "sentence": "The [promise] of a better future motivates us.",
+            "translation_zh_TW": "對更美好未來的承諾激勵著我們"
+          },
+          {
+            "sentence": "Breaking a [promise] can lead to distrust.",
+            "translation_zh_TW": "違背承諾可能會導致不信任"
+          }
+        ],
+        "synonyms": [
+          "commitment",
+          "vow"
+        ]
+      }
+    ],
+    "confusion": [
+      "promiss",
+      "prommise",
+      "prmoise",
+      "proimse"
+    ]
+  },
+  {
+    "word": "prefer",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To like one thing or person better than another.",
+        "meaning_zh_TW": "比較喜歡",
+        "wrong_meaning_zh_TW": [
+          "討厭",
+          "拒絕",
+          "分配"
+        ],
+        "examples": [
+          {
+            "sentence": "I [prefer] tea to coffee.",
+            "translation_zh_TW": "我[比較喜歡]茶而不是咖啡。"
+          },
+          {
+            "sentence": "She [prefers] reading over watching TV.",
+            "translation_zh_TW": "她[比較喜歡]看書而不是看電視。"
+          },
+          {
+            "sentence": "They [prefer] outdoor activities.",
+            "translation_zh_TW": "他們[比較喜歡]戶外活動。"
+          }
+        ],
+        "synonyms": [
+          "favor",
+          "choose",
+          "select"
+        ]
+      }
+    ],
+    "confusion": [
+      "prevent",
+      "profess",
+      "proffer",
+      "prefered"
+    ]
+  },
+  {
+    "word": "purple",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of a color intermediate between red and blue.",
+        "meaning_zh_TW": "紫色的",
+        "wrong_meaning_zh_TW": [
+          "橙色的",
+          "綠色的",
+          "藍色的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a beautiful [purple] gown to the party.",
+            "translation_zh_TW": "她穿了一件美麗的紫色長裙出席派對"
+          },
+          {
+            "sentence": "The flowers bloomed in shades of [purple].",
+            "translation_zh_TW": "這些花以紫色的色調綻放"
+          },
+          {
+            "sentence": "His favorite crayon is [purple].",
+            "translation_zh_TW": "他最喜歡的蠟筆是紫色的"
+          }
+        ],
+        "synonyms": [
+          "violet",
+          "lavender"
+        ]
+      }
+    ],
+    "confusion": [
+      "purl",
+      "purse",
+      "pulled",
+      "pumple"
+    ]
+  },
+  {
+    "word": "existence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of being, or having objective reality.",
+        "meaning_zh_TW": "存在",
+        "wrong_meaning_zh_TW": [
+          "消失",
+          "空虛",
+          "衰退"
+        ],
+        "examples": [
+          {
+            "sentence": "The existence of life on other planets is still a mystery.",
+            "translation_zh_TW": "其他星球上生命的存在仍然是一個謎。"
+          },
+          {
+            "sentence": "Many philosophers debate the nature of existence.",
+            "translation_zh_TW": "許多哲學家討論存在的本質。"
+          },
+          {
+            "sentence": "His existence was marked by numerous achievements.",
+            "translation_zh_TW": "他的存在標誌著無數的成就。"
+          }
+        ],
+        "synonyms": [
+          "being",
+          "presence"
+        ]
+      }
+    ],
+    "confusion": [
+      "exist",
+      "exceed",
+      "exile",
+      "assist"
+    ]
+  },
+  {
+    "word": "prison",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A building where people are kept as a punishment for a crime.",
+        "meaning_zh_TW": "監獄",
+        "wrong_meaning_zh_TW": [
+          "醫院",
+          "學校",
+          "倉庫"
+        ],
+        "examples": [
+          {
+            "sentence": "He was sent to [prison] for committing theft.",
+            "translation_zh_TW": "因為犯竊，他被送到監獄"
+          },
+          {
+            "sentence": "The [prison] was built in the 1800s.",
+            "translation_zh_TW": "這所監獄建於19世紀"
+          },
+          {
+            "sentence": "Life in [prison] can be very difficult.",
+            "translation_zh_TW": "監獄生活可能非常艱難"
+          }
+        ],
+        "synonyms": [
+          "jail",
+          "penitentiary"
+        ]
+      }
+    ],
+    "confusion": [
+      "prisoner",
+      "prisong",
+      "prisons",
+      "prislon"
+    ]
+  },
+  {
+    "word": "skill",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to do something well; expertise.",
+        "meaning_zh_TW": "技能",
+        "wrong_meaning_zh_TW": [
+          "運氣",
+          "運動",
+          "藝術品"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a great [skill] in painting.",
+            "translation_zh_TW": "她在繪畫方面有很大的技能。"
+          },
+          {
+            "sentence": "Developing [skill] takes time and practice.",
+            "translation_zh_TW": "發展技能需要時間和練習。"
+          },
+          {
+            "sentence": "His [skill] in negotiation is impressive.",
+            "translation_zh_TW": "他在談判方面的技能令人印象深刻。"
+          }
+        ],
+        "synonyms": [
+          "talent",
+          "ability"
+        ]
+      }
+    ],
+    "confusion": [
+      "shill",
+      "kill",
+      "spill",
+      "skil"
+    ]
+  },
+  {
+    "word": "desert",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A barren area of land where little precipitation occurs and consequently living conditions are hostile.",
+        "meaning_zh_TW": "沙漠",
+        "wrong_meaning_zh_TW": [
+          "草原",
+          "森林",
+          "湖泊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [desert] is home to many unique species.",
+            "translation_zh_TW": "沙漠中棲息著許多獨特的物種。"
+          },
+          {
+            "sentence": "They traveled across the vast [desert].",
+            "translation_zh_TW": "他們穿越了廣闊的沙漠。"
+          },
+          {
+            "sentence": "Survival in the [desert] can be challenging.",
+            "translation_zh_TW": "在沙漠中生存可能很具挑戰性。"
+          }
+        ],
+        "synonyms": [
+          "wasteland",
+          "dry land"
+        ]
+      }
+    ],
+    "confusion": [
+      "dessert",
+      "deserter",
+      "design",
+      "destiny"
+    ]
+  }
+]

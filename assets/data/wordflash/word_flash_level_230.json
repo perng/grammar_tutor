@@ -1,0 +1,784 @@
+[
+  {
+    "word": "bulk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The larger part or mass of something.",
+        "meaning_zh_TW": "大宗",
+        "wrong_meaning_zh_TW": [
+          "顆粒",
+          "個體",
+          "分子"
+        ],
+        "examples": [
+          {
+            "sentence": "The [bulk] of the shipment arrived yesterday.",
+            "translation_zh_TW": "大宗貨物昨天到達"
+          },
+          {
+            "sentence": "She prefers to buy food in [bulk] to save money.",
+            "translation_zh_TW": "她喜歡大量購買食物以節省金錢"
+          },
+          {
+            "sentence": "The [bulk] of the audience was satisfied with the performance.",
+            "translation_zh_TW": "大部分觀眾對表演感到滿意"
+          }
+        ],
+        "synonyms": [
+          "mass",
+          "volume"
+        ]
+      }
+    ],
+    "confusion": [
+      "bulkiness",
+      "bulky",
+      "balk",
+      "bulge"
+    ]
+  },
+  {
+    "word": "fabric",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Cloth or textile material, typically produced by weaving or knitting.",
+        "meaning_zh_TW": "布料、織物",
+        "wrong_meaning_zh_TW": [
+          "結構",
+          "框架",
+          "進程"
+        ],
+        "examples": [
+          {
+            "sentence": "The dress is made from a beautiful [fabric].",
+            "translation_zh_TW": "這件裙子是用美麗的布料製成的。"
+          },
+          {
+            "sentence": "She selected a soft [fabric] for the curtains.",
+            "translation_zh_TW": "她為窗簾選擇了一種柔軟的織物。"
+          },
+          {
+            "sentence": "Different [fabrics] serve different purposes.",
+            "translation_zh_TW": "不同的布料用於不同的目的。"
+          }
+        ],
+        "synonyms": [
+          "textile",
+          "cloth",
+          "material"
+        ]
+      }
+    ],
+    "confusion": [
+      "fabricate",
+      "fabrics",
+      "fabrique",
+      "fabregas"
+    ]
+  },
+  {
+    "word": "recommendation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A suggestion or proposal regarding the best course of action.",
+        "meaning_zh_TW": "建議",
+        "wrong_meaning_zh_TW": [
+          "意見",
+          "糾正",
+          "限制"
+        ],
+        "examples": [
+          {
+            "sentence": "The committee issued a [recommendation] for better safety measures.",
+            "translation_zh_TW": "委員會發出建議以提高安全措施。"
+          },
+          {
+            "sentence": "Her strong [recommendation] led to his hiring.",
+            "translation_zh_TW": "她的強烈建議促成了他的錄用。"
+          },
+          {
+            "sentence": "I appreciate your [recommendation] on the matter.",
+            "translation_zh_TW": "我感謝你在此事上的建議。"
+          }
+        ],
+        "synonyms": [
+          "advice",
+          "suggestion"
+        ]
+      }
+    ],
+    "confusion": [
+      "recollection",
+      "recommend",
+      "recombinant",
+      "commendation"
+    ]
+  },
+  {
+    "word": "expertise",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Specialized knowledge or skill in a particular area.",
+        "meaning_zh_TW": "專門知識",
+        "wrong_meaning_zh_TW": [
+          "普通技能",
+          "雜學",
+          "範圍廣泛"
+        ],
+        "examples": [
+          {
+            "sentence": "His [expertise] in software engineering is well recognized.",
+            "translation_zh_TW": "他在軟體工程方面的專業知識受到廣泛認可。"
+          },
+          {
+            "sentence": "She sought his [expertise] for the project.",
+            "translation_zh_TW": "她尋求他的專業知識來完成這個項目。"
+          },
+          {
+            "sentence": "The team relied on her [expertise] in marketing.",
+            "translation_zh_TW": "團隊依賴她在市場營銷方面的專業知識。"
+          }
+        ],
+        "synonyms": [
+          "skill",
+          "proficiency"
+        ]
+      }
+    ],
+    "confusion": [
+      "expert",
+      "exposition",
+      "exterprise",
+      "exhibit"
+    ]
+  },
+  {
+    "word": "mechanism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system of parts working together in a machine; a piece of machinery.",
+        "meaning_zh_TW": "機械結構",
+        "wrong_meaning_zh_TW": [
+          "心靈",
+          "藉口",
+          "觀點"
+        ],
+        "examples": [
+          {
+            "sentence": "The clock's [mechanism] is very complex.",
+            "translation_zh_TW": "這時鐘的機械結構非常複雜。"
+          },
+          {
+            "sentence": "Understanding the [mechanism] of this device is crucial.",
+            "translation_zh_TW": "理解這個裝置的機械結構至關重要。"
+          },
+          {
+            "sentence": "Every [mechanism] has its own function.",
+            "translation_zh_TW": "每個機械結構都有其自己的功能。"
+          }
+        ],
+        "synonyms": [
+          "system",
+          "device"
+        ]
+      }
+    ],
+    "confusion": [
+      "mechanics",
+      "mechanical",
+      "metronome",
+      "mechansim"
+    ]
+  },
+  {
+    "word": "innovative",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Introducing new ideas or methods.",
+        "meaning_zh_TW": "創新的",
+        "wrong_meaning_zh_TW": [
+          "傳統的",
+          "保守的",
+          "平庸的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [innovative] approach impressed the committee.",
+            "translation_zh_TW": "她的創新方法讓委員會印象深刻。"
+          },
+          {
+            "sentence": "The team's [innovative] solution solved the problem.",
+            "translation_zh_TW": "團隊的創新解決方案解決了問題。"
+          },
+          {
+            "sentence": "They launched an [innovative] product last year.",
+            "translation_zh_TW": "他們去年推出了一款創新產品。"
+          }
+        ],
+        "synonyms": [
+          "groundbreaking",
+          "novel"
+        ]
+      }
+    ],
+    "confusion": [
+      "innovative",
+      "innovates",
+      "innovatives",
+      "innovatve"
+    ]
+  },
+  {
+    "word": "massage",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To manipulate muscles and tissue in the body, usually for relaxation or therapeutic purposes.",
+        "meaning_zh_TW": "按摩",
+        "wrong_meaning_zh_TW": [
+          "下一步",
+          "損壞",
+          "失戀"
+        ],
+        "examples": [
+          {
+            "sentence": "She likes to [massage] her shoulders after a long day.",
+            "translation_zh_TW": "她喜歡在漫長的一天之後按摩她的肩膀。"
+          },
+          {
+            "sentence": "They offer a special [massage] treatment at the spa.",
+            "translation_zh_TW": "他們在水療中心提供特別的按摩療程。"
+          },
+          {
+            "sentence": "He learned how to [massage] effectively to help others.",
+            "translation_zh_TW": "他學會了如何有效地按摩以幫助他人。"
+          }
+        ],
+        "synonyms": [
+          "knead",
+          "rub"
+        ]
+      }
+    ],
+    "confusion": [
+      "message",
+      "mileage",
+      "masseuse",
+      "mashed"
+    ]
+  },
+  {
+    "word": "collaboration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of working with someone to produce or create something.",
+        "meaning_zh_TW": "合作",
+        "wrong_meaning_zh_TW": [
+          "競爭",
+          "衝突",
+          "失敗"
+        ],
+        "examples": [
+          {
+            "sentence": "The project was a successful [collaboration] between the two companies.",
+            "translation_zh_TW": "該項目是兩家公司成功的合作。"
+          },
+          {
+            "sentence": "Their [collaboration] led to innovative solutions.",
+            "translation_zh_TW": "他們的合作促成了創新的解決方案。"
+          },
+          {
+            "sentence": "Artists often seek [collaboration] to enhance creativity.",
+            "translation_zh_TW": "藝術家們經常尋求合作來提升創造力。"
+          }
+        ],
+        "synonyms": [
+          "cooperation",
+          "partnership"
+        ]
+      }
+    ],
+    "confusion": [
+      "collabration",
+      "collaboratione",
+      "colloboration",
+      "colaboration"
+    ]
+  },
+  {
+    "word": "entity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Something that exists as a particular and discrete unit.",
+        "meaning_zh_TW": "實體",
+        "wrong_meaning_zh_TW": [
+          "概念",
+          "抽象",
+          "幻想"
+        ],
+        "examples": [
+          {
+            "sentence": "The corporation is a legal [entity].",
+            "translation_zh_TW": "該公司是一個合法的實體"
+          },
+          {
+            "sentence": "Every [entity] in this organization has a specific role.",
+            "translation_zh_TW": "這個組織中的每個實體都有特定的角色"
+          },
+          {
+            "sentence": "She treated her business as a separate [entity].",
+            "translation_zh_TW": "她將自己的業務視為一個獨立的實體"
+          }
+        ],
+        "synonyms": [
+          "being",
+          "thing",
+          "individual"
+        ]
+      }
+    ],
+    "confusion": [
+      "entitling",
+      "entities",
+      "entirety",
+      "antiquity"
+    ]
+  },
+  {
+    "word": "operational",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the operation of a business or system.",
+        "meaning_zh_TW": "操作的、運行的",
+        "wrong_meaning_zh_TW": [
+          "理論的",
+          "虛擬的",
+          "健康的"
+        ],
+        "examples": [
+          {
+            "sentence": "The systems are fully [operational] now.",
+            "translation_zh_TW": "這些系統現在完全可以運行了。"
+          },
+          {
+            "sentence": "They are working on improving [operational] efficiency.",
+            "translation_zh_TW": "他們正在努力提高運行效率。"
+          },
+          {
+            "sentence": "The [operational] protocols are being reviewed.",
+            "translation_zh_TW": "操作協議正在進行審核。"
+          }
+        ],
+        "synonyms": [
+          "functional",
+          "working"
+        ]
+      }
+    ],
+    "confusion": [
+      "operation",
+      "operationalize",
+      "operationary",
+      "oppression"
+    ]
+  },
+  {
+    "word": "rail",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A bar or series of bars, typically arranged horizontally for support or as a barrier.",
+        "meaning_zh_TW": "鐵軌、欄杆",
+        "wrong_meaning_zh_TW": [
+          "直線、路徑",
+          "圍欄、界線",
+          "汽車、車輛"
+        ],
+        "examples": [
+          {
+            "sentence": "The train travels on the rail between cities.",
+            "translation_zh_TW": "列車在城市之間的鐵軌上運行。"
+          },
+          {
+            "sentence": "Please hold onto the rail while using the stairs.",
+            "translation_zh_TW": "使用樓梯時請抓住欄杆。"
+          },
+          {
+            "sentence": "They installed a rail to improve safety on the staircase.",
+            "translation_zh_TW": "他們安裝了一根欄杆以提高樓梯的安全性。"
+          }
+        ],
+        "synonyms": [
+          "bar",
+          "fence"
+        ]
+      }
+    ],
+    "confusion": [
+      "railway",
+      "rails",
+      "railing",
+      "real"
+    ]
+  },
+  {
+    "word": "convert",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To change (something) into a different form or properties; to transform.",
+        "meaning_zh_TW": "轉換",
+        "wrong_meaning_zh_TW": [
+          "保護環境",
+          "包裝物品",
+          "創建計畫"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [convert] the attic into a bedroom.",
+            "translation_zh_TW": "他們計劃將閣樓轉換成臥室"
+          },
+          {
+            "sentence": "He was able to [convert] the file format easily.",
+            "translation_zh_TW": "他能輕鬆地轉換文件格式"
+          },
+          {
+            "sentence": "Many people [convert] to different religions in search of peace.",
+            "translation_zh_TW": "許多人為了尋求和平而皈依不同的宗教"
+          }
+        ],
+        "synonyms": [
+          "transform",
+          "change"
+        ]
+      }
+    ],
+    "confusion": [
+      "convertible",
+      "conversion",
+      "conversant",
+      "convection"
+    ]
+  },
+  {
+    "word": "analyst",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who analyzes or is skilled in analysis.",
+        "meaning_zh_TW": "分析師",
+        "wrong_meaning_zh_TW": [
+          "記者",
+          "評論員",
+          "銷售員"
+        ],
+        "examples": [
+          {
+            "sentence": "The financial [analyst] presented his findings.",
+            "translation_zh_TW": "該金融分析師展示了他的發現。"
+          },
+          {
+            "sentence": "An IT [analyst] helps improve systems.",
+            "translation_zh_TW": "IT分析師幫助改善系統。"
+          },
+          {
+            "sentence": "The market [analyst] predicted a downturn.",
+            "translation_zh_TW": "市場分析師預測將有下滑。"
+          }
+        ],
+        "synonyms": [
+          "examiner",
+          "investigator"
+        ]
+      }
+    ],
+    "confusion": [
+      "analysts",
+      "analyze",
+      "analyze",
+      "analysist"
+    ]
+  },
+  {
+    "word": "productivity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state or quality of producing something, especially in large amounts.",
+        "meaning_zh_TW": "生產率、生產力",
+        "wrong_meaning_zh_TW": [
+          "消耗率",
+          "失業率",
+          "貧困率"
+        ],
+        "examples": [
+          {
+            "sentence": "Increasing [productivity] is essential for economic growth.",
+            "translation_zh_TW": "提高生產率對經濟增長至關重要。"
+          },
+          {
+            "sentence": "Her productivity improved after she organized her workspace.",
+            "translation_zh_TW": "整理工作空間後，她的生產力有所提高。"
+          },
+          {
+            "sentence": "The study aims to measure the [productivity] of remote workers.",
+            "translation_zh_TW": "這項研究旨在衡量遠端工作者的生產力。"
+          }
+        ],
+        "synonyms": [
+          "efficiency",
+          "output"
+        ]
+      }
+    ],
+    "confusion": [
+      "production",
+      "productive",
+      "reductivity",
+      "procurer"
+    ]
+  },
+  {
+    "word": "diagnosis",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The identification of the nature of an illness or other problem by examination of the symptoms.",
+        "meaning_zh_TW": "診斷",
+        "wrong_meaning_zh_TW": [
+          "治療",
+          "症狀",
+          "藥物"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor made a precise [diagnosis] after the tests.",
+            "translation_zh_TW": "醫生在檢查後做出了準確的診斷。"
+          },
+          {
+            "sentence": "A quick [diagnosis] is crucial for effective treatment.",
+            "translation_zh_TW": "快速的診斷對於有效的治療至關重要。"
+          },
+          {
+            "sentence": "Her [diagnosis] revealed a rare condition.",
+            "translation_zh_TW": "她的診斷揭示了一種罕見的疾病。"
+          }
+        ],
+        "synonyms": [
+          "identification",
+          "determination"
+        ]
+      }
+    ],
+    "confusion": [
+      "diagnose",
+      "diagnostic",
+      "diagnois",
+      "diagonsis"
+    ]
+  },
+  {
+    "word": "lounge",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A public room or area where people can relax.",
+        "meaning_zh_TW": "休息室",
+        "wrong_meaning_zh_TW": [
+          "視聽室",
+          "反應室",
+          "辦公室"
+        ],
+        "examples": [
+          {
+            "sentence": "They waited in the hotel [lounge] for their room to be ready.",
+            "translation_zh_TW": "他們在酒店的休息室等候房間準備好。"
+          },
+          {
+            "sentence": "The airport [lounge] offered refreshments and comfortable seating.",
+            "translation_zh_TW": "機場的休息室提供小吃和舒適的座位。"
+          },
+          {
+            "sentence": "After a long day, I enjoy relaxing in my [lounge].",
+            "translation_zh_TW": "經過漫長的一天，我喜歡在休息室放鬆。"
+          }
+        ],
+        "synonyms": [
+          "sitting room",
+          "reception area"
+        ]
+      }
+    ],
+    "confusion": [
+      "long",
+      "lounger",
+      "lound",
+      "lous"
+    ]
+  },
+  {
+    "word": "gross",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Unpleasant or disgusting; also used to describe total amounts before deductions.",
+        "meaning_zh_TW": "粗俗的",
+        "wrong_meaning_zh_TW": [
+          "細膩的",
+          "優雅的",
+          "精美的"
+        ],
+        "examples": [
+          {
+            "sentence": "The bathroom was in a [gross] state.",
+            "translation_zh_TW": "浴室的狀況非常糟糕"
+          },
+          {
+            "sentence": "They have a [gross] misunderstanding about the issue.",
+            "translation_zh_TW": "他們對這個問題有很大的誤解"
+          },
+          {
+            "sentence": "He earned a [gross] amount of income before taxes.",
+            "translation_zh_TW": "他在扣稅前賺取了總收入"
+          }
+        ],
+        "synonyms": [
+          "disgusting",
+          "repulsive"
+        ]
+      }
+    ],
+    "confusion": [
+      "grossly",
+      "grows",
+      "grass",
+      "group"
+    ]
+  },
+  {
+    "word": "vertical",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Perpendicular to the horizon; upright.",
+        "meaning_zh_TW": "垂直的，筆直的",
+        "wrong_meaning_zh_TW": [
+          "平行的",
+          "側面的",
+          "斜的"
+        ],
+        "examples": [
+          {
+            "sentence": "The tower stands [vertical] against the skyline.",
+            "translation_zh_TW": "這座塔在天際線前直立。"
+          },
+          {
+            "sentence": "She drew a [vertical] line on the board.",
+            "translation_zh_TW": "她在黑板上畫了一條垂直線。"
+          },
+          {
+            "sentence": "The pole is placed [vertical] to the ground.",
+            "translation_zh_TW": "這根柱子與地面垂直放置。"
+          }
+        ],
+        "synonyms": [
+          "upright",
+          "perpendicular"
+        ]
+      }
+    ],
+    "confusion": [
+      "verbal",
+      "verticality",
+      "vertex",
+      "ventral"
+    ]
+  },
+  {
+    "word": "structural",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the arrangement or organization of something.",
+        "meaning_zh_TW": "結構性的",
+        "wrong_meaning_zh_TW": [
+          "表面的",
+          "暫時的",
+          "靜態的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [structural] integrity of the building is crucial.",
+            "translation_zh_TW": "建築的結構性完整性至關重要。"
+          },
+          {
+            "sentence": "We need to assess the [structural] changes needed.",
+            "translation_zh_TW": "我們需要評估所需的結構性變化。"
+          },
+          {
+            "sentence": "The report outlines [structural] issues within the organization.",
+            "translation_zh_TW": "報告概述了組織內的結構性問題。"
+          }
+        ],
+        "synonyms": [
+          "organizational",
+          "systemic"
+        ]
+      }
+    ],
+    "confusion": [
+      "structura",
+      "structoral",
+      "structually",
+      "structuring"
+    ]
+  },
+  {
+    "word": "municipal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to a city or town or its local government.",
+        "meaning_zh_TW": "市政的",
+        "wrong_meaning_zh_TW": [
+          "農村的",
+          "國家的",
+          "私人的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [municipal] building houses the city council.",
+            "translation_zh_TW": "該市政大樓內有市議會。"
+          },
+          {
+            "sentence": "Municipal services include water and waste management.",
+            "translation_zh_TW": "市政服務包括水和廢物管理。"
+          },
+          {
+            "sentence": "They voted for a [municipal] candidate in the election.",
+            "translation_zh_TW": "他們在選舉中投票給市政候選人。"
+          }
+        ],
+        "synonyms": [
+          "local",
+          "town"
+        ]
+      }
+    ],
+    "confusion": [
+      "universal",
+      "mutual",
+      "munificent",
+      "munitions"
+    ]
+  }
+]

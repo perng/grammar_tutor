@@ -1,0 +1,760 @@
+[
+  {
+    "word": "crush",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To press or squeeze with a force that breaks or deforms.",
+        "meaning_zh_TW": "壓扁，壓碎",
+        "wrong_meaning_zh_TW": [
+          "樂隊",
+          "冰淇淋",
+          "神話"
+        ],
+        "examples": [
+          {
+            "sentence": "She tried to [crush] the can with her foot.",
+            "translation_zh_TW": "她試著用腳壓扁那個罐子"
+          },
+          {
+            "sentence": "The storm could [crush] the old shed.",
+            "translation_zh_TW": "暴風雨可能壓垮那個舊小屋"
+          },
+          {
+            "sentence": "He accidentally [crushed] the flowers in his bag.",
+            "translation_zh_TW": "他不小心把包裡的花壓壞了"
+          }
+        ],
+        "synonyms": [
+          "squash",
+          "compress"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A strong affection or infatuation for someone.",
+        "meaning_zh_TW": "迷戀，愛慕",
+        "wrong_meaning_zh_TW": [
+          "運動會",
+          "甜點",
+          "音樂會"
+        ],
+        "examples": [
+          {
+            "sentence": "She has a major [crush] on her classmate.",
+            "translation_zh_TW": "她對同班同學有著重大的迷戀"
+          },
+          {
+            "sentence": "He confessed his [crush] during lunch.",
+            "translation_zh_TW": "他在午餐時坦白了他的愛慕"
+          },
+          {
+            "sentence": "It's normal to have a [crush] at this age.",
+            "translation_zh_TW": "在這個年齡有迷戀是正常的"
+          }
+        ],
+        "synonyms": [
+          "infatuation",
+          "adoration"
+        ]
+      }
+    ],
+    "confusion": [
+      "crush",
+      "brush",
+      "bush",
+      "crushes"
+    ]
+  },
+  {
+    "word": "cushion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A soft bag filled with air or a soft material, used for comfort.",
+        "meaning_zh_TW": "墊子",
+        "wrong_meaning_zh_TW": [
+          "桌子",
+          "座椅",
+          "枕頭"
+        ],
+        "examples": [
+          {
+            "sentence": "She placed a [cushion] on the chair for extra comfort.",
+            "translation_zh_TW": "她在椅子上放了一個墊子以增加舒適度。"
+          },
+          {
+            "sentence": "The sofa has several colorful [cushions].",
+            "translation_zh_TW": "沙發上有幾個色彩繽紛的墊子。"
+          },
+          {
+            "sentence": "He leaned back on the [cushion] and sighed with relief.",
+            "translation_zh_TW": "他靠在墊子上，鬆了口氣。"
+          }
+        ],
+        "synonyms": [
+          "pillow",
+          "padding"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To soften the effect of something, to provide support.",
+        "meaning_zh_TW": "緩衝",
+        "wrong_meaning_zh_TW": [
+          "增加",
+          "減少",
+          "削弱"
+        ],
+        "examples": [
+          {
+            "sentence": "They tried to [cushion] the impact of the fall.",
+            "translation_zh_TW": "他們試著緩衝落地的衝擊。"
+          },
+          {
+            "sentence": "He used blankets to [cushion] the boxes during transport.",
+            "translation_zh_TW": "他用毛毯緩衝運輸過程中的箱子。"
+          },
+          {
+            "sentence": "Good management can help to [cushion] the effects of market fluctuations.",
+            "translation_zh_TW": "良好的管理可以幫助緩衝市場波動的影響。"
+          }
+        ],
+        "synonyms": [
+          "buffer",
+          "soften"
+        ]
+      }
+    ],
+    "confusion": [
+      "cushioning",
+      "cousin",
+      "cushing",
+      "cushy"
+    ]
+  },
+  {
+    "word": "influential",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having great influence on someone or something.",
+        "meaning_zh_TW": "有影響力的",
+        "wrong_meaning_zh_TW": [
+          "微不足道的",
+          "普通的",
+          "不重要的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is an [influential] figure in the world of politics.",
+            "translation_zh_TW": "她在政治界是一位有影響力的人物"
+          },
+          {
+            "sentence": "The book was written by an [influential] author.",
+            "translation_zh_TW": "這本書是由一位有影響力的作者所寫"
+          },
+          {
+            "sentence": "His ideas were [influential] in shaping modern art.",
+            "translation_zh_TW": "他的想法在塑造現代藝術方面有影響力"
+          }
+        ],
+        "synonyms": [
+          "powerful",
+          "important"
+        ]
+      }
+    ],
+    "confusion": [
+      "influence",
+      "influenza",
+      "influencer",
+      "influx"
+    ]
+  },
+  {
+    "word": "clash",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come into conflict or collision.",
+        "meaning_zh_TW": "衝突",
+        "wrong_meaning_zh_TW": [
+          "和諧",
+          "一致",
+          "融合"
+        ],
+        "examples": [
+          {
+            "sentence": "The two groups [clashed] during the protest.",
+            "translation_zh_TW": "兩個團體在抗議期間發生了衝突。"
+          },
+          {
+            "sentence": "Their opinions [clash] on the issue of climate change.",
+            "translation_zh_TW": "他們的意見在氣候變化問題上發生了衝突。"
+          },
+          {
+            "sentence": "The colors [clash] and make the design unattractive.",
+            "translation_zh_TW": "顏色衝突，讓設計變得不吸引人。"
+          }
+        ],
+        "synonyms": [
+          "conflict",
+          "collide"
+        ]
+      }
+    ],
+    "confusion": [
+      "clashing",
+      "clashed",
+      "clashers",
+      "class"
+    ]
+  },
+  {
+    "word": "retire",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To stop working after reaching a certain age or upon completing a career.",
+        "meaning_zh_TW": "退休、停止工作",
+        "wrong_meaning_zh_TW": [
+          "就業",
+          "升職",
+          "就任"
+        ],
+        "examples": [
+          {
+            "sentence": "He plans to [retire] at the age of 65.",
+            "translation_zh_TW": "他計劃在65歲時退休。"
+          },
+          {
+            "sentence": "After years of service, she decided to [retire].",
+            "translation_zh_TW": "經過多年的服務，她決定退休。"
+          },
+          {
+            "sentence": "Many people look forward to [retiring] comfortably.",
+            "translation_zh_TW": "許多人期待能夠舒適地退休。"
+          }
+        ],
+        "synonyms": [
+          "withdraw",
+          "give up work"
+        ]
+      }
+    ],
+    "confusion": [
+      "retry",
+      "retrial",
+      "refire",
+      "retiree"
+    ]
+  },
+  {
+    "word": "delightful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing great pleasure; charming.",
+        "meaning_zh_TW": "令人愉快的",
+        "wrong_meaning_zh_TW": [
+          "煩人的",
+          "不愉快的",
+          "枯燥的"
+        ],
+        "examples": [
+          {
+            "sentence": "The meal was absolutely [delightful].",
+            "translation_zh_TW": "這頓飯確實令人愉快。"
+          },
+          {
+            "sentence": "We had a [delightful] time at the picnic.",
+            "translation_zh_TW": "我們在野餐時度過了一段愉快的時光。"
+          },
+          {
+            "sentence": "Her performance was [delightful] to watch.",
+            "translation_zh_TW": "她的演出令人愉快。"
+          }
+        ],
+        "synonyms": [
+          "charming",
+          "pleasing"
+        ]
+      }
+    ],
+    "confusion": [
+      "delight",
+      "delayed",
+      "deliberate",
+      "delicacy"
+    ]
+  },
+  {
+    "word": "cane",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long stick used to help a person walk.",
+        "meaning_zh_TW": "手杖",
+        "wrong_meaning_zh_TW": [
+          "水管",
+          "塑料筆",
+          "柳樹"
+        ],
+        "examples": [
+          {
+            "sentence": "He walked with a [cane] after his surgery.",
+            "translation_zh_TW": "手術後他用手杖走路"
+          },
+          {
+            "sentence": "She uses a [cane] to support her balance.",
+            "translation_zh_TW": "她用手杖來支撐她的平衡"
+          },
+          {
+            "sentence": "The old man always carries his [cane] while walking.",
+            "translation_zh_TW": "老人走路時總是帶著手杖"
+          }
+        ],
+        "synonyms": [
+          "walker",
+          "staff"
+        ]
+      }
+    ],
+    "confusion": [
+      "canes",
+      "canned",
+      "canny",
+      "cone"
+    ]
+  },
+  {
+    "word": "revise",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To alter or edit something, typically a piece of writing or a plan.",
+        "meaning_zh_TW": "修訂、修改",
+        "wrong_meaning_zh_TW": [
+          "保持",
+          "維持",
+          "忽略"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [revise] my essay before submitting it.",
+            "translation_zh_TW": "我需要在提交之前修訂我的論文。"
+          },
+          {
+            "sentence": "She decided to [revise] the budget after the meeting.",
+            "translation_zh_TW": "會議後她決定修訂預算。"
+          },
+          {
+            "sentence": "Teachers often [revise] their curriculum each year.",
+            "translation_zh_TW": "教師通常每年都會修訂他們的課程。"
+          }
+        ],
+        "synonyms": [
+          "edit",
+          "amend"
+        ]
+      }
+    ],
+    "confusion": [
+      "revised",
+      "review",
+      "revisit",
+      "revised"
+    ]
+  },
+  {
+    "word": "surroundings",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The things and conditions around a person or place.",
+        "meaning_zh_TW": "周圍環境",
+        "wrong_meaning_zh_TW": [
+          "內心感受",
+          "個人情緒",
+          "精神狀態"
+        ],
+        "examples": [
+          {
+            "sentence": "She loves the beautiful [surroundings] of the countryside.",
+            "translation_zh_TW": "她喜歡鄉村美麗的周圍環境。"
+          },
+          {
+            "sentence": "The [surroundings] were quiet and peaceful.",
+            "translation_zh_TW": "周圍環境安靜而祥和。"
+          },
+          {
+            "sentence": "His mood was influenced by his [surroundings].",
+            "translation_zh_TW": "他的情緒受到周圍環境的影響。"
+          }
+        ],
+        "synonyms": [
+          "environment",
+          "locale"
+        ]
+      }
+    ],
+    "confusion": [
+      "surround",
+      "surveys",
+      "surrenders",
+      "sundries"
+    ]
+  },
+  {
+    "word": "refusal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An act of saying no to something or rejecting an offer.",
+        "meaning_zh_TW": "拒絕",
+        "wrong_meaning_zh_TW": [
+          "接受",
+          "同意",
+          "允許"
+        ],
+        "examples": [
+          {
+            "sentence": "His [refusal] to participate surprised everyone.",
+            "translation_zh_TW": "他拒絕參加讓大家感到驚訝。"
+          },
+          {
+            "sentence": "The [refusal] of the application led to an investigation.",
+            "translation_zh_TW": "申請的拒絕導致了一次調查。"
+          },
+          {
+            "sentence": "She faced [refusal] when she asked for help.",
+            "translation_zh_TW": "當她請求幫助時遭到了拒絕。"
+          }
+        ],
+        "synonyms": [
+          "denial",
+          "rejection"
+        ]
+      }
+    ],
+    "confusion": [
+      "refusal",
+      "reusable",
+      "refused",
+      "refusal"
+    ]
+  },
+  {
+    "word": "constructive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Serving a useful purpose; tending to build up.",
+        "meaning_zh_TW": "建設性的",
+        "wrong_meaning_zh_TW": [
+          "破壞性的",
+          "猶豫不決的",
+          "多餘的"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher provided [constructive] feedback on my essay.",
+            "translation_zh_TW": "老師對我的文章給予了建設性的反饋。"
+          },
+          {
+            "sentence": "Her [constructive] criticism helped improve the project.",
+            "translation_zh_TW": "她的建設性批評幫助改進了這個項目。"
+          },
+          {
+            "sentence": "It's important to focus on [constructive] solutions during discussions.",
+            "translation_zh_TW": "在討論中，重點放在建設性解決方案上是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "helpful",
+          "beneficial"
+        ]
+      }
+    ],
+    "confusion": [
+      "construct",
+      "construction",
+      "destructive",
+      "constructivism"
+    ]
+  },
+  {
+    "word": "violate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To break or fail to comply with (a rule or formal agreement).",
+        "meaning_zh_TW": "違反",
+        "wrong_meaning_zh_TW": [
+          "遵守",
+          "服從",
+          "遵循"
+        ],
+        "examples": [
+          {
+            "sentence": "If you [violate] the curfew, there will be consequences.",
+            "translation_zh_TW": "如果你違反宵禁，將會有後果。"
+          },
+          {
+            "sentence": "To [violate] the terms of the contract could lead to legal action.",
+            "translation_zh_TW": "違反合約條款可能會導致法律行動。"
+          },
+          {
+            "sentence": "The company was fined for [violating] environmental regulations.",
+            "translation_zh_TW": "該公司因違反環保規定而被罰款。"
+          }
+        ],
+        "synonyms": [
+          "break",
+          "breach"
+        ]
+      }
+    ],
+    "confusion": [
+      "validate",
+      "violation",
+      "violence",
+      "volatile"
+    ]
+  },
+  {
+    "word": "dynasty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A line of hereditary rulers of a country.",
+        "meaning_zh_TW": "王朝",
+        "wrong_meaning_zh_TW": [
+          "時代",
+          "政府",
+          "族群"
+        ],
+        "examples": [
+          {
+            "sentence": "The [dynasty] ruled for over three centuries.",
+            "translation_zh_TW": "該王朝統治了三百多年。"
+          },
+          {
+            "sentence": "The Qin [dynasty] is known for unifying China.",
+            "translation_zh_TW": "秦朝以統一中國而聞名。"
+          },
+          {
+            "sentence": "Many stories are centered around the [dynasty]'s glory.",
+            "translation_zh_TW": "許多故事圍繞著這個王朝的榮耀。"
+          }
+        ],
+        "synonyms": [
+          "house",
+          "lineage"
+        ]
+      }
+    ],
+    "confusion": [
+      "dynastic",
+      "dynamic",
+      "dyne",
+      "dinosaur"
+    ]
+  },
+  {
+    "word": "competitor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person, team, or company that competes against others.",
+        "meaning_zh_TW": "競爭者、對手",
+        "wrong_meaning_zh_TW": [
+          "團結者、協作者",
+          "消費者、使用者",
+          "領導者、指揮官"
+        ],
+        "examples": [
+          {
+            "sentence": "Our company has several strong [competitors].",
+            "translation_zh_TW": "我們公司有幾個強大的競爭者"
+          },
+          {
+            "sentence": "She is a fierce [competitor] in the market.",
+            "translation_zh_TW": "她是市場上激烈的競爭者"
+          },
+          {
+            "sentence": "Knowing your [competitors] is essential for success.",
+            "translation_zh_TW": "了解你的競爭對手對於成功至關重要"
+          }
+        ],
+        "synonyms": [
+          "rival",
+          "opponent"
+        ]
+      }
+    ],
+    "confusion": [
+      "compete",
+      "completer",
+      "competency",
+      "compositor"
+    ]
+  },
+  {
+    "word": "nationality",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The status of belonging to a particular nation.",
+        "meaning_zh_TW": "國籍",
+        "wrong_meaning_zh_TW": [
+          "地域",
+          "文化",
+          "種族"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [nationality] is American.",
+            "translation_zh_TW": "她的國籍是美國人。"
+          },
+          {
+            "sentence": "He declared his [nationality] proudly.",
+            "translation_zh_TW": "他驕傲地宣告了他的國籍。"
+          },
+          {
+            "sentence": "Understanding [nationality] can help in cultural studies.",
+            "translation_zh_TW": "理解國籍有助於文化研究。"
+          }
+        ],
+        "synonyms": [
+          "citizenship",
+          "ethnicity"
+        ]
+      }
+    ],
+    "confusion": [
+      "national",
+      "native",
+      "nation",
+      "nationalize"
+    ]
+  },
+  {
+    "word": "convey",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To communicate or express something.",
+        "meaning_zh_TW": "傳達、表達",
+        "wrong_meaning_zh_TW": [
+          "隱藏、保留",
+          "請求、需求",
+          "抓取、握住"
+        ],
+        "examples": [
+          {
+            "sentence": "She wanted to [convey] her feelings through art.",
+            "translation_zh_TW": "她想通過藝術傳達她的感受"
+          },
+          {
+            "sentence": "The message failed to [convey] its true meaning.",
+            "translation_zh_TW": "這條消息未能傳達其真正的意思"
+          },
+          {
+            "sentence": "Pictures can often [convey] emotions more effectively than words.",
+            "translation_zh_TW": "圖片往往能比文字更有效地傳達情感"
+          }
+        ],
+        "synonyms": [
+          "communicate",
+          "express"
+        ]
+      }
+    ],
+    "confusion": [
+      "convention",
+      "convince",
+      "convert",
+      "converse"
+    ]
+  },
+  {
+    "word": "knob",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A rounded handle or projection, especially one that can be rotated or pressed.",
+        "meaning_zh_TW": "把手，圓形突出部",
+        "wrong_meaning_zh_TW": [
+          "鎖",
+          "盆栽",
+          "桌子"
+        ],
+        "examples": [
+          {
+            "sentence": "She turned the [knob] to open the door.",
+            "translation_zh_TW": "她轉動把手來開門"
+          },
+          {
+            "sentence": "He adjusted the volume by turning the [knob].",
+            "translation_zh_TW": "他通過轉動旋鈕來調整音量"
+          },
+          {
+            "sentence": "The [knob] on the dresser is broken.",
+            "translation_zh_TW": "梳妝臺上的把手壞了"
+          }
+        ],
+        "synonyms": [
+          "handle",
+          "dial"
+        ]
+      }
+    ],
+    "confusion": [
+      "knobs",
+      "knobby",
+      "nob",
+      "knobsome"
+    ]
+  },
+  {
+    "word": "tragic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing or characterized by extreme distress or sorrow.",
+        "meaning_zh_TW": "悲劇性的",
+        "wrong_meaning_zh_TW": [
+          "喜劇性的",
+          "可笑的",
+          "滑稽的"
+        ],
+        "examples": [
+          {
+            "sentence": "The film had a [tragic] ending that left everyone in tears.",
+            "translation_zh_TW": "這部電影有一個悲劇性的結局，讓所有人都流淚。"
+          },
+          {
+            "sentence": "His life story is a [tragic] tale of loss and redemption.",
+            "translation_zh_TW": "他的生活故事是一個悲劇性的失落與救贖的故事。"
+          },
+          {
+            "sentence": "The play depicted a [tragic] hero who made a fatal mistake.",
+            "translation_zh_TW": "這部劇描繪了一位犯了致命錯誤的悲劇英雄。"
+          }
+        ],
+        "synonyms": [
+          "sorrowful",
+          "dismal"
+        ]
+      }
+    ],
+    "confusion": [
+      "magic",
+      "trag",
+      "tragicly",
+      "tragick"
+    ]
+  }
+]

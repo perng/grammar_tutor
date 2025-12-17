@@ -1,0 +1,784 @@
+[
+  {
+    "word": "reign",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To hold royal office; to rule as king or queen.",
+        "meaning_zh_TW": "統治",
+        "wrong_meaning_zh_TW": [
+          "自由",
+          "輪替",
+          "撤回"
+        ],
+        "examples": [
+          {
+            "sentence": "The queen will [reign] for another decade.",
+            "translation_zh_TW": "女王將統治十年。"
+          },
+          {
+            "sentence": "The powerful king chose to [reign] justly.",
+            "translation_zh_TW": "這位強大的國王選擇公正地統治。"
+          },
+          {
+            "sentence": "During his [reign], the kingdom flourished.",
+            "translation_zh_TW": "在他的統治期間，王國繁榮發展。"
+          }
+        ],
+        "synonyms": [
+          "rule",
+          "govern"
+        ]
+      }
+    ],
+    "confusion": [
+      "rain",
+      "rein",
+      "reigned",
+      "reigns"
+    ]
+  },
+  {
+    "word": "accountable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Required or expected to justify actions or decisions; responsible.",
+        "meaning_zh_TW": "負責任的",
+        "wrong_meaning_zh_TW": [
+          "無責任",
+          "明亮",
+          "模糊"
+        ],
+        "examples": [
+          {
+            "sentence": "The manager is [accountable] for the team's performance.",
+            "translation_zh_TW": "經理對團隊的表現負責。"
+          },
+          {
+            "sentence": "Every citizen is [accountable] for their actions.",
+            "translation_zh_TW": "每個市民都對自己的行為負責。"
+          },
+          {
+            "sentence": "They must be [accountable] to the board for their decisions.",
+            "translation_zh_TW": "他們必須對董事會的決策負責。"
+          }
+        ],
+        "synonyms": [
+          "responsible",
+          "answerable"
+        ]
+      }
+    ],
+    "confusion": [
+      "accountable",
+      "account",
+      "accounting",
+      "counter"
+    ]
+  },
+  {
+    "word": "novice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person new to or inexperienced in a field or situation.",
+        "meaning_zh_TW": "新手",
+        "wrong_meaning_zh_TW": [
+          "專家",
+          "老手",
+          "高手"
+        ],
+        "examples": [
+          {
+            "sentence": "As a [novice], she was eager to learn.",
+            "translation_zh_TW": "作為一個新手，她渴望學習。"
+          },
+          {
+            "sentence": "The program is designed for [novice] users.",
+            "translation_zh_TW": "這個程序是為新手用戶設計的。"
+          },
+          {
+            "sentence": "Every expert was once a [novice].",
+            "translation_zh_TW": "每個專家都是曾經的新手。"
+          }
+        ],
+        "synonyms": [
+          "beginner",
+          "trainee"
+        ]
+      }
+    ],
+    "confusion": [
+      "novel",
+      "noble",
+      "novation",
+      "novellas"
+    ]
+  },
+  {
+    "word": "fury",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Wild or violent anger.",
+        "meaning_zh_TW": "狂怒",
+        "wrong_meaning_zh_TW": [
+          "安寧",
+          "智慧",
+          "快樂"
+        ],
+        "examples": [
+          {
+            "sentence": "She shouted in [fury] when she saw the mess.",
+            "translation_zh_TW": "當她看到這個混亂時大聲吼叫，心中充滿了狂怒。"
+          },
+          {
+            "sentence": "His [fury] was uncontrollable after the betrayal.",
+            "translation_zh_TW": "在背叛之後，他的狂怒無法控制。"
+          },
+          {
+            "sentence": "They faced the [fury] of the storm.",
+            "translation_zh_TW": "他們面對著風暴的狂怒。"
+          }
+        ],
+        "synonyms": [
+          "anger",
+          "rage"
+        ]
+      }
+    ],
+    "confusion": [
+      "furry",
+      "fury's",
+      "fairy",
+      "furry"
+    ]
+  },
+  {
+    "word": "proficiency",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A high degree of skill; expertise.",
+        "meaning_zh_TW": "熟練",
+        "wrong_meaning_zh_TW": [
+          "不熟練",
+          "無知",
+          "低技能"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [proficiency] in French impresses everyone.",
+            "translation_zh_TW": "她的法語熟練讓每個人都印象深刻。"
+          },
+          {
+            "sentence": "He is known for his [proficiency] in mathematics.",
+            "translation_zh_TW": "他因數學熟練而聞名。"
+          },
+          {
+            "sentence": "The test measures your [proficiency] in English.",
+            "translation_zh_TW": "這個測試評估你在英語方面的熟練程度。"
+          }
+        ],
+        "synonyms": [
+          "skill",
+          "competence"
+        ]
+      }
+    ],
+    "confusion": [
+      "proficient",
+      "proficiently",
+      "proficiency's",
+      "proficiencies"
+    ]
+  },
+  {
+    "word": "majesty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Impressive beauty, scale, or dignity.",
+        "meaning_zh_TW": "威嚴",
+        "wrong_meaning_zh_TW": [
+          "雨林",
+          "狂歡",
+          "積木"
+        ],
+        "examples": [
+          {
+            "sentence": "The castle stood in all its [majesty] against the skyline.",
+            "translation_zh_TW": "那座城堡在天際線中顯得無比威嚴。"
+          },
+          {
+            "sentence": "We marveled at the [majesty] of the mountains.",
+            "translation_zh_TW": "我們驚嘆於山脈的壯麗。"
+          },
+          {
+            "sentence": "The queen entered, and everyone bowed to her [majesty].",
+            "translation_zh_TW": "女王進入時，所有人都向她的威嚴鞠躬。"
+          }
+        ],
+        "synonyms": [
+          "grandeur",
+          "splendor"
+        ]
+      }
+    ],
+    "confusion": [
+      "majestic",
+      "majority",
+      "magnet",
+      "majolica"
+    ]
+  },
+  {
+    "word": "fishery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A place where fish are bred or caught, especially for commercial purposes.",
+        "meaning_zh_TW": "漁場",
+        "wrong_meaning_zh_TW": [
+          "漁電",
+          "漁料",
+          "漁盒"
+        ],
+        "examples": [
+          {
+            "sentence": "The local [fishery] supplies fresh fish to the market.",
+            "translation_zh_TW": "當地的[漁場]為市場提供新鮮魚類。"
+          },
+          {
+            "sentence": "Fish are raised in the [fishery] for sustainable use.",
+            "translation_zh_TW": "[漁場]裡養殖魚類以便可持續使用。"
+          },
+          {
+            "sentence": "Many jobs depend on the economy of the [fishery].",
+            "translation_zh_TW": "許多工作依賴於[漁場]的經濟。"
+          }
+        ],
+        "synonyms": [
+          "aquaculture",
+          "fishing grounds",
+          "fish farm"
+        ]
+      }
+    ],
+    "confusion": [
+      "fishingery",
+      "fisheryr",
+      "fisher",
+      "fisheries"
+    ]
+  },
+  {
+    "word": "distress",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Extreme anxiety, sorrow, or pain.",
+        "meaning_zh_TW": "痛苦",
+        "wrong_meaning_zh_TW": [
+          "聯繫",
+          "安慰",
+          "支持"
+        ],
+        "examples": [
+          {
+            "sentence": "She was in a state of [distress] after hearing the news.",
+            "translation_zh_TW": "她在聽到消息後處於痛苦的狀態。"
+          },
+          {
+            "sentence": "The rescue team responded quickly to the [distress] signal.",
+            "translation_zh_TW": "救援隊迅速對痛苦信號作出反應。"
+          },
+          {
+            "sentence": "His face showed signs of [distress] during the incident.",
+            "translation_zh_TW": "事件中他的臉上顯示出痛苦的跡象。"
+          }
+        ],
+        "synonyms": [
+          "anguish",
+          "suffering"
+        ]
+      }
+    ],
+    "confusion": [
+      "de-stress",
+      "distressful",
+      "distressed",
+      "dishstress"
+    ]
+  },
+  {
+    "word": "homosexual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or having a sexual orientation toward people of the same sex.",
+        "meaning_zh_TW": "同性戀的",
+        "wrong_meaning_zh_TW": [
+          "異性戀的",
+          "雙性戀的",
+          "單身的"
+        ],
+        "examples": [
+          {
+            "sentence": "He identifies as [homosexual].",
+            "translation_zh_TW": "他認同自己是同性戀者。"
+          },
+          {
+            "sentence": "Many [homosexual] relationships are built on mutual respect.",
+            "translation_zh_TW": "許多同性戀關係基於相互尊重。"
+          },
+          {
+            "sentence": "The film portrays a [homosexual] couple.",
+            "translation_zh_TW": "這部電影描繪了一對同性戀情侶。"
+          }
+        ],
+        "synonyms": [
+          "gay",
+          "lesbian"
+        ]
+      }
+    ],
+    "confusion": [
+      "homo",
+      "homo sapiens",
+      "homosapien",
+      "homophobe"
+    ]
+  },
+  {
+    "word": "garment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An article of clothing.",
+        "meaning_zh_TW": "衣物",
+        "wrong_meaning_zh_TW": [
+          "配件",
+          "鞋子",
+          "飾品"
+        ],
+        "examples": [
+          {
+            "sentence": "She selected a beautiful [garment] for the occasion.",
+            "translation_zh_TW": "她為了這個場合挑選了一件漂亮的衣物。"
+          },
+          {
+            "sentence": "The [garment] was handmade and unique.",
+            "translation_zh_TW": "這件衣物是手工製作的，非常獨特。"
+          },
+          {
+            "sentence": "Different cultures have their traditional [garments].",
+            "translation_zh_TW": "不同的文化有它們的傳統衣物。"
+          }
+        ],
+        "synonyms": [
+          "clothing",
+          "attire"
+        ]
+      }
+    ],
+    "confusion": [
+      "garments",
+      "garage",
+      "garnet",
+      "garnish"
+    ]
+  },
+  {
+    "word": "spacecraft",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A vehicle designed for travel or operation in outer space.",
+        "meaning_zh_TW": "太空船",
+        "wrong_meaning_zh_TW": [
+          "海洋船",
+          "飛機",
+          "列車"
+        ],
+        "examples": [
+          {
+            "sentence": "The [spacecraft] launched successfully into orbit.",
+            "translation_zh_TW": "太空船成功發射進入軌道"
+          },
+          {
+            "sentence": "Scientists are developing new technologies for [spacecraft] travel.",
+            "translation_zh_TW": "科學家正在開發新技術以便於太空船旅行"
+          },
+          {
+            "sentence": "Every [spacecraft] requires a team of experts to manage operations.",
+            "translation_zh_TW": "每艘太空船都需要一組專家來管理操作"
+          }
+        ],
+        "synonyms": [
+          "spaceship",
+          "shuttle"
+        ]
+      }
+    ],
+    "confusion": [
+      "spaceship",
+      "spacecrafts",
+      "spacecrafted",
+      "space ship"
+    ]
+  },
+  {
+    "word": "lifelong",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Continuing for the whole of a person's life.",
+        "meaning_zh_TW": "終身的",
+        "wrong_meaning_zh_TW": [
+          "永恆的",
+          "短暫的",
+          "偶然的"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [lifelong] commitment to the community.",
+            "translation_zh_TW": "他對社區做出了終身承諾."
+          },
+          {
+            "sentence": "She pursued her [lifelong] dream of becoming an artist.",
+            "translation_zh_TW": "她追尋成為藝術家的終身夢想."
+          },
+          {
+            "sentence": "They have a [lifelong] friendship that has lasted since childhood.",
+            "translation_zh_TW": "他們的友誼自童年以來持續了終身."
+          }
+        ],
+        "synonyms": [
+          "perpetual",
+          "enduring"
+        ]
+      }
+    ],
+    "confusion": [
+      "lifelonger",
+      "lifeling",
+      "life-longer",
+      "lifelonging"
+    ]
+  },
+  {
+    "word": "concise",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Giving a lot of information clearly and in a few words.",
+        "meaning_zh_TW": "簡明的",
+        "wrong_meaning_zh_TW": [
+          "冗長的",
+          "模糊的",
+          "繁瑣的"
+        ],
+        "examples": [
+          {
+            "sentence": "The report was clear and [concise], making it easy to understand.",
+            "translation_zh_TW": "報告清晰而簡明，使其易於理解。"
+          },
+          {
+            "sentence": "She appreciated his [concise] explanations during the lecture.",
+            "translation_zh_TW": "她欣賞他在講課中簡明扼要的解釋。"
+          },
+          {
+            "sentence": "A [concise] summary is often more effective than a lengthy one.",
+            "translation_zh_TW": "簡明的摘要通常比冗長的摘要更有效。"
+          }
+        ],
+        "synonyms": [
+          "brief",
+          "to-the-point"
+        ]
+      }
+    ],
+    "confusion": [
+      "concise",
+      "conscious",
+      "condition",
+      "conclusively"
+    ]
+  },
+  {
+    "word": "prohibition",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of forbidding something, especially by law.",
+        "meaning_zh_TW": "禁止",
+        "wrong_meaning_zh_TW": [
+          "允許",
+          "鼓勵",
+          "倡導"
+        ],
+        "examples": [
+          {
+            "sentence": "The [prohibition] of smoking in public places is enforced.",
+            "translation_zh_TW": "在公共場所禁煙的禁止令正在執行。"
+          },
+          {
+            "sentence": "Prohibition led to the rise of illegal bars.",
+            "translation_zh_TW": "禁止令導致非法酒吧的興起。"
+          },
+          {
+            "sentence": "The [prohibition] of alcohol was a controversial era.",
+            "translation_zh_TW": "酒精的禁止是一個有爭議的時代。"
+          }
+        ],
+        "synonyms": [
+          "ban",
+          "forbiddance"
+        ]
+      }
+    ],
+    "confusion": [
+      "prohibitive",
+      "prohibiting",
+      "prohibitions",
+      "prohibitive"
+    ]
+  },
+  {
+    "word": "expire",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come to an end; to cease to be valid.",
+        "meaning_zh_TW": "到期",
+        "wrong_meaning_zh_TW": [
+          "延續",
+          "更新",
+          "開始"
+        ],
+        "examples": [
+          {
+            "sentence": "Your subscription will [expire] next month.",
+            "translation_zh_TW": "你的訂閱將在下個月[到期]。"
+          },
+          {
+            "sentence": "Make sure to renew your license before it [expires].",
+            "translation_zh_TW": "確保在你的許可證[到期]之前續訂。"
+          },
+          {
+            "sentence": "The contract will [expire] after one year.",
+            "translation_zh_TW": "合同將在一年後[到期]。"
+          }
+        ],
+        "synonyms": [
+          "terminate",
+          "expire",
+          "end"
+        ]
+      }
+    ],
+    "confusion": [
+      "expired",
+      "explore",
+      "exceed",
+      "expend"
+    ]
+  },
+  {
+    "word": "tempo",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The speed at which a passage of music is played.",
+        "meaning_zh_TW": "速度",
+        "wrong_meaning_zh_TW": [
+          "音調",
+          "旋律",
+          "音階"
+        ],
+        "examples": [
+          {
+            "sentence": "The conductor increased the [tempo] for the final movement.",
+            "translation_zh_TW": "指揮在最後樂章中提高了速度"
+          },
+          {
+            "sentence": "He kept a steady [tempo] while running.",
+            "translation_zh_TW": "他跑步時保持穩定的速度"
+          },
+          {
+            "sentence": "The song has a fast [tempo] that makes you want to dance.",
+            "translation_zh_TW": "這首歌的速度很快，讓你想跳舞"
+          }
+        ],
+        "synonyms": [
+          "rate",
+          "pace"
+        ]
+      }
+    ],
+    "confusion": [
+      "temple",
+      "tempos",
+      "tempo's",
+      "tempee"
+    ]
+  },
+  {
+    "word": "symmetry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being made up of exactly similar parts facing each other or around an axis.",
+        "meaning_zh_TW": "對稱",
+        "wrong_meaning_zh_TW": [
+          "不對稱",
+          "混亂",
+          "偏差"
+        ],
+        "examples": [
+          {
+            "sentence": "The [symmetry] of the building is both striking and beautiful.",
+            "translation_zh_TW": "這座建築的對稱性既驚人又美麗。"
+          },
+          {
+            "sentence": "Artists often strive for [symmetry] in their work.",
+            "translation_zh_TW": "藝術家經常努力在作品中追求對稱。"
+          },
+          {
+            "sentence": "Nature often showcases [symmetry] in flowers.",
+            "translation_zh_TW": "自然界中花朵常常展現出對稱性。"
+          }
+        ],
+        "synonyms": [
+          "balance",
+          "harmony"
+        ]
+      }
+    ],
+    "confusion": [
+      "symmetrical",
+      "sympathize",
+      "symbiotic",
+      "symbols"
+    ]
+  },
+  {
+    "word": "handicap",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A physical or mental condition that limits a person's movements, senses, or activities.",
+        "meaning_zh_TW": "殘疾",
+        "wrong_meaning_zh_TW": [
+          "優勢",
+          "加分項目",
+          "無障礙"
+        ],
+        "examples": [
+          {
+            "sentence": "The athlete overcame his [handicap] to win.",
+            "translation_zh_TW": "這位運動員克服了他的殘疾獲得勝利。"
+          },
+          {
+            "sentence": "She works with children with physical [handicaps].",
+            "translation_zh_TW": "她與有身體殘疾的孩子們合作。"
+          },
+          {
+            "sentence": "They provide support for people with [handicaps].",
+            "translation_zh_TW": "他們為殘障人士提供支持。"
+          }
+        ],
+        "synonyms": [
+          "disability",
+          "impairment"
+        ]
+      }
+    ],
+    "confusion": [
+      "handcap",
+      "handicup",
+      "handycaps",
+      "handicaps"
+    ]
+  },
+  {
+    "word": "endowment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A natural gift, ability, or quality.",
+        "meaning_zh_TW": "天賦",
+        "wrong_meaning_zh_TW": [
+          "費用",
+          "貸款",
+          "獎金"
+        ],
+        "examples": [
+          {
+            "sentence": "Her artistic [endowment] was apparent from a young age.",
+            "translation_zh_TW": "她的藝術天賦從小就顯而易見。"
+          },
+          {
+            "sentence": "He received a generous [endowment] from the foundation.",
+            "translation_zh_TW": "他從基金會收到了慷慨的贈與。"
+          },
+          {
+            "sentence": "The university’s [endowment] helps fund scholarships.",
+            "translation_zh_TW": "大學的捐贈幫助資助獎學金。"
+          }
+        ],
+        "synonyms": [
+          "gift",
+          "talent"
+        ]
+      }
+    ],
+    "confusion": [
+      "endowment's",
+      "endowments",
+      "endow",
+      "endowable"
+    ]
+  },
+  {
+    "word": "evergreen",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having foliage that remains green and functional through more than one growing season.",
+        "meaning_zh_TW": "常綠的",
+        "wrong_meaning_zh_TW": [
+          "短暫的",
+          "枯萎的",
+          "可變的"
+        ],
+        "examples": [
+          {
+            "sentence": "Pine trees are an example of [evergreen] plants.",
+            "translation_zh_TW": "松樹是常綠植物的一個例子。"
+          },
+          {
+            "sentence": "The garden was full of [evergreen] shrubs.",
+            "translation_zh_TW": "花園裡滿是常綠灌木。"
+          },
+          {
+            "sentence": "He loved the idea of an [evergreen] landscape.",
+            "translation_zh_TW": "他喜歡常綠景觀的想法。"
+          }
+        ],
+        "synonyms": [
+          "persistent",
+          "perennial"
+        ]
+      }
+    ],
+    "confusion": [
+      "evergreenery",
+      "evergreens",
+      "evergrowing",
+      "evergreene"
+    ]
+  }
+]

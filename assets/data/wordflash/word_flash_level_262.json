@@ -1,0 +1,781 @@
+[
+  {
+    "word": "sparkle",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To shine brightly with flashes of light.",
+        "meaning_zh_TW": "閃爍",
+        "wrong_meaning_zh_TW": [
+          "黯淡",
+          "失去光澤",
+          "模糊"
+        ],
+        "examples": [
+          {
+            "sentence": "The stars sparkle in the night sky.",
+            "translation_zh_TW": "星星在夜空中閃爍"
+          },
+          {
+            "sentence": "Her eyes sparkle with joy.",
+            "translation_zh_TW": "她的眼睛閃爍著喜悅"
+          },
+          {
+            "sentence": "The diamond will sparkle in the sunlight.",
+            "translation_zh_TW": "鑽石在陽光下會閃爍"
+          }
+        ],
+        "synonyms": [
+          "glimmer",
+          "shine"
+        ]
+      }
+    ],
+    "confusion": [
+      "sparkle",
+      "sparkel",
+      "sparkll",
+      "sparke"
+    ]
+  },
+  {
+    "word": "prevail",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To prove more powerful than opposing forces.",
+        "meaning_zh_TW": "佔上風",
+        "wrong_meaning_zh_TW": [
+          "失敗",
+          "放棄",
+          "懷疑"
+        ],
+        "examples": [
+          {
+            "sentence": "Justice will [prevail] in the end.",
+            "translation_zh_TW": "正義最終會佔上風。"
+          },
+          {
+            "sentence": "They believe that love can [prevail] over hate.",
+            "translation_zh_TW": "他們相信愛可以戰勝仇恨。"
+          },
+          {
+            "sentence": "We must [prevail] against all odds.",
+            "translation_zh_TW": "我們必須面對所有困難而佔上風。"
+          }
+        ],
+        "synonyms": [
+          "succeed",
+          "triumph"
+        ]
+      }
+    ],
+    "confusion": [
+      "preview",
+      "prevailing",
+      "prevalence",
+      "prevalent"
+    ]
+  },
+  {
+    "word": "undermine",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To weaken or damage something gradually.",
+        "meaning_zh_TW": "削弱、破壞",
+        "wrong_meaning_zh_TW": [
+          "加強",
+          "促進",
+          "支持"
+        ],
+        "examples": [
+          {
+            "sentence": "Their actions may undermine the company's reputation.",
+            "translation_zh_TW": "他們的行為可能會削弱公司的聲譽。"
+          },
+          {
+            "sentence": "Constant criticism can undermine a person's confidence.",
+            "translation_zh_TW": "不斷的批評可能會削弱一個人的自信心。"
+          },
+          {
+            "sentence": "The new policies could undermine our progress.",
+            "translation_zh_TW": "新政策可能會破壞我們的進展。"
+          }
+        ],
+        "synonyms": [
+          "weaken",
+          "erode"
+        ]
+      }
+    ],
+    "confusion": [
+      "overmine",
+      "undermined",
+      "underline",
+      "undervalue"
+    ]
+  },
+  {
+    "word": "implication",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A conclusion that can be drawn from something, although it is not explicitly stated.",
+        "meaning_zh_TW": "暗示; 含義",
+        "wrong_meaning_zh_TW": [
+          "清晰的解釋",
+          "直接的答案",
+          "明確的命令"
+        ],
+        "examples": [
+          {
+            "sentence": "The [implication] of his words was clear to everyone.",
+            "translation_zh_TW": "他話中的暗示對所有人來說都是明確的。"
+          },
+          {
+            "sentence": "She realized the [implication] of the decision.",
+            "translation_zh_TW": "她意識到這個決定的含義。"
+          },
+          {
+            "sentence": "The survey results carried serious [implications] for the future.",
+            "translation_zh_TW": "調查結果對未來帶來了嚴重的含義。"
+          }
+        ],
+        "synonyms": [
+          "inference",
+          "indication"
+        ]
+      }
+    ],
+    "confusion": [
+      "implicaton",
+      "impplication",
+      "implocation",
+      "impliciton"
+    ]
+  },
+  {
+    "word": "sibling",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A brother or sister.",
+        "meaning_zh_TW": "兄弟姐妹",
+        "wrong_meaning_zh_TW": [
+          "父母",
+          "祖父母",
+          "親戚"
+        ],
+        "examples": [
+          {
+            "sentence": "She has one [sibling] who is older than her.",
+            "translation_zh_TW": "她有一個比她大的兄弟姐妹"
+          },
+          {
+            "sentence": "Many people feel close to their [siblings].",
+            "translation_zh_TW": "許多人覺得和兄弟姐妹很親近"
+          },
+          {
+            "sentence": "The [sibling] rivalry was intense during their childhood.",
+            "translation_zh_TW": "在他們的童年時期，兄弟姐妹之間的競爭非常激烈"
+          }
+        ],
+        "synonyms": [
+          "brother",
+          "sister"
+        ]
+      }
+    ],
+    "confusion": [
+      "sibbings",
+      "siblin",
+      "siblinge",
+      "sibing"
+    ]
+  },
+  {
+    "word": "oversee",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To supervise or manage a person or task.",
+        "meaning_zh_TW": "監督、管理",
+        "wrong_meaning_zh_TW": [
+          "忽視、放任",
+          "導致、促成",
+          "分派、指派"
+        ],
+        "examples": [
+          {
+            "sentence": "She was hired to [oversee] the project's completion.",
+            "translation_zh_TW": "她被雇來監督項目的完成。"
+          },
+          {
+            "sentence": "He will [oversee] the training program.",
+            "translation_zh_TW": "他將監督培訓計劃。"
+          },
+          {
+            "sentence": "The manager needs to [oversee] the staff's performance.",
+            "translation_zh_TW": "經理需要監督員工的表現。"
+          }
+        ],
+        "synonyms": [
+          "supervise",
+          "manage"
+        ]
+      }
+    ],
+    "confusion": [
+      "overseen",
+      "overseas",
+      "oversight",
+      "overseer"
+    ]
+  },
+  {
+    "word": "contradiction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A statement or proposition that contradicts or denies another or itself.",
+        "meaning_zh_TW": "矛盾",
+        "wrong_meaning_zh_TW": [
+          "一致性",
+          "相似性",
+          "確認"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a glaring [contradiction] in his testimony.",
+            "translation_zh_TW": "他的證詞中有明顯的矛盾。"
+          },
+          {
+            "sentence": "Her actions were a [contradiction] to her words.",
+            "translation_zh_TW": "她的行為與她的言辭相矛盾。"
+          },
+          {
+            "sentence": "Finding a [contradiction] in the theory was crucial.",
+            "translation_zh_TW": "在理論中找到矛盾是關鍵。"
+          }
+        ],
+        "synonyms": [
+          "discrepancy",
+          "inconsistency"
+        ]
+      }
+    ],
+    "confusion": [
+      "contradict",
+      "contradictory",
+      "contradicting",
+      "contradictor"
+    ]
+  },
+  {
+    "word": "lest",
+    "meanings": [
+      {
+        "type": "連接詞",
+        "meaning_en_US": "In order to prevent; for fear that.",
+        "meaning_zh_TW": "以免",
+        "wrong_meaning_zh_TW": [
+          "雖然",
+          "除非",
+          "即使"
+        ],
+        "examples": [
+          {
+            "sentence": "He left early [lest] he miss the train.",
+            "translation_zh_TW": "他早退以免錯過火車。"
+          },
+          {
+            "sentence": "She spoke quietly [lest] anyone overhear her.",
+            "translation_zh_TW": "她低聲說話，以免讓任何人聽見。"
+          },
+          {
+            "sentence": "They took precautions [lest] something go wrong.",
+            "translation_zh_TW": "他們採取了預防措施，以免出現問題。"
+          }
+        ],
+        "synonyms": [
+          "for fear that",
+          "to avoid"
+        ]
+      }
+    ],
+    "confusion": [
+      "last",
+      "least",
+      "lest",
+      "list"
+    ]
+  },
+  {
+    "word": "noticeable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Easily seen or noticed; clear or apparent.",
+        "meaning_zh_TW": "明顯的",
+        "wrong_meaning_zh_TW": [
+          "微弱的",
+          "不顯眼的",
+          "隱藏的"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [noticeable] change in her attitude.",
+            "translation_zh_TW": "她的態度有明顯的改變。"
+          },
+          {
+            "sentence": "He made a [noticeable] effort to improve.",
+            "translation_zh_TW": "他在改進上做出了明顯的努力。"
+          },
+          {
+            "sentence": "The speaker's [noticeable] passion captured the audience.",
+            "translation_zh_TW": "演講者的明顯熱情吸引了觀眾。"
+          }
+        ],
+        "synonyms": [
+          "evident",
+          "apparent"
+        ]
+      }
+    ],
+    "confusion": [
+      "notable",
+      "notice",
+      "noticefully",
+      "notices"
+    ]
+  },
+  {
+    "word": "aisle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A passage between rows of seats in a building such as a church or theater, an airplane, or a train.",
+        "meaning_zh_TW": "走道；過道",
+        "wrong_meaning_zh_TW": [
+          "大廳",
+          "入口",
+          "走廊"
+        ],
+        "examples": [
+          {
+            "sentence": "She walked down the [aisle] to her seat.",
+            "translation_zh_TW": "她走過走道到她的座位。"
+          },
+          {
+            "sentence": "Please keep the [aisle] clear while boarding.",
+            "translation_zh_TW": "登機時請保持過道的暢通。"
+          },
+          {
+            "sentence": "The [aisle] was decorated for the wedding.",
+            "translation_zh_TW": "走道為婚禮裝飾。"
+          }
+        ],
+        "synonyms": [
+          "corridor",
+          "passage"
+        ]
+      }
+    ],
+    "confusion": [
+      "isle",
+      "aisles",
+      "aisled",
+      "aisel"
+    ]
+  },
+  {
+    "word": "blur",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make or become unclear or less distinct.",
+        "meaning_zh_TW": "模糊不清",
+        "wrong_meaning_zh_TW": [
+          "清晰度",
+          "確認",
+          "保持住"
+        ],
+        "examples": [
+          {
+            "sentence": "The movement of the camera will [blur] the image.",
+            "translation_zh_TW": "相機的運動會讓畫面模糊不清"
+          },
+          {
+            "sentence": "My vision tends to [blur] after staring at the screen for too long.",
+            "translation_zh_TW": "看螢幕太久後，我的視線容易模糊不清"
+          },
+          {
+            "sentence": "As the paint dries, the colors begin to [blur] together.",
+            "translation_zh_TW": "當油漆乾了，顏色開始模糊不清"
+          }
+        ],
+        "synonyms": [
+          "smudge",
+          "fuzz"
+        ]
+      }
+    ],
+    "confusion": [
+      "flair",
+      "blurred",
+      "burr",
+      "bluer"
+    ]
+  },
+  {
+    "word": "souvenir",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing that is kept as a reminder of a person, place, or event.",
+        "meaning_zh_TW": "紀念品",
+        "wrong_meaning_zh_TW": [
+          "垃圾",
+          "工具",
+          "玩具"
+        ],
+        "examples": [
+          {
+            "sentence": "I bought a small [souvenir] from my trip to Paris.",
+            "translation_zh_TW": "我在巴黎旅行時買了一個小紀念品。"
+          },
+          {
+            "sentence": "They kept their wedding [souvenir] for many years.",
+            "translation_zh_TW": "他們保存了多年的婚禮紀念品。"
+          },
+          {
+            "sentence": "The [souvenir] shop was filled with unique items.",
+            "translation_zh_TW": "紀念品商店裡擺滿了獨特的物品。"
+          }
+        ],
+        "synonyms": [
+          "keepsake",
+          "memento"
+        ]
+      }
+    ],
+    "confusion": [
+      "souvenir",
+      "solvent",
+      "student",
+      "suffering"
+    ]
+  },
+  {
+    "word": "cautious",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Careful to avoid potential problems or dangers.",
+        "meaning_zh_TW": "謹慎的、小心的",
+        "wrong_meaning_zh_TW": [
+          "推測的、隨意的",
+          "奔放的、自由的",
+          "慷慨的、寬容的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a [cautious] driver, always obeying traffic rules.",
+            "translation_zh_TW": "她是位小心的駕駛者，總是遵守交通規則。"
+          },
+          {
+            "sentence": "His [cautious] nature prevents him from taking risks.",
+            "translation_zh_TW": "他謹慎的性格使他不敢冒險。"
+          },
+          {
+            "sentence": "Being [cautious] in business can lead to better outcomes.",
+            "translation_zh_TW": "在商業上謹慎可以帶來更好的結果。"
+          }
+        ],
+        "synonyms": [
+          "prudent",
+          "careful"
+        ]
+      }
+    ],
+    "confusion": [
+      "cautiousness",
+      "countless",
+      "cauterized",
+      "cautionary"
+    ]
+  },
+  {
+    "word": "pathetic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Arousing pity, especially through sadness or failure.",
+        "meaning_zh_TW": "可憐的",
+        "wrong_meaning_zh_TW": [
+          "令人尊敬的",
+          "優秀的",
+          "無可救藥的"
+        ],
+        "examples": [
+          {
+            "sentence": "The movie was so [pathetic] that I felt embarrassed.",
+            "translation_zh_TW": "那部電影是如此可憐，以至於我感到尷尬。"
+          },
+          {
+            "sentence": "His attempts to apologize were [pathetic].",
+            "translation_zh_TW": "他道歉的方式讓人覺得可憐。"
+          },
+          {
+            "sentence": "It was a [pathetic] excuse for not completing the project.",
+            "translation_zh_TW": "那對於未完成項目來說是一個可憐的藉口。"
+          }
+        ],
+        "synonyms": [
+          "wretched",
+          "pitiable"
+        ]
+      }
+    ],
+    "confusion": [
+      "patheticism",
+      "pathetique",
+      "patience"
+    ]
+  },
+  {
+    "word": "windshield",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The front window of a motor vehicle.",
+        "meaning_zh_TW": "擋風玻璃",
+        "wrong_meaning_zh_TW": [
+          "車門",
+          "車頂",
+          "座椅"
+        ],
+        "examples": [
+          {
+            "sentence": "She cleaned the [windshield] before starting the trip.",
+            "translation_zh_TW": "她在啟程之前清潔了擋風玻璃。"
+          },
+          {
+            "sentence": "A crack in the [windshield] can impair visibility.",
+            "translation_zh_TW": "擋風玻璃上的裂縫會影響能見度。"
+          },
+          {
+            "sentence": "The sunshade was used to block glare on the [windshield].",
+            "translation_zh_TW": "遮陽板被用來阻擋擋風玻璃上的炫光。"
+          }
+        ],
+        "synonyms": [
+          "screen",
+          "front glass"
+        ]
+      }
+    ],
+    "confusion": [
+      "windshiled",
+      "windshild",
+      "windowshield",
+      "windshields"
+    ]
+  },
+  {
+    "word": "coincidence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A remarkable concurrence of events or circumstances without apparent causal connection.",
+        "meaning_zh_TW": "巧合",
+        "wrong_meaning_zh_TW": [
+          "計算",
+          "統計",
+          "預測"
+        ],
+        "examples": [
+          {
+            "sentence": "It's a strange [coincidence] that we both arrived at the same time.",
+            "translation_zh_TW": "我們同時到達，真是奇怪的巧合。"
+          },
+          {
+            "sentence": "The events were purely a matter of [coincidence].",
+            "translation_zh_TW": "這些事件純粹是巧合的結果。"
+          },
+          {
+            "sentence": "Finding her old friend was just a happy [coincidence].",
+            "translation_zh_TW": "找到她的老朋友只是一次愉快的巧合。"
+          }
+        ],
+        "synonyms": [
+          "coincidental",
+          "unexpected event"
+        ]
+      }
+    ],
+    "confusion": [
+      "coincidencee",
+      "coincedence",
+      "coincidences",
+      "coincidense"
+    ]
+  },
+  {
+    "word": "sandal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of outdoor shoe with a sole held to the foot by straps.",
+        "meaning_zh_TW": "涼鞋",
+        "wrong_meaning_zh_TW": [
+          "運動鞋",
+          "高跟鞋",
+          "靴子"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore [sandals] to the beach.",
+            "translation_zh_TW": "她穿著涼鞋去海灘。"
+          },
+          {
+            "sentence": "His [sandals] were comfortable for walking.",
+            "translation_zh_TW": "他的涼鞋走起路來很舒適。"
+          },
+          {
+            "sentence": "I need to buy new [sandals] for summer.",
+            "translation_zh_TW": "我需要為夏天買雙新涼鞋。"
+          }
+        ],
+        "synonyms": [
+          "flip-flops",
+          "open-toed shoes"
+        ]
+      }
+    ],
+    "confusion": [
+      "candle",
+      "handle",
+      "sandbag",
+      "sandalier"
+    ]
+  },
+  {
+    "word": "naive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking experience, wisdom, or judgment; innocent.",
+        "meaning_zh_TW": "天真",
+        "wrong_meaning_zh_TW": [
+          "老練",
+          "無知",
+          "愚蠢"
+        ],
+        "examples": [
+          {
+            "sentence": "She was too [naive] to realize the danger.",
+            "translation_zh_TW": "她太天真了，沒有意識到危險。"
+          },
+          {
+            "sentence": "His [naive] questions showed his lack of understanding.",
+            "translation_zh_TW": "他天真的問題顯示了他缺乏理解。"
+          },
+          {
+            "sentence": "Being [naive] can lead to being taken advantage of.",
+            "translation_zh_TW": "天真可能會導致被人利用。"
+          }
+        ],
+        "synonyms": [
+          "innocent",
+          "unsophisticated"
+        ]
+      }
+    ],
+    "confusion": [
+      "naiver",
+      "nieve",
+      "naivee",
+      "nativ"
+    ]
+  },
+  {
+    "word": "thrive",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To grow or develop well or vigorously.",
+        "meaning_zh_TW": "繁盛；興旺",
+        "wrong_meaning_zh_TW": [
+          "枯萎",
+          "衰退",
+          "無助"
+        ],
+        "examples": [
+          {
+            "sentence": "Plants often [thrive] in well-drained soil.",
+            "translation_zh_TW": "植物通常在排水良好的土壤中繁盛"
+          },
+          {
+            "sentence": "She seems to [thrive] in challenging environments.",
+            "translation_zh_TW": "她似乎在具有挑戰性的環境中興旺"
+          },
+          {
+            "sentence": "The business has [thrive]d due to its innovative products.",
+            "translation_zh_TW": "這家公司因其創新的產品而興旺"
+          }
+        ],
+        "synonyms": [
+          "prosper",
+          "flourish"
+        ]
+      }
+    ],
+    "confusion": [
+      "throve",
+      "throbbing",
+      "thrift",
+      "throw"
+    ]
+  },
+  {
+    "word": "persist",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To continue firmly in a course of action in spite of difficulty or opposition.",
+        "meaning_zh_TW": "堅持",
+        "wrong_meaning_zh_TW": [
+          "逃避",
+          "放棄",
+          "變化"
+        ],
+        "examples": [
+          {
+            "sentence": "Despite the challenges, she decided to [persist] in her studies.",
+            "translation_zh_TW": "儘管有挑戰，她決定堅持學習。"
+          },
+          {
+            "sentence": "I will [persist] until I achieve my goal.",
+            "translation_zh_TW": "我會堅持直到達成我的目標。"
+          },
+          {
+            "sentence": "We must [persist] in our efforts to protect the environment.",
+            "translation_zh_TW": "我們必須堅持保護環境的努力。"
+          }
+        ],
+        "synonyms": [
+          "persevere",
+          "continue"
+        ]
+      }
+    ],
+    "confusion": [
+      "consistent",
+      "resist",
+      "insist",
+      "persistence"
+    ]
+  }
+]

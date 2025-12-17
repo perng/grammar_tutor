@@ -1,0 +1,784 @@
+[
+  {
+    "word": "prototype",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A first or preliminary version of a device or vehicle from which other forms are developed.",
+        "meaning_zh_TW": "原型",
+        "wrong_meaning_zh_TW": [
+          "配方",
+          "藍圖",
+          "案例"
+        ],
+        "examples": [
+          {
+            "sentence": "The team developed a [prototype] of the new product.",
+            "translation_zh_TW": "團隊開發了新產品的原型。"
+          },
+          {
+            "sentence": "This [prototype] will help us test the design.",
+            "translation_zh_TW": "這個原型將幫助我們測試設計。"
+          },
+          {
+            "sentence": "They showcased a [prototype] at the technology conference.",
+            "translation_zh_TW": "他們在科技會議上展示了一個原型。"
+          }
+        ],
+        "synonyms": [
+          "model",
+          "template"
+        ]
+      }
+    ],
+    "confusion": [
+      "prototypey",
+      "prototyping",
+      "protoplasm",
+      "protoplanet"
+    ]
+  },
+  {
+    "word": "remainder",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A part that is left after the other parts have been removed, used, or dealt with.",
+        "meaning_zh_TW": "剩餘",
+        "wrong_meaning_zh_TW": [
+          "學生",
+          "演員",
+          "挑戰"
+        ],
+        "examples": [
+          {
+            "sentence": "Only a small [remainder] of the cake was left.",
+            "translation_zh_TW": "只剩下少量的蛋糕。"
+          },
+          {
+            "sentence": "We need to calculate the [remainder] for next month's budget.",
+            "translation_zh_TW": "我們需要計算下個月預算的剩餘部分。"
+          },
+          {
+            "sentence": "He left the [remainder] of his money to charity.",
+            "translation_zh_TW": "他把剩餘的錢留給了慈善機構。"
+          }
+        ],
+        "synonyms": [
+          "leftover",
+          "remaining part"
+        ]
+      }
+    ],
+    "confusion": [
+      "reminder",
+      "remand",
+      "remember",
+      "remainders"
+    ]
+  },
+  {
+    "word": "exclusion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process or state of excluding or being excluded.",
+        "meaning_zh_TW": "排除",
+        "wrong_meaning_zh_TW": [
+          "包含",
+          "加入",
+          "允許"
+        ],
+        "examples": [
+          {
+            "sentence": "The [exclusion] of certain candidates was controversial.",
+            "translation_zh_TW": "某些候選人的排除引發了爭議。"
+          },
+          {
+            "sentence": "Their [exclusion] from the group upset many members.",
+            "translation_zh_TW": "他們被排除在小組外讓許多成員感到不滿。"
+          },
+          {
+            "sentence": "The policy leads to the [exclusion] of underprivileged individuals.",
+            "translation_zh_TW": "該政策導致了弱勢個體的排除。"
+          }
+        ],
+        "synonyms": [
+          "omission",
+          "removal"
+        ]
+      }
+    ],
+    "confusion": [
+      "exclusion",
+      "exclusive",
+      "occlusion",
+      "excursion"
+    ]
+  },
+  {
+    "word": "selective",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Making careful or deliberate choices.",
+        "meaning_zh_TW": "選擇性的",
+        "wrong_meaning_zh_TW": [
+          "隨意的",
+          "常見的",
+          "不挑剔的"
+        ],
+        "examples": [
+          {
+            "sentence": "His approach to food is quite [selective].",
+            "translation_zh_TW": "他對食物的選擇相當挑剔。"
+          },
+          {
+            "sentence": "She has a [selective] memory for events.",
+            "translation_zh_TW": "她的記憶對於事件是選擇性的。"
+          },
+          {
+            "sentence": "They are [selective] about the projects they take on.",
+            "translation_zh_TW": "他們對所選的項目是有選擇性的。"
+          }
+        ],
+        "synonyms": [
+          "discriminating",
+          "particular"
+        ]
+      }
+    ],
+    "confusion": [
+      "selectiv",
+      "selecet",
+      "selectivly",
+      "selctive"
+    ]
+  },
+  {
+    "word": "token",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing serving as a visible or tangible representation of a fact, quality, or feeling.",
+        "meaning_zh_TW": "象徵",
+        "wrong_meaning_zh_TW": [
+          "標籤",
+          "行李",
+          "門票"
+        ],
+        "examples": [
+          {
+            "sentence": "He gave her a [token] of his love.",
+            "translation_zh_TW": "他給了她一個他愛的象徵。"
+          },
+          {
+            "sentence": "Each guest received a [token] of appreciation at the end of the event.",
+            "translation_zh_TW": "每位賓客在活動結束時都收到了感謝的象徵。"
+          },
+          {
+            "sentence": "The medal was a [token] of his bravery.",
+            "translation_zh_TW": "這枚獎章是他勇氣的象徵。"
+          }
+        ],
+        "synonyms": [
+          "symbol",
+          "sign",
+          "emblem"
+        ]
+      }
+    ],
+    "confusion": [
+      "tokenize",
+      "toking",
+      "tokin",
+      "toke"
+    ]
+  },
+  {
+    "word": "waterproof",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Impervious to water; able to keep water out.",
+        "meaning_zh_TW": "防水的",
+        "wrong_meaning_zh_TW": [
+          "透水的",
+          "不透氣的",
+          "防潮的"
+        ],
+        "examples": [
+          {
+            "sentence": "These shoes are [waterproof] for hiking.",
+            "translation_zh_TW": "這雙鞋適合登山，為防水的。"
+          },
+          {
+            "sentence": "I bought a [waterproof] jacket for the rain.",
+            "translation_zh_TW": "我買了一件防水夾克以備下雨。"
+          },
+          {
+            "sentence": "The [waterproof] bag is perfect for swimming.",
+            "translation_zh_TW": "這個防水包非常適合游泳。"
+          }
+        ],
+        "synonyms": [
+          "water-resistant",
+          "impermeable"
+        ]
+      }
+    ],
+    "confusion": [
+      "waterproff",
+      "waterproofing",
+      "watproof",
+      "waterpfoof"
+    ]
+  },
+  {
+    "word": "velvet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A closely woven fabric of silk, cotton, or nylon that has a short dense pile.",
+        "meaning_zh_TW": "天鵝絨",
+        "wrong_meaning_zh_TW": [
+          "刺繡",
+          "棉布",
+          "麻布"
+        ],
+        "examples": [
+          {
+            "sentence": "The dress was made of soft velvet.",
+            "translation_zh_TW": "這件連衣裙是用柔軟的天鵝絨製成的。"
+          },
+          {
+            "sentence": "He loved the rich color of the velvet curtains.",
+            "translation_zh_TW": "他喜歡天鵝絨窗簾的深色調。"
+          },
+          {
+            "sentence": "Velvet has a luxurious feel that is often used in formal wear.",
+            "translation_zh_TW": "天鵝絨擁有奢華的觸感，常用於正式服裝。"
+          }
+        ],
+        "synonyms": [
+          "plush",
+          "suede"
+        ]
+      }
+    ],
+    "confusion": [
+      "velote",
+      "valvet",
+      "velcro",
+      "velocities"
+    ]
+  },
+  {
+    "word": "occurrence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An instance of something happening.",
+        "meaning_zh_TW": "事件的發生",
+        "wrong_meaning_zh_TW": [
+          "訖止",
+          "事務",
+          "連鎖"
+        ],
+        "examples": [
+          {
+            "sentence": "The occurrence of the event was unexpected.",
+            "translation_zh_TW": "事件的發生是意料之外的。"
+          },
+          {
+            "sentence": "We reported the occurrence to the authorities.",
+            "translation_zh_TW": "我們向當局報告了事件的發生。"
+          },
+          {
+            "sentence": "Such occurrences are rare in this area.",
+            "translation_zh_TW": "在這個地區，此類事件的發生是罕見的。"
+          }
+        ],
+        "synonyms": [
+          "happening",
+          "event"
+        ]
+      }
+    ],
+    "confusion": [
+      "occurrence",
+      "occurred",
+      "occurring",
+      "occurrent"
+    ]
+  },
+  {
+    "word": "disciplinary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to discipline or the enforcement of rules.",
+        "meaning_zh_TW": "紀律的",
+        "wrong_meaning_zh_TW": [
+          "混亂的",
+          "隨意的",
+          "懶惰的"
+        ],
+        "examples": [
+          {
+            "sentence": "The school has a strict [disciplinary] policy.",
+            "translation_zh_TW": "這所學校有嚴格的紀律政策。"
+          },
+          {
+            "sentence": "He received a [disciplinary] warning for his behavior.",
+            "translation_zh_TW": "他因為行為不當收到了紀律警告。"
+          },
+          {
+            "sentence": "They established a [disciplinary] committee.",
+            "translation_zh_TW": "他們成立了一個紀律委員會。"
+          }
+        ],
+        "synonyms": [
+          "corrective",
+          "regulatory"
+        ]
+      }
+    ],
+    "confusion": [
+      "discipline",
+      "disruptive",
+      "disciple",
+      "discliplinary"
+    ]
+  },
+  {
+    "word": "walnut",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of tree nut that is edible and has a slightly bitter taste.",
+        "meaning_zh_TW": "胡桃",
+        "wrong_meaning_zh_TW": [
+          "杏仁",
+          "栗子",
+          "核桃"
+        ],
+        "examples": [
+          {
+            "sentence": "I added chopped [walnut] to the salad for extra crunch.",
+            "translation_zh_TW": "我在沙拉中加入切碎的胡桃增加口感。"
+          },
+          {
+            "sentence": "The [walnut] is high in omega-3 fatty acids.",
+            "translation_zh_TW": "胡桃富含Omega-3脂肪酸。"
+          },
+          {
+            "sentence": "She loves to bake brownies with [walnut] pieces.",
+            "translation_zh_TW": "她喜歡在布朗尼中加入胡桃。"
+          }
+        ],
+        "synonyms": [
+          "nut",
+          "tree nut"
+        ]
+      }
+    ],
+    "confusion": [
+      "walnet",
+      "walnutt",
+      "walt",
+      "walnetta"
+    ]
+  },
+  {
+    "word": "expiration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The end of the period for which something is valid.",
+        "meaning_zh_TW": "期滿",
+        "wrong_meaning_zh_TW": [
+          "開始",
+          "更新",
+          "延長"
+        ],
+        "examples": [
+          {
+            "sentence": "The [expiration] date on the milk is tomorrow.",
+            "translation_zh_TW": "牛奶的[期滿]日期是明天。"
+          },
+          {
+            "sentence": "Please check the [expiration] of your passport.",
+            "translation_zh_TW": "請檢查你的護照的[有效期]。"
+          },
+          {
+            "sentence": "After the [expiration], the product may not be safe to use.",
+            "translation_zh_TW": "在[到期]後，產品可能不再安全使用。"
+          }
+        ],
+        "synonyms": [
+          "expiry",
+          "termination",
+          "conclusion"
+        ]
+      }
+    ],
+    "confusion": [
+      "expire",
+      "expiratory",
+      "exploration",
+      "expirationary"
+    ]
+  },
+  {
+    "word": "align",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To arrange in a line or bring into alignment.",
+        "meaning_zh_TW": "對齊",
+        "wrong_meaning_zh_TW": [
+          "打亂",
+          "混淆",
+          "分開"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to [align] the pictures before hanging them.",
+            "translation_zh_TW": "確保在掛上圖片之前對齊它們"
+          },
+          {
+            "sentence": "The wheels need to be [aligned] for better performance.",
+            "translation_zh_TW": "車輪需要對齊以改善性能"
+          },
+          {
+            "sentence": "It's important to [align] your goals with your actions.",
+            "translation_zh_TW": "將你的目標與行動對齊是重要的"
+          }
+        ],
+        "synonyms": [
+          "straighten",
+          "line up"
+        ]
+      }
+    ],
+    "confusion": [
+      "aline",
+      "alin",
+      "aligne",
+      "alignn"
+    ]
+  },
+  {
+    "word": "surge",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sudden powerful rush or movement.",
+        "meaning_zh_TW": "激增",
+        "wrong_meaning_zh_TW": [
+          "減少",
+          "停滯",
+          "分散"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [surge] in electricity demand.",
+            "translation_zh_TW": "電力需求出現激增。"
+          },
+          {
+            "sentence": "The crowd felt a [surge] of excitement.",
+            "translation_zh_TW": "人群感受到激增的興奮。"
+          },
+          {
+            "sentence": "A [surge] of water flooded the streets.",
+            "translation_zh_TW": "一股激增的水淹沒了街道。"
+          }
+        ],
+        "synonyms": [
+          "rush",
+          "wave"
+        ]
+      }
+    ],
+    "confusion": [
+      "surgeon",
+      "sour",
+      "surreal",
+      "serge"
+    ]
+  },
+  {
+    "word": "vanilla",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Plain or ordinary; lacking in special features.",
+        "meaning_zh_TW": "平凡的",
+        "wrong_meaning_zh_TW": [
+          "香草的",
+          "異常的",
+          "特別的"
+        ],
+        "examples": [
+          {
+            "sentence": "His ideas were a bit [vanilla] and didn’t stand out.",
+            "translation_zh_TW": "他的想法有點平凡，沒有突出"
+          },
+          {
+            "sentence": "She prefers [vanilla] flavors over anything exotic.",
+            "translation_zh_TW": "她更喜歡平凡的口味，而不是任何異國風味"
+          },
+          {
+            "sentence": "The design was quite [vanilla] and lacked creativity.",
+            "translation_zh_TW": "設計相當平凡，缺乏創意"
+          }
+        ],
+        "synonyms": [
+          "plain",
+          "ordinary"
+        ]
+      }
+    ],
+    "confusion": [
+      "vanilla ice",
+      "vanillin",
+      "vanilas",
+      "vanila"
+    ]
+  },
+  {
+    "word": "revelation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A surprising and previously unknown fact that has been disclosed.",
+        "meaning_zh_TW": "啟示",
+        "wrong_meaning_zh_TW": [
+          "傳說",
+          "痛苦",
+          "過程"
+        ],
+        "examples": [
+          {
+            "sentence": "The book was full of shocking [revelations].",
+            "translation_zh_TW": "這本書充滿了令人震驚的啟示。"
+          },
+          {
+            "sentence": "Her sudden [revelation] changed everything.",
+            "translation_zh_TW": "她突然的啟示改變了一切。"
+          },
+          {
+            "sentence": "This [revelation] about history was unexpected.",
+            "translation_zh_TW": "這個關於歷史的啟示是意想不到的。"
+          }
+        ],
+        "synonyms": [
+          "disclosure",
+          "revelation",
+          "insight"
+        ]
+      }
+    ],
+    "confusion": [
+      "revel",
+      "revolution",
+      "relation",
+      "revocation"
+    ]
+  },
+  {
+    "word": "trout",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of fish that is commonly found in cool, freshwater streams.",
+        "meaning_zh_TW": "鱒魚",
+        "wrong_meaning_zh_TW": [
+          "金魚",
+          "鯊魚",
+          "鮭魚"
+        ],
+        "examples": [
+          {
+            "sentence": "He caught a large [trout] in the river yesterday.",
+            "translation_zh_TW": "他昨天在河裡捕到一條大鱒魚。"
+          },
+          {
+            "sentence": "They love to cook [trout] on the grill during camping trips.",
+            "translation_zh_TW": "他們喜歡在露營時用烤架烤鱒魚。"
+          },
+          {
+            "sentence": "In many regions, [trout] fishing is a popular pastime.",
+            "translation_zh_TW": "在許多地區，釣鱒魚是一項受歡迎的消遣。"
+          }
+        ],
+        "synonyms": [
+          "fish"
+        ]
+      }
+    ],
+    "confusion": [
+      "troutman",
+      "trowel",
+      "trott",
+      "troutless"
+    ]
+  },
+  {
+    "word": "transmit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Cause (something) to pass on from one place or person to another.",
+        "meaning_zh_TW": "傳送",
+        "wrong_meaning_zh_TW": [
+          "接收",
+          "打擾",
+          "拒絕"
+        ],
+        "examples": [
+          {
+            "sentence": "The radio station will [transmit] the concert live.",
+            "translation_zh_TW": "廣播電台將現場傳送音樂會"
+          },
+          {
+            "sentence": "Viruses can [transmit] from one person to another.",
+            "translation_zh_TW": "病毒可以在人與人之間傳播"
+          },
+          {
+            "sentence": "The data will [transmit] through the network.",
+            "translation_zh_TW": "數據將通過網絡進行傳送"
+          }
+        ],
+        "synonyms": [
+          "send",
+          "broadcast"
+        ]
+      }
+    ],
+    "confusion": [
+      "transplant",
+      "transfer",
+      "transgression",
+      "transmitted"
+    ]
+  },
+  {
+    "word": "cement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A powdery substance made from calcined lime and clay, used in construction.",
+        "meaning_zh_TW": "水泥",
+        "wrong_meaning_zh_TW": [
+          "礦石",
+          "粉末",
+          "石灰"
+        ],
+        "examples": [
+          {
+            "sentence": "They used [cement] to hold the bricks together.",
+            "translation_zh_TW": "他們用水泥把磚塊黏在一起"
+          },
+          {
+            "sentence": "The road was paved with [cement].",
+            "translation_zh_TW": "這條道路是用水泥鋪成的"
+          },
+          {
+            "sentence": "He mixed sand and [cement] to create a strong foundation.",
+            "translation_zh_TW": "他混合沙子和水泥來建立堅固的基礎"
+          }
+        ],
+        "synonyms": [
+          "mortar",
+          "concrete"
+        ]
+      }
+    ],
+    "confusion": [
+      "cementment",
+      "cemetery",
+      "cementary",
+      "cimenta"
+    ]
+  },
+  {
+    "word": "psychiatry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The study and treatment of mental illness, emotional disturbance, and abnormal behavior.",
+        "meaning_zh_TW": "精神醫學",
+        "wrong_meaning_zh_TW": [
+          "內科",
+          "外科",
+          "牙科"
+        ],
+        "examples": [
+          {
+            "sentence": "She is studying psychiatry at the university.",
+            "translation_zh_TW": "她在大學學習精神醫學"
+          },
+          {
+            "sentence": "Psychoanalysis is a branch of psychiatry.",
+            "translation_zh_TW": "精神分析是一個精神醫學的分支"
+          },
+          {
+            "sentence": "Innovations in psychiatry have improved patient care.",
+            "translation_zh_TW": "精神醫學的創新改善了病人護理"
+          }
+        ],
+        "synonyms": [
+          "mental health",
+          "psychology"
+        ]
+      }
+    ],
+    "confusion": [
+      "psychoanalyst",
+      "psychometric",
+      "psychopathy",
+      "psychotherapy"
+    ]
+  },
+  {
+    "word": "persistent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Continuing firmly or obstinately in a course of action.",
+        "meaning_zh_TW": "持續的",
+        "wrong_meaning_zh_TW": [
+          "短暫的",
+          "不確定的",
+          "改變的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is a [persistent] student who never gives up.",
+            "translation_zh_TW": "他是一位永不放棄的持續學生。"
+          },
+          {
+            "sentence": "Her [persistent] efforts were finally recognized.",
+            "translation_zh_TW": "她的持續努力最終獲得了認可。"
+          },
+          {
+            "sentence": "The [persistent] rain made it difficult to travel.",
+            "translation_zh_TW": "持續的雨水使旅行變得困難。"
+          }
+        ],
+        "synonyms": [
+          "tenacious",
+          "resilient"
+        ]
+      }
+    ],
+    "confusion": [
+      "presistant",
+      "pursuant",
+      "presidetn",
+      "persistence"
+    ]
+  }
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "word": "sweep",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To clean (an area) by brushing away dirt or litter.",
+        "meaning_zh_TW": "掃除",
+        "wrong_meaning_zh_TW": [
+          "刪除",
+          "放置",
+          "整理"
+        ],
+        "examples": [
+          {
+            "sentence": "She decided to sweep the floor before the guests arrived.",
+            "translation_zh_TW": "她決定在客人來之前掃地。"
+          },
+          {
+            "sentence": "He used a broom to sweep the leaves off the porch.",
+            "translation_zh_TW": "他用掃帚把門廊上的樹葉掃掉。"
+          },
+          {
+            "sentence": "They will sweep the area to collect litter after the event.",
+            "translation_zh_TW": "活動結束後，他們會掃除區域以收集垃圾。"
+          }
+        ],
+        "synonyms": [
+          "clean",
+          "brush"
+        ]
+      }
+    ],
+    "confusion": [
+      "sweep",
+      "sweepstake",
+      "sweeping",
+      "sweepers"
+    ]
+  },
+  {
+    "word": "disappear",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cease to be visible.",
+        "meaning_zh_TW": "消失",
+        "wrong_meaning_zh_TW": [
+          "出現",
+          "顯示",
+          "保持"
+        ],
+        "examples": [
+          {
+            "sentence": "The magician made the rabbit [disappear].",
+            "translation_zh_TW": "魔術師讓兔子消失了"
+          },
+          {
+            "sentence": "He watched the clouds [disappear] as the sun came out.",
+            "translation_zh_TW": "他看著雲朵隨著陽光的出現而消失"
+          },
+          {
+            "sentence": "If you don't water the plant, it might [disappear].",
+            "translation_zh_TW": "如果你不澆水，這棵植物可能會消失"
+          }
+        ],
+        "synonyms": [
+          "vanish",
+          "fade"
+        ]
+      }
+    ],
+    "confusion": [
+      "disappeared",
+      "disappearing",
+      "dissonance",
+      "dissipate"
+    ]
+  },
+  {
+    "word": "bark",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The outer covering of a tree.",
+        "meaning_zh_TW": "樹皮",
+        "wrong_meaning_zh_TW": [
+          "葉子",
+          "根部",
+          "果實"
+        ],
+        "examples": [
+          {
+            "sentence": "The [bark] of the tree is rough.",
+            "translation_zh_TW": "這棵樹的樹皮很粗糙。"
+          },
+          {
+            "sentence": "We can use [bark] to make mulch.",
+            "translation_zh_TW": "我們可以用樹皮來製作覆蓋物。"
+          },
+          {
+            "sentence": "Different trees have different types of [bark].",
+            "translation_zh_TW": "不同的樹有不同類型的樹皮。"
+          }
+        ],
+        "synonyms": [
+          "cortex",
+          "covering"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a short, loud sound; typically said of dogs.",
+        "meaning_zh_TW": "吠叫",
+        "wrong_meaning_zh_TW": [
+          "叫喊",
+          "尖叫",
+          "嘶叫"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog will [bark] at strangers.",
+            "translation_zh_TW": "狗會對陌生人吠叫。"
+          },
+          {
+            "sentence": "She heard the dog [bark] in the backyard.",
+            "translation_zh_TW": "她聽到狗在後院吠叫。"
+          },
+          {
+            "sentence": "He tried to make the dog stop [barking].",
+            "translation_zh_TW": "他試著讓狗停止吠叫。"
+          }
+        ],
+        "synonyms": [
+          "yap",
+          "bawl"
+        ]
+      }
+    ],
+    "confusion": [
+      "barkeeper",
+      "barkly",
+      "barking",
+      "barks"
+    ]
+  },
+  {
+    "word": "cocoa",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A powder made from the ground seeds of the cacao tree, used for making chocolate drinks.",
+        "meaning_zh_TW": "可可粉",
+        "wrong_meaning_zh_TW": [
+          "牛奶",
+          "麵粉",
+          "糖"
+        ],
+        "examples": [
+          {
+            "sentence": "She made a cup of [cocoa] after dinner.",
+            "translation_zh_TW": "她在晚餐後煮了一杯可可粉。"
+          },
+          {
+            "sentence": "Hot [cocoa] is perfect for a cold winter night.",
+            "translation_zh_TW": "熱可可粉非常適合寒冷的冬夜。"
+          },
+          {
+            "sentence": "I prefer [cocoa] over tea in the mornings.",
+            "translation_zh_TW": "早上我更喜歡喝可可粉，而不是茶。"
+          }
+        ],
+        "synonyms": [
+          "chocolate",
+          "cacao"
+        ]
+      }
+    ],
+    "confusion": [
+      "cocao",
+      "coclow",
+      "cocoo",
+      "coc.JPG"
+    ]
+  },
+  {
+    "word": "listener",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who pays attention to a sound or speech.",
+        "meaning_zh_TW": "聽眾",
+        "wrong_meaning_zh_TW": [
+          "發言者",
+          "參與者",
+          "評論家"
+        ],
+        "examples": [
+          {
+            "sentence": "The podcast has many dedicated [listeners].",
+            "translation_zh_TW": "這個播客有很多忠實的聽眾。"
+          },
+          {
+            "sentence": "As a [listener], she really absorbed the information.",
+            "translation_zh_TW": "作為一名聽眾，她真的吸收了這些資訊。"
+          },
+          {
+            "sentence": "The [listener] laughed at the funny stories.",
+            "translation_zh_TW": "聽眾對有趣的故事笑了。"
+          }
+        ],
+        "synonyms": [
+          "audience",
+          "hearer"
+        ]
+      }
+    ],
+    "confusion": [
+      "list",
+      "lister",
+      "listerine",
+      "listless"
+    ]
+  },
+  {
+    "word": "hurry",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move or act with haste.",
+        "meaning_zh_TW": "匆忙",
+        "wrong_meaning_zh_TW": [
+          "慢慢來",
+          "停下",
+          "等待"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [hurry] to catch the bus.",
+            "translation_zh_TW": "我們需要匆忙趕上公車。"
+          },
+          {
+            "sentence": "Don't [hurry]; take your time.",
+            "translation_zh_TW": "不要匆忙，慢慢來。"
+          },
+          {
+            "sentence": "She decided to [hurry] through her chores.",
+            "translation_zh_TW": "她決定匆忙完成家務。"
+          }
+        ],
+        "synonyms": [
+          "race",
+          "speed"
+        ]
+      }
+    ],
+    "confusion": [
+      "hairy",
+      "hurry-up",
+      "hurring",
+      "hurriedly"
+    ]
+  },
+  {
+    "word": "pumpkin",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large round orange fruit with a thick rind.",
+        "meaning_zh_TW": "南瓜",
+        "wrong_meaning_zh_TW": [
+          "荔枝",
+          "香蕉",
+          "辣椒"
+        ],
+        "examples": [
+          {
+            "sentence": "We carved a [pumpkin] for Halloween.",
+            "translation_zh_TW": "我們為萬聖節雕刻了一個南瓜。"
+          },
+          {
+            "sentence": "The soup was made from fresh [pumpkin].",
+            "translation_zh_TW": "這道湯是用新鮮南瓜製作的。"
+          },
+          {
+            "sentence": "She decorated the table with [pumpkins] and gourds.",
+            "translation_zh_TW": "她用南瓜和葫蘆裝飾了桌子。"
+          }
+        ],
+        "synonyms": [
+          "gourd",
+          "squash"
+        ]
+      }
+    ],
+    "confusion": [
+      "pumkin",
+      "pumpkins",
+      "puppkin",
+      "pumkinn"
+    ]
+  },
+  {
+    "word": "barbecue",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A meal or party where food is cooked on a grill.",
+        "meaning_zh_TW": "燒烤",
+        "wrong_meaning_zh_TW": [
+          "炸雞",
+          "燉肉",
+          "沙拉"
+        ],
+        "examples": [
+          {
+            "sentence": "We had a [barbecue] in the backyard.",
+            "translation_zh_TW": "我們在後院舉行了燒烤聚會。"
+          },
+          {
+            "sentence": "She loves to grill vegetables at a [barbecue].",
+            "translation_zh_TW": "她喜歡在燒烤時烤蔬菜。"
+          },
+          {
+            "sentence": "They invited friends over for a weekend [barbecue].",
+            "translation_zh_TW": "他們邀請朋友來家裡過周末燒烤。"
+          }
+        ],
+        "synonyms": [
+          "cookout",
+          "grill"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cook food on a barbecue grill.",
+        "meaning_zh_TW": "燒烤",
+        "wrong_meaning_zh_TW": [
+          "煮沸",
+          "蒸熟",
+          "冷藏"
+        ],
+        "examples": [
+          {
+            "sentence": "They [barbecue] chicken every Sunday.",
+            "translation_zh_TW": "他們每個星期天都有燒烤雞肉。"
+          },
+          {
+            "sentence": "I like to [barbecue] on the weekends.",
+            "translation_zh_TW": "我喜歡在周末燒烤。"
+          },
+          {
+            "sentence": "He plans to [barbecue] for his friends this Friday.",
+            "translation_zh_TW": "他打算這個星期五為朋友們燒烤。"
+          }
+        ],
+        "synonyms": [
+          "grill",
+          "broil"
+        ]
+      }
+    ],
+    "confusion": [
+      "barbecues",
+      "barbeque",
+      "barberque",
+      "barbique"
+    ]
+  },
+  {
+    "word": "rub",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move something over the surface of something else.",
+        "meaning_zh_TW": "摩擦",
+        "wrong_meaning_zh_TW": [
+          "放置",
+          "神秘",
+          "清洗"
+        ],
+        "examples": [
+          {
+            "sentence": "Make sure to [rub] the lotion into your skin.",
+            "translation_zh_TW": "確保將乳液塗抹到你的皮膚上。"
+          },
+          {
+            "sentence": "He [rubbed] his hands together to warm them.",
+            "translation_zh_TW": "他把雙手摩擦在一起以暖和它們。"
+          },
+          {
+            "sentence": "Don't forget to [rub] out the pencil marks.",
+            "translation_zh_TW": "別忘了把鉛筆痕跡擦掉。"
+          }
+        ],
+        "synonyms": [
+          "scrub",
+          "massage"
+        ]
+      }
+    ],
+    "confusion": [
+      "rubber",
+      "rubbed",
+      "rube",
+      "rubs"
+    ]
+  },
+  {
+    "word": "panda",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large black-and-white bear-like mammal native to China, known for its diet of bamboo.",
+        "meaning_zh_TW": "熊貓",
+        "wrong_meaning_zh_TW": [
+          "狐狸",
+          "大象",
+          "獅子"
+        ],
+        "examples": [
+          {
+            "sentence": "The [panda] is a symbol of wildlife conservation.",
+            "translation_zh_TW": "熊貓是野生動物保護的象徵。"
+          },
+          {
+            "sentence": "Children love watching [pandas] at the zoo.",
+            "translation_zh_TW": "孩子們喜歡在動物園裡看熊貓。"
+          },
+          {
+            "sentence": "The [panda] eats mostly bamboo.",
+            "translation_zh_TW": "熊貓主要吃竹子。"
+          }
+        ],
+        "synonyms": [
+          "Ailuropoda melanoleuca",
+          "giant panda"
+        ]
+      }
+    ],
+    "confusion": [
+      "pandaemonium",
+      "pandaic",
+      "pandeism",
+      "panther"
+    ]
+  },
+  {
+    "word": "emphasize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give special importance or prominence to something in speaking or writing.",
+        "meaning_zh_TW": "強調",
+        "wrong_meaning_zh_TW": [
+          "淡化",
+          "忽視",
+          "改變"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher asked him to [emphasize] his point.",
+            "translation_zh_TW": "老師讓他強調自己的觀點。"
+          },
+          {
+            "sentence": "You should [emphasize] the importance of teamwork.",
+            "translation_zh_TW": "你應該強調團隊合作的重要性。"
+          },
+          {
+            "sentence": "She used bold text to [emphasize] the header.",
+            "translation_zh_TW": "她使用粗體字來強調標題。"
+          }
+        ],
+        "synonyms": [
+          "stress",
+          "highlight"
+        ]
+      }
+    ],
+    "confusion": [
+      "emphasized",
+      "emphasis",
+      "emphasizing",
+      "empower"
+    ]
+  },
+  {
+    "word": "excite",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause strong feelings of enthusiasm and eagerness.",
+        "meaning_zh_TW": "使興奮",
+        "wrong_meaning_zh_TW": [
+          "使失望",
+          "使害怕",
+          "使安靜"
+        ],
+        "examples": [
+          {
+            "sentence": "The news will [excite] the fans.",
+            "translation_zh_TW": "這消息將使球迷興奮。"
+          },
+          {
+            "sentence": "They always [excite] curiosity.",
+            "translation_zh_TW": "他們總是令人生起好奇心。"
+          },
+          {
+            "sentence": "The show is sure to [excite] the audience.",
+            "translation_zh_TW": "這場表演一定會使觀眾興奮。"
+          }
+        ],
+        "synonyms": [
+          "energize",
+          "stimulate"
+        ]
+      }
+    ],
+    "confusion": [
+      "excited",
+      "exciting",
+      "excitement",
+      "excusable"
+    ]
+  },
+  {
+    "word": "forgive",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To stop feeling angry or resentful towards someone for an offense or mistake.",
+        "meaning_zh_TW": "原諒",
+        "wrong_meaning_zh_TW": [
+          "惩罚",
+          "記仇",
+          "報復"
+        ],
+        "examples": [
+          {
+            "sentence": "It's important to [forgive] others to maintain peace.",
+            "translation_zh_TW": "原諒他人以維持和平是很重要的。"
+          },
+          {
+            "sentence": "Can you [forgive] me for my mistake?",
+            "translation_zh_TW": "你能原諒我犯的錯誤嗎？"
+          },
+          {
+            "sentence": "She chose to [forgive] him despite the hurt.",
+            "translation_zh_TW": "儘管受了傷，她還是選擇了原諒他。"
+          }
+        ],
+        "synonyms": [
+          "pardon",
+          "excuse"
+        ]
+      }
+    ],
+    "confusion": [
+      "forgeve",
+      "forgivee",
+      "fourgive",
+      "forgve"
+    ]
+  },
+  {
+    "word": "appetite",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A natural desire to satisfy a bodily need, especially for food.",
+        "meaning_zh_TW": "食慾",
+        "wrong_meaning_zh_TW": [
+          "飽食",
+          "過敏",
+          "體重"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a strong [appetite] for desserts.",
+            "translation_zh_TW": "他對甜點有很強的食慾。"
+          },
+          {
+            "sentence": "After the exercise, she felt an increase in her [appetite].",
+            "translation_zh_TW": "運動後，她感到食慾增加。"
+          },
+          {
+            "sentence": "A healthy [appetite] is important for growth.",
+            "translation_zh_TW": "健康的食慾對成長很重要。"
+          }
+        ],
+        "synonyms": [
+          "hunger",
+          "desire"
+        ]
+      }
+    ],
+    "confusion": [
+      "appetize",
+      "apetite",
+      "aptitude",
+      "appeting"
+    ]
+  },
+  {
+    "word": "govern",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To exercise authority over; to control the actions and policies of a state or organization.",
+        "meaning_zh_TW": "統治，治理",
+        "wrong_meaning_zh_TW": [
+          "過度恢復",
+          "無精打采",
+          "隨心所欲"
+        ],
+        "examples": [
+          {
+            "sentence": "The elected officials are responsible to [govern] the city.",
+            "translation_zh_TW": "當選的官員負責治理這座城市"
+          },
+          {
+            "sentence": "It is important for leaders to [govern] with integrity.",
+            "translation_zh_TW": "領袖必須以誠信來治理"
+          },
+          {
+            "sentence": "Many believe that laws should [govern] behavior.",
+            "translation_zh_TW": "許多人認為法律應該統治行為"
+          }
+        ],
+        "synonyms": [
+          "rule",
+          "administer"
+        ]
+      }
+    ],
+    "confusion": [
+      "governance",
+      "governing",
+      "governor",
+      "governess"
+    ]
+  },
+  {
+    "word": "dove",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of bird often symbolizing peace.",
+        "meaning_zh_TW": "鴿子",
+        "wrong_meaning_zh_TW": [
+          "老鷹、捕獵鳥",
+          "鸚鵡、寵物鳥",
+          "麻雀、小型鳥"
+        ],
+        "examples": [
+          {
+            "sentence": "The [dove] flew gracefully in the sky.",
+            "translation_zh_TW": "鴿子在天空中優雅地飛翔。"
+          },
+          {
+            "sentence": "They released a white [dove] as a peace gesture.",
+            "translation_zh_TW": "他們放出一隻白色鴿子以表達和平的意願。"
+          },
+          {
+            "sentence": "A [dove] cooed softly outside the window.",
+            "translation_zh_TW": "一隻鴿子在窗外輕聲咕咕叫。"
+          }
+        ],
+        "synonyms": [
+          "pigeon",
+          "bird"
+        ]
+      }
+    ],
+    "confusion": [
+      "dove",
+      "doe",
+      "dovey",
+      "diva"
+    ]
+  },
+  {
+    "word": "dull",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking interest or excitement; boring.",
+        "meaning_zh_TW": "單調的",
+        "wrong_meaning_zh_TW": [
+          "時髦的",
+          "色彩繽紛的",
+          "有趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "The lecture was so [dull] that many students fell asleep.",
+            "translation_zh_TW": "講座太單調，許多學生都睡著了。"
+          },
+          {
+            "sentence": "She finds the movie quite [dull] and unengaging.",
+            "translation_zh_TW": "她認為這部電影非常單調和無聊。"
+          },
+          {
+            "sentence": "His [dull] remarks made the discussion tedious.",
+            "translation_zh_TW": "他單調的評論讓討論變得冗長。"
+          }
+        ],
+        "synonyms": [
+          "boring",
+          "tedious"
+        ]
+      }
+    ],
+    "confusion": [
+      "doll",
+      "dell",
+      "dual",
+      "dullard"
+    ]
+  },
+  {
+    "word": "behave",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To act in a particular way, especially to be good or acceptable.",
+        "meaning_zh_TW": "舉止、行為",
+        "wrong_meaning_zh_TW": [
+          "失控",
+          "放鬆",
+          "無禮"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [behave] during the presentation.",
+            "translation_zh_TW": "請在演示期間保持舉止得當。"
+          },
+          {
+            "sentence": "Children must learn to [behave] properly.",
+            "translation_zh_TW": "孩子們必須學會正確舉止。"
+          },
+          {
+            "sentence": "He always tries to [behave] well in public.",
+            "translation_zh_TW": "他總是試圖在公共場合表現良好。"
+          }
+        ],
+        "synonyms": [
+          "conduct oneself",
+          "perform"
+        ]
+      }
+    ],
+    "confusion": [
+      "behavee",
+      "behave",
+      "behavier",
+      "behaving"
+    ]
+  }
+]

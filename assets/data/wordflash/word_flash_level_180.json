@@ -1,0 +1,782 @@
+[
+  {
+    "word": "concerning",
+    "meanings": [
+      {
+        "type": "介係詞",
+        "meaning_en_US": "In relation to; about.",
+        "meaning_zh_TW": "關於",
+        "wrong_meaning_zh_TW": [
+          "無關",
+          "偏離",
+          "超出"
+        ],
+        "examples": [
+          {
+            "sentence": "This report is [concerning] our financial status.",
+            "translation_zh_TW": "這份報告是[關於]我們的財務狀況"
+          },
+          {
+            "sentence": "He asked questions [concerning] the project timeline.",
+            "translation_zh_TW": "他詢問了[關於]項目時間表的問題"
+          },
+          {
+            "sentence": "There are many rumors [concerning] the new policy.",
+            "translation_zh_TW": "有關於新政策的許多謠言"
+          }
+        ],
+        "synonyms": [
+          "regarding",
+          "about"
+        ]
+      }
+    ],
+    "confusion": [
+      "conclusions",
+      "conners",
+      "conference",
+      "concerned"
+    ]
+  },
+  {
+    "word": "chemistry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The branch of science concerned with the substances of which matter is composed.",
+        "meaning_zh_TW": "化學",
+        "wrong_meaning_zh_TW": [
+          "數學原理",
+          "物理定律",
+          "生物學特點"
+        ],
+        "examples": [
+          {
+            "sentence": "She studied chemistry in college.",
+            "translation_zh_TW": "她在大學學習化學"
+          },
+          {
+            "sentence": "Chemistry is essential for understanding reactions.",
+            "translation_zh_TW": "化學是理解反應的關鍵"
+          },
+          {
+            "sentence": "He has a strong background in organic chemistry.",
+            "translation_zh_TW": "他在有機化學方面有著深厚的背景"
+          }
+        ],
+        "synonyms": [
+          "chemical science",
+          "study of matter"
+        ]
+      }
+    ],
+    "confusion": [
+      "chemistry",
+      "chemists",
+      "chemist",
+      "chemicals"
+    ]
+  },
+  {
+    "word": "logic",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The study of proper reasoning; the principles of valid inference and demonstration.",
+        "meaning_zh_TW": "邏輯",
+        "wrong_meaning_zh_TW": [
+          "感情",
+          "直覺",
+          "隨意"
+        ],
+        "examples": [
+          {
+            "sentence": "She applied [logic] to solve the dilemma.",
+            "translation_zh_TW": "她運用了邏輯來解決困境"
+          },
+          {
+            "sentence": "Understanding [logic] is essential in mathematics.",
+            "translation_zh_TW": "理解邏輯對數學是至關重要的"
+          },
+          {
+            "sentence": "He has a strong sense of [logic] in his arguments.",
+            "translation_zh_TW": "他的論證具有很強的邏輯性"
+          }
+        ],
+        "synonyms": [
+          "推理",
+          "理性"
+        ]
+      }
+    ],
+    "confusion": [
+      "logics",
+      "logistic",
+      "logically",
+      "logician"
+    ]
+  },
+  {
+    "word": "psychology",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The scientific study of the mind and behavior.",
+        "meaning_zh_TW": "心理學",
+        "wrong_meaning_zh_TW": [
+          "生理學",
+          "社會學",
+          "倫理學"
+        ],
+        "examples": [
+          {
+            "sentence": "She majored in [psychology] at the university.",
+            "translation_zh_TW": "她在大學主修心理學"
+          },
+          {
+            "sentence": "Understanding [psychology] can help improve relationships.",
+            "translation_zh_TW": "了解心理學可以幫助改善人際關係"
+          },
+          {
+            "sentence": "He wrote a book on the principles of [psychology].",
+            "translation_zh_TW": "他寫了一本關於心理學原則的書"
+          }
+        ],
+        "synonyms": [
+          "mental science",
+          "behavioral science"
+        ]
+      }
+    ],
+    "confusion": [
+      "psychopathology",
+      "psychotics",
+      "physiology",
+      "psychometrics"
+    ]
+  },
+  {
+    "word": "identification",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or process of identifying someone or something.",
+        "meaning_zh_TW": "識別，辨認",
+        "wrong_meaning_zh_TW": [
+          "模糊的記憶",
+          "分散注意力",
+          "意見不合"
+        ],
+        "examples": [
+          {
+            "sentence": "The police asked for an [identification].",
+            "translation_zh_TW": "警方要求查看身份證明。"
+          },
+          {
+            "sentence": "He produced his driver's license as [identification].",
+            "translation_zh_TW": "他出示了他的駕駛執照作為身份證明。"
+          },
+          {
+            "sentence": "The [identification] of the suspect was crucial.",
+            "translation_zh_TW": "犯罪嫌疑人的識別至關重要。"
+          }
+        ],
+        "synonyms": [
+          "recognition",
+          "verification"
+        ]
+      }
+    ],
+    "confusion": [
+      "identifiction",
+      "identificaiton",
+      "idntification",
+      "identifcation"
+    ]
+  },
+  {
+    "word": "elementary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the most basic or fundamental aspects of something.",
+        "meaning_zh_TW": "初級的、基礎的",
+        "wrong_meaning_zh_TW": [
+          "進階的",
+          "困難的",
+          "專業的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is teaching [elementary] mathematics.",
+            "translation_zh_TW": "她正在教授初級數學。"
+          },
+          {
+            "sentence": "The book covers [elementary] principles of physics.",
+            "translation_zh_TW": "這本書涵蓋了基礎物理學原理。"
+          },
+          {
+            "sentence": "An [elementary] understanding of the subject is required.",
+            "translation_zh_TW": "需要對這個主題有基礎的理解。"
+          }
+        ],
+        "synonyms": [
+          "basic",
+          "fundamental"
+        ]
+      }
+    ],
+    "confusion": [
+      "elementry",
+      "elegant",
+      "elimination",
+      "elevate"
+    ]
+  },
+  {
+    "word": "launch",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To set in motion; to start or initiate.",
+        "meaning_zh_TW": "啟動；開始",
+        "wrong_meaning_zh_TW": [
+          "停止",
+          "結束",
+          "跟隨"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [launch] the new product next month.",
+            "translation_zh_TW": "他們計劃下個月推出新產品。"
+          },
+          {
+            "sentence": "The company will [launch] its marketing campaign soon.",
+            "translation_zh_TW": "該公司將很快啟動其營銷活動。"
+          },
+          {
+            "sentence": "She decided to [launch] her own business.",
+            "translation_zh_TW": "她決定創辦自己的公司。"
+          }
+        ],
+        "synonyms": [
+          "initiate",
+          "start"
+        ]
+      }
+    ],
+    "confusion": [
+      "launching",
+      "lunch",
+      "launce",
+      "lounce"
+    ]
+  },
+  {
+    "word": "enforcement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of compelling observance of or obedience to a law, rule, or obligation.",
+        "meaning_zh_TW": "執行",
+        "wrong_meaning_zh_TW": [
+          "測試",
+          "規劃",
+          "設計"
+        ],
+        "examples": [
+          {
+            "sentence": "Law [enforcement] is crucial for public safety.",
+            "translation_zh_TW": "法律執行對公共安全至關重要。"
+          },
+          {
+            "sentence": "The [enforcement] of new regulations is needed.",
+            "translation_zh_TW": "需要執行新的規定。"
+          },
+          {
+            "sentence": "Increased [enforcement] can deter crime.",
+            "translation_zh_TW": "加強執行可以威懾犯罪。"
+          }
+        ],
+        "synonyms": [
+          "implementation",
+          "administration"
+        ]
+      }
+    ],
+    "confusion": [
+      "reinforcement",
+      "enforce",
+      "enforcable",
+      "inforcement"
+    ]
+  },
+  {
+    "word": "bond",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A strong connection or relationship.",
+        "meaning_zh_TW": "連結、關係",
+        "wrong_meaning_zh_TW": [
+          "解開",
+          "隔離",
+          "分開"
+        ],
+        "examples": [
+          {
+            "sentence": "There is a special [bond] between the mother and her child.",
+            "translation_zh_TW": "母親和孩子之間有著特殊的連結"
+          },
+          {
+            "sentence": "Their friendship created a lasting [bond].",
+            "translation_zh_TW": "他們的友誼產生了持久的關係"
+          },
+          {
+            "sentence": "Trust is essential for forming a strong [bond].",
+            "translation_zh_TW": "信任對於建立強大的連結是必要的"
+          }
+        ],
+        "synonyms": [
+          "connection",
+          "tie"
+        ]
+      }
+    ],
+    "confusion": [
+      "bonds",
+      "bonding",
+      "band",
+      "bord"
+    ]
+  },
+  {
+    "word": "biology",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The scientific study of life and living organisms, including their structure, function, growth, and evolution.",
+        "meaning_zh_TW": "生物學",
+        "wrong_meaning_zh_TW": [
+          "生理學",
+          "化學",
+          "天文學"
+        ],
+        "examples": [
+          {
+            "sentence": "She is majoring in [biology] at university.",
+            "translation_zh_TW": "她在大學主修生物學"
+          },
+          {
+            "sentence": "Understanding [biology] helps us conserve our environment.",
+            "translation_zh_TW": "了解生物學有助於我們保護環境"
+          },
+          {
+            "sentence": "The professor teaches [biology] with great enthusiasm.",
+            "translation_zh_TW": "教授非常熱情地教授生物學"
+          }
+        ],
+        "synonyms": [
+          "life science",
+          "biological science"
+        ]
+      }
+    ],
+    "confusion": [
+      "biolog",
+      "bio",
+      "biol",
+      "biologgy"
+    ]
+  },
+  {
+    "word": "pregnancy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state of carrying a developing fetus in the womb.",
+        "meaning_zh_TW": "懷孕",
+        "wrong_meaning_zh_TW": [
+          "生育",
+          "月經",
+          "分娩"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [pregnancy] was announced at the family gathering.",
+            "translation_zh_TW": "她的懷孕在家庭聚會上宣布。"
+          },
+          {
+            "sentence": "She experienced many changes during her [pregnancy].",
+            "translation_zh_TW": "在懷孕期間，她經歷了許多變化。"
+          },
+          {
+            "sentence": "Pregnancy lasts about nine months.",
+            "translation_zh_TW": "懷孕大約持續九個月。"
+          }
+        ],
+        "synonyms": [
+          "gestation",
+          "conception"
+        ]
+      }
+    ],
+    "confusion": [
+      "pregnantcy",
+      "pregnacy",
+      "preganancy",
+      "pregrancy"
+    ]
+  },
+  {
+    "word": "biography",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An account of someone's life written by someone else.",
+        "meaning_zh_TW": "傳記",
+        "wrong_meaning_zh_TW": [
+          "小說",
+          "散文",
+          "詩歌"
+        ],
+        "examples": [
+          {
+            "sentence": "She wrote a [biography] of a famous scientist.",
+            "translation_zh_TW": "她寫了一位著名科學家的傳記。"
+          },
+          {
+            "sentence": "His [biography] details his childhood experiences.",
+            "translation_zh_TW": "他的傳記詳述了童年的經歷。"
+          },
+          {
+            "sentence": "The museum features a [biography] section.",
+            "translation_zh_TW": "博物館有一個傳記專區。"
+          }
+        ],
+        "synonyms": [
+          "life story",
+          "memoir"
+        ]
+      }
+    ],
+    "confusion": [
+      "biolography",
+      "biogeny",
+      "biometric",
+      "biomal"
+    ]
+  },
+  {
+    "word": "learned",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having acquired great knowledge or learning.",
+        "meaning_zh_TW": "博學的",
+        "wrong_meaning_zh_TW": [
+          "無知的",
+          "粗心的",
+          "幼稚的"
+        ],
+        "examples": [
+          {
+            "sentence": "The professor is a very [learned] individual.",
+            "translation_zh_TW": "這位教授是一個非常博學的人。"
+          },
+          {
+            "sentence": "She's known for her [learned] discussions on history.",
+            "translation_zh_TW": "她以對歷史的博學討論而聞名。"
+          },
+          {
+            "sentence": "His [learned] approach made the class engaging.",
+            "translation_zh_TW": "他博學的教學方法使課堂充滿吸引力。"
+          }
+        ],
+        "synonyms": [
+          "knowledgeable",
+          "scholarly"
+        ]
+      }
+    ],
+    "confusion": [
+      "learning",
+      "lounge",
+      "leurned",
+      "learner"
+    ]
+  },
+  {
+    "word": "retirement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of time when one stops working, especially after reaching a certain age.",
+        "meaning_zh_TW": "退休、退休期間",
+        "wrong_meaning_zh_TW": [
+          "工作期",
+          "職業生涯",
+          "在職期間"
+        ],
+        "examples": [
+          {
+            "sentence": "She is saving money for her [retirement].",
+            "translation_zh_TW": "她在為退休儲蓄。"
+          },
+          {
+            "sentence": "Retirement can bring new opportunities.",
+            "translation_zh_TW": "退休可以帶來新的機會。"
+          },
+          {
+            "sentence": "He enjoys traveling during his [retirement].",
+            "translation_zh_TW": "他在退休期間喜歡旅行。"
+          }
+        ],
+        "synonyms": [
+          "withdrawal from work",
+          "rest from work"
+        ]
+      }
+    ],
+    "confusion": [
+      "retort",
+      "retainer",
+      "retrait",
+      "retard"
+    ]
+  },
+  {
+    "word": "efficiency",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The state or quality of being efficient; the ability to produce desired results with minimum waste.",
+        "meaning_zh_TW": "效率",
+        "wrong_meaning_zh_TW": [
+          "正確性",
+          "有效性",
+          "可信度"
+        ],
+        "examples": [
+          {
+            "sentence": "The new system improved [efficiency] in production.",
+            "translation_zh_TW": "新系統提高了生產效率。"
+          },
+          {
+            "sentence": "We need to focus on [efficiency] to reduce costs.",
+            "translation_zh_TW": "我們需要專注於效率以降低成本。"
+          },
+          {
+            "sentence": "Energy [efficiency] is key to sustainable development.",
+            "translation_zh_TW": "能源效率是可持續發展的關鍵。"
+          }
+        ],
+        "synonyms": [
+          "effectiveness",
+          "productivity"
+        ]
+      }
+    ],
+    "confusion": [
+      "efficacy",
+      "efficient",
+      "effluent",
+      "efficience"
+    ]
+  },
+  {
+    "word": "comedy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A genre of literature or drama that aims to amuse the audience.",
+        "meaning_zh_TW": "喜劇",
+        "wrong_meaning_zh_TW": [
+          "悲劇",
+          "劇情片",
+          "紀錄片"
+        ],
+        "examples": [
+          {
+            "sentence": "The play was a hilarious [comedy] that made everyone laugh.",
+            "translation_zh_TW": "這部劇是一部讓所有人都笑的滑稽喜劇"
+          },
+          {
+            "sentence": "I enjoy watching [comedy] movies on weekends.",
+            "translation_zh_TW": "我喜歡在週末观看喜劇電影"
+          },
+          {
+            "sentence": "His stand-up routine is pure [comedy].",
+            "translation_zh_TW": "他的單口喜劇完全是喜劇"
+          }
+        ],
+        "synonyms": [
+          "humor",
+          "farce"
+        ]
+      }
+    ],
+    "confusion": [
+      "comet",
+      "commodity",
+      "commentary",
+      "comedy"
+    ]
+  },
+  {
+    "word": "carrier",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that carries or transports something.",
+        "meaning_zh_TW": "承運人",
+        "wrong_meaning_zh_TW": [
+          "乘客",
+          "接收者",
+          "寄件人"
+        ],
+        "examples": [
+          {
+            "sentence": "The postal [carrier] delivered the mail every morning.",
+            "translation_zh_TW": "郵政承運人每天早上投遞郵件"
+          },
+          {
+            "sentence": "She is a [carrier] of good news.",
+            "translation_zh_TW": "她是好消息的承載者"
+          },
+          {
+            "sentence": "The company hired a reliable [carrier] for shipments.",
+            "translation_zh_TW": "該公司聘請了一家可靠的承運人進行運輸"
+          }
+        ],
+        "synonyms": [
+          "transporter",
+          "conveyor"
+        ]
+      }
+    ],
+    "confusion": [
+      "carriers",
+      "carrie",
+      "carier",
+      "careers"
+    ]
+  },
+  {
+    "word": "reflect",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To throw back light, heat, or sound from a surface.",
+        "meaning_zh_TW": "反射",
+        "wrong_meaning_zh_TW": [
+          "反應、回應",
+          "反抗、抵抗",
+          "維修、修理"
+        ],
+        "examples": [
+          {
+            "sentence": "The water will [reflect] the sunlight beautifully.",
+            "translation_zh_TW": "水面會美麗地反射陽光。"
+          },
+          {
+            "sentence": "She likes to [reflect] on her day before bed.",
+            "translation_zh_TW": "她喜歡在睡前反思一天的事情。"
+          },
+          {
+            "sentence": "Mirrors [reflect] images perfectly.",
+            "translation_zh_TW": "鏡子能完美地反射影像。"
+          }
+        ],
+        "synonyms": [
+          "mirror",
+          "reverberate"
+        ]
+      }
+    ],
+    "confusion": [
+      "reflected",
+      "reflux",
+      "inflect",
+      "reselect"
+    ]
+  },
+  {
+    "word": "reform",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make changes in order to improve.",
+        "meaning_zh_TW": "改革",
+        "wrong_meaning_zh_TW": [
+          "反應、回應",
+          "反思、思考",
+          "重排、排列"
+        ],
+        "examples": [
+          {
+            "sentence": "The government aims to [reform] the education system.",
+            "translation_zh_TW": "政府的目標是改革教育系統。"
+          },
+          {
+            "sentence": "Many believe that laws need to be [reformed].",
+            "translation_zh_TW": "許多人認為法律需要被改革。"
+          },
+          {
+            "sentence": "They hope to [reform] the outdated policies.",
+            "translation_zh_TW": "他們希望改革過時的政策。"
+          }
+        ],
+        "synonyms": [
+          "improve",
+          "enhance"
+        ]
+      }
+    ],
+    "confusion": [
+      "reforms",
+      "reformist",
+      "inform",
+      "reformative"
+    ]
+  },
+  {
+    "word": "confidence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of self-assurance stemming from one's appreciation of one's own abilities or qualities.",
+        "meaning_zh_TW": "信心、自信",
+        "wrong_meaning_zh_TW": [
+          "疑慮",
+          "恐懼",
+          "羞愧"
+        ],
+        "examples": [
+          {
+            "sentence": "She approached the challenge with [confidence].",
+            "translation_zh_TW": "她以自信的態度面對挑戰"
+          },
+          {
+            "sentence": "His [confidence] grew as he practiced more.",
+            "translation_zh_TW": "隨著他越練越多，他的自信心增強"
+          },
+          {
+            "sentence": "Building [confidence] takes time and persistence.",
+            "translation_zh_TW": "建立自信需要時間和毅力"
+          }
+        ],
+        "synonyms": [
+          "self-assurance",
+          "self-reliance"
+        ]
+      }
+    ],
+    "confusion": [
+      "confident",
+      "confide",
+      "confusion",
+      "conflict"
+    ]
+  }
+]

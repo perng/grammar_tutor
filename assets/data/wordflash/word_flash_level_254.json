@@ -1,0 +1,782 @@
+[
+  {
+    "word": "viewpoint",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular attitude or way of considering a matter.",
+        "meaning_zh_TW": "觀點",
+        "wrong_meaning_zh_TW": [
+          "描述",
+          "結論",
+          "事實"
+        ],
+        "examples": [
+          {
+            "sentence": "From my [viewpoint], this decision seems unwise.",
+            "translation_zh_TW": "從我的觀點來看，這個決定似乎不明智。"
+          },
+          {
+            "sentence": "The article presents a unique [viewpoint] on climate change.",
+            "translation_zh_TW": "這篇文章提出了對氣候變化的獨特觀點。"
+          },
+          {
+            "sentence": "It's important to consider different [viewpoint] when discussing the issue.",
+            "translation_zh_TW": "在討論這個問題時，考慮不同的觀點是重要的。"
+          }
+        ],
+        "synonyms": [
+          "perspective",
+          "standpoint"
+        ]
+      }
+    ],
+    "confusion": [
+      "viewpoint",
+      "viewports",
+      "viewer",
+      "viewerrate"
+    ]
+  },
+  {
+    "word": "conception",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The forming or devising of a plan or idea.",
+        "meaning_zh_TW": "概念",
+        "wrong_meaning_zh_TW": [
+          "實施",
+          "評估",
+          "應用"
+        ],
+        "examples": [
+          {
+            "sentence": "The [conception] of the project was innovative.",
+            "translation_zh_TW": "這個項目的概念是創新的。"
+          },
+          {
+            "sentence": "They had a unique [conception] of art.",
+            "translation_zh_TW": "他們對藝術有獨特的概念。"
+          },
+          {
+            "sentence": "Her [conception] of freedom differs from others.",
+            "translation_zh_TW": "她對自由的理解與其他人不同。"
+          }
+        ],
+        "synonyms": [
+          "idea",
+          "notion"
+        ]
+      }
+    ],
+    "confusion": [
+      "conception",
+      "concept",
+      "conceptor",
+      "concurrent"
+    ]
+  },
+  {
+    "word": "predator",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An animal that preys on others.",
+        "meaning_zh_TW": "掠食者",
+        "wrong_meaning_zh_TW": [
+          "草食動物",
+          "植物",
+          "寄生蟲"
+        ],
+        "examples": [
+          {
+            "sentence": "The lion is a top [predator] in the food chain.",
+            "translation_zh_TW": "獅子是食物鏈中的頂級掠食者。"
+          },
+          {
+            "sentence": "Predators play an important role in maintaining the ecosystem.",
+            "translation_zh_TW": "掠食者在維持生態系統中扮演重要角色。"
+          },
+          {
+            "sentence": "In nature, every predator relies on its instincts.",
+            "translation_zh_TW": "在自然界中，每個掠食者都依賴其本能。"
+          }
+        ],
+        "synonyms": [
+          "hunter",
+          "killer"
+        ]
+      }
+    ],
+    "confusion": [
+      "predjudice",
+      "pradator",
+      "predatorily",
+      "predatior"
+    ]
+  },
+  {
+    "word": "premature",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring or done before the usual or expected time.",
+        "meaning_zh_TW": "過早的",
+        "wrong_meaning_zh_TW": [
+          "懷孕",
+          "不成熟",
+          "失敗"
+        ],
+        "examples": [
+          {
+            "sentence": "The baby was born [premature], but is doing well now.",
+            "translation_zh_TW": "嬰兒出生過早，但現在已經很好了。"
+          },
+          {
+            "sentence": "They made a [premature] decision without all the facts.",
+            "translation_zh_TW": "他們在沒有所有事實的情況下做出了過早的決定。"
+          },
+          {
+            "sentence": "The flowers bloomed [prematurely] this spring.",
+            "translation_zh_TW": "今年春天花朵過早地綻放了。"
+          }
+        ],
+        "synonyms": [
+          "untimely",
+          "early"
+        ]
+      }
+    ],
+    "confusion": [
+      "premier",
+      "premise",
+      "premium",
+      "premised"
+    ]
+  },
+  {
+    "word": "boxer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who fights as a sport, usually in a boxing ring.",
+        "meaning_zh_TW": "拳擊手",
+        "wrong_meaning_zh_TW": [
+          "貼紙、包裝",
+          "顏色、樣式",
+          "打擊、攻擊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [boxer] trained for months before the fight.",
+            "translation_zh_TW": "拳擊手在比賽前訓練了好幾個月"
+          },
+          {
+            "sentence": "He dreamed of becoming a champion [boxer].",
+            "translation_zh_TW": "他夢想成為一名冠軍拳擊手"
+          },
+          {
+            "sentence": "The [boxer] won the match by knockout.",
+            "translation_zh_TW": "拳擊手以擊倒方式贏得比賽"
+          }
+        ],
+        "synonyms": [
+          "fighter",
+          "combatant"
+        ]
+      }
+    ],
+    "confusion": [
+      "box",
+      "boxers",
+      "boxe",
+      "booker"
+    ]
+  },
+  {
+    "word": "meantime",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of time between two events or actions.",
+        "meaning_zh_TW": "同時，期間",
+        "wrong_meaning_zh_TW": [
+          "過去",
+          "以後",
+          "現在"
+        ],
+        "examples": [
+          {
+            "sentence": "In the [meantime], let's focus on the task at hand.",
+            "translation_zh_TW": "在此期間，讓我們專注於眼前的任務。"
+          },
+          {
+            "sentence": "You can study for the exam; in the [meantime], I will make dinner.",
+            "translation_zh_TW": "你可以為考試學習；同時，我會準備晚餐。"
+          },
+          {
+            "sentence": "The project is delayed, but in the [meantime], we will review our options.",
+            "translation_zh_TW": "這個項目被延遲了，但在此期間，我們將審查我們的選擇。"
+          }
+        ],
+        "synonyms": [
+          "meanwhile",
+          "interim"
+        ]
+      }
+    ],
+    "confusion": [
+      "meantie",
+      "meanest",
+      "mean",
+      "meant"
+    ]
+  },
+  {
+    "word": "specimen",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An individual example of a particular kind of something, often used for study or display.",
+        "meaning_zh_TW": "樣本",
+        "wrong_meaning_zh_TW": [
+          "批發",
+          "理論",
+          "數據"
+        ],
+        "examples": [
+          {
+            "sentence": "The museum displays a rare [specimen] of ancient pottery.",
+            "translation_zh_TW": "博物館展示了一個珍貴的古代陶器樣本。"
+          },
+          {
+            "sentence": "We collected a [specimen] of the plant.",
+            "translation_zh_TW": "我們收集了一個植物樣本。"
+          },
+          {
+            "sentence": "The [specimen] was analyzed for research.",
+            "translation_zh_TW": "樣本已用於研究分析。"
+          }
+        ],
+        "synonyms": [
+          "sample",
+          "example"
+        ]
+      }
+    ],
+    "confusion": [
+      "special",
+      "spectacular",
+      "specialty",
+      "specify"
+    ]
+  },
+  {
+    "word": "compassion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "meaning_zh_TW": "同情心",
+        "wrong_meaning_zh_TW": [
+          "冷漠",
+          "敵意",
+          "無感"
+        ],
+        "examples": [
+          {
+            "sentence": "She showed great [compassion] for the victims.",
+            "translation_zh_TW": "她對受害者表現出強烈的同情心"
+          },
+          {
+            "sentence": "Compassion is essential in helping those in need.",
+            "translation_zh_TW": "同情心在幫助有需要的人時是必不可少的"
+          },
+          {
+            "sentence": "He acted with [compassion] during the crisis.",
+            "translation_zh_TW": "在危機期間，他表現出同情心"
+          }
+        ],
+        "synonyms": [
+          "empathy",
+          "sympathy"
+        ]
+      }
+    ],
+    "confusion": [
+      "compulsion",
+      "compete",
+      "compound",
+      "composure"
+    ]
+  },
+  {
+    "word": "stain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mark or discoloration that spoils the appearance of something.",
+        "meaning_zh_TW": "污漬，斑點",
+        "wrong_meaning_zh_TW": [
+          "塗料",
+          "顏色",
+          "味道"
+        ],
+        "examples": [
+          {
+            "sentence": "There is a red [stain] on his shirt.",
+            "translation_zh_TW": "他的襯衫上有紅色的污漬。"
+          },
+          {
+            "sentence": "She tried to remove the [stain] with soap.",
+            "translation_zh_TW": "她試圖用肥皂去除污漬。"
+          },
+          {
+            "sentence": "The wine left an unsightly [stain] on the carpet.",
+            "translation_zh_TW": "紅酒在地毯上留下了難看的污漬。"
+          }
+        ],
+        "synonyms": [
+          "spot",
+          "blemish"
+        ]
+      }
+    ],
+    "confusion": [
+      "strain",
+      "stainable",
+      "stane",
+      "stake"
+    ]
+  },
+  {
+    "word": "trivial",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of little value or importance.",
+        "meaning_zh_TW": "微不足道的",
+        "wrong_meaning_zh_TW": [
+          "重要的",
+          "特殊的",
+          "顯著的"
+        ],
+        "examples": [
+          {
+            "sentence": "Don't waste time on [trivial] matters.",
+            "translation_zh_TW": "不要在微不足道的事情上浪費時間。"
+          },
+          {
+            "sentence": "His complaints were deemed [trivial].",
+            "translation_zh_TW": "他的投訴被認為是微不足道的。"
+          },
+          {
+            "sentence": "She finds [trivial] details in the contract.",
+            "translation_zh_TW": "她在合約中找到些微不足道的細節。"
+          }
+        ],
+        "synonyms": [
+          "insignificant",
+          "petty"
+        ]
+      }
+    ],
+    "confusion": [
+      "triviality",
+      "tribal",
+      "traverse",
+      "trivol"
+    ]
+  },
+  {
+    "word": "thrust",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To push something or someone suddenly or violently in a specified direction.",
+        "meaning_zh_TW": "推進；刺入",
+        "wrong_meaning_zh_TW": [
+          "拉動",
+          "拖拽",
+          "彈射"
+        ],
+        "examples": [
+          {
+            "sentence": "He [thrust] the sword into the ground.",
+            "translation_zh_TW": "他把劍刺入地面"
+          },
+          {
+            "sentence": "She [thrust] her way through the crowd.",
+            "translation_zh_TW": "她在群眾中強行穿過"
+          },
+          {
+            "sentence": "With one swift motion, he [thrust] his hand forward.",
+            "translation_zh_TW": "他用一個快速的動作把手向前推"
+          }
+        ],
+        "synonyms": [
+          "push",
+          "shove"
+        ]
+      }
+    ],
+    "confusion": [
+      "thrusting",
+      "thrusts",
+      "thrashed",
+      "throated"
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Deserving or inviting derision or mockery.",
+        "meaning_zh_TW": "可笑的",
+        "wrong_meaning_zh_TW": [
+          "認真的",
+          "嚴肅的",
+          "價值重大的"
+        ],
+        "examples": [
+          {
+            "sentence": "The situation was quite [ridiculous] and hard to believe.",
+            "translation_zh_TW": "這情況真是可笑，讓人難以置信。"
+          },
+          {
+            "sentence": "She wore a [ridiculous] hat that made everyone laugh.",
+            "translation_zh_TW": "她戴著一頂可笑的帽子，讓大家都笑了。"
+          },
+          {
+            "sentence": "It's [ridiculous] to think that he could finish the project alone.",
+            "translation_zh_TW": "認為他能單獨完成這個項目是可笑的。"
+          }
+        ],
+        "synonyms": [
+          "absurd",
+          "ludicrous"
+        ]
+      }
+    ],
+    "confusion": [
+      "ridicoulous",
+      "ridiculus",
+      "rediculous",
+      "ridickulous"
+    ]
+  },
+  {
+    "word": "presumably",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used to convey that what is assumed is likely or probable.",
+        "meaning_zh_TW": "可推測地",
+        "wrong_meaning_zh_TW": [
+          "不確定地",
+          "偶爾地",
+          "清楚地"
+        ],
+        "examples": [
+          {
+            "sentence": "They are [presumably] leaving early for the trip.",
+            "translation_zh_TW": "他們可推測地會提早出發去旅行。"
+          },
+          {
+            "sentence": "The meeting, [presumably], will start at noon.",
+            "translation_zh_TW": "會議可推測地將在正午開始。"
+          },
+          {
+            "sentence": "He is, [presumably], the best candidate for the job.",
+            "translation_zh_TW": "他可推測地是這份工作的最佳候選人。"
+          }
+        ],
+        "synonyms": [
+          "likely",
+          "probably"
+        ]
+      }
+    ],
+    "confusion": [
+      "presume",
+      "presumed",
+      "presentation",
+      "presumeably"
+    ]
+  },
+  {
+    "word": "plea",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A request made in an urgent and emotional manner.",
+        "meaning_zh_TW": "懇求",
+        "wrong_meaning_zh_TW": [
+          "辯護",
+          "抗辯",
+          "辯論"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [plea] for help.",
+            "translation_zh_TW": "他懇求幫助。"
+          },
+          {
+            "sentence": "The charity issued a [plea] for donations.",
+            "translation_zh_TW": "慈善機構發出了捐款的懇求。"
+          },
+          {
+            "sentence": "Her [plea] touched everyone's hearts.",
+            "translation_zh_TW": "她的懇求感動了每個人。"
+          }
+        ],
+        "synonyms": [
+          "request",
+          "appeal"
+        ]
+      }
+    ],
+    "confusion": [
+      "pleat",
+      "plaid",
+      "plebe",
+      "plaza"
+    ]
+  },
+  {
+    "word": "abundant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Existing or available in large quantities; plentiful.",
+        "meaning_zh_TW": "豐富的",
+        "wrong_meaning_zh_TW": [
+          "匱乏的",
+          "有限的",
+          "稀少的"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden was filled with [abundant] flowers.",
+            "translation_zh_TW": "花園裡充滿了豐富的花朵"
+          },
+          {
+            "sentence": "They have an [abundant] supply of resources.",
+            "translation_zh_TW": "他們有豐富的資源"
+          },
+          {
+            "sentence": "Wildlife is [abundant] in this area.",
+            "translation_zh_TW": "這個地區的野生動物非常豐富"
+          }
+        ],
+        "synonyms": [
+          "plentiful",
+          "ample"
+        ]
+      }
+    ],
+    "confusion": [
+      "abundantly",
+      "abundance",
+      "abounded",
+      "abundancy"
+    ]
+  },
+  {
+    "word": "specialize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To focus on a particular area of study or work.",
+        "meaning_zh_TW": "專攻",
+        "wrong_meaning_zh_TW": [
+          "通才",
+          "學徒",
+          "經理"
+        ],
+        "examples": [
+          {
+            "sentence": "She plans to [specialize] in neurology.",
+            "translation_zh_TW": "她計劃專攻神經學。"
+          },
+          {
+            "sentence": "They often [specialize] in different fields.",
+            "translation_zh_TW": "他們經常在不同的領域專攻。"
+          },
+          {
+            "sentence": "The company [specializes] in renewable energy.",
+            "translation_zh_TW": "這家公司專攻可再生能源。"
+          }
+        ],
+        "synonyms": [
+          "focus",
+          "niche"
+        ]
+      }
+    ],
+    "confusion": [
+      "specialist",
+      "specialty",
+      "special",
+      "spectacular"
+    ]
+  },
+  {
+    "word": "prey",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An animal that is hunted and killed by another for food.",
+        "meaning_zh_TW": "獵物",
+        "wrong_meaning_zh_TW": [
+          "捕食者",
+          "獵手",
+          "食物鏈"
+        ],
+        "examples": [
+          {
+            "sentence": "The lion stalks its [prey] silently.",
+            "translation_zh_TW": "獅子悄悄地追蹤它的獵物。"
+          },
+          {
+            "sentence": "Birds are often [prey] for larger animals.",
+            "translation_zh_TW": "鳥類常常是更大型動物的獵物。"
+          },
+          {
+            "sentence": "The [prey] tried to escape from the predator.",
+            "translation_zh_TW": "獵物試圖逃脫捕食者的追擊。"
+          }
+        ],
+        "synonyms": [
+          "victim",
+          "target"
+        ]
+      }
+    ],
+    "confusion": [
+      "pray",
+      "preyed",
+      "preying",
+      "prayed"
+    ]
+  },
+  {
+    "word": "pedestrian",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person walking in a city or town.",
+        "meaning_zh_TW": "行人",
+        "wrong_meaning_zh_TW": [
+          "車輛",
+          "出租車",
+          "自行車"
+        ],
+        "examples": [
+          {
+            "sentence": "The [pedestrian] crossed the street safely.",
+            "translation_zh_TW": "行人安全地過馬路"
+          },
+          {
+            "sentence": "Many [pedestrians] use this sidewalk daily.",
+            "translation_zh_TW": "許多行人每天都使用這條人行道"
+          },
+          {
+            "sentence": "He was a cautious [pedestrian] who always looked both ways.",
+            "translation_zh_TW": "他是一個謹慎的行人，總是左右看"
+          }
+        ],
+        "synonyms": [
+          "walker",
+          "foot traffic"
+        ]
+      }
+    ],
+    "confusion": [
+      "pedastrian",
+      "pedestrain",
+      "pedestran",
+      "pedestrain"
+    ]
+  },
+  {
+    "word": "stimulate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To encourage interest or activity in something.",
+        "meaning_zh_TW": "激發",
+        "wrong_meaning_zh_TW": [
+          "抑制",
+          "減少",
+          "終止"
+        ],
+        "examples": [
+          {
+            "sentence": "The teacher used games to [stimulate] the students' interest.",
+            "translation_zh_TW": "老師用遊戲來激發學生的興趣。"
+          },
+          {
+            "sentence": "This research aims to [stimulate] innovation in technology.",
+            "translation_zh_TW": "這項研究旨在激發技術創新。"
+          },
+          {
+            "sentence": "To [stimulate] growth, invest in new projects.",
+            "translation_zh_TW": "為了激發增長，投資於新項目。"
+          }
+        ],
+        "synonyms": [
+          "encourage",
+          "inspire"
+        ]
+      }
+    ],
+    "confusion": [
+      "stimulation",
+      "stimulus",
+      "stimuli",
+      "simulant"
+    ]
+  },
+  {
+    "word": "porch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A covered shelter projecting in front of the entrance of a building.",
+        "meaning_zh_TW": "門廊",
+        "wrong_meaning_zh_TW": [
+          "後院",
+          "窗戶",
+          "走廊"
+        ],
+        "examples": [
+          {
+            "sentence": "They sat on the [porch] watching the sunset.",
+            "translation_zh_TW": "他們坐在門廊上看日落"
+          },
+          {
+            "sentence": "The [porch] was decorated with flowers.",
+            "translation_zh_TW": "門廊上裝飾著花朵"
+          },
+          {
+            "sentence": "She likes to read on the [porch].",
+            "translation_zh_TW": "她喜歡在門廊上閱讀"
+          }
+        ],
+        "synonyms": [
+          "veranda",
+          "patio"
+        ]
+      }
+    ],
+    "confusion": [
+      "porche",
+      "porchway",
+      "porches",
+      "porchette"
+    ]
+  }
+]

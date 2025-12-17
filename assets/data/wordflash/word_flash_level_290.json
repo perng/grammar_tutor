@@ -1,0 +1,784 @@
+[
+  {
+    "word": "underneath",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In a position directly below or beneath something.",
+        "meaning_zh_TW": "在下面",
+        "wrong_meaning_zh_TW": [
+          "在上面",
+          "外面",
+          "旁邊"
+        ],
+        "examples": [
+          {
+            "sentence": "The cat is hiding [underneath] the table.",
+            "translation_zh_TW": "貓藏在桌子下面。"
+          },
+          {
+            "sentence": "There was a book [underneath] the pile of papers.",
+            "translation_zh_TW": "在那堆文件下面有一本書。"
+          },
+          {
+            "sentence": "He found his keys [underneath] the couch.",
+            "translation_zh_TW": "他在沙發下面找到了他的鑰匙。"
+          }
+        ],
+        "synonyms": [
+          "beneath",
+          "below"
+        ]
+      }
+    ],
+    "confusion": [
+      "underneat",
+      "underthing",
+      "undernet",
+      "underneaths"
+    ]
+  },
+  {
+    "word": "capsule",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small container or compartment that holds something, especially a dose of medicine.",
+        "meaning_zh_TW": "膠囊",
+        "wrong_meaning_zh_TW": [
+          "香水瓶",
+          "玩具籃",
+          "藥片"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a [capsule] of vitamin C every day.",
+            "translation_zh_TW": "他每天都吃一顆維他命C的膠囊。"
+          },
+          {
+            "sentence": "The time capsule was buried 50 years ago.",
+            "translation_zh_TW": "這個時間膠囊在50年前埋下。"
+          },
+          {
+            "sentence": "The spacecraft is designed to carry a crew in a protective [capsule].",
+            "translation_zh_TW": "這艘太空船設計用來攜帶一個防護膠囊的乘組。"
+          }
+        ],
+        "synonyms": [
+          "container",
+          "vial"
+        ]
+      }
+    ],
+    "confusion": [
+      "capsules",
+      "caspule",
+      "capsole",
+      "capsole"
+    ]
+  },
+  {
+    "word": "eternity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The infinite or unending time.",
+        "meaning_zh_TW": "永恆",
+        "wrong_meaning_zh_TW": [
+          "瞬間",
+          "時間表",
+          "懷舊"
+        ],
+        "examples": [
+          {
+            "sentence": "They promised to love each other for [eternity].",
+            "translation_zh_TW": "他們承諾彼此相愛直到永恆。"
+          },
+          {
+            "sentence": "The concept of [eternity] fascinates philosophers.",
+            "translation_zh_TW": "永恆的概念讓哲學家們著迷。"
+          },
+          {
+            "sentence": "In his heart, he felt he would wait for [eternity].",
+            "translation_zh_TW": "在他心中，他感覺到他會等候永恆。"
+          }
+        ],
+        "synonyms": [
+          "forever",
+          "infinity"
+        ]
+      }
+    ],
+    "confusion": [
+      "eternal",
+      "eternally",
+      "eternity's",
+      "eternitye"
+    ]
+  },
+  {
+    "word": "descent",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of moving downward, dropping, or falling.",
+        "meaning_zh_TW": "下降",
+        "wrong_meaning_zh_TW": [
+          "上升",
+          "攀爬",
+          "改進"
+        ],
+        "examples": [
+          {
+            "sentence": "The plane began its [descent] towards the airport.",
+            "translation_zh_TW": "飛機開始降落到機場。"
+          },
+          {
+            "sentence": "Her family is of Irish [descent].",
+            "translation_zh_TW": "她的家庭是愛爾蘭裔。"
+          },
+          {
+            "sentence": "They took a steep [descent] down the hill.",
+            "translation_zh_TW": "他們陡峭地下坡。"
+          }
+        ],
+        "synonyms": [
+          "decline",
+          "drop",
+          "fall"
+        ]
+      }
+    ],
+    "confusion": [
+      "dissent",
+      "descent",
+      "decent",
+      "dessert"
+    ]
+  },
+  {
+    "word": "shutter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that opens and closes to control light entering a camera or window.",
+        "meaning_zh_TW": "快門",
+        "wrong_meaning_zh_TW": [
+          "罩子",
+          "窗簾",
+          "罩房"
+        ],
+        "examples": [
+          {
+            "sentence": "The camera's [shutter] speeds can affect the exposure.",
+            "translation_zh_TW": "相機的快門速度會影響曝光。"
+          },
+          {
+            "sentence": "He forgot to close the [shutter] when it rained.",
+            "translation_zh_TW": "下雨時他忘記關閉快門。"
+          },
+          {
+            "sentence": "The [shutter] clicked as he took the picture.",
+            "translation_zh_TW": "他拍照時快門發出咔嗒聲。"
+          }
+        ],
+        "synonyms": [
+          "blinds",
+          "curtain"
+        ]
+      }
+    ],
+    "confusion": [
+      "shuttered",
+      "shutterbug",
+      "shutter speed",
+      "shutter system"
+    ]
+  },
+  {
+    "word": "notorious",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Famous or well known, typically for some bad quality or deed.",
+        "meaning_zh_TW": "臭名昭著的",
+        "wrong_meaning_zh_TW": [
+          "著名的",
+          "受尊敬的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "He is a [notorious] criminal in the city.",
+            "translation_zh_TW": "他是這座城市中臭名昭著的罪犯。"
+          },
+          {
+            "sentence": "The restaurant is [notorious] for its poor service.",
+            "translation_zh_TW": "這家餐廳因爲服務差而臭名昭著。"
+          },
+          {
+            "sentence": "She became [notorious] for her scandalous behavior.",
+            "translation_zh_TW": "她因為她的醜聞行為而臭名昭著。"
+          }
+        ],
+        "synonyms": [
+          "infamous",
+          "disreputable"
+        ]
+      }
+    ],
+    "confusion": [
+      "notoriousness",
+      "notoriously",
+      "notion",
+      "notation"
+    ]
+  },
+  {
+    "word": "casualty",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person killed or injured in a war or accident.",
+        "meaning_zh_TW": "傷亡人員",
+        "wrong_meaning_zh_TW": [
+          "醫療人員",
+          "求助者",
+          "幸存者"
+        ],
+        "examples": [
+          {
+            "sentence": "The accident resulted in several [casualties].",
+            "translation_zh_TW": "事故造成了幾人傷亡。"
+          },
+          {
+            "sentence": "He was listed among the [casualties] of the disaster.",
+            "translation_zh_TW": "他被列為災難的傷亡人員。"
+          },
+          {
+            "sentence": "Emergency services responded to the [casualty] report.",
+            "translation_zh_TW": "急救人員對傷亡報告作出反應。"
+          }
+        ],
+        "synonyms": [
+          "victim",
+          "fatality"
+        ]
+      }
+    ],
+    "confusion": [
+      "casualties",
+      "casualt",
+      "casualtity",
+      "casulty"
+    ]
+  },
+  {
+    "word": "upward",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Moving towards a higher place or position.",
+        "meaning_zh_TW": "向上",
+        "wrong_meaning_zh_TW": [
+          "向下",
+          "向前",
+          "向後"
+        ],
+        "examples": [
+          {
+            "sentence": "The balloon floated [upward] into the sky.",
+            "translation_zh_TW": "氣球向天空飄去。"
+          },
+          {
+            "sentence": "They decided to climb [upward] to the mountain peak.",
+            "translation_zh_TW": "他們決定向上攀爬到山頂。"
+          },
+          {
+            "sentence": "She gazed [upward] at the stars.",
+            "translation_zh_TW": "她仰望著星星。"
+          }
+        ],
+        "synonyms": [
+          "up",
+          "ascendant"
+        ]
+      }
+    ],
+    "confusion": [
+      "upword",
+      "upwards",
+      "upard",
+      "upneward"
+    ]
+  },
+  {
+    "word": "ounce",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of weight equal to one-sixteenth of a pound or 28.35 grams.",
+        "meaning_zh_TW": "盎司",
+        "wrong_meaning_zh_TW": [
+          "米",
+          "公升",
+          "加侖"
+        ],
+        "examples": [
+          {
+            "sentence": "I need an extra [ounce] of sugar for the recipe.",
+            "translation_zh_TW": "我需要多一盎司的糖來做這道菜。"
+          },
+          {
+            "sentence": "He lost an [ounce] of weight after the diet.",
+            "translation_zh_TW": "他在節食後減輕了單位盎司的體重。"
+          },
+          {
+            "sentence": "The recipe calls for six [ounces] of flour.",
+            "translation_zh_TW": "這個食譜需要六盎司的麵粉。"
+          }
+        ],
+        "synonyms": [
+          "weight unit",
+          "measurement"
+        ]
+      }
+    ],
+    "confusion": [
+      "ounce",
+      "once",
+      "ounce's",
+      "ouncing"
+    ]
+  },
+  {
+    "word": "discreet",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Careful and circumspect in one's speech or actions.",
+        "meaning_zh_TW": "謹慎的",
+        "wrong_meaning_zh_TW": [
+          "粗魯的",
+          "直言的",
+          "無所謂的"
+        ],
+        "examples": [
+          {
+            "sentence": "He was [discreet] about his personal life.",
+            "translation_zh_TW": "他在個人生活上十分謹慎。"
+          },
+          {
+            "sentence": "Choose a [discreet] time to discuss the issue.",
+            "translation_zh_TW": "選擇一個謹慎的時間來討論這個問題。"
+          },
+          {
+            "sentence": "She made [discreet] inquiries.",
+            "translation_zh_TW": "她進行了謹慎的詢問。"
+          }
+        ],
+        "synonyms": [
+          "prudent",
+          "tactful"
+        ]
+      }
+    ],
+    "confusion": [
+      "discrete",
+      "discreetly",
+      "discretism",
+      "discreaet"
+    ]
+  },
+  {
+    "word": "sanitation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The promotion of hygiene and prevention of disease through the maintenance of sanitary conditions.",
+        "meaning_zh_TW": "衛生",
+        "wrong_meaning_zh_TW": [
+          "污染",
+          "灰塵",
+          "臭味"
+        ],
+        "examples": [
+          {
+            "sentence": "Proper [sanitation] is crucial for public health.",
+            "translation_zh_TW": "適當的衛生對公共健康至關重要。"
+          },
+          {
+            "sentence": "Advancements in [sanitation] have reduced disease spread.",
+            "translation_zh_TW": "衛生方面的進步減少了疾病的傳播。"
+          },
+          {
+            "sentence": "The city's [sanitation] system needs improvement.",
+            "translation_zh_TW": "該市的衛生系統需要改善。"
+          }
+        ],
+        "synonyms": [
+          "hygiene",
+          "cleanliness"
+        ]
+      }
+    ],
+    "confusion": [
+      "sanitations",
+      "sanitaton",
+      "sanitizing",
+      "sanitizer"
+    ]
+  },
+  {
+    "word": "solidarity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Unity or agreement of feeling or action, especially among individuals with a common interest.",
+        "meaning_zh_TW": "團結",
+        "wrong_meaning_zh_TW": [
+          "個體",
+          "孤獨",
+          "折磨"
+        ],
+        "examples": [
+          {
+            "sentence": "The workers stood together in [solidarity].",
+            "translation_zh_TW": "工人們共同團結在一起。"
+          },
+          {
+            "sentence": "Solidarity is essential in times of crisis.",
+            "translation_zh_TW": "在危機時期，團結是至關重要的。"
+          },
+          {
+            "sentence": "They expressed their [solidarity] with the protestors.",
+            "translation_zh_TW": "他們表達了對抗議者的支持。"
+          }
+        ],
+        "synonyms": [
+          "unity",
+          "togetherness"
+        ]
+      }
+    ],
+    "confusion": [
+      "solitary",
+      "solitude",
+      "solid",
+      "solitaryness"
+    ]
+  },
+  {
+    "word": "majestic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having grandeur or beauty that inspires awe.",
+        "meaning_zh_TW": "雄偉的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "令人厭煩的",
+          "黯淡的"
+        ],
+        "examples": [
+          {
+            "sentence": "The mountain view was [majestic] at sunrise.",
+            "translation_zh_TW": "日出時山景雄偉壯觀。"
+          },
+          {
+            "sentence": "They admired the [majestic] architecture of the castle.",
+            "translation_zh_TW": "他們讚賞城堡的雄偉建築。"
+          },
+          {
+            "sentence": "The [majestic] waterfall captivated everyone's attention.",
+            "translation_zh_TW": "那座雄偉的瀑布吸引了大家的注意。"
+          }
+        ],
+        "synonyms": [
+          "grand",
+          "imposing"
+        ]
+      }
+    ],
+    "confusion": [
+      "majesticly",
+      "majorelle",
+      "majesty",
+      "majic"
+    ]
+  },
+  {
+    "word": "knowledgeable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Possessing or exhibiting knowledge, especially in a particular area.",
+        "meaning_zh_TW": "博學的",
+        "wrong_meaning_zh_TW": [
+          "笨拙的",
+          "無知的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is very [knowledgeable] about the history of art.",
+            "translation_zh_TW": "她對藝術史非常博學。"
+          },
+          {
+            "sentence": "The professor is [knowledgeable] in several fields of science.",
+            "translation_zh_TW": "這位教授在幾個科學領域都很博學。"
+          },
+          {
+            "sentence": "He is the most [knowledgeable] person I know.",
+            "translation_zh_TW": "他是我認識的最博學的人。"
+          }
+        ],
+        "synonyms": [
+          "well-informed",
+          "informed",
+          "learned"
+        ]
+      }
+    ],
+    "confusion": [
+      "knowledge",
+      "knowlage",
+      "knowladge",
+      "knowledgable"
+    ]
+  },
+  {
+    "word": "apprentice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is learning a trade from a skilled employer.",
+        "meaning_zh_TW": "學徒",
+        "wrong_meaning_zh_TW": [
+          "專家",
+          "顧問",
+          "資深人員"
+        ],
+        "examples": [
+          {
+            "sentence": "The [apprentice] worked diligently to learn the trade.",
+            "translation_zh_TW": "學徒努力工作以學習這門手藝。"
+          },
+          {
+            "sentence": "He started as an [apprentice] before becoming a master.",
+            "translation_zh_TW": "他先是學徒，然後才成為大師。"
+          },
+          {
+            "sentence": "The company hires an [apprentice] each year.",
+            "translation_zh_TW": "這家公司每年都會聘請一名學徒。"
+          }
+        ],
+        "synonyms": [
+          "trainee",
+          "learner"
+        ]
+      }
+    ],
+    "confusion": [
+      "apprenticeship",
+      "apprenticing",
+      "apprehend",
+      "aprentice"
+    ]
+  },
+  {
+    "word": "glamour",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The attractive or exciting quality that makes certain people or things seem appealing.",
+        "meaning_zh_TW": "魅力",
+        "wrong_meaning_zh_TW": [
+          "枯燥",
+          "陰暗",
+          "無聊"
+        ],
+        "examples": [
+          {
+            "sentence": "The [glamour] of the fashion industry is captivating.",
+            "translation_zh_TW": "時尚界的魅力令人著迷。"
+          },
+          {
+            "sentence": "She was drawn to the [glamour] of Hollywood.",
+            "translation_zh_TW": "她被好萊塢的魅力所吸引。"
+          },
+          {
+            "sentence": "There is a certain [glamour] in luxury travel.",
+            "translation_zh_TW": "豪華旅行中有一種特定的魅力。"
+          }
+        ],
+        "synonyms": [
+          "charm",
+          "fascination"
+        ]
+      }
+    ],
+    "confusion": [
+      "glamourous",
+      "glamourize",
+      "glamourist",
+      "glamor"
+    ]
+  },
+  {
+    "word": "sergeant",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A non-commissioned officer in the armed forces.",
+        "meaning_zh_TW": "中士",
+        "wrong_meaning_zh_TW": [
+          "士兵",
+          "將軍",
+          "後備軍人"
+        ],
+        "examples": [
+          {
+            "sentence": "The [sergeant] gave us instructions.",
+            "translation_zh_TW": "中士給了我們指示。"
+          },
+          {
+            "sentence": "He was promoted to [sergeant] after a year.",
+            "translation_zh_TW": "他一年後升遷為中士。"
+          },
+          {
+            "sentence": "The [sergeant] led the training session.",
+            "translation_zh_TW": "中士主持了訓練課程。"
+          }
+        ],
+        "synonyms": [
+          "NCO",
+          "officer"
+        ]
+      }
+    ],
+    "confusion": [
+      "serg",
+      "sergant",
+      "sergants",
+      "sergant"
+    ]
+  },
+  {
+    "word": "attainment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of achieving or reaching something.",
+        "meaning_zh_TW": "達成",
+        "wrong_meaning_zh_TW": [
+          "失去",
+          "減少",
+          "放棄"
+        ],
+        "examples": [
+          {
+            "sentence": "His [attainment] of a high score was impressive.",
+            "translation_zh_TW": "他高分的達成令人印象深刻。"
+          },
+          {
+            "sentence": "The [attainment] of knowledge requires dedication.",
+            "translation_zh_TW": "獲得知識需要奉獻精神。"
+          },
+          {
+            "sentence": "Their [attainment] in the competition was celebrated.",
+            "translation_zh_TW": "他們在比賽中的成就受到慶祝。"
+          }
+        ],
+        "synonyms": [
+          "achievement",
+          "accomplishment"
+        ]
+      }
+    ],
+    "confusion": [
+      "attained",
+      "attainment",
+      "attaining",
+      "attender"
+    ]
+  },
+  {
+    "word": "grease",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thick oily substance used for lubrication.",
+        "meaning_zh_TW": "油脂",
+        "wrong_meaning_zh_TW": [
+          "水",
+          "醬汁",
+          "燒烤"
+        ],
+        "examples": [
+          {
+            "sentence": "He applied [grease] to the hinges.",
+            "translation_zh_TW": "他在鉸鏈上塗抹油脂"
+          },
+          {
+            "sentence": "The pan was covered in [grease].",
+            "translation_zh_TW": "鍋子上覆蓋著油脂"
+          },
+          {
+            "sentence": "You need to wipe off the excess [grease].",
+            "translation_zh_TW": "你需要擦去多餘的油脂"
+          }
+        ],
+        "synonyms": [
+          "lubricant",
+          "oil"
+        ]
+      }
+    ],
+    "confusion": [
+      "great",
+      "grace",
+      "grass",
+      "greet"
+    ]
+  },
+  {
+    "word": "realization",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of becoming fully aware of something; an understanding.",
+        "meaning_zh_TW": "實現",
+        "wrong_meaning_zh_TW": [
+          "幻想",
+          "妄想",
+          "疏忽"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [realization] that she needed to change was liberating.",
+            "translation_zh_TW": "她意識到自己需要改變，這讓她感到解放。"
+          },
+          {
+            "sentence": "The sudden [realization] hit him like a ton of bricks.",
+            "translation_zh_TW": "突然的實現像一磚塊一样重重地擊中了他。"
+          },
+          {
+            "sentence": "His [realization] was the result of years of reflection.",
+            "translation_zh_TW": "他的覺悟是多年反思的結果。"
+          }
+        ],
+        "synonyms": [
+          "awareness",
+          "understanding"
+        ]
+      }
+    ],
+    "confusion": [
+      "realise",
+      "realizatione",
+      "realistic",
+      "realizer"
+    ]
+  }
+]

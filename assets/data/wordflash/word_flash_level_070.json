@@ -1,0 +1,772 @@
+[
+  {
+    "word": "regular",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring at fixed intervals; frequent.",
+        "meaning_zh_TW": "定期的、規律的",
+        "wrong_meaning_zh_TW": [
+          "不規則、隨機",
+          "臨時、偶然",
+          "非常規、特殊"
+        ],
+        "examples": [
+          {
+            "sentence": "He makes [regular] visits to the dentist.",
+            "translation_zh_TW": "他定期看牙醫。"
+          },
+          {
+            "sentence": "This [regular] exercise improves your health.",
+            "translation_zh_TW": "這種規律的運動能改善您的健康。"
+          },
+          {
+            "sentence": "She has a [regular] schedule for studying.",
+            "translation_zh_TW": "她有一個規律的學習計畫。"
+          }
+        ],
+        "synonyms": [
+          "normal",
+          "routine"
+        ]
+      }
+    ],
+    "confusion": [
+      "reguler",
+      "roger",
+      "regal",
+      "regualar"
+    ]
+  },
+  {
+    "word": "simply",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In a straightforward or plain manner; just.",
+        "meaning_zh_TW": "簡單地",
+        "wrong_meaning_zh_TW": [
+          "快速地",
+          "悲傷地",
+          "高興地"
+        ],
+        "examples": [
+          {
+            "sentence": "You can [simply] press the button to start.",
+            "translation_zh_TW": "你可以簡單地按下按鈕開始。"
+          },
+          {
+            "sentence": "This task can be solved [simply].",
+            "translation_zh_TW": "這個任務可以簡單地解決。"
+          },
+          {
+            "sentence": "He explained the concept [simply].",
+            "translation_zh_TW": "他簡單地解釋了這個概念。"
+          }
+        ],
+        "synonyms": [
+          "merely",
+          "only"
+        ]
+      }
+    ],
+    "confusion": [
+      "simply",
+      "simplify",
+      "simples",
+      "simplyfy"
+    ]
+  },
+  {
+    "word": "favorite",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Preferred before all others of the same kind.",
+        "meaning_zh_TW": "最喜愛的",
+        "wrong_meaning_zh_TW": [
+          "最不喜歡的",
+          "一般的",
+          "差勁的"
+        ],
+        "examples": [
+          {
+            "sentence": "Chocolate is my [favorite] flavor of ice cream.",
+            "translation_zh_TW": "巧克力是我最喜愛的冰淇淋口味。"
+          },
+          {
+            "sentence": "She chose her [favorite] book to read.",
+            "translation_zh_TW": "她選擇了她最喜愛的書來讀。"
+          },
+          {
+            "sentence": "Playing soccer is my [favorite] pastime.",
+            "translation_zh_TW": "踢足球是我最喜愛的消遣。"
+          }
+        ],
+        "synonyms": [
+          "preferred",
+          "beloved"
+        ]
+      }
+    ],
+    "confusion": [
+      "favourite",
+      "faverite",
+      "favarite",
+      "favrit"
+    ]
+  },
+  {
+    "word": "master",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who has control or authority over others.",
+        "meaning_zh_TW": "主人、專家",
+        "wrong_meaning_zh_TW": [
+          "學徒、助手",
+          "學生、學者",
+          "敵人、對手"
+        ],
+        "examples": [
+          {
+            "sentence": "He is the [master] of ceremonies.",
+            "translation_zh_TW": "他是典禮主持人。"
+          },
+          {
+            "sentence": "The [master] taught me everything I know.",
+            "translation_zh_TW": "這位主人教了我所有的知識。"
+          },
+          {
+            "sentence": "She hired a [master] to train her skills.",
+            "translation_zh_TW": "她雇佣了一位專家來訓練她的技巧。"
+          }
+        ],
+        "synonyms": [
+          "leader",
+          "expert"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be skilled in or to dominate a particular field.",
+        "meaning_zh_TW": "精通、掌握",
+        "wrong_meaning_zh_TW": [
+          "忽視、放棄",
+          "返回、回顧",
+          "拖延、推遲"
+        ],
+        "examples": [
+          {
+            "sentence": "He hopes to [master] the art of cooking.",
+            "translation_zh_TW": "他希望能精通烹飪的藝術。"
+          },
+          {
+            "sentence": "She is trying to [master] her emotions.",
+            "translation_zh_TW": "她正在努力掌握自己的情感。"
+          },
+          {
+            "sentence": "The athlete aims to [master] his sport.",
+            "translation_zh_TW": "該運動員目標是精通他的運動。"
+          }
+        ],
+        "synonyms": [
+          "conquer",
+          "dominate"
+        ]
+      }
+    ],
+    "confusion": [
+      "father",
+      "mastery",
+      "mister",
+      "muster"
+    ]
+  },
+  {
+    "word": "blood",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A red liquid that circulates in the arteries and veins of the body.",
+        "meaning_zh_TW": "血液",
+        "wrong_meaning_zh_TW": [
+          "奶制品",
+          "水",
+          "淋巴"
+        ],
+        "examples": [
+          {
+            "sentence": "He donated [blood] to help those in need.",
+            "translation_zh_TW": "他捐贈了血液來幫助有需要的人。"
+          },
+          {
+            "sentence": "The doctors analyzed her [blood] sample.",
+            "translation_zh_TW": "醫生分析了她的血液樣本。"
+          },
+          {
+            "sentence": "His [blood] type is O positive.",
+            "translation_zh_TW": "他的血型是O型可接受血。"
+          }
+        ],
+        "synonyms": [
+          "hemoglobin",
+          "circulating fluid"
+        ]
+      }
+    ],
+    "confusion": [
+      "bloom",
+      "block",
+      "blow",
+      "blooded"
+    ]
+  },
+  {
+    "word": "improve",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make or become better.",
+        "meaning_zh_TW": "改善",
+        "wrong_meaning_zh_TW": [
+          "縮減",
+          "停滯",
+          "破壞"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [improve] our communication skills.",
+            "translation_zh_TW": "我們需要改善溝通技巧。"
+          },
+          {
+            "sentence": "He works hard to [improve] his grades.",
+            "translation_zh_TW": "他努力改善自己的成績。"
+          },
+          {
+            "sentence": "You can [improve] your health by exercising regularly.",
+            "translation_zh_TW": "定期運動可以改善你的健康。"
+          }
+        ],
+        "synonyms": [
+          "enhance",
+          "refine"
+        ]
+      }
+    ],
+    "confusion": [
+      "movement",
+      "approve",
+      "improvement",
+      "improving"
+    ]
+  },
+  {
+    "word": "connection",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A relationship in which a person, thing, or idea is linked or associated with something else.",
+        "meaning_zh_TW": "連結",
+        "wrong_meaning_zh_TW": [
+          "重疊",
+          "限制",
+          "透明"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a strong [connection] with his hometown.",
+            "translation_zh_TW": "他和家鄉有著深厚的連結"
+          },
+          {
+            "sentence": "There is a [connection] between smoking and health issues.",
+            "translation_zh_TW": "吸煙和健康問題之間存在連結"
+          },
+          {
+            "sentence": "Can you make the [connection] between these two ideas?",
+            "translation_zh_TW": "你能使這兩個想法之間的連結嗎？"
+          }
+        ],
+        "synonyms": [
+          "link",
+          "association"
+        ]
+      }
+    ],
+    "confusion": [
+      "correction",
+      "collection",
+      "connectional",
+      "convection"
+    ]
+  },
+  {
+    "word": "hall",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large room or area used for meetings, events, or activities.",
+        "meaning_zh_TW": "大廳",
+        "wrong_meaning_zh_TW": [
+          "走廊",
+          "會議室",
+          "餐廳"
+        ],
+        "examples": [
+          {
+            "sentence": "The event will take place in the main [hall].",
+            "translation_zh_TW": "活動將在主要的廳舉行"
+          },
+          {
+            "sentence": "She walked through the [hall] to get to class.",
+            "translation_zh_TW": "她走過大廳去上課"
+          },
+          {
+            "sentence": "They decorated the [hall] for the wedding.",
+            "translation_zh_TW": "他們為婚禮裝飾了大廳"
+          }
+        ],
+        "synonyms": [
+          "foyer",
+          "auditorium"
+        ]
+      }
+    ],
+    "confusion": [
+      "holl",
+      "halll",
+      "hxl",
+      "holl"
+    ]
+  },
+  {
+    "word": "introduction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of formally presenting or bringing something into use.",
+        "meaning_zh_TW": "介紹",
+        "wrong_meaning_zh_TW": [
+          "結論",
+          "中介",
+          "草擬"
+        ],
+        "examples": [
+          {
+            "sentence": "The speaker began with an [introduction] to the topic.",
+            "translation_zh_TW": "演講者以對主題的介紹開始了演講。"
+          },
+          {
+            "sentence": "This book provides a brief [introduction] to the subject.",
+            "translation_zh_TW": "這本書對該主題提供了簡短的介紹。"
+          },
+          {
+            "sentence": "I wrote a short [introduction] for my presentation.",
+            "translation_zh_TW": "我為我的演示寫了簡短的介紹。"
+          }
+        ],
+        "synonyms": [
+          "presentation",
+          "foreword"
+        ]
+      }
+    ],
+    "confusion": [
+      "introduction",
+      "interruption",
+      "induction",
+      "intrusion"
+    ]
+  },
+  {
+    "word": "disease",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A disorder of structure or function in a human, animal, or plant.",
+        "meaning_zh_TW": "疾病",
+        "wrong_meaning_zh_TW": [
+          "療法",
+          "醫學",
+          "健康"
+        ],
+        "examples": [
+          {
+            "sentence": "He was diagnosed with a rare [disease].",
+            "translation_zh_TW": "他被診斷出患有罕見疾病"
+          },
+          {
+            "sentence": "Vaccines help prevent many serious [diseases].",
+            "translation_zh_TW": "疫苗有助於預防許多嚴重疾病"
+          },
+          {
+            "sentence": "Research is ongoing to find cures for this [disease].",
+            "translation_zh_TW": "研究仍在進行以找到這種疾病的治療方法"
+          }
+        ],
+        "synonyms": [
+          "illness",
+          "sickness",
+          "disorder"
+        ]
+      }
+    ],
+    "confusion": [
+      "diseased",
+      "dissolve",
+      "design",
+      "disease"
+    ]
+  },
+  {
+    "word": "perfect",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+        "meaning_zh_TW": "完美的",
+        "wrong_meaning_zh_TW": [
+          "糟糕的",
+          "粗糙的",
+          "不完整的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her performance was [perfect].",
+            "translation_zh_TW": "她的表現是完美的。"
+          },
+          {
+            "sentence": "The weather is [perfect] for a picnic.",
+            "translation_zh_TW": "這種天氣非常適合野餐。"
+          },
+          {
+            "sentence": "He aimed for a [perfect] score on the test.",
+            "translation_zh_TW": "他力求在考試中獲得滿分。"
+          }
+        ],
+        "synonyms": [
+          "ideal",
+          "flawless"
+        ]
+      }
+    ],
+    "confusion": [
+      "prefect",
+      "perpetual",
+      "perplex",
+      "perforate"
+    ]
+  },
+  {
+    "word": "classic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Judged over a period of time to be of the highest quality and outstanding of its kind.",
+        "meaning_zh_TW": "經典的",
+        "wrong_meaning_zh_TW": [
+          "模仿的",
+          "過時的",
+          "平庸的"
+        ],
+        "examples": [
+          {
+            "sentence": "That novel is considered a [classic] in English literature.",
+            "translation_zh_TW": "那部小說被認為是英國文學中的經典"
+          },
+          {
+            "sentence": "He wore a [classic] black tuxedo to the event.",
+            "translation_zh_TW": "他穿著經典的黑色晚禮服參加活動"
+          },
+          {
+            "sentence": "The designer is known for his [classic] style.",
+            "translation_zh_TW": "這位設計師以他的經典風格著稱"
+          }
+        ],
+        "synonyms": [
+          "timeless",
+          "enduring"
+        ]
+      }
+    ],
+    "confusion": [
+      "classy",
+      "classification",
+      "classless",
+      "classmate"
+    ]
+  },
+  {
+    "word": "basis",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The underlying support or foundation for an idea, argument, or process.",
+        "meaning_zh_TW": "基礎、根據",
+        "wrong_meaning_zh_TW": [
+          "表面問題",
+          "次要因素",
+          "隨機選擇"
+        ],
+        "examples": [
+          {
+            "sentence": "He provided a solid [basis] for his argument.",
+            "translation_zh_TW": "他為自己的論點提供了堅實的根據。"
+          },
+          {
+            "sentence": "The research serves as a [basis] for further studies.",
+            "translation_zh_TW": "這項研究作為進一步研究的基礎。"
+          },
+          {
+            "sentence": "Our [basis] for decision-making should be data-driven.",
+            "translation_zh_TW": "我們的決策基礎應該以數據為依據。"
+          }
+        ],
+        "synonyms": [
+          "foundation",
+          "groundwork"
+        ]
+      }
+    ],
+    "confusion": [
+      "bicep",
+      "basil",
+      "bais",
+      "basse"
+    ]
+  },
+  {
+    "word": "command",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give an authoritative order or instruction.",
+        "meaning_zh_TW": "命令",
+        "wrong_meaning_zh_TW": [
+          "請求",
+          "建議",
+          "討論"
+        ],
+        "examples": [
+          {
+            "sentence": "The officer will [command] the troops.",
+            "translation_zh_TW": "這位軍官將命令部隊。"
+          },
+          {
+            "sentence": "He was [commanding] respect from his team.",
+            "translation_zh_TW": "他獲得了團隊的尊重。"
+          },
+          {
+            "sentence": "We must [command] a strategy for success.",
+            "translation_zh_TW": "我們必須制定成功的策略。"
+          }
+        ],
+        "synonyms": [
+          "direct",
+          "order"
+        ]
+      }
+    ],
+    "confusion": [
+      "commend",
+      "comment",
+      "comand",
+      "common"
+    ]
+  },
+  {
+    "word": "express",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To convey a thought or feeling in words, gestures, or actions.",
+        "meaning_zh_TW": "表達",
+        "wrong_meaning_zh_TW": [
+          "隱藏",
+          "抑制",
+          "否認"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [express] his true feelings.",
+            "translation_zh_TW": "他試圖表達他的真實感受。"
+          },
+          {
+            "sentence": "Artists [express] emotions through their work.",
+            "translation_zh_TW": "藝術家通過他們的作品表達情感。"
+          },
+          {
+            "sentence": "She [expressed] her gratitude with a heartfelt thank-you note.",
+            "translation_zh_TW": "她用一封真誠的感謝信表達了她的感激之情。"
+          }
+        ],
+        "synonyms": [
+          "communicate",
+          "convey"
+        ]
+      }
+    ],
+    "confusion": [
+      "impress",
+      "depress",
+      "expensive",
+      "explain"
+    ]
+  },
+  {
+    "word": "distance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An amount of space between two things or people.",
+        "meaning_zh_TW": "距離",
+        "wrong_meaning_zh_TW": [
+          "高度",
+          "面積",
+          "速度"
+        ],
+        "examples": [
+          {
+            "sentence": "The [distance] between the two cities is 200 miles.",
+            "translation_zh_TW": "這兩座城市之間的距離是200英里"
+          },
+          {
+            "sentence": "He ran a great [distance] in the marathon.",
+            "translation_zh_TW": "他在馬拉松中跑了很長的距離"
+          },
+          {
+            "sentence": "You should maintain a safe [distance] from the edge.",
+            "translation_zh_TW": "你應該與邊緣保持安全距離"
+          }
+        ],
+        "synonyms": [
+          "gap",
+          "length"
+        ]
+      }
+    ],
+    "confusion": [
+      "distanced",
+      "distill",
+      "dissolve",
+      "distantly"
+    ]
+  },
+  {
+    "word": "wall",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A continuous vertical brick or stone structure that encloses or divides an area of land.",
+        "meaning_zh_TW": "牆壁",
+        "wrong_meaning_zh_TW": [
+          "天花板",
+          "地板",
+          "窗戶"
+        ],
+        "examples": [
+          {
+            "sentence": "He leaned against the [wall].",
+            "translation_zh_TW": "他靠在牆壁上。"
+          },
+          {
+            "sentence": "They painted the [wall] blue.",
+            "translation_zh_TW": "他們把牆壁漆成藍色。"
+          },
+          {
+            "sentence": "The garden is separated by a high [wall].",
+            "translation_zh_TW": "花園被一面高牆隔開。"
+          }
+        ],
+        "synonyms": [
+          "fence",
+          "barrier"
+        ]
+      }
+    ],
+    "confusion": [
+      "wool",
+      "mall",
+      "call",
+      "well"
+    ]
+  },
+  {
+    "word": "extra",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "More than is usual, expected, or necessary.",
+        "meaning_zh_TW": "額外的",
+        "wrong_meaning_zh_TW": [
+          "久的",
+          "主要的",
+          "年輕的"
+        ],
+        "examples": [
+          {
+            "sentence": "You can have some [extra] time to complete the project.",
+            "translation_zh_TW": "你可以有一些額外的時間來完成這個項目。"
+          },
+          {
+            "sentence": "They provided [extra] support during the event.",
+            "translation_zh_TW": "他們在活動中提供了額外的支持。"
+          },
+          {
+            "sentence": "She charged [extra] for the additional services.",
+            "translation_zh_TW": "她對額外的服務收取了額外的費用。"
+          }
+        ],
+        "synonyms": [
+          "additional",
+          "supplementary"
+        ]
+      }
+    ],
+    "confusion": [
+      "extravagant",
+      "exterior",
+      "extract",
+      "extreme"
+    ]
+  },
+  {
+    "word": "especially",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used to single out one person, thing, or situation over all others.",
+        "meaning_zh_TW": "特別地",
+        "wrong_meaning_zh_TW": [
+          "完全地",
+          "稍微地",
+          "不太"
+        ],
+        "examples": [
+          {
+            "sentence": "I love fruits, [especially] apples.",
+            "translation_zh_TW": "我喜歡水果，特別是蘋果。"
+          },
+          {
+            "sentence": "She enjoys music, [especially] classical.",
+            "translation_zh_TW": "她喜歡音樂，特別是古典音樂。"
+          },
+          {
+            "sentence": "This restaurant is known for its desserts, [especially] the chocolate cake.",
+            "translation_zh_TW": "這家餐廳以其甜點聞名，特別是巧克力蛋糕。"
+          }
+        ],
+        "synonyms": [
+          "particularly",
+          "notably"
+        ]
+      }
+    ],
+    "confusion": [
+      "especial",
+      "spatially",
+      "essentially",
+      "specifically"
+    ]
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "word": "inflation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A general increase in prices and fall in the purchasing value of money.",
+        "meaning_zh_TW": "通貨膨脹",
+        "wrong_meaning_zh_TW": [
+          "經濟衰退",
+          "投資收益",
+          "外匯波動"
+        ],
+        "examples": [
+          {
+            "sentence": "Inflation can erode purchasing power over time.",
+            "translation_zh_TW": "通貨膨脹會逐漸侵蝕購買力"
+          },
+          {
+            "sentence": "The government is taking steps to control [inflation].",
+            "translation_zh_TW": "政府正在採取措施控制通貨膨脹"
+          },
+          {
+            "sentence": "High [inflation] rates can lead to economic instability.",
+            "translation_zh_TW": "高通貨膨脹率可能導致經濟不穩定"
+          }
+        ],
+        "synonyms": [
+          "price increase",
+          "economic rise"
+        ]
+      }
+    ],
+    "confusion": [
+      "inflated",
+      "inflationary",
+      "inflexion",
+      "inflection"
+    ]
+  },
+  {
+    "word": "limitation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A restriction or a boundary that limits someone or something.",
+        "meaning_zh_TW": "限制、界限",
+        "wrong_meaning_zh_TW": [
+          "優點",
+          "優勢",
+          "可能性"
+        ],
+        "examples": [
+          {
+            "sentence": "There is a [limitation] to how much data you can store.",
+            "translation_zh_TW": "存放資料的量是有一個限制的"
+          },
+          {
+            "sentence": "Understanding the [limitation] of your resources is crucial.",
+            "translation_zh_TW": "了解資源的限制是至關重要的"
+          },
+          {
+            "sentence": "Each project has its own [limitation] regarding time and budget.",
+            "translation_zh_TW": "每個項目都有自己的時間和預算限制"
+          }
+        ],
+        "synonyms": [
+          "constraint",
+          "restriction"
+        ]
+      }
+    ],
+    "confusion": [
+      "limitation's",
+      "limiting",
+      "limiter",
+      "limited"
+    ]
+  },
+  {
+    "word": "illustration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A picture or diagram that helps explain or decorate a text.",
+        "meaning_zh_TW": "插圖",
+        "wrong_meaning_zh_TW": [
+          "單調的文本",
+          "簡單的字元",
+          "平淡的圖像"
+        ],
+        "examples": [
+          {
+            "sentence": "He included an [illustration] in his report to clarify his findings.",
+            "translation_zh_TW": "他在報告中加入了一幅插圖以澄清他的發現。"
+          },
+          {
+            "sentence": "The [illustration] beautifully captured the essence of the story.",
+            "translation_zh_TW": "這幅插圖美麗地捕捉到了故事的精髓。"
+          },
+          {
+            "sentence": "An [illustration] can make difficult subjects easier to understand.",
+            "translation_zh_TW": "插圖可以使難懂的主題更易於理解。"
+          }
+        ],
+        "synonyms": [
+          "drawing",
+          "image"
+        ]
+      }
+    ],
+    "confusion": [
+      "illustrate",
+      "illumination",
+      "installation",
+      "illegitimate"
+    ]
+  },
+  {
+    "word": "construct",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To build or form something by putting parts together.",
+        "meaning_zh_TW": "建造",
+        "wrong_meaning_zh_TW": [
+          "破壞",
+          "解體",
+          "撤除"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [construct] a new bridge next year.",
+            "translation_zh_TW": "他們計劃明年建造一座新橋。"
+          },
+          {
+            "sentence": "He [constructed] a model of the solar system for his project.",
+            "translation_zh_TW": "他為他的項目建造了一個太陽系模型。"
+          },
+          {
+            "sentence": "The team worked each day to [construct] the new office building.",
+            "translation_zh_TW": "團隊每天都在努力建造新的辦公大樓。"
+          }
+        ],
+        "synonyms": [
+          "build",
+          "create",
+          "assemble"
+        ]
+      }
+    ],
+    "confusion": [
+      "constructive",
+      "construction",
+      "constructor",
+      "construe"
+    ]
+  },
+  {
+    "word": "inspiration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process of being mentally stimulated to do or feel something, especially to do something creative.",
+        "meaning_zh_TW": "靈感",
+        "wrong_meaning_zh_TW": [
+          "懷疑",
+          "介紹",
+          "反思"
+        ],
+        "examples": [
+          {
+            "sentence": "The artist found [inspiration] in nature.",
+            "translation_zh_TW": "這位藝術家從大自然中找到了靈感。"
+          },
+          {
+            "sentence": "She looked to her childhood for [inspiration] in her writing.",
+            "translation_zh_TW": "她從童年生活中尋找了寫作的靈感。"
+          },
+          {
+            "sentence": "His story served as a great source of [inspiration].",
+            "translation_zh_TW": "他的故事成為了靈感的重要來源。"
+          }
+        ],
+        "synonyms": [
+          "motivation",
+          "stimulation"
+        ]
+      }
+    ],
+    "confusion": [
+      "aspiration",
+      "perspiration",
+      "expiration",
+      "respiration"
+    ]
+  },
+  {
+    "word": "tribal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to a tribe or tribes.",
+        "meaning_zh_TW": "部落的",
+        "wrong_meaning_zh_TW": [
+          "都市的",
+          "現代的",
+          "先進的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [tribal] customs were preserved for generations.",
+            "translation_zh_TW": "部落的習俗已經保留了幾代。"
+          },
+          {
+            "sentence": "They had a [tribal] gathering to celebrate their culture.",
+            "translation_zh_TW": "他們舉行了一次部落聚會以慶祝他們的文化。"
+          },
+          {
+            "sentence": "The [tribal] leaders met to discuss important issues.",
+            "translation_zh_TW": "部落首領會面討論重要事項。"
+          }
+        ],
+        "synonyms": [
+          "clannish",
+          "indigenous"
+        ]
+      }
+    ],
+    "confusion": [
+      "tribe",
+      "tribunal",
+      "tribulation",
+      "triangular"
+    ]
+  },
+  {
+    "word": "collapse",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To fall down or give way suddenly.",
+        "meaning_zh_TW": "倒塌",
+        "wrong_meaning_zh_TW": [
+          "建立",
+          "上升",
+          "增強"
+        ],
+        "examples": [
+          {
+            "sentence": "The old building began to [collapse] after the earthquake.",
+            "translation_zh_TW": "在地震後，這棟老建築開始倒塌。"
+          },
+          {
+            "sentence": "She was afraid that the roof would [collapse] under the heavy snow.",
+            "translation_zh_TW": "她擔心屋頂會在大雪下倒塌。"
+          },
+          {
+            "sentence": "His health began to [collapse] due to the excessive stress.",
+            "translation_zh_TW": "由於過度的壓力，他的健康開始崩潰。"
+          }
+        ],
+        "synonyms": [
+          "crumble",
+          "fall down"
+        ]
+      }
+    ],
+    "confusion": [
+      "collect",
+      "colapse",
+      "collate",
+      "collar"
+    ]
+  },
+  {
+    "word": "barrier",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A fence or other obstacle that prevents movement or access.",
+        "meaning_zh_TW": "障礙",
+        "wrong_meaning_zh_TW": [
+          "開口",
+          "通道",
+          "引導"
+        ],
+        "examples": [
+          {
+            "sentence": "The barrier was too high for the kids to climb over.",
+            "translation_zh_TW": "這種障礙太高，讓孩子無法爬過去"
+          },
+          {
+            "sentence": "He faced many barriers in his pursuit of education.",
+            "translation_zh_TW": "在追求教育的過程中，他面臨著許多障礙"
+          },
+          {
+            "sentence": "Language can be a barrier to communication.",
+            "translation_zh_TW": "語言可能是交流的一個障礙"
+          }
+        ],
+        "synonyms": [
+          "obstacle",
+          "fence"
+        ]
+      }
+    ],
+    "confusion": [
+      "barriers",
+      "barrier-free",
+      "barriered",
+      "barriered"
+    ]
+  },
+  {
+    "word": "humidity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The amount of water vapor present in the air.",
+        "meaning_zh_TW": "濕度",
+        "wrong_meaning_zh_TW": [
+          "降雨量",
+          "氣壓",
+          "風速"
+        ],
+        "examples": [
+          {
+            "sentence": "High [humidity] can make the heat feel more intense.",
+            "translation_zh_TW": "高濕度會使熱量感覺更加強烈。"
+          },
+          {
+            "sentence": "The weather forecast predicts increased [humidity] this week.",
+            "translation_zh_TW": "天氣預報預測本週濕度增加。"
+          },
+          {
+            "sentence": "He checks the [humidity] level to ensure proper conditions for plants.",
+            "translation_zh_TW": "他檢查濕度以確保植物生長的適當條件。"
+          }
+        ],
+        "synonyms": [
+          "moisture",
+          "dampness"
+        ]
+      }
+    ],
+    "confusion": [
+      "humility",
+      "humidity",
+      "hummus",
+      "humor"
+    ]
+  },
+  {
+    "word": "circulation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The movement or flow of something in a circular way.",
+        "meaning_zh_TW": "循環，流通",
+        "wrong_meaning_zh_TW": [
+          "靜止狀態",
+          "過多集聚",
+          "阻塞"
+        ],
+        "examples": [
+          {
+            "sentence": "Good blood [circulation] is essential for health.",
+            "translation_zh_TW": "良好的血液循環對健康至關重要。"
+          },
+          {
+            "sentence": "The [circulation] of information through networks is faster today.",
+            "translation_zh_TW": "如今信息通過網絡的流通速度更快。"
+          },
+          {
+            "sentence": "The magazine has a wide [circulation].",
+            "translation_zh_TW": "該雜誌的發行量非常大。"
+          }
+        ],
+        "synonyms": [
+          "flow",
+          "dissemination"
+        ]
+      }
+    ],
+    "confusion": [
+      "circulate",
+      "circulation desk",
+      "cirque",
+      "circularity"
+    ]
+  },
+  {
+    "word": "drill",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a hole in something with a tool.",
+        "meaning_zh_TW": "用工具打孔",
+        "wrong_meaning_zh_TW": [
+          "填補",
+          "修理",
+          "擠壓"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [drill] a hole in the wall for the anchor.",
+            "translation_zh_TW": "你需要在牆上打孔以放置錨。"
+          },
+          {
+            "sentence": "The technician will [drill] through the metal.",
+            "translation_zh_TW": "技術員將在金屬上打孔。"
+          },
+          {
+            "sentence": "They used a special tool to [drill] into the earth.",
+            "translation_zh_TW": "他們使用專門的工具鑽入土壤。"
+          }
+        ],
+        "synonyms": [
+          "bore",
+          "pierce"
+        ]
+      }
+    ],
+    "confusion": [
+      "thrill",
+      "bill",
+      "drilled",
+      "gill"
+    ]
+  },
+  {
+    "word": "offense",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A breach of a law or rule; an illegal act.",
+        "meaning_zh_TW": "違規、罪行",
+        "wrong_meaning_zh_TW": [
+          "正義、正確",
+          "保護、防衛",
+          "報告、宣布"
+        ],
+        "examples": [
+          {
+            "sentence": "Speeding is considered an [offense] in many countries.",
+            "translation_zh_TW": "超速在許多國家被認為是一種違規。"
+          },
+          {
+            "sentence": "He was charged with a serious [offense].",
+            "translation_zh_TW": "他被控以嚴重罪行。"
+          },
+          {
+            "sentence": "Minor [offenses] can lead to significant consequences.",
+            "translation_zh_TW": "輕微的違規可能會導致重大後果。"
+          }
+        ],
+        "synonyms": [
+          "crime",
+          "violation"
+        ]
+      }
+    ],
+    "confusion": [
+      "defense",
+      "offend",
+      "offensive",
+      "office"
+    ]
+  },
+  {
+    "word": "protest",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To express an objection to something.",
+        "meaning_zh_TW": "抗議",
+        "wrong_meaning_zh_TW": [
+          "支持",
+          "沉默",
+          "忽略"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [protest] against the new law.",
+            "translation_zh_TW": "他們決定抗議新法律"
+          },
+          {
+            "sentence": "Many people went to the streets to [protest] peacefully.",
+            "translation_zh_TW": "許多人走上街道和平抗議"
+          },
+          {
+            "sentence": "It's their right to [protest] for their beliefs.",
+            "translation_zh_TW": "他們有權抗議自己的信仰"
+          }
+        ],
+        "synonyms": [
+          "demonstrate",
+          "oppose"
+        ]
+      }
+    ],
+    "confusion": [
+      "process",
+      "pretest",
+      "protestant",
+      "project"
+    ]
+  },
+  {
+    "word": "invention",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of inventing something, typically a process or device.",
+        "meaning_zh_TW": "發明",
+        "wrong_meaning_zh_TW": [
+          "改進",
+          "復甦",
+          "退出"
+        ],
+        "examples": [
+          {
+            "sentence": "The light bulb is one of the most famous [inventions] of all time.",
+            "translation_zh_TW": "電燈泡是歷史上最著名的發明之一"
+          },
+          {
+            "sentence": "Her [invention] has transformed the way we communicate.",
+            "translation_zh_TW": "她的發明改變了我們溝通的方式"
+          },
+          {
+            "sentence": "The process of [invention] requires creativity and problem-solving.",
+            "translation_zh_TW": "發明的過程需要創造力和解決問題的能力"
+          }
+        ],
+        "synonyms": [
+          "creation",
+          "innovation"
+        ]
+      }
+    ],
+    "confusion": [
+      "intervention",
+      "invert",
+      "intention",
+      "invitations"
+    ]
+  },
+  {
+    "word": "technician",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person skilled in the technique of a particular field.",
+        "meaning_zh_TW": "技術員",
+        "wrong_meaning_zh_TW": [
+          "管理員",
+          "顧客",
+          "銷售員"
+        ],
+        "examples": [
+          {
+            "sentence": "The [technician] fixed the computer issues efficiently.",
+            "translation_zh_TW": "技術員高效地修復了計算機問題。"
+          },
+          {
+            "sentence": "He worked as a lab [technician] in a research facility.",
+            "translation_zh_TW": "他在一個研究機構擔任實驗室技術員。"
+          },
+          {
+            "sentence": "A qualified [technician] can solve various technical problems.",
+            "translation_zh_TW": "合格的技術員能夠解決各種技術問題。"
+          }
+        ],
+        "synonyms": [
+          "specialist",
+          "expert"
+        ]
+      }
+    ],
+    "confusion": [
+      "technology",
+      "technique",
+      "technician",
+      "technic"
+    ]
+  },
+  {
+    "word": "intense",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of extreme force, degree, or strength.",
+        "meaning_zh_TW": "強烈的、劇烈的",
+        "wrong_meaning_zh_TW": [
+          "微弱的",
+          "平常的",
+          "可有可無的"
+        ],
+        "examples": [
+          {
+            "sentence": "The competition was [intense] this year.",
+            "translation_zh_TW": "今年的比賽非常激烈。"
+          },
+          {
+            "sentence": "She felt an [intense] pressure to succeed.",
+            "translation_zh_TW": "她感受到了強烈的成功壓力。"
+          },
+          {
+            "sentence": "The colors in the painting are very [intense].",
+            "translation_zh_TW": "畫中的顏色非常鮮豔。"
+          }
+        ],
+        "synonyms": [
+          "extreme",
+          "severe"
+        ]
+      }
+    ],
+    "confusion": [
+      "intent",
+      "tense",
+      "intensively",
+      "intenal"
+    ]
+  },
+  {
+    "word": "reflection",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The throwing back by a body or surface of light, heat, or sound without absorbing it.",
+        "meaning_zh_TW": "反射",
+        "wrong_meaning_zh_TW": [
+          "沉思、思考",
+          "擴張、增長",
+          "反應、回應"
+        ],
+        "examples": [
+          {
+            "sentence": "The [reflection] in the mirror was stunning.",
+            "translation_zh_TW": "鏡中的反射令人驚艷。"
+          },
+          {
+            "sentence": "In quiet moments, I enjoy my [reflection].",
+            "translation_zh_TW": "在靜默的時刻，我喜歡思考自己的反射。"
+          },
+          {
+            "sentence": "The lake's calm surface creates a perfect [reflection].",
+            "translation_zh_TW": "湖面平靜可創造完美的反射。"
+          }
+        ],
+        "synonyms": [
+          "image",
+          "mirror image"
+        ]
+      }
+    ],
+    "confusion": [
+      "reflections",
+      "reflexion",
+      "reflected",
+      "correction"
+    ]
+  },
+  {
+    "word": "diploma",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A certificate awarded to a student upon completion of a course of study.",
+        "meaning_zh_TW": "文憑",
+        "wrong_meaning_zh_TW": [
+          "學位",
+          "證書",
+          "合同"
+        ],
+        "examples": [
+          {
+            "sentence": "She received her [diploma] during the graduation ceremony.",
+            "translation_zh_TW": "她在畢業典禮上領取了文憑。"
+          },
+          {
+            "sentence": "A [diploma] is often required for many jobs.",
+            "translation_zh_TW": "許多工作常需要文憑。"
+          },
+          {
+            "sentence": "He proudly hung his [diploma] on the wall.",
+            "translation_zh_TW": "他自豪地將文憑掛在牆上。"
+          }
+        ],
+        "synonyms": [
+          "certificate",
+          "degree"
+        ]
+      }
+    ],
+    "confusion": [
+      "diplomat",
+      "diplomatic",
+      "diplomacy",
+      "dipoloma"
+    ]
+  },
+  {
+    "word": "grammar",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The set of rules that govern the structure of sentences in a language.",
+        "meaning_zh_TW": "語法",
+        "wrong_meaning_zh_TW": [
+          "字彙",
+          "發音",
+          "語言"
+        ],
+        "examples": [
+          {
+            "sentence": "Understanding [grammar] is essential for writing well.",
+            "translation_zh_TW": "理解語法對於寫好文章至關重要。"
+          },
+          {
+            "sentence": "She studied [grammar] for her English exam.",
+            "translation_zh_TW": "她為了英語考試學習語法。"
+          },
+          {
+            "sentence": "Good [grammar] helps in effective communication.",
+            "translation_zh_TW": "良好的語法有助於有效的溝通。"
+          }
+        ],
+        "synonyms": [
+          "syntax",
+          "linguistic rules"
+        ]
+      }
+    ],
+    "confusion": [
+      "gram",
+      "gamer",
+      "grammy",
+      "grimer"
+    ]
+  },
+  {
+    "word": "intention",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing intended; an aim or plan.",
+        "meaning_zh_TW": "意圖",
+        "wrong_meaning_zh_TW": [
+          "目標、方向",
+          "活動、行為",
+          "契約、協議"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [intention] was to help others.",
+            "translation_zh_TW": "她的目的是幫助他人"
+          },
+          {
+            "sentence": "He made his [intention] clear during the meeting.",
+            "translation_zh_TW": "他在會議上表明了他的意圖"
+          },
+          {
+            "sentence": "My [intention] is to finish the project by next week.",
+            "translation_zh_TW": "我的意圖是下週完成這個項目"
+          }
+        ],
+        "synonyms": [
+          "aim",
+          "goal"
+        ]
+      }
+    ],
+    "confusion": [
+      "attention",
+      "tention",
+      "indentation",
+      "invention"
+    ]
+  }
+]

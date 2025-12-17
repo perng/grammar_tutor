@@ -1,0 +1,783 @@
+[
+  {
+    "word": "adaptation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process of change by which an organism or species becomes better suited to its environment.",
+        "meaning_zh_TW": "適應",
+        "wrong_meaning_zh_TW": [
+          "運動",
+          "遺傳",
+          "分化"
+        ],
+        "examples": [
+          {
+            "sentence": "The [adaptation] of the species allowed it to survive in harsh climates.",
+            "translation_zh_TW": "該物種的適應讓它能在惡劣的氣候中生存。"
+          },
+          {
+            "sentence": "His [adaptation] to city life took time.",
+            "translation_zh_TW": "他對城市生活的適應需要時間。"
+          },
+          {
+            "sentence": "Film [adaptations] of novels can vary in quality.",
+            "translation_zh_TW": "小說的電影改編質量可能有所不同。"
+          }
+        ],
+        "synonyms": [
+          "adjustment",
+          "modification"
+        ]
+      }
+    ],
+    "confusion": [
+      "adaptations",
+      "addaptaton",
+      "adaptationed",
+      "adaption"
+    ]
+  },
+  {
+    "word": "dividend",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+        "meaning_zh_TW": "股息",
+        "wrong_meaning_zh_TW": [
+          "債務",
+          "收入",
+          "稅金"
+        ],
+        "examples": [
+          {
+            "sentence": "Investors are eagerly awaiting their [dividend] payments.",
+            "translation_zh_TW": "投資者正在急切期待股息支付"
+          },
+          {
+            "sentence": "The company announced a higher [dividend] than last year.",
+            "translation_zh_TW": "公司宣布了比去年更高的股息"
+          },
+          {
+            "sentence": "Dividends can be reinvested to buy more shares.",
+            "translation_zh_TW": "股息可以再投資來購買更多股份"
+          }
+        ],
+        "synonyms": [
+          "profit share",
+          "reward"
+        ]
+      }
+    ],
+    "confusion": [
+      "divination",
+      "diversity",
+      "divert",
+      "division"
+    ]
+  },
+  {
+    "word": "jade",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A precious stone that is typically green and used in jewelry.",
+        "meaning_zh_TW": "翡翠",
+        "wrong_meaning_zh_TW": [
+          "碧玉",
+          "玉米",
+          "畫布"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a beautiful [jade] necklace.",
+            "translation_zh_TW": "她戴著美麗的翡翠項鍊。"
+          },
+          {
+            "sentence": "The statue was made of solid [jade].",
+            "translation_zh_TW": "這座雕像是由堅固的翡翠製成的。"
+          },
+          {
+            "sentence": "He gave her a [jade] ring as a gift.",
+            "translation_zh_TW": "他送給她一個翡翠戒指作為禮物。"
+          }
+        ],
+        "synonyms": [
+          "gem",
+          "stone"
+        ]
+      }
+    ],
+    "confusion": [
+      "jaded",
+      "jadeite",
+      "jader",
+      "jadeous"
+    ]
+  },
+  {
+    "word": "thereafter",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "After that; subsequently.",
+        "meaning_zh_TW": "其後",
+        "wrong_meaning_zh_TW": [
+          "首先",
+          "直到",
+          "無法"
+        ],
+        "examples": [
+          {
+            "sentence": "He graduated and [thereafter] found a good job.",
+            "translation_zh_TW": "他畢業後找到了一份好工作。"
+          },
+          {
+            "sentence": "The report was submitted, and [thereafter], the project started.",
+            "translation_zh_TW": "報告提交後，項目開始了。"
+          },
+          {
+            "sentence": "She moved to Paris and [thereafter] became an artist.",
+            "translation_zh_TW": "她搬到巴黎後成為了一名藝術家。"
+          }
+        ],
+        "synonyms": [
+          "subsequently",
+          "after"
+        ]
+      }
+    ],
+    "confusion": [
+      "thereafter",
+      "therein",
+      "therefore",
+      "there"
+    ]
+  },
+  {
+    "word": "savage",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Fierce, violent, and uncontrolled.",
+        "meaning_zh_TW": "野蠻的",
+        "wrong_meaning_zh_TW": [
+          "溫暖的",
+          "輕柔的",
+          "和藹的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [savage] storm caused a lot of damage.",
+            "translation_zh_TW": "這場野蠻的風暴造成了大量的損失"
+          },
+          {
+            "sentence": "He has a [savage] sense of humor.",
+            "translation_zh_TW": "他的幽默感很野蠻"
+          },
+          {
+            "sentence": "The [savage] fighting continued for hours.",
+            "translation_zh_TW": "野蠻的戰鬥持續了幾個小時"
+          }
+        ],
+        "synonyms": [
+          "fierce",
+          "brutal"
+        ]
+      }
+    ],
+    "confusion": [
+      "savagey",
+      "savagee",
+      "savig",
+      "savageer"
+    ]
+  },
+  {
+    "word": "harassment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Aggressive pressure or intimidation.",
+        "meaning_zh_TW": "騷擾",
+        "wrong_meaning_zh_TW": [
+          "獎勵",
+          "協助",
+          "歡迎"
+        ],
+        "examples": [
+          {
+            "sentence": "The company has a strict policy against [harassment].",
+            "translation_zh_TW": "該公司有嚴格的政策來抵制騷擾。"
+          },
+          {
+            "sentence": "She filed a complaint about the harassment she faced.",
+            "translation_zh_TW": "她對所遭受的騷擾提出了投訴。"
+          },
+          {
+            "sentence": "Harassment can create a hostile work environment.",
+            "translation_zh_TW": "騷擾會造成敵意的工作環境。"
+          }
+        ],
+        "synonyms": [
+          "intimidation",
+          "bullying"
+        ]
+      }
+    ],
+    "confusion": [
+      "harass",
+      "harrassment",
+      "hairassment",
+      "hardship"
+    ]
+  },
+  {
+    "word": "refresh",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give new strength or energy to; to revitalize.",
+        "meaning_zh_TW": "更新",
+        "wrong_meaning_zh_TW": [
+          "重新來過",
+          "重新演奏",
+          "修理"
+        ],
+        "examples": [
+          {
+            "sentence": "Taking a short break can help [refresh] your mind.",
+            "translation_zh_TW": "短暫的休息可以幫助你更新思維。"
+          },
+          {
+            "sentence": "It's important to [refresh] your knowledge regularly.",
+            "translation_zh_TW": "定期更新知識是很重要的。"
+          },
+          {
+            "sentence": "She decided to [refresh] her wardrobe for the new season.",
+            "translation_zh_TW": "她決定為新季節更新她的衣櫃。"
+          }
+        ],
+        "synonyms": [
+          "revitalize",
+          "renew"
+        ]
+      }
+    ],
+    "confusion": [
+      "reflash",
+      "fresh",
+      "refressh",
+      "refrsh"
+    ]
+  },
+  {
+    "word": "blond",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Fair or light-colored hair.",
+        "meaning_zh_TW": "金色的",
+        "wrong_meaning_zh_TW": [
+          "黑色的",
+          "紅色的",
+          "棕色的"
+        ],
+        "examples": [
+          {
+            "sentence": "He has striking blond hair.",
+            "translation_zh_TW": "他的金色頭髮非常引人注目。"
+          },
+          {
+            "sentence": "She prefers to keep her hair blond.",
+            "translation_zh_TW": "她喜歡保持金色的頭髮。"
+          },
+          {
+            "sentence": "His blond features stood out in the crowd.",
+            "translation_zh_TW": "他的金色特徵在人群中十分顯眼。"
+          }
+        ],
+        "synonyms": [
+          "fair",
+          "light-haired"
+        ]
+      }
+    ],
+    "confusion": [
+      "blonde",
+      "blon",
+      "bond",
+      "bland"
+    ]
+  },
+  {
+    "word": "hygiene",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Conditions or practices conducive to maintaining health and preventing disease.",
+        "meaning_zh_TW": "衛生",
+        "wrong_meaning_zh_TW": [
+          "污染",
+          "混亂",
+          "失序"
+        ],
+        "examples": [
+          {
+            "sentence": "Good personal [hygiene] is essential for health.",
+            "translation_zh_TW": "良好的個人衛生對健康至關重要。"
+          },
+          {
+            "sentence": "Restaurants must follow hygiene standards.",
+            "translation_zh_TW": "餐廳必須遵循衛生標準。"
+          },
+          {
+            "sentence": "Teaching children about hygiene is important.",
+            "translation_zh_TW": "教導孩子們衛生知識是重要的。"
+          }
+        ],
+        "synonyms": [
+          "sanitation",
+          "cleanliness"
+        ]
+      }
+    ],
+    "confusion": [
+      "hygienic",
+      "hydroponic",
+      "hygieia",
+      "hypogea"
+    ]
+  },
+  {
+    "word": "poultry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Domestic fowl, such as chickens and ducks, raised for food.",
+        "meaning_zh_TW": "家禽",
+        "wrong_meaning_zh_TW": [
+          "肉類",
+          "海鮮",
+          "蜂蜜"
+        ],
+        "examples": [
+          {
+            "sentence": "She works at a farm that specializes in [poultry].",
+            "translation_zh_TW": "她在一家專門飼養家禽的農場工作。"
+          },
+          {
+            "sentence": "Eating [poultry] is a common practice in many cultures.",
+            "translation_zh_TW": "在許多文化中，吃家禽是很常見的習俗。"
+          },
+          {
+            "sentence": "The market has fresh [poultry] every day.",
+            "translation_zh_TW": "市場每天都有新鮮的家禽。"
+          }
+        ],
+        "synonyms": [
+          "fowl",
+          "chicken",
+          "duck"
+        ]
+      }
+    ],
+    "confusion": [
+      "pollutant",
+      "poult",
+      "polyester",
+      "pulley"
+    ]
+  },
+  {
+    "word": "reproduce",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To produce a copy of something.",
+        "meaning_zh_TW": "再生產",
+        "wrong_meaning_zh_TW": [
+          "摧毀",
+          "削減",
+          "移動"
+        ],
+        "examples": [
+          {
+            "sentence": "The artist wanted to [reproduce] the famous painting.",
+            "translation_zh_TW": "這位藝術家想要再生產這幅著名的畫作。"
+          },
+          {
+            "sentence": "Scientists strive to [reproduce] the experiment's results.",
+            "translation_zh_TW": "科學家們努力再生產實驗的結果。"
+          },
+          {
+            "sentence": "The company can [reproduce] the parts quickly.",
+            "translation_zh_TW": "這家公司能快速再生產這些零件。"
+          }
+        ],
+        "synonyms": [
+          "copy",
+          "duplicate"
+        ]
+      }
+    ],
+    "confusion": [
+      "react",
+      "produce",
+      "reduction",
+      "reproach"
+    ]
+  },
+  {
+    "word": "spokesman",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A man who speaks on behalf of a group or organization.",
+        "meaning_zh_TW": "男發言人",
+        "wrong_meaning_zh_TW": [
+          "記者",
+          "學者",
+          "推銷員"
+        ],
+        "examples": [
+          {
+            "sentence": "The [spokesman] provided updates on the issue.",
+            "translation_zh_TW": "發言人對該問題提供了更新。"
+          },
+          {
+            "sentence": "The [spokesman] clarified the company’s stance.",
+            "translation_zh_TW": "發言人澄清了公司的立場。"
+          },
+          {
+            "sentence": "A [spokesman] expressed gratitude for the support.",
+            "translation_zh_TW": "發言人表達了對支持的感謝。"
+          }
+        ],
+        "synonyms": [
+          "representative",
+          "spokesperson"
+        ]
+      }
+    ],
+    "confusion": [
+      "spokeswoman",
+      "spoke",
+      "spokesperson",
+      "spoking"
+    ]
+  },
+  {
+    "word": "maiden",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A young unmarried woman.",
+        "meaning_zh_TW": "少女",
+        "wrong_meaning_zh_TW": [
+          "母親",
+          "員工",
+          "貴婦"
+        ],
+        "examples": [
+          {
+            "sentence": "The [maiden] danced gracefully at the festival.",
+            "translation_zh_TW": "那位少女在節慶上翩翩起舞。"
+          },
+          {
+            "sentence": "A [maiden] voyage is often filled with excitement.",
+            "translation_zh_TW": "首航往往充滿了興奮。"
+          },
+          {
+            "sentence": "In the story, the [maiden] sought adventure.",
+            "translation_zh_TW": "在故事中，少女尋求冒險。"
+          }
+        ],
+        "synonyms": [
+          "young woman",
+          "virgin"
+        ]
+      }
+    ],
+    "confusion": [
+      "main",
+      "maid",
+      "made",
+      "mid"
+    ]
+  },
+  {
+    "word": "compute",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To calculate or determine something mathematically.",
+        "meaning_zh_TW": "計算",
+        "wrong_meaning_zh_TW": [
+          "推測",
+          "考慮",
+          "觀察"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [compute] the total cost before proceeding.",
+            "translation_zh_TW": "在進行之前，我們需要計算總成本。"
+          },
+          {
+            "sentence": "It is essential to [compute] the results accurately.",
+            "translation_zh_TW": "準確計算結果是很重要的。"
+          },
+          {
+            "sentence": "Can you [compute] the distance to the destination?",
+            "translation_zh_TW": "你能計算到目的地的距離嗎？"
+          }
+        ],
+        "synonyms": [
+          "calculate",
+          "figure"
+        ]
+      }
+    ],
+    "confusion": [
+      "composite",
+      "compete",
+      "computer",
+      "compound"
+    ]
+  },
+  {
+    "word": "longitude",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The angular distance of a place east or west of the meridian at Greenwich, England.",
+        "meaning_zh_TW": "經度",
+        "wrong_meaning_zh_TW": [
+          "緯度",
+          "高度",
+          "位置"
+        ],
+        "examples": [
+          {
+            "sentence": "The city is located at a longitude of 74 degrees.",
+            "translation_zh_TW": "這個城市位於74度的經度。"
+          },
+          {
+            "sentence": "Understanding [longitude] is essential for navigation.",
+            "translation_zh_TW": "了解經度對於導航是至關重要的。"
+          },
+          {
+            "sentence": "Longitudes are measured in degrees east or west.",
+            "translation_zh_TW": "經度以東或西的度數來測量。"
+          }
+        ],
+        "synonyms": [
+          "meridian",
+          "geographic coordinate"
+        ]
+      }
+    ],
+    "confusion": [
+      "longitude",
+      "latitude",
+      "long",
+      "long term"
+    ]
+  },
+  {
+    "word": "subjective",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Based on or influenced by personal feelings, tastes, or opinions.",
+        "meaning_zh_TW": "主觀的",
+        "wrong_meaning_zh_TW": [
+          "客觀的",
+          "一致的",
+          "懸而未決"
+        ],
+        "examples": [
+          {
+            "sentence": "Art can often be very [subjective].",
+            "translation_zh_TW": "藝術往往是非常主觀的。"
+          },
+          {
+            "sentence": "His opinion is purely [subjective].",
+            "translation_zh_TW": "他的看法完全是主觀的。"
+          },
+          {
+            "sentence": "Taste in music is highly [subjective].",
+            "translation_zh_TW": "對音樂的品味是高度主觀的。"
+          }
+        ],
+        "synonyms": [
+          "personal",
+          "individual"
+        ]
+      }
+    ],
+    "confusion": [
+      "subject",
+      "subjection",
+      "objective",
+      "subjunctive"
+    ]
+  },
+  {
+    "word": "notable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Worthy of attention or notice; remarkable.",
+        "meaning_zh_TW": "顯著的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "平凡的",
+          "無聊的"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [notable] contribution to the project.",
+            "translation_zh_TW": "他對這個項目做出了顯著的貢獻。"
+          },
+          {
+            "sentence": "The town is known for its [notable] architecture.",
+            "translation_zh_TW": "這個城鎮以其顯著的建築聞名。"
+          },
+          {
+            "sentence": "She received [notable] praise for her work.",
+            "translation_zh_TW": "她的工作獲得了顯著的讚譽。"
+          }
+        ],
+        "synonyms": [
+          "remarkable",
+          "significant"
+        ]
+      }
+    ],
+    "confusion": [
+      "notability",
+      "notepad",
+      "notation",
+      "notable"
+    ]
+  },
+  {
+    "word": "inland",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Situated away from the coast or the borders.",
+        "meaning_zh_TW": "內陸的",
+        "wrong_meaning_zh_TW": [
+          "沿海的",
+          "城市的",
+          "鄉村的"
+        ],
+        "examples": [
+          {
+            "sentence": "We traveled [inland] to explore the mountains.",
+            "translation_zh_TW": "我們往內陸旅行以探索山脈。"
+          },
+          {
+            "sentence": "The [inland] areas are less populated than coastal regions.",
+            "translation_zh_TW": "內陸地區的人口比沿海地區少。"
+          },
+          {
+            "sentence": "Inland farms are essential for the economy.",
+            "translation_zh_TW": "內陸農場對經濟至關重要。"
+          }
+        ],
+        "synonyms": [
+          "interior",
+          "inward"
+        ]
+      }
+    ],
+    "confusion": [
+      "inlane",
+      "inlandish",
+      "inlandsea",
+      "inlandz"
+    ]
+  },
+  {
+    "word": "patriot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who vigorously supports their country and is prepared to defend it.",
+        "meaning_zh_TW": "愛國者",
+        "wrong_meaning_zh_TW": [
+          "叛徒",
+          "外國人",
+          "敵人"
+        ],
+        "examples": [
+          {
+            "sentence": "He was considered a true [patriot] for his services to the country.",
+            "translation_zh_TW": "因為他對國家的服務，他被認為是真正的愛國者。"
+          },
+          {
+            "sentence": "Patriots often celebrate their national holidays with pride.",
+            "translation_zh_TW": "愛國者們常常自豪地慶祝國慶。"
+          },
+          {
+            "sentence": "She displayed a [patriot] spirit during the community event.",
+            "translation_zh_TW": "在社區活動中，她展現了愛國者的精神。"
+          }
+        ],
+        "synonyms": [
+          "nationalist",
+          "loyalist"
+        ]
+      }
+    ],
+    "confusion": [
+      "patriotic",
+      "patriotism",
+      "patrimony",
+      "patria"
+    ]
+  },
+  {
+    "word": "forthcoming",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "About to happen or appear.",
+        "meaning_zh_TW": "即將到來",
+        "wrong_meaning_zh_TW": [
+          "持續的",
+          "隱藏的",
+          "遙遠的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [forthcoming] event has generated a lot of interest.",
+            "translation_zh_TW": "即將到來的活動引起了大量興趣。"
+          },
+          {
+            "sentence": "He was excited for the [forthcoming] holidays.",
+            "translation_zh_TW": "他對即將到來的假期感到興奮。"
+          },
+          {
+            "sentence": "Details about the [forthcoming] project will be shared soon.",
+            "translation_zh_TW": "關於即將到來的專案的細節將很快分享。"
+          }
+        ],
+        "synonyms": [
+          "imminent",
+          "upcoming"
+        ]
+      }
+    ],
+    "confusion": [
+      "forthcomingness",
+      "forthcome",
+      "forthcomingly",
+      "fortcoming"
+    ]
+  }
+]

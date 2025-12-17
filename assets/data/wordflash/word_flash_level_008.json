@@ -1,0 +1,760 @@
+[
+  {
+    "word": "own",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Belonging to oneself or itself.",
+        "meaning_zh_TW": "自己的",
+        "wrong_meaning_zh_TW": [
+          "朋友的",
+          "者的",
+          "同事的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wants to have her [own] business.",
+            "translation_zh_TW": "她想要擁有自己的生意。"
+          },
+          {
+            "sentence": "He takes pride in his [own] achievements.",
+            "translation_zh_TW": "他對自己的成就感到自豪。"
+          },
+          {
+            "sentence": "Each child has their [own] toys.",
+            "translation_zh_TW": "每個孩子都有自己的玩具。"
+          }
+        ],
+        "synonyms": [
+          "personal",
+          "individual"
+        ]
+      }
+    ],
+    "confusion": [
+      "owning",
+      "tone",
+      "ocean",
+      "owl"
+    ]
+  },
+  {
+    "word": "house",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A building for human habitation; a home.",
+        "meaning_zh_TW": "房子",
+        "wrong_meaning_zh_TW": [
+          "公寓",
+          "架子",
+          "城堡"
+        ],
+        "examples": [
+          {
+            "sentence": "They live in a big [house].",
+            "translation_zh_TW": "他們住在一棟大的房子裡。"
+          },
+          {
+            "sentence": "The [house] has three bedrooms.",
+            "translation_zh_TW": "這棟房子有三個臥室。"
+          },
+          {
+            "sentence": "She painted her [house] blue.",
+            "translation_zh_TW": "她把她的房子漆成藍色。"
+          }
+        ],
+        "synonyms": [
+          "home",
+          "dwelling"
+        ]
+      }
+    ],
+    "confusion": [
+      "hause",
+      "hoose",
+      "houze",
+      "houes"
+    ]
+  },
+  {
+    "word": "both",
+    "meanings": [
+      {
+        "type": "代名詞",
+        "meaning_en_US": "Referring to two things or people together.",
+        "meaning_zh_TW": "兩者都",
+        "wrong_meaning_zh_TW": [
+          "一個",
+          "每個",
+          "稍微"
+        ],
+        "examples": [
+          {
+            "sentence": "Both of my parents are teachers.",
+            "translation_zh_TW": "我的父母都是老師。"
+          },
+          {
+            "sentence": "We watched both movies last night.",
+            "translation_zh_TW": "我們昨晚看了兩部電影。"
+          },
+          {
+            "sentence": "This shirt is good for both casual and formal occasions.",
+            "translation_zh_TW": "這件襯衫兩者都適合休閒和正式場合。"
+          }
+        ],
+        "synonyms": [
+          "the two",
+          "duo"
+        ]
+      }
+    ],
+    "confusion": [
+      "boath",
+      "bouth",
+      "boths",
+      "bother"
+    ]
+  },
+  {
+    "word": "photo",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A picture made using a camera.",
+        "meaning_zh_TW": "照片",
+        "wrong_meaning_zh_TW": [
+          "圖畫",
+          "圖紙",
+          "畫框"
+        ],
+        "examples": [
+          {
+            "sentence": "I took a beautiful [photo] at the beach.",
+            "translation_zh_TW": "我在海灘拍了一張美麗的照片。"
+          },
+          {
+            "sentence": "She shared the [photo] on social media.",
+            "translation_zh_TW": "她在社交媒體上分享了照片。"
+          },
+          {
+            "sentence": "He has a collection of old [photos].",
+            "translation_zh_TW": "他收藏了一些舊照片。"
+          }
+        ],
+        "synonyms": [
+          "picture",
+          "image"
+        ]
+      }
+    ],
+    "confusion": [
+      "photograph",
+      "photogenic",
+      "photoed",
+      "phota"
+    ]
+  },
+  {
+    "word": "game",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A form of competitive activity or sport played according to rules.",
+        "meaning_zh_TW": "遊戲",
+        "wrong_meaning_zh_TW": [
+          "遊說",
+          "書籍",
+          "飯菜"
+        ],
+        "examples": [
+          {
+            "sentence": "We played a fun [game] last night.",
+            "translation_zh_TW": "我們昨晚玩了一個有趣的遊戲。"
+          },
+          {
+            "sentence": "She won the [game] easily.",
+            "translation_zh_TW": "她輕鬆贏得了比賽。"
+          },
+          {
+            "sentence": "Board [games] are great for family time.",
+            "translation_zh_TW": "棋盤遊戲對家庭時間很有幫助。"
+          }
+        ],
+        "synonyms": [
+          "match",
+          "competition"
+        ]
+      }
+    ],
+    "confusion": [
+      "gamer",
+      "gamed",
+      "gamble",
+      "gams"
+    ]
+  },
+  {
+    "word": "power",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability or capacity to do something or act in a particular way.",
+        "meaning_zh_TW": "力量",
+        "wrong_meaning_zh_TW": [
+          "無能",
+          "弱點",
+          "限制"
+        ],
+        "examples": [
+          {
+            "sentence": "Knowledge is power.",
+            "translation_zh_TW": "知識就是力量。"
+          },
+          {
+            "sentence": "He has the power to make decisions.",
+            "translation_zh_TW": "他有權做出決策。"
+          },
+          {
+            "sentence": "The power of the wind can generate electricity.",
+            "translation_zh_TW": "風的力量可以發電。"
+          }
+        ],
+        "synonyms": [
+          "strength",
+          "force"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To supply with energy or force.",
+        "meaning_zh_TW": "提供動力",
+        "wrong_meaning_zh_TW": [
+          "阻礙",
+          "剝奪",
+          "延遲"
+        ],
+        "examples": [
+          {
+            "sentence": "They power the entire city with renewable energy.",
+            "translation_zh_TW": "他們用可再生能源為整個城市供電。"
+          },
+          {
+            "sentence": "We need to power the devices for optimal performance.",
+            "translation_zh_TW": "我們需要為設備提供動力以達到最佳性能。"
+          },
+          {
+            "sentence": "The battery powers the toy for hours.",
+            "translation_zh_TW": "這個電池可以讓玩具運行幾個小時。"
+          }
+        ],
+        "synonyms": [
+          "energize",
+          "activate"
+        ]
+      }
+    ],
+    "confusion": [
+      "poweer",
+      "pwer",
+      "powre",
+      "pwower"
+    ]
+  },
+  {
+    "word": "care",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To feel concern or interest; to be concerned.",
+        "meaning_zh_TW": "在乎、關心",
+        "wrong_meaning_zh_TW": [
+          "保健、護理",
+          "護理人員",
+          "注意、留意"
+        ],
+        "examples": [
+          {
+            "sentence": "Do you [care] about the outcome?",
+            "translation_zh_TW": "你在乎結果嗎？"
+          },
+          {
+            "sentence": "She doesn’t [care] what others think.",
+            "translation_zh_TW": "她不在乎他人的想法。"
+          },
+          {
+            "sentence": "He really [cares] for his family.",
+            "translation_zh_TW": "他真的很關心他的家人。"
+          }
+        ],
+        "synonyms": [
+          "worry",
+          "concern"
+        ]
+      }
+    ],
+    "confusion": [
+      "cart",
+      "cake",
+      "cure",
+      "car"
+    ]
+  },
+  {
+    "word": "down",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Towards or in a lower place or position.",
+        "meaning_zh_TW": "向下、下降",
+        "wrong_meaning_zh_TW": [
+          "上升",
+          "跟隨",
+          "停留"
+        ],
+        "examples": [
+          {
+            "sentence": "She sat [down] on the chair.",
+            "translation_zh_TW": "她坐在了椅子上。"
+          },
+          {
+            "sentence": "Please put your phone [down] on the table.",
+            "translation_zh_TW": "請把你的手機放在桌子上。"
+          },
+          {
+            "sentence": "The temperature went [down] last night.",
+            "translation_zh_TW": "昨晚的氣溫下降了。"
+          }
+        ],
+        "synonyms": [
+          "beneath",
+          "lower"
+        ]
+      }
+    ],
+    "confusion": [
+      "dawn",
+      "downn",
+      "dowan",
+      "dwn"
+    ]
+  },
+  {
+    "word": "computer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An electronic device for storing and processing data.",
+        "meaning_zh_TW": "電腦",
+        "wrong_meaning_zh_TW": [
+          "桌子",
+          "書籍",
+          "手機"
+        ],
+        "examples": [
+          {
+            "sentence": "He used his [computer] to write the report.",
+            "translation_zh_TW": "他用電腦來寫報告。"
+          },
+          {
+            "sentence": "The [computer] crashed while he was playing.",
+            "translation_zh_TW": "在他玩遊戲時，電腦當機了。"
+          },
+          {
+            "sentence": "She bought a new [computer] for her studies.",
+            "translation_zh_TW": "她為了學習買了一台新電腦。"
+          }
+        ],
+        "synonyms": [
+          "PC",
+          "laptop"
+        ]
+      }
+    ],
+    "confusion": [
+      "computation",
+      "composure",
+      "completer",
+      "compactor"
+    ]
+  },
+  {
+    "word": "three",
+    "meanings": [
+      {
+        "type": "數字",
+        "meaning_en_US": "The number that is equal to two plus one.",
+        "meaning_zh_TW": "三",
+        "wrong_meaning_zh_TW": [
+          "四",
+          "二",
+          "五"
+        ],
+        "examples": [
+          {
+            "sentence": "I have [three] apples in my bag.",
+            "translation_zh_TW": "我袋子裡有三個蘋果。"
+          },
+          {
+            "sentence": "She invited [three] friends to the party.",
+            "translation_zh_TW": "她邀請了三位朋友來參加派對。"
+          },
+          {
+            "sentence": "The book has [three] chapters.",
+            "translation_zh_TW": "這本書有三個章節。"
+          }
+        ],
+        "synonyms": [
+          "trio",
+          "triple"
+        ]
+      }
+    ],
+    "confusion": [
+      "thre",
+      "threer",
+      "thee",
+      "tree"
+    ]
+  },
+  {
+    "word": "total",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The entire amount; the whole.",
+        "meaning_zh_TW": "總計",
+        "wrong_meaning_zh_TW": [
+          "部分",
+          "元素",
+          "分數"
+        ],
+        "examples": [
+          {
+            "sentence": "The [total] cost of the project was surprising.",
+            "translation_zh_TW": "這個項目的總計成本令人驚訝"
+          },
+          {
+            "sentence": "Please add up the numbers to find the [total].",
+            "translation_zh_TW": "請將這些數字相加以找出總計"
+          },
+          {
+            "sentence": "Her contribution made a significant impact on the [total].",
+            "translation_zh_TW": "她的貢獻對總計產生了重大影響"
+          }
+        ],
+        "synonyms": [
+          "sum",
+          "aggregate"
+        ]
+      }
+    ],
+    "confusion": [
+      "tote",
+      "towel",
+      "toll",
+      "tote"
+    ]
+  },
+  {
+    "word": "place",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular position or point in space.",
+        "meaning_zh_TW": "位置",
+        "wrong_meaning_zh_TW": [
+          "運動場地",
+          "商店",
+          "地圖"
+        ],
+        "examples": [
+          {
+            "sentence": "This is the perfect [place] for a picnic.",
+            "translation_zh_TW": "這是野餐的完美位置。"
+          },
+          {
+            "sentence": "Have you found a [place] to live yet?",
+            "translation_zh_TW": "你找到住的地方了嗎？"
+          },
+          {
+            "sentence": "She marked the [place] on the map.",
+            "translation_zh_TW": "她在地圖上標記了位置。"
+          }
+        ],
+        "synonyms": [
+          "location",
+          "spot"
+        ]
+      }
+    ],
+    "confusion": [
+      "pace",
+      "placebo",
+      "plaque",
+      "plaster"
+    ]
+  },
+  {
+    "word": "end",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The final part of something; a boundary or limit.",
+        "meaning_zh_TW": "結束",
+        "wrong_meaning_zh_TW": [
+          "初始",
+          "中間",
+          "部分"
+        ],
+        "examples": [
+          {
+            "sentence": "We reached the [end] of the road.",
+            "translation_zh_TW": "我們到達了道路的盡頭。"
+          },
+          {
+            "sentence": "This is the [end] of the story.",
+            "translation_zh_TW": "這是故事的結尾。"
+          },
+          {
+            "sentence": "He waited until the very [end].",
+            "translation_zh_TW": "他一直等到最後一刻。"
+          }
+        ],
+        "synonyms": [
+          "finish",
+          "conclusion"
+        ]
+      }
+    ],
+    "confusion": [
+      "and",
+      "lend",
+      "bend",
+      "send"
+    ]
+  },
+  {
+    "word": "think",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To have a particular belief or idea.",
+        "meaning_zh_TW": "思考",
+        "wrong_meaning_zh_TW": [
+          "做夢",
+          "懷疑",
+          "聲明"
+        ],
+        "examples": [
+          {
+            "sentence": "I [think] it's going to rain today.",
+            "translation_zh_TW": "我覺得今天會下雨。"
+          },
+          {
+            "sentence": "Can you [think] of a solution?",
+            "translation_zh_TW": "你可以想到一個解決方案嗎？"
+          },
+          {
+            "sentence": "I [think] he is telling the truth.",
+            "translation_zh_TW": "我覺得他在說真話。"
+          }
+        ],
+        "synonyms": [
+          "believe",
+          "consider"
+        ]
+      }
+    ],
+    "confusion": [
+      "thick",
+      "thing",
+      "thinker",
+      "thinks"
+    ]
+  },
+  {
+    "word": "north",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The direction opposed to south.",
+        "meaning_zh_TW": "北方",
+        "wrong_meaning_zh_TW": [
+          "東方",
+          "西方",
+          "南方"
+        ],
+        "examples": [
+          {
+            "sentence": "We drove to the [north] for the weekend.",
+            "translation_zh_TW": "我們週末往北方開"
+          },
+          {
+            "sentence": "The compass points [north].",
+            "translation_zh_TW": "指南針指向北方"
+          },
+          {
+            "sentence": "There are many lakes in the [north].",
+            "translation_zh_TW": "北方有很多湖泊"
+          }
+        ],
+        "synonyms": [
+          "up",
+          "northward"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Situated in the direction of the North.",
+        "meaning_zh_TW": "北方的",
+        "wrong_meaning_zh_TW": [
+          "南方的",
+          "西方的",
+          "東方的"
+        ],
+        "examples": [
+          {
+            "sentence": "They are traveling to [north] Alaska.",
+            "translation_zh_TW": "他們正前往北方的阿拉斯加"
+          },
+          {
+            "sentence": "The [north] route is the fastest.",
+            "translation_zh_TW": "北方的路線是最快的"
+          },
+          {
+            "sentence": "Several [north] cities are growing rapidly.",
+            "translation_zh_TW": "幾個北方城市正在迅速增長"
+          }
+        ],
+        "synonyms": [
+          "northern",
+          "arctic"
+        ]
+      }
+    ],
+    "confusion": [
+      "south",
+      "forth",
+      "northward",
+      "northeast"
+    ]
+  },
+  {
+    "word": "big",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of considerable size, height, weight, or capacity.",
+        "meaning_zh_TW": "大的",
+        "wrong_meaning_zh_TW": [
+          "小的",
+          "矮的",
+          "簡單的"
+        ],
+        "examples": [
+          {
+            "sentence": "They have a [big] house with a garden.",
+            "translation_zh_TW": "他們有一個帶花園的大房子。"
+          },
+          {
+            "sentence": "He has [big] dreams of becoming an astronaut.",
+            "translation_zh_TW": "他有成為宇航員的大夢想。"
+          },
+          {
+            "sentence": "The elephant is a [big] animal.",
+            "translation_zh_TW": "大象是一種大型動物。"
+          }
+        ],
+        "synonyms": [
+          "large",
+          "huge"
+        ]
+      }
+    ],
+    "confusion": [
+      "bag",
+      "bug",
+      "begin",
+      "biggest"
+    ]
+  },
+  {
+    "word": "media",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The main means of mass communication, such as television, radio, and newspapers.",
+        "meaning_zh_TW": "媒體",
+        "wrong_meaning_zh_TW": [
+          "個人信件",
+          "網路遊戲",
+          "小團體"
+        ],
+        "examples": [
+          {
+            "sentence": "The news [media] play a crucial role in society.",
+            "translation_zh_TW": "新聞媒體在社會中扮演著至關重要的角色。"
+          },
+          {
+            "sentence": "Many people consume news through social [media].",
+            "translation_zh_TW": "許多人通過社交媒體消費新聞。"
+          },
+          {
+            "sentence": "Journalism and [media] ethics are important subjects.",
+            "translation_zh_TW": "新聞學和媒體倫理是重要的科目。"
+          }
+        ],
+        "synonyms": [
+          "press",
+          "communication"
+        ]
+      }
+    ],
+    "confusion": [
+      "medium",
+      "mediocre",
+      "medial",
+      "mediality"
+    ]
+  },
+  {
+    "word": "history",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The study of past events, particularly in human affairs.",
+        "meaning_zh_TW": "歷史",
+        "wrong_meaning_zh_TW": [
+          "科學",
+          "文學",
+          "藝術"
+        ],
+        "examples": [
+          {
+            "sentence": "We studied ancient [history] in class today.",
+            "translation_zh_TW": "我們今天在課堂上學習了古代歷史。"
+          },
+          {
+            "sentence": "She loves reading books about [history].",
+            "translation_zh_TW": "她喜歡閱讀關於歷史的書籍。"
+          },
+          {
+            "sentence": "His [history] is quite interesting.",
+            "translation_zh_TW": "他的歷史相當有趣。"
+          }
+        ],
+        "synonyms": [
+          "past",
+          "chronicle"
+        ]
+      }
+    ],
+    "confusion": [
+      "hystery",
+      "mystery",
+      "hitory",
+      "histroy"
+    ]
+  }
+]

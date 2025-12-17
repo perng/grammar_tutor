@@ -1,0 +1,783 @@
+[
+  {
+    "word": "seed",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The unit of reproduction of a flowering plant, capable of developing into another such plant.",
+        "meaning_zh_TW": "種子",
+        "wrong_meaning_zh_TW": [
+          "果實",
+          "根部",
+          "莖"
+        ],
+        "examples": [
+          {
+            "sentence": "He planted a [seed] in the soil.",
+            "translation_zh_TW": "他把一顆種子種進了土壤。"
+          },
+          {
+            "sentence": "The [seed] needs sunlight and water to grow.",
+            "translation_zh_TW": "這顆種子需要陽光和水才能生長。"
+          },
+          {
+            "sentence": "Different types of [seeds] produce different plants.",
+            "translation_zh_TW": "不同類型的種子會產生不同的植物。"
+          }
+        ],
+        "synonyms": [
+          "kernel",
+          "grain"
+        ]
+      }
+    ],
+    "confusion": [
+      "see",
+      "cedar",
+      "ceed",
+      "seeds"
+    ]
+  },
+  {
+    "word": "bottle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A vessel, typically made of glass or plastic, used for storing drinks or other liquids.",
+        "meaning_zh_TW": "瓶子",
+        "wrong_meaning_zh_TW": [
+          "杯子",
+          "罐子",
+          "容器"
+        ],
+        "examples": [
+          {
+            "sentence": "She opened a new [bottle] of wine.",
+            "translation_zh_TW": "她打開了一瓶新的[瓶子]的酒。"
+          },
+          {
+            "sentence": "Please recycle that [bottle].",
+            "translation_zh_TW": "請回收那個[瓶子]。"
+          },
+          {
+            "sentence": "The bottle was half full.",
+            "translation_zh_TW": "瓶子裡的酒是半滿的。"
+          }
+        ],
+        "synonyms": [
+          "container",
+          "flask"
+        ]
+      }
+    ],
+    "confusion": [
+      "bottles",
+      "cattle",
+      "mottle",
+      "jottle"
+    ]
+  },
+  {
+    "word": "thousand",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number equivalent to the product of ten and one hundred.",
+        "meaning_zh_TW": "一千",
+        "wrong_meaning_zh_TW": [
+          "一百",
+          "一萬",
+          "二千"
+        ],
+        "examples": [
+          {
+            "sentence": "There are a [thousand] stars in the sky.",
+            "translation_zh_TW": "天空中有[一千]顆星星。"
+          },
+          {
+            "sentence": "He ran a [thousand] meters yesterday.",
+            "translation_zh_TW": "他昨天跑了一[千]米。"
+          },
+          {
+            "sentence": "The book costs a [thousand] dollars.",
+            "translation_zh_TW": "這本書要[一千]美元。"
+          }
+        ],
+        "synonyms": [
+          "millennium",
+          "grand"
+        ]
+      }
+    ],
+    "confusion": [
+      "tousand",
+      "thousend",
+      "thundra",
+      "thunder"
+    ]
+  },
+  {
+    "word": "meat",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The flesh of animals used as food.",
+        "meaning_zh_TW": "肉類",
+        "wrong_meaning_zh_TW": [
+          "蔬菜",
+          "穀物",
+          "魚類"
+        ],
+        "examples": [
+          {
+            "sentence": "He prefers to eat [meat] instead of vegetables.",
+            "translation_zh_TW": "他更喜歡吃肉類而不是蔬菜。"
+          },
+          {
+            "sentence": "The restaurant offers a variety of [meat] dishes.",
+            "translation_zh_TW": "這家餐廳提供各種肉類菜餚。"
+          },
+          {
+            "sentence": "They decided to buy fresh [meat] from the local market.",
+            "translation_zh_TW": "他們決定從當地市場購買新鮮肉類。"
+          }
+        ],
+        "synonyms": [
+          "flesh",
+          "protein"
+        ]
+      }
+    ],
+    "confusion": [
+      "meet",
+      "mete",
+      "mote",
+      "meats"
+    ]
+  },
+  {
+    "word": "gate",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hinged barrier used to close off an entrance or exit.",
+        "meaning_zh_TW": "大門",
+        "wrong_meaning_zh_TW": [
+          "門口",
+          "鑰匙",
+          "圍欄"
+        ],
+        "examples": [
+          {
+            "sentence": "Please close the [gate] after entering.",
+            "translation_zh_TW": "請在進入後關上大門。"
+          },
+          {
+            "sentence": "The metal [gate] creaked as it swung open.",
+            "translation_zh_TW": "金屬大門在打開時發出吱吱聲。"
+          },
+          {
+            "sentence": "A tall [gate] marks the entrance to the garden.",
+            "translation_zh_TW": "一扇高大的大門標誌著花園的入口。"
+          }
+        ],
+        "synonyms": [
+          "entrance",
+          "barrier"
+        ]
+      }
+    ],
+    "confusion": [
+      "gait",
+      "mate",
+      "fate",
+      "gateau"
+    ]
+  },
+  {
+    "word": "busy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Engaged in activity; occupied.",
+        "meaning_zh_TW": "忙碌的",
+        "wrong_meaning_zh_TW": [
+          "閒暇的",
+          "消極的",
+          "空曠的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am too [busy] to meet today.",
+            "translation_zh_TW": "我今天太忙無法見面"
+          },
+          {
+            "sentence": "She has a [busy] schedule this week.",
+            "translation_zh_TW": "她這週的日程很忙"
+          },
+          {
+            "sentence": "They stayed [busy] with their projects.",
+            "translation_zh_TW": "他們專注於自己的項目"
+          }
+        ],
+        "synonyms": [
+          "occupied",
+          "engaged"
+        ]
+      }
+    ],
+    "confusion": [
+      "buzzy",
+      "bushy",
+      "buzz",
+      "bash"
+    ]
+  },
+  {
+    "word": "leg",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The limb of the human body that extends from the hip to the ankle.",
+        "meaning_zh_TW": "腿",
+        "wrong_meaning_zh_TW": [
+          "手臂",
+          "耳朵",
+          "頸部"
+        ],
+        "examples": [
+          {
+            "sentence": "He injured his [leg] while playing soccer.",
+            "translation_zh_TW": "他在踢足球時受傷了他的腿。"
+          },
+          {
+            "sentence": "She has long [legs] that help her run fast.",
+            "translation_zh_TW": "她有修長的腿，使她能快速奔跑。"
+          },
+          {
+            "sentence": "Sit with your [legs] crossed.",
+            "translation_zh_TW": "坐著時雙腿交叉。"
+          }
+        ],
+        "synonyms": [
+          "limb",
+          "appendage"
+        ]
+      }
+    ],
+    "confusion": [
+      "legs",
+      "legged",
+      "legroom",
+      "lag"
+    ]
+  },
+  {
+    "word": "neck",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The part of the body connecting the head to the shoulders.",
+        "meaning_zh_TW": "脖子",
+        "wrong_meaning_zh_TW": [
+          "手臂",
+          "腿",
+          "頭"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a necklace around his [neck].",
+            "translation_zh_TW": "他脖子上戴著一條項鍊。"
+          },
+          {
+            "sentence": "She tilted her head to give her [neck] a stretch.",
+            "translation_zh_TW": "她傾斜頭部以伸展脖子。"
+          },
+          {
+            "sentence": "The doctor examined the swelling on his [neck].",
+            "translation_zh_TW": "醫生檢查了他脖子上的腫脹。"
+          }
+        ],
+        "synonyms": [
+          "throat",
+          "cervix"
+        ]
+      }
+    ],
+    "confusion": [
+      "nack",
+      "necklace",
+      "nech",
+      "nec"
+    ]
+  },
+  {
+    "word": "taste",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The sensation of flavor perceived in the mouth.",
+        "meaning_zh_TW": "味道",
+        "wrong_meaning_zh_TW": [
+          "氣味",
+          "觸感",
+          "聲音"
+        ],
+        "examples": [
+          {
+            "sentence": "The [taste] of the soup was exquisite.",
+            "translation_zh_TW": "湯的味道非常美味。"
+          },
+          {
+            "sentence": "She has a unique [taste] in music.",
+            "translation_zh_TW": "她在音樂方面有著獨特的品味。"
+          },
+          {
+            "sentence": "I can't stand the [taste] of coffee.",
+            "translation_zh_TW": "我受不了咖啡的味道。"
+          }
+        ],
+        "synonyms": [
+          "flavor",
+          "savor",
+          "relish"
+        ]
+      }
+    ],
+    "confusion": [
+      "tasted",
+      "toast",
+      "task",
+      "tace"
+    ]
+  },
+  {
+    "word": "belt",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A strip of leather or other material worn around the waist to support or hold clothing in place.",
+        "meaning_zh_TW": "腰帶",
+        "wrong_meaning_zh_TW": [
+          "圍巾",
+          "繩子",
+          "項鍊"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a black [belt] with his suit.",
+            "translation_zh_TW": "他穿著西裝搭配一條黑色腰帶。"
+          },
+          {
+            "sentence": "She tightened her [belt] after eating a large meal.",
+            "translation_zh_TW": "她在吃了一頓大餐後緊了緊腰帶。"
+          },
+          {
+            "sentence": "The [belt] was adorned with beautiful designs.",
+            "translation_zh_TW": "腰帶上裝飾著美麗的圖案。"
+          }
+        ],
+        "synonyms": [
+          "strap",
+          "cinch"
+        ]
+      }
+    ],
+    "confusion": [
+      "belted",
+      "bolt",
+      "bent",
+      "beltz"
+    ]
+  },
+  {
+    "word": "jacket",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A short coat that covers the upper body.",
+        "meaning_zh_TW": "夾克",
+        "wrong_meaning_zh_TW": [
+          "長袍",
+          "背心",
+          "外套"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore a warm [jacket] in the winter.",
+            "translation_zh_TW": "他在冬天穿了一件保暖夾克。"
+          },
+          {
+            "sentence": "She bought a stylish [jacket] for the fall.",
+            "translation_zh_TW": "她在秋天買了一件時尚夾克。"
+          },
+          {
+            "sentence": "The [jacket] is made of leather.",
+            "translation_zh_TW": "這件夾克是用皮革製成的。"
+          }
+        ],
+        "synonyms": [
+          "coat",
+          "outerwear"
+        ]
+      }
+    ],
+    "confusion": [
+      "packet",
+      "pocket",
+      "jock",
+      "jackal"
+    ]
+  },
+  {
+    "word": "proud",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling deep pleasure or satisfaction as a result of one's own achievements.",
+        "meaning_zh_TW": "自豪的",
+        "wrong_meaning_zh_TW": [
+          "謙卑的",
+          "羞愧的",
+          "普通的"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt [proud] of her accomplishments.",
+            "translation_zh_TW": "她對自己的成就感到自豪。"
+          },
+          {
+            "sentence": "They were [proud] to represent their country.",
+            "translation_zh_TW": "他們為能代表自己的國家而感到自豪。"
+          },
+          {
+            "sentence": "He was [proud] of his heritage.",
+            "translation_zh_TW": "他為自己的傳承感到自豪。"
+          }
+        ],
+        "synonyms": [
+          "pleased",
+          "satisfied"
+        ]
+      }
+    ],
+    "confusion": [
+      "prude",
+      "proudly",
+      "pride",
+      "producer"
+    ]
+  },
+  {
+    "word": "giant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of very great size or force; massive.",
+        "meaning_zh_TW": "巨大的",
+        "wrong_meaning_zh_TW": [
+          "微小的",
+          "普通的",
+          "清新的"
+        ],
+        "examples": [
+          {
+            "sentence": "They found a [giant] skeleton in the cave.",
+            "translation_zh_TW": "他們在洞穴中發現了一具巨大的骨架"
+          },
+          {
+            "sentence": "The [giant] waves crashed onto the shore.",
+            "translation_zh_TW": "巨大的浪潮衝擊岸邊"
+          },
+          {
+            "sentence": "The company is a [giant] in the tech industry.",
+            "translation_zh_TW": "該公司是科技行業的一個巨頭"
+          }
+        ],
+        "synonyms": [
+          "huge",
+          "enormous"
+        ]
+      }
+    ],
+    "confusion": [
+      "gian",
+      "gint",
+      "gent",
+      "giants"
+    ]
+  },
+  {
+    "word": "dangerous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able or likely to cause harm or injury.",
+        "meaning_zh_TW": "危險的",
+        "wrong_meaning_zh_TW": [
+          "安全的",
+          "無害的",
+          "悠閒的"
+        ],
+        "examples": [
+          {
+            "sentence": "Driving without a seatbelt is [dangerous].",
+            "translation_zh_TW": "不系安全帶駕駛是很危險的。"
+          },
+          {
+            "sentence": "The abandoned building is [dangerous] to explore.",
+            "translation_zh_TW": "這棟廢棄的建築物探索是危險的。"
+          },
+          {
+            "sentence": "He made a [dangerous] decision that could cost him everything.",
+            "translation_zh_TW": "他做了個危險的決定，可能會讓他失去一切。"
+          }
+        ],
+        "synonyms": [
+          "hazardous",
+          "unsafe"
+        ]
+      }
+    ],
+    "confusion": [
+      "endanger",
+      "danger",
+      "angerous",
+      "daring"
+    ]
+  },
+  {
+    "word": "exciting",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing great enthusiasm and eagerness.",
+        "meaning_zh_TW": "令人興奮的",
+        "wrong_meaning_zh_TW": [
+          "無聊的",
+          "乏味的",
+          "平常的"
+        ],
+        "examples": [
+          {
+            "sentence": "The movie was really [exciting] and kept everyone on the edge of their seats.",
+            "translation_zh_TW": "這部電影真的很令人興奮，讓每個人都坐立不安。"
+          },
+          {
+            "sentence": "He finds [exciting] adventures in every new book he reads.",
+            "translation_zh_TW": "他在每本新書中都能找到令人興奮的冒險。"
+          },
+          {
+            "sentence": "Winning the game was an [exciting] moment for the team.",
+            "translation_zh_TW": "贏得比賽對隊伍來說是個令人興奮的時刻。"
+          }
+        ],
+        "synonyms": [
+          "thrilling",
+          "stimulating"
+        ]
+      }
+    ],
+    "confusion": [
+      "excite",
+      "excitement",
+      "executive",
+      "exercise"
+    ]
+  },
+  {
+    "word": "pleasure",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of happy satisfaction and enjoyment.",
+        "meaning_zh_TW": "愉快",
+        "wrong_meaning_zh_TW": [
+          "痛苦",
+          "麻煩",
+          "不安"
+        ],
+        "examples": [
+          {
+            "sentence": "It was a [pleasure] to meet you.",
+            "translation_zh_TW": "見到你很愉快。"
+          },
+          {
+            "sentence": "Reading is a great source of [pleasure].",
+            "translation_zh_TW": "閱讀是一個很好的愉悅來源。"
+          },
+          {
+            "sentence": "They find [pleasure] in helping others.",
+            "translation_zh_TW": "他們在幫助他人中找到快樂。"
+          }
+        ],
+        "synonyms": [
+          "delight",
+          "enjoyment"
+        ]
+      }
+    ],
+    "confusion": [
+      "pleasuer",
+      "pleasur",
+      "pleasuree",
+      "pleas"
+    ]
+  },
+  {
+    "word": "pants",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An outer garment covering the body from the waist to the ankles, with a separate part for each leg.",
+        "meaning_zh_TW": "褲子",
+        "wrong_meaning_zh_TW": [
+          "裙子",
+          "鞋子",
+          "襪子"
+        ],
+        "examples": [
+          {
+            "sentence": "He wore blue [pants] to the party.",
+            "translation_zh_TW": "他穿著藍色褲子去派對"
+          },
+          {
+            "sentence": "These [pants] are very comfortable.",
+            "translation_zh_TW": "這條褲子非常舒適"
+          },
+          {
+            "sentence": "She bought a pair of new [pants] for the trip.",
+            "translation_zh_TW": "她為旅行買了一條新褲子"
+          }
+        ],
+        "synonyms": [
+          "trousers",
+          "slacks"
+        ]
+      }
+    ],
+    "confusion": [
+      "pan",
+      "pant",
+      "paints",
+      "pantsu"
+    ]
+  },
+  {
+    "word": "nurse",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person trained to care for the sick or infirm.",
+        "meaning_zh_TW": "護士",
+        "wrong_meaning_zh_TW": [
+          "醫生",
+          "藥劑師",
+          "病人"
+        ],
+        "examples": [
+          {
+            "sentence": "The [nurse] checked my temperature.",
+            "translation_zh_TW": "護士檢查了我的體溫。"
+          },
+          {
+            "sentence": "She works as a [nurse] in the hospital.",
+            "translation_zh_TW": "她在醫院擔任護士。"
+          },
+          {
+            "sentence": "The [nurse] took care of all the patients.",
+            "translation_zh_TW": "護士照顧了所有病人。"
+          }
+        ],
+        "synonyms": [
+          "caregiver",
+          "healthcare provider"
+        ]
+      }
+    ],
+    "confusion": [
+      "curse",
+      "nurses",
+      "nerve",
+      "nursy"
+    ]
+  },
+  {
+    "word": "quiet",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Making little or no noise.",
+        "meaning_zh_TW": "安靜的",
+        "wrong_meaning_zh_TW": [
+          "嘈雜的",
+          "吵鬧的",
+          "喧鬧的"
+        ],
+        "examples": [
+          {
+            "sentence": "Please be [quiet] during the presentation.",
+            "translation_zh_TW": "在演講期間請保持安靜。"
+          },
+          {
+            "sentence": "The library is a [quiet] place to study.",
+            "translation_zh_TW": "圖書館是一個安靜的學習場所。"
+          },
+          {
+            "sentence": "She enjoys a [quiet] evening at home.",
+            "translation_zh_TW": "她喜歡在家度過安靜的晚上。"
+          }
+        ],
+        "synonyms": [
+          "靜謐的",
+          "沉默的"
+        ]
+      }
+    ],
+    "confusion": [
+      "quietly",
+      "quieter",
+      "qiiet",
+      "quiiet"
+    ]
+  },
+  {
+    "word": "cheese",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A dairy product made from curdled or cultured milk.",
+        "meaning_zh_TW": "起司/乳酪",
+        "wrong_meaning_zh_TW": [
+          "糖果",
+          "披薩",
+          "香腸"
+        ],
+        "examples": [
+          {
+            "sentence": "She loves [cheese] on her pizza.",
+            "translation_zh_TW": "她喜歡在披薩上加起司。"
+          },
+          {
+            "sentence": "[Cheese] is a great source of calcium.",
+            "translation_zh_TW": "起司是鈣的極好來源。"
+          },
+          {
+            "sentence": "He bought some [cheese] for the party.",
+            "translation_zh_TW": "他為派對買了一些起司。"
+          }
+        ],
+        "synonyms": [
+          "dacary product",
+          "fromage"
+        ]
+      }
+    ],
+    "confusion": [
+      "choose",
+      "cheesecloth",
+      "cheesehead",
+      "cheesecake"
+    ]
+  }
+]

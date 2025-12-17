@@ -1,0 +1,750 @@
+[
+  {
+    "word": "married",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Joined in marriage.",
+        "meaning_zh_TW": "結婚的",
+        "wrong_meaning_zh_TW": [
+          "單身",
+          "分居",
+          "未婚"
+        ],
+        "examples": [
+          {
+            "sentence": "They have been [married] for ten years.",
+            "translation_zh_TW": "他們已結婚十年。"
+          },
+          {
+            "sentence": "She feels more secure now that she is [married].",
+            "translation_zh_TW": "她現在感到更安心，因為她已經結婚了。"
+          },
+          {
+            "sentence": "Many people look forward to being [married].",
+            "translation_zh_TW": "許多人期待著結婚。"
+          }
+        ],
+        "synonyms": [
+          "wedded",
+          "spousal"
+        ]
+      }
+    ],
+    "confusion": [
+      "marry",
+      "marryed",
+      "merried",
+      "marrid"
+    ]
+  },
+  {
+    "word": "fail",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be unsuccessful in achieving a goal or desired outcome.",
+        "meaning_zh_TW": "未能成功",
+        "wrong_meaning_zh_TW": [
+          "接受",
+          "開始",
+          "結束"
+        ],
+        "examples": [
+          {
+            "sentence": "If you don't study, you will [fail] the exam.",
+            "translation_zh_TW": "如果你不學習，你會未能通過考試。"
+          },
+          {
+            "sentence": "She didn't want to [fail] her family.",
+            "translation_zh_TW": "她不想讓家人失望。"
+          },
+          {
+            "sentence": "Many companies [fail] because of poor management.",
+            "translation_zh_TW": "許多公司因管理不善而未能成功。"
+          }
+        ],
+        "synonyms": [
+          "fall short",
+          "be unsuccessful"
+        ]
+      }
+    ],
+    "confusion": [
+      "sale",
+      "tale",
+      "pail",
+      "faild"
+    ]
+  },
+  {
+    "word": "doc",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A colloquial term for a doctor or medical professional.",
+        "meaning_zh_TW": "醫生",
+        "wrong_meaning_zh_TW": [
+          "律師",
+          "護士",
+          "藥劑師"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to see the [doc] for a check-up.",
+            "translation_zh_TW": "我需要去看醫生檢查。"
+          },
+          {
+            "sentence": "The [doc] gave me some good advice.",
+            "translation_zh_TW": "醫生給了我一些好建議。"
+          },
+          {
+            "sentence": "My friend is studying to become a [doc].",
+            "translation_zh_TW": "我的朋友在學習成為醫生。"
+          }
+        ],
+        "synonyms": [
+          "doctor",
+          "physician"
+        ]
+      }
+    ],
+    "confusion": [
+      "dock",
+      "docs",
+      "dockyard",
+      "dox"
+    ]
+  },
+  {
+    "word": "finish",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To bring something to an end or to complete it.",
+        "meaning_zh_TW": "完成",
+        "wrong_meaning_zh_TW": [
+          "開始",
+          "中斷",
+          "重複"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [finish] your homework before dinner.",
+            "translation_zh_TW": "請在晚餐前完成你的作業。"
+          },
+          {
+            "sentence": "I will [finish] this project by Friday.",
+            "translation_zh_TW": "我將在週五之前完成這個項目。"
+          },
+          {
+            "sentence": "Did you [finish] reading that book?",
+            "translation_zh_TW": "你讀完那本書了嗎？"
+          }
+        ],
+        "synonyms": [
+          "complete",
+          "conclude"
+        ]
+      }
+    ],
+    "confusion": [
+      "finch",
+      "finishers",
+      "finn",
+      "fishing"
+    ]
+  },
+  {
+    "word": "row",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A linear arrangement of objects or people.",
+        "meaning_zh_TW": "排、行",
+        "wrong_meaning_zh_TW": [
+          "圓",
+          "塊",
+          "角"
+        ],
+        "examples": [
+          {
+            "sentence": "She sat in the front [row] of the classroom.",
+            "translation_zh_TW": "她坐在教室的前排。"
+          },
+          {
+            "sentence": "There is a [row] of chairs along the wall.",
+            "translation_zh_TW": "牆邊有一排椅子。"
+          },
+          {
+            "sentence": "He planted a [row] of flowers in the garden.",
+            "translation_zh_TW": "他在花園裡種了一排花。"
+          }
+        ],
+        "synonyms": [
+          "line",
+          "series"
+        ]
+      }
+    ],
+    "confusion": [
+      "grow",
+      "rowe",
+      "roe",
+      "rau"
+    ]
+  },
+  {
+    "word": "rise",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move from a lower position to a higher one.",
+        "meaning_zh_TW": "上升、增加",
+        "wrong_meaning_zh_TW": [
+          "下降",
+          "移動",
+          "減少"
+        ],
+        "examples": [
+          {
+            "sentence": "The sun will [rise] at six in the morning.",
+            "translation_zh_TW": "太陽將在早上六點升起。"
+          },
+          {
+            "sentence": "Interest rates are expected to [rise] this year.",
+            "translation_zh_TW": "今年利率預計會上升。"
+          },
+          {
+            "sentence": "She hopes to [rise] to a higher position in her job.",
+            "translation_zh_TW": "她希望在工作中晉升到更高的位置。"
+          }
+        ],
+        "synonyms": [
+          "ascend",
+          "increase"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "An upward movement or increase.",
+        "meaning_zh_TW": "上升、增長",
+        "wrong_meaning_zh_TW": [
+          "下降",
+          "減少",
+          "降低"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a significant [rise] in temperature.",
+            "translation_zh_TW": "氣溫明顯上升。"
+          },
+          {
+            "sentence": "The [rise] in prices surprised everyone.",
+            "translation_zh_TW": "價格的上升讓每個人都感到驚訝。"
+          },
+          {
+            "sentence": "He experienced a rapid [rise] in fame.",
+            "translation_zh_TW": "他經歷了名氣的迅速上升。"
+          }
+        ],
+        "synonyms": [
+          "increase",
+          "ascent"
+        ]
+      }
+    ],
+    "confusion": [
+      "rice",
+      "wise",
+      "riseup",
+      "riser"
+    ]
+  },
+  {
+    "word": "sleep",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To be in a state of rest, where consciousness is suspended.",
+        "meaning_zh_TW": "睡眠、休息",
+        "wrong_meaning_zh_TW": [
+          "清醒、活躍",
+          "工作、忙碌",
+          "焦慮、緊張"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [sleep] for at least eight hours.",
+            "translation_zh_TW": "我需要至少睡八個小時。"
+          },
+          {
+            "sentence": "She couldn't [sleep] because of the noise outside.",
+            "translation_zh_TW": "她因為外面的噪音而無法入睡。"
+          },
+          {
+            "sentence": "He will [sleep] better after a long day.",
+            "translation_zh_TW": "經過漫長的一天後，他會睡得更好。"
+          }
+        ],
+        "synonyms": [
+          "rest",
+          "slumber",
+          "nap"
+        ]
+      }
+    ],
+    "confusion": [
+      "sleap",
+      "slip",
+      "sleek",
+      "slep"
+    ]
+  },
+  {
+    "word": "bird",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A warm-blooded egg-laying vertebrate with wings and feathers.",
+        "meaning_zh_TW": "鳥",
+        "wrong_meaning_zh_TW": [
+          "昆蟲",
+          "爬行動物",
+          "哺乳類"
+        ],
+        "examples": [
+          {
+            "sentence": "A [bird] was singing in the early morning.",
+            "translation_zh_TW": "一隻鳥在清晨唱歌。"
+          },
+          {
+            "sentence": "We saw a colorful [bird] in the tree.",
+            "translation_zh_TW": "我們在樹上看到了一隻色彩斑斕的鳥。"
+          },
+          {
+            "sentence": "The [birds] flew south for the winter.",
+            "translation_zh_TW": "這些鳥在冬天往南飛。"
+          }
+        ],
+        "synonyms": [
+          "avian",
+          "fowl"
+        ]
+      }
+    ],
+    "confusion": [
+      "birrd",
+      "burg",
+      "bierd",
+      "birt"
+    ]
+  },
+  {
+    "word": "famous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Known about by many people.",
+        "meaning_zh_TW": "著名的",
+        "wrong_meaning_zh_TW": [
+          "無名的",
+          "少見的",
+          "隱藏的"
+        ],
+        "examples": [
+          {
+            "sentence": "The artist is [famous] for her unique style.",
+            "translation_zh_TW": "這位藝術家因其獨特的風格而著名"
+          },
+          {
+            "sentence": "He became [famous] after his performance.",
+            "translation_zh_TW": "他在表演後變得著名"
+          },
+          {
+            "sentence": "This restaurant is [famous] for its delicious food.",
+            "translation_zh_TW": "這家餐廳以其美味的食物而著名"
+          }
+        ],
+        "synonyms": [
+          "well-known",
+          "renowned"
+        ]
+      }
+    ],
+    "confusion": [
+      "famouse",
+      "fames",
+      "famousness",
+      "famou"
+    ]
+  },
+  {
+    "word": "drink",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To take a liquid into the mouth and swallow it.",
+        "meaning_zh_TW": "喝",
+        "wrong_meaning_zh_TW": [
+          "嗓音",
+          "泌尿",
+          "湧流"
+        ],
+        "examples": [
+          {
+            "sentence": "She likes to [drink] water after exercising.",
+            "translation_zh_TW": "她喜歡運動後喝水。"
+          },
+          {
+            "sentence": "Can I [drink] some coffee?",
+            "translation_zh_TW": "我可以喝點咖啡嗎？"
+          },
+          {
+            "sentence": "He forgot to [drink] his medication.",
+            "translation_zh_TW": "他忘了喝他的藥。"
+          }
+        ],
+        "synonyms": [
+          "sip",
+          "consume"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A liquid that is taken for consumption.",
+        "meaning_zh_TW": "飲料",
+        "wrong_meaning_zh_TW": [
+          "果汁",
+          "湯",
+          "酒精"
+        ],
+        "examples": [
+          {
+            "sentence": "I prefer to have a cold [drink] on a hot day.",
+            "translation_zh_TW": "炎熱的日子我喜歡喝冷飲。"
+          },
+          {
+            "sentence": "He ordered a [drink] from the menu.",
+            "translation_zh_TW": "他從菜單上點了一杯飲料。"
+          },
+          {
+            "sentence": "Could you pass me that [drink]?",
+            "translation_zh_TW": "你可以把那杯飲料遞給我嗎？"
+          }
+        ],
+        "synonyms": [
+          "beverage",
+          "refreshment"
+        ]
+      }
+    ],
+    "confusion": [
+      "drunk",
+      "drinker",
+      "drinking",
+      "rink"
+    ]
+  },
+  {
+    "word": "eat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To consume food by taking it into the mouth and swallowing it.",
+        "meaning_zh_TW": "吃",
+        "wrong_meaning_zh_TW": [
+          "喝水",
+          "吃藥",
+          "跳舞"
+        ],
+        "examples": [
+          {
+            "sentence": "I like to [eat] pizza on Fridays.",
+            "translation_zh_TW": "我喜歡在星期五吃比薩。"
+          },
+          {
+            "sentence": "She doesn't [eat] meat.",
+            "translation_zh_TW": "她不吃肉。"
+          },
+          {
+            "sentence": "We should [eat] before the movie starts.",
+            "translation_zh_TW": "我們應該在電影開始前吃。"
+          }
+        ],
+        "synonyms": [
+          "consume",
+          "devour"
+        ]
+      }
+    ],
+    "confusion": [
+      "eatery",
+      "ate",
+      "eater",
+      "eaten"
+    ]
+  },
+  {
+    "word": "seat",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A place used for sitting, such as a chair or bench.",
+        "meaning_zh_TW": "座位",
+        "wrong_meaning_zh_TW": [
+          "桌子",
+          "咖啡",
+          "床鋪"
+        ],
+        "examples": [
+          {
+            "sentence": "Please find a [seat] and make yourself comfortable.",
+            "translation_zh_TW": "請找個座位，讓自己舒適些"
+          },
+          {
+            "sentence": "The bus has limited [seats] available.",
+            "translation_zh_TW": "這班公車座位有限"
+          },
+          {
+            "sentence": "He reserved the best [seat] in the theater.",
+            "translation_zh_TW": "他在電影院預訂了最好的座位"
+          }
+        ],
+        "synonyms": [
+          "chair",
+          "place"
+        ]
+      }
+    ],
+    "confusion": [
+      "seet",
+      "sate",
+      "set",
+      "seatbelt"
+    ]
+  },
+  {
+    "word": "tip",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The pointed or rounded end of something; a piece of advice or suggestion.",
+        "meaning_zh_TW": "尖端、建議",
+        "wrong_meaning_zh_TW": [
+          "底部",
+          "主題",
+          "問題"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave me a great [tip] about saving money.",
+            "translation_zh_TW": "她給了我一個關於省錢的好建議。"
+          },
+          {
+            "sentence": "Be careful with the [tip] of the knife.",
+            "translation_zh_TW": "小心刀的尖端。"
+          },
+          {
+            "sentence": "The [tip] of the iceberg is just a small part of the whole.",
+            "translation_zh_TW": "冰山的尖端只是整個冰山的一小部分。"
+          }
+        ],
+        "synonyms": [
+          "advice",
+          "suggestion"
+        ]
+      }
+    ],
+    "confusion": [
+      "tap",
+      "tiptoe",
+      "tipper",
+      "tipped"
+    ]
+  },
+  {
+    "word": "mine",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of excavation in the earth from which minerals and other substances are extracted.",
+        "meaning_zh_TW": "礦山",
+        "wrong_meaning_zh_TW": [
+          "耳機",
+          "咖啡店",
+          "遊樂場"
+        ],
+        "examples": [
+          {
+            "sentence": "The workers descended into the [mine] to extract coal.",
+            "translation_zh_TW": "工人們下到礦山提取煤炭。"
+          },
+          {
+            "sentence": "They discovered a rich [mine] of precious stones.",
+            "translation_zh_TW": "他們發現了一個富含珍貴寶石的礦山。"
+          },
+          {
+            "sentence": "The [mine] was closed due to safety concerns.",
+            "translation_zh_TW": "由於安全問題，這個礦山已經關閉。"
+          }
+        ],
+        "synonyms": [
+          "quarry",
+          "pit"
+        ]
+      }
+    ],
+    "confusion": [
+      "minefield",
+      "minesweeper",
+      "mineral",
+      "minecart"
+    ]
+  },
+  {
+    "word": "ticket",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of paper or card that gives the holder a right to enter a place or event.",
+        "meaning_zh_TW": "票",
+        "wrong_meaning_zh_TW": [
+          "章程",
+          "通知",
+          "證書"
+        ],
+        "examples": [
+          {
+            "sentence": "He bought a concert [ticket] online.",
+            "translation_zh_TW": "他在線上購買了演唱會票"
+          },
+          {
+            "sentence": "Do you have a [ticket] for the movie?",
+            "translation_zh_TW": "你有電影的票嗎？"
+          },
+          {
+            "sentence": "Please show your [ticket] at the entrance.",
+            "translation_zh_TW": "請在入口處出示你的票"
+          }
+        ],
+        "synonyms": [
+          "pass",
+          "voucher"
+        ]
+      }
+    ],
+    "confusion": [
+      "tacket",
+      "tiket",
+      "tickeet",
+      "tickett"
+    ]
+  },
+  {
+    "word": "guess",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To form an opinion or make a judgment about something without sufficient evidence.",
+        "meaning_zh_TW": "猜測",
+        "wrong_meaning_zh_TW": [
+          "確定",
+          "抵抗",
+          "保存"
+        ],
+        "examples": [
+          {
+            "sentence": "I can only [guess] the answer to the riddle.",
+            "translation_zh_TW": "我只會猜謎語的答案。"
+          },
+          {
+            "sentence": "Don't [guess]; let's check the facts.",
+            "translation_zh_TW": "不要猜測；我們來查查事實。"
+          },
+          {
+            "sentence": "Can you [guess] how many candies are in the jar?",
+            "translation_zh_TW": "你能猜出罐子裡有多少糖果嗎？"
+          }
+        ],
+        "synonyms": [
+          "estimate",
+          "infer"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "An estimate or conjecture.",
+        "meaning_zh_TW": "估計，猜測",
+        "wrong_meaning_zh_TW": [
+          "測量",
+          "計算",
+          "指數"
+        ],
+        "examples": [
+          {
+            "sentence": "Take a wild [guess] at the number of stars.",
+            "translation_zh_TW": "對星星的數量隨便猜測一下吧。"
+          },
+          {
+            "sentence": "His [guess] was surprisingly accurate.",
+            "translation_zh_TW": "他的估計出奇地準確。"
+          },
+          {
+            "sentence": "The teacher asked for a [guess] on the math problem.",
+            "translation_zh_TW": "老師要求對數學問題做一個估計。"
+          }
+        ],
+        "synonyms": [
+          "prediction",
+          "estimate"
+        ]
+      }
+    ],
+    "confusion": [
+      "gas",
+      "gaze",
+      "gush",
+      "gusset"
+    ]
+  },
+  {
+    "word": "math",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The abstract science of number, quantity, and space, either as abstract concepts (pure mathematics), or as applied to other disciplines such as physics and engineering.",
+        "meaning_zh_TW": "數學",
+        "wrong_meaning_zh_TW": [
+          "文學",
+          "藝術",
+          "地理"
+        ],
+        "examples": [
+          {
+            "sentence": "She always enjoyed [math] more than any other subject.",
+            "translation_zh_TW": "她一直比任何其他科目更喜歡數學。"
+          },
+          {
+            "sentence": "He decided to pursue a career in [math] and statistics.",
+            "translation_zh_TW": "他決定從事數學和統計學的職業。"
+          },
+          {
+            "sentence": "The teacher explained the [math] problem step by step.",
+            "translation_zh_TW": "老師一步一步地解釋了數學問題。"
+          }
+        ],
+        "synonyms": [
+          "mathematics",
+          "arithmetic"
+        ]
+      }
+    ],
+    "confusion": [
+      "mat",
+      "maths",
+      "mathy",
+      "moth"
+    ]
+  }
+]

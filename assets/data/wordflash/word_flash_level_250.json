@@ -1,0 +1,771 @@
+[
+  {
+    "word": "spacious",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having ample space; large in size.",
+        "meaning_zh_TW": "寬敞的",
+        "wrong_meaning_zh_TW": [
+          "狹窄的",
+          "惡劣的",
+          "擁擠的"
+        ],
+        "examples": [
+          {
+            "sentence": "The hotel room was spacious and comfortable.",
+            "translation_zh_TW": "酒店房間寬敞舒適"
+          },
+          {
+            "sentence": "They moved to a more spacious apartment.",
+            "translation_zh_TW": "他們搬到了更寬敞的公寓"
+          },
+          {
+            "sentence": "The car's interior felt spacious and inviting.",
+            "translation_zh_TW": "車內感覺寬敞而舒適"
+          }
+        ],
+        "synonyms": [
+          "roomy",
+          "ample"
+        ]
+      }
+    ],
+    "confusion": [
+      "spacious",
+      "spaceous",
+      "spacioius",
+      "speacious"
+    ]
+  },
+  {
+    "word": "beloved",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Deeply loved.",
+        "meaning_zh_TW": "深受愛戴的",
+        "wrong_meaning_zh_TW": [
+          "被忽視的",
+          "不受歡迎的",
+          "可替代的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a [beloved] author in the community.",
+            "translation_zh_TW": "她在社區中是一位受人愛戴的作家"
+          },
+          {
+            "sentence": "His [beloved] dog passed away last year.",
+            "translation_zh_TW": "他心愛的狗去年去世了"
+          },
+          {
+            "sentence": "These are his [beloved] possessions.",
+            "translation_zh_TW": "這些是他心愛的物品"
+          }
+        ],
+        "synonyms": [
+          "cherished",
+          "dear"
+        ]
+      }
+    ],
+    "confusion": [
+      "belowed",
+      "belove",
+      "bevolved",
+      "belovedly"
+    ]
+  },
+  {
+    "word": "whatsoever",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used for emphasis, meaning 'at all'.",
+        "meaning_zh_TW": "無論什麼",
+        "wrong_meaning_zh_TW": [
+          "隨隨便便",
+          "任何東西",
+          "一點點"
+        ],
+        "examples": [
+          {
+            "sentence": "I don't have any money [whatsoever].",
+            "translation_zh_TW": "我一點錢都沒有。"
+          },
+          {
+            "sentence": "There was no help [whatsoever] available.",
+            "translation_zh_TW": "根本沒有任何幫助。"
+          },
+          {
+            "sentence": "She felt no sadness [whatsoever].",
+            "translation_zh_TW": "她完全沒有感到悲傷。"
+          }
+        ],
+        "synonyms": [
+          "at all",
+          "in any way"
+        ]
+      }
+    ],
+    "confusion": [
+      "whatever",
+      "whosoever",
+      "whenever",
+      "whichever"
+    ]
+  },
+  {
+    "word": "alongside",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Next to; together with.",
+        "meaning_zh_TW": "在旁邊，與...一起",
+        "wrong_meaning_zh_TW": [
+          "遙遠地",
+          "面對面",
+          "獨自一人"
+        ],
+        "examples": [
+          {
+            "sentence": "The boat floated [alongside] the dock.",
+            "translation_zh_TW": "船漂浮在碼頭旁邊。"
+          },
+          {
+            "sentence": "She worked [alongside] her mentor to develop her skills.",
+            "translation_zh_TW": "她在導師的指導下工作以提升自己的技能。"
+          },
+          {
+            "sentence": "We will be [alongside] you in this effort.",
+            "translation_zh_TW": "我們會在這項努力中與你並肩作戰。"
+          }
+        ],
+        "synonyms": [
+          "beside",
+          "next to"
+        ]
+      }
+    ],
+    "confusion": [
+      "alongside",
+      "along site",
+      "alongsides",
+      "longside"
+    ]
+  },
+  {
+    "word": "trophy",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A prize awarded for a victory or achievement.",
+        "meaning_zh_TW": "獎杯",
+        "wrong_meaning_zh_TW": [
+          "紀念品",
+          "印刷品",
+          "獎狀"
+        ],
+        "examples": [
+          {
+            "sentence": "She proudly displayed her [trophy] on the shelf.",
+            "translation_zh_TW": "她自豪地將獎杯放在架子上。"
+          },
+          {
+            "sentence": "Winning this [trophy] means a lot to the team.",
+            "translation_zh_TW": "贏得這個獎杯對團隊來說意義重大。"
+          },
+          {
+            "sentence": "He received the [trophy] after the competition.",
+            "translation_zh_TW": "他在比賽後獲得了獎杯。"
+          }
+        ],
+        "synonyms": [
+          "award",
+          "prize"
+        ]
+      }
+    ],
+    "confusion": [
+      "trophee",
+      "trojan",
+      "troppi",
+      "trophy's"
+    ]
+  },
+  {
+    "word": "prejudice",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Preconceived opinion that is not based on reason or actual experience.",
+        "meaning_zh_TW": "偏見",
+        "wrong_meaning_zh_TW": [
+          "知識",
+          "事實",
+          "經驗"
+        ],
+        "examples": [
+          {
+            "sentence": "He overcame his [prejudice] against unfamiliar cultures.",
+            "translation_zh_TW": "他克服了對不熟悉文化的偏見。"
+          },
+          {
+            "sentence": "The film addresses issues of race and [prejudice].",
+            "translation_zh_TW": "這部電影討論了種族和偏見的問題。"
+          },
+          {
+            "sentence": "Education can help reduce [prejudice] in society.",
+            "translation_zh_TW": "教育可以幫助減少社會中的偏見。"
+          }
+        ],
+        "synonyms": [
+          "bias",
+          "preconception"
+        ]
+      }
+    ],
+    "confusion": [
+      "prejudic",
+      "prejudiced",
+      "prejuidice",
+      "predjudice"
+    ]
+  },
+  {
+    "word": "counselor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person trained to give guidance on personal, social, or psychological issues.",
+        "meaning_zh_TW": "顧問、輔導員",
+        "wrong_meaning_zh_TW": [
+          "導演、監製",
+          "公司經理",
+          "公眾發言"
+        ],
+        "examples": [
+          {
+            "sentence": "The school [counselor] helps students with their issues.",
+            "translation_zh_TW": "學校的顧問幫助學生處理他們的問題。"
+          },
+          {
+            "sentence": "He works as a career [counselor] for recent graduates.",
+            "translation_zh_TW": "他作為最近畢業生的職業顧問工作。"
+          },
+          {
+            "sentence": "Seeking a [counselor] can be a wise decision.",
+            "translation_zh_TW": "尋求顧問的幫助可能是明智的決定。"
+          }
+        ],
+        "synonyms": [
+          "advisor",
+          "therapist"
+        ]
+      }
+    ],
+    "confusion": [
+      "counsel",
+      "consultant",
+      "counseling",
+      "counselour"
+    ]
+  },
+  {
+    "word": "idiot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A foolish or stupid person.",
+        "meaning_zh_TW": "白癡",
+        "wrong_meaning_zh_TW": [
+          "天才",
+          "英雄",
+          "普通人"
+        ],
+        "examples": [
+          {
+            "sentence": "Don't be such an [idiot]; think before you act.",
+            "translation_zh_TW": "別這麼白癡，行動前先想一想。"
+          },
+          {
+            "sentence": "He felt like an [idiot] for forgetting the meeting.",
+            "translation_zh_TW": "他因為忘記會議而感到像個白癡。"
+          },
+          {
+            "sentence": "Calling someone an [idiot] rarely solves the problem.",
+            "translation_zh_TW": "稱某人為白癡通常無法解決問題。"
+          }
+        ],
+        "synonyms": [
+          "fool",
+          "simpleton"
+        ]
+      }
+    ],
+    "confusion": [
+      "idiocy",
+      "idiosyncrasy",
+      "idyllic",
+      "idiotic"
+    ]
+  },
+  {
+    "word": "symbolic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Serving as a symbol.",
+        "meaning_zh_TW": "象徵的",
+        "wrong_meaning_zh_TW": [
+          "具體的",
+          "物質的",
+          "可見的"
+        ],
+        "examples": [
+          {
+            "sentence": "The dove is [symbolic] of peace.",
+            "translation_zh_TW": "鴿子是和平的象徵"
+          },
+          {
+            "sentence": "Her gesture was [symbolic] of friendship.",
+            "translation_zh_TW": "她的手勢象徵著友誼"
+          },
+          {
+            "sentence": "The statue stands as a [symbolic] representation of freedom.",
+            "translation_zh_TW": "這座雕像象徵著自由"
+          }
+        ],
+        "synonyms": [
+          "representative",
+          "figurative"
+        ]
+      }
+    ],
+    "confusion": [
+      "symbolism",
+      "symptomatic",
+      "symbolize",
+      "symbiotic"
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A biological community of interacting organisms and their physical environment.",
+        "meaning_zh_TW": "生態系統",
+        "wrong_meaning_zh_TW": [
+          "經濟體系",
+          "制度",
+          "環境"
+        ],
+        "examples": [
+          {
+            "sentence": "The forest is a complex [ecosystem] that supports diverse species.",
+            "translation_zh_TW": "這片森林是一個複雜的生態系統，支持著多樣的物種。"
+          },
+          {
+            "sentence": "Climate change can disrupt the balance of an [ecosystem].",
+            "translation_zh_TW": "氣候變化可能會打亂生態系統的平衡。"
+          },
+          {
+            "sentence": "Researchers study various [ecosystems] to understand their dynamics.",
+            "translation_zh_TW": "研究人員研究不同的生態系統，以理解它們的動態。"
+          }
+        ],
+        "synonyms": [
+          "biome",
+          "ecological community"
+        ]
+      }
+    ],
+    "confusion": [
+      "ecosystems",
+      "ecosystems",
+      "eclipse",
+      "economics"
+    ]
+  },
+  {
+    "word": "corridor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long passage in a building from which doors lead into rooms.",
+        "meaning_zh_TW": "走廊",
+        "wrong_meaning_zh_TW": [
+          "通道",
+          "入口",
+          "房間"
+        ],
+        "examples": [
+          {
+            "sentence": "The meeting room is down the [corridor].",
+            "translation_zh_TW": "會議室在走廊的盡頭。"
+          },
+          {
+            "sentence": "She walked quietly along the [corridor].",
+            "translation_zh_TW": "她沿著走廊靜靜地走過。"
+          },
+          {
+            "sentence": "They waited in the [corridor] before entering.",
+            "translation_zh_TW": "他們在走廊裡等候進入。"
+          }
+        ],
+        "synonyms": [
+          "hallway",
+          "passage"
+        ]
+      }
+    ],
+    "confusion": [
+      "coroner",
+      "cordial",
+      "color",
+      "cord"
+    ]
+  },
+  {
+    "word": "inherent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Existing in something as a permanent and inseparable element, quality, or attribute.",
+        "meaning_zh_TW": "固有的",
+        "wrong_meaning_zh_TW": [
+          "外在的",
+          "可變的",
+          "無關的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has an [inherent] talent for music.",
+            "translation_zh_TW": "她有固有的音樂天賦"
+          },
+          {
+            "sentence": "The risk is [inherent] in any investment.",
+            "translation_zh_TW": "風險在任何投資中都是固有的"
+          },
+          {
+            "sentence": "Trust is an [inherent] aspect of relationships.",
+            "translation_zh_TW": "信任是關係中固有的方面"
+          }
+        ],
+        "synonyms": [
+          "intrinsic",
+          "essential"
+        ]
+      }
+    ],
+    "confusion": [
+      "insecure",
+      "inhabit",
+      "inherit",
+      "inhale"
+    ]
+  },
+  {
+    "word": "backyard",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An area of land at the back of a house.",
+        "meaning_zh_TW": "後院",
+        "wrong_meaning_zh_TW": [
+          "前院",
+          "陽台",
+          "車庫"
+        ],
+        "examples": [
+          {
+            "sentence": "The kids played in the [backyard] all afternoon.",
+            "translation_zh_TW": "孩子們整個下午都在後院玩耍。"
+          },
+          {
+            "sentence": "She planted flowers in her [backyard].",
+            "translation_zh_TW": "她在後院種了花。"
+          },
+          {
+            "sentence": "They set up a barbecue in the [backyard].",
+            "translation_zh_TW": "他們在後院搭起了燒烤架。"
+          }
+        ],
+        "synonyms": [
+          "garden",
+          "yard"
+        ]
+      }
+    ],
+    "confusion": [
+      "backwards",
+      "backing",
+      "backache",
+      "backyarder"
+    ]
+  },
+  {
+    "word": "saddle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A seat fastened on an animal's back.",
+        "meaning_zh_TW": "馬鞍",
+        "wrong_meaning_zh_TW": [
+          "背包",
+          "拖車",
+          "船"
+        ],
+        "examples": [
+          {
+            "sentence": "He mounted his horse and adjusted the [saddle].",
+            "translation_zh_TW": "他騎上馬並調整了馬鞍"
+          },
+          {
+            "sentence": "The [saddle] was made of leather.",
+            "translation_zh_TW": "這個馬鞍是用皮製成的"
+          },
+          {
+            "sentence": "She learned how to care for her horse’s [saddle].",
+            "translation_zh_TW": "她學會了如何照顧她馬的馬鞍"
+          }
+        ],
+        "synonyms": [
+          "seat",
+          "harness"
+        ]
+      }
+    ],
+    "confusion": [
+      "siddles",
+      "sow",
+      "saddlebag",
+      "settle"
+    ]
+  },
+  {
+    "word": "guideline",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A general rule, principle, or piece of advice.",
+        "meaning_zh_TW": "指導方針，準則",
+        "wrong_meaning_zh_TW": [
+          "指南針",
+          "日曆",
+          "指南手冊"
+        ],
+        "examples": [
+          {
+            "sentence": "Please follow the [guideline] to ensure safety.",
+            "translation_zh_TW": "請遵循指導方針以確保安全。"
+          },
+          {
+            "sentence": "The project has specific [guidelines] for conduct.",
+            "translation_zh_TW": "該項目對行為有具體的準則。"
+          },
+          {
+            "sentence": "These [guidelines] help streamline the process.",
+            "translation_zh_TW": "這些指導方針有助於簡化過程。"
+          }
+        ],
+        "synonyms": [
+          "rule",
+          "instruction"
+        ]
+      }
+    ],
+    "confusion": [
+      "guid",
+      "guilder",
+      "glide",
+      "glideway"
+    ]
+  },
+  {
+    "word": "embrace",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To hold (someone) closely in one's arms, especially as a sign of affection.",
+        "meaning_zh_TW": "擁抱",
+        "wrong_meaning_zh_TW": [
+          "推開",
+          "拒絕",
+          "逃避"
+        ],
+        "examples": [
+          {
+            "sentence": "They hugged in a warm [embrace] after a long separation.",
+            "translation_zh_TW": "在長時間的分離後，他們暖暖地擁抱在一起"
+          },
+          {
+            "sentence": "It's important to [embrace] change for personal growth.",
+            "translation_zh_TW": "擁抱變化對個人成長很重要"
+          },
+          {
+            "sentence": "I could feel her [embrace] was sincere.",
+            "translation_zh_TW": "我能感受到她的擁抱是誠摯的"
+          }
+        ],
+        "synonyms": [
+          "hug",
+          "enfold"
+        ]
+      }
+    ],
+    "confusion": [
+      "embracer",
+      "diffuse",
+      "embraceable",
+      "embracing"
+    ]
+  },
+  {
+    "word": "initiate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause (a process or action) to begin.",
+        "meaning_zh_TW": "啟動",
+        "wrong_meaning_zh_TW": [
+          "結束",
+          "延遲",
+          "否決"
+        ],
+        "examples": [
+          {
+            "sentence": "They plan to [initiate] the project next month.",
+            "translation_zh_TW": "他們計劃下個月啟動這個項目"
+          },
+          {
+            "sentence": "You need to [initiate] the discussion to address the issue.",
+            "translation_zh_TW": "你需要啟動討論以解決這個問題"
+          },
+          {
+            "sentence": "The program will [initiate] after all approvals are secured.",
+            "translation_zh_TW": "該計劃在所有批准獲得後將啟動"
+          }
+        ],
+        "synonyms": [
+          "commence",
+          "begin"
+        ]
+      }
+    ],
+    "confusion": [
+      "illustrate",
+      "investigate",
+      "insinuate",
+      "innovate"
+    ]
+  },
+  {
+    "word": "skull",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The bony structure enclosing the brain.",
+        "meaning_zh_TW": "頭骨",
+        "wrong_meaning_zh_TW": [
+          "顱骨",
+          "面具",
+          "骨頭"
+        ],
+        "examples": [
+          {
+            "sentence": "The [skull] protects the brain from injury.",
+            "translation_zh_TW": "頭骨保護大腦免受傷害"
+          },
+          {
+            "sentence": "Anthropologists study ancient [skulls] to learn about past cultures.",
+            "translation_zh_TW": "人類學家研究古代頭骨以了解過去的文化"
+          },
+          {
+            "sentence": "A cracked [skull] can lead to serious health issues.",
+            "translation_zh_TW": "頭骨破裂可能導致嚴重的健康問題"
+          }
+        ],
+        "synonyms": [
+          "cranium",
+          "head"
+        ]
+      }
+    ],
+    "confusion": [
+      "skul",
+      "skulls",
+      "skulll",
+      "skel"
+    ]
+  },
+  {
+    "word": "tick",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small bloodsucking arachnid that attaches to the skin of humans and animals.",
+        "meaning_zh_TW": "蜱蟲",
+        "wrong_meaning_zh_TW": [
+          "鐘擺",
+          "小物件",
+          "快速移動"
+        ],
+        "examples": [
+          {
+            "sentence": "I found a [tick] on my dog's fur.",
+            "translation_zh_TW": "我在我狗的毛上找到一隻蜱蟲。"
+          },
+          {
+            "sentence": "Be careful of [ticks] when hiking in grassy areas.",
+            "translation_zh_TW": "在草地區域徒步旅行時要小心蜱蟲。"
+          },
+          {
+            "sentence": "A [tick] will feed on blood for several days.",
+            "translation_zh_TW": "蜱蟲會吸食幾天的血液。"
+          }
+        ],
+        "synonyms": [
+          "parasite",
+          "ectoparasite"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a ticking sound or mark time in regular intervals.",
+        "meaning_zh_TW": "發出滴答聲",
+        "wrong_meaning_zh_TW": [
+          "拍打",
+          "快速旋轉",
+          "鬧鈴"
+        ],
+        "examples": [
+          {
+            "sentence": "The clock [ticks] quietly in the corner.",
+            "translation_zh_TW": "時鐘在角落裡靜靜地滴答作響。"
+          },
+          {
+            "sentence": "He can hear the [ticks] of the watch from across the room.",
+            "translation_zh_TW": "他能聽到房間另一邊手錶的滴答聲。"
+          },
+          {
+            "sentence": "The heart [ticks] steadily during the exam.",
+            "translation_zh_TW": "在考試期間，心臟穩定地跳動。"
+          }
+        ],
+        "synonyms": [
+          "sound",
+          "beat"
+        ]
+      }
+    ],
+    "confusion": [
+      "tickle",
+      "click",
+      "tock",
+      "tickler"
+    ]
+  }
+]

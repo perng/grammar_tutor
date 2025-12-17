@@ -1,0 +1,782 @@
+[
+  {
+    "word": "hail",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To call out to someone to attract attention.",
+        "meaning_zh_TW": "呼喊",
+        "wrong_meaning_zh_TW": [
+          "尋找",
+          "騎馬展現",
+          "嬉戲"
+        ],
+        "examples": [
+          {
+            "sentence": "He [hailed] a taxi on the street.",
+            "translation_zh_TW": "他在街上呼喊計程車。"
+          },
+          {
+            "sentence": "The crowd [hailed] the winner of the race.",
+            "translation_zh_TW": "人群歡呼比賽的獲勝者。"
+          },
+          {
+            "sentence": "They [hailed] each other from across the park.",
+            "translation_zh_TW": "他們在公園對面互相呼喊。"
+          }
+        ],
+        "synonyms": [
+          "call",
+          "greet"
+        ]
+      }
+    ],
+    "confusion": [
+      "hale",
+      "tail",
+      "sale",
+      "fail"
+    ]
+  },
+  {
+    "word": "glitter",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To shine with a bright, shimmering, reflected light.",
+        "meaning_zh_TW": "閃閃發光",
+        "wrong_meaning_zh_TW": [
+          "陳舊",
+          "消失",
+          "平淡"
+        ],
+        "examples": [
+          {
+            "sentence": "The stars [glitter] in the night sky.",
+            "translation_zh_TW": "星星在夜空中閃閃發光。"
+          },
+          {
+            "sentence": "Her dress [glittered] under the lights.",
+            "translation_zh_TW": "她的裙子在燈光下閃閃發光。"
+          },
+          {
+            "sentence": "The snow [glitters] like diamonds.",
+            "translation_zh_TW": "雪花像鑽石一樣閃閃發光。"
+          }
+        ],
+        "synonyms": [
+          "sparkle",
+          "shine"
+        ]
+      }
+    ],
+    "confusion": [
+      "gliter",
+      "glittar",
+      "glittr",
+      "glit"
+    ]
+  },
+  {
+    "word": "awhile",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "For a short time.",
+        "meaning_zh_TW": "片刻",
+        "wrong_meaning_zh_TW": [
+          "一整天",
+          "幾個小時",
+          "經常"
+        ],
+        "examples": [
+          {
+            "sentence": "Please sit down and relax for [awhile].",
+            "translation_zh_TW": "請坐下來放鬆片刻。"
+          },
+          {
+            "sentence": "I will wait here for [awhile].",
+            "translation_zh_TW": "我會在這裡等片刻。"
+          },
+          {
+            "sentence": "You should take a break [awhile].",
+            "translation_zh_TW": "你應該休息片刻。"
+          }
+        ],
+        "synonyms": [
+          "momentarily",
+          "briefly"
+        ]
+      }
+    ],
+    "confusion": [
+      "a while",
+      "awile",
+      "awhail",
+      "awehile"
+    ]
+  },
+  {
+    "word": "persistence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of continuing steadily despite problems or difficulties.",
+        "meaning_zh_TW": "持續性",
+        "wrong_meaning_zh_TW": [
+          "消失",
+          "中斷",
+          "輕視"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [persistence] eventually led to success.",
+            "translation_zh_TW": "她的持續性最終導致了成功。"
+          },
+          {
+            "sentence": "Persistence is key to overcoming challenges.",
+            "translation_zh_TW": "持續性是克服挑戰的關鍵。"
+          },
+          {
+            "sentence": "His [persistence] impressed everyone.",
+            "translation_zh_TW": "他的持續性讓每個人都印象深刻。"
+          }
+        ],
+        "synonyms": [
+          "determination",
+          "tenacity"
+        ]
+      }
+    ],
+    "confusion": [
+      "persistent",
+      "persistence",
+      "pretense",
+      "presents"
+    ]
+  },
+  {
+    "word": "liter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A metric unit of capacity equal to 1,000 cubic centimeters.",
+        "meaning_zh_TW": "公升",
+        "wrong_meaning_zh_TW": [
+          "毫升",
+          "加侖",
+          "立方米"
+        ],
+        "examples": [
+          {
+            "sentence": "The recipe requires three [liters] of water.",
+            "translation_zh_TW": "這個食譜需要三公升的水。"
+          },
+          {
+            "sentence": "She bought a [liter] of milk from the store.",
+            "translation_zh_TW": "她從商店買了一公升的牛奶。"
+          },
+          {
+            "sentence": "He drank two [liters] of soda during the party.",
+            "translation_zh_TW": "在派對上，他喝了兩公升的汽水。"
+          }
+        ],
+        "synonyms": [
+          "quart",
+          "gallon"
+        ]
+      }
+    ],
+    "confusion": [
+      "liters",
+      "literature",
+      "litre",
+      "litter"
+    ]
+  },
+  {
+    "word": "orient",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To align or position something relative to a known point or landmark.",
+        "meaning_zh_TW": "定位",
+        "wrong_meaning_zh_TW": [
+          "迷失方向",
+          "不知所措",
+          "隨機"
+        ],
+        "examples": [
+          {
+            "sentence": "It’s important to [orient] yourself before starting the hike.",
+            "translation_zh_TW": "在開始遠足之前，定位自己是很重要的。"
+          },
+          {
+            "sentence": "He used the stars to [orient] himself at night.",
+            "translation_zh_TW": "他在晚上用星星來定位自己。"
+          },
+          {
+            "sentence": "The map helped the travelers to [orient] themselves in the new city.",
+            "translation_zh_TW": "地圖幫助旅行者在新城市里定位自己。"
+          }
+        ],
+        "synonyms": [
+          "align",
+          "position"
+        ]
+      }
+    ],
+    "confusion": [
+      "origin",
+      "ornate",
+      "oriental",
+      "oriented"
+    ]
+  },
+  {
+    "word": "successive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Following one another; consecutive.",
+        "meaning_zh_TW": "連續的",
+        "wrong_meaning_zh_TW": [
+          "間斷的",
+          "隨機的",
+          "分開的"
+        ],
+        "examples": [
+          {
+            "sentence": "The team won three [successive] championships.",
+            "translation_zh_TW": "這支球隊贏得了三個連續的冠軍。"
+          },
+          {
+            "sentence": "They faced [successive] challenges during the project.",
+            "translation_zh_TW": "在這個項目中，他們面臨了連續的挑戰。"
+          },
+          {
+            "sentence": "Her [successive] promotions amazed her colleagues.",
+            "translation_zh_TW": "她的連續晉升令同事們感到驚訝。"
+          }
+        ],
+        "synonyms": [
+          "consecutive",
+          "sequential"
+        ]
+      }
+    ],
+    "confusion": [
+      "success",
+      "succeeding",
+      "successed",
+      "succeeds"
+    ]
+  },
+  {
+    "word": "fracture",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A break or crack in a hard object or material.",
+        "meaning_zh_TW": "骨折",
+        "wrong_meaning_zh_TW": [
+          "修復",
+          "合成",
+          "斷裂"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor confirmed a [fracture] in his arm.",
+            "translation_zh_TW": "醫生確認了他手臂的骨折。"
+          },
+          {
+            "sentence": "A [fracture] to the glass can weaken its structure.",
+            "translation_zh_TW": "玻璃上的斷裂會削弱其結構。"
+          },
+          {
+            "sentence": "After the fall, she was treated for a [fracture].",
+            "translation_zh_TW": "跌倒後，她接受了骨折治療。"
+          }
+        ],
+        "synonyms": [
+          "break",
+          "crack"
+        ]
+      }
+    ],
+    "confusion": [
+      "fractured",
+      "fracturing",
+      "fractor",
+      "fratrure"
+    ]
+  },
+  {
+    "word": "endurance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The ability to endure an unpleasant or difficult process or situation without giving way.",
+        "meaning_zh_TW": "耐力",
+        "wrong_meaning_zh_TW": [
+          "持久性",
+          "速度",
+          "強度"
+        ],
+        "examples": [
+          {
+            "sentence": "Athletes need to build their [endurance] for better performance.",
+            "translation_zh_TW": "運動員需要培養耐力以獲得更好的表現。"
+          },
+          {
+            "sentence": "Her [endurance] during the marathon was impressive.",
+            "translation_zh_TW": "她在馬拉松中的耐力給人留下深刻印象。"
+          },
+          {
+            "sentence": "Mental [endurance] is just as crucial as physical strength.",
+            "translation_zh_TW": "心理耐力和身體力量一樣重要。"
+          }
+        ],
+        "synonyms": [
+          "stamina",
+          "perseverance"
+        ]
+      }
+    ],
+    "confusion": [
+      "endurance's",
+      "enduring",
+      "durance",
+      "endure"
+    ]
+  },
+  {
+    "word": "lengthy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Measuring a great distance from end to end.",
+        "meaning_zh_TW": "冗長的",
+        "wrong_meaning_zh_TW": [
+          "快速的",
+          "簡短的",
+          "令人厭倦的"
+        ],
+        "examples": [
+          {
+            "sentence": "The report was too [lengthy] and hard to digest.",
+            "translation_zh_TW": "報告太冗長，難以理解。"
+          },
+          {
+            "sentence": "He gave a [lengthy] explanation of his actions.",
+            "translation_zh_TW": "他對他的行為給出了冗長的解釋。"
+          },
+          {
+            "sentence": "The meeting was [lengthy] and unproductive.",
+            "translation_zh_TW": "會議冗長且無生產力。"
+          }
+        ],
+        "synonyms": [
+          "long",
+          "protracted"
+        ]
+      }
+    ],
+    "confusion": [
+      "length",
+      "lanky",
+      "lengthen",
+      "lightly"
+    ]
+  },
+  {
+    "word": "sermon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A talk on a religious or moral subject.",
+        "meaning_zh_TW": "講道",
+        "wrong_meaning_zh_TW": [
+          "書信",
+          "演講",
+          "隨筆"
+        ],
+        "examples": [
+          {
+            "sentence": "The pastor delivered a powerful [sermon] this morning.",
+            "translation_zh_TW": "今天早上牧師傳達了一個強有力的講道。"
+          },
+          {
+            "sentence": "Her [sermon] touched on themes of hope and forgiveness.",
+            "translation_zh_TW": "她的講道觸及了希望與寬恕的主題。"
+          },
+          {
+            "sentence": "I always feel inspired after listening to a good [sermon].",
+            "translation_zh_TW": "聽完好的講道後，我總是感到受鼓舞。"
+          }
+        ],
+        "synonyms": [
+          "discourse",
+          "address"
+        ]
+      }
+    ],
+    "confusion": [
+      "sermonic",
+      "sermonize",
+      "ceremony",
+      "sermonizer"
+    ]
+  },
+  {
+    "word": "headphone",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device worn on or over the ears to listen to audio.",
+        "meaning_zh_TW": "耳機",
+        "wrong_meaning_zh_TW": [
+          "耳環",
+          "助聽器",
+          "耳塞"
+        ],
+        "examples": [
+          {
+            "sentence": "He put on his [headphone] to enjoy the music.",
+            "translation_zh_TW": "他戴上耳機享受音樂。"
+          },
+          {
+            "sentence": "The [headphone] was tangled in her bag.",
+            "translation_zh_TW": "耳機纏在她的包裡。"
+          },
+          {
+            "sentence": "She prefers using [headphone] for gaming.",
+            "translation_zh_TW": "她更喜歡在遊戲時使用耳機。"
+          }
+        ],
+        "synonyms": [
+          "earphone",
+          "headset"
+        ]
+      }
+    ],
+    "confusion": [
+      "headphones",
+      "headphonejack",
+      "headphne",
+      "hedphone"
+    ]
+  },
+  {
+    "word": "oath",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior.",
+        "meaning_zh_TW": "誓言",
+        "wrong_meaning_zh_TW": [
+          "闡述",
+          "妨礙",
+          "懶惰"
+        ],
+        "examples": [
+          {
+            "sentence": "He took an [oath] to serve and protect his country.",
+            "translation_zh_TW": "他宣誓服務和保護他的國家。"
+          },
+          {
+            "sentence": "The witness made an [oath] before the court.",
+            "translation_zh_TW": "證人在法庭上宣誓。"
+          },
+          {
+            "sentence": "An [oath] of loyalty is common in many cultures.",
+            "translation_zh_TW": "忠誠的誓言在許多文化中是很常見的。"
+          }
+        ],
+        "synonyms": [
+          "vow",
+          "pledge"
+        ]
+      }
+    ],
+    "confusion": [
+      "oaths",
+      "oth",
+      "othas",
+      "oathes"
+    ]
+  },
+  {
+    "word": "invaluable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Extremely useful or valuable.",
+        "meaning_zh_TW": "無價的",
+        "wrong_meaning_zh_TW": [
+          "無用的",
+          "有限的",
+          "便宜的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her experience was [invaluable] to the project.",
+            "translation_zh_TW": "她的經驗對這個項目是無價的。"
+          },
+          {
+            "sentence": "Time is an [invaluable] resource.",
+            "translation_zh_TW": "時間是一種無價的資源。"
+          },
+          {
+            "sentence": "The advice was [invaluable] for her decision.",
+            "translation_zh_TW": "這個建議對她的決定是無價的。"
+          }
+        ],
+        "synonyms": [
+          "precious",
+          "irreplaceable"
+        ]
+      }
+    ],
+    "confusion": [
+      "valuable",
+      "invaluble",
+      "invaluably",
+      "invauable"
+    ]
+  },
+  {
+    "word": "caffeine",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A stimulant found in coffee, tea, and certain other beverages.",
+        "meaning_zh_TW": "咖啡因",
+        "wrong_meaning_zh_TW": [
+          "糖分",
+          "香草醬",
+          "果汁"
+        ],
+        "examples": [
+          {
+            "sentence": "Many people consume [caffeine] to stay alert.",
+            "translation_zh_TW": "許多人攝取咖啡因以保持警覺。"
+          },
+          {
+            "sentence": "Excessive [caffeine] can lead to health problems.",
+            "translation_zh_TW": "過多的咖啡因可能導致健康問題。"
+          },
+          {
+            "sentence": "She prefers decaf coffee to avoid [caffeine].",
+            "translation_zh_TW": "她喜歡無咖啡因的咖啡，以避免咖啡因。"
+          }
+        ],
+        "synonyms": [
+          "stimulant",
+          "energizer"
+        ]
+      }
+    ],
+    "confusion": [
+      "café",
+      "caffeine-free",
+      "caffè",
+      "cefine"
+    ]
+  },
+  {
+    "word": "cardboard",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A material made from pressed pulp, usually used for making boxes.",
+        "meaning_zh_TW": "紙板",
+        "wrong_meaning_zh_TW": [
+          "塑料",
+          "金屬",
+          "木材"
+        ],
+        "examples": [
+          {
+            "sentence": "The package was wrapped in [cardboard].",
+            "translation_zh_TW": "包裹用紙板包裝。"
+          },
+          {
+            "sentence": "He made a model house out of [cardboard].",
+            "translation_zh_TW": "他用紙板製作了一個模型房子。"
+          },
+          {
+            "sentence": "They recycled the old [cardboard] boxes.",
+            "translation_zh_TW": "他們回收了舊的紙板箱。"
+          }
+        ],
+        "synonyms": [
+          "paperboard",
+          "boxboard"
+        ]
+      }
+    ],
+    "confusion": [
+      "cardbored",
+      "cardborad",
+      "cardbroad",
+      "cardbord"
+    ]
+  },
+  {
+    "word": "attain",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To achieve or reach something.",
+        "meaning_zh_TW": "獲得",
+        "wrong_meaning_zh_TW": [
+          "放棄",
+          "失敗",
+          "忘記"
+        ],
+        "examples": [
+          {
+            "sentence": "She worked hard to [attain] her goals.",
+            "translation_zh_TW": "她努力工作以達成她的目標。"
+          },
+          {
+            "sentence": "The team hopes to [attain] success this season.",
+            "translation_zh_TW": "團隊希望在這個賽季獲得成功。"
+          },
+          {
+            "sentence": "To [attain] mastery, one must practice regularly.",
+            "translation_zh_TW": "要達到精通，必須定期練習。"
+          }
+        ],
+        "synonyms": [
+          "achieve",
+          "reach"
+        ]
+      }
+    ],
+    "confusion": [
+      "attend",
+      "attainable",
+      "attainer",
+      "attend"
+    ]
+  },
+  {
+    "word": "corpse",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A dead body, especially of a human.",
+        "meaning_zh_TW": "屍體",
+        "wrong_meaning_zh_TW": [
+          "皮包",
+          "骷髏",
+          "通常的事"
+        ],
+        "examples": [
+          {
+            "sentence": "The detective examined the [corpse] at the crime scene.",
+            "translation_zh_TW": "偵探在犯罪現場檢查屍體"
+          },
+          {
+            "sentence": "They found a [corpse] buried in the forest.",
+            "translation_zh_TW": "他們在森林裡發現了一具屍體"
+          },
+          {
+            "sentence": "He was haunted by the sight of the [corpse] for weeks.",
+            "translation_zh_TW": "幾週來，他一直被屍體的景象纏身"
+          }
+        ],
+        "synonyms": [
+          "cadaver",
+          "body"
+        ]
+      }
+    ],
+    "confusion": [
+      "corp",
+      "corps",
+      "currency",
+      "course"
+    ]
+  },
+  {
+    "word": "lush",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Characterized by luxuriant vegetation; rich and abundant.",
+        "meaning_zh_TW": "郁郁蔥蔥",
+        "wrong_meaning_zh_TW": [
+          "稀疏的",
+          "乾燥的",
+          "平平的"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden was filled with [lush] plants and flowers.",
+            "translation_zh_TW": "花園裡充滿了郁郁蔥蔥的植物和花朵。"
+          },
+          {
+            "sentence": "They enjoyed the [lush] landscapes during their hike.",
+            "translation_zh_TW": "他們在健行時欣賞了郁郁蔥蔥的風景。"
+          },
+          {
+            "sentence": "The tropical island is known for its [lush] scenery.",
+            "translation_zh_TW": "這個熱帶島嶼以其郁郁蔥蔥的風景而聞名。"
+          }
+        ],
+        "synonyms": [
+          "verdant",
+          "prolific"
+        ]
+      }
+    ],
+    "confusion": [
+      "lushy",
+      "lushness",
+      "lushing",
+      "rush"
+    ]
+  },
+  {
+    "word": "honorary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Holding an honor or title without the usual responsibilities.",
+        "meaning_zh_TW": "名譽的",
+        "wrong_meaning_zh_TW": [
+          "實際的",
+          "全職的",
+          "臨時的"
+        ],
+        "examples": [
+          {
+            "sentence": "She received an [honorary] degree.",
+            "translation_zh_TW": "她獲得了一個名譽學位。"
+          },
+          {
+            "sentence": "He serves as [honorary] president.",
+            "translation_zh_TW": "他擔任名譽主席。"
+          },
+          {
+            "sentence": "The committee awarded her [honorary] membership.",
+            "translation_zh_TW": "委員會授予她名譽會員身份。"
+          }
+        ],
+        "synonyms": [
+          "symbolic",
+          "ceremonial"
+        ]
+      }
+    ],
+    "confusion": [
+      "honor",
+      "honorably",
+      "honorific",
+      "honorarium"
+    ]
+  }
+]

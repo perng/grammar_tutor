@@ -1,0 +1,783 @@
+[
+  {
+    "word": "retreat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To withdraw or move back from a position or place.",
+        "meaning_zh_TW": "撤退、退回",
+        "wrong_meaning_zh_TW": [
+          "進攻",
+          "前進",
+          "攻擊"
+        ],
+        "examples": [
+          {
+            "sentence": "The army had to [retreat] from the battlefield.",
+            "translation_zh_TW": "軍隊不得不從戰場撤退。"
+          },
+          {
+            "sentence": "In the face of danger, they decided to [retreat].",
+            "translation_zh_TW": "面對危險，他們決定撤退。"
+          },
+          {
+            "sentence": "The team had to [retreat] to regroup and plan.",
+            "translation_zh_TW": "團隊不得不撤退以重新組織和計畫。"
+          }
+        ],
+        "synonyms": [
+          "withdraw",
+          "recede"
+        ]
+      }
+    ],
+    "confusion": [
+      "retread",
+      "retrace",
+      "retreating",
+      "retest"
+    ]
+  },
+  {
+    "word": "urgent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Requiring immediate attention or action.",
+        "meaning_zh_TW": "緊急的",
+        "wrong_meaning_zh_TW": [
+          "不急的",
+          "緩慢的",
+          "從容的"
+        ],
+        "examples": [
+          {
+            "sentence": "The doctor said my condition was [urgent].",
+            "translation_zh_TW": "醫生說我的狀況是緊急的"
+          },
+          {
+            "sentence": "Please handle this matter as [urgent].",
+            "translation_zh_TW": "請將這件事當作緊急處理"
+          },
+          {
+            "sentence": "They sent an [urgent] request for help.",
+            "translation_zh_TW": "他們發送了一條緊急的求助請求"
+          }
+        ],
+        "synonyms": [
+          "pressing",
+          "critical"
+        ]
+      }
+    ],
+    "confusion": [
+      "urgency",
+      "urgentist",
+      "urgently",
+      "urgents"
+    ]
+  },
+  {
+    "word": "witch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A woman thought to have magic powers, especially evil ones.",
+        "meaning_zh_TW": "女巫",
+        "wrong_meaning_zh_TW": [
+          "天使",
+          "仙女",
+          "公主"
+        ],
+        "examples": [
+          {
+            "sentence": "The story features a wicked [witch] who curses the village.",
+            "translation_zh_TW": "故事中有一位邪惡的女巫詛咒村莊。"
+          },
+          {
+            "sentence": "In many tales, the [witch] is portrayed as a villain.",
+            "translation_zh_TW": "在許多故事中，女巫被描繪成反派角色。"
+          },
+          {
+            "sentence": "She dressed up as a [witch] for Halloween.",
+            "translation_zh_TW": "她在萬聖節打扮成女巫。"
+          }
+        ],
+        "synonyms": [
+          "sorceress",
+          "enchantress"
+        ]
+      }
+    ],
+    "confusion": [
+      "witches",
+      "witching",
+      "bitch",
+      "wit"
+    ]
+  },
+  {
+    "word": "indication",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sign or piece of information that indicates something.",
+        "meaning_zh_TW": "指示、跡象",
+        "wrong_meaning_zh_TW": [
+          "建議",
+          "問題",
+          "任務"
+        ],
+        "examples": [
+          {
+            "sentence": "The weather report is an [indication] of the coming storm.",
+            "translation_zh_TW": "氣象報告是即將來臨的暴風雨的指示"
+          },
+          {
+            "sentence": "The doctor noted several [indications] of illness.",
+            "translation_zh_TW": "醫生注意到了幾個疾病的跡象"
+          },
+          {
+            "sentence": "His smile was an [indication] of his happiness.",
+            "translation_zh_TW": "他的微笑是他快樂的指示"
+          }
+        ],
+        "synonyms": [
+          "signal",
+          "sign"
+        ]
+      }
+    ],
+    "confusion": [
+      "indication",
+      "indictment",
+      "indication",
+      "introductory"
+    ]
+  },
+  {
+    "word": "revenge",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of hurting someone in return for being harmed.",
+        "meaning_zh_TW": "報復、復仇",
+        "wrong_meaning_zh_TW": [
+          "寬恕",
+          "原諒",
+          "饒恕"
+        ],
+        "examples": [
+          {
+            "sentence": "He sought [revenge] for the wrongs done to him.",
+            "translation_zh_TW": "他尋求對他所遭受的不公的報復。"
+          },
+          {
+            "sentence": "Their actions were driven by a desire for [revenge].",
+            "translation_zh_TW": "他們的行為是出於復仇的願望。"
+          },
+          {
+            "sentence": "In stories, [revenge] often leads to tragic outcomes.",
+            "translation_zh_TW": "在故事中，報復往往導致悲劇的結果。"
+          }
+        ],
+        "synonyms": [
+          "vengeance",
+          "retribution"
+        ]
+      }
+    ],
+    "confusion": [
+      "avenge",
+      "revamped",
+      "revoked",
+      "revenier"
+    ]
+  },
+  {
+    "word": "pest",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An insect or animal that is harmful to cultivated plants or animals.",
+        "meaning_zh_TW": "害蟲",
+        "wrong_meaning_zh_TW": [
+          "進口商品",
+          "糧食儲藏",
+          "新時代"
+        ],
+        "examples": [
+          {
+            "sentence": "The gardener had to deal with a serious [pest] problem.",
+            "translation_zh_TW": "園丁必須處理嚴重的害蟲問題"
+          },
+          {
+            "sentence": "Some [pests] can damage crops significantly.",
+            "translation_zh_TW": "一些害蟲可能會對作物造成重大損害"
+          },
+          {
+            "sentence": "Using pesticides can help control [pests].",
+            "translation_zh_TW": "使用農藥可以幫助控制害蟲"
+          }
+        ],
+        "synonyms": [
+          "nuisance",
+          "vermin"
+        ]
+      }
+    ],
+    "confusion": [
+      "paste",
+      "past",
+      "pestle",
+      "peast"
+    ]
+  },
+  {
+    "word": "deserve",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To earn or be entitled to something due to actions, qualities, or circumstances.",
+        "meaning_zh_TW": "應得",
+        "wrong_meaning_zh_TW": [
+          "需要",
+          "剝奪",
+          "推測"
+        ],
+        "examples": [
+          {
+            "sentence": "She worked hard and truly [deserves] this reward.",
+            "translation_zh_TW": "她努力工作，真的應得這個獎勵。"
+          },
+          {
+            "sentence": "Everyone [deserves] respect regardless of their background.",
+            "translation_zh_TW": "每個人都應得尊重，不論他們的背景如何。"
+          },
+          {
+            "sentence": "You [deserve] a break after such a long day.",
+            "translation_zh_TW": "經過這麼長的一天後，你應該休息一下。"
+          }
+        ],
+        "synonyms": [
+          "merit",
+          "be worthy of"
+        ]
+      }
+    ],
+    "confusion": [
+      "reserve",
+      "serve",
+      "desert",
+      "destructive"
+    ]
+  },
+  {
+    "word": "renew",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make something new again; to restore.",
+        "meaning_zh_TW": "更新；恢復",
+        "wrong_meaning_zh_TW": [
+          "終止",
+          "停止",
+          "中斷"
+        ],
+        "examples": [
+          {
+            "sentence": "You need to [renew] your membership every year.",
+            "translation_zh_TW": "你每年都需要更新你的會員資格。"
+          },
+          {
+            "sentence": "They decided to [renew] their vows after ten years.",
+            "translation_zh_TW": "他們決定在十年後重新宣誓。"
+          },
+          {
+            "sentence": "This program aims to [renew] interest in classical music.",
+            "translation_zh_TW": "這個計劃旨在重新引起人們對古典音樂的興趣。"
+          }
+        ],
+        "synonyms": [
+          "regenerate",
+          "revitalize"
+        ]
+      }
+    ],
+    "confusion": [
+      "renue",
+      "renwe",
+      "renewal",
+      "renual"
+    ]
+  },
+  {
+    "word": "namely",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "That is to say; specifically.",
+        "meaning_zh_TW": "就是說；具體而言",
+        "wrong_meaning_zh_TW": [
+          "簡單地",
+          "模糊地",
+          "有趣地"
+        ],
+        "examples": [
+          {
+            "sentence": "I have three hobbies, [namely], reading, writing, and painting.",
+            "translation_zh_TW": "我有三個愛好，就是說，閱讀、寫作和繪畫。"
+          },
+          {
+            "sentence": "There are two main issues, [namely] budget and time.",
+            "translation_zh_TW": "主要有兩個問題，就是說，預算和時間。"
+          },
+          {
+            "sentence": "She has many friends, [namely] from work and school.",
+            "translation_zh_TW": "她有很多朋友，就是說，來自工作和學校。"
+          }
+        ],
+        "synonyms": [
+          "specifically",
+          "that is"
+        ]
+      }
+    ],
+    "confusion": [
+      "name",
+      "naming",
+      "namely",
+      "namesake"
+    ]
+  },
+  {
+    "word": "hawk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A bird of prey known for its keen vision and hunting skills.",
+        "meaning_zh_TW": "鷹",
+        "wrong_meaning_zh_TW": [
+          "鸚鵡",
+          "鴿子",
+          "烏鴉"
+        ],
+        "examples": [
+          {
+            "sentence": "The hawk soared high above the mountains.",
+            "translation_zh_TW": "鷹在高山上翱翔。"
+          },
+          {
+            "sentence": "We spotted a hawk hunting in the field.",
+            "translation_zh_TW": "我們看到一隻鷹在野地裡狩獵。"
+          },
+          {
+            "sentence": "Hawks are known for their fierce hunting techniques.",
+            "translation_zh_TW": "鷹以其兇猛的狩獵技術而著稱。"
+          }
+        ],
+        "synonyms": [
+          "falcon",
+          "eagle"
+        ]
+      }
+    ],
+    "confusion": [
+      "hawkish",
+      "honk",
+      "haunt",
+      "hack"
+    ]
+  },
+  {
+    "word": "consequence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A result or effect of an action or condition.",
+        "meaning_zh_TW": "結果",
+        "wrong_meaning_zh_TW": [
+          "計劃",
+          "文件",
+          "竊賊"
+        ],
+        "examples": [
+          {
+            "sentence": "Every action has a [consequence].",
+            "translation_zh_TW": "每個行動都有其結果。"
+          },
+          {
+            "sentence": "She didn’t realize the [consequences] of her decisions.",
+            "translation_zh_TW": "她沒有意識到自己決定的後果。"
+          },
+          {
+            "sentence": "The [consequences] of climate change are becoming more evident.",
+            "translation_zh_TW": "氣候變化的後果越來越明顯。"
+          }
+        ],
+        "synonyms": [
+          "result",
+          "outcome"
+        ]
+      }
+    ],
+    "confusion": [
+      "consistent",
+      "consent",
+      "consistency",
+      "consequence"
+    ]
+  },
+  {
+    "word": "systematic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Done or acting according to a fixed plan or system; methodical.",
+        "meaning_zh_TW": "系統的",
+        "wrong_meaning_zh_TW": [
+          "隨意的",
+          "混亂的",
+          "無序的"
+        ],
+        "examples": [
+          {
+            "sentence": "He took a [systematic] approach to the problem.",
+            "translation_zh_TW": "他採取了系統的方式來解決問題。"
+          },
+          {
+            "sentence": "A [systematic] review of the data is essential.",
+            "translation_zh_TW": "對數據的系統審查是必需的。"
+          },
+          {
+            "sentence": "She organized her work in a [systematic] manner.",
+            "translation_zh_TW": "她以系統的方式組織她的工作。"
+          }
+        ],
+        "synonyms": [
+          "methodical",
+          "structured"
+        ]
+      }
+    ],
+    "confusion": [
+      "systemic",
+      "systemitize",
+      "systematis",
+      "systemotic"
+    ]
+  },
+  {
+    "word": "makeup",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Cosmetics such as lipstick or powder applied to the face to enhance or alter appearance.",
+        "meaning_zh_TW": "化妝品",
+        "wrong_meaning_zh_TW": [
+          "基因",
+          "配方",
+          "外套"
+        ],
+        "examples": [
+          {
+            "sentence": "She applied her [makeup] before going out.",
+            "translation_zh_TW": "她在出門前化妝。"
+          },
+          {
+            "sentence": "The [makeup] industry is constantly evolving.",
+            "translation_zh_TW": "化妝品行業不斷發展。"
+          },
+          {
+            "sentence": "He complimented her on her beautiful [makeup].",
+            "translation_zh_TW": "他讚美她的美麗妝容。"
+          }
+        ],
+        "synonyms": [
+          "cosmetics",
+          "face paint"
+        ]
+      }
+    ],
+    "confusion": [
+      "makeout",
+      "makup",
+      "makedown",
+      "makeover"
+    ]
+  },
+  {
+    "word": "evident",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Clear to the understanding; obvious.",
+        "meaning_zh_TW": "明顯的",
+        "wrong_meaning_zh_TW": [
+          "不明顯的",
+          "模糊的",
+          "隱藏的"
+        ],
+        "examples": [
+          {
+            "sentence": "It was [evident] that she was upset.",
+            "translation_zh_TW": "她顯然不高興。"
+          },
+          {
+            "sentence": "The results were [evident] from the data.",
+            "translation_zh_TW": "從數據中結果顯而易見。"
+          },
+          {
+            "sentence": "His skills were [evident] during the competition.",
+            "translation_zh_TW": "在比賽中他的技能十分明顯。"
+          }
+        ],
+        "synonyms": [
+          "obvious",
+          "apparent"
+        ]
+      }
+    ],
+    "confusion": [
+      "evidently",
+      "evidential",
+      "event",
+      "evitable"
+    ]
+  },
+  {
+    "word": "merit",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being particularly good or worthy.",
+        "meaning_zh_TW": "優點",
+        "wrong_meaning_zh_TW": [
+          "缺點",
+          "妨礙",
+          "措施"
+        ],
+        "examples": [
+          {
+            "sentence": "Her work has great [merit].",
+            "translation_zh_TW": "她的工作有很大的優點。"
+          },
+          {
+            "sentence": "They discussed the [merits] of the proposal.",
+            "translation_zh_TW": "他們討論了這項提案的優點。"
+          },
+          {
+            "sentence": "He was promoted based on his [merit].",
+            "translation_zh_TW": "他根據自己的優點被晉升。"
+          }
+        ],
+        "synonyms": [
+          "value",
+          "worth"
+        ]
+      }
+    ],
+    "confusion": [
+      "meritocracy",
+      "meritless",
+      "merited",
+      "merrit"
+    ]
+  },
+  {
+    "word": "prominent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Easily seen; standing out or protruding.",
+        "meaning_zh_TW": "突出的",
+        "wrong_meaning_zh_TW": [
+          "平凡的",
+          "不明顯的",
+          "隱藏的"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a [prominent] role in the movie.",
+            "translation_zh_TW": "他在電影中擔任突出的角色"
+          },
+          {
+            "sentence": "She is a [prominent] figure in the community.",
+            "translation_zh_TW": "她是社區中一個突出的身影"
+          },
+          {
+            "sentence": "The building has a [prominent] design.",
+            "translation_zh_TW": "這棟大樓有著突出的設計"
+          }
+        ],
+        "synonyms": [
+          "conspicuous",
+          "noticeable"
+        ]
+      }
+    ],
+    "confusion": [
+      "promote",
+      "premier",
+      "parameter",
+      "premise"
+    ]
+  },
+  {
+    "word": "lean",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To incline or bend from a vertical position.",
+        "meaning_zh_TW": "傾斜；依靠",
+        "wrong_meaning_zh_TW": [
+          "站立",
+          "直立",
+          "支撐"
+        ],
+        "examples": [
+          {
+            "sentence": "He had to [lean] against the wall to keep his balance.",
+            "translation_zh_TW": "他不得不靠在牆上以保持平衡。"
+          },
+          {
+            "sentence": "She [leans] toward the door to listen.",
+            "translation_zh_TW": "她傾身朝門那邊去聆聽。"
+          },
+          {
+            "sentence": "Please [lean] back and relax.",
+            "translation_zh_TW": "請靠後放鬆。"
+          }
+        ],
+        "synonyms": [
+          "incline",
+          "rely"
+        ]
+      }
+    ],
+    "confusion": [
+      "leaned",
+      "lawn",
+      "leen",
+      "lain"
+    ]
+  },
+  {
+    "word": "occasional",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Occurring from time to time; not regularly.",
+        "meaning_zh_TW": "偶爾的、非定期的",
+        "wrong_meaning_zh_TW": [
+          "常見的、經常的",
+          "不常的、稀有的",
+          "計劃的、定期的"
+        ],
+        "examples": [
+          {
+            "sentence": "She makes [occasional] trips to see her family.",
+            "translation_zh_TW": "她偶爾會去看望家人。"
+          },
+          {
+            "sentence": "They enjoy [occasional] dinners together.",
+            "translation_zh_TW": "他們享受偶爾一起吃晚餐。"
+          },
+          {
+            "sentence": "An [occasional] rain can be refreshing.",
+            "translation_zh_TW": "偶爾的小雨可以讓人感到清新。"
+          }
+        ],
+        "synonyms": [
+          "infrequent",
+          "periodic",
+          "episodic"
+        ]
+      }
+    ],
+    "confusion": [
+      "occasional",
+      "occlusion",
+      "occasionality",
+      "acquisition"
+    ]
+  },
+  {
+    "word": "informative",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Providing useful or interesting information.",
+        "meaning_zh_TW": "提供有用或有趣的資訊",
+        "wrong_meaning_zh_TW": [
+          "無聊的",
+          "冗長的",
+          "過於簡單的"
+        ],
+        "examples": [
+          {
+            "sentence": "The documentary was very [informative].",
+            "translation_zh_TW": "這部紀錄片非常提供有用的資訊。"
+          },
+          {
+            "sentence": "She found the lecture [informative] and engaging.",
+            "translation_zh_TW": "她發現這堂課提供了有用的資訊，而且引人入勝。"
+          },
+          {
+            "sentence": "I appreciate your [informative] email.",
+            "translation_zh_TW": "我很感謝你提供的有用資訊的電子郵件。"
+          }
+        ],
+        "synonyms": [
+          "educational",
+          "enlightening"
+        ]
+      }
+    ],
+    "confusion": [
+      "information",
+      "informer",
+      "informal",
+      "informant"
+    ]
+  },
+  {
+    "word": "passive",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Accepting or allowing what happens or what others do, without active response or resistance.",
+        "meaning_zh_TW": "被動的",
+        "wrong_meaning_zh_TW": [
+          "主動的",
+          "強勢的",
+          "積極的"
+        ],
+        "examples": [
+          {
+            "sentence": "His [passive] attitude was frustrating for the team.",
+            "translation_zh_TW": "他的被動態度讓團隊感到沮喪。"
+          },
+          {
+            "sentence": "In a [passive] role, you simply observe rather than act.",
+            "translation_zh_TW": "在被動角色中，你只是觀察而不是行動。"
+          },
+          {
+            "sentence": "The law is often enforced in a [passive] manner.",
+            "translation_zh_TW": "該法律通常是以被動的方式執行的。"
+          }
+        ],
+        "synonyms": [
+          "submissive",
+          "inactive"
+        ]
+      }
+    ],
+    "confusion": [
+      "passively",
+      "passiiv",
+      "pasive",
+      "passif"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "word": "indispensable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Absolutely necessary; essential.",
+        "meaning_zh_TW": "不可或缺的、必需的",
+        "wrong_meaning_zh_TW": [
+          "可有可無的",
+          "選擇性的",
+          "次要的"
+        ],
+        "examples": [
+          {
+            "sentence": "Water is [indispensable] for human survival.",
+            "translation_zh_TW": "水對人類的生存是不可或缺的"
+          },
+          {
+            "sentence": "Honesty is an [indispensable] quality in a leader.",
+            "translation_zh_TW": "誠實是領導者不可或缺的素質"
+          },
+          {
+            "sentence": "These tools are [indispensable] for the job.",
+            "translation_zh_TW": "這些工具對工作是必需的"
+          }
+        ],
+        "synonyms": [
+          "essential",
+          "necessary"
+        ]
+      }
+    ],
+    "confusion": [
+      "indecisive",
+      "indecent",
+      "independent",
+      "interdependence"
+    ]
+  },
+  {
+    "word": "plural",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Referring to more than one person or thing.",
+        "meaning_zh_TW": "複數",
+        "wrong_meaning_zh_TW": [
+          "單數",
+          "唯一",
+          "簡單"
+        ],
+        "examples": [
+          {
+            "sentence": "The [plural] form of the word indicates more than one.",
+            "translation_zh_TW": "這個詞的複數形式表示多於一個"
+          },
+          {
+            "sentence": "English has many [plural] nouns.",
+            "translation_zh_TW": "英文有很多複數名詞"
+          },
+          {
+            "sentence": "Understanding [plural] concepts is important.",
+            "translation_zh_TW": "理解複數概念是很重要的"
+          }
+        ],
+        "synonyms": [
+          "multiple",
+          "numerous"
+        ]
+      }
+    ],
+    "confusion": [
+      "plurality",
+      "plurarl",
+      "plurism",
+      "plura"
+    ]
+  },
+  {
+    "word": "supervise",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To oversee a person or activity to ensure proper performance.",
+        "meaning_zh_TW": "監督",
+        "wrong_meaning_zh_TW": [
+          "放任",
+          "忽視",
+          "爭吵"
+        ],
+        "examples": [
+          {
+            "sentence": "The manager will [supervise] the new employees during training.",
+            "translation_zh_TW": "經理將在培訓期間監督新員工。"
+          },
+          {
+            "sentence": "Teachers often [supervise] students during tests.",
+            "translation_zh_TW": "教師通常在考試期間監督學生。"
+          },
+          {
+            "sentence": "She was hired to [supervise] the project's progress.",
+            "translation_zh_TW": "她被雇來監督項目的進展。"
+          }
+        ],
+        "synonyms": [
+          "oversee",
+          "manage"
+        ]
+      }
+    ],
+    "confusion": [
+      "supvine",
+      "supervisor",
+      "supervision",
+      "supevise"
+    ]
+  },
+  {
+    "word": "confrontation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hostile or argumentative meeting between two parties.",
+        "meaning_zh_TW": "對抗",
+        "wrong_meaning_zh_TW": [
+          "協商",
+          "合併",
+          "和解"
+        ],
+        "examples": [
+          {
+            "sentence": "The [confrontation] between the two leaders escalated quickly.",
+            "translation_zh_TW": "兩位領袖之間的對抗迅速升級。"
+          },
+          {
+            "sentence": "A [confrontation] can sometimes be necessary for resolution.",
+            "translation_zh_TW": "對抗有時對於解決問題是必要的。"
+          },
+          {
+            "sentence": "Avoid a [confrontation] unless absolutely necessary.",
+            "translation_zh_TW": "除非絕對必要，否則避免對抗。"
+          }
+        ],
+        "synonyms": [
+          "clash",
+          "conflict"
+        ]
+      }
+    ],
+    "confusion": [
+      "conformity",
+      "confront",
+      "confusion",
+      "confidential"
+    ]
+  },
+  {
+    "word": "articulate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able to express thoughts and feelings clearly and effectively.",
+        "meaning_zh_TW": "表達清晰的，口齒伶俐的",
+        "wrong_meaning_zh_TW": [
+          "含糊不清的",
+          "笨拙的",
+          "靜默的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is an [articulate] speaker who can engage any audience.",
+            "translation_zh_TW": "她是一位能夠吸引任何觀眾的口齒伶俐的演講者。"
+          },
+          {
+            "sentence": "His [articulate] writing style makes complex ideas easy to understand.",
+            "translation_zh_TW": "他清晰的寫作風格使複雜的想法變得易於理解。"
+          },
+          {
+            "sentence": "Being [articulate] is a valuable skill in both personal and professional life.",
+            "translation_zh_TW": "表達清晰在個人和職業生涯中都是一項寶貴的技能。"
+          }
+        ],
+        "synonyms": [
+          "eloquent",
+          "expressive"
+        ]
+      }
+    ],
+    "confusion": [
+      "articulation",
+      "articulo",
+      "articulate",
+      "articula"
+    ]
+  },
+  {
+    "word": "commuter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who travels some distance to work on a regular basis.",
+        "meaning_zh_TW": "通勤者",
+        "wrong_meaning_zh_TW": [
+          "旅客",
+          "出租車司機",
+          "環遊者"
+        ],
+        "examples": [
+          {
+            "sentence": "The city has a large number of [commuters] every morning.",
+            "translation_zh_TW": "這座城市每天早上有很多通勤者"
+          },
+          {
+            "sentence": "He is a daily [commuter] by bus.",
+            "translation_zh_TW": "他是每天搭公車的通勤者"
+          },
+          {
+            "sentence": "The [commuter] train offers several convenient routes.",
+            "translation_zh_TW": "通勤火車提供幾條便利的路線"
+          }
+        ],
+        "synonyms": [
+          "traveler",
+          "worker"
+        ]
+      }
+    ],
+    "confusion": [
+      "computer",
+      "commute",
+      "commit",
+      "communion"
+    ]
+  },
+  {
+    "word": "commute",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To travel some distance between one's home and place of work on a regular basis.",
+        "meaning_zh_TW": "通勤",
+        "wrong_meaning_zh_TW": [
+          "度假",
+          "出差",
+          "散步"
+        ],
+        "examples": [
+          {
+            "sentence": "Many people [commute] to work by train.",
+            "translation_zh_TW": "許多人搭火車通勤上班"
+          },
+          {
+            "sentence": "I [commute] almost two hours each day.",
+            "translation_zh_TW": "我每天通勤幾乎要花兩個小時"
+          },
+          {
+            "sentence": "She enjoys reading while she [commutes].",
+            "translation_zh_TW": "她喜歡在通勤時閱讀"
+          }
+        ],
+        "synonyms": [
+          "travel",
+          "transit"
+        ]
+      }
+    ],
+    "confusion": [
+      "computer",
+      "community",
+      "commerce",
+      "complete"
+    ]
+  },
+  {
+    "word": "witty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Showing a quick and inventive verbal humor.",
+        "meaning_zh_TW": "機智的",
+        "wrong_meaning_zh_TW": [
+          "呆板的",
+          "無趣的",
+          "平凡的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [witty] remarks always make everyone laugh.",
+            "translation_zh_TW": "她機智的評論總是讓大家笑。"
+          },
+          {
+            "sentence": "A [witty] response can lighten the mood.",
+            "translation_zh_TW": "機智的回答可以緩解氣氛。"
+          },
+          {
+            "sentence": "He has a [witty] sense of humor that captivates his audience.",
+            "translation_zh_TW": "他有一種機智的幽默感，吸引了他的觀眾。"
+          }
+        ],
+        "synonyms": [
+          "humorous",
+          "clever"
+        ]
+      }
+    ],
+    "confusion": [
+      "whitty",
+      "wittie",
+      "wit",
+      "wittee"
+    ]
+  },
+  {
+    "word": "compassionate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling or showing sympathy and concern for others.",
+        "meaning_zh_TW": "富有同情心的",
+        "wrong_meaning_zh_TW": [
+          "自私的",
+          "冷漠的",
+          "嚴厲的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a very [compassionate] person who helps others.",
+            "translation_zh_TW": "她是一個非常富有同情心的人，幫助他人。"
+          },
+          {
+            "sentence": "His [compassionate] actions made a big difference in the community.",
+            "translation_zh_TW": "他的富有同情心的行動對社區帶來了很大的改變。"
+          },
+          {
+            "sentence": "Being [compassionate] is essential in healthcare.",
+            "translation_zh_TW": "在醫療中，擁有同情心是至關重要的。"
+          }
+        ],
+        "synonyms": [
+          "empathetic",
+          "kind-hearted"
+        ]
+      }
+    ],
+    "confusion": [
+      "compass",
+      "competition",
+      "compulsive",
+      "compliant"
+    ]
+  },
+  {
+    "word": "repay",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To pay back money that was borrowed.",
+        "meaning_zh_TW": "償還",
+        "wrong_meaning_zh_TW": [
+          "借出",
+          "支付",
+          "捐贈"
+        ],
+        "examples": [
+          {
+            "sentence": "I will [repay] the loan within a year.",
+            "translation_zh_TW": "我會在一年內償還貸款"
+          },
+          {
+            "sentence": "They expect you to [repay] your debts now.",
+            "translation_zh_TW": "他們希望你現在償還債務"
+          },
+          {
+            "sentence": "He offered to [repay] the favor in any way he could.",
+            "translation_zh_TW": "他主動以任何方式償還這份恩情"
+          }
+        ],
+        "synonyms": [
+          "reimburse",
+          "refund"
+        ]
+      }
+    ],
+    "confusion": [
+      "reply",
+      "rempay",
+      "retail",
+      "replay"
+    ]
+  },
+  {
+    "word": "digestion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The process by which the body breaks down food into smaller components that can be absorbed.",
+        "meaning_zh_TW": "消化",
+        "wrong_meaning_zh_TW": [
+          "攝取",
+          "代謝",
+          "排泄"
+        ],
+        "examples": [
+          {
+            "sentence": "Good [digestion] is essential for overall health.",
+            "translation_zh_TW": "良好的消化對整體健康至關重要。"
+          },
+          {
+            "sentence": "Certain foods can improve [digestion].",
+            "translation_zh_TW": "某些食物可以改善消化。"
+          },
+          {
+            "sentence": "She studied the [digestion] process in her biology class.",
+            "translation_zh_TW": "她在生物課上研究了消化過程。"
+          }
+        ],
+        "synonyms": [
+          "metabolism",
+          "breakdown"
+        ]
+      }
+    ],
+    "confusion": [
+      "digestive",
+      "digestionist",
+      "digestioned",
+      "digetion"
+    ]
+  },
+  {
+    "word": "soar",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To fly or rise high in the air.",
+        "meaning_zh_TW": "翱翔",
+        "wrong_meaning_zh_TW": [
+          "降落",
+          "懸掛",
+          "落地"
+        ],
+        "examples": [
+          {
+            "sentence": "Eagles [soar] gracefully in the sky.",
+            "translation_zh_TW": "老鷹優雅地在天空中翱翔。"
+          },
+          {
+            "sentence": "The plane began to [soar] above the clouds.",
+            "translation_zh_TW": "飛機開始在雲層上空翱翔。"
+          },
+          {
+            "sentence": "Prices are expected to [soar] after the announcement.",
+            "translation_zh_TW": "公佈後價格預計會上升。"
+          }
+        ],
+        "synonyms": [
+          "fly",
+          "ascend"
+        ]
+      }
+    ],
+    "confusion": [
+      "sore",
+      "sour",
+      "soarage",
+      "sear"
+    ]
+  },
+  {
+    "word": "blush",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To become red in the face, typically from embarrassment.",
+        "meaning_zh_TW": "臉紅",
+        "wrong_meaning_zh_TW": [
+          "微笑",
+          "嘲笑",
+          "感慨"
+        ],
+        "examples": [
+          {
+            "sentence": "She started to [blush] when he complimented her.",
+            "translation_zh_TW": "當他稱讚她時，她開始臉紅"
+          },
+          {
+            "sentence": "He couldn't help but [blush] after telling the story.",
+            "translation_zh_TW": "講完故事後，他忍不住臉紅"
+          },
+          {
+            "sentence": "Everyone could see her [blush] when she received the prize.",
+            "translation_zh_TW": "她得到獎品時，大家都能看到她臉紅"
+          }
+        ],
+        "synonyms": [
+          "flush",
+          "turn red"
+        ]
+      }
+    ],
+    "confusion": [
+      "blushes",
+      "bust",
+      "blunt",
+      "blest"
+    ]
+  },
+  {
+    "word": "briefcase",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A flat, rectangular container used for carrying documents or a laptop.",
+        "meaning_zh_TW": "公事包",
+        "wrong_meaning_zh_TW": [
+          "手提包",
+          "攝影包",
+          "書包"
+        ],
+        "examples": [
+          {
+            "sentence": "He opened his [briefcase] to retrieve some important documents.",
+            "translation_zh_TW": "他打開公事包取出一些重要文件"
+          },
+          {
+            "sentence": "She always carries her [briefcase] to meetings.",
+            "translation_zh_TW": "她總是將公事包帶到會議上"
+          },
+          {
+            "sentence": "The lawyer's [briefcase] was filled with case files.",
+            "translation_zh_TW": "律師的公事包裡裝滿了案件文件"
+          }
+        ],
+        "synonyms": [
+          "attaché case",
+          "portfolio"
+        ]
+      }
+    ],
+    "confusion": [
+      "brief",
+      "brickcase",
+      "briefed",
+      "breeze"
+    ]
+  },
+  {
+    "word": "optimism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Hopefulness and confidence about the future or the success of something.",
+        "meaning_zh_TW": "樂觀",
+        "wrong_meaning_zh_TW": [
+          "悲觀",
+          "懷疑",
+          "失望"
+        ],
+        "examples": [
+          {
+            "sentence": "His [optimism] helped motivate the team.",
+            "translation_zh_TW": "他的樂觀精神激勵了團隊。"
+          },
+          {
+            "sentence": "She maintained her [optimism] despite the challenges.",
+            "translation_zh_TW": "儘管面對挑戰，她仍保持積極的態度。"
+          },
+          {
+            "sentence": "Optimism can lead to better outcomes.",
+            "translation_zh_TW": "樂觀可以導致更好的結果。"
+          }
+        ],
+        "synonyms": [
+          "hopefulness",
+          "positivity"
+        ]
+      }
+    ],
+    "confusion": [
+      "optimist",
+      "optimum",
+      "optimization",
+      "potimism"
+    ]
+  },
+  {
+    "word": "stew",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A dish of meat and vegetables cooked slowly in liquid.",
+        "meaning_zh_TW": "燉菜",
+        "wrong_meaning_zh_TW": [
+          "把戲",
+          "呆滯",
+          "新鮮事"
+        ],
+        "examples": [
+          {
+            "sentence": "She prepared a delicious [stew] for dinner.",
+            "translation_zh_TW": "她為晚餐準備了一道美味的燉菜。"
+          },
+          {
+            "sentence": "We enjoyed a rich beef [stew] on a cold day.",
+            "translation_zh_TW": "在寒冷的日子裡，我們享用了濃郁的牛肉燉菜。"
+          },
+          {
+            "sentence": "The [stew] was simmering on the stove all afternoon.",
+            "translation_zh_TW": "燉菜在爐子上煮了一整個下午。"
+          }
+        ],
+        "synonyms": [
+          "casserole",
+          "braise"
+        ]
+      }
+    ],
+    "confusion": [
+      "steward",
+      "stewardess",
+      "stews",
+      "stewy"
+    ]
+  },
+  {
+    "word": "applause",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The sound of clapping hands to show approval or admiration.",
+        "meaning_zh_TW": "掌聲",
+        "wrong_meaning_zh_TW": [
+          "嚴厲批評",
+          "靜悄悄",
+          "不屑一顧"
+        ],
+        "examples": [
+          {
+            "sentence": "The audience erupted in [applause] after the performance.",
+            "translation_zh_TW": "表演結束後，觀眾爆發出掌聲。"
+          },
+          {
+            "sentence": "He received a standing ovation and loud [applause] from the crowd.",
+            "translation_zh_TW": "他獲得全場的起立喝彩和熱烈的掌聲。"
+          },
+          {
+            "sentence": "The [applause] was deafening as the winner was announced.",
+            "translation_zh_TW": "當宣布獲勝者時，掌聲如雷。"
+          }
+        ],
+        "synonyms": [
+          "clapping",
+          "cheering"
+        ]
+      }
+    ],
+    "confusion": [
+      "applaud",
+      "appliance",
+      "appraise",
+      "apoplexy"
+    ]
+  },
+  {
+    "word": "trait",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A distinguishing quality or characteristic, typically one belonging to a person.",
+        "meaning_zh_TW": "特徵、性格",
+        "wrong_meaning_zh_TW": [
+          "元素、因子",
+          "職位、角色",
+          "需求、要求"
+        ],
+        "examples": [
+          {
+            "sentence": "Generosity is a positive [trait].",
+            "translation_zh_TW": "慷慨是一種正面的特徵。"
+          },
+          {
+            "sentence": "He has several unique [traits] that make him stand out.",
+            "translation_zh_TW": "他有幾個獨特的特徵使他脫穎而出。"
+          },
+          {
+            "sentence": "Honesty is an important [trait] in a leader.",
+            "translation_zh_TW": "誠實是領導者的重要特徵。"
+          }
+        ],
+        "synonyms": [
+          "characteristic",
+          "attribute"
+        ]
+      }
+    ],
+    "confusion": [
+      "trite",
+      "trade",
+      "trained",
+      "traitor"
+    ]
+  },
+  {
+    "word": "soak",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To immerse or saturate something in liquid.",
+        "meaning_zh_TW": "浸泡",
+        "wrong_meaning_zh_TW": [
+          "乾燥",
+          "排斥",
+          "折磨"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [soak] the beans overnight.",
+            "translation_zh_TW": "請將豆子浸泡一整夜。"
+          },
+          {
+            "sentence": "The rain will [soak] my clothes.",
+            "translation_zh_TW": "雨會把我的衣服弄濕。"
+          },
+          {
+            "sentence": "He likes to [soak] in the bath after work.",
+            "translation_zh_TW": "他喜歡下班後泡澡。"
+          }
+        ],
+        "synonyms": [
+          "drench",
+          "saturate"
+        ]
+      }
+    ],
+    "confusion": [
+      "sock",
+      "soakage",
+      "sook",
+      "sok"
+    ]
+  },
+  {
+    "word": "infect",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To contaminate with a disease-causing organism.",
+        "meaning_zh_TW": "感染，傳染",
+        "wrong_meaning_zh_TW": [
+          "醫療",
+          "治療",
+          "預防"
+        ],
+        "examples": [
+          {
+            "sentence": "Bacteria can [infect] wounds easily.",
+            "translation_zh_TW": "細菌可以輕易感染傷口"
+          },
+          {
+            "sentence": "The virus can [infect] many people before symptoms appear.",
+            "translation_zh_TW": "該病毒可以在症狀出現前感染很多人"
+          },
+          {
+            "sentence": "To reduce risk, wash hands to prevent [infect]ion.",
+            "translation_zh_TW": "為了降低風險，洗手以防止感染"
+          }
+        ],
+        "synonyms": [
+          "contaminate",
+          "diseases"
+        ]
+      }
+    ],
+    "confusion": [
+      "effect",
+      "insect",
+      "inject",
+      "inflect"
+    ]
+  }
+]

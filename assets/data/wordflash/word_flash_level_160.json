@@ -1,0 +1,783 @@
+[
+  {
+    "word": "addict",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is physically or mentally dependent on a particular substance.",
+        "meaning_zh_TW": "上癮者",
+        "wrong_meaning_zh_TW": [
+          "醫生",
+          "運動員",
+          "學生"
+        ],
+        "examples": [
+          {
+            "sentence": "He realized he was an [addict] after several failed attempts to quit.",
+            "translation_zh_TW": "他意識到自己是一個上癮者，因為幾次戒菸都失敗了。"
+          },
+          {
+            "sentence": "Many [addicts] struggle to gain control over their cravings.",
+            "translation_zh_TW": "許多上癮者努力控制他們的渴望。"
+          },
+          {
+            "sentence": "Support groups are essential for helping [addicts] recover.",
+            "translation_zh_TW": "支持小組對幫助上癮者康復至關重要。"
+          }
+        ],
+        "synonyms": [
+          "dependent",
+          "habitual user"
+        ]
+      }
+    ],
+    "confusion": [
+      "addicted",
+      "adduce",
+      "addition",
+      "add"
+    ]
+  },
+  {
+    "word": "unite",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To come together or cause to come together to form a single entity.",
+        "meaning_zh_TW": "合併、團結",
+        "wrong_meaning_zh_TW": [
+          "分開、拆分",
+          "破壞、損壞",
+          "忙碌、忙於"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [unite] for a common cause.",
+            "translation_zh_TW": "他們決定為共同的目標團結起來。"
+          },
+          {
+            "sentence": "Different groups can [unite] to effect change.",
+            "translation_zh_TW": "不同的團體可以團結起來以促成改變。"
+          },
+          {
+            "sentence": "A strong leader can help [unite] the community.",
+            "translation_zh_TW": "一位強有力的領袖可以幫助團結社區。"
+          }
+        ],
+        "synonyms": [
+          "merge",
+          "join",
+          "integrate"
+        ]
+      }
+    ],
+    "confusion": [
+      "unit",
+      "untie",
+      "united",
+      "unitec"
+    ]
+  },
+  {
+    "word": "tow",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To pull or drag something with a vehicle, often with a rope or chain.",
+        "meaning_zh_TW": "拖曳",
+        "wrong_meaning_zh_TW": [
+          "賣掉",
+          "拍攝",
+          "派出"
+        ],
+        "examples": [
+          {
+            "sentence": "They had to [tow] the broken car to the garage.",
+            "translation_zh_TW": "他們不得不把壞掉的車拖到修車廠。"
+          },
+          {
+            "sentence": "The boat was [towed] by a larger vessel.",
+            "translation_zh_TW": "這艘小船被一艘較大的船拖曳。"
+          },
+          {
+            "sentence": "You shouldn't [tow] more than one vehicle at a time.",
+            "translation_zh_TW": "你不應該一次拖曳多於一輛車輛。"
+          }
+        ],
+        "synonyms": [
+          "pull",
+          "haul"
+        ]
+      }
+    ],
+    "confusion": [
+      "toward",
+      "towel",
+      "town",
+      "towester"
+    ]
+  },
+  {
+    "word": "crawl",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move on hands and knees or by dragging the body close to the ground.",
+        "meaning_zh_TW": "爬行",
+        "wrong_meaning_zh_TW": [
+          "飛行",
+          "跳躍",
+          "走路"
+        ],
+        "examples": [
+          {
+            "sentence": "The baby began to [crawl] towards his toy.",
+            "translation_zh_TW": "嬰兒開始朝著他的玩具爬過去。"
+          },
+          {
+            "sentence": "She had to [crawl] under the low table.",
+            "translation_zh_TW": "她必須爬到低桌子下。"
+          },
+          {
+            "sentence": "They saw the children [crawl] in the garden.",
+            "translation_zh_TW": "他們看到孩子們在花園裡爬行。"
+          }
+        ],
+        "synonyms": [
+          "creep",
+          "slink"
+        ]
+      }
+    ],
+    "confusion": [
+      "craw",
+      "claw",
+      "crull",
+      "cruel"
+    ]
+  },
+  {
+    "word": "wipe",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To clean or dry something by rubbing it.",
+        "meaning_zh_TW": "擦拭",
+        "wrong_meaning_zh_TW": [
+          "撕裂",
+          "淹沒",
+          "扭轉"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [wipe] the table before dinner.",
+            "translation_zh_TW": "請在晚餐前擦拭桌子。"
+          },
+          {
+            "sentence": "He used a cloth to [wipe] his glasses.",
+            "translation_zh_TW": "他用布擦拭他的眼鏡。"
+          },
+          {
+            "sentence": "Don't forget to [wipe] your hands after washing.",
+            "translation_zh_TW": "洗手後不要忘記擦手。"
+          }
+        ],
+        "synonyms": [
+          "clean",
+          "rub"
+        ]
+      }
+    ],
+    "confusion": [
+      "type",
+      "tape",
+      "wipeout",
+      "whip"
+    ]
+  },
+  {
+    "word": "donkey",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A domesticated hoofed mammal used as a beast of burden.",
+        "meaning_zh_TW": "驢子",
+        "wrong_meaning_zh_TW": [
+          "馬",
+          "羊",
+          "豬"
+        ],
+        "examples": [
+          {
+            "sentence": "The farmer has a [donkey] for carrying loads.",
+            "translation_zh_TW": "農夫有一頭驢子用來搬運貨物。"
+          },
+          {
+            "sentence": "She rode a [donkey] up the hill.",
+            "translation_zh_TW": "她騎著驢子上山。"
+          },
+          {
+            "sentence": "The [donkey] brayed loudly in the morning.",
+            "translation_zh_TW": "驢子在早晨大聲叫。"
+          }
+        ],
+        "synonyms": [
+          "ass",
+          "burro"
+        ]
+      }
+    ],
+    "confusion": [
+      "donkeyish",
+      "don",
+      "dinky",
+      "doney"
+    ]
+  },
+  {
+    "word": "multiply",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To increase or cause to increase greatly in number or quantity.",
+        "meaning_zh_TW": "乘，增加",
+        "wrong_meaning_zh_TW": [
+          "減少",
+          "平分",
+          "計算"
+        ],
+        "examples": [
+          {
+            "sentence": "You can [multiply] two by three to get six.",
+            "translation_zh_TW": "你可以將二乘以三得到六。"
+          },
+          {
+            "sentence": "They aim to [multiply] their profits this year.",
+            "translation_zh_TW": "他們希望今年增加利潤。"
+          },
+          {
+            "sentence": "Using this method, I can [multiply] the plants in my garden.",
+            "translation_zh_TW": "使用這種方法，我可以增加花園中的植物。"
+          }
+        ],
+        "synonyms": [
+          "increase",
+          "boost"
+        ]
+      }
+    ],
+    "confusion": [
+      "multiply",
+      "multiplier",
+      "molt",
+      "multiplayer"
+    ]
+  },
+  {
+    "word": "humorous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Funny or making you laugh.",
+        "meaning_zh_TW": "幽默的",
+        "wrong_meaning_zh_TW": [
+          "嚴肅的",
+          "無趣的",
+          "激烈的"
+        ],
+        "examples": [
+          {
+            "sentence": "His [humorous] stories always make me laugh.",
+            "translation_zh_TW": "他的幽默故事總是讓我笑"
+          },
+          {
+            "sentence": "She has a [humorous] way of looking at life.",
+            "translation_zh_TW": "她對生活有幽默的看法"
+          },
+          {
+            "sentence": "I enjoy [humorous] films more than serious ones.",
+            "translation_zh_TW": "我比起嚴肅的影片，更喜歡幽默的影片"
+          }
+        ],
+        "synonyms": [
+          "funny",
+          "witty"
+        ]
+      }
+    ],
+    "confusion": [
+      "humorously",
+      "humor",
+      "humorousness",
+      "humour"
+    ]
+  },
+  {
+    "word": "heap",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A collection of objects placed on top of each other.",
+        "meaning_zh_TW": "一堆",
+        "wrong_meaning_zh_TW": [
+          "單一物體",
+          "清單",
+          "圓形"
+        ],
+        "examples": [
+          {
+            "sentence": "She found a [heap] of leaves in the yard.",
+            "translation_zh_TW": "她在院子裡發現了一堆落葉"
+          },
+          {
+            "sentence": "There was a [heap] of laundry waiting to be folded.",
+            "translation_zh_TW": "有一堆待折的衣服"
+          },
+          {
+            "sentence": "He built a [heap] of stones for the project.",
+            "translation_zh_TW": "他為這個項目堆了一堆石頭"
+          }
+        ],
+        "synonyms": [
+          "pile",
+          "stack"
+        ]
+      }
+    ],
+    "confusion": [
+      "heapster",
+      "heep",
+      "heaps",
+      "hype"
+    ]
+  },
+  {
+    "word": "energetic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Showing or involving great activity or vitality.",
+        "meaning_zh_TW": "精力充沛，活躍的",
+        "wrong_meaning_zh_TW": [
+          "疲倦的",
+          "無精打采的",
+          "靜止的"
+        ],
+        "examples": [
+          {
+            "sentence": "The dog was [energetic] and loved to play fetch.",
+            "translation_zh_TW": "這隻狗精力充沛，喜歡玩接球遊戲。"
+          },
+          {
+            "sentence": "She had an [energetic] personality that attracted everyone.",
+            "translation_zh_TW": "她擁有迷人的活潑個性，吸引了每個人。"
+          },
+          {
+            "sentence": "The [energetic] music got everyone dancing.",
+            "translation_zh_TW": "那活潑的音樂讓每個人都開始跳舞。"
+          }
+        ],
+        "synonyms": [
+          "lively",
+          "vigorous"
+        ]
+      }
+    ],
+    "confusion": [
+      "energy",
+      "energies",
+      "energetically",
+      "energize"
+    ]
+  },
+  {
+    "word": "jaw",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The lower part of the face, containing the mouth and teeth.",
+        "meaning_zh_TW": "下顎",
+        "wrong_meaning_zh_TW": [
+          "肩膀",
+          "眉毛",
+          "鼻子"
+        ],
+        "examples": [
+          {
+            "sentence": "He broke his [jaw] in the accident.",
+            "translation_zh_TW": "他在事故中摔斷了下顎"
+          },
+          {
+            "sentence": "She clenched her [jaw] in anger.",
+            "translation_zh_TW": "她因生氣而緊咬下顎"
+          },
+          {
+            "sentence": "The doctor checked his [jaw] for injuries.",
+            "translation_zh_TW": "醫生檢查他的下顎是否受傷"
+          }
+        ],
+        "synonyms": [
+          "mandible",
+          "chin"
+        ]
+      }
+    ],
+    "confusion": [
+      "jow",
+      "jawel",
+      "jawn",
+      "jawes"
+    ]
+  },
+  {
+    "word": "optimistic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Hopeful and confident about the future.",
+        "meaning_zh_TW": "樂觀",
+        "wrong_meaning_zh_TW": [
+          "悲觀的",
+          "未來的計畫",
+          "短期目標"
+        ],
+        "examples": [
+          {
+            "sentence": "She remains [optimistic] despite the challenges.",
+            "translation_zh_TW": "儘管面對挑戰，她依然保持樂觀。"
+          },
+          {
+            "sentence": "His [optimistic] nature helps him overcome difficulties.",
+            "translation_zh_TW": "他樂觀的性格幫助他克服困難。"
+          },
+          {
+            "sentence": "An [optimistic] outlook can lead to better health.",
+            "translation_zh_TW": "樂觀的展望可以帶來更好的健康。"
+          }
+        ],
+        "synonyms": [
+          "positive",
+          "hopeful"
+        ]
+      }
+    ],
+    "confusion": [
+      "optical",
+      "optimist",
+      "optimization",
+      "optimism"
+    ]
+  },
+  {
+    "word": "sorrow",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of deep distress caused by loss, disappointment, or other misfortune.",
+        "meaning_zh_TW": "悲傷、悲痛",
+        "wrong_meaning_zh_TW": [
+          "喜悅",
+          "快樂",
+          "輕鬆"
+        ],
+        "examples": [
+          {
+            "sentence": "She expressed her [sorrow] at the loss of her friend.",
+            "translation_zh_TW": "她對失去朋友感到悲痛。"
+          },
+          {
+            "sentence": "His eyes were full of [sorrow] when he spoke.",
+            "translation_zh_TW": "當他說話時，眼中充滿了悲傷。"
+          },
+          {
+            "sentence": "The news filled the community with [sorrow].",
+            "translation_zh_TW": "這消息讓社區充滿了悲傷。"
+          }
+        ],
+        "synonyms": [
+          "grief",
+          "sadness"
+        ]
+      }
+    ],
+    "confusion": [
+      "sorrowful",
+      "sorrowed",
+      "sorrw",
+      "soro"
+    ]
+  },
+  {
+    "word": "rectangle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A four-sided figure with opposite sides equal and parallel.",
+        "meaning_zh_TW": "矩形",
+        "wrong_meaning_zh_TW": [
+          "圓形",
+          "三角形",
+          "多邊形"
+        ],
+        "examples": [
+          {
+            "sentence": "A standard sheet of paper is a [rectangle].",
+            "translation_zh_TW": "標準的紙張是矩形"
+          },
+          {
+            "sentence": "The playground features a large [rectangle] for games.",
+            "translation_zh_TW": "遊樂場設有一個大型矩形區域供遊戲使用"
+          },
+          {
+            "sentence": "You can divide the [rectangle] into smaller squares.",
+            "translation_zh_TW": "您可以將矩形分成更小的正方形"
+          }
+        ],
+        "synonyms": [
+          "quadrilateral",
+          "parallelogram"
+        ]
+      }
+    ],
+    "confusion": [
+      "rectangule",
+      "rectangel",
+      "rectangl",
+      "retangle"
+    ]
+  },
+  {
+    "word": "queer",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Strange or odd from a conventional viewpoint.",
+        "meaning_zh_TW": "奇怪的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "常見的",
+          "普遍的"
+        ],
+        "examples": [
+          {
+            "sentence": "His methods seemed [queer] to the seasoned researchers.",
+            "translation_zh_TW": "對於資深研究者來說，他的方法似乎是奇怪的。"
+          },
+          {
+            "sentence": "There was a [queer] smell in the room.",
+            "translation_zh_TW": "房間裡有一種奇怪的氣味。"
+          },
+          {
+            "sentence": "She wore a [queer] hat that caught everyone's attention.",
+            "translation_zh_TW": "她戴著一頂引人注目的奇怪帽子。"
+          }
+        ],
+        "synonyms": [
+          "strange",
+          "odd",
+          "peculiar"
+        ]
+      }
+    ],
+    "confusion": [
+      "queerly",
+      "quite",
+      "query",
+      "quail"
+    ]
+  },
+  {
+    "word": "comma",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A punctuation mark (,) indicating a pause between parts of a sentence.",
+        "meaning_zh_TW": "逗號",
+        "wrong_meaning_zh_TW": [
+          "句號",
+          "分號",
+          "感嘆號"
+        ],
+        "examples": [
+          {
+            "sentence": "Please use a [comma] to separate the items in the list.",
+            "translation_zh_TW": "請使用逗號來分隔列表中的項目"
+          },
+          {
+            "sentence": "In writing, a [comma] can clarify meaning.",
+            "translation_zh_TW": "在寫作中，逗號可以澄清意思"
+          },
+          {
+            "sentence": "He forgot to place a [comma] before the conjunction.",
+            "translation_zh_TW": "他忘了在連接詞前放置逗號"
+          }
+        ],
+        "synonyms": [
+          "punctuation mark",
+          "separator"
+        ]
+      }
+    ],
+    "confusion": [
+      "commas",
+      "commas",
+      "coma",
+      "compa"
+    ]
+  },
+  {
+    "word": "pigeon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A common bird, typically gray, with a plump body and a short neck, often found in urban areas.",
+        "meaning_zh_TW": "鴿子",
+        "wrong_meaning_zh_TW": [
+          "鷹",
+          "鷗",
+          "火雞"
+        ],
+        "examples": [
+          {
+            "sentence": "The [pigeon] cooed softly on the windowsill.",
+            "translation_zh_TW": "鴿子在窗台上輕輕地咕咕叫。"
+          },
+          {
+            "sentence": "He fed the [pigeon] breadcrumbs in the park.",
+            "translation_zh_TW": "他在公園裡喂鴿子麵包屑。"
+          },
+          {
+            "sentence": "A flock of [pigeon] flew overhead.",
+            "translation_zh_TW": "一群鴿子在頭頂飛過。"
+          }
+        ],
+        "synonyms": [
+          "dove",
+          "squab"
+        ]
+      }
+    ],
+    "confusion": [
+      "pidgeon",
+      "pigion",
+      "pigeons",
+      "pidgin"
+    ]
+  },
+  {
+    "word": "parrot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A brightly colored bird known for its ability to mimic sounds, especially human speech.",
+        "meaning_zh_TW": "鸚鵡",
+        "wrong_meaning_zh_TW": [
+          "蒼鷹",
+          "刺蝟",
+          "麻雀"
+        ],
+        "examples": [
+          {
+            "sentence": "The [parrot] repeated everything he heard.",
+            "translation_zh_TW": "這隻鸚鵡重複了它聽到的一切。"
+          },
+          {
+            "sentence": "She taught her [parrot] to say 'hello'.",
+            "translation_zh_TW": "她教她的鸚鵡說「你好」。"
+          },
+          {
+            "sentence": "In the jungle, a [parrot] flew from branch to branch.",
+            "translation_zh_TW": "在叢林中，一隻鸚鵡在樹枝之間飛翔。"
+          }
+        ],
+        "synonyms": [
+          "macaw",
+          "cockatoo"
+        ]
+      }
+    ],
+    "confusion": [
+      "pairrot",
+      "parrout",
+      "parroted",
+      "parrit"
+    ]
+  },
+  {
+    "word": "cheek",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fleshy part of the face below the eye and between the nose and ear.",
+        "meaning_zh_TW": "臉頰",
+        "wrong_meaning_zh_TW": [
+          "耳朵",
+          "嘴巴",
+          "額頭"
+        ],
+        "examples": [
+          {
+            "sentence": "She kissed him on the [cheek].",
+            "translation_zh_TW": "她在他的臉頰上吻了一下。"
+          },
+          {
+            "sentence": "He felt the cold wind against his [cheek].",
+            "translation_zh_TW": "他感受到寒風冷冷地吹在他的臉頰上。"
+          },
+          {
+            "sentence": "A tear rolled down her [cheek].",
+            "translation_zh_TW": "一滴淚水沿著她的臉頰滑落。"
+          }
+        ],
+        "synonyms": [
+          "face",
+          "jowl"
+        ]
+      }
+    ],
+    "confusion": [
+      "cheeky",
+      "check",
+      "cheeks"
+    ]
+  },
+  {
+    "word": "farther",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At or to a greater distance.",
+        "meaning_zh_TW": "更遠的，距離更遠",
+        "wrong_meaning_zh_TW": [
+          "接近的，靠近的",
+          "微小的，短暫的",
+          "停滯的，不動的"
+        ],
+        "examples": [
+          {
+            "sentence": "He walked [farther] than anyone else.",
+            "translation_zh_TW": "他走得比其他人更遠。"
+          },
+          {
+            "sentence": "Can you run [farther] than yesterday?",
+            "translation_zh_TW": "你能跑得比昨天更遠嗎？"
+          },
+          {
+            "sentence": "The store is [farther] away than I thought.",
+            "translation_zh_TW": "那個商店比我想的更遠。"
+          }
+        ],
+        "synonyms": [
+          "beyond",
+          "further"
+        ]
+      }
+    ],
+    "confusion": [
+      "father",
+      "fartherer",
+      "furthur",
+      "farthering"
+    ]
+  }
+]

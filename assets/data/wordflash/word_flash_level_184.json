@@ -1,0 +1,761 @@
+[
+  {
+    "word": "grace",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Simple elegance or refinement of movement.",
+        "meaning_zh_TW": "優雅",
+        "wrong_meaning_zh_TW": [
+          "笨拙",
+          "粗俗",
+          "混亂"
+        ],
+        "examples": [
+          {
+            "sentence": "The dancer moved with such [grace].",
+            "translation_zh_TW": "舞者的動作如此優雅。"
+          },
+          {
+            "sentence": "She accepted the award with [grace].",
+            "translation_zh_TW": "她優雅地接受了獎項。"
+          },
+          {
+            "sentence": "He spoke with [grace] and poise.",
+            "translation_zh_TW": "他優雅地和鎮定地講話。"
+          }
+        ],
+        "synonyms": [
+          "elegance",
+          "poise"
+        ]
+      }
+    ],
+    "confusion": [
+      "grate",
+      "grassy",
+      "graced",
+      "graceless"
+    ]
+  },
+  {
+    "word": "formation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of forming or process of being formed.",
+        "meaning_zh_TW": "形成、構成",
+        "wrong_meaning_zh_TW": [
+          "消失",
+          "撤回",
+          "摧毀"
+        ],
+        "examples": [
+          {
+            "sentence": "The [formation] of the clouds signaled a storm.",
+            "translation_zh_TW": "雲的形成預示著一場風暴。"
+          },
+          {
+            "sentence": "The team practiced their troop [formation].",
+            "translation_zh_TW": "隊伍練習他們的陣型。"
+          },
+          {
+            "sentence": "An interesting rock [formation] can be seen here.",
+            "translation_zh_TW": "這裡可以看到有趣的岩石形成。"
+          }
+        ],
+        "synonyms": [
+          "creation",
+          "shaping"
+        ]
+      }
+    ],
+    "confusion": [
+      "formatione",
+      "formational",
+      "formatter",
+      "formate"
+    ]
+  },
+  {
+    "word": "fantastic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Extraordinarily good or attractive.",
+        "meaning_zh_TW": "極好的",
+        "wrong_meaning_zh_TW": [
+          "糟糕的",
+          "普通的",
+          "失敗的"
+        ],
+        "examples": [
+          {
+            "sentence": "The concert was absolutely [fantastic]!",
+            "translation_zh_TW": "演唱會簡直太棒了！"
+          },
+          {
+            "sentence": "He has a [fantastic] ability to solve problems.",
+            "translation_zh_TW": "他有著極好的解決問題的能力。"
+          },
+          {
+            "sentence": "Her [fantastic] ideas won her a prize.",
+            "translation_zh_TW": "她的極好構思為她贏得了獎項。"
+          }
+        ],
+        "synonyms": [
+          "amazing",
+          "extraordinary"
+        ]
+      }
+    ],
+    "confusion": [
+      "fantastique",
+      "fantastick",
+      "fantasy",
+      "fantised"
+    ]
+  },
+  {
+    "word": "stereo",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A system for reproducing sound using two or more speakers.",
+        "meaning_zh_TW": "立體音響系統",
+        "wrong_meaning_zh_TW": [
+          "單聲道",
+          "耳機",
+          "麥克風"
+        ],
+        "examples": [
+          {
+            "sentence": "He enjoys listening to music on his [stereo].",
+            "translation_zh_TW": "他喜歡在他的立體音響上聽音樂。"
+          },
+          {
+            "sentence": "The [stereo] system provides excellent sound quality.",
+            "translation_zh_TW": "這個立體音響系統提供出色的音質。"
+          },
+          {
+            "sentence": "We bought a new [stereo] for the living room.",
+            "translation_zh_TW": "我們為客廳買了一個新的立體音響。"
+          }
+        ],
+        "synonyms": [
+          "audio system",
+          "sound system"
+        ]
+      }
+    ],
+    "confusion": [
+      "stereotype",
+      "sterile",
+      "stereophonic",
+      "sterol"
+    ]
+  },
+  {
+    "word": "commit",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To carry out or perpetrate a crime or a wrongdoing.",
+        "meaning_zh_TW": "犯罪、投入",
+        "wrong_meaning_zh_TW": [
+          "承諾、保證",
+          "分配、分享",
+          "修理、固定"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [commit] to the project fully.",
+            "translation_zh_TW": "他決定完全投入這個項目"
+          },
+          {
+            "sentence": "They did not intend to [commit] any crimes.",
+            "translation_zh_TW": "他們並不打算犯任何罪"
+          },
+          {
+            "sentence": "She felt it was wrong to [commit] such an act.",
+            "translation_zh_TW": "她覺得這樣做是錯的"
+          }
+        ],
+        "synonyms": [
+          "perform",
+          "execute"
+        ]
+      }
+    ],
+    "confusion": [
+      "comet",
+      "commodity",
+      "committee",
+      "compliance"
+    ]
+  },
+  {
+    "word": "determination",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The quality of being determined to do or achieve something; firmness of purpose.",
+        "meaning_zh_TW": "決心",
+        "wrong_meaning_zh_TW": [
+          "懷疑",
+          "放棄",
+          "迷惑"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [determination] to succeed was evident.",
+            "translation_zh_TW": "她的成功決心顯而易見。"
+          },
+          {
+            "sentence": "With sheer [determination], he overcame the obstacles.",
+            "translation_zh_TW": "憑藉著絕對的決心，他克服了障礙。"
+          },
+          {
+            "sentence": "His [determination] to improve his skills paid off.",
+            "translation_zh_TW": "他提升技能的決心得到了回報。"
+          }
+        ],
+        "synonyms": [
+          "resolve",
+          "tenacity"
+        ]
+      }
+    ],
+    "confusion": [
+      "determined",
+      "determining",
+      "determine",
+      "determinism"
+    ]
+  },
+  {
+    "word": "disaster",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sudden event, such as an accident or a natural catastrophe, that causes great damage or loss.",
+        "meaning_zh_TW": "災難",
+        "wrong_meaning_zh_TW": [
+          "完美事件",
+          "成功案例",
+          "小問題"
+        ],
+        "examples": [
+          {
+            "sentence": "The earthquake was a major [disaster] for the community.",
+            "translation_zh_TW": "這次地震對社區來說是一場重大災難。"
+          },
+          {
+            "sentence": "They declared a state of emergency after the [disaster].",
+            "translation_zh_TW": "在災難發生後，他們宣布進入緊急狀態。"
+          },
+          {
+            "sentence": "The floods resulted in a humanitarian [disaster].",
+            "translation_zh_TW": "洪水造成了人道災難。"
+          }
+        ],
+        "synonyms": [
+          "catastrophe",
+          "calamity"
+        ]
+      }
+    ],
+    "confusion": [
+      "disasterous",
+      "dispel",
+      "disband",
+      "disough"
+    ]
+  },
+  {
+    "word": "instructor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who teaches a subject or skill.",
+        "meaning_zh_TW": "教練,講師",
+        "wrong_meaning_zh_TW": [
+          "助手",
+          "顧問",
+          "學生"
+        ],
+        "examples": [
+          {
+            "sentence": "The [instructor] explained the complex topic clearly.",
+            "translation_zh_TW": "這位講師清楚地解釋了複雜的主題。"
+          },
+          {
+            "sentence": "She is a certified fitness [instructor].",
+            "translation_zh_TW": "她是一名認證的健身教練。"
+          },
+          {
+            "sentence": "Our [instructor] for the course is very experienced.",
+            "translation_zh_TW": "我們的課程教練非常有經驗。"
+          }
+        ],
+        "synonyms": [
+          "teacher",
+          "trainer",
+          "educator"
+        ]
+      }
+    ],
+    "confusion": [
+      "constructor",
+      "institution",
+      "instructive",
+      "instructing"
+    ]
+  },
+  {
+    "word": "era",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A period of time marked by distinct features or events.",
+        "meaning_zh_TW": "時代,時期。",
+        "wrong_meaning_zh_TW": [
+          "日常生活",
+          "一瞬間",
+          "歷史"
+        ],
+        "examples": [
+          {
+            "sentence": "We are living in the digital [era].",
+            "translation_zh_TW": "我們生活在數位時代。"
+          },
+          {
+            "sentence": "The Victorian [era] was known for its cultural advancements.",
+            "translation_zh_TW": "維多利亞時代以其文化進步而聞名。"
+          },
+          {
+            "sentence": "Each [era] has its own unique challenges.",
+            "translation_zh_TW": "每一個時代都有其獨特的挑戰。"
+          }
+        ],
+        "synonyms": [
+          "period",
+          "epoch"
+        ]
+      }
+    ],
+    "confusion": [
+      "ear",
+      "erae",
+      "err",
+      "eraes"
+    ]
+  },
+  {
+    "word": "hurricane",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A type of storm characterized by a center of low pressure.",
+        "meaning_zh_TW": "颶風",
+        "wrong_meaning_zh_TW": [
+          "微風",
+          "飄雪",
+          "雷陣雨"
+        ],
+        "examples": [
+          {
+            "sentence": "The [hurricane] caused massive destruction in the coastal city.",
+            "translation_zh_TW": "這場颶風對沿海城市造成了巨大的破壞。"
+          },
+          {
+            "sentence": "Residents were advised to evacuate before the [hurricane] struck.",
+            "translation_zh_TW": "居民被建議在颶風來襲前撤離。"
+          },
+          {
+            "sentence": "During a [hurricane], it is important to stay indoors.",
+            "translation_zh_TW": "在颶風期間，待在室內是非常重要的。"
+          }
+        ],
+        "synonyms": [
+          "cyclone",
+          "typhoon"
+        ]
+      }
+    ],
+    "confusion": [
+      "hurnicane",
+      "hurrigator",
+      "hurican",
+      "hurriane"
+    ]
+  },
+  {
+    "word": "postage",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The fee for sending mail or packages via postal service.",
+        "meaning_zh_TW": "郵資",
+        "wrong_meaning_zh_TW": [
+          "包裝費",
+          "信封費",
+          "快遞費"
+        ],
+        "examples": [
+          {
+            "sentence": "He forgot to pay the [postage] for the letter.",
+            "translation_zh_TW": "他忘記支付信件的郵資。"
+          },
+          {
+            "sentence": "The [postage] for international shipping can be quite high.",
+            "translation_zh_TW": "國際郵寄的郵資可能相當高。"
+          },
+          {
+            "sentence": "Always check the [postage] rates before sending packages.",
+            "translation_zh_TW": "發送包裹之前，要始終檢查郵資費率。"
+          }
+        ],
+        "synonyms": [
+          "mail fee",
+          "shipping cost"
+        ]
+      }
+    ],
+    "confusion": [
+      "postaged",
+      "postg",
+      "posted",
+      "postages"
+    ]
+  },
+  {
+    "word": "crack",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A narrow break or fissure in something.",
+        "meaning_zh_TW": "裂縫",
+        "wrong_meaning_zh_TW": [
+          "整體",
+          "圓滑",
+          "完整"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a small [crack] in the wall.",
+            "translation_zh_TW": "牆上有一條小裂縫。"
+          },
+          {
+            "sentence": "She heard a loud [crack] when the branch broke.",
+            "translation_zh_TW": "當樹枝折斷時她聽到了巨大的裂響。"
+          },
+          {
+            "sentence": "The [crack] in the glass made it weak.",
+            "translation_zh_TW": "玻璃上的裂縫使其變得脆弱。"
+          }
+        ],
+        "synonyms": [
+          "fissure",
+          "fracture"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To break something either intentionally or unintentionally.",
+        "meaning_zh_TW": "打破",
+        "wrong_meaning_zh_TW": [
+          "修補",
+          "組裝",
+          "沉默"
+        ],
+        "examples": [
+          {
+            "sentence": "Don't [crack] the egg before you use it.",
+            "translation_zh_TW": "在使用之前不要打破這顆蛋。"
+          },
+          {
+            "sentence": "He tried to [crack] the code on his own.",
+            "translation_zh_TW": "他試著獨自破譯密碼。"
+          },
+          {
+            "sentence": "The thunder seemed to [crack] the sky.",
+            "translation_zh_TW": "雷聲似乎撕裂了天空。"
+          }
+        ],
+        "synonyms": [
+          "break",
+          "shatter"
+        ]
+      }
+    ],
+    "confusion": [
+      "track",
+      "crackup",
+      "cracked",
+      "cracking"
+    ]
+  },
+  {
+    "word": "craft",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An activity involving skill in making things by hand.",
+        "meaning_zh_TW": "工藝",
+        "wrong_meaning_zh_TW": [
+          "乾燥",
+          "修理",
+          "電路"
+        ],
+        "examples": [
+          {
+            "sentence": "She enjoys the [craft] of knitting.",
+            "translation_zh_TW": "她喜歡編織這項工藝。"
+          },
+          {
+            "sentence": "The local fair showcased many traditional [craft] items.",
+            "translation_zh_TW": "當地博覽會展示了許多傳統工藝品。"
+          },
+          {
+            "sentence": "He has mastered the [craft] of woodworking.",
+            "translation_zh_TW": "他已經掌握了木工這門工藝。"
+          }
+        ],
+        "synonyms": [
+          "art",
+          "skill"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A vessel for traveling.",
+        "meaning_zh_TW": "船隻",
+        "wrong_meaning_zh_TW": [
+          "汽車",
+          "飛機",
+          "火車"
+        ],
+        "examples": [
+          {
+            "sentence": "The old [craft] sailed across the ocean.",
+            "translation_zh_TW": "那艘古老的船隻在海上航行。"
+          },
+          {
+            "sentence": "The museum has several historic [craft] on display.",
+            "translation_zh_TW": "博物館展出了幾艘歷史船隻。"
+          },
+          {
+            "sentence": "They built a small [craft] to explore the lake.",
+            "translation_zh_TW": "他們建造了一艘小船來探索湖泊。"
+          }
+        ],
+        "synonyms": [
+          "vessel",
+          "boat"
+        ]
+      }
+    ],
+    "confusion": [
+      "crafty",
+      "croft",
+      "crave",
+      "cough"
+    ]
+  },
+  {
+    "word": "ethnic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to a particular race, culture, or nationality.",
+        "meaning_zh_TW": "民族的，種族的",
+        "wrong_meaning_zh_TW": [
+          "繁榮的",
+          "獨特的",
+          "金融的"
+        ],
+        "examples": [
+          {
+            "sentence": "The festival celebrates the [ethnic] diversity of the community.",
+            "translation_zh_TW": "這個節日慶祝社區的民族多樣性。"
+          },
+          {
+            "sentence": "They showcased [ethnic] dishes from various cultures.",
+            "translation_zh_TW": "他們展示了來自不同文化的民族菜餚。"
+          },
+          {
+            "sentence": "Understanding [ethnic] differences is important.",
+            "translation_zh_TW": "理解民族差異是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "cultural",
+          "racial"
+        ]
+      }
+    ],
+    "confusion": [
+      "ethic",
+      "enthic",
+      "ether",
+      "ethereal"
+    ]
+  },
+  {
+    "word": "guardian",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who protects or defends someone or something.",
+        "meaning_zh_TW": "監護人",
+        "wrong_meaning_zh_TW": [
+          "保護傘",
+          "顧問",
+          "朋友"
+        ],
+        "examples": [
+          {
+            "sentence": "The child is under the care of a legal [guardian].",
+            "translation_zh_TW": "這個孩子在合法監護人的照顧下。"
+          },
+          {
+            "sentence": "A [guardian] is responsible for the child's wellbeing.",
+            "translation_zh_TW": "監護人負責孩子的福祉。"
+          },
+          {
+            "sentence": "They appointed her as the [guardian] of their estate.",
+            "translation_zh_TW": "他們任命她為他們產業的監護人。"
+          }
+        ],
+        "synonyms": [
+          "protector",
+          "defender"
+        ]
+      }
+    ],
+    "confusion": [
+      "guarding",
+      "garden",
+      "guardianess",
+      "gardener"
+    ]
+  },
+  {
+    "word": "lecture",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An educational talk to an audience or class.",
+        "meaning_zh_TW": "演講；講座",
+        "wrong_meaning_zh_TW": [
+          "討論會",
+          "研究",
+          "練習"
+        ],
+        "examples": [
+          {
+            "sentence": "She attended a fascinating [lecture] on climate change.",
+            "translation_zh_TW": "她參加了一場有關氣候變化的精彩講座。"
+          },
+          {
+            "sentence": "The [lecture] will cover various aspects of literature.",
+            "translation_zh_TW": "這場講座將涵蓋文學的各個方面。"
+          },
+          {
+            "sentence": "He gave a [lecture] about the importance of recycling.",
+            "translation_zh_TW": "他進行了一場有關回收重要性的講座。"
+          }
+        ],
+        "synonyms": [
+          "talk",
+          "presentation"
+        ]
+      }
+    ],
+    "confusion": [
+      "lecturer",
+      "leisure",
+      "lectrum",
+      "lecturee"
+    ]
+  },
+  {
+    "word": "concentration",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or power of focusing one's attention or mental effort.",
+        "meaning_zh_TW": "集中、專注",
+        "wrong_meaning_zh_TW": [
+          "擴張",
+          "發散",
+          "模糊"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [concentration] improved after the break.",
+            "translation_zh_TW": "她的專注力在休息後有所提高。"
+          },
+          {
+            "sentence": "High levels of [concentration] can lead to greater productivity.",
+            "translation_zh_TW": "高水平的集中可以提高生產力。"
+          },
+          {
+            "sentence": "Meditation can help with [concentration].",
+            "translation_zh_TW": "冥想可以幫助集中注意力。"
+          }
+        ],
+        "synonyms": [
+          "focus",
+          "application"
+        ]
+      }
+    ],
+    "confusion": [
+      "concentrate",
+      "conception",
+      "conventional",
+      "conveyance"
+    ]
+  },
+  {
+    "word": "cabinet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of furniture with shelves, drawers, or compartments for storing or displaying items.",
+        "meaning_zh_TW": "櫃子",
+        "wrong_meaning_zh_TW": [
+          "箱子",
+          "桌子",
+          "椅子"
+        ],
+        "examples": [
+          {
+            "sentence": "She placed the dishes in the [cabinet] after washing them.",
+            "translation_zh_TW": "她洗完碗後把它們放進櫃子裡。"
+          },
+          {
+            "sentence": "The [cabinet] is filled with books and decorative items.",
+            "translation_zh_TW": "這個櫃子裡裝滿了書籍和裝飾物品。"
+          },
+          {
+            "sentence": "They painted the old [cabinet] to match the room's color.",
+            "translation_zh_TW": "他們把舊櫃子漆成與房間顏色相配的顏色。"
+          }
+        ],
+        "synonyms": [
+          "cupboard",
+          "shelf"
+        ]
+      }
+    ],
+    "confusion": [
+      "cabinetry",
+      "cabinetmaker",
+      "cabin",
+      "cabaret"
+    ]
+  }
+]

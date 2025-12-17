@@ -1,0 +1,749 @@
+[
+  {
+    "word": "second",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The second person or thing in a series or sequence.",
+        "meaning_zh_TW": "第二",
+        "wrong_meaning_zh_TW": [
+          "第一",
+          "第三",
+          "重複"
+        ],
+        "examples": [
+          {
+            "sentence": "He finished in [second] place.",
+            "translation_zh_TW": "他取得了第二名。"
+          },
+          {
+            "sentence": "The [second] option is the best one.",
+            "translation_zh_TW": "第二個選擇是最好的。"
+          },
+          {
+            "sentence": "She was born a [second] child.",
+            "translation_zh_TW": "她是家中的第二個孩子。"
+          }
+        ],
+        "synonyms": [
+          "two",
+          "secondly"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of time equal to one-sixtieth of a minute.",
+        "meaning_zh_TW": "秒",
+        "wrong_meaning_zh_TW": [
+          "分鐘",
+          "小時",
+          "毫秒"
+        ],
+        "examples": [
+          {
+            "sentence": "It takes a few [seconds] to boil an egg.",
+            "translation_zh_TW": "煮一個蛋需要幾秒鐘。"
+          },
+          {
+            "sentence": "She waited for a few [seconds] before answering.",
+            "translation_zh_TW": "她在回答之前等了幾秒鐘。"
+          },
+          {
+            "sentence": "The race was completed in under thirty [seconds].",
+            "translation_zh_TW": "比賽在不到三十秒內完成。"
+          }
+        ],
+        "synonyms": [
+          "minute",
+          "tick"
+        ]
+      }
+    ],
+    "confusion": [
+      "sencond",
+      "third",
+      "sec",
+      "scond"
+    ]
+  },
+  {
+    "word": "hot",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a high temperature.",
+        "meaning_zh_TW": "高溫的",
+        "wrong_meaning_zh_TW": [
+          "冷淡的",
+          "平淡無味的",
+          "不受歡迎的"
+        ],
+        "examples": [
+          {
+            "sentence": "The coffee is very [hot].",
+            "translation_zh_TW": "這咖啡非常燙。"
+          },
+          {
+            "sentence": "It's a [hot] day outside.",
+            "translation_zh_TW": "外面是一個炎熱的日子。"
+          },
+          {
+            "sentence": "Do not touch the [hot] stove.",
+            "translation_zh_TW": "不要碰熱爐子。"
+          }
+        ],
+        "synonyms": [
+          "warm",
+          "scorching"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Currently popular or trendy.",
+        "meaning_zh_TW": "當前流行的",
+        "wrong_meaning_zh_TW": [
+          "過時的",
+          "冷門的",
+          "不受歡迎的"
+        ],
+        "examples": [
+          {
+            "sentence": "This is a [hot] new trend.",
+            "translation_zh_TW": "這是一個熱門的新趨勢。"
+          },
+          {
+            "sentence": "That band is really [hot] right now.",
+            "translation_zh_TW": "那個樂隊現在真的很火。"
+          },
+          {
+            "sentence": "She writes about [hot] topics in her blog.",
+            "translation_zh_TW": "她在博客上寫熱話題。"
+          }
+        ],
+        "synonyms": [
+          "trendy",
+          "fashionable"
+        ]
+      }
+    ],
+    "confusion": [
+      "hat",
+      "hit",
+      "hott",
+      "hotte"
+    ]
+  },
+  {
+    "word": "cost",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The amount that needs to be paid or spent to buy or obtain something.",
+        "meaning_zh_TW": "成本",
+        "wrong_meaning_zh_TW": [
+          "收入",
+          "價格",
+          "預算"
+        ],
+        "examples": [
+          {
+            "sentence": "The total [cost] of the project was higher than expected.",
+            "translation_zh_TW": "這個項目的總成本高於預期"
+          },
+          {
+            "sentence": "Do you know the [cost] of this item?",
+            "translation_zh_TW": "你知道這件商品的成本嗎？"
+          },
+          {
+            "sentence": "They didn't consider the hidden [cost] of the service.",
+            "translation_zh_TW": "他們沒有考慮到服務的隱藏成本"
+          }
+        ],
+        "synonyms": [
+          "expense",
+          "price"
+        ]
+      }
+    ],
+    "confusion": [
+      "costly",
+      "coast",
+      "cast",
+      "costume"
+    ]
+  },
+  {
+    "word": "movie",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A series of moving images, often accompanied by sound, that tell a story.",
+        "meaning_zh_TW": "電影",
+        "wrong_meaning_zh_TW": [
+          "地方",
+          "電視",
+          "紀錄片"
+        ],
+        "examples": [
+          {
+            "sentence": "We're going to watch a [movie] tonight.",
+            "translation_zh_TW": "我們今晚去看一部電影。"
+          },
+          {
+            "sentence": "She loves watching romantic [movies].",
+            "translation_zh_TW": "她喜歡看浪漫的電影。"
+          },
+          {
+            "sentence": "Have you seen the latest [movie]?",
+            "translation_zh_TW": "你看過最新的電影嗎？"
+          }
+        ],
+        "synonyms": [
+          "film",
+          "picture"
+        ]
+      }
+    ],
+    "confusion": [
+      "muvie",
+      "moive",
+      "movi",
+      "moovie"
+    ]
+  },
+  {
+    "word": "say",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To utter words so as to convey information, an opinion, a feeling or intention, or an instruction.",
+        "meaning_zh_TW": "說、講",
+        "wrong_meaning_zh_TW": [
+          "唱歌",
+          "呼喊",
+          "咕噥"
+        ],
+        "examples": [
+          {
+            "sentence": "I want to [say] something important.",
+            "translation_zh_TW": "我想說一些重要的事情"
+          },
+          {
+            "sentence": "What did you [say] to her?",
+            "translation_zh_TW": "你對她說了什麼？"
+          },
+          {
+            "sentence": "He didn’t [say] a word during the meeting.",
+            "translation_zh_TW": "他在會議中一句話也沒說。"
+          }
+        ],
+        "synonyms": [
+          "express",
+          "state"
+        ]
+      }
+    ],
+    "confusion": [
+      "saw",
+      "sayd",
+      "sye",
+      "sai"
+    ]
+  },
+  {
+    "word": "test",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A procedure intended to establish the quality, performance, or reliability of something.",
+        "meaning_zh_TW": "測試、考試",
+        "wrong_meaning_zh_TW": [
+          "假期、休息",
+          "研讨、会议",
+          "範圍、報告"
+        ],
+        "examples": [
+          {
+            "sentence": "We have a [test] scheduled for next week.",
+            "translation_zh_TW": "我們下週有個測試安排。"
+          },
+          {
+            "sentence": "The [test] results will be available tomorrow.",
+            "translation_zh_TW": "測試結果將於明天公佈。"
+          },
+          {
+            "sentence": "She prepared thoroughly for the [test].",
+            "translation_zh_TW": "她為考試做了充分的準備。"
+          }
+        ],
+        "synonyms": [
+          "exam",
+          "assessment"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To assess the quality or performance of something.",
+        "meaning_zh_TW": "測試、考核",
+        "wrong_meaning_zh_TW": [
+          "忽視、放棄",
+          "宣佈、傳達",
+          "準備、開始"
+        ],
+        "examples": [
+          {
+            "sentence": "We need to [test] the new software before launch.",
+            "translation_zh_TW": "我們需要在發布之前測試新軟體。"
+          },
+          {
+            "sentence": "Will you [test] the device to ensure it works?",
+            "translation_zh_TW": "你會測試這個設備以確保它正常運作嗎？"
+          },
+          {
+            "sentence": "They will [test] the theory in the experiment.",
+            "translation_zh_TW": "他們將在實驗中測試這個理論。"
+          }
+        ],
+        "synonyms": [
+          "evaluate",
+          "assess"
+        ]
+      }
+    ],
+    "confusion": [
+      "taste",
+      "text",
+      "rest",
+      "teat"
+    ]
+  },
+  {
+    "word": "friend",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person you know well and regard with affection and trust.",
+        "meaning_zh_TW": "朋友",
+        "wrong_meaning_zh_TW": [
+          "敵人",
+          "陌生人",
+          "顧客"
+        ],
+        "examples": [
+          {
+            "sentence": "My [friend] helped me with my homework.",
+            "translation_zh_TW": "我的朋友幫我做了作業。"
+          },
+          {
+            "sentence": "We have been [friends] since childhood.",
+            "translation_zh_TW": "我們從小就是朋友。"
+          },
+          {
+            "sentence": "She introduced me to her [friend].",
+            "translation_zh_TW": "她把我介紹給她的朋友。"
+          }
+        ],
+        "synonyms": [
+          "companion",
+          "buddy"
+        ]
+      }
+    ],
+    "confusion": [
+      "fiend",
+      "froend",
+      "fren",
+      "frian"
+    ]
+  },
+  {
+    "word": "come",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move or travel toward or into a place thought of as near.",
+        "meaning_zh_TW": "來、過來",
+        "wrong_meaning_zh_TW": [
+          "去、離開",
+          "持續存在",
+          "站立不動"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you [come] to the party tonight?",
+            "translation_zh_TW": "你今晚能來派對嗎？"
+          },
+          {
+            "sentence": "She will [come] over for dinner later.",
+            "translation_zh_TW": "她晚些時候會過來吃晚餐"
+          },
+          {
+            "sentence": "When will you [come] back?",
+            "translation_zh_TW": "你什麼時候會回來？"
+          }
+        ],
+        "synonyms": [
+          "arrive",
+          "approach"
+        ]
+      }
+    ],
+    "confusion": [
+      "comb",
+      "came",
+      "cum",
+      "com"
+    ]
+  },
+  {
+    "word": "study",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To apply oneself to the acquisition of knowledge, as by reading, investigation, or practice.",
+        "meaning_zh_TW": "學習",
+        "wrong_meaning_zh_TW": [
+          "操控",
+          "思考",
+          "創造"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [study] for my final exams.",
+            "translation_zh_TW": "我需要為期末考試學習"
+          },
+          {
+            "sentence": "She spends hours every day [studying] history.",
+            "translation_zh_TW": "她每天花幾個小時學習歷史"
+          },
+          {
+            "sentence": "He decided to [study] abroad next year.",
+            "translation_zh_TW": "他決定明年去國外學習"
+          }
+        ],
+        "synonyms": [
+          "learn",
+          "review"
+        ]
+      }
+    ],
+    "confusion": [
+      "sludy",
+      "stubdy",
+      "studdy",
+      "stude"
+    ]
+  },
+  {
+    "word": "again",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Once more; another time.",
+        "meaning_zh_TW": "再一次",
+        "wrong_meaning_zh_TW": [
+          "特別地",
+          "有效率地",
+          "最終地"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you say it [again]?",
+            "translation_zh_TW": "你能再說一次嗎？"
+          },
+          {
+            "sentence": "I will try [again].",
+            "translation_zh_TW": "我會再試一次。"
+          },
+          {
+            "sentence": "Please read the book [again].",
+            "translation_zh_TW": "請再讀這本書一次。"
+          }
+        ],
+        "synonyms": [
+          "anew",
+          "once more"
+        ]
+      }
+    ],
+    "confusion": [
+      "against",
+      "againist",
+      "gane",
+      "gain"
+    ]
+  },
+  {
+    "word": "play",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "meaning_zh_TW": "玩耍",
+        "wrong_meaning_zh_TW": [
+          "工作",
+          "計算",
+          "運作"
+        ],
+        "examples": [
+          {
+            "sentence": "Children love to [play] in the park.",
+            "translation_zh_TW": "孩子們喜歡在公園裡玩耍"
+          },
+          {
+            "sentence": "He decided to [play] the guitar at the concert.",
+            "translation_zh_TW": "他決定在音樂會上彈吉他"
+          },
+          {
+            "sentence": "The team will [play] an important match tomorrow.",
+            "translation_zh_TW": "這支隊伍將在明天進行一場重要的比賽"
+          }
+        ],
+        "synonyms": [
+          "engage",
+          "frolic"
+        ]
+      }
+    ],
+    "confusion": [
+      "playa",
+      "plae",
+      "pllay",
+      "ply"
+    ]
+  },
+  {
+    "word": "never",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At no time in the past or future; on no occasion.",
+        "meaning_zh_TW": "從來不、絕不",
+        "wrong_meaning_zh_TW": [
+          "有時、偶爾",
+          "總是、永遠",
+          "一旦、常常"
+        ],
+        "examples": [
+          {
+            "sentence": "I have [never] seen such a beautiful sunset.",
+            "translation_zh_TW": "我從來沒有見過這麼美的日落。"
+          },
+          {
+            "sentence": "He will [never] give up.",
+            "translation_zh_TW": "他絕對不會放棄。"
+          },
+          {
+            "sentence": "She has [never] been to Paris.",
+            "translation_zh_TW": "她從未去過巴黎。"
+          }
+        ],
+        "synonyms": [
+          "not ever",
+          "at no time"
+        ]
+      }
+    ],
+    "confusion": [
+      "ever",
+      "nether",
+      "nevermore",
+      "nevar"
+    ]
+  },
+  {
+    "word": "street",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A public road in a city or town, typically with buildings on one or both sides.",
+        "meaning_zh_TW": "街道",
+        "wrong_meaning_zh_TW": [
+          "小徑",
+          "庭院",
+          "廣場"
+        ],
+        "examples": [
+          {
+            "sentence": "He lives on the same [street] as me.",
+            "translation_zh_TW": "他住在和我一樣的街道上。"
+          },
+          {
+            "sentence": "The festival was held on a busy [street].",
+            "translation_zh_TW": "節慶在繁忙的街道上舉行。"
+          },
+          {
+            "sentence": "She walked down the [street] to the market.",
+            "translation_zh_TW": "她沿著街道走到市場。"
+          }
+        ],
+        "synonyms": [
+          "avenue",
+          "roadway"
+        ]
+      }
+    ],
+    "confusion": [
+      "streat",
+      "strret",
+      "stream",
+      "streak"
+    ]
+  },
+  {
+    "word": "topic",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A subject of conversation or discussion.",
+        "meaning_zh_TW": "主題",
+        "wrong_meaning_zh_TW": [
+          "問題",
+          "答案",
+          "段落"
+        ],
+        "examples": [
+          {
+            "sentence": "Let's choose a [topic] for our presentation.",
+            "translation_zh_TW": "讓我們選擇一個主題來做報告。"
+          },
+          {
+            "sentence": "The essay covered a variety of [topics].",
+            "translation_zh_TW": "這篇論文涉及多種主題。"
+          },
+          {
+            "sentence": "What [topic] are you interested in discussing?",
+            "translation_zh_TW": "你有興趣討論什麼主題？"
+          }
+        ],
+        "synonyms": [
+          "subject",
+          "theme"
+        ]
+      }
+    ],
+    "confusion": [
+      "tropic",
+      "topicus",
+      "top",
+      "toopic"
+    ]
+  },
+  {
+    "word": "person",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A human being regarded as an individual.",
+        "meaning_zh_TW": "人",
+        "wrong_meaning_zh_TW": [
+          "生物",
+          "動物",
+          "物體"
+        ],
+        "examples": [
+          {
+            "sentence": "Every [person] has the right to their own opinion.",
+            "translation_zh_TW": "每個人都有權擁有自己的意見。"
+          },
+          {
+            "sentence": "She is an interesting [person] to talk to.",
+            "translation_zh_TW": "她是一個有趣的人可以交談。"
+          },
+          {
+            "sentence": "A kind [person] helps those in need.",
+            "translation_zh_TW": "善良的人會幫助有需要的人。"
+          }
+        ],
+        "synonyms": [
+          "individual",
+          "human"
+        ]
+      }
+    ],
+    "confusion": [
+      "persona",
+      "persons",
+      "personnel",
+      "personality"
+    ]
+  },
+  {
+    "word": "below",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At a lower level or layer.",
+        "meaning_zh_TW": "以下",
+        "wrong_meaning_zh_TW": [
+          "上面",
+          "旁邊",
+          "裡面"
+        ],
+        "examples": [
+          {
+            "sentence": "The temperature dropped [below] freezing.",
+            "translation_zh_TW": "氣溫降到冰點以下。"
+          },
+          {
+            "sentence": "You will find the answers [below] the questions.",
+            "translation_zh_TW": "你會在問題的下方找到答案。"
+          },
+          {
+            "sentence": "The basement is located [below] ground level.",
+            "translation_zh_TW": "地下室位於地面以下。"
+          }
+        ],
+        "synonyms": [
+          "under",
+          "beneath"
+        ]
+      }
+    ],
+    "confusion": [
+      "belong",
+      "bellow",
+      "behold",
+      "bee low"
+    ]
+  },
+  {
+    "word": "payment",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or process of paying someone or something.",
+        "meaning_zh_TW": "付款",
+        "wrong_meaning_zh_TW": [
+          "借款",
+          "折扣",
+          "獎金"
+        ],
+        "examples": [
+          {
+            "sentence": "The [payment] is due at the end of the month.",
+            "translation_zh_TW": "付款在月底到期。"
+          },
+          {
+            "sentence": "She made a [payment] for her new car.",
+            "translation_zh_TW": "她為她的新車付款。"
+          },
+          {
+            "sentence": "Online [payment] is becoming more popular.",
+            "translation_zh_TW": "在線付款越來越受歡迎。"
+          }
+        ],
+        "synonyms": [
+          "remittance",
+          "settlement"
+        ]
+      }
+    ],
+    "confusion": [
+      "payoff",
+      "payee",
+      "payable",
+      "payments"
+    ]
+  }
+]

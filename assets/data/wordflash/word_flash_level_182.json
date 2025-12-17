@@ -1,0 +1,786 @@
+[
+  {
+    "word": "contribution",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Something that you give or do in order to help achieve or provide something.",
+        "meaning_zh_TW": "貢獻",
+        "wrong_meaning_zh_TW": [
+          "不足",
+          "優惠",
+          "剝削"
+        ],
+        "examples": [
+          {
+            "sentence": "Her contribution to the project was invaluable.",
+            "translation_zh_TW": "她對這個項目的貢獻是無價的。"
+          },
+          {
+            "sentence": "The charity relies on donations as its main contribution.",
+            "translation_zh_TW": "這個慈善機構依賴捐款作為其主要貢獻。"
+          },
+          {
+            "sentence": "Every contribution counts towards the goal.",
+            "translation_zh_TW": "每一筆貢獻都對達成目標至關重要。"
+          }
+        ],
+        "synonyms": [
+          "donation",
+          "input"
+        ]
+      }
+    ],
+    "confusion": [
+      "contributory",
+      "composition",
+      "contradiction",
+      "contributer"
+    ]
+  },
+  {
+    "word": "formula",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mathematical relationship or rule expressed in symbols.",
+        "meaning_zh_TW": "公式、數式",
+        "wrong_meaning_zh_TW": [
+          "食譜",
+          "規則",
+          "計劃"
+        ],
+        "examples": [
+          {
+            "sentence": "You need the right [formula] to solve this equation.",
+            "translation_zh_TW": "你需要正確的公式來解這個方程式。"
+          },
+          {
+            "sentence": "The [formula] for water is H2O.",
+            "translation_zh_TW": "水的公式是H2O。"
+          },
+          {
+            "sentence": "They derived a new [formula] in chemistry.",
+            "translation_zh_TW": "他們在化學中推導出了一個新公式。"
+          }
+        ],
+        "synonyms": [
+          "equation",
+          "recipe"
+        ]
+      }
+    ],
+    "confusion": [
+      "formua",
+      "formulary",
+      "formulize",
+      "formilis"
+    ]
+  },
+  {
+    "word": "constitution",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.",
+        "meaning_zh_TW": "憲法",
+        "wrong_meaning_zh_TW": [
+          "法律",
+          "合約",
+          "條例"
+        ],
+        "examples": [
+          {
+            "sentence": "The country's [constitution] guarantees freedom of speech.",
+            "translation_zh_TW": "該國的憲法保障言論自由。"
+          },
+          {
+            "sentence": "Changes to the [constitution] require a supermajority vote.",
+            "translation_zh_TW": "對憲法的更改需要超級多數票。"
+          },
+          {
+            "sentence": "Every citizen has a right to understand the [constitution].",
+            "translation_zh_TW": "每位公民都有權理解憲法。"
+          }
+        ],
+        "synonyms": [
+          "fundamental law",
+          "charter",
+          "framework"
+        ]
+      }
+    ],
+    "confusion": [
+      "constitute",
+      "constitutional",
+      "constitutive",
+      "constitutionality"
+    ]
+  },
+  {
+    "word": "solar",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or determined by the sun.",
+        "meaning_zh_TW": "與太陽有關的",
+        "wrong_meaning_zh_TW": [
+          "月亮的",
+          "地球的",
+          "水星的"
+        ],
+        "examples": [
+          {
+            "sentence": "They installed [solar] panels on their roof.",
+            "translation_zh_TW": "他們在屋頂上安裝了太陽能面板。"
+          },
+          {
+            "sentence": "The [solar] system includes eight planets.",
+            "translation_zh_TW": "太陽系包括八個行星。"
+          },
+          {
+            "sentence": "She enjoys studying [solar] phenomena.",
+            "translation_zh_TW": "她喜歡研究太陽現象。"
+          }
+        ],
+        "synonyms": [
+          "sun-powered",
+          "heliacal"
+        ]
+      }
+    ],
+    "confusion": [
+      "solera",
+      "soar",
+      "solace",
+      "solars"
+    ]
+  },
+  {
+    "word": "resistance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The refusal to accept or comply with something.",
+        "meaning_zh_TW": "抵抗",
+        "wrong_meaning_zh_TW": [
+          "接受",
+          "順從",
+          "同意"
+        ],
+        "examples": [
+          {
+            "sentence": "There was strong [resistance] to the new policy.",
+            "translation_zh_TW": "對新政策有強烈的抵抗。"
+          },
+          {
+            "sentence": "The group organized a [resistance] against the changes.",
+            "translation_zh_TW": "該團體組織了一場抵抗變革的行動。"
+          },
+          {
+            "sentence": "His [resistance] to authority was well known.",
+            "translation_zh_TW": "他對權威的抵抗是眾所周知的。"
+          }
+        ],
+        "synonyms": [
+          "opposition",
+          "defiance"
+        ]
+      }
+    ],
+    "confusion": [
+      "resist",
+      "resistant",
+      "consistency",
+      "resistive"
+    ]
+  },
+  {
+    "word": "memorial",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Something, especially a structure, established to remind people of a person or event.",
+        "meaning_zh_TW": "紀念物",
+        "wrong_meaning_zh_TW": [
+          "常態",
+          "日常",
+          "減少"
+        ],
+        "examples": [
+          {
+            "sentence": "The [memorial] was built in honor of the fallen soldiers.",
+            "translation_zh_TW": "這個紀念物是為了紀念陣亡的士兵而建造的"
+          },
+          {
+            "sentence": "People gather at the [memorial] to pay their respects.",
+            "translation_zh_TW": "人們聚集在紀念物前以表達他們的敬意"
+          },
+          {
+            "sentence": "The city has various [memorials] for historical figures.",
+            "translation_zh_TW": "這座城市有多個紀念物用以紀念歷史人物"
+          }
+        ],
+        "synonyms": [
+          "tribute",
+          "commemoration"
+        ]
+      }
+    ],
+    "confusion": [
+      "memorabilia",
+      "memory",
+      "memorialize",
+      "memoir"
+    ]
+  },
+  {
+    "word": "insert",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To put something into something else.",
+        "meaning_zh_TW": "插入",
+        "wrong_meaning_zh_TW": [
+          "移動",
+          "擠壓",
+          "排除"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [insert] your ID card into the scanner.",
+            "translation_zh_TW": "請將您的身份證插入掃描器。"
+          },
+          {
+            "sentence": "He forgot to [insert] the right code.",
+            "translation_zh_TW": "他忘記輸入正確的代碼。"
+          },
+          {
+            "sentence": "You need to [insert] the batteries before using the remote.",
+            "translation_zh_TW": "使用遙控器之前需要插入電池。"
+          }
+        ],
+        "synonyms": [
+          "add",
+          "place",
+          "embed"
+        ]
+      }
+    ],
+    "confusion": [
+      "inserted",
+      "insect",
+      "inset",
+      "insure"
+    ]
+  },
+  {
+    "word": "romance",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of excitement and mystery associated with love.",
+        "meaning_zh_TW": "浪漫、戀愛",
+        "wrong_meaning_zh_TW": [
+          "友情",
+          "敵意",
+          "冷漠"
+        ],
+        "examples": [
+          {
+            "sentence": "Their relationship was full of [romance].",
+            "translation_zh_TW": "他們的關係充滿了浪漫。"
+          },
+          {
+            "sentence": "She loves the idea of [romance] on a quiet beach.",
+            "translation_zh_TW": "她喜歡在寧靜的海灘上浪漫的想法。"
+          },
+          {
+            "sentence": "The movie was a classic tale of [romance].",
+            "translation_zh_TW": "這部電影是一個經典的浪漫故事。"
+          }
+        ],
+        "synonyms": [
+          "affection",
+          "loving"
+        ]
+      }
+    ],
+    "confusion": [
+      "romancer",
+      "romantic",
+      "remance",
+      "romans"
+    ]
+  },
+  {
+    "word": "split",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To divide or separate into parts.",
+        "meaning_zh_TW": "分裂",
+        "wrong_meaning_zh_TW": [
+          "合併",
+          "統一",
+          "結合"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [split] the bill evenly.",
+            "translation_zh_TW": "他們決定均分賬單"
+          },
+          {
+            "sentence": "He will [split] the cake into eight pieces.",
+            "translation_zh_TW": "他會把蛋糕分成八塊"
+          },
+          {
+            "sentence": "The group began to [split] into smaller teams.",
+            "translation_zh_TW": "小組開始分成較小的團隊"
+          }
+        ],
+        "synonyms": [
+          "divide",
+          "separate",
+          "partition"
+        ]
+      }
+    ],
+    "confusion": [
+      "splt",
+      "spilt",
+      "splitter",
+      "splint"
+    ]
+  },
+  {
+    "word": "pregnant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a developing fetus in the womb.",
+        "meaning_zh_TW": "懷孕的",
+        "wrong_meaning_zh_TW": [
+          "肥胖的",
+          "憂鬱的",
+          "困惑的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is [pregnant] with her first child.",
+            "translation_zh_TW": "她懷著她的第一個孩子。"
+          },
+          {
+            "sentence": "They announced that they are [pregnant] last week.",
+            "translation_zh_TW": "他們上週宣布她懷孕了。"
+          },
+          {
+            "sentence": "Being [pregnant] can be both exciting and challenging.",
+            "translation_zh_TW": "懷孕既令人興奮又具挑戰性。"
+          }
+        ],
+        "synonyms": [
+          "expecting",
+          "with child"
+        ]
+      }
+    ],
+    "confusion": [
+      "pragnant",
+      "pregent",
+      "pregnants",
+      "pregrant"
+    ]
+  },
+  {
+    "word": "classification",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action or process of classifying something.",
+        "meaning_zh_TW": "分類",
+        "wrong_meaning_zh_TW": [
+          "組織",
+          "混亂",
+          "簡化"
+        ],
+        "examples": [
+          {
+            "sentence": "The [classification] of species is essential in biology.",
+            "translation_zh_TW": "物種的分類在生物學中至關重要。"
+          },
+          {
+            "sentence": "She worked on the [classification] of the library books.",
+            "translation_zh_TW": "她負責圖書館書籍的分類工作。"
+          },
+          {
+            "sentence": "Accurate [classification] helps in managing information effectively.",
+            "translation_zh_TW": "準確的分類有助於有效管理信息。"
+          }
+        ],
+        "synonyms": [
+          "categorization",
+          "organization"
+        ]
+      }
+    ],
+    "confusion": [
+      "classifications",
+      "classify",
+      "class",
+      "clarifies"
+    ]
+  },
+  {
+    "word": "physician",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A qualified medical practitioner.",
+        "meaning_zh_TW": "醫生",
+        "wrong_meaning_zh_TW": [
+          "病人",
+          "藥劑師",
+          "護士"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a respected [physician] in her community.",
+            "translation_zh_TW": "她在社區中是一位受人尊敬的醫生。"
+          },
+          {
+            "sentence": "The [physician] diagnosed the illness accurately.",
+            "translation_zh_TW": "醫生準確地診斷了疾病。"
+          },
+          {
+            "sentence": "I need to schedule an appointment with my [physician].",
+            "translation_zh_TW": "我需要預約我的醫生。"
+          }
+        ],
+        "synonyms": [
+          "doctor",
+          "medical practitioner"
+        ]
+      }
+    ],
+    "confusion": [
+      "physicist",
+      "physique",
+      "physic",
+      "physicist"
+    ]
+  },
+  {
+    "word": "bargain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An agreement between two or more parties as to the concerning the sale of goods or services.",
+        "meaning_zh_TW": "便宜貨",
+        "wrong_meaning_zh_TW": [
+          "爭論",
+          "宣傳",
+          "折扣券"
+        ],
+        "examples": [
+          {
+            "sentence": "I found a great bargain at the flea market.",
+            "translation_zh_TW": "我在集市上找到了一個很好的便宜貨"
+          },
+          {
+            "sentence": "The store is known for its bargains.",
+            "translation_zh_TW": "這家商店以其便宜貨而聞名"
+          },
+          {
+            "sentence": "They made a bargain that benefited both parties.",
+            "translation_zh_TW": "他們達成了一項兩方都有利的交易"
+          }
+        ],
+        "synonyms": [
+          "deal",
+          "negotiation"
+        ]
+      }
+    ],
+    "confusion": [
+      "bargaining",
+      "bartering",
+      "bargains",
+      "bargainable"
+    ]
+  },
+  {
+    "word": "spiritual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or affecting the human spirit or soul as opposed to material or physical things.",
+        "meaning_zh_TW": "精神上的",
+        "wrong_meaning_zh_TW": [
+          "物質的",
+          "物理的",
+          "實際的"
+        ],
+        "examples": [
+          {
+            "sentence": "She seeks [spiritual] growth through meditation.",
+            "translation_zh_TW": "她通過冥想尋求精神上的成長。"
+          },
+          {
+            "sentence": "Many cultures have [spiritual] beliefs tied to nature.",
+            "translation_zh_TW": "許多文化有與自然相關的精神信仰。"
+          },
+          {
+            "sentence": "He is on a journey for [spiritual] enlightenment.",
+            "translation_zh_TW": "他正在追求精神上的啟發。"
+          }
+        ],
+        "synonyms": [
+          "ethereal",
+          "transcendent"
+        ]
+      }
+    ],
+    "confusion": [
+      "spiterate",
+      "spirituality",
+      "spirit",
+      "spiral"
+    ]
+  },
+  {
+    "word": "shift",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move or cause to move from one place to another.",
+        "meaning_zh_TW": "移動，轉移",
+        "wrong_meaning_zh_TW": [
+          "固定",
+          "穩定",
+          "停留"
+        ],
+        "examples": [
+          {
+            "sentence": "She will [shift] her schedule to accommodate the meeting.",
+            "translation_zh_TW": "她將修改日程以配合會議"
+          },
+          {
+            "sentence": "He decided to [shift] the furniture around.",
+            "translation_zh_TW": "他決定重新移動家具"
+          },
+          {
+            "sentence": "The company plans to [shift] its focus to online sales.",
+            "translation_zh_TW": "公司計劃將重點轉向線上銷售"
+          }
+        ],
+        "synonyms": [
+          "move",
+          "change"
+        ]
+      }
+    ],
+    "confusion": [
+      "shrift",
+      "shifty",
+      "sift",
+      "shifters"
+    ]
+  },
+  {
+    "word": "flexible",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Easily bent or capable of being shaped.",
+        "meaning_zh_TW": "可彎曲的",
+        "wrong_meaning_zh_TW": [
+          "堅硬的",
+          "強壯的",
+          "模糊的"
+        ],
+        "examples": [
+          {
+            "sentence": "This material is very [flexible].",
+            "translation_zh_TW": "這種材料非常可彎曲。"
+          },
+          {
+            "sentence": "A [flexible] schedule can help manage time better.",
+            "translation_zh_TW": "靈活的時間表可以更好地管理時間。"
+          },
+          {
+            "sentence": "Yoga can make your body more [flexible].",
+            "translation_zh_TW": "瑜伽可以使你的身體更加靈活。"
+          }
+        ],
+        "synonyms": [
+          "bendable",
+          "adaptable"
+        ]
+      }
+    ],
+    "confusion": [
+      "flexibility",
+      "fluctuate",
+      "flect",
+      "flexiblely"
+    ]
+  },
+  {
+    "word": "numerous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Consisting of many items or elements; very many.",
+        "meaning_zh_TW": "許多的",
+        "wrong_meaning_zh_TW": [
+          "稀少的",
+          "單一的",
+          "稀有的"
+        ],
+        "examples": [
+          {
+            "sentence": "There are [numerous] ways to solve this problem.",
+            "translation_zh_TW": "有很多方法可以解決這個問題。"
+          },
+          {
+            "sentence": "She received [numerous] awards for her work.",
+            "translation_zh_TW": "她因工作的出色表現獲得了許多獎項。"
+          },
+          {
+            "sentence": "The park was filled with [numerous] visitors yesterday.",
+            "translation_zh_TW": "昨天公園裡有許多遊客。"
+          }
+        ],
+        "synonyms": [
+          "many",
+          "countless",
+          "abundant"
+        ]
+      }
+    ],
+    "confusion": [
+      "numerousness",
+      "numinous",
+      "numeraire",
+      "numerate"
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The feeling of pleasure or contentment from achieving something.",
+        "meaning_zh_TW": "滿足感",
+        "wrong_meaning_zh_TW": [
+          "不滿",
+          "失望",
+          "沮喪"
+        ],
+        "examples": [
+          {
+            "sentence": "She felt a sense of [satisfaction] after completing the project.",
+            "translation_zh_TW": "完成這個項目後，她感到一種滿足感"
+          },
+          {
+            "sentence": "His smile expressed his [satisfaction] with the meal.",
+            "translation_zh_TW": "他的微笑表達了他對這頓飯的滿意"
+          },
+          {
+            "sentence": "The [satisfaction] of achieving her goals was immense.",
+            "translation_zh_TW": "實現目標的滿足感是巨大的"
+          }
+        ],
+        "synonyms": [
+          "contentment",
+          "fulfillment"
+        ]
+      }
+    ],
+    "confusion": [
+      "satisfaction",
+      "satisfactory",
+      "sufficient",
+      "satire"
+    ]
+  },
+  {
+    "word": "intellectual",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the intellect or involving the use of the mind.",
+        "meaning_zh_TW": "智力的",
+        "wrong_meaning_zh_TW": [
+          "情感的",
+          "物理的",
+          "生理的"
+        ],
+        "examples": [
+          {
+            "sentence": "He engaged in an [intellectual] debate.",
+            "translation_zh_TW": "他參加了智力辯論。"
+          },
+          {
+            "sentence": "They appreciate [intellectual] pursuits like reading.",
+            "translation_zh_TW": "他們欣賞像閱讀這樣的智力追求。"
+          },
+          {
+            "sentence": "The film offers an [intellectual] challenge.",
+            "translation_zh_TW": "這部電影提供了智力上的挑戰。"
+          }
+        ],
+        "synonyms": [
+          "cerebral",
+          "thoughtful"
+        ]
+      }
+    ],
+    "confusion": [
+      "intellect",
+      "intelligence",
+      "intensive",
+      "interlectual"
+    ]
+  },
+  {
+    "word": "magnetic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having the properties of a magnet; capable of attracting iron and producing a magnetic field.",
+        "meaning_zh_TW": "磁性的",
+        "wrong_meaning_zh_TW": [
+          "美麗的",
+          "奇怪的",
+          "神秘的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [magnetic] force pulled the metal object towards it.",
+            "translation_zh_TW": "磁力將金屬物體拉向它。"
+          },
+          {
+            "sentence": "She was fascinated by the [magnetic] fields of the Earth.",
+            "translation_zh_TW": "她對地球的磁場感到著迷。"
+          },
+          {
+            "sentence": "He uses [magnetic] materials in his experiments.",
+            "translation_zh_TW": "他在實驗中使用了磁性材料。"
+          }
+        ],
+        "synonyms": [
+          "ferromagnetic",
+          "attracting"
+        ]
+      }
+    ],
+    "confusion": [
+      "magnet",
+      "magneto",
+      "magnetism",
+      "magnetize"
+    ]
+  }
+]

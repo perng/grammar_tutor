@@ -1,0 +1,782 @@
+[
+  {
+    "word": "aim",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To direct a goal or purpose towards something.",
+        "meaning_zh_TW": "目標",
+        "wrong_meaning_zh_TW": [
+          "隨便",
+          "忽略",
+          "放棄"
+        ],
+        "examples": [
+          {
+            "sentence": "He aims [to become] a doctor.",
+            "translation_zh_TW": "他的目標是成為一名醫生。"
+          },
+          {
+            "sentence": "The project aims [to improve] education.",
+            "translation_zh_TW": "這個項目的目標是改善教育。"
+          },
+          {
+            "sentence": "They aim [for success] in their careers.",
+            "translation_zh_TW": "他們的目標是在職業上取得成功。"
+          }
+        ],
+        "synonyms": [
+          "target",
+          "objective"
+        ]
+      }
+    ],
+    "confusion": [
+      "aiming",
+      "aimed",
+      "aime",
+      "aimy"
+    ]
+  },
+  {
+    "word": "meaning",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "What is meant by a word, text, concept, or action.",
+        "meaning_zh_TW": "意思",
+        "wrong_meaning_zh_TW": [
+          "外觀",
+          "聲音",
+          "長度"
+        ],
+        "examples": [
+          {
+            "sentence": "What is the [meaning] of this sentence?",
+            "translation_zh_TW": "這句話的意思是什麼？"
+          },
+          {
+            "sentence": "He asked for the [meaning] of the word.",
+            "translation_zh_TW": "他請求這個單詞的意思。"
+          },
+          {
+            "sentence": "Finding the [meaning] behind the art can be difficult.",
+            "translation_zh_TW": "找出藝術背後的意思可能會很困難。"
+          }
+        ],
+        "synonyms": [
+          "definition",
+          "significance"
+        ]
+      }
+    ],
+    "confusion": [
+      "meant",
+      "meaner",
+      "meanings",
+      "meaningful"
+    ]
+  },
+  {
+    "word": "secondary",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Second in order, rank, or importance.",
+        "meaning_zh_TW": "次要的",
+        "wrong_meaning_zh_TW": [
+          "主要的",
+          "基礎的",
+          "最重要的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [secondary] effects of the drug need to be studied.",
+            "translation_zh_TW": "藥物的次要效果需要進行研究。"
+          },
+          {
+            "sentence": "Education at this level is considered [secondary].",
+            "translation_zh_TW": "這個層級的教育被認為是次要的。"
+          },
+          {
+            "sentence": "They focused on [secondary] issues rather than the main problem.",
+            "translation_zh_TW": "他們專注於次要問題而非主要問題。"
+          }
+        ],
+        "synonyms": [
+          "lesser",
+          "subordinate"
+        ]
+      }
+    ],
+    "confusion": [
+      "secondarily",
+      "second",
+      "seconder",
+      "seconday"
+    ]
+  },
+  {
+    "word": "wonderful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Inspiring a feeling of wonder or delight.",
+        "meaning_zh_TW": "令人驚奇的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "可怕的",
+          "無趣的"
+        ],
+        "examples": [
+          {
+            "sentence": "The sunset was truly [wonderful].",
+            "translation_zh_TW": "日落真是令人驚嘆。"
+          },
+          {
+            "sentence": "She has a [wonderful] sense of humor.",
+            "translation_zh_TW": "她的幽默感真是太棒了。"
+          },
+          {
+            "sentence": "It's a [wonderful] day to be outside.",
+            "translation_zh_TW": "今天是戶外活動的好日子。"
+          }
+        ],
+        "synonyms": [
+          "marvelous",
+          "fantastic"
+        ]
+      }
+    ],
+    "confusion": [
+      "wondrous",
+      "wonder",
+      "wonderland",
+      "wondering"
+    ]
+  },
+  {
+    "word": "soccer",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play.",
+        "meaning_zh_TW": "足球",
+        "wrong_meaning_zh_TW": [
+          "羽毛球",
+          "手球",
+          "賽車"
+        ],
+        "examples": [
+          {
+            "sentence": "He plays [soccer] every weekend.",
+            "translation_zh_TW": "他每個週末都打足球"
+          },
+          {
+            "sentence": "The world cup is the biggest event in [soccer].",
+            "translation_zh_TW": "世界杯是足球界最大的比賽"
+          },
+          {
+            "sentence": "She dreams of becoming a professional [soccer] player.",
+            "translation_zh_TW": "她夢想成為一名職業足球運動員"
+          }
+        ],
+        "synonyms": [
+          "football",
+          "association football"
+        ]
+      }
+    ],
+    "confusion": [
+      "socker",
+      "s'accor",
+      "soccor",
+      "soaker"
+    ]
+  },
+  {
+    "word": "instant",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Immediate; occurring or done at once.",
+        "meaning_zh_TW": "立即的",
+        "wrong_meaning_zh_TW": [
+          "遲緩的",
+          "延遲的",
+          "持久的"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt an [instant] connection with her.",
+            "translation_zh_TW": "他立即感到與她的聯繫。"
+          },
+          {
+            "sentence": "The service offers [instant] results.",
+            "translation_zh_TW": "該服務提供立即的結果。"
+          },
+          {
+            "sentence": "She has an [instant] response to the question.",
+            "translation_zh_TW": "她對這個問題有立即的反應。"
+          }
+        ],
+        "synonyms": [
+          "immediate",
+          "prompt"
+        ]
+      }
+    ],
+    "confusion": [
+      "instinct",
+      "instantaneous",
+      "instar",
+      "distinct"
+    ]
+  },
+  {
+    "word": "ahead",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In or toward the front.",
+        "meaning_zh_TW": "在前面",
+        "wrong_meaning_zh_TW": [
+          "後面",
+          "周圍",
+          "上方"
+        ],
+        "examples": [
+          {
+            "sentence": "The road [ahead] is clear.",
+            "translation_zh_TW": "前面的道路是暢通的。"
+          },
+          {
+            "sentence": "She has a bright future [ahead].",
+            "translation_zh_TW": "她的未來光明可期。"
+          },
+          {
+            "sentence": "Keep your eyes [ahead] while driving.",
+            "translation_zh_TW": "開車時保持眼睛注視前方。"
+          }
+        ],
+        "synonyms": [
+          "forward",
+          "in front"
+        ]
+      }
+    ],
+    "confusion": [
+      "aheadt",
+      "ahad",
+      "heead",
+      "alhead"
+    ]
+  },
+  {
+    "word": "manner",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A way in which a thing is done or happens.",
+        "meaning_zh_TW": "方式、方法",
+        "wrong_meaning_zh_TW": [
+          "風格",
+          "意圖",
+          "主題"
+        ],
+        "examples": [
+          {
+            "sentence": "She spoke in a polite [manner].",
+            "translation_zh_TW": "她以禮貌的方式說話。"
+          },
+          {
+            "sentence": "The artist has a unique [manner] of painting.",
+            "translation_zh_TW": "這位藝術家有獨特的畫畫方式。"
+          },
+          {
+            "sentence": "We should conduct ourselves in a professional [manner].",
+            "translation_zh_TW": "我們應該以專業的方式行事。"
+          }
+        ],
+        "synonyms": [
+          "method",
+          "style"
+        ]
+      }
+    ],
+    "confusion": [
+      "manners",
+      "manor",
+      "maner",
+      "mannered"
+    ]
+  },
+  {
+    "word": "proper",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Correct or suitable; appropriate for the situation.",
+        "meaning_zh_TW": "適當的",
+        "wrong_meaning_zh_TW": [
+          "錯誤的",
+          "普通的",
+          "隨便的"
+        ],
+        "examples": [
+          {
+            "sentence": "It's important to wear [proper] attire to the event.",
+            "translation_zh_TW": "穿著適當的服裝參加活動很重要"
+          },
+          {
+            "sentence": "Make sure you have a [proper] understanding of the rules.",
+            "translation_zh_TW": "確保你對這些規則有適當的理解"
+          },
+          {
+            "sentence": "A [proper] diet is essential for good health.",
+            "translation_zh_TW": "均衡的飲食對健康至關重要"
+          }
+        ],
+        "synonyms": [
+          "appropriate",
+          "suitable"
+        ]
+      }
+    ],
+    "confusion": [
+      "popper",
+      "propre",
+      "propet",
+      "pproper"
+    ]
+  },
+  {
+    "word": "fear",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An unpleasant emotion caused by the belief that someone or something is dangerous.",
+        "meaning_zh_TW": "恐懼",
+        "wrong_meaning_zh_TW": [
+          "興奮",
+          "快樂",
+          "安慰"
+        ],
+        "examples": [
+          {
+            "sentence": "He felt a deep [fear] as he walked alone at night.",
+            "translation_zh_TW": "他晚上獨自行走時感到一陣深深的恐懼。"
+          },
+          {
+            "sentence": "Her [fear] of heights kept her from climbing the mountain.",
+            "translation_zh_TW": "她對高度的恐懼使她無法爬上山。"
+          },
+          {
+            "sentence": "Facing his [fear] was a significant step for him.",
+            "translation_zh_TW": "面對他的恐懼對他來說是重要的一步。"
+          }
+        ],
+        "synonyms": [
+          "anxiety",
+          "terror"
+        ]
+      }
+    ],
+    "confusion": [
+      "fearr",
+      "fere",
+      "feer",
+      "fearer"
+    ]
+  },
+  {
+    "word": "principal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The person with the highest authority in an organization.",
+        "meaning_zh_TW": "校長、首長",
+        "wrong_meaning_zh_TW": [
+          "教師",
+          "學生",
+          "助理"
+        ],
+        "examples": [
+          {
+            "sentence": "The [principal] addressed the students during assembly.",
+            "translation_zh_TW": "校長在會議中向學生發表講話"
+          },
+          {
+            "sentence": "She is the [principal] of the local high school.",
+            "translation_zh_TW": "她是當地高中的校長"
+          },
+          {
+            "sentence": "The [principal] made important decisions for the school.",
+            "translation_zh_TW": "校長為學校做出重要決策"
+          }
+        ],
+        "synonyms": [
+          "headmaster",
+          "leader"
+        ]
+      }
+    ],
+    "confusion": [
+      "principle",
+      "princpal",
+      "principel",
+      "principalship"
+    ]
+  },
+  {
+    "word": "beat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To strike repeatedly.",
+        "meaning_zh_TW": "敲打、打擊",
+        "wrong_meaning_zh_TW": [
+          "拍打",
+          "夢想",
+          "撒謊"
+        ],
+        "examples": [
+          {
+            "sentence": "He likes to [beat] the drum in the band.",
+            "translation_zh_TW": "他喜歡在樂隊中敲打鼓。"
+          },
+          {
+            "sentence": "She will [beat] her record in the upcoming competition.",
+            "translation_zh_TW": "她將在即將到來的比賽中打破自己的記錄。"
+          },
+          {
+            "sentence": "Make sure you [beat] the eggs well before cooking.",
+            "translation_zh_TW": "確保你在烹飪之前把蛋打得很好。"
+          }
+        ],
+        "synonyms": [
+          "strike",
+          "hit"
+        ]
+      }
+    ],
+    "confusion": [
+      "seat",
+      "beet",
+      "beaten",
+      "bait"
+    ]
+  },
+  {
+    "word": "nearby",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Located a short distance away.",
+        "meaning_zh_TW": "在附近",
+        "wrong_meaning_zh_TW": [
+          "在遠處",
+          "在外面",
+          "在上面"
+        ],
+        "examples": [
+          {
+            "sentence": "There is a park [nearby].",
+            "translation_zh_TW": "附近有一個公園"
+          },
+          {
+            "sentence": "We found a restaurant [nearby].",
+            "translation_zh_TW": "我們在附近找到了一家餐廳"
+          },
+          {
+            "sentence": "The store is [nearby] and easy to access.",
+            "translation_zh_TW": "這家商店在附近，容易到達"
+          }
+        ],
+        "synonyms": [
+          "close",
+          "adjacent"
+        ]
+      }
+    ],
+    "confusion": [
+      "nearly",
+      "neater",
+      "bear",
+      "dear"
+    ]
+  },
+  {
+    "word": "indeed",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "Used to emphasize a statement or response.",
+        "meaning_zh_TW": "確實",
+        "wrong_meaning_zh_TW": [
+          "或許",
+          "可能",
+          "不一定"
+        ],
+        "examples": [
+          {
+            "sentence": "He is, [indeed], a talented musician.",
+            "translation_zh_TW": "他確實是一位才華橫溢的音樂家。"
+          },
+          {
+            "sentence": "The task was challenging, [indeed].",
+            "translation_zh_TW": "這項任務確實很具挑戰性。"
+          },
+          {
+            "sentence": "[Indeed], we must address this issue immediately.",
+            "translation_zh_TW": "確實，我們必須立即解決這個問題。"
+          }
+        ],
+        "synonyms": [
+          "truly",
+          "certainly"
+        ]
+      }
+    ],
+    "confusion": [
+      "indeed",
+      "indecent",
+      "injured",
+      "indents"
+    ]
+  },
+  {
+    "word": "hip",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The area on each side of the body between the top of the thigh and the waist.",
+        "meaning_zh_TW": "髖部",
+        "wrong_meaning_zh_TW": [
+          "肩部",
+          "小腿",
+          "手腕"
+        ],
+        "examples": [
+          {
+            "sentence": "She had a tattoo on her [hip].",
+            "translation_zh_TW": "她的[髖部]上有一個刺青。"
+          },
+          {
+            "sentence": "He felt pain in his [hip] after running.",
+            "translation_zh_TW": "他跑步後感到[髖部]疼痛。"
+          },
+          {
+            "sentence": "The dancer has strong [hip] movements.",
+            "translation_zh_TW": "這位舞者的[髖部]動作很有力。"
+          }
+        ],
+        "synonyms": [
+          "pelvis",
+          "side"
+        ]
+      }
+    ],
+    "confusion": [
+      "tip",
+      "hippo",
+      "ship",
+      "zip"
+    ]
+  },
+  {
+    "word": "spot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A particular place or point in space.",
+        "meaning_zh_TW": "地點",
+        "wrong_meaning_zh_TW": [
+          "區域",
+          "點擊",
+          "選擇"
+        ],
+        "examples": [
+          {
+            "sentence": "He found a great [spot] to set up his tent.",
+            "translation_zh_TW": "他找到一個很好的地點搭帳篷。"
+          },
+          {
+            "sentence": "There’s a nice little café around the [spot].",
+            "translation_zh_TW": "在那附近有一家不錯的小咖啡館。"
+          },
+          {
+            "sentence": "The [spot] where they met was very memorable.",
+            "translation_zh_TW": "他們見面的地點非常難忘。"
+          }
+        ],
+        "synonyms": [
+          "location",
+          "place"
+        ]
+      }
+    ],
+    "confusion": [
+      "spout",
+      "spotlight",
+      "spotted",
+      "spots"
+    ]
+  },
+  {
+    "word": "dot",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small round mark or spot.",
+        "meaning_zh_TW": "點、小圓點",
+        "wrong_meaning_zh_TW": [
+          "線、條",
+          "面、區域",
+          "形狀、樣式"
+        ],
+        "examples": [
+          {
+            "sentence": "Please put a [dot] on the paper for clarity.",
+            "translation_zh_TW": "請在紙上劃一個點以便於理解。"
+          },
+          {
+            "sentence": "The map has a red [dot] indicating the location.",
+            "translation_zh_TW": "地圖上有個紅點標示位置。"
+          },
+          {
+            "sentence": "You can connect the [dots] to form a picture.",
+            "translation_zh_TW": "你可以連接這些點來形成一幅圖畫。"
+          }
+        ],
+        "synonyms": [
+          "point",
+          "mark"
+        ]
+      }
+    ],
+    "confusion": [
+      "don",
+      "dog",
+      "dotty",
+      "dote"
+    ]
+  },
+  {
+    "word": "identity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The characteristics, feelings, or beliefs that distinguish people from others.",
+        "meaning_zh_TW": "身份、特徵",
+        "wrong_meaning_zh_TW": [
+          "匿名",
+          "無名氏",
+          "分隔"
+        ],
+        "examples": [
+          {
+            "sentence": "Your [identity] is shaped by your experiences.",
+            "translation_zh_TW": "你的身份是由經歷塑造的。"
+          },
+          {
+            "sentence": "The police will need proof of your [identity].",
+            "translation_zh_TW": "警方需要你的身份證明。"
+          },
+          {
+            "sentence": "Cultural [identity] can be very complex.",
+            "translation_zh_TW": "文化身份可能非常複雜。"
+          }
+        ],
+        "synonyms": [
+          "self",
+          "individuality"
+        ]
+      }
+    ],
+    "confusion": [
+      "identification",
+      "identical",
+      "ideology",
+      "indentity"
+    ]
+  },
+  {
+    "word": "feeling",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An emotional state or reaction.",
+        "meaning_zh_TW": "感覺",
+        "wrong_meaning_zh_TW": [
+          "反應",
+          "想法",
+          "情況"
+        ],
+        "examples": [
+          {
+            "sentence": "She had a [feeling] of happiness after hearing the news.",
+            "translation_zh_TW": "聽到這個消息後，她感到快樂。"
+          },
+          {
+            "sentence": "His [feelings] were hurt by her remarks.",
+            "translation_zh_TW": "他的感情被她的言論傷害了。"
+          },
+          {
+            "sentence": "The movie evoked a strong [feeling] of nostalgia.",
+            "translation_zh_TW": "這部電影喚起了強烈的懷舊感。"
+          }
+        ],
+        "synonyms": [
+          "emotion",
+          "sensation"
+        ]
+      }
+    ],
+    "confusion": [
+      "feeling",
+      "filling",
+      "failing",
+      "feling"
+    ]
+  },
+  {
+    "word": "influence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "meaning_zh_TW": "影響",
+        "wrong_meaning_zh_TW": [
+          "失敗",
+          "困擾",
+          "抵抗"
+        ],
+        "examples": [
+          {
+            "sentence": "Her parents had a strong [influence] on her career choices.",
+            "translation_zh_TW": "她的父母對她的職業選擇有很大影響。"
+          },
+          {
+            "sentence": "The media's [influence] over public opinion is significant.",
+            "translation_zh_TW": "媒體對公眾意見的影響是顯著的。"
+          },
+          {
+            "sentence": "Cultural [influence] shapes our preferences and values.",
+            "translation_zh_TW": "文化影響塑造了我們的偏好和價值觀。"
+          }
+        ],
+        "synonyms": [
+          "impact",
+          "sway"
+        ]
+      }
+    ],
+    "confusion": [
+      "affluence",
+      "influential",
+      "influx",
+      "inflation"
+    ]
+  }
+]

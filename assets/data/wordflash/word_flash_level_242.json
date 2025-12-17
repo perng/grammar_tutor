@@ -1,0 +1,782 @@
+[
+  {
+    "word": "consensus",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "General agreement among a group of people.",
+        "meaning_zh_TW": "共識",
+        "wrong_meaning_zh_TW": [
+          "獨立意見",
+          "不同意見",
+          "分歧"
+        ],
+        "examples": [
+          {
+            "sentence": "The committee reached a [consensus] after lengthy discussions.",
+            "translation_zh_TW": "經過長時間的討論，委員會達成了共識。"
+          },
+          {
+            "sentence": "Finding a [consensus] is crucial for team success.",
+            "translation_zh_TW": "找到共識對團隊的成功至關重要。"
+          },
+          {
+            "sentence": "There is a [consensus] that change is necessary.",
+            "translation_zh_TW": "大家一致認為改變是必要的。"
+          }
+        ],
+        "synonyms": [
+          "agreement",
+          "accord"
+        ]
+      }
+    ],
+    "confusion": [
+      "consent",
+      "conscience",
+      "conservative",
+      "concession"
+    ]
+  },
+  {
+    "word": "journalism",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The activity of gathering, assessing, creating, and presenting news and information.",
+        "meaning_zh_TW": "新聞業",
+        "wrong_meaning_zh_TW": [
+          "文學批評",
+          "公關活動",
+          "媒體藝術"
+        ],
+        "examples": [
+          {
+            "sentence": "She studied [journalism] at university.",
+            "translation_zh_TW": "她在大學學習新聞業。"
+          },
+          {
+            "sentence": "Good [journalism] requires accuracy and integrity.",
+            "translation_zh_TW": "優秀的新聞業要求準確性和誠信。"
+          },
+          {
+            "sentence": "He works in [journalism] for a major newspaper.",
+            "translation_zh_TW": "他在一家主要報紙從事新聞業工作。"
+          }
+        ],
+        "synonyms": [
+          "reporting",
+          "newswriting"
+        ]
+      }
+    ],
+    "confusion": [
+      "journal",
+      "journals",
+      "juror",
+      "journaled"
+    ]
+  },
+  {
+    "word": "hazard",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A danger or risk.",
+        "meaning_zh_TW": "危險，風險",
+        "wrong_meaning_zh_TW": [
+          "機會",
+          "選擇",
+          "獎勵"
+        ],
+        "examples": [
+          {
+            "sentence": "The workers are aware of the [hazard] in the area.",
+            "translation_zh_TW": "工人們了解該區域的危險。"
+          },
+          {
+            "sentence": "Smoking is a serious health [hazard].",
+            "translation_zh_TW": "吸煙是嚴重的健康風險。"
+          },
+          {
+            "sentence": "The storm posed a [hazard] to navigation.",
+            "translation_zh_TW": "這場暴風雨對航行構成了危險。"
+          }
+        ],
+        "synonyms": [
+          "risk",
+          "danger"
+        ]
+      }
+    ],
+    "confusion": [
+      "hizzard",
+      "hazards",
+      "haze",
+      "hazzy"
+    ]
+  },
+  {
+    "word": "bizarre",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Very strange or unusual.",
+        "meaning_zh_TW": "古怪的、異常的",
+        "wrong_meaning_zh_TW": [
+          "常見的",
+          "時尚的",
+          "正常的"
+        ],
+        "examples": [
+          {
+            "sentence": "His behavior was very [bizarre].",
+            "translation_zh_TW": "他的行為非常古怪。"
+          },
+          {
+            "sentence": "They encountered a [bizarre] creature in the forest.",
+            "translation_zh_TW": "他們在森林中遇到了一種古怪的生物。"
+          },
+          {
+            "sentence": "The film has a [bizarre] plot twist.",
+            "translation_zh_TW": "這部電影有一個古怪的情節轉折。"
+          }
+        ],
+        "synonyms": [
+          "strange",
+          "outlandish"
+        ]
+      }
+    ],
+    "confusion": [
+      "buzzard",
+      "bizzar",
+      "bizzarre",
+      "bizarrely"
+    ]
+  },
+  {
+    "word": "swap",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To exchange one thing for another.",
+        "meaning_zh_TW": "交換",
+        "wrong_meaning_zh_TW": [
+          "保留",
+          "購買",
+          "贈送"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [swap] books for the summer.",
+            "translation_zh_TW": "他們決定在夏天交換書籍"
+          },
+          {
+            "sentence": "Can we [swap] seats for the concert?",
+            "translation_zh_TW": "我們可以在音樂會上交換座位嗎？"
+          },
+          {
+            "sentence": "Let's [swap] stories about our travels.",
+            "translation_zh_TW": "讓我們交換旅行故事"
+          }
+        ],
+        "synonyms": [
+          "exchange",
+          "replace"
+        ]
+      }
+    ],
+    "confusion": [
+      "slap",
+      "snap",
+      "swapper",
+      "slapstick"
+    ]
+  },
+  {
+    "word": "flip",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To turn over or cause to turn over.",
+        "meaning_zh_TW": "翻轉",
+        "wrong_meaning_zh_TW": [
+          "追求",
+          "忽視",
+          "放棄"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [flip] the pancake to cook the other side.",
+            "translation_zh_TW": "他決定翻轉煎餅以煮熟另一面。"
+          },
+          {
+            "sentence": "She made a quick [flip] of the card to reveal its value.",
+            "translation_zh_TW": "她快速翻轉卡片以顯示其價值。"
+          },
+          {
+            "sentence": "You can [flip] through the pages of the magazine to find the article.",
+            "translation_zh_TW": "你可以翻閱雜誌的頁面以找到這篇文章。"
+          }
+        ],
+        "synonyms": [
+          "turn",
+          "rotate"
+        ]
+      }
+    ],
+    "confusion": [
+      "flop",
+      "flit",
+      "slip",
+      "flipside"
+    ]
+  },
+  {
+    "word": "correlation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mutual relationship or connection between two or more things.",
+        "meaning_zh_TW": "相關性",
+        "wrong_meaning_zh_TW": [
+          "不相關",
+          "因果關係",
+          "意外"
+        ],
+        "examples": [
+          {
+            "sentence": "There is a strong [correlation] between education and income.",
+            "translation_zh_TW": "教育和收入之間存在強相關性"
+          },
+          {
+            "sentence": "Researchers found a [correlation] between stress and health issues.",
+            "translation_zh_TW": "研究人員發現壓力與健康問題之間存在相關性"
+          },
+          {
+            "sentence": "The [correlation] was statistically significant.",
+            "translation_zh_TW": "這種相關性在統計上是顯著的"
+          }
+        ],
+        "synonyms": [
+          "connection",
+          "relationship"
+        ]
+      }
+    ],
+    "confusion": [
+      "correlate",
+      "correction",
+      "correlationist",
+      "collation"
+    ]
+  },
+  {
+    "word": "gorgeous",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Beautiful; very attractive.",
+        "meaning_zh_TW": "華麗的，美麗的",
+        "wrong_meaning_zh_TW": [
+          "簡單的",
+          "平凡的",
+          "粗糙的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [gorgeous] dress to the event.",
+            "translation_zh_TW": "她穿了一件華麗的裙子參加活動。"
+          },
+          {
+            "sentence": "The sunset was a [gorgeous] sight.",
+            "translation_zh_TW": "日落的景色非常美麗。"
+          },
+          {
+            "sentence": "He gave her a [gorgeous] bouquet of flowers.",
+            "translation_zh_TW": "他送給她一束華麗的花束。"
+          }
+        ],
+        "synonyms": [
+          "stunning",
+          "beautiful"
+        ]
+      }
+    ],
+    "confusion": [
+      "gorgous",
+      "goreous",
+      "gorjus",
+      "gorgius"
+    ]
+  },
+  {
+    "word": "superb",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of exceptional quality; magnificent or excellent.",
+        "meaning_zh_TW": "極好的",
+        "wrong_meaning_zh_TW": [
+          "普通的",
+          "差勁的",
+          "平凡的"
+        ],
+        "examples": [
+          {
+            "sentence": "The performance was simply [superb].",
+            "translation_zh_TW": "這場表演簡直極好了。"
+          },
+          {
+            "sentence": "She received [superb] reviews for her artwork.",
+            "translation_zh_TW": "她的藝術作品收到了極好的評論。"
+          },
+          {
+            "sentence": "This restaurant is known for its [superb] cuisine.",
+            "translation_zh_TW": "這家餐廳以其極好的美食聞名。"
+          }
+        ],
+        "synonyms": [
+          "excellent",
+          "outstanding"
+        ]
+      }
+    ],
+    "confusion": [
+      "super",
+      "supreme",
+      "superman",
+      "superior"
+    ]
+  },
+  {
+    "word": "transparent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Allowing light to pass through so that objects behind can be distinctly seen.",
+        "meaning_zh_TW": "透明的",
+        "wrong_meaning_zh_TW": [
+          "反射的、反光的",
+          "污穢的、髒的",
+          "暗淡的、不明亮的"
+        ],
+        "examples": [
+          {
+            "sentence": "The glass is completely [transparent].",
+            "translation_zh_TW": "這塊玻璃是完全透明的"
+          },
+          {
+            "sentence": "She prefers [transparent] materials for her designs.",
+            "translation_zh_TW": "她偏好透明的材料來做設計"
+          },
+          {
+            "sentence": "The organization's policies should be [transparent].",
+            "translation_zh_TW": "該機構的政策應該是透明的"
+          }
+        ],
+        "synonyms": [
+          "clear",
+          "see-through"
+        ]
+      }
+    ],
+    "confusion": [
+      "transparency",
+      "translucent",
+      "transpirant",
+      "transitional"
+    ]
+  },
+  {
+    "word": "boom",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A loud, deep noise.",
+        "meaning_zh_TW": "隆隆聲",
+        "wrong_meaning_zh_TW": [
+          "悶響",
+          "火災",
+          "罐頭"
+        ],
+        "examples": [
+          {
+            "sentence": "The explosion caused a loud [boom].",
+            "translation_zh_TW": "爆炸產生了巨大的隆隆聲。"
+          },
+          {
+            "sentence": "He heard a [boom] in the distance.",
+            "translation_zh_TW": "他聽到遠處的隆隆聲。"
+          },
+          {
+            "sentence": "The fireworks ended with a spectacular [boom].",
+            "translation_zh_TW": "煙火以壯觀的隆隆聲結束。"
+          }
+        ],
+        "synonyms": [
+          "bang",
+          "roar"
+        ]
+      }
+    ],
+    "confusion": [
+      "broom",
+      "bloom",
+      "doom",
+      "room"
+    ]
+  },
+  {
+    "word": "batch",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A quantity of goods produced at one time.",
+        "meaning_zh_TW": "一批商品",
+        "wrong_meaning_zh_TW": [
+          "食譜",
+          "份量",
+          "組合"
+        ],
+        "examples": [
+          {
+            "sentence": "The bakery made a fresh [batch] of cookies.",
+            "translation_zh_TW": "烘焙坊剛製作了一批新鮮的餅乾"
+          },
+          {
+            "sentence": "They received a [batch] of applications yesterday.",
+            "translation_zh_TW": "他們昨天收到了很多申請"
+          },
+          {
+            "sentence": "Each [batch] is tested for quality.",
+            "translation_zh_TW": "每一批都會檢測品質"
+          }
+        ],
+        "synonyms": [
+          "group",
+          "set"
+        ]
+      }
+    ],
+    "confusion": [
+      "bitch",
+      "catch",
+      "patch",
+      "batching"
+    ]
+  },
+  {
+    "word": "alter",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To change or modify something.",
+        "meaning_zh_TW": "改變；變更",
+        "wrong_meaning_zh_TW": [
+          "保持不變",
+          "加強",
+          "改善"
+        ],
+        "examples": [
+          {
+            "sentence": "The dressmaker will [alter] the gown to fit better.",
+            "translation_zh_TW": "裁縫會改變這件裙子的大小以便更合身。"
+          },
+          {
+            "sentence": "They decided to [alter] their plans for the weekend.",
+            "translation_zh_TW": "他們決定改變週末的計劃。"
+          },
+          {
+            "sentence": "Can you [alter] the settings on the device?",
+            "translation_zh_TW": "你能改變此設備上的設置嗎？"
+          }
+        ],
+        "synonyms": [
+          "change",
+          "modify"
+        ]
+      }
+    ],
+    "confusion": [
+      "altar",
+      "alterer",
+      "altered",
+      "alters"
+    ]
+  },
+  {
+    "word": "rip",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To tear or cut something forcefully.",
+        "meaning_zh_TW": "撕裂，割破",
+        "wrong_meaning_zh_TW": [
+          "縫合",
+          "組裝",
+          "修理"
+        ],
+        "examples": [
+          {
+            "sentence": "She accidentally [ripped] her dress.",
+            "translation_zh_TW": "她不小心撕破了她的裙子。"
+          },
+          {
+            "sentence": "He [ripped] the paper into smaller pieces.",
+            "translation_zh_TW": "他把紙撕成小片。"
+          },
+          {
+            "sentence": "The dog [ripped] the toy apart.",
+            "translation_zh_TW": "那隻狗把玩具撕成了兩半。"
+          }
+        ],
+        "synonyms": [
+          "tear",
+          "slice"
+        ]
+      }
+    ],
+    "confusion": [
+      "rib",
+      "ripen",
+      "ripcord",
+      "tip"
+    ]
+  },
+  {
+    "word": "amend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make changes to a document or legislation in order to improve it or correct it.",
+        "meaning_zh_TW": "修訂",
+        "wrong_meaning_zh_TW": [
+          "擴張",
+          "停止",
+          "刪除"
+        ],
+        "examples": [
+          {
+            "sentence": "The committee decided to [amend] the proposal.",
+            "translation_zh_TW": "委員會決定修訂提案。"
+          },
+          {
+            "sentence": "He sought to [amend] the previous agreement.",
+            "translation_zh_TW": "他試圖修訂之前的協議。"
+          },
+          {
+            "sentence": "They will [amend] the rules next year.",
+            "translation_zh_TW": "他們將在明年修訂規則。"
+          }
+        ],
+        "synonyms": [
+          "modify",
+          "revise"
+        ]
+      }
+    ],
+    "confusion": [
+      "mend",
+      "amends",
+      " Amend",
+      "a mend"
+    ]
+  },
+  {
+    "word": "comparable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able to be likened to another; similar.",
+        "meaning_zh_TW": "可比較的",
+        "wrong_meaning_zh_TW": [
+          "獨特的",
+          "不同的",
+          "異常的"
+        ],
+        "examples": [
+          {
+            "sentence": "Her skills are [comparable] to those of the best in the industry.",
+            "translation_zh_TW": "她的技能可以與業界最優秀的相比"
+          },
+          {
+            "sentence": "They found several [comparable] products in different stores.",
+            "translation_zh_TW": "他們在不同的商店找到了幾種可比較的產品"
+          },
+          {
+            "sentence": "The study showed [comparable] results across various demographics.",
+            "translation_zh_TW": "該研究顯示各種人群中有可比較的結果"
+          }
+        ],
+        "synonyms": [
+          "similar",
+          "analogous"
+        ]
+      }
+    ],
+    "confusion": [
+      "compatible",
+      "comparison",
+      "compile",
+      "compulsory"
+    ]
+  },
+  {
+    "word": "advocate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "Publicly recommend or support.",
+        "meaning_zh_TW": "倡導",
+        "wrong_meaning_zh_TW": [
+          "攻擊",
+          "忽視",
+          "指責"
+        ],
+        "examples": [
+          {
+            "sentence": "She [advocates] for animal rights.",
+            "translation_zh_TW": "她倡導動物權益。"
+          },
+          {
+            "sentence": "He has long [advocated] for climate change awareness.",
+            "translation_zh_TW": "他長期倡導提高氣候變化的意識。"
+          },
+          {
+            "sentence": "They [advocate] changes in educational policy.",
+            "translation_zh_TW": "他們倡導教育政策的變革。"
+          }
+        ],
+        "synonyms": [
+          "support",
+          "promote"
+        ]
+      }
+    ],
+    "confusion": [
+      "arbitrate",
+      "advocator",
+      "advancing",
+      "advantage"
+    ]
+  },
+  {
+    "word": "vulnerable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Open to physical or emotional harm.",
+        "meaning_zh_TW": "易受傷的、脆弱的",
+        "wrong_meaning_zh_TW": [
+          "堅強的",
+          "快速的",
+          "敏捷的"
+        ],
+        "examples": [
+          {
+            "sentence": "The injured animal felt [vulnerable] in the open.",
+            "translation_zh_TW": "受傷的動物在外面感到脆弱。"
+          },
+          {
+            "sentence": "Children are often [vulnerable] to bullying.",
+            "translation_zh_TW": "孩子常常容易受到霸凌。"
+          },
+          {
+            "sentence": "In a crisis, people can feel [vulnerable].",
+            "translation_zh_TW": "在危機中，人們會感到脆弱。"
+          }
+        ],
+        "synonyms": [
+          "susceptible",
+          "defenseless"
+        ]
+      }
+    ],
+    "confusion": [
+      "invulnerable",
+      "veneration",
+      "vortex",
+      "vigilante"
+    ]
+  },
+  {
+    "word": "booth",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small, enclosed space or compartment.",
+        "meaning_zh_TW": "小隔間",
+        "wrong_meaning_zh_TW": [
+          "椅子、桌子",
+          "車輛、交通工具",
+          "窗口、出入口"
+        ],
+        "examples": [
+          {
+            "sentence": "He rented a [booth] at the fair to sell his crafts.",
+            "translation_zh_TW": "他在市集租了一個小隔間來賣手工藝品"
+          },
+          {
+            "sentence": "The ticket [booth] was crowded with people.",
+            "translation_zh_TW": "售票窗口擠滿了人"
+          },
+          {
+            "sentence": "We sat in a [booth] at the restaurant.",
+            "translation_zh_TW": "我們在餐廳的隔間裡坐下"
+          }
+        ],
+        "synonyms": [
+          "cubicle",
+          "stall"
+        ]
+      }
+    ],
+    "confusion": [
+      "both",
+      "boots",
+      "booths",
+      "boothy"
+    ]
+  },
+  {
+    "word": "mainstream",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Referring to ideas, attitudes, or activities that are accepted by most people.",
+        "meaning_zh_TW": "主流的",
+        "wrong_meaning_zh_TW": [
+          "異端的",
+          "邊緣的",
+          "潛行的"
+        ],
+        "examples": [
+          {
+            "sentence": "The film was a [mainstream] success at the box office.",
+            "translation_zh_TW": "這部電影在票房上取得了主流的成功。"
+          },
+          {
+            "sentence": "He prefers [mainstream] music over underground genres.",
+            "translation_zh_TW": "他更喜歡主流音樂而不是地下音樂。"
+          },
+          {
+            "sentence": "Mainstream fashion trends change rapidly each season.",
+            "translation_zh_TW": "主流時尚潮流每個季度都會快速變化。"
+          }
+        ],
+        "synonyms": [
+          "conventional",
+          "popular"
+        ]
+      }
+    ],
+    "confusion": [
+      "mainstreamed",
+      "mainstreaming",
+      "main",
+      "mainstain"
+    ]
+  }
+]

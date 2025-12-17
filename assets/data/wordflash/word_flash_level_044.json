@@ -1,0 +1,771 @@
+[
+  {
+    "word": "kiss",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To touch with the lips as a sign of love, affection, or greeting.",
+        "meaning_zh_TW": "親吻",
+        "wrong_meaning_zh_TW": [
+          "推",
+          "撫摸",
+          "擁抱"
+        ],
+        "examples": [
+          {
+            "sentence": "They shared a sweet [kiss].",
+            "translation_zh_TW": "他們分享了一個甜蜜的吻。"
+          },
+          {
+            "sentence": "I want to [kiss] you goodnight.",
+            "translation_zh_TW": "我想給你一個晚安吻。"
+          },
+          {
+            "sentence": "He leaned in to [kiss] her cheek.",
+            "translation_zh_TW": "他靠過去吻了她的臉頰。"
+          }
+        ],
+        "synonyms": [
+          "peck",
+          "smooch"
+        ]
+      }
+    ],
+    "confusion": [
+      "kisst",
+      "kises",
+      "kiiss",
+      "kiz"
+    ]
+  },
+  {
+    "word": "surprise",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An unexpected event or occurrence.",
+        "meaning_zh_TW": "驚喜",
+        "wrong_meaning_zh_TW": [
+          "預測",
+          "計畫",
+          "日常"
+        ],
+        "examples": [
+          {
+            "sentence": "The party was a great [surprise] for her.",
+            "translation_zh_TW": "這個聚會對她來說是一個驚喜"
+          },
+          {
+            "sentence": "His arrival was a [surprise] to everyone.",
+            "translation_zh_TW": "他的到來對每個人來說都是驚喜"
+          },
+          {
+            "sentence": "She loves a good [surprise].",
+            "translation_zh_TW": "她喜歡驚喜"
+          }
+        ],
+        "synonyms": [
+          "astonishment",
+          "unexpectedness"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To cause someone to feel surprise.",
+        "meaning_zh_TW": "使驚訝",
+        "wrong_meaning_zh_TW": [
+          "取悅",
+          "吸引",
+          "告知"
+        ],
+        "examples": [
+          {
+            "sentence": "I didn't mean to [surprise] you.",
+            "translation_zh_TW": "我並不想讓你驚訝"
+          },
+          {
+            "sentence": "She wanted to [surprise] him for his birthday.",
+            "translation_zh_TW": "她想讓他在生日時驚訝"
+          },
+          {
+            "sentence": "They tried to [surprise] the guests.",
+            "translation_zh_TW": "他們試圖使客人驚訝"
+          }
+        ],
+        "synonyms": [
+          "astonish",
+          "shock"
+        ]
+      }
+    ],
+    "confusion": [
+      "surprised",
+      "surprize",
+      "supplies",
+      "surreal"
+    ]
+  },
+  {
+    "word": "lamp",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that produces light, often used for illumination.",
+        "meaning_zh_TW": "燈",
+        "wrong_meaning_zh_TW": [
+          "燭光",
+          "火把",
+          "信號"
+        ],
+        "examples": [
+          {
+            "sentence": "She turned on the [lamp] to read her book.",
+            "translation_zh_TW": "她打開燈來看書"
+          },
+          {
+            "sentence": "The [lamp] on the table is very bright.",
+            "translation_zh_TW": "桌子上的燈非常亮"
+          },
+          {
+            "sentence": "He bought a new [lamp] for his bedroom.",
+            "translation_zh_TW": "他為臥室買了一個新燈"
+          }
+        ],
+        "synonyms": [
+          "light",
+          "bulb"
+        ]
+      }
+    ],
+    "confusion": [
+      "lamb",
+      "lampshade",
+      "clam",
+      "map"
+    ]
+  },
+  {
+    "word": "everybody",
+    "meanings": [
+      {
+        "type": "代詞",
+        "meaning_en_US": "All the people in a group.",
+        "meaning_zh_TW": "每個人",
+        "wrong_meaning_zh_TW": [
+          "每件事",
+          "每個地方",
+          "每一種"
+        ],
+        "examples": [
+          {
+            "sentence": "I hope [everybody] is having a great time.",
+            "translation_zh_TW": "我希望每個人都在享受美好時光"
+          },
+          {
+            "sentence": "[Everybody] is invited to the party.",
+            "translation_zh_TW": "每個人都受到邀請參加聚會"
+          },
+          {
+            "sentence": "I want to thank [everybody] for their support.",
+            "translation_zh_TW": "我想感謝每個人的支持"
+          }
+        ],
+        "synonyms": [
+          "everyone",
+          "all"
+        ]
+      }
+    ],
+    "confusion": [
+      "everybody's",
+      "everywhere",
+      "everyone",
+      "everbody"
+    ]
+  },
+  {
+    "word": "glad",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Feeling pleasure or happiness.",
+        "meaning_zh_TW": "高興的",
+        "wrong_meaning_zh_TW": [
+          "悲傷的",
+          "失望的",
+          "困惑的"
+        ],
+        "examples": [
+          {
+            "sentence": "I am [glad] to see you again.",
+            "translation_zh_TW": "我很高興再次見到你"
+          },
+          {
+            "sentence": "She felt [glad] about the good news.",
+            "translation_zh_TW": "她對這個好消息感到高興"
+          },
+          {
+            "sentence": "We are [glad] to help you.",
+            "translation_zh_TW": "我們很高興能幫助你"
+          }
+        ],
+        "synonyms": [
+          "happy",
+          "joyful"
+        ]
+      }
+    ],
+    "confusion": [
+      "gladly",
+      "glade",
+      "gladness",
+      "gladys"
+    ]
+  },
+  {
+    "word": "nobody",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "No person; not anyone.",
+        "meaning_zh_TW": "沒有人",
+        "wrong_meaning_zh_TW": [
+          "每個人",
+          "一些人",
+          "某些人"
+        ],
+        "examples": [
+          {
+            "sentence": "[Nobody] knows the answer to that question.",
+            "translation_zh_TW": "沒有人知道那個問題的答案"
+          },
+          {
+            "sentence": "[Nobody] turned up for the meeting.",
+            "translation_zh_TW": "沒有人來參加會議"
+          },
+          {
+            "sentence": "I felt like [nobody] cared about my opinion.",
+            "translation_zh_TW": "我感到沒有人在乎我的意見"
+          }
+        ],
+        "synonyms": [
+          "no one",
+          "not a soul"
+        ]
+      }
+    ],
+    "confusion": [
+      "no one",
+      "somebody",
+      "anybody",
+      "nobuddy"
+    ]
+  },
+  {
+    "word": "ghost",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The spirit of a dead person, often believed to appear to the living.",
+        "meaning_zh_TW": "鬼魂",
+        "wrong_meaning_zh_TW": [
+          "紙飛機",
+          "月亮",
+          "情緒"
+        ],
+        "examples": [
+          {
+            "sentence": "The old house is said to be haunted by a [ghost].",
+            "translation_zh_TW": "據說這座老房子被一個鬼魂糾纏著。"
+          },
+          {
+            "sentence": "He felt a chill as he thought he saw a [ghost] in the forest.",
+            "translation_zh_TW": "他感到一陣寒意，因為他以為在森林裡看到了一個鬼魂。"
+          },
+          {
+            "sentence": "During Halloween, many people dress up as [ghosts].",
+            "translation_zh_TW": "在萬聖節期間，許多人打扮成鬼魂。"
+          }
+        ],
+        "synonyms": [
+          "specter",
+          "phantom"
+        ]
+      }
+    ],
+    "confusion": [
+      "ghastly",
+      "host",
+      "boast",
+      "goat"
+    ]
+  },
+  {
+    "word": "boss",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is in charge of a worker or organization.",
+        "meaning_zh_TW": "上司",
+        "wrong_meaning_zh_TW": [
+          "員工",
+          "助手",
+          "合作夥伴"
+        ],
+        "examples": [
+          {
+            "sentence": "My [boss] is very supportive.",
+            "translation_zh_TW": "我的上司非常支持我。"
+          },
+          {
+            "sentence": "She asked her [boss] for a raise.",
+            "translation_zh_TW": "她向上司請求加薪。"
+          },
+          {
+            "sentence": "Everyone respects their [boss].",
+            "translation_zh_TW": "每個人都尊敬他們的上司。"
+          }
+        ],
+        "synonyms": [
+          "supervisor",
+          "manager"
+        ]
+      }
+    ],
+    "confusion": [
+      "bossy",
+      "boos",
+      "bus",
+      "buss"
+    ]
+  },
+  {
+    "word": "reporter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who writes news stories or delivers news to the public.",
+        "meaning_zh_TW": "記者",
+        "wrong_meaning_zh_TW": [
+          "演員",
+          "記錄者",
+          "編輯"
+        ],
+        "examples": [
+          {
+            "sentence": "The [reporter] covered the event for the news.",
+            "translation_zh_TW": "記者報導了這個事件。"
+          },
+          {
+            "sentence": "She is a well-known [reporter] on television.",
+            "translation_zh_TW": "她是一位知名的電視記者。"
+          },
+          {
+            "sentence": "The [reporter] asked questions during the interview.",
+            "translation_zh_TW": "記者在面試中提問。"
+          }
+        ],
+        "synonyms": [
+          "journalist",
+          "correspondent"
+        ]
+      }
+    ],
+    "confusion": [
+      "supporter",
+      "report",
+      "deporter",
+      "reporter"
+    ]
+  },
+  {
+    "word": "sentence",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A set of words that conveys a complete thought.",
+        "meaning_zh_TW": "句子",
+        "wrong_meaning_zh_TW": [
+          "語法",
+          "短語",
+          "段落"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you write a [sentence] using the word?",
+            "translation_zh_TW": "你能用這個詞寫一個句子嗎？"
+          },
+          {
+            "sentence": "A good [sentence] should be clear and concise.",
+            "translation_zh_TW": "一個好的句子應該清晰簡潔。"
+          },
+          {
+            "sentence": "He read the [sentence] aloud.",
+            "translation_zh_TW": "他大聲朗讀了這個句子。"
+          }
+        ],
+        "synonyms": [
+          "陳述",
+          "語句"
+        ]
+      }
+    ],
+    "confusion": [
+      "sentnce",
+      "sentences",
+      "sentance",
+      "sentnece"
+    ]
+  },
+  {
+    "word": "throat",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The passage that leads from the back of the mouth to the esophagus and trachea.",
+        "meaning_zh_TW": "喉嚨",
+        "wrong_meaning_zh_TW": [
+          "肺部",
+          "心臟",
+          "脖子"
+        ],
+        "examples": [
+          {
+            "sentence": "He has a sore [throat] from the cold.",
+            "translation_zh_TW": "他因感冒喉嚨痛。"
+          },
+          {
+            "sentence": "Drink warm tea to soothe your [throat].",
+            "translation_zh_TW": "喝溫茶以舒緩喉嚨。"
+          },
+          {
+            "sentence": "She cleared her [throat] before speaking.",
+            "translation_zh_TW": "她在說話前清了清喉嚨。"
+          }
+        ],
+        "synonyms": [
+          "gullet",
+          "pharynx"
+        ]
+      }
+    ],
+    "confusion": [
+      "throte",
+      "throate",
+      "throut",
+      "thro"
+    ]
+  },
+  {
+    "word": "uniform",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Distinctive clothing worn by members of the same organization or group.",
+        "meaning_zh_TW": "制服",
+        "wrong_meaning_zh_TW": [
+          "連衣裙",
+          "運動服",
+          "普通服裝"
+        ],
+        "examples": [
+          {
+            "sentence": "The students wear a [uniform] to school.",
+            "translation_zh_TW": "學生上學時穿著制服。"
+          },
+          {
+            "sentence": "The police officer put on his [uniform] before duty.",
+            "translation_zh_TW": "警察在執勤前穿上他的制服。"
+          },
+          {
+            "sentence": "Each team has its own [uniform] colors.",
+            "translation_zh_TW": "每隊都有自己獨特的制服顏色。"
+          }
+        ],
+        "synonyms": [
+          "outfit",
+          "costume"
+        ]
+      }
+    ],
+    "confusion": [
+      "uni-form",
+      "uni-foam",
+      "unicorn",
+      "unify"
+    ]
+  },
+  {
+    "word": "tall",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of great or relatively great height.",
+        "meaning_zh_TW": "高的",
+        "wrong_meaning_zh_TW": [
+          "短的",
+          "幼小的",
+          "矮小的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is very [tall] for her age.",
+            "translation_zh_TW": "她的身高對於她的年齡來說非常高。"
+          },
+          {
+            "sentence": "The [tall] building can be seen from miles away.",
+            "translation_zh_TW": "從幾英里外都能看到那棟高樓。"
+          },
+          {
+            "sentence": "He reached for the [tall] shelves.",
+            "translation_zh_TW": "他伸手去拿高架上的東西。"
+          }
+        ],
+        "synonyms": [
+          "high",
+          "elevated"
+        ]
+      }
+    ],
+    "confusion": [
+      "toll",
+      "tallies",
+      "tallest",
+      "tell"
+    ]
+  },
+  {
+    "word": "somewhere",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In or at a place that is not specified or known.",
+        "meaning_zh_TW": "在某個地方，於某處",
+        "wrong_meaning_zh_TW": [
+          "任何地方，無處",
+          "每個地方，所有地方",
+          "一個時間，某個時刻"
+        ],
+        "examples": [
+          {
+            "sentence": "I left my keys [somewhere] in the house.",
+            "translation_zh_TW": "我把鑰匙放在屋子裡某個地方。"
+          },
+          {
+            "sentence": "We can meet [somewhere] convenient for both of us.",
+            "translation_zh_TW": "我們可以在對我們兩個都方便的地方見面。"
+          },
+          {
+            "sentence": "There must be [somewhere] in this town where we can eat.",
+            "translation_zh_TW": "這個城鎮裡一定有某個地方可以用餐。"
+          }
+        ],
+        "synonyms": [
+          "anyplace",
+          "a certain place"
+        ]
+      }
+    ],
+    "confusion": [
+      "somewheree",
+      "somewheres",
+      "somewher",
+      "somewherein"
+    ]
+  },
+  {
+    "word": "toe",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "Any of the five digits at the end of the human foot.",
+        "meaning_zh_TW": "腳趾",
+        "wrong_meaning_zh_TW": [
+          "手指",
+          "膝蓋",
+          "腳踝"
+        ],
+        "examples": [
+          {
+            "sentence": "He stubbed his [toe] on the furniture.",
+            "translation_zh_TW": "他在家具上撞到了腳趾。"
+          },
+          {
+            "sentence": "She painted her [toes] a bright color.",
+            "translation_zh_TW": "她把腳趾漆成了亮色。"
+          },
+          {
+            "sentence": "Wearing tight shoes can hurt your [toes].",
+            "translation_zh_TW": "穿緊鞋會傷到你的腳趾。"
+          }
+        ],
+        "synonyms": [
+          "digit",
+          "appendage"
+        ]
+      }
+    ],
+    "confusion": [
+      "toe",
+      "toes",
+      "toezz",
+      "toeey"
+    ]
+  },
+  {
+    "word": "stupid",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lacking intelligence or common sense.",
+        "meaning_zh_TW": "愚蠢的",
+        "wrong_meaning_zh_TW": [
+          "聰明的",
+          "有智慧的",
+          "狡猾的"
+        ],
+        "examples": [
+          {
+            "sentence": "That was a very [stupid] mistake.",
+            "translation_zh_TW": "那是個非常愚蠢的錯誤"
+          },
+          {
+            "sentence": "Don't be [stupid]; think before you act.",
+            "translation_zh_TW": "別這麼愚蠢，行動之前要思考"
+          },
+          {
+            "sentence": "It's [stupid] to drive without a license.",
+            "translation_zh_TW": "在沒有駕照的情況下駕駛是愚蠢的"
+          }
+        ],
+        "synonyms": [
+          "foolish",
+          "dim-witted"
+        ]
+      }
+    ],
+    "confusion": [
+      "stupied",
+      "stupied",
+      "stutpid",
+      "studpid"
+    ]
+  },
+  {
+    "word": "lucky",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having good luck; fortunate.",
+        "meaning_zh_TW": "幸運的",
+        "wrong_meaning_zh_TW": [
+          "不幸的",
+          "普通的",
+          "厄運的"
+        ],
+        "examples": [
+          {
+            "sentence": "She feels [lucky] to have such good friends.",
+            "translation_zh_TW": "她覺得擁有如此好的朋友很幸運。"
+          },
+          {
+            "sentence": "He won the lottery and considers himself [lucky].",
+            "translation_zh_TW": "他中了彩券，認為自己很幸運。"
+          },
+          {
+            "sentence": "I had a [lucky] break during the interview.",
+            "translation_zh_TW": "我在面試中有了一次幸運的機會。"
+          }
+        ],
+        "synonyms": [
+          "fortunate",
+          "blessed"
+        ]
+      }
+    ],
+    "confusion": [
+      "luck",
+      "duck",
+      "lucky's",
+      "luckyly"
+    ]
+  },
+  {
+    "word": "thick",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having a significant distance between opposite sides; not thin.",
+        "meaning_zh_TW": "厚的",
+        "wrong_meaning_zh_TW": [
+          "薄的",
+          "狹窄的",
+          "柔軟的"
+        ],
+        "examples": [
+          {
+            "sentence": "The book has a [thick] cover.",
+            "translation_zh_TW": "這本書有一個厚厚的封面。"
+          },
+          {
+            "sentence": "He wore a [thick] sweater in the winter.",
+            "translation_zh_TW": "他在冬天穿了一件厚毛衣。"
+          },
+          {
+            "sentence": "The fog was so [thick] that we couldn't see far.",
+            "translation_zh_TW": "霧太濃了，我們無法看得很遠。"
+          }
+        ],
+        "synonyms": [
+          "dense",
+          "heavy"
+        ]
+      }
+    ],
+    "confusion": [
+      "tick",
+      "thickest",
+      "thicker",
+      "trick"
+    ]
+  },
+  {
+    "word": "repeat",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To say or do something again.",
+        "meaning_zh_TW": "重複",
+        "wrong_meaning_zh_TW": [
+          "嘲笑",
+          "隱藏",
+          "抑制"
+        ],
+        "examples": [
+          {
+            "sentence": "Can you [repeat] that question?",
+            "translation_zh_TW": "你能重複那個問題嗎？"
+          },
+          {
+            "sentence": "He had to [repeat] his speech for the audience.",
+            "translation_zh_TW": "他不得不為觀眾重複他的演講。"
+          },
+          {
+            "sentence": "She played the song and asked him to [repeat] after her.",
+            "translation_zh_TW": "她播放了這首歌並要求他跟著她重複。"
+          }
+        ],
+        "synonyms": [
+          "reiterate",
+          "recapitulate"
+        ]
+      }
+    ],
+    "confusion": [
+      "retreat",
+      "repeal",
+      "report",
+      "repetitive"
+    ]
+  }
+]

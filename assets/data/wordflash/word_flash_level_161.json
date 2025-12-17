@@ -1,0 +1,771 @@
+[
+  {
+    "word": "mosquito",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small flying insect that feeds on the blood of humans and animals.",
+        "meaning_zh_TW": "蚊子",
+        "wrong_meaning_zh_TW": [
+          "蟑螂",
+          "蒼蠅",
+          "蜜蜂"
+        ],
+        "examples": [
+          {
+            "sentence": "The [mosquito] bit me while I was camping.",
+            "translation_zh_TW": "我在露營時蚊子叮了我。"
+          },
+          {
+            "sentence": "Using repellent helps keep [mosquitoes] away.",
+            "translation_zh_TW": "使用驅蚊劑有助於驅趕蚊子。"
+          },
+          {
+            "sentence": "The buzzing of a [mosquito] can be quite annoying at night.",
+            "translation_zh_TW": "蚊子的嗡嗡聲在晚上會相當惱人。"
+          }
+        ],
+        "synonyms": [
+          "gnat",
+          "bug"
+        ]
+      }
+    ],
+    "confusion": [
+      "mistake",
+      "muscle",
+      "mosaic",
+      "mosaic"
+    ]
+  },
+  {
+    "word": "toss",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To throw something lightly or casually.",
+        "meaning_zh_TW": "拋",
+        "wrong_meaning_zh_TW": [
+          "抓",
+          "攪拌",
+          "推"
+        ],
+        "examples": [
+          {
+            "sentence": "He decided to [toss] the coin to make a decision.",
+            "translation_zh_TW": "他決定擲硬幣來做決定"
+          },
+          {
+            "sentence": "She [tossed] her hair back.",
+            "translation_zh_TW": "她把頭髮輕輕撥到背後"
+          },
+          {
+            "sentence": "They [tossed] the ball back and forth in the park.",
+            "translation_zh_TW": "他們在公園裡來回拋接球"
+          }
+        ],
+        "synonyms": [
+          "throw",
+          "flip"
+        ]
+      }
+    ],
+    "confusion": [
+      "foss",
+      "tose",
+      "tossed",
+      "tosses"
+    ]
+  },
+  {
+    "word": "pity",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The feeling of sorrow and compassion caused by the suffering and misfortunes of others.",
+        "meaning_zh_TW": "憐憫",
+        "wrong_meaning_zh_TW": [
+          "快樂",
+          "無情",
+          "同情"
+        ],
+        "examples": [
+          {
+            "sentence": "It is a [pity] that he couldn't attend the event.",
+            "translation_zh_TW": "他不能參加活動真是遺憾"
+          },
+          {
+            "sentence": "She felt a deep sense of [pity] for the victims.",
+            "translation_zh_TW": "她對受害者感到深深的憐憫"
+          },
+          {
+            "sentence": "His failure was a [pity].",
+            "translation_zh_TW": "他的失敗真是可惜"
+          }
+        ],
+        "synonyms": [
+          "compassion",
+          "sympathy"
+        ]
+      }
+    ],
+    "confusion": [
+      "pretty",
+      "pitying",
+      "pityful",
+      "pities"
+    ]
+  },
+  {
+    "word": "troop",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of soldiers.",
+        "meaning_zh_TW": "一群士兵",
+        "wrong_meaning_zh_TW": [
+          "城市",
+          "部署",
+          "武器"
+        ],
+        "examples": [
+          {
+            "sentence": "The [troop] marched in formation.",
+            "translation_zh_TW": "士兵們整齊地行進。"
+          },
+          {
+            "sentence": "The [troop] is preparing for deployment.",
+            "translation_zh_TW": "這支部隊正在為部署做準備。"
+          },
+          {
+            "sentence": "They had a visiting [troop] from the academy.",
+            "translation_zh_TW": "他們接待了一支來自學院的隊伍。"
+          }
+        ],
+        "synonyms": [
+          "squad",
+          "unit"
+        ]
+      }
+    ],
+    "confusion": [
+      "group",
+      "trooper",
+      "loop",
+      "tropics"
+    ]
+  },
+  {
+    "word": "workbook",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A book containing practice problems and exercises for learning.",
+        "meaning_zh_TW": "練習本",
+        "wrong_meaning_zh_TW": [
+          "字典",
+          "手冊",
+          "手機"
+        ],
+        "examples": [
+          {
+            "sentence": "Students use a [workbook] to practice their math skills.",
+            "translation_zh_TW": "學生們使用練習本來練習數學技能"
+          },
+          {
+            "sentence": "The [workbook] has many exercises for the students.",
+            "translation_zh_TW": "這本練習本有很多供學生做的練習"
+          },
+          {
+            "sentence": "He completed the exercises in his [workbook].",
+            "translation_zh_TW": "他完成了練習本上的練習"
+          }
+        ],
+        "synonyms": [
+          "exercise book",
+          "practice book"
+        ]
+      }
+    ],
+    "confusion": [
+      "workbooklet",
+      "workpad",
+      "workstation",
+      "workbox"
+    ]
+  },
+  {
+    "word": "assemble",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To bring together or gather into one place; to form a whole.",
+        "meaning_zh_TW": "組裝、集合",
+        "wrong_meaning_zh_TW": [
+          "拆解、分開",
+          "分散、解散",
+          "壞掉、毀壞"
+        ],
+        "examples": [
+          {
+            "sentence": "They will [assemble] the parts of the machine tomorrow.",
+            "translation_zh_TW": "他們明天會組裝這台機器的零件。"
+          },
+          {
+            "sentence": "We need to [assemble] before the event starts.",
+            "translation_zh_TW": "活動開始之前我們需要集合。"
+          },
+          {
+            "sentence": "The committee will [assemble] new guidelines.",
+            "translation_zh_TW": "委員會將會組織新的準則。"
+          }
+        ],
+        "synonyms": [
+          "gather",
+          "convene"
+        ]
+      }
+    ],
+    "confusion": [
+      "assembley",
+      "assmble",
+      "asamble",
+      "assmbl"
+    ]
+  },
+  {
+    "word": "whistle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A device that produces a shrill sound when air is forced through it.",
+        "meaning_zh_TW": "口哨",
+        "wrong_meaning_zh_TW": [
+          "零錢",
+          "鐘聲",
+          "音樂"
+        ],
+        "examples": [
+          {
+            "sentence": "He used a [whistle] to get the dog's attention.",
+            "translation_zh_TW": "他用口哨引起狗的注意。"
+          },
+          {
+            "sentence": "The train driver blew the [whistle] before departing.",
+            "translation_zh_TW": "火車駕駛員在出發前吹響了口哨。"
+          },
+          {
+            "sentence": "She can [whistle] a tune beautifully.",
+            "translation_zh_TW": "她能美妙地吹出旋律。"
+          }
+        ],
+        "synonyms": [
+          "blow",
+          "signal"
+        ]
+      }
+    ],
+    "confusion": [
+      "missile",
+      "whisk",
+      "whittle",
+      "whistled"
+    ]
+  },
+  {
+    "word": "ambition",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A strong desire to achieve something, typically requiring determination and hard work.",
+        "meaning_zh_TW": "抱負",
+        "wrong_meaning_zh_TW": [
+          "安逸",
+          "怠惰",
+          "猶豫"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [ambition] is to become a successful doctor.",
+            "translation_zh_TW": "她的抱負是成為一位成功的醫生。"
+          },
+          {
+            "sentence": "He pursued his [ambition] with great passion.",
+            "translation_zh_TW": "他以極大的熱情追求他的抱負。"
+          },
+          {
+            "sentence": "The company's [ambition] is to lead the market.",
+            "translation_zh_TW": "該公司的抱負是引領市場。"
+          }
+        ],
+        "synonyms": [
+          "aspiration",
+          "goal"
+        ]
+      }
+    ],
+    "confusion": [
+      "ambitions",
+      "ambitons",
+      "abmition",
+      "amition"
+    ]
+  },
+  {
+    "word": "apologize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To express regret or sorrow for an action.",
+        "meaning_zh_TW": "道歉",
+        "wrong_meaning_zh_TW": [
+          "感謝",
+          "辯解",
+          "解釋"
+        ],
+        "examples": [
+          {
+            "sentence": "I must [apologize] for my mistake.",
+            "translation_zh_TW": "我必須為我的錯誤道歉。"
+          },
+          {
+            "sentence": "He refused to [apologize], even when he was wrong.",
+            "translation_zh_TW": "即使他錯了，他仍拒絕道歉。"
+          },
+          {
+            "sentence": "It’s important to [apologize] when you hurt someone.",
+            "translation_zh_TW": "當你傷害某人時，道歉是很重要的。"
+          }
+        ],
+        "synonyms": [
+          "express regret",
+          "make amends"
+        ]
+      }
+    ],
+    "confusion": [
+      "apologetic",
+      "apologiser",
+      "apology",
+      "apologys"
+    ]
+  },
+  {
+    "word": "flock",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of birds or other animals that are gathered together.",
+        "meaning_zh_TW": "一群動物",
+        "wrong_meaning_zh_TW": [
+          "一棵樹",
+          "一條河",
+          "一座山"
+        ],
+        "examples": [
+          {
+            "sentence": "The [flock] of sheep grazed in the field.",
+            "translation_zh_TW": "那群羊在田野裡吃草。"
+          },
+          {
+            "sentence": "A [flock] of geese flew overhead.",
+            "translation_zh_TW": "一群鵝飛過頭頂。"
+          },
+          {
+            "sentence": "The shepherd watched over his [flock].",
+            "translation_zh_TW": "牧羊人在他的羊群旁邊守望。"
+          }
+        ],
+        "synonyms": [
+          "group",
+          "herd"
+        ]
+      }
+    ],
+    "confusion": [
+      "block",
+      "mock",
+      "lock",
+      "flocke"
+    ]
+  },
+  {
+    "word": "upstairs",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "To or on a higher floor of a building.",
+        "meaning_zh_TW": "樓上",
+        "wrong_meaning_zh_TW": [
+          "樓下的",
+          "隔壁的",
+          "屋外的"
+        ],
+        "examples": [
+          {
+            "sentence": "She went [upstairs] to check on the kids.",
+            "translation_zh_TW": "她上樓去查看孩子們"
+          },
+          {
+            "sentence": "The bedroom is [upstairs].",
+            "translation_zh_TW": "臥室在樓上"
+          },
+          {
+            "sentence": "He heard noises [upstairs].",
+            "translation_zh_TW": "他聽到了樓上的聲音"
+          }
+        ],
+        "synonyms": [
+          "above",
+          "higher up"
+        ]
+      }
+    ],
+    "confusion": [
+      "upstares",
+      "upstair",
+      "upstrairs",
+      "upstaris"
+    ]
+  },
+  {
+    "word": "faint",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To lose consciousness temporarily.",
+        "meaning_zh_TW": "暈倒",
+        "wrong_meaning_zh_TW": [
+          "清晰",
+          "強烈",
+          "強壯"
+        ],
+        "examples": [
+          {
+            "sentence": "She began to [faint] from the heat.",
+            "translation_zh_TW": "她開始因為熱而暈倒"
+          },
+          {
+            "sentence": "He felt dizzy and was about to [faint].",
+            "translation_zh_TW": "他感到頭暈並快要暈倒"
+          },
+          {
+            "sentence": "The sight of blood made her [faint].",
+            "translation_zh_TW": "血的景象讓她暈倒"
+          }
+        ],
+        "synonyms": [
+          "collapse",
+          "swoon"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having little strength or intensity.",
+        "meaning_zh_TW": "微弱的",
+        "wrong_meaning_zh_TW": [
+          "強大的",
+          "明亮的",
+          "熱情的"
+        ],
+        "examples": [
+          {
+            "sentence": "There was a [faint] light in the distance.",
+            "translation_zh_TW": "遠處有微弱的光"
+          },
+          {
+            "sentence": "She heard a [faint] sound coming from the next room.",
+            "translation_zh_TW": "她聽到隔壁房間傳來微弱的聲音"
+          },
+          {
+            "sentence": "He gave a [faint] smile.",
+            "translation_zh_TW": "他露出微弱的笑容"
+          }
+        ],
+        "synonyms": [
+          "weak",
+          "dim"
+        ]
+      }
+    ],
+    "confusion": [
+      "paint",
+      "taint",
+      "saint",
+      "fainting"
+    ]
+  },
+  {
+    "word": "sack",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large bag made of strong material, used for storage or transportation.",
+        "meaning_zh_TW": "袋子",
+        "wrong_meaning_zh_TW": [
+          "禮品",
+          "箱子",
+          "環保袋"
+        ],
+        "examples": [
+          {
+            "sentence": "He filled the [sack] with potatoes.",
+            "translation_zh_TW": "他把袋子裝滿了馬鈴薯。"
+          },
+          {
+            "sentence": "She carried a heavy [sack] on her back.",
+            "translation_zh_TW": "她背著一個重袋子。"
+          },
+          {
+            "sentence": "The [sack] was made of burlap.",
+            "translation_zh_TW": "這個袋子是用粗麻布做的。"
+          }
+        ],
+        "synonyms": [
+          "bag",
+          "package"
+        ]
+      }
+    ],
+    "confusion": [
+      "sacked",
+      "sac",
+      "sackful",
+      "sacker"
+    ]
+  },
+  {
+    "word": "inferior",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Lower in rank, status, or quality.",
+        "meaning_zh_TW": "在等級、地位或質量上較低的.",
+        "wrong_meaning_zh_TW": [
+          "優越的",
+          "平等的",
+          "特殊的"
+        ],
+        "examples": [
+          {
+            "sentence": "Some believe that they are [inferior] to others.",
+            "translation_zh_TW": "有些人認為自己低於他人。"
+          },
+          {
+            "sentence": "The product was deemed [inferior] to its competitors.",
+            "translation_zh_TW": "該產品被認為比競爭對手低劣。"
+          },
+          {
+            "sentence": "He felt [inferior] due to his lack of experience.",
+            "translation_zh_TW": "由於缺乏經驗，他感到自卑。"
+          }
+        ],
+        "synonyms": [
+          "lesser",
+          "subordinate"
+        ]
+      }
+    ],
+    "confusion": [
+      "superior",
+      "interior",
+      "infer",
+      "inferno"
+    ]
+  },
+  {
+    "word": "loser",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or thing that loses.",
+        "meaning_zh_TW": "失敗者",
+        "wrong_meaning_zh_TW": [
+          "贏家，成功者",
+          "運動員，選手",
+          "參賽者，挑戰者"
+        ],
+        "examples": [
+          {
+            "sentence": "In the competition, he felt like a [loser] after failing to win.",
+            "translation_zh_TW": "在比賽中，他因為未能獲勝而感到像個失敗者。"
+          },
+          {
+            "sentence": "She was labeled a [loser] by her peers.",
+            "translation_zh_TW": "她被同儕標籤為失敗者。"
+          },
+          {
+            "sentence": "Nobody wants to be a [loser] in the game.",
+            "translation_zh_TW": "沒有人想在遊戲中成為失敗者。"
+          }
+        ],
+        "synonyms": [
+          "defeated",
+          "underachiever"
+        ]
+      }
+    ],
+    "confusion": [
+      "looser",
+      "losing",
+      "looser",
+      "loose"
+    ]
+  },
+  {
+    "word": "politician",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is professionally involved in politics, especially as a holder of an office or a candidate.",
+        "meaning_zh_TW": "政治家",
+        "wrong_meaning_zh_TW": [
+          "商人",
+          "演員",
+          "律師"
+        ],
+        "examples": [
+          {
+            "sentence": "The [politician] gave a stirring speech.",
+            "translation_zh_TW": "那位政治家發表了一場激動人心的演講。"
+          },
+          {
+            "sentence": "Many citizens are disillusioned with their [politician].",
+            "translation_zh_TW": "許多公民對他們的政治家感到幻滅。"
+          },
+          {
+            "sentence": "The [politician] seeks re-election.",
+            "translation_zh_TW": "這位政治家尋求連任。"
+          }
+        ],
+        "synonyms": [
+          "statesman",
+          "lawgiver"
+        ]
+      }
+    ],
+    "confusion": [
+      "political",
+      "policy",
+      "politics",
+      "partician"
+    ]
+  },
+  {
+    "word": "suspicion",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling or belief that something is possible, likely, or true without certain proof.",
+        "meaning_zh_TW": "懷疑",
+        "wrong_meaning_zh_TW": [
+          "確信",
+          "安全感",
+          "興趣"
+        ],
+        "examples": [
+          {
+            "sentence": "She looked at him with [suspicion].",
+            "translation_zh_TW": "她帶著懷疑的目光看著他。"
+          },
+          {
+            "sentence": "His actions raised [suspicion] among the team.",
+            "translation_zh_TW": "他的行為在團隊中引起了懷疑。"
+          },
+          {
+            "sentence": "The [suspicion] of foul play lingered in the air.",
+            "translation_zh_TW": "不正當行為的懷疑懸而未決。"
+          }
+        ],
+        "synonyms": [
+          "doubt",
+          "mistrust"
+        ]
+      }
+    ],
+    "confusion": [
+      "suspense",
+      "subscription",
+      "suspect",
+      "suspensive"
+    ]
+  },
+  {
+    "word": "almond",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The edible seed of the almond tree, often used in cooking and baking.",
+        "meaning_zh_TW": "杏仁",
+        "wrong_meaning_zh_TW": [
+          "桃仁",
+          "核桃",
+          "榛子"
+        ],
+        "examples": [
+          {
+            "sentence": "She sprinkled sliced [almond] on her salad.",
+            "translation_zh_TW": "她在沙拉上撒了切片的杏仁"
+          },
+          {
+            "sentence": "Almond milk is a popular dairy alternative.",
+            "translation_zh_TW": "杏仁奶是一種受歡迎的乳製品替代品"
+          },
+          {
+            "sentence": "He loves cookies made with [almond] flour.",
+            "translation_zh_TW": "他喜歡用杏仁粉製作的餅乾"
+          }
+        ],
+        "synonyms": [
+          "nut",
+          "seed"
+        ]
+      }
+    ],
+    "confusion": [
+      "amend",
+      "alms",
+      "alarm",
+      "almonds"
+    ]
+  },
+  {
+    "word": "puppet",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A figure moved by a puppeteer, often a small model of a person or animal.",
+        "meaning_zh_TW": "木偶",
+        "wrong_meaning_zh_TW": [
+          "玩具",
+          "動畫",
+          "模型"
+        ],
+        "examples": [
+          {
+            "sentence": "The children enjoyed the [puppet] show at the theater.",
+            "translation_zh_TW": "孩子們享受了劇院的木偶表演"
+          },
+          {
+            "sentence": "She learned how to operate a [puppet] for the first time.",
+            "translation_zh_TW": "她第一次學會了如何操作木偶"
+          },
+          {
+            "sentence": "The [puppet] danced gracefully across the stage.",
+            "translation_zh_TW": "木偶在舞台上優雅地起舞"
+          }
+        ],
+        "synonyms": [
+          "marionette",
+          "figurine"
+        ]
+      }
+    ],
+    "confusion": [
+      "puppeteer",
+      "puffer",
+      "pup",
+      "planet"
+    ]
+  }
+]

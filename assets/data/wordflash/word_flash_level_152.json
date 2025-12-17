@@ -1,0 +1,771 @@
+[
+  {
+    "word": "voter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is eligible to vote in an election.",
+        "meaning_zh_TW": "選民",
+        "wrong_meaning_zh_TW": [
+          "候選人",
+          "計票員",
+          "政治家"
+        ],
+        "examples": [
+          {
+            "sentence": "Every [voter] has the right to make their voice heard.",
+            "translation_zh_TW": "每位選民都有權利發聲。"
+          },
+          {
+            "sentence": "The [voter] turnout was higher than expected this year.",
+            "translation_zh_TW": "今年的選民投票率超出預期。"
+          },
+          {
+            "sentence": "Each [voter] should consider their decisions carefully.",
+            "translation_zh_TW": "每位選民都應仔細考慮他們的決定。"
+          }
+        ],
+        "synonyms": [
+          "elector",
+          "poll voter"
+        ]
+      }
+    ],
+    "confusion": [
+      "voters",
+      "votery",
+      "votter",
+      "voater"
+    ]
+  },
+  {
+    "word": "colorful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Full of color; bright and vibrant.",
+        "meaning_zh_TW": "色彩繽紛的",
+        "wrong_meaning_zh_TW": [
+          "無色的",
+          "模糊的",
+          "厚重的"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden is full of [colorful] flowers.",
+            "translation_zh_TW": "花園裡滿是色彩繽紛的花朵"
+          },
+          {
+            "sentence": "She wore a [colorful] dress to the party.",
+            "translation_zh_TW": "她穿了一件色彩繽紛的裙子參加派對"
+          },
+          {
+            "sentence": "The [colorful] painting caught everyone's attention.",
+            "translation_zh_TW": "那幅色彩繽紛的畫作引起了所有人的注意"
+          }
+        ],
+        "synonyms": [
+          "vivid",
+          "bright"
+        ]
+      }
+    ],
+    "confusion": [
+      "colourful",
+      "colorfull",
+      "coloful",
+      "curlful"
+    ]
+  },
+  {
+    "word": "crane",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large, tall machine used for moving heavy objects by suspending them from a projecting arm or beam.",
+        "meaning_zh_TW": "起重機",
+        "wrong_meaning_zh_TW": [
+          "滑梯",
+          "電梯",
+          "電纜"
+        ],
+        "examples": [
+          {
+            "sentence": "The [crane] lifted the heavy steel beam with ease.",
+            "translation_zh_TW": "起重機輕鬆地提高了重鋼樑。"
+          },
+          {
+            "sentence": "Construction workers operate the [crane] diligently.",
+            "translation_zh_TW": "施工工人認真操作起重機。"
+          },
+          {
+            "sentence": "This [crane] is essential for the building project.",
+            "translation_zh_TW": "這台起重機對建設項目至關重要。"
+          }
+        ],
+        "synonyms": [
+          "hoist",
+          "jack"
+        ]
+      }
+    ],
+    "confusion": [
+      "crain",
+      "crenna",
+      "cranex",
+      "crated"
+    ]
+  },
+  {
+    "word": "rotten",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Decayed or decomposed; having gone bad.",
+        "meaning_zh_TW": "腐爛的",
+        "wrong_meaning_zh_TW": [
+          "新鮮的",
+          "亮麗的",
+          "健康的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [rotten] fruit smelled terrible.",
+            "translation_zh_TW": "腐爛的水果聞起來很可怕"
+          },
+          {
+            "sentence": "He threw away the [rotten] vegetables.",
+            "translation_zh_TW": "他把腐爛的蔬菜扔掉了"
+          },
+          {
+            "sentence": "A [rotten] smell filled the room.",
+            "translation_zh_TW": "一股腐爛的氣味充滿了房間"
+          }
+        ],
+        "synonyms": [
+          "decomposed",
+          "decayed"
+        ]
+      }
+    ],
+    "confusion": [
+      "rottenly",
+      "robot",
+      "rotor",
+      "hidden"
+    ]
+  },
+  {
+    "word": "bulb",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A rounded underground storage organ that often produces a new plant.",
+        "meaning_zh_TW": "球根",
+        "wrong_meaning_zh_TW": [
+          "藥瓶",
+          "燈罩",
+          "果實"
+        ],
+        "examples": [
+          {
+            "sentence": "The gardener planted a [bulb] in the spring.",
+            "translation_zh_TW": "園丁在春天種了一個球根。"
+          },
+          {
+            "sentence": "The flower grew from the [bulb] over the summer.",
+            "translation_zh_TW": "那朵花在夏天從球根長出來。"
+          },
+          {
+            "sentence": "You can see the [bulb] underneath the soil.",
+            "translation_zh_TW": "你可以看到土壤下的球根。"
+          }
+        ],
+        "synonyms": [
+          "tuber",
+          "corm"
+        ]
+      }
+    ],
+    "confusion": [
+      "buld",
+      "bulbs",
+      "bubl",
+      "bulbous"
+    ]
+  },
+  {
+    "word": "carpenter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who builds and repairs wooden objects and structures.",
+        "meaning_zh_TW": "木匠",
+        "wrong_meaning_zh_TW": [
+          "木材",
+          "家具",
+          "工具"
+        ],
+        "examples": [
+          {
+            "sentence": "The [carpenter] built a beautiful wooden table.",
+            "translation_zh_TW": "那位木匠製作了一張漂亮的木桌。"
+          },
+          {
+            "sentence": "She hired a skilled [carpenter] for the renovations.",
+            "translation_zh_TW": "她雇用了一位技藝高超的木匠來進行翻修。"
+          },
+          {
+            "sentence": "A good [carpenter] can create intricate designs.",
+            "translation_zh_TW": "一位優秀的木匠能創造出精美的設計。"
+          }
+        ],
+        "synonyms": [
+          "builder",
+          "craftsman"
+        ]
+      }
+    ],
+    "confusion": [
+      "carpet",
+      "cater",
+      "captor",
+      "carpool"
+    ]
+  },
+  {
+    "word": "enjoyable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Causing or giving joy or pleasure.",
+        "meaning_zh_TW": "令人愉快的",
+        "wrong_meaning_zh_TW": [
+          "無聊的",
+          "痛苦的",
+          "昂貴的"
+        ],
+        "examples": [
+          {
+            "sentence": "The movie was really [enjoyable] and worth watching.",
+            "translation_zh_TW": "這部電影真是令人愉快，值得一看。"
+          },
+          {
+            "sentence": "We had an [enjoyable] time at the picnic.",
+            "translation_zh_TW": "我們在野餐中度過了一段愉快的時光。"
+          },
+          {
+            "sentence": "The play was [enjoyable] for both kids and adults.",
+            "translation_zh_TW": "這部劇對孩子和大人來說都很愉快。"
+          }
+        ],
+        "synonyms": [
+          "pleasant",
+          "delightful"
+        ]
+      }
+    ],
+    "confusion": [
+      "enjoy",
+      "enjoyment",
+      "enjoyably",
+      "enjoable"
+    ]
+  },
+  {
+    "word": "patience",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.",
+        "meaning_zh_TW": "耐心",
+        "wrong_meaning_zh_TW": [
+          "不安",
+          "懶惰",
+          "意急"
+        ],
+        "examples": [
+          {
+            "sentence": "Her [patience] was tested during the long wait.",
+            "translation_zh_TW": "在漫長的等待中，她的耐心受到了考驗。"
+          },
+          {
+            "sentence": "He approached the problem with [patience] and care.",
+            "translation_zh_TW": "他以耐心和小心的態度處理這個問題。"
+          },
+          {
+            "sentence": "Developing [patience] is important for success.",
+            "translation_zh_TW": "培養耐心對成功來說很重要。"
+          }
+        ],
+        "synonyms": [
+          "tolerance",
+          "fortitude"
+        ]
+      }
+    ],
+    "confusion": [
+      "patients",
+      "patience",
+      "patent",
+      "patriot"
+    ]
+  },
+  {
+    "word": "shallow",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of little depth; not deep.",
+        "meaning_zh_TW": "淺的",
+        "wrong_meaning_zh_TW": [
+          "深的",
+          "空心的",
+          "狹窄的"
+        ],
+        "examples": [
+          {
+            "sentence": "The water is quite [shallow] near the shore.",
+            "translation_zh_TW": "靠近岸邊的水很淺。"
+          },
+          {
+            "sentence": "She prefers [shallow] conversations over deep discussions.",
+            "translation_zh_TW": "她喜歡淺顯的對話而不是深入的討論。"
+          },
+          {
+            "sentence": "He waded through the [shallow] end of the pool.",
+            "translation_zh_TW": "他在泳池的淺水區裡踩水。"
+          }
+        ],
+        "synonyms": [
+          "superficial",
+          "skin-deep"
+        ]
+      }
+    ],
+    "confusion": [
+      "shallot",
+      "shallowly",
+      "shadow",
+      "shall"
+    ]
+  },
+  {
+    "word": "stir",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To mix a substance or liquid by moving it around with a spoon or stick.",
+        "meaning_zh_TW": "攪拌",
+        "wrong_meaning_zh_TW": [
+          "靜止不變",
+          "迅速撥打",
+          "照亮相片"
+        ],
+        "examples": [
+          {
+            "sentence": "Please [stir] the soup to ensure it heats evenly.",
+            "translation_zh_TW": "請攪拌湯，以確保它均勻加熱。"
+          },
+          {
+            "sentence": "He began to [stir] the paint before applying it to the canvas.",
+            "translation_zh_TW": "他在塗抹畫布之前開始攪拌顏料。"
+          },
+          {
+            "sentence": "Do not forget to [stir] your coffee before drinking.",
+            "translation_zh_TW": "在喝咖啡之前別忘了攪拌。"
+          }
+        ],
+        "synonyms": [
+          "mix",
+          "blend"
+        ]
+      }
+    ],
+    "confusion": [
+      "stair",
+      "star",
+      "stirring",
+      "stark"
+    ]
+  },
+  {
+    "word": "pile",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A heap or stack of items.",
+        "meaning_zh_TW": "累積或堆疊",
+        "wrong_meaning_zh_TW": [
+          "計算數字",
+          "劃分土地",
+          "修理家具"
+        ],
+        "examples": [
+          {
+            "sentence": "She placed the books in a [pile] on the table.",
+            "translation_zh_TW": "她把書放在桌子上的一堆。"
+          },
+          {
+            "sentence": "The leaves formed a [pile] in the yard.",
+            "translation_zh_TW": "樹葉在院子裡形成了一堆。"
+          },
+          {
+            "sentence": "He sorted the cards into a [pile] for each game.",
+            "translation_zh_TW": "他把卡片分成每場遊戲的一堆。"
+          }
+        ],
+        "synonyms": [
+          "stack",
+          "heap"
+        ]
+      },
+      {
+        "type": "動詞",
+        "meaning_en_US": "To accumulate or stack several items.",
+        "meaning_zh_TW": "累積或堆疊",
+        "wrong_meaning_zh_TW": [
+          "計算數字",
+          "劃分土地",
+          "修理家具"
+        ],
+        "examples": [
+          {
+            "sentence": "They [piled] the leaves into bags.",
+            "translation_zh_TW": "他們把樹葉堆進袋子裡。"
+          },
+          {
+            "sentence": "She [piled] the clothes on the bed.",
+            "translation_zh_TW": "她把衣服堆在床上。"
+          },
+          {
+            "sentence": "Don't [pile] too much work on your desk.",
+            "translation_zh_TW": "不要在你的桌子上堆太多工作。"
+          }
+        ],
+        "synonyms": [
+          "stack",
+          "heap up"
+        ]
+      }
+    ],
+    "confusion": [
+      "pill",
+      "pilot",
+      "pileup",
+      "pale"
+    ]
+  },
+  {
+    "word": "sometime",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At an unspecified point in the future or past.",
+        "meaning_zh_TW": "在某個不確定的時間",
+        "wrong_meaning_zh_TW": [
+          "某個時間過去",
+          "某種情況",
+          "某個地方"
+        ],
+        "examples": [
+          {
+            "sentence": "I'll call you [sometime] next week.",
+            "translation_zh_TW": "我下周某個時候會打電話給你。"
+          },
+          {
+            "sentence": "He lived in Paris [sometime] ago.",
+            "translation_zh_TW": "他在巴黎住過在某個不確定的時間。"
+          },
+          {
+            "sentence": "We should meet [sometime] soon.",
+            "translation_zh_TW": "我們應該在不久的將來見面。"
+          }
+        ],
+        "synonyms": [
+          "eventually",
+          "at times"
+        ]
+      }
+    ],
+    "confusion": [
+      "some time",
+      "sometime",
+      "sometiems",
+      "sometimee"
+    ]
+  },
+  {
+    "word": "leap",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To jump or spring a long distance.",
+        "meaning_zh_TW": "跳躍",
+        "wrong_meaning_zh_TW": [
+          "站立",
+          "靜止",
+          "坐下"
+        ],
+        "examples": [
+          {
+            "sentence": "The frog can [leap] across the pond.",
+            "translation_zh_TW": "那隻青蛙可以跳過池塘。"
+          },
+          {
+            "sentence": "She took a [leap] of faith and jumped.",
+            "translation_zh_TW": "她勇敢地一躍而下。"
+          },
+          {
+            "sentence": "He managed to [leap] over the wall.",
+            "translation_zh_TW": "他成功跳過牆。"
+          }
+        ],
+        "synonyms": [
+          "jump",
+          "bound"
+        ]
+      }
+    ],
+    "confusion": [
+      "leap",
+      "leek",
+      "leaped",
+      "leaps"
+    ]
+  },
+  {
+    "word": "swan",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large waterbird with a long neck and legs, known for its beauty and grace.",
+        "meaning_zh_TW": "天鵝",
+        "wrong_meaning_zh_TW": [
+          "魚",
+          "青蛙",
+          "老虎"
+        ],
+        "examples": [
+          {
+            "sentence": "The [swan] glided gracefully across the lake.",
+            "translation_zh_TW": "天鵝優雅地滑過湖面。"
+          },
+          {
+            "sentence": "We watched the [swan] build its nest.",
+            "translation_zh_TW": "我們觀看天鵝築巢。"
+          },
+          {
+            "sentence": "A pair of [swans] swam in the serene waters.",
+            "translation_zh_TW": "一對天鵝在寧靜的水域中游泳。"
+          }
+        ],
+        "synonyms": [
+          "waterfowl",
+          "bird"
+        ]
+      }
+    ],
+    "confusion": [
+      "swamp",
+      "swing",
+      "swank",
+      "sawn"
+    ]
+  },
+  {
+    "word": "statue",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A three-dimensional work of art, typically representing a person or an animal.",
+        "meaning_zh_TW": "雕像",
+        "wrong_meaning_zh_TW": [
+          "畫作",
+          "文獻",
+          "小雕刻"
+        ],
+        "examples": [
+          {
+            "sentence": "The [statue] in the park is made of bronze.",
+            "translation_zh_TW": "公園裡的雕像是用銅製成的。"
+          },
+          {
+            "sentence": "She posed beside the famous [statue].",
+            "translation_zh_TW": "她在著名的雕像旁邊擺姿勢。"
+          },
+          {
+            "sentence": "The artist created a stunning [statue] of a lion.",
+            "translation_zh_TW": "藝術家創作了一座驚豔的獅子雕像。"
+          }
+        ],
+        "synonyms": [
+          "sculpture",
+          "figurine"
+        ]
+      }
+    ],
+    "confusion": [
+      "statutes",
+      "statuary",
+      "status",
+      "stature"
+    ]
+  },
+  {
+    "word": "kindergarten",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A school or class that prepares children for first grade.",
+        "meaning_zh_TW": "幼稚園",
+        "wrong_meaning_zh_TW": [
+          "保姆",
+          "托兒所",
+          "初中"
+        ],
+        "examples": [
+          {
+            "sentence": "The children enjoy learning in [kindergarten].",
+            "translation_zh_TW": "孩子們喜歡在幼稚園學習。"
+          },
+          {
+            "sentence": "She will start [kindergarten] next month.",
+            "translation_zh_TW": "她下個月將開始上幼稚園。"
+          },
+          {
+            "sentence": "They have music classes in [kindergarten].",
+            "translation_zh_TW": "他們在幼稚園有音樂課。"
+          }
+        ],
+        "synonyms": [
+          "preschool",
+          "nursery school"
+        ]
+      }
+    ],
+    "confusion": [
+      "kindred",
+      "kindly",
+      "kindredship",
+      "kindle"
+    ]
+  },
+  {
+    "word": "educate",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To provide schooling or learning to someone.",
+        "meaning_zh_TW": "教育",
+        "wrong_meaning_zh_TW": [
+          "遊玩",
+          "休息",
+          "娛樂"
+        ],
+        "examples": [
+          {
+            "sentence": "Schools aim to [educate] children about various subjects.",
+            "translation_zh_TW": "學校的目標是教育孩子們各種科目"
+          },
+          {
+            "sentence": "Parents should [educate] their children on important values.",
+            "translation_zh_TW": "父母應該教育孩子重要的價值觀"
+          },
+          {
+            "sentence": "The program is designed to [educate] young people about health.",
+            "translation_zh_TW": "這個計劃旨在教育年輕人有關健康的知識"
+          }
+        ],
+        "synonyms": [
+          "teach",
+          "instruct"
+        ]
+      }
+    ],
+    "confusion": [
+      "educatee",
+      "educator",
+      "educaction",
+      "edcucate"
+    ]
+  },
+  {
+    "word": "probable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Likely to be the case or to happen.",
+        "meaning_zh_TW": "可能的",
+        "wrong_meaning_zh_TW": [
+          "必然的",
+          "不可能的",
+          "意外的"
+        ],
+        "examples": [
+          {
+            "sentence": "It is [probable] that it will rain tomorrow.",
+            "translation_zh_TW": "明天下雨的可能性很高。"
+          },
+          {
+            "sentence": "The [probable] outcome of the study will be published soon.",
+            "translation_zh_TW": "這項研究的可能結果將很快發表。"
+          },
+          {
+            "sentence": "There is a [probable] chance of success if we follow the plan.",
+            "translation_zh_TW": "如果我們遵循計劃，有很大的成功可能性。"
+          }
+        ],
+        "synonyms": [
+          "likely",
+          "expected"
+        ]
+      }
+    ],
+    "confusion": [
+      "probably",
+      "probe",
+      "probabilistic",
+      "probal"
+    ]
+  },
+  {
+    "word": "adapt",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make suitable to requirements or conditions; adjust.",
+        "meaning_zh_TW": "適應",
+        "wrong_meaning_zh_TW": [
+          "抵抗",
+          "拒絕",
+          "改變"
+        ],
+        "examples": [
+          {
+            "sentence": "Animals must [adapt] to their environment to survive.",
+            "translation_zh_TW": "動物必須適應牠們的環境才能生存。"
+          },
+          {
+            "sentence": "We need to [adapt] our strategies to change.",
+            "translation_zh_TW": "我們需要適應變化來調整策略。"
+          },
+          {
+            "sentence": "She learned to [adapt] quickly to new situations.",
+            "translation_zh_TW": "她學會了快速適應新情況。"
+          }
+        ],
+        "synonyms": [
+          "adjust",
+          "modify"
+        ]
+      }
+    ],
+    "confusion": [
+      "adapts",
+      "adabpt",
+      "adap",
+      "adapto"
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "word": "brick",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small rectangular block typically made of fired or sun-dried clay, used in building.",
+        "meaning_zh_TW": "紅磚",
+        "wrong_meaning_zh_TW": [
+          "石頭",
+          "防火板",
+          "水泥"
+        ],
+        "examples": [
+          {
+            "sentence": "The house was built with red [bricks].",
+            "translation_zh_TW": "房子是用紅磚建成的"
+          },
+          {
+            "sentence": "She stacked the [bricks] neatly.",
+            "translation_zh_TW": "她把磚堆得整整齊齊"
+          },
+          {
+            "sentence": "The old wall was made of ancient [bricks].",
+            "translation_zh_TW": "古老的牆是用古代的磚建成的"
+          }
+        ],
+        "synonyms": [
+          "block",
+          "tile"
+        ]
+      }
+    ],
+    "confusion": [
+      "bricks",
+      "brik",
+      "bricky",
+      "brickle"
+    ]
+  },
+  {
+    "word": "porcelain",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A grayish-white ceramic made by shaping and then firing a non-metallic mineral, such as clay, at a high temperature.",
+        "meaning_zh_TW": "瓷器",
+        "wrong_meaning_zh_TW": [
+          "花瓶",
+          "玻璃",
+          "陶土"
+        ],
+        "examples": [
+          {
+            "sentence": "She admired the delicate designs on the [porcelain].",
+            "translation_zh_TW": "她欣賞著瓷器上精美的圖案"
+          },
+          {
+            "sentence": "The collector displayed her [porcelain] figures on the shelf.",
+            "translation_zh_TW": "收藏家把她的瓷器擺件擺在了架子上"
+          },
+          {
+            "sentence": "The factory specializes in [porcelain] manufacture.",
+            "translation_zh_TW": "這家工廠專注於瓷器的製造"
+          }
+        ],
+        "synonyms": [
+          "ceramic",
+          "china"
+        ]
+      }
+    ],
+    "confusion": [
+      "porcine",
+      "person",
+      "procelain",
+      "portcullis"
+    ]
+  },
+  {
+    "word": "shortly",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "In a short time; soon.",
+        "meaning_zh_TW": "很快，不久",
+        "wrong_meaning_zh_TW": [
+          "從長遠來看",
+          "長期以來",
+          "延遲的"
+        ],
+        "examples": [
+          {
+            "sentence": "We will be arriving [shortly].",
+            "translation_zh_TW": "我們將很快到達。"
+          },
+          {
+            "sentence": "The meeting will start [shortly].",
+            "translation_zh_TW": "會議將在不久後開始。"
+          },
+          {
+            "sentence": "[Shortly], he will announce the winner.",
+            "translation_zh_TW": "不久之後，他將宣佈獲勝者。"
+          }
+        ],
+        "synonyms": [
+          "soon",
+          "in a moment"
+        ]
+      }
+    ],
+    "confusion": [
+      "shortly",
+      "shorter",
+      "suddenly",
+      "sharply"
+    ]
+  },
+  {
+    "word": "cabin",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small, simple dwelling, often in a rural area.",
+        "meaning_zh_TW": "小屋、小木屋",
+        "wrong_meaning_zh_TW": [
+          "摩天大樓",
+          "宮殿",
+          "車輛"
+        ],
+        "examples": [
+          {
+            "sentence": "They spent the weekend in a cozy [cabin] in the woods.",
+            "translation_zh_TW": "他們在森林中的一間舒適小屋度過周末。"
+          },
+          {
+            "sentence": "The [cabin] had a beautiful view of the lake.",
+            "translation_zh_TW": "這間小屋有著湖泊的美麗景色。"
+          },
+          {
+            "sentence": "During summer, we often go to the [cabin] to relax.",
+            "translation_zh_TW": "夏天的時候，我們經常去小屋放鬆。"
+          }
+        ],
+        "synonyms": [
+          "lodge",
+          "shack"
+        ]
+      }
+    ],
+    "confusion": [
+      "cabinete",
+      "crowd",
+      "cabinet",
+      "cab"
+    ]
+  },
+  {
+    "word": "innocent",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not guilty of a crime or offense; lacking knowledge or experience.",
+        "meaning_zh_TW": "純真的",
+        "wrong_meaning_zh_TW": [
+          "騙子的",
+          "貪婪的",
+          "邪惡的"
+        ],
+        "examples": [
+          {
+            "sentence": "The child looked at her with [innocent] eyes.",
+            "translation_zh_TW": "孩子用純真的眼神看著她。"
+          },
+          {
+            "sentence": "They declared him [innocent] of all charges.",
+            "translation_zh_TW": "他們宣告他對所有指控無罪。"
+          },
+          {
+            "sentence": "Her [innocent] nature made her trust everyone.",
+            "translation_zh_TW": "她純真的天性讓她信任每一個人。"
+          }
+        ],
+        "synonyms": [
+          "blameless",
+          "naive"
+        ]
+      }
+    ],
+    "confusion": [
+      "innocence",
+      "innocently",
+      "innocents",
+      "inocent"
+    ]
+  },
+  {
+    "word": "horn",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hard, permanent outgrowth on the heads of some animals.",
+        "meaning_zh_TW": "角",
+        "wrong_meaning_zh_TW": [
+          "器具",
+          "音樂",
+          "管道"
+        ],
+        "examples": [
+          {
+            "sentence": "The bull's [horn] was impressive.",
+            "translation_zh_TW": "那隻牛的角令人印象深刻。"
+          },
+          {
+            "sentence": "She heard the sound of a car [horn] honking.",
+            "translation_zh_TW": "她聽到汽車喇叭的聲音。"
+          },
+          {
+            "sentence": "The unicorn is often depicted with a single [horn].",
+            "translation_zh_TW": "獨角獸通常被描繪為長著一根角。"
+          }
+        ],
+        "synonyms": [
+          "antler",
+          "tusk"
+        ]
+      }
+    ],
+    "confusion": [
+      "hornet",
+      "horny",
+      "hornscrew",
+      "horning"
+    ]
+  },
+  {
+    "word": "snap",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To break suddenly with a sharp cracking sound.",
+        "meaning_zh_TW": "突然折斷",
+        "wrong_meaning_zh_TW": [
+          "慢慢斷裂",
+          "撕開",
+          "撒謊"
+        ],
+        "examples": [
+          {
+            "sentence": "I heard the twig [snap] under my foot.",
+            "translation_zh_TW": "我聽到樹枝在我腳下突然折斷"
+          },
+          {
+            "sentence": "She [snapped] the rubber band in frustration.",
+            "translation_zh_TW": "她氣憤地突然拉斷了橡皮筋"
+          },
+          {
+            "sentence": "The dog made a quick [snap] at the bug.",
+            "translation_zh_TW": "狗快速地向那隻蟲子撲去"
+          }
+        ],
+        "synonyms": [
+          "break",
+          "fracture"
+        ]
+      }
+    ],
+    "confusion": [
+      "snape",
+      "slap",
+      "snoop",
+      "snapper"
+    ]
+  },
+  {
+    "word": "ribbon",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A long, narrow piece of cloth used for tying or decorating.",
+        "meaning_zh_TW": "絲帶、緞帶",
+        "wrong_meaning_zh_TW": [
+          "條紋、花紋",
+          "圓環、環形",
+          "木條、檔案"
+        ],
+        "examples": [
+          {
+            "sentence": "She tied her hair back with a bright red [ribbon].",
+            "translation_zh_TW": "她用鮮紅色的絲帶把頭髮綁了起來。"
+          },
+          {
+            "sentence": "The gift was decorated with a beautiful golden [ribbon].",
+            "translation_zh_TW": "這份禮物用漂亮的金色絲帶裝飾。"
+          },
+          {
+            "sentence": "The award ceremony included cutting a [ribbon] to symbolize its opening.",
+            "translation_zh_TW": "頒獎典禮包括剪一條絲帶來象徵開幕。"
+          }
+        ],
+        "synonyms": [
+          "tape",
+          "strip"
+        ]
+      }
+    ],
+    "confusion": [
+      "ribbon",
+      "ribboned",
+      "rabbin",
+      "rebbon"
+    ]
+  },
+  {
+    "word": "handy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Convenient to handle or use.",
+        "meaning_zh_TW": "方便的",
+        "wrong_meaning_zh_TW": [
+          "不方便的",
+          "笨重的",
+          "複雜的"
+        ],
+        "examples": [
+          {
+            "sentence": "The tool is quite [handy] for small repairs.",
+            "translation_zh_TW": "這個工具對於小修理非常方便"
+          },
+          {
+            "sentence": "She always keeps a notebook [handy].",
+            "translation_zh_TW": "她總是把筆記本放在身邊"
+          },
+          {
+            "sentence": "Having a map app is very [handy] when traveling.",
+            "translation_zh_TW": "旅行時擁有地圖應用程序是非常方便的"
+          }
+        ],
+        "synonyms": [
+          "useful",
+          "accessible"
+        ]
+      }
+    ],
+    "confusion": [
+      "handie",
+      "handys",
+      "handly",
+      "hanby"
+    ]
+  },
+  {
+    "word": "tribe",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties.",
+        "meaning_zh_TW": "部落",
+        "wrong_meaning_zh_TW": [
+          "種族",
+          "社會階層",
+          "聚落"
+        ],
+        "examples": [
+          {
+            "sentence": "The ancient [tribe] had unique rituals.",
+            "translation_zh_TW": "這個古老的部落有著獨特的儀式。"
+          },
+          {
+            "sentence": "She studied the language of a local [tribe].",
+            "translation_zh_TW": "她研究了一個當地部落的語言。"
+          },
+          {
+            "sentence": "Each [tribe] has its own customs and beliefs.",
+            "translation_zh_TW": "每個部落都有自己的習俗和信仰。"
+          }
+        ],
+        "synonyms": [
+          "clan",
+          "group"
+        ]
+      }
+    ],
+    "confusion": [
+      "tribes",
+      "tribunal",
+      "tribal",
+      "glib"
+    ]
+  },
+  {
+    "word": "buzz",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make a low, continuous humming sound.",
+        "meaning_zh_TW": "發出嗡嗡聲",
+        "wrong_meaning_zh_TW": [
+          "靜音",
+          "安靜",
+          "沉默"
+        ],
+        "examples": [
+          {
+            "sentence": "Bees [buzz] around the flowers in the garden.",
+            "translation_zh_TW": "蜜蜂在花園裡的花朵間嗡嗡作響。"
+          },
+          {
+            "sentence": "I could hear the [buzz] of the city from my apartment.",
+            "translation_zh_TW": "我能聽到公寓外城市的嗡嗡聲。"
+          },
+          {
+            "sentence": "The excitement in the room began to [buzz] with energy.",
+            "translation_zh_TW": "房間裡的興奮感開始散發出嗡嗡的能量。"
+          }
+        ],
+        "synonyms": [
+          "hum",
+          "drone"
+        ]
+      }
+    ],
+    "confusion": [
+      "buzzard",
+      "buzzy",
+      "buz",
+      "buss"
+    ]
+  },
+  {
+    "word": "rid",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To remove or free from something unwanted.",
+        "meaning_zh_TW": "使免除、擺脫",
+        "wrong_meaning_zh_TW": [
+          "增添、增加",
+          "保留、儲存",
+          "掩蓋、隱瞞"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [rid] myself of old clothes.",
+            "translation_zh_TW": "我需要擺脫舊衣服。"
+          },
+          {
+            "sentence": "They worked hard to [rid] the area of pests.",
+            "translation_zh_TW": "他們努力使該地區擺脫害蟲。"
+          },
+          {
+            "sentence": "We should [rid] our garden of weeds.",
+            "translation_zh_TW": "我們應該讓花園擺脫雜草。"
+          }
+        ],
+        "synonyms": [
+          "remove",
+          "clear"
+        ]
+      }
+    ],
+    "confusion": [
+      "ridiculous",
+      "red",
+      "read",
+      "ridde"
+    ]
+  },
+  {
+    "word": "organize",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To arrange systematically; to put in order.",
+        "meaning_zh_TW": "整理",
+        "wrong_meaning_zh_TW": [
+          "懶惰",
+          "隨意",
+          "混亂"
+        ],
+        "examples": [
+          {
+            "sentence": "She plans to [organize] the event next month.",
+            "translation_zh_TW": "她計畫下個月舉辦這次活動。"
+          },
+          {
+            "sentence": "We need to [organize] our schedule properly.",
+            "translation_zh_TW": "我們需要妥善安排我們的日程。"
+          },
+          {
+            "sentence": "He can [organize] his files efficiently.",
+            "translation_zh_TW": "他能有效地整理他的文件。"
+          }
+        ],
+        "synonyms": [
+          "arrange",
+          "systematize"
+        ]
+      }
+    ],
+    "confusion": [
+      "organic",
+      "organism",
+      "organized",
+      "organizer"
+    ]
+  },
+  {
+    "word": "triangle",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A plane figure with three straight sides and three angles.",
+        "meaning_zh_TW": "三角形",
+        "wrong_meaning_zh_TW": [
+          "圓形",
+          "方形",
+          "直線"
+        ],
+        "examples": [
+          {
+            "sentence": "She drew a large [triangle] on the board.",
+            "translation_zh_TW": "她在白板上畫了一個大三角形"
+          },
+          {
+            "sentence": "The triangle has three equal sides.",
+            "translation_zh_TW": "這個三角形有三條相等的邊"
+          },
+          {
+            "sentence": "He explained the properties of a [triangle].",
+            "translation_zh_TW": "他解釋了三角形的特性"
+          }
+        ],
+        "synonyms": [
+          "trifoliate",
+          "triaxial"
+        ]
+      }
+    ],
+    "confusion": [
+      "triengle",
+      "triangal",
+      "triangul",
+      "trianglar"
+    ]
+  },
+  {
+    "word": "tray",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A flat, shallow container or platform used to hold or carry items.",
+        "meaning_zh_TW": "托盤",
+        "wrong_meaning_zh_TW": [
+          "盒子",
+          "碗",
+          "盤子"
+        ],
+        "examples": [
+          {
+            "sentence": "She placed the dishes on the [tray] before serving.",
+            "translation_zh_TW": "她將碗碟放在托盤上再端上來。"
+          },
+          {
+            "sentence": "The waiter carried a [tray] filled with drinks.",
+            "translation_zh_TW": "服務生拿著一個裝滿飲料的托盤。"
+          },
+          {
+            "sentence": "He served breakfast on a silver [tray].",
+            "translation_zh_TW": "他在一個銀色的托盤上提供早餐。"
+          }
+        ],
+        "synonyms": [
+          "platter",
+          "dishing"
+        ]
+      }
+    ],
+    "confusion": [
+      "trayfon",
+      "traytable",
+      "trays",
+      "train"
+    ]
+  },
+  {
+    "word": "medal",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of metal that is given as an award or in recognition of achievement.",
+        "meaning_zh_TW": "獎牌",
+        "wrong_meaning_zh_TW": [
+          "刮鬍刀",
+          "證書",
+          "獎勵金"
+        ],
+        "examples": [
+          {
+            "sentence": "She won a gold [medal] at the Olympics.",
+            "translation_zh_TW": "她在奧運會上贏得了金牌。"
+          },
+          {
+            "sentence": "He proudly displayed his [medal] on the wall.",
+            "translation_zh_TW": "他自豪地把他的獎牌掛在牆上。"
+          },
+          {
+            "sentence": "The [medal] symbolizes her hard work.",
+            "translation_zh_TW": "這枚獎牌象徵著她的努力。"
+          }
+        ],
+        "synonyms": [
+          "award",
+          "trophy"
+        ]
+      }
+    ],
+    "confusion": [
+      "meddle",
+      "medill",
+      "medela",
+      "mettle"
+    ]
+  },
+  {
+    "word": "artistic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or having a natural creative skill.",
+        "meaning_zh_TW": "藝術的",
+        "wrong_meaning_zh_TW": [
+          "技術的",
+          "商業的",
+          "實用的"
+        ],
+        "examples": [
+          {
+            "sentence": "She has an [artistic] flair when it comes to decorating.",
+            "translation_zh_TW": "在裝飾方面，她具有藝術的才能。"
+          },
+          {
+            "sentence": "The [artistic] expression in his paintings is truly remarkable.",
+            "translation_zh_TW": "他畫作中的藝術表現真是非凡。"
+          },
+          {
+            "sentence": "They appreciate [artistic] works that challenge conventional norms.",
+            "translation_zh_TW": "他們欣賞挑戰傳統規範的藝術作品。"
+          }
+        ],
+        "synonyms": [
+          "creative",
+          "aesthetic"
+        ]
+      }
+    ],
+    "confusion": [
+      "artistry",
+      "artisan",
+      "artifice",
+      "artful"
+    ]
+  },
+  {
+    "word": "cave",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A large underground chamber, typically of natural origin.",
+        "meaning_zh_TW": "洞穴",
+        "wrong_meaning_zh_TW": [
+          "洞口",
+          "隧道",
+          "坑道"
+        ],
+        "examples": [
+          {
+            "sentence": "The explorers discovered a dark [cave].",
+            "translation_zh_TW": "探險者發現了一個黑暗的洞穴"
+          },
+          {
+            "sentence": "Bats often roost in [caves].",
+            "translation_zh_TW": "蝙蝠經常棲息在洞穴裡"
+          },
+          {
+            "sentence": "They camped near the entrance of the [cave].",
+            "translation_zh_TW": "他們在洞穴的入口附近露營"
+          }
+        ],
+        "synonyms": [
+          "grottos",
+          "hollows"
+        ]
+      }
+    ],
+    "confusion": [
+      "caveat",
+      "caved",
+      "cavalry",
+      "cave-in"
+    ]
+  },
+  {
+    "word": "wool",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The textile fiber obtained from sheep and other animals.",
+        "meaning_zh_TW": "羊毛",
+        "wrong_meaning_zh_TW": [
+          "絲綢",
+          "棉花",
+          "麻"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a warm [wool] sweater.",
+            "translation_zh_TW": "她穿著一件保暖的羊毛毛衣"
+          },
+          {
+            "sentence": "The blanket is made of [wool].",
+            "translation_zh_TW": "這條毯子是用羊毛製成的"
+          },
+          {
+            "sentence": "He prefers [wool] socks in the winter.",
+            "translation_zh_TW": "他在冬天喜歡穿羊毛襪子"
+          }
+        ],
+        "synonyms": [
+          "fleece",
+          "yarn"
+        ]
+      }
+    ],
+    "confusion": [
+      "woolen",
+      "woof",
+      "wooly",
+      "woads"
+    ]
+  },
+  {
+    "word": "arrest",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To seize someone by legal authority.",
+        "meaning_zh_TW": "逮捕",
+        "wrong_meaning_zh_TW": [
+          "逃跑",
+          "保護",
+          "審判"
+        ],
+        "examples": [
+          {
+            "sentence": "The police decided to [arrest] him after the investigation.",
+            "translation_zh_TW": "警方在調查後決定逮捕他。"
+          },
+          {
+            "sentence": "He was [arrested] for breaking the law.",
+            "translation_zh_TW": "他因違法而被逮捕。"
+          },
+          {
+            "sentence": "You can’t [arrest] someone without evidence.",
+            "translation_zh_TW": "你不能在沒有證據的情況下逮捕某人。"
+          }
+        ],
+        "synonyms": [
+          "detain",
+          "capture"
+        ]
+      }
+    ],
+    "confusion": [
+      "arrested",
+      "arresting",
+      "assert",
+      "arrestor"
+    ]
+  }
+]

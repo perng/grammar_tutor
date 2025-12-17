@@ -1,0 +1,771 @@
+[
+  {
+    "word": "electronic",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having components or circuitry that uses electricity to function.",
+        "meaning_zh_TW": "電子的",
+        "wrong_meaning_zh_TW": [
+          "機械的",
+          "光學的",
+          "化學的"
+        ],
+        "examples": [
+          {
+            "sentence": "I prefer [electronic] books over printed ones.",
+            "translation_zh_TW": "我喜歡電子書勝過印刷書"
+          },
+          {
+            "sentence": "The [electronic] devices are updated regularly.",
+            "translation_zh_TW": "電子設備會定期更新"
+          },
+          {
+            "sentence": "We are developing new [electronic] gadgets.",
+            "translation_zh_TW": "我們正在開發新型電子小工具"
+          }
+        ],
+        "synonyms": [
+          "digital",
+          "computerized"
+        ]
+      }
+    ],
+    "confusion": [
+      "electron",
+      "electric",
+      "elector",
+      "electrical"
+    ]
+  },
+  {
+    "word": "tour",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A journey for pleasure in which several different places are visited.",
+        "meaning_zh_TW": "旅遊",
+        "wrong_meaning_zh_TW": [
+          "旅行社",
+          "交通工具",
+          "行李"
+        ],
+        "examples": [
+          {
+            "sentence": "They went on a [tour] of Europe last summer.",
+            "translation_zh_TW": "他們去年夏天進行了歐洲之旅。"
+          },
+          {
+            "sentence": "The museum offers a guided [tour] every Saturday.",
+            "translation_zh_TW": "那個博物館每週六提供導覽旅遊。"
+          },
+          {
+            "sentence": "He booked a [tour] to see the ancient ruins.",
+            "translation_zh_TW": "他預訂了一個旅行去參觀古代遺跡。"
+          }
+        ],
+        "synonyms": [
+          "excursion",
+          "trip"
+        ]
+      }
+    ],
+    "confusion": [
+      "tore",
+      "touring",
+      "tor",
+      "tourist"
+    ]
+  },
+  {
+    "word": "volume",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A measure of space within a container.",
+        "meaning_zh_TW": "體積",
+        "wrong_meaning_zh_TW": [
+          "面積",
+          "重量",
+          "高度"
+        ],
+        "examples": [
+          {
+            "sentence": "The [volume] of the box is too large for the shelf.",
+            "translation_zh_TW": "這個箱子的體積對這個架子來說太大了。"
+          },
+          {
+            "sentence": "You need to calculate the [volume] of the cylinder.",
+            "translation_zh_TW": "你需要計算圓柱體的體積。"
+          },
+          {
+            "sentence": "The [volume] of water in the tub is rising.",
+            "translation_zh_TW": "浴缸中的水量正在上升。"
+          }
+        ],
+        "synonyms": [
+          "capacity",
+          "size"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "The level of sound produced by an instrument, speaker, or other source.",
+        "meaning_zh_TW": "音量",
+        "wrong_meaning_zh_TW": [
+          "調音",
+          "樂器",
+          "音調"
+        ],
+        "examples": [
+          {
+            "sentence": "Please turn down the [volume] of the music.",
+            "translation_zh_TW": "請把音樂的音量調低。"
+          },
+          {
+            "sentence": "The [volume] of her voice was barely audible.",
+            "translation_zh_TW": "她的聲音音量幾乎聽不見。"
+          },
+          {
+            "sentence": "Adjust the [volume] of the speakers for a better experience.",
+            "translation_zh_TW": "調整揚聲器的音量以獲得更好的體驗。"
+          }
+        ],
+        "synonyms": [
+          "sound level",
+          "loudness"
+        ]
+      }
+    ],
+    "confusion": [
+      "volumetric",
+      "volitional",
+      "voluble",
+      "bilome"
+    ]
+  },
+  {
+    "word": "union",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of joining together.",
+        "meaning_zh_TW": "聯合",
+        "wrong_meaning_zh_TW": [
+          "分離",
+          "對抗",
+          "區分"
+        ],
+        "examples": [
+          {
+            "sentence": "The [union] of the two companies was announced.",
+            "translation_zh_TW": "兩家公司合併的消息已經宣布"
+          },
+          {
+            "sentence": "They celebrated the [union] of their families.",
+            "translation_zh_TW": "他們慶祝兩個家庭的聯合"
+          },
+          {
+            "sentence": "Labor [unions] protect workers' rights.",
+            "translation_zh_TW": "工會保護工人的權益"
+          }
+        ],
+        "synonyms": [
+          "alliance",
+          "association"
+        ]
+      }
+    ],
+    "confusion": [
+      "unison",
+      "unite",
+      "unan",
+      "unipon"
+    ]
+  },
+  {
+    "word": "jewelry",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": " decorative items such as rings, necklaces, or bracelets.",
+        "meaning_zh_TW": "珠寶",
+        "wrong_meaning_zh_TW": [
+          "飾品",
+          "金屬",
+          "布料"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore elegant [jewelry] to the gala.",
+            "translation_zh_TW": "她在晚會上佩戴優雅的珠寶"
+          },
+          {
+            "sentence": "The store offers a wide variety of [jewelry].",
+            "translation_zh_TW": "這家商店提供各式各樣的珠寶"
+          },
+          {
+            "sentence": "He bought some unique [jewelry] for his wife.",
+            "translation_zh_TW": "他為妻子買了一些獨特的珠寶"
+          }
+        ],
+        "synonyms": [
+          "accessories",
+          "ornaments"
+        ]
+      }
+    ],
+    "confusion": [
+      "jewel",
+      "jobbery",
+      "jewelers",
+      "jewelled"
+    ]
+  },
+  {
+    "word": "gas",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A substance that is in a gaseous state; it can expand to fill any space.",
+        "meaning_zh_TW": "氣體",
+        "wrong_meaning_zh_TW": [
+          "固體",
+          "液體",
+          "霧氣"
+        ],
+        "examples": [
+          {
+            "sentence": "The balloon was filled with helium [gas].",
+            "translation_zh_TW": "氣球裡充滿了氦氣"
+          },
+          {
+            "sentence": "The [gas] escaped into the atmosphere.",
+            "translation_zh_TW": "氣體逸散到大氣中"
+          },
+          {
+            "sentence": "He inhaled the [gas] without knowing it was toxic.",
+            "translation_zh_TW": "他在不知情的情況下吸入了毒氣"
+          }
+        ],
+        "synonyms": [
+          "vapour",
+          "fume"
+        ]
+      }
+    ],
+    "confusion": [
+      "gass",
+      "gassed",
+      "gash",
+      "gays"
+    ]
+  },
+  {
+    "word": "bush",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A woody plant that is smaller than a tree and has multiple stems.",
+        "meaning_zh_TW": "灌木",
+        "wrong_meaning_zh_TW": [
+          "樹木",
+          "花草",
+          "蔬菜"
+        ],
+        "examples": [
+          {
+            "sentence": "The garden was filled with vibrant [bushes].",
+            "translation_zh_TW": "花園裡充滿了色彩斑斕的灌木。"
+          },
+          {
+            "sentence": "We spotted a rabbit hiding behind a [bush].",
+            "translation_zh_TW": "我們看到一隻兔子躲在灌木後面。"
+          },
+          {
+            "sentence": "She trimmed the [bush] to shape it better.",
+            "translation_zh_TW": "她修剪了一下這棵灌木，使其形狀更好。"
+          }
+        ],
+        "synonyms": [
+          "shrub",
+          "undergrowth"
+        ]
+      }
+    ],
+    "confusion": [
+      "bosh",
+      "bushy",
+      "bushy",
+      "buse"
+    ]
+  },
+  {
+    "word": "career",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A profession or occupation that someone is trained for and engaged in.",
+        "meaning_zh_TW": "職業生涯",
+        "wrong_meaning_zh_TW": [
+          "娛樂",
+          "放鬆",
+          "冒險"
+        ],
+        "examples": [
+          {
+            "sentence": "She has chosen to advance her [career] in medicine.",
+            "translation_zh_TW": "她決定在醫學上推進她的職業生涯。"
+          },
+          {
+            "sentence": "A strong education will help you in your [career].",
+            "translation_zh_TW": "良好的教育將在你的職業生涯中幫助你。"
+          },
+          {
+            "sentence": "Networking is key to success in your [career].",
+            "translation_zh_TW": "建立人際關係是成功職業生涯的關鍵。"
+          }
+        ],
+        "synonyms": [
+          "profession",
+          "occupation"
+        ]
+      }
+    ],
+    "confusion": [
+      "adventure",
+      "advantage",
+      "accurate",
+      "cure"
+    ]
+  },
+  {
+    "word": "teens",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of life from age 13 to 19.",
+        "meaning_zh_TW": "青少年時期",
+        "wrong_meaning_zh_TW": [
+          "童年",
+          "成年",
+          "老年"
+        ],
+        "examples": [
+          {
+            "sentence": "Many changes occur during the [teens].",
+            "translation_zh_TW": "在青少年時期，許多變化會發生。"
+          },
+          {
+            "sentence": "Teens often face a lot of pressure from peers.",
+            "translation_zh_TW": "青少年經常面臨來自同齡人的壓力。"
+          },
+          {
+            "sentence": "She started high school in her [teens].",
+            "translation_zh_TW": "她在青少年時期開始上高中。"
+          }
+        ],
+        "synonyms": [
+          "adolescents",
+          "youths"
+        ]
+      }
+    ],
+    "confusion": [
+      "tense",
+      "tens",
+      "teenager",
+      "teensy"
+    ]
+  },
+  {
+    "word": "cable",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thick, strong rope or wire.",
+        "meaning_zh_TW": "纜繩",
+        "wrong_meaning_zh_TW": [
+          "紙張",
+          "布料",
+          "塑料"
+        ],
+        "examples": [
+          {
+            "sentence": "The workers used a steel [cable] to lift the heavy load.",
+            "translation_zh_TW": "工人們用一根鋼纜繩來提升重物。"
+          },
+          {
+            "sentence": "They installed new [cable] for the internet connection.",
+            "translation_zh_TW": "他們為網路連接安裝了新的纜線。"
+          },
+          {
+            "sentence": "He secured the [cable] tightly to prevent it from falling.",
+            "translation_zh_TW": "他將纜繩緊緊固定以防止掉落。"
+          }
+        ],
+        "synonyms": [
+          "wire",
+          "cord"
+        ]
+      }
+    ],
+    "confusion": [
+      "cabble",
+      "cibl",
+      "cabbage",
+      "cablez"
+    ]
+  },
+  {
+    "word": "appropriate",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Suitable or proper in the circumstances.",
+        "meaning_zh_TW": "適當的",
+        "wrong_meaning_zh_TW": [
+          "不合適的",
+          "不相關的",
+          "不良的"
+        ],
+        "examples": [
+          {
+            "sentence": "It's important to wear [appropriate] attire for the interview.",
+            "translation_zh_TW": "在面試中穿著適當的服裝是很重要的"
+          },
+          {
+            "sentence": "The teacher gave [appropriate] feedback on the assignments.",
+            "translation_zh_TW": "老師對作業給予了適當的反饋"
+          },
+          {
+            "sentence": "Make sure the content is [appropriate] for all audiences.",
+            "translation_zh_TW": "確保內容對所有觀眾都適當"
+          }
+        ],
+        "synonyms": [
+          "suitable",
+          "fitting"
+        ]
+      }
+    ],
+    "confusion": [
+      "appropriately",
+      "appropriate’s",
+      "appropriation",
+      "propagate"
+    ]
+  },
+  {
+    "word": "client",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person or organization using the services of a lawyer or other professional.",
+        "meaning_zh_TW": "客戶",
+        "wrong_meaning_zh_TW": [
+          "顧客",
+          "業主",
+          "供應商"
+        ],
+        "examples": [
+          {
+            "sentence": "The lawyer met with a [client] to discuss the case.",
+            "translation_zh_TW": "律師與客戶會面以討論案件。"
+          },
+          {
+            "sentence": "She has several regular [clients].",
+            "translation_zh_TW": "她有幾位固定客戶。"
+          },
+          {
+            "sentence": "The agency helps [clients] find suitable jobs.",
+            "translation_zh_TW": "該機構幫助客戶尋找合適的工作。"
+          }
+        ],
+        "synonyms": [
+          "customer",
+          "patron"
+        ]
+      }
+    ],
+    "confusion": [
+      "cliant",
+      "clinet",
+      "clientele",
+      "cliance"
+    ]
+  },
+  {
+    "word": "flash",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To burst forth or shine suddenly.",
+        "meaning_zh_TW": "閃爍",
+        "wrong_meaning_zh_TW": [
+          "慢慢移動",
+          "緩慢的亮光",
+          "一個過時的信號"
+        ],
+        "examples": [
+          {
+            "sentence": "The camera will [flash] when you take a photo.",
+            "translation_zh_TW": "拍照時相機會閃爍。"
+          },
+          {
+            "sentence": "He saw a [flash] of lightning in the sky.",
+            "translation_zh_TW": "他在天空中看到一道閃電。"
+          },
+          {
+            "sentence": "The headlights [flashed] as the car passed.",
+            "translation_zh_TW": "當車子經過時，車頭燈閃了一下。"
+          }
+        ],
+        "synonyms": [
+          "shine",
+          "glimmer"
+        ]
+      }
+    ],
+    "confusion": [
+      "flush",
+      "splash",
+      "flask",
+      "slack"
+    ]
+  },
+  {
+    "word": "structure",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The arrangement or organization of parts to form a whole.",
+        "meaning_zh_TW": "結構",
+        "wrong_meaning_zh_TW": [
+          "腐爛",
+          "情感",
+          "角色"
+        ],
+        "examples": [
+          {
+            "sentence": "The building's [structure] is made of steel and glass.",
+            "translation_zh_TW": "這座建築的結構由鋼和玻璃構成。"
+          },
+          {
+            "sentence": "They studied the [structure] of the government.",
+            "translation_zh_TW": "他們研究了政府的結構。"
+          },
+          {
+            "sentence": "The scientific [structure] of the molecule was complex.",
+            "translation_zh_TW": "這個分子的科學結構很複雜。"
+          }
+        ],
+        "synonyms": [
+          "construction",
+          "framework"
+        ]
+      }
+    ],
+    "confusion": [
+      "structural",
+      "infrastructure",
+      "strain",
+      "sturgeon"
+    ]
+  },
+  {
+    "word": "fund",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sum of money saved or made available for a particular purpose.",
+        "meaning_zh_TW": "基金",
+        "wrong_meaning_zh_TW": [
+          "檔案",
+          "鼓勵",
+          "進行"
+        ],
+        "examples": [
+          {
+            "sentence": "They created a special [fund] for local schools.",
+            "translation_zh_TW": "他們為當地學校創建了一個特別的基金"
+          },
+          {
+            "sentence": "The charity raised [funds] for disaster relief.",
+            "translation_zh_TW": "這個慈善機構募集資金以救災"
+          },
+          {
+            "sentence": "She donated to a retirement [fund].",
+            "translation_zh_TW": "她為一個退休基金捐款"
+          }
+        ],
+        "synonyms": [
+          "capital",
+          "resources"
+        ]
+      }
+    ],
+    "confusion": [
+      "find",
+      "funds",
+      "fun",
+      "fend"
+    ]
+  },
+  {
+    "word": "wed",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To join in marriage.",
+        "meaning_zh_TW": "結婚",
+        "wrong_meaning_zh_TW": [
+          "分手",
+          "約會",
+          "交往"
+        ],
+        "examples": [
+          {
+            "sentence": "They decided to [wed] in a small ceremony.",
+            "translation_zh_TW": "他們決定在一個小型儀式上結婚"
+          },
+          {
+            "sentence": "She will [wed] him next summer.",
+            "translation_zh_TW": "她計畫在明年夏天和他結婚"
+          },
+          {
+            "sentence": "Many couples choose to [wed] in a church.",
+            "translation_zh_TW": "許多情侶選擇在教堂裡結婚"
+          }
+        ],
+        "synonyms": [
+          "marry",
+          "join"
+        ]
+      }
+    ],
+    "confusion": [
+      "wade",
+      "wide",
+      "wedged",
+      "we'd"
+    ]
+  },
+  {
+    "word": "editor",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person who is in charge of and determines the final content of a text, particularly for publication.",
+        "meaning_zh_TW": "編輯",
+        "wrong_meaning_zh_TW": [
+          "作者",
+          "設計師",
+          "校對"
+        ],
+        "examples": [
+          {
+            "sentence": "The [editor] made several changes to the article.",
+            "translation_zh_TW": "編輯對這篇文章做了幾處修改"
+          },
+          {
+            "sentence": "She works as an [editor] for a major magazine.",
+            "translation_zh_TW": "她在一家知名雜誌擔任編輯"
+          },
+          {
+            "sentence": "The [editor] reviewed the manuscript for publication.",
+            "translation_zh_TW": "編輯對手稿進行了出版審核"
+          }
+        ],
+        "synonyms": [
+          "compiler",
+          "revisor"
+        ]
+      }
+    ],
+    "confusion": [
+      "editior",
+      "editer",
+      "edito",
+      "editerer"
+    ]
+  },
+  {
+    "word": "inn",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small hotel or lodging place, typically in a rural area.",
+        "meaning_zh_TW": "小旅館",
+        "wrong_meaning_zh_TW": [
+          "餐廳",
+          "酒吧",
+          "商店"
+        ],
+        "examples": [
+          {
+            "sentence": "We stayed at a charming [inn] in the countryside.",
+            "translation_zh_TW": "我們住在鄉村裡一個迷人的小旅館。"
+          },
+          {
+            "sentence": "The [inn] offers a beautiful view of the mountains.",
+            "translation_zh_TW": "這個小旅館提供美麗的山景。"
+          },
+          {
+            "sentence": "Guests at the [inn] are treated to a complimentary breakfast.",
+            "translation_zh_TW": "小旅館的客人可享用免費早餐。"
+          }
+        ],
+        "synonyms": [
+          "lodging",
+          "hostel"
+        ]
+      }
+    ],
+    "confusion": [
+      "inns",
+      "in",
+      "inner",
+      "inane"
+    ]
+  },
+  {
+    "word": "industrial",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to or characterized by industry.",
+        "meaning_zh_TW": "工業的.",
+        "wrong_meaning_zh_TW": [
+          "農業的",
+          "個人的",
+          "藝術的"
+        ],
+        "examples": [
+          {
+            "sentence": "The city has a rich history of [industrial] development.",
+            "translation_zh_TW": "這座城市擁有悠久的工業發展歷史。"
+          },
+          {
+            "sentence": "They specialize in [industrial] machinery manufacturing.",
+            "translation_zh_TW": "他們專注於工業機械製造。"
+          },
+          {
+            "sentence": "The [industrial] sector is growing rapidly.",
+            "translation_zh_TW": "工業部門正在迅速增長。"
+          }
+        ],
+        "synonyms": [
+          "manufacturing",
+          "commercial"
+        ]
+      }
+    ],
+    "confusion": [
+      "individual",
+      "unindustrial",
+      "interdigital",
+      "industrialize"
+    ]
+  }
+]

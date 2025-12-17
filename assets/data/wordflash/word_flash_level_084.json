@@ -1,0 +1,782 @@
+[
+  {
+    "word": "symbol",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A mark or character used to represent something.",
+        "meaning_zh_TW": "符號",
+        "wrong_meaning_zh_TW": [
+          "形狀",
+          "物體",
+          "顏色"
+        ],
+        "examples": [
+          {
+            "sentence": "The heart is a popular [symbol] of love.",
+            "translation_zh_TW": "心臟是愛的熱門符號"
+          },
+          {
+            "sentence": "In math, 'x' is often used as a [symbol] for an unknown value.",
+            "translation_zh_TW": "'x' 在數學中常用作未知值的符號"
+          },
+          {
+            "sentence": "Flags can be a powerful [symbol] of national pride.",
+            "translation_zh_TW": "國旗可以是民族自豪感的有力符號"
+          }
+        ],
+        "synonyms": [
+          "sign",
+          "token"
+        ]
+      }
+    ],
+    "confusion": [
+      "symphony",
+      "simile",
+      "syndrome",
+      "sample"
+    ]
+  },
+  {
+    "word": "highway",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A main road, especially one used by fast traffic.",
+        "meaning_zh_TW": "高速公路、主要道路",
+        "wrong_meaning_zh_TW": [
+          "小路、狹窄巷道",
+          "步道、行人道",
+          "城市街道"
+        ],
+        "examples": [
+          {
+            "sentence": "We traveled down the [highway] to reach our destination.",
+            "translation_zh_TW": "我們沿著[高速公路]旅行到達目的地。"
+          },
+          {
+            "sentence": "There are many rest stops along the [highway].",
+            "translation_zh_TW": "在[高速公路]沿線有許多休息站。"
+          },
+          {
+            "sentence": "Traffic is usually heavy on the [highway].",
+            "translation_zh_TW": "在[高速公路]上交通通常很繁忙。"
+          }
+        ],
+        "synonyms": [
+          "expressway",
+          "motorway"
+        ]
+      }
+    ],
+    "confusion": [
+      "highwayman",
+      "wideway",
+      "highways",
+      "highpay"
+    ]
+  },
+  {
+    "word": "requirement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A condition or necessity that must be met.",
+        "meaning_zh_TW": "要求、條件",
+        "wrong_meaning_zh_TW": [
+          "選擇、選項",
+          "問題、疑問",
+          "建議、提議"
+        ],
+        "examples": [
+          {
+            "sentence": "The main [requirement] for the job is a college degree.",
+            "translation_zh_TW": "這份工作的主要要求是大學學位。"
+          },
+          {
+            "sentence": "Please complete the [requirements] before submitting your application.",
+            "translation_zh_TW": "請在提交申請之前完成要求。"
+          },
+          {
+            "sentence": "Meeting the [requirement] is crucial for approval.",
+            "translation_zh_TW": "滿足這項要求對於獲得批准至關重要。"
+          }
+        ],
+        "synonyms": [
+          "necessity",
+          "prerequisite"
+        ]
+      }
+    ],
+    "confusion": [
+      "require",
+      "requirer",
+      "requirementally",
+      "requireing"
+    ]
+  },
+  {
+    "word": "border",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A line separating two political or geographical areas.",
+        "meaning_zh_TW": "邊界",
+        "wrong_meaning_zh_TW": [
+          "範圍",
+          "圍欄",
+          "邊緣"
+        ],
+        "examples": [
+          {
+            "sentence": "The river forms the natural [border] between the two countries.",
+            "translation_zh_TW": "這條河形成兩國之間的自然邊界。"
+          },
+          {
+            "sentence": "They put up a fence along the [border] for security.",
+            "translation_zh_TW": "他們在邊界沿線設置了圍欄以增強安全。"
+          },
+          {
+            "sentence": "The [border] patrol monitors crossings between nations.",
+            "translation_zh_TW": "邊界巡邏隊監控國家之間的邊境。"
+          }
+        ],
+        "synonyms": [
+          "boundary",
+          "perimeter"
+        ]
+      }
+    ],
+    "confusion": [
+      "boarder",
+      "boder",
+      "boreder",
+      "borderline"
+    ]
+  },
+  {
+    "word": "ancient",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Belonging to the very distant past and no longer in existence.",
+        "meaning_zh_TW": "古老的",
+        "wrong_meaning_zh_TW": [
+          "現代的",
+          "新鮮的",
+          "未來的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [ancient] ruins tell a story of the past.",
+            "translation_zh_TW": "這些古老的遺跡講述著過去的故事。"
+          },
+          {
+            "sentence": "They discovered [ancient] artifacts during the excavation.",
+            "translation_zh_TW": "他們在挖掘中發現了古老的文物。"
+          },
+          {
+            "sentence": "This temple is an example of [ancient] architecture.",
+            "translation_zh_TW": "這座寺廟是古老建築的例子。"
+          }
+        ],
+        "synonyms": [
+          "old",
+          "historic"
+        ]
+      }
+    ],
+    "confusion": [
+      "anciently",
+      "anxient",
+      "anccient",
+      "ancinet"
+    ]
+  },
+  {
+    "word": "debate",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A formal discussion on a particular topic.",
+        "meaning_zh_TW": "辯論",
+        "wrong_meaning_zh_TW": [
+          "講座",
+          "會議",
+          "演講"
+        ],
+        "examples": [
+          {
+            "sentence": "The [debate] on climate change was very engaging.",
+            "translation_zh_TW": "有關氣候變化的辯論非常引人入勝。"
+          },
+          {
+            "sentence": "The students prepared for the [debate] in class.",
+            "translation_zh_TW": "學生們在課堂上準備辯論。"
+          },
+          {
+            "sentence": "They held a [debate] to discuss the new policy.",
+            "translation_zh_TW": "他們舉行了一場辯論以討論新政策。"
+          }
+        ],
+        "synonyms": [
+          "discussion",
+          "argument"
+        ]
+      }
+    ],
+    "confusion": [
+      "debater",
+      "debated",
+      "debating",
+      "debacle"
+    ]
+  },
+  {
+    "word": "notebook",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A book of blank pages for writing notes.",
+        "meaning_zh_TW": "筆記本",
+        "wrong_meaning_zh_TW": [
+          "日記",
+          "記事本",
+          "計算機"
+        ],
+        "examples": [
+          {
+            "sentence": "I always carry a [notebook] to class.",
+            "translation_zh_TW": "我上課時總是帶著一本筆記本"
+          },
+          {
+            "sentence": "She wrote her ideas in her [notebook].",
+            "translation_zh_TW": "她把自己的想法寫在筆記本上"
+          },
+          {
+            "sentence": "His [notebook] was filled with sketches.",
+            "translation_zh_TW": "他的筆記本裡滿是草圖"
+          }
+        ],
+        "synonyms": [
+          "journal",
+          "notepad"
+        ]
+      }
+    ],
+    "confusion": [
+      "note",
+      "notebook",
+      "noteblok",
+      "noteblock"
+    ]
+  },
+  {
+    "word": "hop",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To jump a short distance, particularly on one foot.",
+        "meaning_zh_TW": "跳",
+        "wrong_meaning_zh_TW": [
+          "逃跑",
+          "捲曲",
+          "轉身"
+        ],
+        "examples": [
+          {
+            "sentence": "The frog can easily [hop] from one lily pad to another.",
+            "translation_zh_TW": "青蛙可以輕鬆地從一個睡蓮墊跳到另一個。"
+          },
+          {
+            "sentence": "She watched the kids [hop] around on the playground.",
+            "translation_zh_TW": "她看著孩子們在遊樂場上跳來跳去。"
+          },
+          {
+            "sentence": "You need to [hop] quickly to catch the bus.",
+            "translation_zh_TW": "你必須快點跳才能趕上公車。"
+          }
+        ],
+        "synonyms": [
+          "jump",
+          "leap"
+        ]
+      }
+    ],
+    "confusion": [
+      "hoppity",
+      "hopeless",
+      "hoplite",
+      "hoop"
+    ]
+  },
+  {
+    "word": "meter",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A unit of length in the metric system, equivalent to 100 centimeters.",
+        "meaning_zh_TW": "公尺",
+        "wrong_meaning_zh_TW": [
+          "米中米",
+          "計量器具",
+          "物體"
+        ],
+        "examples": [
+          {
+            "sentence": "The table is two [meters] long.",
+            "translation_zh_TW": "這張桌子長兩公尺"
+          },
+          {
+            "sentence": "You need to measure the length in [meters].",
+            "translation_zh_TW": "你需要用公尺來測量長度"
+          },
+          {
+            "sentence": "A kilometer is a thousand [meters].",
+            "translation_zh_TW": "一公里等於一千公尺"
+          }
+        ],
+        "synonyms": [
+          "metre",
+          "unit of length"
+        ]
+      }
+    ],
+    "confusion": [
+      "mater",
+      "metered",
+      "miter",
+      "mitre"
+    ]
+  },
+  {
+    "word": "gun",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A weapon that fires bullets or projectiles.",
+        "meaning_zh_TW": "槍械",
+        "wrong_meaning_zh_TW": [
+          "電池",
+          "別針",
+          "無人機"
+        ],
+        "examples": [
+          {
+            "sentence": "He kept a [gun] in his drawer for protection.",
+            "translation_zh_TW": "他在抽屜裡放了一把槍以防護"
+          },
+          {
+            "sentence": "The sound of the [gun] startled everyone.",
+            "translation_zh_TW": "槍聲驚嚇到了所有人"
+          },
+          {
+            "sentence": "They have strict laws about owning a [gun].",
+            "translation_zh_TW": "他們對擁有槍械有嚴格的法律"
+          }
+        ],
+        "synonyms": [
+          "firearm",
+          "weapon"
+        ]
+      }
+    ],
+    "confusion": [
+      "gon",
+      "gune",
+      "gunn",
+      "gyn"
+    ]
+  },
+  {
+    "word": "deliver",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To bring and hand over a letter, package, or any other item to a recipient.",
+        "meaning_zh_TW": "交付",
+        "wrong_meaning_zh_TW": [
+          "收回",
+          "毀壞",
+          "轉移"
+        ],
+        "examples": [
+          {
+            "sentence": "The courier will [deliver] the package tomorrow.",
+            "translation_zh_TW": "快遞員明天會交付包裹。"
+          },
+          {
+            "sentence": "Please [deliver] the documents to the office.",
+            "translation_zh_TW": "請把文件交付到辦公室。"
+          },
+          {
+            "sentence": "They promised to [deliver] high-quality service.",
+            "translation_zh_TW": "他們承諾提供高品質的服務。"
+          }
+        ],
+        "synonyms": [
+          "dispatch",
+          "send"
+        ]
+      }
+    ],
+    "confusion": [
+      "devolve",
+      "deliverable",
+      "defer",
+      "debilitate"
+    ]
+  },
+  {
+    "word": "lens",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of transparent material that refracts light, typically used in glasses or cameras.",
+        "meaning_zh_TW": "鏡頭",
+        "wrong_meaning_zh_TW": [
+          "鏡子",
+          "望遠鏡",
+          "顯微鏡"
+        ],
+        "examples": [
+          {
+            "sentence": "She adjusted the [lens] on her camera.",
+            "translation_zh_TW": "她調整了相機上的鏡頭."
+          },
+          {
+            "sentence": "The [lens] helped improve the clarity of the image.",
+            "translation_zh_TW": "鏡頭有助於提高圖像的清晰度."
+          },
+          {
+            "sentence": "Always clean the [lens] before taking photos.",
+            "translation_zh_TW": "在拍照之前務必清潔鏡頭."
+          }
+        ],
+        "synonyms": [
+          "optical element",
+          "glass"
+        ]
+      }
+    ],
+    "confusion": [
+      "lense",
+      "lenss",
+      "lends",
+      "lenz"
+    ]
+  },
+  {
+    "word": "discovery",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The act of finding or learning something for the first time.",
+        "meaning_zh_TW": "發現",
+        "wrong_meaning_zh_TW": [
+          "探索",
+          "展現",
+          "記錄"
+        ],
+        "examples": [
+          {
+            "sentence": "The [discovery] of penicillin changed medicine.",
+            "translation_zh_TW": "青黴素的發現改變了醫學"
+          },
+          {
+            "sentence": "Her [discovery] of the ancient ruins was unexpected.",
+            "translation_zh_TW": "她對古代遺跡的發現是意外的"
+          },
+          {
+            "sentence": "This [discovery] will lead to new technologies.",
+            "translation_zh_TW": "這一發現將促進新技術的發展"
+          }
+        ],
+        "synonyms": [
+          "finding",
+          "unearthing",
+          "revelation"
+        ]
+      }
+    ],
+    "confusion": [
+      "disguise",
+      "disrespect",
+      "discuss",
+      "discern"
+    ]
+  },
+  {
+    "word": "warm",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having or showing a relaxed, friendly, or enthusiastic attitude.",
+        "meaning_zh_TW": "溫暖的",
+        "wrong_meaning_zh_TW": [
+          "涼爽的",
+          "寒冷的",
+          "潮濕的"
+        ],
+        "examples": [
+          {
+            "sentence": "The [warm] sunlight felt great on my skin.",
+            "translation_zh_TW": "溫暖的陽光在我皮膚上感覺很好。"
+          },
+          {
+            "sentence": "She gave me a [warm] smile.",
+            "translation_zh_TW": "她對我露出了溫暖的微笑。"
+          },
+          {
+            "sentence": "He enjoys a [warm] cup of tea.",
+            "translation_zh_TW": "他喜歡喝一杯溫暖的茶。"
+          }
+        ],
+        "synonyms": [
+          "friendly",
+          "cozy"
+        ]
+      }
+    ],
+    "confusion": [
+      "worm",
+      "wham",
+      "warp",
+      "warmth"
+    ]
+  },
+  {
+    "word": "neither",
+    "meanings": [
+      {
+        "type": "連接詞",
+        "meaning_en_US": "Used to indicate that two or more alternatives are not applicable.",
+        "meaning_zh_TW": "兩者都不",
+        "wrong_meaning_zh_TW": [
+          "不論哪一個",
+          "充其量一個",
+          "其中之一"
+        ],
+        "examples": [
+          {
+            "sentence": "[Neither] the cat nor the dog is allowed inside.",
+            "translation_zh_TW": "貓和狗都不允許進入"
+          },
+          {
+            "sentence": "I like [neither] option.",
+            "translation_zh_TW": "我都不喜歡這兩個選項"
+          },
+          {
+            "sentence": "[Neither] of the answers is correct.",
+            "translation_zh_TW": "這兩個答案都不正確"
+          }
+        ],
+        "synonyms": [
+          "not either",
+          "none of the two"
+        ]
+      }
+    ],
+    "confusion": [
+      "neigher",
+      "neitherer",
+      "neithor",
+      "neithrr"
+    ]
+  },
+  {
+    "word": "stick",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thin piece of wood or similar material.",
+        "meaning_zh_TW": "棍子",
+        "wrong_meaning_zh_TW": [
+          "黑板",
+          "桌子",
+          "草坪"
+        ],
+        "examples": [
+          {
+            "sentence": "He picked up a [stick] from the ground.",
+            "translation_zh_TW": "他從地上撿起一根棍子"
+          },
+          {
+            "sentence": "The dog played with a long [stick].",
+            "translation_zh_TW": "狗狗玩著一根長棍子"
+          },
+          {
+            "sentence": "She used a [stick] to draw in the sand.",
+            "translation_zh_TW": "她用棍子在沙子上畫畫"
+          }
+        ],
+        "synonyms": [
+          "branch",
+          "rod"
+        ]
+      }
+    ],
+    "confusion": [
+      "slick",
+      "stig",
+      "snick"
+    ]
+  },
+  {
+    "word": "relation",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The way in which two or more people or groups feel and behave toward each other.",
+        "meaning_zh_TW": "關係、聯繫",
+        "wrong_meaning_zh_TW": [
+          "單獨、孤立",
+          "失去、放棄",
+          "變化、轉變"
+        ],
+        "examples": [
+          {
+            "sentence": "Their [relation] is built on trust and understanding.",
+            "translation_zh_TW": "他們的關係建立在信任和理解之上。"
+          },
+          {
+            "sentence": "This study examines the [relation] between diet and health.",
+            "translation_zh_TW": "這項研究考察飲食與健康之間的關係。"
+          },
+          {
+            "sentence": "There is a strong [relation] between the two variables.",
+            "translation_zh_TW": "這兩個變數之間有強烈的關係。"
+          }
+        ],
+        "synonyms": [
+          "connection",
+          "association"
+        ]
+      }
+    ],
+    "confusion": [
+      "relations",
+      "realtive",
+      "relatio",
+      "relatoin"
+    ]
+  },
+  {
+    "word": "slide",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To move smoothly along a surface while maintaining continuous contact with it.",
+        "meaning_zh_TW": "滑動",
+        "wrong_meaning_zh_TW": [
+          "撞擊",
+          "靜止不動",
+          "推開"
+        ],
+        "examples": [
+          {
+            "sentence": "The children love to [slide] down the playground.",
+            "translation_zh_TW": "孩子們喜歡在遊樂場滑下來。"
+          },
+          {
+            "sentence": "She tried to [slide] the door open quietly.",
+            "translation_zh_TW": "她試著輕輕地滑開門。"
+          },
+          {
+            "sentence": "The ice made it easy to [slide] across the lake.",
+            "translation_zh_TW": "冰面使得在湖上滑行變得容易。"
+          }
+        ],
+        "synonyms": [
+          "glide",
+          "slither"
+        ]
+      }
+    ],
+    "confusion": [
+      "slight",
+      "slime",
+      "slidey",
+      "slid"
+    ]
+  },
+  {
+    "word": "exact",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Not approximated in any way; precise.",
+        "meaning_zh_TW": "精確的、確切的",
+        "wrong_meaning_zh_TW": [
+          "模糊的",
+          "隨意的",
+          "差不多的"
+        ],
+        "examples": [
+          {
+            "sentence": "Please provide the [exact] measurements.",
+            "translation_zh_TW": "請提供精確的測量。"
+          },
+          {
+            "sentence": "His answer was not [exact]; it lacked detail.",
+            "translation_zh_TW": "他的回答不精確，缺乏細節。"
+          },
+          {
+            "sentence": "She recalled the [exact] date of the event.",
+            "translation_zh_TW": "她清楚記得事件的確切日期。"
+          }
+        ],
+        "synonyms": [
+          "precise",
+          "accurate"
+        ]
+      }
+    ],
+    "confusion": [
+      "exec",
+      "excite",
+      "exast",
+      "zcxact"
+    ]
+  },
+  {
+    "word": "formal",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Relating to the structure or form of something; following established conventions.",
+        "meaning_zh_TW": "形式的；正式的",
+        "wrong_meaning_zh_TW": [
+          "隨意的",
+          "非正式的",
+          "通俗的"
+        ],
+        "examples": [
+          {
+            "sentence": "She wore a [formal] dress to the gala.",
+            "translation_zh_TW": "她穿著正裝裙子參加晚會。"
+          },
+          {
+            "sentence": "The meeting was very [formal] and structured.",
+            "translation_zh_TW": "這次會議非常正式且有條理。"
+          },
+          {
+            "sentence": "He prefers [formal] language in his writing.",
+            "translation_zh_TW": "他在寫作中偏好使用正式語言。"
+          }
+        ],
+        "synonyms": [
+          "official",
+          "ceremonial"
+        ]
+      }
+    ],
+    "confusion": [
+      "formerly",
+      "formula",
+      "form",
+      "formats"
+    ]
+  }
+]

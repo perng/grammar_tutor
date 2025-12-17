@@ -1,0 +1,760 @@
+[
+  {
+    "word": "key",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A small piece of metal used to open or close a lock.",
+        "meaning_zh_TW": "鑰匙",
+        "wrong_meaning_zh_TW": [
+          "鍊子",
+          "鎖",
+          "門"
+        ],
+        "examples": [
+          {
+            "sentence": "I lost my [key] to the car.",
+            "translation_zh_TW": "我把車鑰匙弄丟了。"
+          },
+          {
+            "sentence": "She turned the [key] in the ignition.",
+            "translation_zh_TW": "她把鑰匙轉到點火位置。"
+          },
+          {
+            "sentence": "He handed me the [key] to his office.",
+            "translation_zh_TW": "他把辦公室的鑰匙遞給我。"
+          }
+        ],
+        "synonyms": [
+          "lock",
+          "accessory"
+        ]
+      },
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of crucial importance.",
+        "meaning_zh_TW": "重要的",
+        "wrong_meaning_zh_TW": [
+          "次要的",
+          "簡單的",
+          "隨意的"
+        ],
+        "examples": [
+          {
+            "sentence": "Communication is [key] to a successful relationship.",
+            "translation_zh_TW": "溝通是成功關係的關鍵。"
+          },
+          {
+            "sentence": "He played a [key] role in the project.",
+            "translation_zh_TW": "他在這個項目中扮演了關鍵角色。"
+          },
+          {
+            "sentence": "Time management is [key] for academic success.",
+            "translation_zh_TW": "時間管理是學術成功的關鍵。"
+          }
+        ],
+        "synonyms": [
+          "crucial",
+          "essential"
+        ]
+      }
+    ],
+    "confusion": [
+      "ke",
+      "ki",
+      "tee",
+      "kay"
+    ]
+  },
+  {
+    "word": "important",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of great significance or value; likely to have a major effect.",
+        "meaning_zh_TW": "重要的",
+        "wrong_meaning_zh_TW": [
+          "無關緊要的",
+          "瑣碎的",
+          "滑稽的"
+        ],
+        "examples": [
+          {
+            "sentence": "It is [important] to finish your homework on time.",
+            "translation_zh_TW": "按時完成作業是很重要的"
+          },
+          {
+            "sentence": "She gave an [important] presentation at the conference.",
+            "translation_zh_TW": "她在會議上做了一個重要的報告"
+          },
+          {
+            "sentence": "Understanding the rules is [important] for success.",
+            "translation_zh_TW": "理解規則對成功是重要的"
+          }
+        ],
+        "synonyms": [
+          "crucial",
+          "significant"
+        ]
+      }
+    ],
+    "confusion": [
+      "import",
+      "impart",
+      "impromptu",
+      "imported"
+    ]
+  },
+  {
+    "word": "few",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "A small number of; not many.",
+        "meaning_zh_TW": "少數的",
+        "wrong_meaning_zh_TW": [
+          "許多",
+          "大部分",
+          "全部"
+        ],
+        "examples": [
+          {
+            "sentence": "I have [few] friends in this city.",
+            "translation_zh_TW": "我在這個城市裡有少數幾個朋友"
+          },
+          {
+            "sentence": "She took a [few] minutes to think.",
+            "translation_zh_TW": "她花了幾分鐘思考"
+          },
+          {
+            "sentence": "There are [few] options available.",
+            "translation_zh_TW": "有少數選項可用"
+          }
+        ],
+        "synonyms": [
+          "some",
+          "scant"
+        ]
+      }
+    ],
+    "confusion": [
+      "fewer",
+      "fee",
+      "fue",
+      "fieu"
+    ]
+  },
+  {
+    "word": "east",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The direction toward the point of the horizon where the sun rises.",
+        "meaning_zh_TW": "東方",
+        "wrong_meaning_zh_TW": [
+          "西方",
+          "南方",
+          "北方"
+        ],
+        "examples": [
+          {
+            "sentence": "The sun rises in the [east].",
+            "translation_zh_TW": "太陽從東方升起"
+          },
+          {
+            "sentence": "We traveled [east] to reach the city.",
+            "translation_zh_TW": "我們向東方旅行到達城市"
+          },
+          {
+            "sentence": "He faced [east] during the ceremony.",
+            "translation_zh_TW": "他在儀式中面向東方"
+          }
+        ],
+        "synonyms": [
+          "orient",
+          "eastern direction"
+        ]
+      }
+    ],
+    "confusion": [
+      "beast",
+      "feast",
+      "least",
+      "eastward"
+    ]
+  },
+  {
+    "word": "paper",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A material made from pulped cellulose fibers, used for writing or printing.",
+        "meaning_zh_TW": "紙",
+        "wrong_meaning_zh_TW": [
+          "布料",
+          "塑料",
+          "金屬"
+        ],
+        "examples": [
+          {
+            "sentence": "I need some [paper] to write my notes.",
+            "translation_zh_TW": "我需要一些紙來寫我的筆記。"
+          },
+          {
+            "sentence": "The report must be printed on official [paper].",
+            "translation_zh_TW": "報告必須印在官方文件上。"
+          },
+          {
+            "sentence": "She folded the [paper] into a crane.",
+            "translation_zh_TW": "她把紙折成了個鶴。"
+          }
+        ],
+        "synonyms": [
+          "sheet",
+          "document"
+        ]
+      }
+    ],
+    "confusion": [
+      "paver",
+      "piper",
+      "pager",
+      "peer"
+    ]
+  },
+  {
+    "word": "age",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The length of time that a person has lived or a thing has existed.",
+        "meaning_zh_TW": "年齡、時期",
+        "wrong_meaning_zh_TW": [
+          "旅行",
+          "學習",
+          "變化"
+        ],
+        "examples": [
+          {
+            "sentence": "What is your [age]?",
+            "translation_zh_TW": "你多大年齡？"
+          },
+          {
+            "sentence": "The building is over a hundred years old; its [age] is impressive.",
+            "translation_zh_TW": "這座建築物已有一百多年；它的年齡令人印象深刻。"
+          },
+          {
+            "sentence": "He acts younger than his [age].",
+            "translation_zh_TW": "他的行為比他的年齡看起來要年輕。"
+          }
+        ],
+        "synonyms": [
+          "years",
+          "lifetime"
+        ]
+      }
+    ],
+    "confusion": [
+      "gag",
+      "ag",
+      "gauge",
+      "aeg"
+    ]
+  },
+  {
+    "word": "club",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A group of people organized for a common purpose.",
+        "meaning_zh_TW": "俱樂部",
+        "wrong_meaning_zh_TW": [
+          "班級",
+          "組織",
+          "協會"
+        ],
+        "examples": [
+          {
+            "sentence": "I joined a book [club] to meet new people.",
+            "translation_zh_TW": "我加入了一個讀書俱樂部以結識新朋友。"
+          },
+          {
+            "sentence": "The tennis [club] has many events this summer.",
+            "translation_zh_TW": "這個網球俱樂部今夏有許多活動。"
+          },
+          {
+            "sentence": "They founded a science [club] in their school.",
+            "translation_zh_TW": "他們在學校成立了一個科學俱樂部。"
+          }
+        ],
+        "synonyms": [
+          "association",
+          "organization"
+        ]
+      },
+      {
+        "type": "名詞",
+        "meaning_en_US": "A heavy stick used as a weapon.",
+        "meaning_zh_TW": "球棒",
+        "wrong_meaning_zh_TW": [
+          "指揮棒",
+          "棍子",
+          "木棍"
+        ],
+        "examples": [
+          {
+            "sentence": "The hunter carried a [club] for protection.",
+            "translation_zh_TW": "獵人攜帶著一根球棒以作保護。"
+          },
+          {
+            "sentence": "A wooden [club] can be used in self-defense.",
+            "translation_zh_TW": "木球棒可以用於自衛。"
+          },
+          {
+            "sentence": "He swung the [club] to strike the target.",
+            "translation_zh_TW": "他揮動球棒打擊目標。"
+          }
+        ],
+        "synonyms": [
+          "bat",
+          "stick"
+        ]
+      }
+    ],
+    "confusion": [
+      "clue",
+      "clubbed",
+      "clung",
+      "clap"
+    ]
+  },
+  {
+    "word": "example",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A representative form or pattern used to illustrate a concept or principle.",
+        "meaning_zh_TW": "例子",
+        "wrong_meaning_zh_TW": [
+          "樣本",
+          "模型",
+          "模板"
+        ],
+        "examples": [
+          {
+            "sentence": "This is a good [example] of teamwork.",
+            "translation_zh_TW": "這是一個良好的[例子]展示團隊合作。"
+          },
+          {
+            "sentence": "Can you give me an [example]?",
+            "translation_zh_TW": "你能給我一個[例子]嗎？"
+          },
+          {
+            "sentence": "She provided an [example] to clarify her point.",
+            "translation_zh_TW": "她提供了一個[例子]來澄清她的觀點。"
+          }
+        ],
+        "synonyms": [
+          "case",
+          "instance"
+        ]
+      }
+    ],
+    "confusion": [
+      "samples",
+      "exemplary",
+      "exempt",
+      "examine"
+    ]
+  },
+  {
+    "word": "something",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An unspecified or unknown object or entity.",
+        "meaning_zh_TW": "某事、某物",
+        "wrong_meaning_zh_TW": [
+          "某個人",
+          "任何事物",
+          "我的東西"
+        ],
+        "examples": [
+          {
+            "sentence": "I need [something] to write with.",
+            "translation_zh_TW": "我需要某個可以寫的東西"
+          },
+          {
+            "sentence": "Is there [something] I can do to help?",
+            "translation_zh_TW": "有沒有我可以做的事情來幫忙？"
+          },
+          {
+            "sentence": "He wanted [something] special for his birthday.",
+            "translation_zh_TW": "他想要生日的某個特別的東西"
+          }
+        ],
+        "synonyms": [
+          "anything",
+          "object"
+        ]
+      }
+    ],
+    "confusion": [
+      "some thing",
+      "somethin",
+      "someting",
+      "somenthing"
+    ]
+  },
+  {
+    "word": "road",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A wide way leading from one place to another, especially one with a prepared surface which vehicles can use.",
+        "meaning_zh_TW": "道路",
+        "wrong_meaning_zh_TW": [
+          "草地",
+          "城市",
+          "隧道"
+        ],
+        "examples": [
+          {
+            "sentence": "The [road] was closed for repairs.",
+            "translation_zh_TW": "道路因維修關閉。"
+          },
+          {
+            "sentence": "She walked down the empty [road].",
+            "translation_zh_TW": "她沿著空蕩蕩的道路走。"
+          },
+          {
+            "sentence": "There are many scenic views along the [road].",
+            "translation_zh_TW": "這條道路沿途有許多風景。"
+          }
+        ],
+        "synonyms": [
+          "path",
+          "route"
+        ]
+      }
+    ],
+    "confusion": [
+      "rode",
+      "load",
+      "brood",
+      "roadie"
+    ]
+  },
+  {
+    "word": "gift",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A thing given willingly to someone without payment; a present.",
+        "meaning_zh_TW": "禮物",
+        "wrong_meaning_zh_TW": [
+          "捐款",
+          "生意",
+          "債務"
+        ],
+        "examples": [
+          {
+            "sentence": "She received a beautiful [gift] for her birthday.",
+            "translation_zh_TW": "她收到了一份漂亮的生日禮物。"
+          },
+          {
+            "sentence": "It’s the thought that counts when giving a [gift].",
+            "translation_zh_TW": "送禮物時，心意最重要。"
+          },
+          {
+            "sentence": "He gave her a [gift] to show his appreciation.",
+            "translation_zh_TW": "他送她一份禮物以示感激。"
+          }
+        ],
+        "synonyms": [
+          "present",
+          "offering"
+        ]
+      }
+    ],
+    "confusion": [
+      "gifts",
+      "shift",
+      "gist",
+      "rift"
+    ]
+  },
+  {
+    "word": "question",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A sentence worded or expressed so as to elicit information.",
+        "meaning_zh_TW": "問題",
+        "wrong_meaning_zh_TW": [
+          "答案",
+          "教程",
+          "論述"
+        ],
+        "examples": [
+          {
+            "sentence": "She asked me a difficult [question].",
+            "translation_zh_TW": "她問我一個困難的問題"
+          },
+          {
+            "sentence": "His [question] surprised everyone.",
+            "translation_zh_TW": "他的問題讓大家感到驚訝"
+          },
+          {
+            "sentence": "I have a [question] about the assignment.",
+            "translation_zh_TW": "我對這個作業有一個問題"
+          }
+        ],
+        "synonyms": [
+          "inquiry",
+          "query"
+        ]
+      }
+    ],
+    "confusion": [
+      "quest",
+      "questionnaire",
+      "questions",
+      "qustion"
+    ]
+  },
+  {
+    "word": "night",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The period of darkness between sunset and sunrise.",
+        "meaning_zh_TW": "夜晚",
+        "wrong_meaning_zh_TW": [
+          "白天",
+          "黃昏",
+          "晨曦"
+        ],
+        "examples": [
+          {
+            "sentence": "The stars shine brightly at [night].",
+            "translation_zh_TW": "星星在夜晚明亮地閃爍。"
+          },
+          {
+            "sentence": "I love to go for walks at [night].",
+            "translation_zh_TW": "我喜歡在夜間散步。"
+          },
+          {
+            "sentence": "He often works late into the [night].",
+            "translation_zh_TW": "他經常工作到深夜。"
+          }
+        ],
+        "synonyms": [
+          "dark",
+          "evening"
+        ]
+      }
+    ],
+    "confusion": [
+      "knight",
+      "nigh",
+      "nightly",
+      "nigt"
+    ]
+  },
+  {
+    "word": "hard",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Solid, firm, and resistant to pressure; not soft.",
+        "meaning_zh_TW": "堅硬的",
+        "wrong_meaning_zh_TW": [
+          "柔軟的、軟的",
+          "脆弱的、易碎的",
+          "空洞的、無物的"
+        ],
+        "examples": [
+          {
+            "sentence": "The rock was too [hard] to break.",
+            "translation_zh_TW": "這塊石頭太硬了，無法打破。"
+          },
+          {
+            "sentence": "She has to work [hard] to achieve her goals.",
+            "translation_zh_TW": "她必須努力工作才能實現她的目標。"
+          },
+          {
+            "sentence": "This material is very [hard] and durable.",
+            "translation_zh_TW": "這種材料非常堅硬且耐用。"
+          }
+        ],
+        "synonyms": [
+          "firm",
+          "solid"
+        ]
+      }
+    ],
+    "confusion": [
+      "card",
+      "hardly",
+      "hardship",
+      "hurd"
+    ]
+  },
+  {
+    "word": "pay",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To give money in exchange for goods or services.",
+        "meaning_zh_TW": "支付",
+        "wrong_meaning_zh_TW": [
+          "借貸",
+          "交易",
+          "送貨"
+        ],
+        "examples": [
+          {
+            "sentence": "I need to [pay] the bill today.",
+            "translation_zh_TW": "我今天需要[支付]帳單。"
+          },
+          {
+            "sentence": "He offered to [pay] for dinner.",
+            "translation_zh_TW": "他提出[支付]晚餐費用。"
+          },
+          {
+            "sentence": "You can [pay] with cash or credit.",
+            "translation_zh_TW": "你可以用現金或信用卡[支付]。"
+          }
+        ],
+        "synonyms": [
+          "settle",
+          "remunerate"
+        ]
+      }
+    ],
+    "confusion": [
+      "payee",
+      "pays",
+      "payable",
+      "played"
+    ]
+  },
+  {
+    "word": "four",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The number following three.",
+        "meaning_zh_TW": "四",
+        "wrong_meaning_zh_TW": [
+          "五",
+          "六",
+          "三"
+        ],
+        "examples": [
+          {
+            "sentence": "There are [four] seasons in a year.",
+            "translation_zh_TW": "一年有四個季節。"
+          },
+          {
+            "sentence": "I need [four] apples.",
+            "translation_zh_TW": "我需要四個蘋果。"
+          },
+          {
+            "sentence": "The score was [four] to two.",
+            "translation_zh_TW": "比分是四比二。"
+          }
+        ],
+        "synonyms": [
+          "IV",
+          "4"
+        ]
+      }
+    ],
+    "confusion": [
+      "for",
+      "fore",
+      "floor",
+      "foul"
+    ]
+  },
+  {
+    "word": "always",
+    "meanings": [
+      {
+        "type": "副詞",
+        "meaning_en_US": "At all times; on all occasions.",
+        "meaning_zh_TW": "總是",
+        "wrong_meaning_zh_TW": [
+          "從不",
+          "有時",
+          "偶爾"
+        ],
+        "examples": [
+          {
+            "sentence": "She [always] arrives early.",
+            "translation_zh_TW": "她總是早到。"
+          },
+          {
+            "sentence": "I [always] forget where I parked.",
+            "translation_zh_TW": "我總是忘記我停在哪裡。"
+          },
+          {
+            "sentence": "They are [always] so kind to us.",
+            "translation_zh_TW": "他們對我們總是那麼友好。"
+          }
+        ],
+        "synonyms": [
+          "forever",
+          "consistently"
+        ]
+      }
+    ],
+    "confusion": [
+      "alway",
+      "allays",
+      "all ways",
+      "alwayses"
+    ]
+  },
+  {
+    "word": "blue",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Of a color intermediate between green and violet, as of the sky or sea on a clear day.",
+        "meaning_zh_TW": "藍色的",
+        "wrong_meaning_zh_TW": [
+          "囚犯",
+          "心情",
+          "憂鬱"
+        ],
+        "examples": [
+          {
+            "sentence": "The sky is a beautiful shade of [blue].",
+            "translation_zh_TW": "天空是美麗的藍色。"
+          },
+          {
+            "sentence": "She wore a [blue] dress to the party.",
+            "translation_zh_TW": "她穿著藍色的裙子參加派對。"
+          },
+          {
+            "sentence": "He painted the walls [blue].",
+            "translation_zh_TW": "他把牆壁漆成藍色。"
+          }
+        ],
+        "synonyms": [
+          "azure",
+          "cyan"
+        ]
+      }
+    ],
+    "confusion": [
+      "bleu",
+      "blee",
+      "blues",
+      "bleuette"
+    ]
+  }
+]

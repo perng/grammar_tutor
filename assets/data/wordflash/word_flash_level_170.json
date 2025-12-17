@@ -1,0 +1,783 @@
+[
+  {
+    "word": "crispy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Describing food that is pleasantly firm and crunchy.",
+        "meaning_zh_TW": "酥脆的",
+        "wrong_meaning_zh_TW": [
+          "濕潤的",
+          "柔軟的",
+          "油膩的"
+        ],
+        "examples": [
+          {
+            "sentence": "The fried chicken was perfectly [crispy].",
+            "translation_zh_TW": "炸雞外皮酥脆完美"
+          },
+          {
+            "sentence": "She likes her bacon [crispy].",
+            "translation_zh_TW": "她喜歡培根酥脆"
+          },
+          {
+            "sentence": "The salad had a [crispy] texture.",
+            "translation_zh_TW": "沙拉有一種酥脆的質感"
+          }
+        ],
+        "synonyms": [
+          "crunchy",
+          "crispy-fried"
+        ]
+      }
+    ],
+    "confusion": [
+      "crisp",
+      "crispey",
+      "crispie",
+      "crisped"
+    ]
+  },
+  {
+    "word": "foggy",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Filled with fog; characterized by visibility reduced by mist or haze.",
+        "meaning_zh_TW": "充滿霧的",
+        "wrong_meaning_zh_TW": [
+          "晴天",
+          "冰冷",
+          "紅色"
+        ],
+        "examples": [
+          {
+            "sentence": "It was a [foggy] morning and hard to see.",
+            "translation_zh_TW": "那是個霧濛濛的早晨，很難看清。"
+          },
+          {
+            "sentence": "Driving can be dangerous on [foggy] nights.",
+            "translation_zh_TW": "在霧蒙蒙的夜晚駕駛可能很危險。"
+          },
+          {
+            "sentence": "The landscape looked mysterious in the [foggy] weather.",
+            "translation_zh_TW": "在霧濛濛的天氣中，風景看起來很神秘。"
+          }
+        ],
+        "synonyms": [
+          "misty",
+          "hazy"
+        ]
+      }
+    ],
+    "confusion": [
+      "fog",
+      "doggy",
+      "fubby",
+      "foogy"
+    ]
+  },
+  {
+    "word": "hasty",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Done or acting with excessive speed or urgency.",
+        "meaning_zh_TW": "匆忙的",
+        "wrong_meaning_zh_TW": [
+          "謹慎的",
+          "有序的",
+          "冷靜的"
+        ],
+        "examples": [
+          {
+            "sentence": "He made a [hasty] decision without thinking.",
+            "translation_zh_TW": "他匆忙做了個決定，沒有思考。"
+          },
+          {
+            "sentence": "Her [hasty] reply surprised everyone.",
+            "translation_zh_TW": "她的匆忙回覆讓大家感到驚訝。"
+          },
+          {
+            "sentence": "The [hasty] actions led to mistakes.",
+            "translation_zh_TW": "匆忙的行動導致了錯誤。"
+          }
+        ],
+        "synonyms": [
+          "rapid",
+          "hurried"
+        ]
+      }
+    ],
+    "confusion": [
+      "nasty",
+      "tasty",
+      "paste",
+      "haste"
+    ]
+  },
+  {
+    "word": "mend",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To repair something that is broken or damaged.",
+        "meaning_zh_TW": "修補",
+        "wrong_meaning_zh_TW": [
+          "掩飾",
+          "改變",
+          "隱藏"
+        ],
+        "examples": [
+          {
+            "sentence": "He tried to [mend] the broken vase.",
+            "translation_zh_TW": "他試著修補破碎的花瓶"
+          },
+          {
+            "sentence": "She needed to [mend] her torn dress.",
+            "translation_zh_TW": "她需要修補她撕破的裙子"
+          },
+          {
+            "sentence": "They called a technician to [mend] the computer.",
+            "translation_zh_TW": "他們叫了技術人員來修理電腦"
+          }
+        ],
+        "synonyms": [
+          "repair",
+          "fix"
+        ]
+      }
+    ],
+    "confusion": [
+      "mind",
+      "blend",
+      "bend",
+      "mendax"
+    ]
+  },
+  {
+    "word": "amazement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A feeling of great surprise or wonder.",
+        "meaning_zh_TW": "驚訝",
+        "wrong_meaning_zh_TW": [
+          "失落",
+          "疑惑",
+          "不確定"
+        ],
+        "examples": [
+          {
+            "sentence": "She stared at the painting in [amazement].",
+            "translation_zh_TW": "她驚訝地凝視著那幅畫。"
+          },
+          {
+            "sentence": "His achievement filled everyone with [amazement].",
+            "translation_zh_TW": "他的成就讓每個人都感到驚訝。"
+          },
+          {
+            "sentence": "The audience gasped in [amazement] at the finale.",
+            "translation_zh_TW": "觀眾在結尾時驚呼不已。"
+          }
+        ],
+        "synonyms": [
+          "wonder",
+          "astonishment"
+        ]
+      }
+    ],
+    "confusion": [
+      "amazes",
+      "amazing",
+      "amazed",
+      "amz"
+    ]
+  },
+  {
+    "word": "skillful",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Having or showing skill or proficiency.",
+        "meaning_zh_TW": "熟練的",
+        "wrong_meaning_zh_TW": [
+          "生疏的",
+          "不擅長的",
+          "粗心的"
+        ],
+        "examples": [
+          {
+            "sentence": "She is a [skillful] pianist.",
+            "translation_zh_TW": "她是一位熟練的鋼琴家。"
+          },
+          {
+            "sentence": "His [skillful] handling of the situation impressed everyone.",
+            "translation_zh_TW": "他熟練地處理這種情況讓所有人都印象深刻。"
+          },
+          {
+            "sentence": "To become [skillful], practice is essential.",
+            "translation_zh_TW": "要變得熟練，練習是必不可少的。"
+          }
+        ],
+        "synonyms": [
+          "adept",
+          "proficient"
+        ]
+      }
+    ],
+    "confusion": [
+      "skillfull",
+      "skillly",
+      "skillfuly",
+      "skill"
+    ]
+  },
+  {
+    "word": "housekeeper",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person employed to manage a household and perform domestic tasks.",
+        "meaning_zh_TW": "管家，家庭管理者",
+        "wrong_meaning_zh_TW": [
+          "火警員",
+          "廚師",
+          "清潔工"
+        ],
+        "examples": [
+          {
+            "sentence": "The [housekeeper] keeps the house clean and organized.",
+            "translation_zh_TW": "管家保持房子乾淨整潔。"
+          },
+          {
+            "sentence": "She works as a [housekeeper] in a large hotel.",
+            "translation_zh_TW": "她在一家大型酒店工作當管家。"
+          },
+          {
+            "sentence": "The [housekeeper] prepares meals and manages the household budget.",
+            "translation_zh_TW": "管家負責準備膳食和管理家庭預算。"
+          }
+        ],
+        "synonyms": [
+          "domestic worker",
+          "caretaker"
+        ]
+      }
+    ],
+    "confusion": [
+      "houseker",
+      "housekeep",
+      "housekeeping",
+      "housekeepers"
+    ]
+  },
+  {
+    "word": "grasshopper",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A relatively large insect that is known for its ability to jump great distances.",
+        "meaning_zh_TW": "蝗蟲",
+        "wrong_meaning_zh_TW": [
+          "蜻蜓",
+          "瓢蟲",
+          "蜜蜂"
+        ],
+        "examples": [
+          {
+            "sentence": "The [grasshopper] jumped from one blade of grass to another.",
+            "translation_zh_TW": "蝗蟲從一片草葉跳到另一片。"
+          },
+          {
+            "sentence": "She caught a [grasshopper] and showed it to her friends.",
+            "translation_zh_TW": "她抓住了一隻蝗蟲，並向朋友展示。"
+          },
+          {
+            "sentence": "A [grasshopper] can be found in many grasslands.",
+            "translation_zh_TW": "蝗蟲可以在許多草原中找到。"
+          }
+        ],
+        "synonyms": [
+          "locust",
+          "hopper"
+        ]
+      }
+    ],
+    "confusion": [
+      "grasshop",
+      "grasshoppers",
+      "grassyhopper",
+      "grasshoper"
+    ]
+  },
+  {
+    "word": "amuse",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To entertain or make someone laugh.",
+        "meaning_zh_TW": "逗樂",
+        "wrong_meaning_zh_TW": [
+          "惹怒",
+          "打擾",
+          "無視"
+        ],
+        "examples": [
+          {
+            "sentence": "The clown's tricks [amused] the children at the party.",
+            "translation_zh_TW": "小丑的把戲讓派對上的孩子們感到逗樂。"
+          },
+          {
+            "sentence": "She loves to [amuse] her friends with funny stories.",
+            "translation_zh_TW": "她喜歡用有趣的故事逗樂她的朋友。"
+          },
+          {
+            "sentence": "His humor always [amuses] everyone around him.",
+            "translation_zh_TW": "他的幽默總是逗樂他周圍的每一個人。"
+          }
+        ],
+        "synonyms": [
+          "entertain",
+          "delight"
+        ]
+      }
+    ],
+    "confusion": [
+      "amused",
+      "abuse",
+      "amusee",
+      "amulet"
+    ]
+  },
+  {
+    "word": "youngster",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A young person, especially a child or teenager.",
+        "meaning_zh_TW": "年輕人",
+        "wrong_meaning_zh_TW": [
+          "老人",
+          "成人",
+          "幼犬"
+        ],
+        "examples": [
+          {
+            "sentence": "The park was full of [youngsters] playing games.",
+            "translation_zh_TW": "公園裡滿是玩遊戲的年輕人。"
+          },
+          {
+            "sentence": "Youngsters often have a lot of energy.",
+            "translation_zh_TW": "年輕人往往有很多精力。"
+          },
+          {
+            "sentence": "The program is designed for [youngsters] aged 10 to 15.",
+            "translation_zh_TW": "該計畫是為10到15歲的年輕人設計的。"
+          }
+        ],
+        "synonyms": [
+          "teenager",
+          "youth"
+        ]
+      }
+    ],
+    "confusion": [
+      "youngsterss",
+      "youngsterz",
+      "younster",
+      "younger"
+    ]
+  },
+  {
+    "word": "starve",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To suffer or die from lack of food.",
+        "meaning_zh_TW": "挨餓",
+        "wrong_meaning_zh_TW": [
+          "暴飲暴食",
+          "享受美食",
+          "健康飲食"
+        ],
+        "examples": [
+          {
+            "sentence": "Many people [starve] due to lack of resources.",
+            "translation_zh_TW": "許多人因資源匱乏而挨餓。"
+          },
+          {
+            "sentence": "He felt he could [starve] if he didn't eat soon.",
+            "translation_zh_TW": "他覺得如果不快點吃就會挨餓。"
+          },
+          {
+            "sentence": "Animals in the wild can [starve] during harsh winters.",
+            "translation_zh_TW": "在嚴酷的冬天，野生動物可能會挨餓。"
+          }
+        ],
+        "synonyms": [
+          "underfeed",
+          "hunger"
+        ]
+      }
+    ],
+    "confusion": [
+      "strove",
+      "starved",
+      "slarve",
+      "starv"
+    ]
+  },
+  {
+    "word": "handkerchief",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A piece of cloth used for wiping the face or hands.",
+        "meaning_zh_TW": "手帕",
+        "wrong_meaning_zh_TW": [
+          "毛巾",
+          "餐巾",
+          "衣服"
+        ],
+        "examples": [
+          {
+            "sentence": "He always carries a [handkerchief] in his pocket.",
+            "translation_zh_TW": "他總是口袋裡帶著一條手帕。"
+          },
+          {
+            "sentence": "She used the [handkerchief] to wipe her tears.",
+            "translation_zh_TW": "她用手帕擦眼淚。"
+          },
+          {
+            "sentence": "The [handkerchief] was embroidered with her initials.",
+            "translation_zh_TW": "手帕上刺繡了她的首字母。"
+          }
+        ],
+        "synonyms": [
+          "tissue",
+          "cloth"
+        ]
+      }
+    ],
+    "confusion": [
+      "handkerchiefs",
+      "handcrafted",
+      "handball",
+      "handsfree"
+    ]
+  },
+  {
+    "word": "hairdresser",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A person whose occupation is cutting and styling hair.",
+        "meaning_zh_TW": "髮型師",
+        "wrong_meaning_zh_TW": [
+          "化妝師",
+          "護士",
+          "理髮店"
+        ],
+        "examples": [
+          {
+            "sentence": "She visited her favorite [hairdresser] for a trim.",
+            "translation_zh_TW": "她去見她最喜歡的髮型師修剪頭髮。"
+          },
+          {
+            "sentence": "The [hairdresser] suggested a new style for her.",
+            "translation_zh_TW": "髮型師為她建議了一種新風格。"
+          },
+          {
+            "sentence": "My [hairdresser] always knows what I want.",
+            "translation_zh_TW": "我的髮型師總是知道我想要什麼。"
+          }
+        ],
+        "synonyms": [
+          "stylist",
+          "barber"
+        ]
+      }
+    ],
+    "confusion": [
+      "hairdo",
+      "hairdresser's",
+      "hairspray",
+      "hairdryer"
+    ]
+  },
+  {
+    "word": "lollipop",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "A hard candy on a stick.",
+        "meaning_zh_TW": "棒棒糖",
+        "wrong_meaning_zh_TW": [
+          "冰淇淋，雪糕",
+          "餅乾，甜點",
+          "飲料，汽水"
+        ],
+        "examples": [
+          {
+            "sentence": "She gave him a [lollipop] as a reward.",
+            "translation_zh_TW": "她給了他一根棒棒糖作為獎勵。"
+          },
+          {
+            "sentence": "The shop sells many flavors of [lollipops].",
+            "translation_zh_TW": "這家商店出售多種口味的棒棒糖。"
+          },
+          {
+            "sentence": "Kids love to enjoy a colorful [lollipop].",
+            "translation_zh_TW": "孩子們喜歡享用五顏六色的棒棒糖。"
+          }
+        ],
+        "synonyms": [
+          "candy",
+          "sucker",
+          "sweet"
+        ]
+      }
+    ],
+    "confusion": [
+      "lolling",
+      "lolitics",
+      "lollipops",
+      "lollibots"
+    ]
+  },
+  {
+    "word": "yolk",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The yellow part of an egg, which contains the nutrients for an embryo.",
+        "meaning_zh_TW": "蛋黃",
+        "wrong_meaning_zh_TW": [
+          "蛋殼",
+          "蛋白",
+          "雞肉"
+        ],
+        "examples": [
+          {
+            "sentence": "The [yolk] is rich in vitamins and minerals.",
+            "translation_zh_TW": "蛋黃富含維他命和礦物質。"
+          },
+          {
+            "sentence": "He carefully separated the egg [yolk] from the egg white.",
+            "translation_zh_TW": "他小心翼翼地將蛋黃與蛋白分開。"
+          },
+          {
+            "sentence": "In many recipes, the [yolk] is used to add richness.",
+            "translation_zh_TW": "在許多食譜中，蛋黃用來增加風味。"
+          }
+        ],
+        "synonyms": [
+          "ovum",
+          "egg center"
+        ]
+      }
+    ],
+    "confusion": [
+      "yolked",
+      "yoke",
+      "yoks",
+      "yok"
+    ]
+  },
+  {
+    "word": "postponement",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "The action of delaying or postponing something.",
+        "meaning_zh_TW": "推遲",
+        "wrong_meaning_zh_TW": [
+          "優先",
+          "計劃",
+          "增加"
+        ],
+        "examples": [
+          {
+            "sentence": "The [postponement] of the game was announced yesterday.",
+            "translation_zh_TW": "比賽推遲的消息於昨天宣布"
+          },
+          {
+            "sentence": "We are awaiting a decision on the [postponement].",
+            "translation_zh_TW": "我們在等待對推遲的決定"
+          },
+          {
+            "sentence": "The [postponement] caused a lot of confusion.",
+            "translation_zh_TW": "推遲造成了很多困惑"
+          }
+        ],
+        "synonyms": [
+          "deferment",
+          "delay"
+        ]
+      }
+    ],
+    "confusion": [
+      "post",
+      "possession",
+      "posters",
+      "postulate"
+    ]
+  },
+  {
+    "word": "frighten",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To make someone feel afraid or anxious.",
+        "meaning_zh_TW": "使感到害怕",
+        "wrong_meaning_zh_TW": [
+          "安慰",
+          "鼓舞",
+          "驅散"
+        ],
+        "examples": [
+          {
+            "sentence": "The loud noise can [frighten] small children.",
+            "translation_zh_TW": "巨大的聲音可能會使小孩子感到害怕"
+          },
+          {
+            "sentence": "Don't [frighten] her; she's already nervous.",
+            "translation_zh_TW": "不要把她嚇到；她已經緊張了"
+          },
+          {
+            "sentence": "The movie is designed to [frighten] its audience.",
+            "translation_zh_TW": "這部電影的目的就是要使觀眾感到害怕"
+          }
+        ],
+        "synonyms": [
+          "scare",
+          "terrify"
+        ]
+      }
+    ],
+    "confusion": [
+      "frittern",
+      "frighten",
+      "fright",
+      "friction"
+    ]
+  },
+  {
+    "word": "firework",
+    "meanings": [
+      {
+        "type": "名詞",
+        "meaning_en_US": "An explosive device for producing a display of sound and light.",
+        "meaning_zh_TW": "煙火",
+        "wrong_meaning_zh_TW": [
+          "手電筒",
+          "氣球",
+          "糖果"
+        ],
+        "examples": [
+          {
+            "sentence": "They set off [firework]s to celebrate the New Year.",
+            "translation_zh_TW": "他們放煙火來慶祝新年"
+          },
+          {
+            "sentence": "The [firework] show was spectacular.",
+            "translation_zh_TW": "煙火表演非常壯觀"
+          },
+          {
+            "sentence": "Children loved watching the colorful [fireworks] light up the sky.",
+            "translation_zh_TW": "孩子們喜歡看五彩繽紛的煙火照亮天空"
+          }
+        ],
+        "synonyms": [
+          "pyrotechnics",
+          "displays"
+        ]
+      }
+    ],
+    "confusion": [
+      "fireworks",
+      "fireworkly",
+      "fireworked",
+      "firepower"
+    ]
+  },
+  {
+    "word": "countable",
+    "meanings": [
+      {
+        "type": "形容詞",
+        "meaning_en_US": "Able to be counted; having a finite number.",
+        "meaning_zh_TW": "可數的",
+        "wrong_meaning_zh_TW": [
+          "無限的",
+          "大量的",
+          "稀有的"
+        ],
+        "examples": [
+          {
+            "sentence": "Apples are [countable] nouns in English.",
+            "translation_zh_TW": "蘋果在英語中是可數名詞。"
+          },
+          {
+            "sentence": "We discussed [countable] items during the meeting.",
+            "translation_zh_TW": "我們在會議中討論了可數項目。"
+          },
+          {
+            "sentence": "You need to distinguish between [countable] and uncountable nouns.",
+            "translation_zh_TW": "你需要區分可數和不可數名詞。"
+          }
+        ],
+        "synonyms": [
+          "numerable",
+          "measurable"
+        ]
+      }
+    ],
+    "confusion": [
+      "countable",
+      "counta",
+      "countably",
+      "counter"
+    ]
+  },
+  {
+    "word": "pollute",
+    "meanings": [
+      {
+        "type": "動詞",
+        "meaning_en_US": "To contaminate or make dirty, especially with harmful substances.",
+        "meaning_zh_TW": "污染",
+        "wrong_meaning_zh_TW": [
+          "清潔",
+          "回收",
+          "治理"
+        ],
+        "examples": [
+          {
+            "sentence": "Factories can [pollute] the air and water.",
+            "translation_zh_TW": "工廠可能會污染空氣和水。"
+          },
+          {
+            "sentence": "We must act to stop [pollute]ion.",
+            "translation_zh_TW": "我們必須採取行動以阻止污染。"
+          },
+          {
+            "sentence": "Many materials can [pollute] the environment.",
+            "translation_zh_TW": "許多材料可以污染環境。"
+          }
+        ],
+        "synonyms": [
+          "contaminate",
+          "taint"
+        ]
+      }
+    ],
+    "confusion": [
+      "pollution",
+      "poll",
+      "plutocrat",
+      "pulse"
+    ]
+  }
+]

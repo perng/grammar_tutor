@@ -214,8 +214,9 @@ class _VocabHeroGameScreenState extends State<VocabHeroGameScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_questions.isEmpty)
+    if (_questions.isEmpty) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
 
     final currentQ = _questions[_currentIndex];
 
@@ -328,7 +329,7 @@ class _VocabHeroGameScreenState extends State<VocabHeroGameScreen> {
                         ),
                       ),
                     );
-                  }).toList(),
+                  }),
 
                   if (_showContinue)
                     Padding(

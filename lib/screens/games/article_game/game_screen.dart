@@ -285,10 +285,12 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_isLoading)
+    if (_isLoading) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
-    if (_story == null)
+    }
+    if (_story == null) {
       return const Scaffold(body: Center(child: Text("Level not found")));
+    }
 
     return Scaffold(
       appBar: AppBar(title: Text(_story!.title)),
@@ -334,8 +336,9 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
                           bool capThe = (word.index == 0);
                           if (word.index > 0) {
                             ArticleWord prev = _words[word.index - 1];
-                            if (RegExp(r'[.!?]$').hasMatch(prev.text))
+                            if (RegExp(r'[.!?]$').hasMatch(prev.text)) {
                               capThe = true;
+                            }
                           }
                           if (capThe) prefix = "The ";
 

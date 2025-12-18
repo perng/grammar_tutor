@@ -237,8 +237,9 @@ class _WordFlashGameScreenState extends State<WordFlashGameScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_wordList.isEmpty)
+    if (_wordList.isEmpty) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
 
     final currentWord = _wordList[_currentIndex];
 
@@ -342,7 +343,7 @@ class _WordFlashGameScreenState extends State<WordFlashGameScreen> {
                             ),
                           ),
                         );
-                      }).toList(),
+                      }),
                     ],
                   ),
                 ),

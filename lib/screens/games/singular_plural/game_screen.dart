@@ -41,7 +41,7 @@ class SingularPluralGameScreen extends StatefulWidget {
 class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
   List<Word> _words = [];
   Map<int, String> _playerSelections = {};
-  Map<int, String> _correctAnswers = {};
+  final Map<int, String> _correctAnswers = {};
 
   bool _isLoading = true;
   bool _showResults = false;
@@ -302,10 +302,12 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_isLoading)
+    if (_isLoading) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
-    if (_story == null)
+    }
+    if (_story == null) {
       return const Scaffold(body: Center(child: Text("Level not found")));
+    }
 
     return Scaffold(
       appBar: AppBar(title: Text(_story!.title)),

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class WordFlashScreen extends StatelessWidget {
-  const WordFlashScreen({Key? key}) : super(key: key);
+  const WordFlashScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('WordFlash')));
@@ -9,7 +9,7 @@ class WordFlashScreen extends StatelessWidget {
 }
 
 class VocabHeroScreen extends StatelessWidget {
-  const VocabHeroScreen({Key? key}) : super(key: key);
+  const VocabHeroScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('VocabHero')));
@@ -17,7 +17,7 @@ class VocabHeroScreen extends StatelessWidget {
 }
 
 class PhraseBossScreen extends StatelessWidget {
-  const PhraseBossScreen({Key? key}) : super(key: key);
+  const PhraseBossScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('PhraseBoss')));
@@ -25,7 +25,7 @@ class PhraseBossScreen extends StatelessWidget {
 }
 
 class SingularPluralScreen extends StatelessWidget {
-  const SingularPluralScreen({Key? key}) : super(key: key);
+  const SingularPluralScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('SingularPlural')));
@@ -33,7 +33,7 @@ class SingularPluralScreen extends StatelessWidget {
 }
 
 class ArticleGameScreen extends StatelessWidget {
-  const ArticleGameScreen({Key? key}) : super(key: key);
+  const ArticleGameScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('ArticleGame')));
@@ -41,7 +41,7 @@ class ArticleGameScreen extends StatelessWidget {
 }
 
 class AnATheGameScreen extends StatelessWidget {
-  const AnATheGameScreen({Key? key}) : super(key: key);
+  const AnATheGameScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return const Scaffold(body: Center(child: Text('AnATheGame')));

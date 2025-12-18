@@ -53,7 +53,7 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
         // So the Route param `levelId` is an INDEX (0, 1, 2).
         // The persistence key is `singular-plural-${index}`.
 
-        final String key = '${widget.progressKeyPrefix}-${i}';
+        final String key = '${widget.progressKeyPrefix}-$i';
         final String? val = prefs.getString(key);
         progress[i.toString()] = val != null
             ? (double.tryParse(val) ?? 0.0)

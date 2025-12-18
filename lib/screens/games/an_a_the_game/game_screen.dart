@@ -259,10 +259,12 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_isLoading)
+    if (_isLoading) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
-    if (_story == null)
+    }
+    if (_story == null) {
       return const Scaffold(body: Center(child: Text("Level not found")));
+    }
 
     return Scaffold(
       appBar: AppBar(title: Text(_story!.title)),
@@ -342,7 +344,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                                   // Show wrong selection crossed out
                                   children.add(
                                     Text(
-                                      _capitalize(selectedArt) + " ",
+                                      "${_capitalize(selectedArt)} ",
                                       style: const TextStyle(
                                         fontSize: 18,
                                         color: Colors.red,
@@ -366,7 +368,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                             if (textToShow.isNotEmpty) {
                               children.add(
                                 Text(
-                                  _capitalize(textToShow) + " ",
+                                  "${_capitalize(textToShow)} ",
                                   style: TextStyle(
                                     fontSize: 18,
                                     fontWeight:

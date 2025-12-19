@@ -1,0 +1,107 @@
+[
+    {
+        "title": "My Feelings",
+        "id": "feelings",
+        "content": "I [am|is|are] very happy today. My brother [is|am|are] sad. He lost his toy. My parents [are|is|am] proud of me. We [are|is|am] a happy family. My sister [is|am|are] excited about the trip. I [am|is|are] not angry anymore. You [are|is|am] my best friend. They [are|is|am] very kind people.",
+        "explanation-zh-TW": "# 我的心情\n\n描述心情或狀態時，必須要有 **Be動詞 (am/is/are)**，不能省略喔！\n\n1. **[am]**：I am happy. (我很快樂)\n2. **[is]**：My brother (He) is sad. (他很難過)\n3. **[are]**：My parents (They) are proud. (他們很驕傲)\n4. **[are]**：We are happy. (我們很快樂)\n5. **[is]**：My sister (She) is excited. (她很興奮)\n6. **[am]**：I am not angry. (我不生氣)\n7. **[are]**：You are my best friend. (你是我的好朋友)\n8. **[are]**：They are kind. (他們很仁慈)\n\n記住：中文雖然說「我很忙」，英文要說 \"I **am** very busy\"。",
+        "explanation-en-US": "# My Feelings\n\nWhen describing feelings or states with adjectives, you MUST use a **Be Verb (am/is/are)**. You cannot skip it!\n\n1. **[am]**: I am happy.\n2. **[is]**: My brother (He) is sad.\n3. **[are]**: My parents (They) are proud.\n4. **[are]**: We are happy.\n5. **[is]**: My sister (She) is excited.\n6. **[am]**: I am not angry.\n7. **[are]**: You are my best friend.\n8. **[are]**: They are kind.\n\nRemember: Don't say \"I very busy\". Say \"I **am** very busy\"."
+    },
+    {
+        "title": "The Weather",
+        "id": "weather",
+        "content": "The sun [is|am|are] very bright today. The sky [is|am|are] blue and clear. The clouds [are|is|am] white and fluffy. I [am|is|are] hot and thirsty. The water [is|am|are] cold and refreshing. The trees [are|is|am] tall and green. It [is|am|are] a beautiful day. The wind [is|am|are] very strong. We [are|is|am] ready for a swim.",
+        "explanation-zh-TW": "# 天氣\n\n形容天氣或自然景觀時，主詞後面一定要接 Be動詞。\n\n1. **[is]**：The sun (It) is bright. (太陽很明亮)\n2. **[is]**：The sky (It) is blue. (天空是藍的)\n3. **[are]**：The clouds (They) are white. (雲是白色的)\n4. **[am]**：I am hot. (我覺得熱)\n5. **[is]**：The water (It) is cold. (水很冷)\n6. **[are]**：The trees (They) are tall. (樹很高)\n7. **[is]**：It is a beautiful day. (今天是美好的一天)\n8. **[is]**：The wind (It) is strong. (風很強)\n9. **[are]**：We are ready. (我們準備好了)",
+        "explanation-en-US": "# The Weather\n\nUse **am**, **is**, or **are** to connect the subject to the adjective.\n\n1. **[is]**: The sun (It) is bright.\n2. **[is]**: The sky (It) is blue.\n3. **[are]**: The clouds (They) are white.\n4. **[am]**: I am hot.\n5. **[is]**: The water (It) is cold.\n6. **[are]**: The trees (They) are tall.\n7. **[is]**: It is a beautiful day.\n8. **[is]**: The wind (It) is strong.\n9. **[are]**: We are ready."
+    },
+    {
+        "title": "My House",
+        "id": "house",
+        "content": "My house [is|am|are] small but cozy. The walls [are|is|am] yellow. The kitchen [is|am|are] clean. My bedroom [is|am|are] messy sometimes. The windows [are|is|am] big. The garden [is|am|are] beautiful. Our neighbors [are|is|am] friendly. My dog [is|am|are] cute and furry. I [am|is|are] safe here. We [are|is|am] lucky to live here.",
+        "explanation-zh-TW": "# 我的家\n\n描述東西的狀態（大、小、乾淨、亂七八糟）時，記得加 Be動詞。\n\n1. **[is]**：My house (It) is small. (房子很小)\n2. **[are]**：The walls (They) are yellow. (牆壁是黃色的)\n3. **[is]**：The kitchen (It) is clean. (廚房很乾淨)\n4. **[is]**：My bedroom (It) is messy. (房間很亂)\n5. **[are]**：The windows (They) are big. (窗戶很大)\n6. **[is]**：The garden (It) is beautiful. (花園很美)\n7. **[are]**：Neighbors (They) are friendly. (鄰居很友善)\n8. **[is]**：My dog (It) is cute. (狗狗很可愛)\n9. **[am]**：I am safe. (我很安全)\n10. **[are]**：We are lucky. (我們很幸運)",
+        "explanation-en-US": "# My House\n\nConnect the subject to its description with a Be Verb.\n\n1. **[is]**: My house (It) is small.\n2. **[are]**: The walls (They) are yellow.\n3. **[is]**: The kitchen (It) is clean.\n4. **[is]**: My bedroom (It) is messy.\n5. **[are]**: The windows (They) are big.\n6. **[is]**: The garden (It) is beautiful.\n7. **[are]**: Neighbors (They) are friendly.\n8. **[is]**: My dog (It) is cute.\n9. **[am]**: I am safe.\n10. **[are]**: We are lucky."
+    },
+    {
+        "title": "The Classroom",
+        "id": "classroom",
+        "content": "This classroom [is|am|are] very noisy. The students [are|is|am] loud. The teacher [is|am|are] patient. The chalkboard [is|am|are] green. The desks [are|is|am] old. The books [are|is|am] heavy. I [am|is|are] tired of studying. My pencil [is|am|are] sharp. The test [is|am|are] difficult. We [are|is|am] smart students.",
+        "explanation-zh-TW": "# 教室裡\n\n中文常說「這教室很吵」，英文一定要說 \"This classroom **is** noisy\"。\n\n1. **[is]**：Classroom (It) is noisy.\n2. **[are]**：Students (They) are loud.\n3. **[is]**：Teacher (He/She) is patient.\n4. **[is]**：Chalkboard (It) is green.\n5. **[are]**：Desks (They) are old.\n6. **[are]**：Books (They) are heavy.\n7. **[am]**：I am tired.\n8. **[is]**：Pencil (It) is sharp.\n9. **[is]**：Test (It) is difficult.\n10. **[are]**：We are smart.",
+        "explanation-en-US": "# The Classroom\n\nEnglish sentences need a verb. Adjectives describe the subject, but the Be Verb connects them.\n\n1. **[is]**: Classroom (It) is noisy.\n2. **[are]**: Students (They) are loud.\n3. **[is]**: Teacher (He/She) is patient.\n4. **[is]**: Chalkboard (It) is green.\n5. **[are]**: Desks (They) are old.\n6. **[are]**: Books (They) are heavy.\n7. **[am]**: I am tired.\n8. **[is]**: Pencil (It) is sharp.\n9. **[is]**: Test (It) is difficult.\n10. **[are]**: We are smart."
+    },
+    {
+        "title": "Describing People",
+        "id": "people",
+        "content": "My father [is|am|are] tall. My mother [is|am|are] beautiful. You [are|is|am] very funny. I [am|is|are] serious. They [are|is|am] famous. The baby [is|am|are] sleepy. Her hair [is|am|are] long. His eyes [are|is|am] blue. We [are|is|am] strong. She [is|am|are] rich.",
+        "explanation-zh-TW": "# 描述人物\n\n描述人的特徵時，記得用 am, is, 或 are。\n\n1. **[is]**：Father (He) is tall.\n2. **[is]**：Mother (She) is beautiful.\n3. **[are]**：You are funny.\n4. **[am]**：I am serious.\n5. **[are]**：They are famous.\n6. **[is]**：Baby (He/She) is sleepy.\n7. **[is]**：Hair (It) is long. (頭髮視為單數不可數)\n8. **[are]**：Eyes (They) are blue. (眼睛通常是複數)\n9. **[are]**：We are strong.\n10. **[is]**：She is rich.",
+        "explanation-en-US": "# Describing People\n\nDon't forget the Be Verb when describing people's characteristics.\n\n1. **[is]**: Father (He) is tall.\n2. **[is]**: Mother (She) is beautiful.\n3. **[are]**: You are funny.\n4. **[am]**: I am serious.\n5. **[are]**: They are famous.\n6. **[is]**: Baby (He/She) is sleepy.\n7. **[is]**: Hair (It) is long.\n8. **[are]**: Eyes (They) are blue.\n9. **[are]**: We are strong.\n10. **[is]**: She is rich."
+    },
+    {
+        "title": "Delicious Food",
+        "id": "food",
+        "content": "The pizza [is|am|are] hot. The apples [are|is|am] sweet. This soup [is|am|are] salty. I [am|is|are] hungry. The cookies [are|is|am] tasty. The cake [is|am|are] delicious. We [are|is|am] full now.",
+        "explanation-zh-TW": "Pizza/Soup/Cake (It) -> is, Apples/Cookies (They) -> are, I -> am, We -> are.",
+        "explanation-en-US": "Singular Food -> is, Plural Food -> are."
+    },
+    {
+        "title": "At the Movies",
+        "id": "movies",
+        "content": "The movie [is|am|are] scary. The actors [are|is|am] talented. I [am|is|are] excited. The seats [are|is|am] comfortable. The popcorn [is|am|are] good. We [are|is|am] quiet.",
+        "explanation-zh-TW": "Movie/Popcorn -> is, Actors/Seats -> are, I -> am, We -> are.",
+        "explanation-en-US": "Singular/Uncountable -> is, Plural -> are."
+    },
+    {
+        "title": "Sports Time",
+        "id": "sports",
+        "content": "Basketball [is|am|are] fun. The players [are|is|am] fast. I [am|is|are] tired after running. The ball [is|am|are] orange. We [are|is|am] a good team. The game [is|am|are] exciting.",
+        "explanation-zh-TW": "Basketball/Ball/Game -> is, Players/We -> are, I -> am.",
+        "explanation-en-US": "Sport/Object -> is, People (Plural) -> are."
+    },
+    {
+        "title": "City Life",
+        "id": "city",
+        "content": "The city [is|am|are] busy. The buildings [are|is|am] tall. The streets [are|is|am] crowded. I [am|is|are] lost. The map [is|am|are] confusing. We [are|is|am] late.",
+        "explanation-zh-TW": "City/Map -> is, Buildings/Streets/We -> are, I -> am.",
+        "explanation-en-US": "Singular -> is, Plural -> are."
+    },
+    {
+        "title": "Nature Trip",
+        "id": "nature",
+        "content": "The mountains [are|is|am] high. The river [is|am|are] long. The flowers [are|is|am] pretty. I [am|is|are] relaxed. The air [is|am|are] fresh. Nature [is|am|are] wonderful.",
+        "explanation-zh-TW": "Mountains/Flowers -> are, River/Air/Nature -> is.",
+        "explanation-en-US": "Plural -> are, Singular/Uncountable -> is."
+    },
+    {
+        "title": "My Clothes",
+        "id": "clothes",
+        "content": "My shoes [are|is|am] dirty. This shirt [is|am|are] clean. My pants [are|is|am] blue. The hat [is|am|are] new. I [am|is|are] stylish. We [are|is|am] ready to go.",
+        "explanation-zh-TW": "Shoes/Pants (Plural) -> are, Shirt/Hat (Singular) -> is.",
+        "explanation-en-US": "Plural items -> are, Singular items -> is."
+    },
+    {
+        "title": "Fast Cars",
+        "id": "cars",
+        "content": "That car [is|am|are] fast. The wheels [are|is|am] big. The driver [is|am|are] skillful. I [am|is|are] a passenger. The road [is|am|are] empty. Cars [are|is|am] noisy.",
+        "explanation-zh-TW": "Car/Driver/Road -> is, Wheels/Cars -> are.",
+        "explanation-en-US": "Singular -> is, Plural -> are."
+    },
+    {
+        "title": "In the Library",
+        "id": "library",
+        "content": "The library [is|am|are] quiet. The books [are|is|am] interesting. The librarian [is|am|are] strict. I [am|is|are] studious. The tables [are|is|am] round. We [are|is|am] focused.",
+        "explanation-zh-TW": "Library/Librarian -> is, Books/Tables/We -> are.",
+        "explanation-en-US": "Singular -> is, Plural -> are."
+    },
+    {
+        "title": "My Pet",
+        "id": "pet",
+        "content": "My cat [is|am|are] lazy. Her eyes [are|is|am] green. She [is|am|are] soft. I [am|is|are] her owner. We [are|is|am] friends. The toy [is|am|are] squeaky.",
+        "explanation-zh-TW": "Cat/She/Toy -> is, Eyes/We -> are.",
+        "explanation-en-US": "Singular -> is, Plural -> are."
+    },
+    {
+        "title": "At the Beach",
+        "id": "beach",
+        "content": "The ocean [is|am|are] blue. The waves [are|is|am] big. The sand [is|am|are] hot. I [am|is|are] thirsty. The sun [is|am|are] bright. We [are|is|am] happy.",
+        "explanation-zh-TW": "Ocean/Sand/Sun -> is, Waves/We -> are.",
+        "explanation-en-US": "Singular/Uncountable -> is, Plural -> are."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "title": "The Man Who...",
+        "id": "the-man-who",
+        "content": "I met a man [who|which|whose|where] works at Google. This is the book [that|who|whose|where] I read yesterday. That is the girl [whose|who|which|that] brother is famous. The cafe [where|which|who|whose] we met is closing. The phone, [which|who|that|whose] I bought yesterday, is broken. The person [who|which|whose|where] called you is waiting.",
+        "explanation-zh-TW": "# 🔗 那個...的人 (Relative Clauses)\n\n關係代名詞用來形容先行詞：\n\n1. **[who]**: 形容**人** (man)。\n2. **[that]**: 形容**事物** (book) (which 也可以，但在限定用法 that 常用)。\n3. **[whose]**: 形容**所有格** (girl's brother)。\n4. **[where]**: 形容**地點** (cafe)。\n5. **[which]**: 形容**事物** (phone)，逗號後非限定用法不可用 that。\n6. **[who]**: 形容**人** (person)。",
+        "explanation-en-US": "# 🔗 The Man Who... (Relative Clauses)\n\nRelative pronouns link details to the noun.\n\n1. **[who]**: For people.\n2. **[that]**: For things (identifying).\n3. **[whose]**: For possession (her brother).\n4. **[where]**: For places.\n5. **[which]**: For things (extra info with comma).\n6. **[who]**: For people."
+    },
+    {
+        "id": "rc2",
+        "title": "The Person Who",
+        "content": "The man [who|which] called is here. The girl [who|which] runs fast won.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who."
+    },
+    {
+        "id": "rc3",
+        "title": "The Thing Which",
+        "content": "The car [which|who] crashed is red. The book [which|who] I read is good.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which."
+    },
+    {
+        "id": "rc4",
+        "title": "That (Universal)",
+        "content": "The dog [that|who] bites is scary. The pen [that|who] works is mine. (That can replace Which/Who in defining clauses).",
+        "explanation-zh-TW": "That can replace Who/Which.",
+        "explanation-en-US": "That usage."
+    },
+    {
+        "id": "rc5",
+        "title": "Whose (Possession)",
+        "content": "The boy [whose|who] bike was stolen is sad. The woman [whose|who] car is blue is my mom.",
+        "explanation-zh-TW": "Whose (誰的).",
+        "explanation-en-US": "Possession."
+    },
+    {
+        "id": "rc6",
+        "title": "Where (Place)",
+        "content": "The park [where|which] we played is big. The house [where|that] I live is old.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where."
+    },
+    {
+        "id": "rc7",
+        "title": "When (Time)",
+        "content": "The day [when|where] we met was rainy. The year [when|which] I was born was 1990.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When."
+    },
+    {
+        "id": "rc8",
+        "title": "Defining vs Non",
+        "content": "My dad, [who|that] is 50, is a doctor. (Commas = Who, no That). The city, [which|that] is big, is noisy.",
+        "explanation-zh-TW": "Commas cant use That.",
+        "explanation-en-US": "Non-defining uses Who/Which."
+    },
+    {
+        "id": "rc9",
+        "title": "Omission",
+        "content": "The man [-|who] I saw was tall. The movie [-|which] we watched was fun. (Object pronoun can be omitted).",
+        "explanation-zh-TW": "Object -> Can omit.",
+        "explanation-en-US": "Omission."
+    },
+    {
+        "id": "rc10",
+        "title": "The One Who",
+        "content": "He is the one [who|which] did it. She is the one [that|what] helped me.",
+        "explanation-zh-TW": "The one who/that.",
+        "explanation-en-US": "The one who."
+    },
+    {
+        "id": "rc11",
+        "title": "Subject (Cant omit)",
+        "content": "The man [who| -] lives next door. The bus [which| -] goes to city.",
+        "explanation-zh-TW": "Subject pronoun cannot be omitted.",
+        "explanation-en-US": "Subject no omission."
+    },
+    {
+        "id": "rc12",
+        "title": "Prepositions",
+        "content": "The chair [on which|which on] I sat. The person [to whom|who to] I spoke.",
+        "explanation-zh-TW": "Formal: Prep + Wh-.",
+        "explanation-en-US": "Formal prep."
+    },
+    {
+        "id": "rc13",
+        "title": "Reason Why",
+        "content": "The reason [why|which] I came. The reason [that|which] I left.",
+        "explanation-zh-TW": "Reason -> Why.",
+        "explanation-en-US": "Reason -> Why."
+    },
+    {
+        "id": "rc14",
+        "title": "What (The thing which)",
+        "content": "I know [what|that] you did. This is [what|which] I want.",
+        "explanation-zh-TW": "What = The thing which.",
+        "explanation-en-US": "What = The thing that."
+    },
+    {
+        "id": "rc15",
+        "title": "All That",
+        "content": "All [that|what] glitters is not gold. Everything [that|what] he said is true.",
+        "explanation-zh-TW": "All/Everything -> That.",
+        "explanation-en-US": "All -> That."
+    }
+]

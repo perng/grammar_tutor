@@ -1,0 +1,107 @@
+[
+    {
+        "title": "The Mistaqke",
+        "id": "mistake",
+        "content": "A mistake [was made|made|makes|making] by someone. The report [was written|wrote|writes|writing] by the manager. The house [was built|built|builds|building] in 1990. English [is spoken|speaks|spoke|speaking] all over the world. The thief [was caught|caught|catches|catching] by the police. The Mona Lisa [was painted|painted|paints|painting] by Da Vinci.",
+        "explanation-zh-TW": "# 🏛️ 過錯 (Passive Voice)\n\n被動語態：**Be + V-pp (過去分詞)**。當我們關注「動作的接受者」而非執行者時使用。\n\n1. **[was made]**: 錯誤「被」造成。\n2. **[was written]**: 報告「被」寫。\n3. **[was built]**: 房子「被」建造。\n4. **[is spoken]**: 英語「被」說 (現在事實)。\n5. **[was caught]**: 小偷「被」抓。\n6. **[was painted]**: 畫「被」畫。",
+        "explanation-en-US": "# 🏛️ The Mistake (Passive Voice)\n\nUse **Be + Past Participle** when the focus is on the object, not the doer.\n\n1. **[was made]**: A mistake was made.\n2. **[was written]**: Report was written.\n3. **[was built]**: House was built.\n4. **[is spoken]**: English is spoken.\n5. **[was caught]**: Thief was caught.\n6. **[was painted]**: It was painted."
+    },
+    {
+        "id": "pv2",
+        "title": "Made In",
+        "content": "This car [is made|makes] in Japan. Phones [are made|make] in China.",
+        "explanation-zh-TW": "Passive: Be + V3.",
+        "explanation-en-US": "Be + Past Participle."
+    },
+    {
+        "id": "pv3",
+        "title": "Was Born",
+        "content": "I [was born|born] in 1990. She [was born|born] in May.",
+        "explanation-zh-TW": "Born always passive.",
+        "explanation-en-US": "Born is passive."
+    },
+    {
+        "id": "pv4",
+        "title": "Was Built",
+        "content": "The house [was built|built] in 1900. The bridge [was built|built] last year.",
+        "explanation-zh-TW": "Past Passive.",
+        "explanation-en-US": "Past Passive."
+    },
+    {
+        "id": "pv5",
+        "title": "Is Spoken",
+        "content": "English [is spoken|speaks] here. Spanish [is spoken|speaks] in Mexico.",
+        "explanation-zh-TW": "Language is spoken.",
+        "explanation-en-US": "Language is spoken."
+    },
+    {
+        "id": "pv6",
+        "title": "Will Be",
+        "content": "Note: Work [will be finished|will finish] tomorrow. It [will be done|will do] soon.",
+        "explanation-zh-TW": "Future Passive.",
+        "explanation-en-US": "Future Passive."
+    },
+    {
+        "id": "pv7",
+        "title": "Has Been",
+        "content": "The room [has been cleaned|has cleaned]. The car [has been fixed|has fixed].",
+        "explanation-zh-TW": "Present Perfect Passive.",
+        "explanation-en-US": "Present Perfect Passive."
+    },
+    {
+        "id": "pv8",
+        "title": "Is Being",
+        "content": "The road [is being repaired|is repairing]. The house [is being painted|is painting].",
+        "explanation-zh-TW": "Continuous Passive.",
+        "explanation-en-US": "Continuous Passive."
+    },
+    {
+        "id": "pv9",
+        "title": "Was Written",
+        "content": "Harry Potter [was written|wrote] by J.K. Rowling. Hamlet [was written|wrote] by Shakespeare.",
+        "explanation-zh-TW": "Books written by...",
+        "explanation-en-US": "Written by."
+    },
+    {
+        "id": "pv10",
+        "title": "Are Sold",
+        "content": "Tickets [are sold|sell] online. Cookies [are sold|sell] here.",
+        "explanation-zh-TW": "Present Passive.",
+        "explanation-en-US": "Present Passive."
+    },
+    {
+        "id": "pv11",
+        "title": "Were Discoverd",
+        "content": "Valuables [were found|found] in the cave. Mistakes [were made|made].",
+        "explanation-zh-TW": "Past Passive Plural.",
+        "explanation-en-US": "Past Passive Plural."
+    },
+    {
+        "id": "pv12",
+        "title": "Surprise",
+        "content": "I [was surprised|surprised] by the news. She [was shocked|shocked].",
+        "explanation-zh-TW": "Adjective-like passive.",
+        "explanation-en-US": "Emotion passive."
+    },
+    {
+        "id": "pv13",
+        "title": "Allowed",
+        "content": "Dogs [are not allowed|do not allow] here. Smoking [is prohibited|prohibits].",
+        "explanation-zh-TW": "Rules passive.",
+        "explanation-en-US": "Rules."
+    },
+    {
+        "id": "pv14",
+        "title": "Invited",
+        "content": "I [was invited|invited] to the party. He [was not invited|did not invite].",
+        "explanation-zh-TW": "Invited passive.",
+        "explanation-en-US": "Invited."
+    },
+    {
+        "id": "pv15",
+        "title": "Stolen",
+        "content": "My wallet [was stolen|stole]. Her bag [has been stolen|has stolen].",
+        "explanation-zh-TW": "Theft passive.",
+        "explanation-en-US": "Theft."
+    }
+]

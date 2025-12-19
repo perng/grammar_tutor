@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Project Deadline",
+        "id": "project-deadline",
+        "content": "You [must|can|might|could] finish this report by Friday; it is mandatory. I [might|must|should|can] be late to the meeting, I am not sure yet. [Could|Should|Must|Might] you please pass the salt? It [must|might|can|should] be raining outside; look at the wet umbrellas. You [should|might|may|can] see a doctor if you feel sick. That [can't|mustn't|shouldn't|may not] be true; I saw him yesterday!",
+        "explanation-zh-TW": "# 🗓️ 專案截止日 (Modals)\n\n助動詞 (Modals) 表達語氣、可能性和禮貌。\n\n1. **[must]**: 強制性 (Mandatory)。\n2. **[might]**: 不確定性 (Not sure yet)。\n3. **[Could]**: 禮貌請求 (Polite request)。\n4. **[must]**: 高度肯定推測 (90-100%)，看見濕雨傘所以「一定」是下雨。\n5. **[should]**: 建議 (Advice)。\n6. **[can't]**: 不可能 (Impossibility)。",
+        "explanation-en-US": "# 🗓️ Project Deadline (Modals)\n\nModals express obligation, possibility, and politeness.\n\n1. **[must]**: Obligation.\n2. **[might]**: Possibility (<50%).\n3. **[Could]**: Polite request.\n4. **[must]**: Logic deduction (High certainty).\n5. **[should]**: Advice.\n6. **[can't]**: Logical impossibility."
+    },
+    {
+        "id": "m2",
+        "title": "Ability",
+        "content": "I [can|must] swim. She [can|should] speak French. Birds [can|should] fly. Fish [cannot|must not] walk.",
+        "explanation-zh-TW": "Can = Ability.",
+        "explanation-en-US": "Can = Ability."
+    },
+    {
+        "id": "m3",
+        "title": "Permission",
+        "content": "[May|Must] I come in? You [can|must] go now. [Could|Should] I borrow a pen? You [may|must] sit here.",
+        "explanation-zh-TW": "May/Can/Could for permission.",
+        "explanation-en-US": "Permission."
+    },
+    {
+        "id": "m4",
+        "title": "Advice",
+        "content": "You [should|can] study hard. He [should|may] see a doctor. We [should not|cannot] eat too much. They [ought to|can] help.",
+        "explanation-zh-TW": "Should/Ought to = Advice.",
+        "explanation-en-US": "Advice."
+    },
+    {
+        "id": "m5",
+        "title": "Obligation",
+        "content": "I [must|can] finish this. You [must|might] stop here. We [have to|can] go. She [has to|may] work.",
+        "explanation-zh-TW": "Must/Have to = Obligation.",
+        "explanation-en-US": "Obligation."
+    },
+    {
+        "id": "m6",
+        "title": "Prohibition",
+        "content": "You [must not|don't have to] smoke here. You [cannot|don't have to] swim here. We [must not|need not] be late. She [must not|don't have to] tell.",
+        "explanation-zh-TW": "Must not = Forbidden.",
+        "explanation-en-US": "Prohibition."
+    },
+    {
+        "id": "m7",
+        "title": "Possibility",
+        "content": "It [might|must] rain later. He [may|must] come. She [could|should] be right. They [might|will] be late.",
+        "explanation-zh-TW": "Might/May/Could = Possibility.",
+        "explanation-en-US": "Possibility."
+    },
+    {
+        "id": "m8",
+        "title": "Past Ability",
+        "content": "I [could|can] run fast when I was young. She [could|can] read at age 5. We [could not|cannot] see it yesterday.",
+        "explanation-zh-TW": "Could = Past Ability.",
+        "explanation-en-US": "Past Ability."
+    },
+    {
+        "id": "m9",
+        "title": "Deduction",
+        "content": "He works hard, he [must|can] be tired. The lights are off, they [must|should] be out. It is glowing, it [cannot|must] be fake.",
+        "explanation-zh-TW": "Must = Sure true. Cannot = Sure false.",
+        "explanation-en-US": "Logical deduction."
+    },
+    {
+        "id": "m10",
+        "title": "No Obligation",
+        "content": "You [don't have to|must not] go if you don't want to. She [doesn't need to|must not] pay. We [don't have to|must not] hurry.",
+        "explanation-zh-TW": "Don't have to = Not necessary.",
+        "explanation-en-US": "No obligation."
+    },
+    {
+        "id": "m11",
+        "title": "Offers",
+        "content": "[Shall|Will] I help you? [Can|Must] I get you a drink? [Would|Will] you like coffee? [Shall|Will] we dance?",
+        "explanation-zh-TW": "Shall/Can/Would for offers.",
+        "explanation-en-US": "Offers."
+    },
+    {
+        "id": "m12",
+        "title": "Polite Requests",
+        "content": "[Could|Must] you help me? [Would|Should] you mind opening the door? [Can|Must] you pass the salt?",
+        "explanation-zh-TW": "Could/Would/Can for requests.",
+        "explanation-en-US": "Requests."
+    },
+    {
+        "id": "m13",
+        "title": "Past Regret",
+        "content": "I [should have|could have] studied harder (but I didn't). You [should have|must have] told me. We [should not have|cannot have] gone.",
+        "explanation-zh-TW": "Should have + V3 = Regret.",
+        "explanation-en-US": "Regret."
+    },
+    {
+        "id": "m14",
+        "title": "Habitual Past",
+        "content": "We [would|could] play in the park every Sunday. I [used to|use to] live there. He [would|should] always smile.",
+        "explanation-zh-TW": "Would/Used to for past habits.",
+        "explanation-en-US": "Habits."
+    },
+    {
+        "id": "m15",
+        "title": "Suggestion",
+        "content": "We [could|should] go to the cinema. You [might|must] want to try this. Shall we [go|to go]?",
+        "explanation-zh-TW": "Could/Might for suggestions.",
+        "explanation-en-US": "Suggestions."
+    }
+]

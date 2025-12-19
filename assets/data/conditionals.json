@@ -1,0 +1,107 @@
+[
+    {
+        "title": "If I Were Rich",
+        "id": "if-i-were-rich",
+        "content": "If it rains tomorrow, I [will stay|stay|stayed|would stay] home. If I [won|win|wins|have won] the lottery, I would buy a boat. If I had studied harder, I [would have passed|would pass|pass|passed] the exam. If water reaches 100 degrees, it [boils|boiled|will boil|would boil]. If I [were|am|was|be] you, I would apologize. If she comes, call me. Use [Zero|First|Second|Third] Conditional for facts. Use [Second|First|Zero|Third] Conditional for hypothetical situations.",
+        "explanation-zh-TW": "# 💭 如果我是有錢人 (Conditionals)\n\n條件句 (Conditionals) 有不同的類型：\n\n1. **First Conditional (真實未來)**: If + Present, will + Verb.\n   - If it rains, I **[will stay]** home.\n2. **Second Conditional (與現在事實相反)**: If + Past, would + Verb.\n   - If I **[won]** (假設中) the lottery, I would buy...\n   - If I **[were]** you (假設我是你)...\n3. **Third Conditional (與過去事實相反)**: If + Past Perfect, would have + PP.\n   - If I had studied, I **[would have passed]**.\n4. **Zero Conditional (真理)**: If + Present, Present.\n   - Water **[boils]** if it reaches 100 degrees.",
+        "explanation-en-US": "# 💭 If I Were Rich (Conditionals)\n\n1. **First Conditional (Real Future)**: If it rains, I **[will stay]** home.\n2. **Second Conditional (Hypothetical)**: If I **[won]** (imaginary past form), I would buy...\n   - If I **[were]** you...\n3. **Third Conditional (Regret)**: If I had studied, I **[would have passed]**.\n4. **Zero Conditional (Facts)**: Water **[boils]** at 100 degrees."
+    },
+    {
+        "id": "cond2",
+        "title": "Zero: Ice",
+        "content": "If you heat ice, it [melts|melted]. If it rains, the ground [gets|got] wet.",
+        "explanation-zh-TW": "Zero Conditional: Facts.",
+        "explanation-en-US": "Zero: Fact."
+    },
+    {
+        "id": "cond3",
+        "title": "Zero: Mix",
+        "content": "If you mix red and blue, you [get|got] purple. If babies are hungry, they [cry|cried].",
+        "explanation-zh-TW": "Facts.",
+        "explanation-en-US": "Facts."
+    },
+    {
+        "id": "cond4",
+        "title": "First: Rain",
+        "content": "If it rains, helps I [will stay|stay] home. If she comes, we [will go|go].",
+        "explanation-zh-TW": "First: Future Possibility.",
+        "explanation-en-US": "First: Future."
+    },
+    {
+        "id": "cond5",
+        "title": "First: Study",
+        "content": "If you study, you [will pass|pass]. If you hurry, you [will catch|catch] the bus.",
+        "explanation-zh-TW": "Future Result.",
+        "explanation-en-US": "Future Result."
+    },
+    {
+        "id": "cond6",
+        "title": "Second: Rich (Unreal)",
+        "content": "If I were rich, I [would buy|will buy] a boat. If I had time, I [would travel|will travel].",
+        "explanation-zh-TW": "Second: Unreal Present.",
+        "explanation-en-US": "Second: Unreal."
+    },
+    {
+        "id": "cond7",
+        "title": "Second: King",
+        "content": "If I [were|was] you, I would go. If he [were|is] here, he would help.",
+        "explanation-zh-TW": "Second: If I were (Subjunctive).",
+        "explanation-en-US": "If I were."
+    },
+    {
+        "id": "cond8",
+        "title": "Third: Past Unreal",
+        "content": "If I had known, I [would have come|will come]. If she had seen him, she [would have said|said] hello.",
+        "explanation-zh-TW": "Third: Past Regret (Would have V3).",
+        "explanation-en-US": "Third: Past Unreal."
+    },
+    {
+        "id": "cond9",
+        "title": "Third: Failed",
+        "content": "If we had played better, we [would have won|won]. If it hadn't rained, we [would have gone|went].",
+        "explanation-zh-TW": "Past Unreal.",
+        "explanation-en-US": "Past Unreal."
+    },
+    {
+        "id": "cond10",
+        "title": "Unless",
+        "content": "I won't go [unless|if] you go. You will fail [unless|if] you study.",
+        "explanation-zh-TW": "Unless = If not.",
+        "explanation-en-US": "Unless."
+    },
+    {
+        "id": "cond11",
+        "title": "Wish Present",
+        "content": "I wish I [knew|know] the answer. I wish it [were|is] sunny.",
+        "explanation-zh-TW": "Wish + Past (Present desire).",
+        "explanation-en-US": "Wish + Past."
+    },
+    {
+        "id": "cond12",
+        "title": "Wish Past",
+        "content": "I wish I [had gone|went] there. I wish I [had not eaten|did not eat] so much.",
+        "explanation-zh-TW": "Wish + Past Perfect (Past regret).",
+        "explanation-en-US": "Wish + Past Perfect."
+    },
+    {
+        "id": "cond13",
+        "title": "As Long As",
+        "content": "You can go [as long as|unless] you are quiet. I will help [provided that|unless] you ask properly.",
+        "explanation-zh-TW": "As long as (只要).",
+        "explanation-en-US": "Condition."
+    },
+    {
+        "id": "cond14",
+        "title": "In Case",
+        "content": "Take an umbrella [in case|if] it rains. Call me [in case|if] you need help.",
+        "explanation-zh-TW": "In case (以防萬一).",
+        "explanation-en-US": "Precaution."
+    },
+    {
+        "id": "cond15",
+        "title": "Mixed",
+        "content": "If I had slept (past), I [would be|would have been] awake now (present).",
+        "explanation-zh-TW": "Mixed: Past cause, Present result.",
+        "explanation-en-US": "Mixed Time."
+    }
+]

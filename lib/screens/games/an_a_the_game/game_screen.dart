@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -22,8 +23,13 @@ class AnATheWord {
 
 class AnATheGameScreen extends StatefulWidget {
   final int levelIndex;
+  final String routePrefix;
 
-  const AnATheGameScreen({super.key, required this.levelIndex});
+  const AnATheGameScreen({
+    super.key,
+    required this.levelIndex,
+    this.routePrefix = '/an-a-the',
+  });
 
   @override
   State<AnATheGameScreen> createState() => _AnATheGameScreenState();
@@ -58,6 +64,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
   int _scorePercentage = 0;
 
   StoryLevel? _story;
+  int _totalLevels = 0;
   late ConfettiController _confettiController;
 
   // Explanation
@@ -74,7 +81,20 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
     'rita',
     'willy',
     'olivia',
-    // Add more if needed from fruits.json analysis
+    // Added names from fruits.json
+    'benny',
+    'gavin',
+    'sally',
+    'perry',
+    'max',
+    'kevin',
+    'lulu',
+    'charlie',
+    'penny',
+    'percy',
+    'billy',
+    'pip',
+    'dash',
   };
 
   @override
@@ -98,6 +118,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
         'assets/data/fruits.json',
       );
       final List<dynamic> data = json.decode(response);
+      _totalLevels = data.length;
 
       if (widget.levelIndex >= 0 && widget.levelIndex < data.length) {
         _story = StoryLevel.fromJson(data[widget.levelIndex]);
@@ -239,7 +260,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
       percentage.toString(),
     );
 
-    if (percentage >= 90) {
+    if (percentage == 100) {
       _confettiController.play();
     }
   }
@@ -279,7 +300,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                     crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: [
                       Wrap(
-                        spacing: 4,
+                        spacing: 0,
                         runSpacing: 8,
                         children: _words.map((word) {
                           String? selectedArt = _playerSelections[word.index];
@@ -425,102 +446,130 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                           );
                         }).toList(),
                       ),
-                      // ... Results and Buttons UI (Reuse)
-                      if (_showResults) ...[
+                      // Explanation area if results shown
+                      if (_showResults &&
+                          _currentExplanationLanguage != null) ...[
                         const SizedBox(height: 32),
-                        Container(
-                          padding: const EdgeInsets.all(16),
-                          decoration: BoxDecoration(
-                            color: Colors.grey.shade100,
-                            borderRadius: BorderRadius.circular(12),
-                          ),
-                          child: Column(
-                            children: [
-                              Text(
-                                "Score: $_scorePercentage%",
-                                style: const TextStyle(
-                                  fontSize: 24,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                              const SizedBox(height: 16),
-                              Wrap(
-                                spacing: 12,
-                                runSpacing: 12,
-                                alignment: WrapAlignment.center,
-                                children: [
-                                  ElevatedButton(
-                                    onPressed: _reset,
-                                    child: const Text('Try Again'),
-                                  ),
-                                  ElevatedButton(
-                                    onPressed: () {
-                                      setState(() {
-                                        _currentExplanationLanguage =
-                                            (_currentExplanationLanguage ==
-                                                'en-US')
-                                            ? null
-                                            : 'en-US';
-                                      });
-                                    },
-                                    child: const Text('English Explanation'),
-                                  ),
-                                  ElevatedButton(
-                                    onPressed: () {
-                                      setState(() {
-                                        _currentExplanationLanguage =
-                                            (_currentExplanationLanguage ==
-                                                'zh-TW')
-                                            ? null
-                                            : 'zh-TW';
-                                      });
-                                    },
-                                    child: const Text('中文解說'),
-                                  ),
-                                ],
-                              ),
-                            ],
-                          ),
+                        MarkdownBody(
+                          data: _currentExplanationLanguage == 'en-US'
+                              ? _story!.explanationEnUs
+                              : _story!.explanationZhTw,
+                          selectable: true,
                         ),
-                        if (_currentExplanationLanguage != null) ...[
-                          const SizedBox(height: 24),
-                          MarkdownBody(
-                            data: _currentExplanationLanguage == 'en-US'
-                                ? _story!.explanationEnUs
-                                : _story!.explanationZhTw,
-                            selectable: true,
-                          ),
-                        ],
+                        // Bottom padding for sticky bar
+                        const SizedBox(height: 80),
                       ],
                     ],
                   ),
                 ),
               ),
-              if (!_showResults)
-                Container(
-                  padding: const EdgeInsets.all(16),
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    boxShadow: [
-                      BoxShadow(blurRadius: 10, color: Colors.black12),
+              // Sticky Action Bar
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  boxShadow: [BoxShadow(blurRadius: 10, color: Colors.black12)],
+                ),
+                child: SafeArea(
+                  top: false,
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      if (_showResults) ...[
+                        Text(
+                          "Score: $_scorePercentage%",
+                          style: const TextStyle(
+                            fontSize: 20,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: OutlinedButton(
+                                onPressed: _reset,
+                                style: OutlinedButton.styleFrom(
+                                  padding: const EdgeInsets.symmetric(
+                                    vertical: 12,
+                                  ),
+                                ),
+                                child: const Text('Try Again'),
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            if (widget.levelIndex < _totalLevels - 1)
+                              Expanded(
+                                child: ElevatedButton(
+                                  onPressed: () {
+                                    context.pushReplacement(
+                                      '${widget.routePrefix}/${widget.levelIndex + 1}',
+                                    );
+                                  },
+                                  style: ElevatedButton.styleFrom(
+                                    backgroundColor: Colors.indigo,
+                                    foregroundColor: Colors.white,
+                                    padding: const EdgeInsets.symmetric(
+                                      vertical: 12,
+                                    ),
+                                  ),
+                                  child: const Text('Next Level'),
+                                ),
+                              ),
+                          ],
+                        ),
+                        const SizedBox(height: 8),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: TextButton(
+                                onPressed: () {
+                                  setState(() {
+                                    _currentExplanationLanguage =
+                                        (_currentExplanationLanguage == 'en-US')
+                                        ? null
+                                        : 'en-US';
+                                  });
+                                },
+                                child: const Text('English Explanation'),
+                              ),
+                            ),
+                            Expanded(
+                              child: TextButton(
+                                onPressed: () {
+                                  setState(() {
+                                    _currentExplanationLanguage =
+                                        (_currentExplanationLanguage == 'zh-TW')
+                                        ? null
+                                        : 'zh-TW';
+                                  });
+                                },
+                                child: const Text('中文解說'),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ] else ...[
+                        SizedBox(
+                          width: double.infinity,
+                          child: ElevatedButton(
+                            onPressed: _checkAnswers,
+                            style: ElevatedButton.styleFrom(
+                              padding: const EdgeInsets.symmetric(vertical: 16),
+                              backgroundColor: Colors.indigo,
+                              foregroundColor: Colors.white,
+                            ),
+                            child: const Text(
+                              'Check Answers',
+                              style: TextStyle(fontSize: 18),
+                            ),
+                          ),
+                        ),
+                      ],
                     ],
                   ),
-                  child: SizedBox(
-                    width: double.infinity,
-                    child: ElevatedButton(
-                      onPressed: _checkAnswers,
-                      style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(vertical: 16),
-                        backgroundColor: Colors.indigo,
-                        foregroundColor: Colors.white,
-                      ),
-                      child: const Text(
-                        'Check Answers',
-                        style: TextStyle(fontSize: 18),
-                      ),
-                    ),
-                  ),
                 ),
+              ),
             ],
           ),
           Align(

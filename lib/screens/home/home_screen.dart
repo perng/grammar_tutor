@@ -14,10 +14,26 @@ const Map<String, List<MenuItem>> menuItems = {
     MenuItem('片語學習', '/phraseboss'),
     MenuItem('單字測驗', '/vocab-hero'),
   ],
-  '文法': [
+  '基礎文法': [
     MenuItem('單複數', '/singular-plural'),
     MenuItem('定冠詞', '/article-game'),
     MenuItem('所有冠詞', '/an-a-the'),
+    MenuItem('代名詞陰陽性', '/pronoun-game'),
+    MenuItem('Be動詞', '/be-verb-game'),
+    MenuItem('介系詞', '/preposition-game'),
+  ],
+  '動詞與時態': [
+    MenuItem('動詞時態', '/verb-game'),
+    MenuItem('現在完成式', '/present-perfect'),
+    MenuItem('語氣助動詞', '/modals'),
+    MenuItem('不定詞與動名詞', '/gerunds-infinitives'),
+    MenuItem('片語動詞', '/phrasal-verbs'),
+    MenuItem('被動語態', '/passive-voice'),
+  ],
+  '句型與結構': [
+    MenuItem('疑問句', '/question-game'),
+    MenuItem('條件句', '/conditionals'),
+    MenuItem('關係子句', '/relative-clauses'),
   ],
 };
 

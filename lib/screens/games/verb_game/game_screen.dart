@@ -2,18 +2,17 @@ import 'dart:convert';
 import 'dart:math';
 import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
 
 class Word {
   final String text;
   final int index;
-  final bool isNoun;
-  final String singularForm;
-  final String pluralForm;
+  final bool isTarget;
+  final List<String> options;
   final String correctForm;
   final bool isSpace;
   final bool isPunctuation;
@@ -21,39 +20,36 @@ class Word {
   Word({
     required this.text,
     required this.index,
-    required this.isNoun,
-    required this.singularForm,
-    required this.pluralForm,
+    required this.isTarget,
+    required this.options,
     required this.correctForm,
     this.isSpace = false,
     this.isPunctuation = false,
   });
 }
 
-class SingularPluralGameScreen extends StatefulWidget {
+class VerbGameScreen extends StatefulWidget {
   final int levelIndex;
-  final String routePrefix;
+  final String routePrefix; // For navigation
 
-  const SingularPluralGameScreen({
+  const VerbGameScreen({
     super.key,
     required this.levelIndex,
-    this.routePrefix = '/singular-plural',
+    this.routePrefix =
+        '/verb-game', // Default for backward compat, but should be passed
   });
 
   @override
-  State<SingularPluralGameScreen> createState() =>
-      _SingularPluralGameScreenState();
+  State<VerbGameScreen> createState() => _VerbGameScreenState();
 }
 
-class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
+class _VerbGameScreenState extends State<VerbGameScreen> {
   List<Word> _words = [];
   Map<int, String> _playerSelections = {};
   final Map<int, String> _correctAnswers = {};
 
   bool _isLoading = true;
   bool _showResults = false;
-  int _correctCount = 0;
-  int _errorCount = 0;
   int _scorePercentage = 0;
 
   StoryLevel? _story;
@@ -81,7 +77,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
   Future<void> _loadLevel() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/singular.json',
+        'assets/data/verbs.json',
       );
       final List<dynamic> data = json.decode(response);
       _totalLevels = data.length;
@@ -106,10 +102,6 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
     List<Word> words = [];
     int currentIndex = 0;
 
-    // Regex logic from React: split by /(\[[^\]]+\]|\s+)/
-    // Dart split keeps delimiters if using lookahead/lookbehind or if we manually implemented.
-    // simpler: RegExp(r'(\[[^\]]+\]|\s+)') and use `allMatches` or similar.
-
     final RegExp exp = RegExp(r'(\[[^\]]+\]|\s+|[^\[\s]+)');
     final matches = exp.allMatches(text);
 
@@ -118,59 +110,29 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
       if (part.isEmpty) continue;
 
       if (part.startsWith('[') && part.endsWith(']')) {
-        // Noun block [singular|plural] or [singular-plural]
+        // Target block [option1|option2|option3...]
         String content = part.substring(1, part.length - 1); // remove [ ]
         List<String> forms = content.split(RegExp(r'[-|]'));
-        if (forms.length >= 2) {
-          String singular = forms[0];
-          String plural = forms[1];
+        if (forms.isNotEmpty) {
           String separator = content.contains('|') ? '|' : '-';
-          String correctForm = separator == '|'
-              ? singular
-              : content; // Logic from React: if |, correct is first? No wait.
+          // If separator is '|', first one is correct. If '-', all are correct (rare for verbs but supported)
+          String correctForm = separator == '|' ? forms[0] : "BOTH";
 
-          /*
-             React Logic:
-             const [singular, plural] = part.slice(1, -1).split(/[-|]/);
-             const separator = part.slice(1, -1).includes('|') ? '|' : '-';
-             const correctForm = separator === '|' ? singular : part.slice(1, -1);
-             
-             Wait, if sep is '|', correctForm IS singular?
-             Checking explanation: [forest|forests] -> correct is forest.
-             So yes, if |, the first one is correct.
-             If '-', both might be acceptable forms in the UI? 
-             React Check Logic:
-             if (isHyphenSeparator) {
-                // ... formatBothCorrect ...
-                score.correct++;
-             } else if (word.text === word.correctForm) {
-                // ...
-             }
-           */
-
-          // Initial Display
-          // Randomly choose whether to show the singular or plural form initially
-          // independent of which one is correct.
-          bool showPlural = Random().nextBool();
-          String initialText = showPlural ? plural : singular;
+          // Select an initial random form to display
+          int initialIndex = Random().nextInt(forms.length);
+          String initialText = forms[initialIndex];
 
           words.add(
             Word(
               text: initialText,
               index: currentIndex,
-              isNoun: true,
-              singularForm: singular,
-              pluralForm: plural,
+              isTarget: true,
+              options: forms,
               correctForm: correctForm,
             ),
           );
 
-          if (separator == '|') {
-            _correctAnswers[currentIndex] = singular;
-          } else {
-            _correctAnswers[currentIndex] = "BOTH"; // Special marker
-          }
-
+          _correctAnswers[currentIndex] = correctForm;
           currentIndex++;
         }
       } else if (RegExp(r'^\s+$').hasMatch(part)) {
@@ -178,16 +140,14 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
           Word(
             text: part,
             index: currentIndex++,
-            isNoun: false,
-            singularForm: '',
-            pluralForm: '',
+            isTarget: false,
+            options: [],
             correctForm: '',
             isSpace: true,
           ),
         );
       } else {
-        // Regular text. May contain punctuation at end.
-        // React matches /^(.*?)([.,!?]*)$/
+        // Regular text
         final matchPunc = RegExp(r'^(.*?)([.,!?]*)$').firstMatch(part);
         if (matchPunc != null) {
           String wordText = matchPunc.group(1) ?? '';
@@ -198,9 +158,8 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
               Word(
                 text: wordText,
                 index: currentIndex++,
-                isNoun: false,
-                singularForm: wordText,
-                pluralForm: wordText,
+                isTarget: false,
+                options: [],
                 correctForm: wordText,
               ),
             );
@@ -210,9 +169,8 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
               Word(
                 text: puncText,
                 index: currentIndex++,
-                isNoun: false,
-                singularForm: puncText,
-                pluralForm: puncText,
+                isTarget: false,
+                options: [],
                 correctForm: puncText,
                 isPunctuation: true,
               ),
@@ -231,22 +189,21 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
   void _handleWordClick(int index) {
     if (_showResults) return;
 
-    // Find word
     final word = _words.firstWhere((w) => w.index == index);
-    if (!word.isNoun) return;
+    if (!word.isTarget) return;
 
-    // Toggle
-    String current =
-        _playerSelections[index] ?? word.text; // initially displayed text
-    String next = (current == word.singularForm)
-        ? word.pluralForm
-        : word.singularForm;
+    String current = _playerSelections[index] ?? word.text;
+    int currentOptionIndex = word.options.indexOf(current);
+
+    // Cycle to next option
+    int nextOptionIndex = (currentOptionIndex + 1) % word.options.length;
+    String next = word.options[nextOptionIndex];
 
     setState(() {
       _playerSelections[index] = next;
     });
 
-    // "Pop" effect could be done with animation, but simple state change for now.
+    // Removed confetti play on selection change
     // _confettiController.play();
   }
 
@@ -255,7 +212,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
     int error = 0;
 
     for (var word in _words) {
-      if (word.isNoun) {
+      if (word.isTarget) {
         String selected = _playerSelections[word.index] ?? word.text;
         String correctAns = _correctAnswers[word.index] ?? '';
 
@@ -275,16 +232,13 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
     int percentage = total > 0 ? ((correct / total) * 100).round() : 0;
 
     setState(() {
-      _correctCount = correct;
-      _errorCount = error;
       _scorePercentage = percentage;
       _showResults = true;
     });
 
-    // Save progress
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(
-      'singular-plural-${widget.levelIndex}',
+      'verb-game-${widget.levelIndex}',
       percentage.toString(),
     );
 
@@ -298,7 +252,6 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
       _showResults = false;
       _playerSelections = {};
 
-      // Re-randomize?
       if (_story != null) {
         _processText(_story!.content);
       }
@@ -342,7 +295,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                           Color textColor = Colors.black;
                           TextDecoration? decoration;
 
-                          if (word.isNoun) {
+                          if (word.isTarget) {
                             textColor = Colors.blue.shade700;
                             decoration = TextDecoration.underline;
 
@@ -351,8 +304,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                                   _correctAnswers[word.index] ?? '';
                               if (correctAns == "BOTH") {
                                 textColor = Colors.blue;
-                                displayText =
-                                    "${word.singularForm}/${word.pluralForm}";
+                                // Just show what they selected if both are "correct" (legacy support)
                                 decoration = null;
                               } else {
                                 if (displayText == correctAns) {
@@ -366,12 +318,10 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                             }
                           }
 
-                          // Noun Widget
-                          if (word.isNoun) {
+                          if (word.isTarget) {
                             if (_showResults &&
                                 _correctAnswers[word.index] != "BOTH" &&
                                 displayText != _correctAnswers[word.index]) {
-                              // Wrong Answer Display
                               return Container(
                                 margin: const EdgeInsets.symmetric(
                                   horizontal: 2,
@@ -423,7 +373,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                                     fontSize: 18,
                                     color: textColor,
                                     decoration: decoration,
-                                    fontWeight: word.isNoun
+                                    fontWeight: word.isTarget
                                         ? FontWeight.w500
                                         : FontWeight.normal,
                                   ),
@@ -432,7 +382,6 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                             );
                           }
 
-                          // Normal Word
                           return Text(
                             word.text,
                             style: const TextStyle(fontSize: 18, height: 1.6),
@@ -457,7 +406,8 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                   ),
                 ),
               ),
-              // Sticky Action Bar
+
+              // Bottom Action Bar
               Container(
                 padding: const EdgeInsets.all(16),
                 decoration: BoxDecoration(
@@ -477,8 +427,6 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
-                        const SizedBox(height: 8),
-                        Text("Correct: $_correctCount, Wrong: $_errorCount"),
                         const SizedBox(height: 12),
                         Row(
                           children: [
@@ -494,7 +442,9 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
                               ),
                             ),
                             const SizedBox(width: 8),
-                            if (widget.levelIndex < _totalLevels - 1)
+                            // Next Level Button
+                            if (widget.levelIndex < _totalLevels - 1 &&
+                                widget.routePrefix.isNotEmpty)
                               Expanded(
                                 child: ElevatedButton(
                                   onPressed: () {

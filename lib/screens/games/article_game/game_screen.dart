@@ -72,6 +72,7 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
     'Timmy',
     'Hugo',
     'Charlie',
+    'I',
   };
 
   @override
@@ -274,20 +275,20 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
     // If 'the' is added, 'the' starts the sentence.
 
     // Simplification:
-    if ((isSelected || isMissed)) {
+    if (isSelected || isMissed) {
       // "The" is present. Word should lowercase unless Name.
       return word.text.toLowerCase();
     }
 
     // "The" is NOT present.
-    // If word starts sentence, keep case.
-    // If word.text already capitalized in JSON and not sentence start? (e.g. Names)
-    // The JSON usually has correct casing logic but we split it.
-    // "Cappy was..." -> "Cappy" (Name).
-    // "He enjoyed..." -> "He" (Start).
+    // If it was originally preceded by a sentence-starting "The", it is now the start.
+    if (word.isFirstNonArticleWord) {
+      if (word.text.isNotEmpty) {
+        return word.text[0].toUpperCase() + word.text.substring(1);
+      }
+    }
 
-    // Just use word.text as is?
-    // React does `shouldLowercaseWord ? ... : ...`.
+    // Otherwise return as is
     return word.text;
   }
 

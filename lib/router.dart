@@ -1,10 +1,6 @@
 import 'package:go_router/go_router.dart';
 import 'screens/home/home_screen.dart';
 
-import 'screens/games/word_flash/menu_screen.dart';
-import 'screens/games/word_flash/game_screen.dart';
-import 'screens/games/vocab_hero/menu_screen.dart';
-import 'screens/games/vocab_hero/game_screen.dart';
 import 'screens/games/shared/story_menu_screen.dart';
 import 'screens/games/singular_plural/game_screen.dart';
 import 'screens/games/article_game/game_screen.dart';
@@ -17,26 +13,13 @@ import 'screens/games/pronoun_game/game_screen.dart';
 import 'screens/games/shared/generic_game_screen.dart';
 
 final router = GoRouter(
-  initialLocation: '/wordflash',
+  initialLocation: '/singular-plural',
   routes: [
     ShellRoute(
       builder: (context, state, child) {
         return HomeScreen(child: child);
       },
       routes: [
-        GoRoute(
-          path: '/wordflash',
-          builder: (context, state) => const WordFlashMenuScreen(),
-        ),
-        GoRoute(
-          path: '/vocab-hero',
-          builder: (context, state) => const VocabHeroMenuScreen(),
-        ),
-        GoRoute(
-          path: '/phraseboss',
-          builder: (context, state) =>
-              const WordFlashMenuScreen(gameType: 'phraseboss'),
-        ),
         GoRoute(
           path: '/singular-plural',
           builder: (context, state) => const StoryMenuScreen(
@@ -172,30 +155,27 @@ final router = GoRouter(
             progressKeyPrefix: 'relative_clauses',
           ),
         ),
+        GoRoute(
+          path: '/transitive-intransitive',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Transitive or Intransitive',
+            assetPath: 'assets/data/transitive_intransitive.json',
+            routePrefix: '/transitive-intransitive',
+            progressKeyPrefix: 'transitive_intransitive',
+          ),
+        ),
+        GoRoute(
+          path: '/countable-uncountable',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Countable or Uncountable',
+            assetPath: 'assets/data/countable_uncountable.json',
+            routePrefix: '/countable-uncountable',
+            progressKeyPrefix: 'countable_uncountable',
+          ),
+        ),
       ],
     ),
     // Full screen game routes
-    GoRoute(
-      path: '/wordflash/:levelId',
-      builder: (context, state) {
-        final levelId = state.pathParameters['levelId']!;
-        return WordFlashGameScreen(levelId: levelId, gameType: 'wordflash');
-      },
-    ),
-    GoRoute(
-      path: '/phraseboss/:levelId',
-      builder: (context, state) {
-        final levelId = state.pathParameters['levelId']!;
-        return WordFlashGameScreen(levelId: levelId, gameType: 'phraseboss');
-      },
-    ),
-    GoRoute(
-      path: '/vocab-hero/:levelId',
-      builder: (context, state) {
-        final levelId = state.pathParameters['levelId']!;
-        return VocabHeroGameScreen(levelId: levelId);
-      },
-    ),
     GoRoute(
       path: '/singular-plural/:levelId',
       builder: (context, state) {
@@ -344,6 +324,30 @@ final router = GoRouter(
           levelIndex: levelIndex,
           assetPath: 'assets/data/relative_clauses.json',
           routePrefix: '/relative-clauses',
+        );
+      },
+    ),
+    GoRoute(
+      path: '/transitive-intransitive/:levelId',
+      builder: (context, state) {
+        final levelIdStr = state.pathParameters['levelId']!;
+        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+        return GenericGameScreen(
+          levelIndex: levelIndex,
+          assetPath: 'assets/data/transitive_intransitive.json',
+          routePrefix: '/transitive-intransitive',
+        );
+      },
+    ),
+    GoRoute(
+      path: '/countable-uncountable/:levelId',
+      builder: (context, state) {
+        final levelIdStr = state.pathParameters['levelId']!;
+        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+        return GenericGameScreen(
+          levelIndex: levelIndex,
+          assetPath: 'assets/data/countable_uncountable.json',
+          routePrefix: '/countable-uncountable',
         );
       },
     ),

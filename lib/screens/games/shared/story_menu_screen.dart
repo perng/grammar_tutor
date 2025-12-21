@@ -96,9 +96,10 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
               : const Color(0xfff5f5f5);
 
           return InkWell(
-            onTap: () {
+            onTap: () async {
               // Pass index as levelId
-              context.push('${widget.routePrefix}/$index');
+              await context.push('${widget.routePrefix}/$index');
+              if (mounted) _loadLevels();
             },
             borderRadius: BorderRadius.circular(12),
             child: Container(

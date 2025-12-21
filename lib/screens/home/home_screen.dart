@@ -9,11 +9,6 @@ class MenuItem {
 }
 
 const Map<String, List<MenuItem>> menuItems = {
-  '單字': [
-    MenuItem('單字學習', '/wordflash'),
-    MenuItem('片語學習', '/phraseboss'),
-    MenuItem('單字測驗', '/vocab-hero'),
-  ],
   '基礎文法': [
     MenuItem('單複數', '/singular-plural'),
     MenuItem('定冠詞', '/article-game'),
@@ -21,6 +16,7 @@ const Map<String, List<MenuItem>> menuItems = {
     MenuItem('代名詞陰陽性', '/pronoun-game'),
     MenuItem('Be動詞', '/be-verb-game'),
     MenuItem('介系詞', '/preposition-game'),
+    MenuItem('可數與不可數', '/countable-uncountable'),
   ],
   '動詞與時態': [
     MenuItem('動詞時態', '/verb-game'),
@@ -29,6 +25,7 @@ const Map<String, List<MenuItem>> menuItems = {
     MenuItem('不定詞與動名詞', '/gerunds-infinitives'),
     MenuItem('片語動詞', '/phrasal-verbs'),
     MenuItem('被動語態', '/passive-voice'),
+    MenuItem('及物與不及物', '/transitive-intransitive'),
   ],
   '句型與結構': [
     MenuItem('疑問句', '/question-game'),
@@ -58,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<void> _loadLastVisited() async {
     final prefs = await SharedPreferences.getInstance();
     final lastVisited = prefs.getString(_prefKey);
-    String initialCategory = '單字';
+    String initialCategory = '基礎文法';
 
     if (lastVisited != null) {
       // Find category for last visited title
@@ -108,7 +105,7 @@ class _HomeScreenState extends State<HomeScreen> {
           break;
         }
       }
-      _activeCategory ??= '單字';
+      _activeCategory ??= '基礎文法';
     }
 
     return Scaffold(

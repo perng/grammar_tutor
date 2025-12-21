@@ -3,8 +3,8 @@
         "title": "Project Deadline",
         "id": "project-deadline",
         "content": "You [must|can|might|could] finish this report by Friday; it is mandatory. I [might|must|should|can] be late to the meeting, I am not sure yet. [Could|Should|Must|Might] you please pass the salt? It [must|might|can|should] be raining outside; look at the wet umbrellas. You [should|might|may|can] see a doctor if you feel sick. That [can't|mustn't|shouldn't|may not] be true; I saw him yesterday!",
-        "explanation-zh-TW": "# 🗓️ 專案截止日 (Modals)\n\n助動詞 (Modals) 表達語氣、可能性和禮貌。\n\n1. **[must]**: 強制性 (Mandatory)。\n2. **[might]**: 不確定性 (Not sure yet)。\n3. **[Could]**: 禮貌請求 (Polite request)。\n4. **[must]**: 高度肯定推測 (90-100%)，看見濕雨傘所以「一定」是下雨。\n5. **[should]**: 建議 (Advice)。\n6. **[can't]**: 不可能 (Impossibility)。",
-        "explanation-en-US": "# 🗓️ Project Deadline (Modals)\n\nModals express obligation, possibility, and politeness.\n\n1. **[must]**: Obligation.\n2. **[might]**: Possibility (<50%).\n3. **[Could]**: Polite request.\n4. **[must]**: Logic deduction (High certainty).\n5. **[should]**: Advice.\n6. **[can't]**: Logical impossibility."
+        "explanation-zh-TW": "# 🗓️ 專案截止日 (Modals)\n\n助動詞 (Modals) 表達語氣、可能性和禮貌。\n\n1. **[must]**: 強制性 (Mandatory)。\n2. **[might]**: 不確定性 (Not sure yet)。\n3. **[Could]**: 禮貌請求 (Polite request)。\n4. **[must]**: 高度肯定推測 (90-100%)。\n5. **[should]**: 建議 (Advice)。\n6. **[can't]**: 不可能 (Impossibility)。",
+        "explanation-en-US": "# 🗓️ Project Deadline (Modals)\n\nModals express obligation, possibility, and politeness.\n\n1. **[must]**: Obligation.\n2. **[might]**: Possibility.\n3. **[Could]**: Polite request.\n4. **[must]**: Logic deduction.\n5. **[should]**: Advice.\n6. **[can't]**: Logical impossibility."
     },
     {
         "id": "m2",
@@ -103,5 +103,110 @@
         "content": "We [could|should] go to the cinema. You [might|must] want to try this. Shall we [go|to go]?",
         "explanation-zh-TW": "Could/Might for suggestions.",
         "explanation-en-US": "Suggestions."
+    },
+    {
+        "id": "m16",
+        "title": "Interviews",
+        "content": "You [should|can] dress neatly. You [must|might] arrive on time. You [can|must] ask questions. You [should not|must not] lie.",
+        "explanation-zh-TW": "Advice and obligation in interviews.",
+        "explanation-en-US": "Professional advice."
+    },
+    {
+        "id": "m17",
+        "title": "Future Dreams",
+        "content": "I [might|must] travel the world. I [hope to|must] see Paris. I [can|must] learn Japanese. It [would|should] be amazing.",
+        "explanation-zh-TW": "Possibility and hopes.",
+        "explanation-en-US": "Future possibilities."
+    },
+    {
+        "id": "m18",
+        "title": "Driving School",
+        "content": "You [must|can] wear a seatbelt. You [can't|mustn't] speed. You [should|might] look at the mirrors. You [must|can] stop at red lights.",
+        "explanation-zh-TW": "Strict rules for driving.",
+        "explanation-en-US": "Driving rules."
+    },
+    {
+        "id": "m19",
+        "title": "At the Doctor",
+        "content": "You [should|must] drink more water. You [must not|don't have to] eat junk food. You [could|must] try these vitamins. You [should|may] rest.",
+        "explanation-zh-TW": "Medical advice.",
+        "explanation-en-US": "Advice and health."
+    },
+    {
+        "id": "m20",
+        "title": "Making Plans",
+        "content": "[Shall|Must] we meet at 6? [Could|Should] you bring some snacks? I [might|must] be a bit late. We [can|must] watch a movie.",
+        "explanation-zh-TW": "Suggestions and requests.",
+        "explanation-en-US": "Social planning."
+    },
+    {
+        "id": "m21",
+        "title": "Rules in the Lab",
+        "content": "You [must|can] wear goggles. You [must not|don't have to] eat here. [May|Must] I use this tool? You [should|can] be careful.",
+        "explanation-zh-TW": "Lab safety rules.",
+        "explanation-en-US": "Safety regulations."
+    },
+    {
+        "id": "m22",
+        "title": "Past Regrets 2",
+        "content": "I [should have|could have] called her. I [shouldn't have|can't have] said that. She [must have|might have] been angry. We [could have|must have] won.",
+        "explanation-zh-TW": "Past modal regrets.",
+        "explanation-en-US": "Past regrets."
+    },
+    {
+        "id": "m23",
+        "title": "Strong Advice",
+        "content": "You [had better|can] study now. You [had better not|must not] forget. He [had better|could] be ready. We [had better|may] leave.",
+        "explanation-zh-TW": "Had better = Strong advice.",
+        "explanation-en-US": "Strong advice."
+    },
+    {
+        "id": "m24",
+        "title": "Logical Conclusion",
+        "content": "She is crying, she [must|can] be sad. He is smiling, he [must|should] be happy. The ground is wet, it [must|can] have rained. They are late, they [might|must] have missed the bus.",
+        "explanation-zh-TW": "Logical deduction based on evidence.",
+        "explanation-en-US": "Logical conclusions."
+    },
+    {
+        "id": "m25",
+        "title": "Permission 2",
+        "content": "[Can|Must] I use your phone? [Could|Should] I open the window? [May|Must] I sit here? You [can|must] borrow my pen.",
+        "explanation-zh-TW": "Asking for things politely.",
+        "explanation-en-US": "Granting permission."
+    },
+    {
+        "id": "m26",
+        "title": "Expectation",
+        "content": "The train [should|can] arrive soon. He [should|must] be home by now. It [should|might] be a nice day. They [should|can] be here.",
+        "explanation-zh-TW": "Should = Expectation.",
+        "explanation-en-US": "Probability/Expectation."
+    },
+    {
+        "id": "m27",
+        "title": "Necessity",
+        "content": "I [need to|can] buy milk. She [needs to|must] work. We [don't need to|must not] hurry. Do you [need to|must] go?",
+        "explanation-zh-TW": "Need to = Necessity.",
+        "explanation-en-US": "Necessity."
+    },
+    {
+        "id": "m28",
+        "title": "Preferences",
+        "content": "I [would rather|could] stay home. She [would rather|can] eat pizza. I [would rather not|must not] go out. [Would|Could] you rather walk?",
+        "explanation-zh-TW": "Would rather = Preference.",
+        "explanation-en-US": "Preferences."
+    },
+    {
+        "id": "m29",
+        "title": "Willingness",
+        "content": "I [will|shall] help you. She [won't|mustn't] listen. [Will|Shall] you open the door? We [will|can] try again.",
+        "explanation-zh-TW": "Will = Willingness/Promise.",
+        "explanation-en-US": "Willingness."
+    },
+    {
+        "id": "m30",
+        "title": "Critique",
+        "content": "You [could|must] have told me! He [might|can] have helped. They [should|must] have known. I [could|can] have died!",
+        "explanation-zh-TW": "Critique of past actions.",
+        "explanation-en-US": "Criticism of the past."
     }
 ]

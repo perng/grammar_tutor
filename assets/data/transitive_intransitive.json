@@ -1,0 +1,212 @@
+[
+    {
+        "id": "ti1",
+        "title": "Basic Action",
+        "content": "I [slept|slept the bed] for ten hours. He [bought|bought ] a new car yesterday. She [arrived|arrived the station] early. They [ate|ate the pizza] quickly. The baby [cried|cried the toy] loudly.",
+        "explanation-zh-TW": "及物動詞 (Transitive) 需要受詞；不及物動詞 (Intransitive) 不需要。\n1. **slept**: 不及物，不可直接接名詞。\n2. **bought**: 及物，買「什麼」？買 a new car。\n3. **arrived**: 不及物，不可直接接受詞。\n4. **ate**: 及物，吃 pizza。\n5. **cried**: 不及物，不接受詞。",
+        "explanation-en-US": "Transitive verbs need an object; Intransitive verbs do not.\n1. **slept**: Intransitive.\n2. **bought**: Transitive.\n3. **arrived**: Intransitive.\n4. **ate**: Transitive.\n5. **cried**: Intransitive."
+    },
+    {
+        "id": "ti2",
+        "title": "Daily Routine",
+        "content": "I [woke up|woke up the clock] at 7 AM. I [washed|washed ] my face. Then I [went|went the kitchen] to make coffee. I [drank|drank ] the coffee slowly. My dog [barked|barked me] at the mailman.",
+        "explanation-zh-TW": "1. **woke up**: 不及物。\n2. **washed**: 及物 (washed my face)。\n3. **went**: 不及物 (went to the kitchen)。\n4. **drank**: 及物 (drank the coffee)。\n5. **barked**: 不及物 (barked at me)。",
+        "explanation-en-US": "1. **woke up**: Intransitive.\n2. **washed**: Transitive.\n3. **went**: Intransitive.\n4. **drank**: Transitive.\n5. **barked**: Intransitive."
+    },
+    {
+        "id": "ti3",
+        "title": "In the Classroom",
+        "content": "The teacher [explained|explained ] the lesson. We [sat|sat the chair] quietly. A student [asked|asked ] a question. Someone [sneezed|sneezed the paper] loudly. We [learned|learned ] many new words.",
+        "explanation-zh-TW": "1. **explained**: 及物。\n2. **sat**: 不及物。\n3. **asked**: 及物。\n4. **sneezed**: 不及物。\n5. **learned**: 及物。",
+        "explanation-en-US": "1. **explained**: Transitive.\n2. **sat**: Intransitive.\n3. **asked**: Transitive.\n4. **sneezed**: Intransitive.\n5. **learned**: Transitive."
+    },
+    {
+        "id": "ti4",
+        "title": "Travel Dreams",
+        "content": "I [dreamed|dreamed the trip] about Japan. I [planned|planned ] the itinerary. The plane [departed|departed the airport] at noon. I [visited|visited ] many shrines. I [stayed|stayed the hotel] near the park.",
+        "explanation-zh-TW": "1. **dreamed**: 不及物。\n2. **planned**: 及物。\n3. **departed**: 不及物。\n4. **visited**: 及物。\n5. **stayed**: 不及物。",
+        "explanation-en-US": "1. **dreamed**: Intransitive.\n2. **planned**: Transitive.\n3. **departed**: Intransitive.\n4. **visited**: Transitive.\n5. **stayed**: Intransitive."
+    },
+    {
+        "id": "ti5",
+        "title": "Tech Problems",
+        "content": "My computer [crashed|crashed the file]. I [restarted|restarted ] the system. I [waited|waited the screen] for a long time. It [worked|worked the mouse] again. I [saved|saved ] my work immediately.",
+        "explanation-zh-TW": "1. **crashed**: 不及物。\n2. **restarted**: 及物。\n3. **waited**: 不及物。\n4. **worked**: 不及物。\n5. **saved**: 及物。",
+        "explanation-en-US": "1. **crashed**: Intransitive.\n2. **restarted**: Transitive.\n3. **waited**: Intransitive.\n4. **worked**: Intransitive.\n5. **saved**: Transitive."
+    },
+    {
+        "id": "ti6",
+        "title": "Morning Commute",
+        "content": "He [drove|drove ] to work. He [parked|parked ] the car carefully. He [walked|walked the street] to the office. He [saw|saw ] his boss in the lobby. He [waited|waited the elevator] for five minutes.",
+        "explanation-zh-TW": "1. **drove**: 不及物 (在這裡驅車往...)。\n2. **parked**: 及物。\n3. **walked**: 不及物。\n4. **saw**: 及物。\n5. **waited**: 不及物。",
+        "explanation-en-US": "1. **drove**: Intransitive (here: traveled by car).\n2. **parked**: Transitive.\n3. **walked**: Intransitive (walked to...).\n4. **saw**: Transitive.\n5. **waited**: Intransitive."
+    },
+    {
+        "id": "ti7",
+        "title": "Cooking Dinner",
+        "content": "I [boiled|boiled ] some water. I [chopped|chopped ] the onions. The soup [simmered|simmered the pot] on the stove. I [tasted|tasted ] the flavor. Everyone [smiled|smiled the food] at the table.",
+        "explanation-zh-TW": "1. **boiled**: 及物。\n2. **chopped**: 及物。\n3. **simmered**: 不及物。\n4. **tasted**: 及物。\n5. **smiled**: 不及物。",
+        "explanation-en-US": "1. **boiled**: Transitive.\n2. **chopped**: Transitive.\n3. **simmered**: Intransitive.\n4. **tasted**: Transitive.\n5. **smiled**: Intransitive."
+    },
+    {
+        "id": "ti8",
+        "title": "Fitness Center",
+        "content": "I [ran|ran the track] for thirty minutes. I [lifted|lifted ] the weights. I [stretched|stretched the muscle] slowly. I [sweated|sweated the shirt] a lot. I [drank|drank ] some water after.",
+        "explanation-zh-TW": "1. **ran**: 不及物。\n2. **lifted**: 及物。\n3. **stretched**: 不及物。\n4. **sweated**: 不及物。\n5. **drank**: 及物。",
+        "explanation-en-US": "1. **ran**: Intransitive.\n2. **lifted**: Transitive.\n3. **stretched**: Intransitive (here: exercise action).\n4. **sweated**: Intransitive.\n5. **drank**: Transitive."
+    },
+    {
+        "id": "ti9",
+        "title": "Nature Walk",
+        "content": "Flowers [bloom|bloom the garden] in spring. The trees [grow|grow the sky] quickly. I [picked|picked ] a red rose. It [rained|rained the ground] yesterday. I [watched|watched ] the sunset.",
+        "explanation-zh-TW": "1. **bloom**: 不及物。\n2. **grow**: 不及物。\n3. **picked**: 及物。\n4. **rained**: 不及物。\n5. **watched**: 及物。",
+        "explanation-en-US": "1. **bloom**: Intransitive.\n2. **grow**: Intransitive.\n3. **picked**: Transitive.\n4. **rained**: Intransitive.\n5. **watched**: Transitive."
+    },
+    {
+        "id": "ti10",
+        "title": "Office Work",
+        "content": "I [typed|typed ] the email. The printer [failed|failed the paper]. I [clicked|clicked the mouse] on the link. I [thought|thought the idea] about the project. I [wrote|wrote ] a short memo.",
+        "explanation-zh-TW": "1. **typed**: 及物。\n2. **failed**: 不及物。\n3. **clicked**: 不及物 (clicked on)。\n4. **thought**: 不及物 (thought about)。\n5. **wrote**: 及物。",
+        "explanation-en-US": "1. **typed**: Transitive.\n2. **failed**: Intransitive.\n3. **clicked**: Intransitive (needs 'on').\n4. **thought**: Intransitive (needs 'about').\n5. **wrote**: Transitive."
+    },
+    {
+        "id": "ti11",
+        "title": "Beach Day",
+        "content": "We [swam|swam the ocean] in the morning. I [dove|dove the water] from the platform. The sun [shone|shone the sand] brightly. I [built|built ] a sandcastle. We [found|found ] some seashells.",
+        "explanation-zh-TW": "1. **swam**: 不及物。\n2. **dove**: 不及物。\n3. **shone**: 不及物。\n4. **built**: 及物。\n5. **found**: 及物。",
+        "explanation-en-US": "1. **swam**: Intransitive.\n2. **dove**: Intransitive.\n3. **shone**: Intransitive.\n4. **built**: Transitive.\n5. **found**: Transitive."
+    },
+    {
+        "id": "ti12",
+        "title": "Movie Night",
+        "content": "We [watched|watched ] a romantic movie. The film [started|started ] at 7 PM. I [laughed|laughed the joke] at the funny scenes. The popcorn [smelled|smelled the room] delicious. We [finished|finished ] the whole bag.",
+        "explanation-zh-TW": "1. **watched**: 及物。\n2. **started**: 不及物。\n3. **laughed**: 不及物 (laughed at)。\n4. **smelled**: 不及物 (連綴/不及物)。\n5. **finished**: 及物。",
+        "explanation-en-US": "1. **watched**: Transitive.\n2. **started**: Intransitive.\n3. **laughed**: Intransitive (laughed at).\n4. **smelled**: Intransitive.\n5. **finished**: Transitive."
+    },
+    {
+        "id": "ti13",
+        "title": "Gardening",
+        "content": "I [dug|dug ] a hole. I [planted|planted ] a young tree. The leaves [fell|fell the ground] in autumn. I [watered|watered ] the soil. The sun [disappeared|disappeared the sky] behind clouds.",
+        "explanation-zh-TW": "1. **dug**: 及物。\n2. **planted**: 及物。\n3. **fell**: 不及物。\n4. **watered**: 及物。\n5. **disappeared**: 不及物。",
+        "explanation-en-US": "1. **dug**: Transitive.\n2. **planted**: Transitive.\n3. **fell**: Intransitive.\n4. **watered**: Transitive.\n5. **disappeared**: Intransitive."
+    },
+    {
+        "id": "ti14",
+        "title": "Birthday Party",
+        "content": "She [blew out|blew out ] the candles. We [sang|sang ] 'Happy Birthday'. The music [played|played the ears] loudly. I [danced|danced ] all night. I [met|met ] many new friends.",
+        "explanation-zh-TW": "1. **blew out**: 及物。\n2. **sang**: 及物 (或不及物，此處接歌名為及物)。\n3. **played**: 不及物。\n4. **danced**: 不及物。\n5. **met**: 及物。",
+        "explanation-en-US": "1. **blew out**: Transitive.\n2. **sang**: Transitive (with song name).\n3. **played**: Intransitive.\n4. **danced**: Intransitive.\n5. **met**: Transitive."
+    },
+    {
+        "id": "ti15",
+        "title": "In the Library",
+        "content": "I [read|read ] a thick book. I [borrowed|borrowed ] three novels. The librarian [whispered|whispered the secret] softly. I [sat|sat the table] for two hours. I [learned|learned ] about ancient history.",
+        "explanation-zh-TW": "1. **read**: 及物。\n2. **borrowed**: 及物。\n3. **whispered**: 不及物。\n4. **sat**: 不及物。\n5. **learned**: 不及物 (learned about)。",
+        "explanation-en-US": "1. **read**: Transitive.\n2. **borrowed**: Transitive.\n3. **whispered**: Intransitive.\n4. **sat**: Intransitive.\n5. **learned**: Intransitive (needs 'about')."
+    },
+    {
+        "id": "ti16",
+        "title": "Sports Game",
+        "content": "The player [kicked|kicked ] the ball. He [ran|ran the goal] fast. The whistle [blew|blew the air] suddenly. We [won|won ] the match. Everyone [cheered|cheered the team] loudly.",
+        "explanation-zh-TW": "1. **kicked**: 及物。\n2. **ran**: 不及物。\n3. **blew**: 不及物。\n4. **won**: 及物。\n5. **cheered**: 不及物。",
+        "explanation-en-US": "1. **kicked**: Transitive.\n2. **ran**: Intransitive.\n3. **blew**: Intransitive.\n4. **won**: Transitive.\n5. **cheered**: Intransitive."
+    },
+    {
+        "id": "ti17",
+        "title": "Night Sky",
+        "content": "Stars [twinkle|twinkle the dark]. The moon [rose|rose ] at 8 PM. Astronomers [study|study ] the galaxies. A comet [passed|passed ] through the sky. I [sighed|sighed the moon] in wonder.",
+        "explanation-zh-TW": "1. **twinkle**: 不及物。\n2. **rose**: 不及物。\n3. **study**: 及物。\n4. **passed**: 不及物。\n5. **sighed**: 不及物。",
+        "explanation-en-US": "1. **twinkle**: Intransitive.\n2. **rose**: Intransitive.\n3. **study**: Transitive.\n4. **passed**: Intransitive.\n5. **sighed**: Intransitive."
+    },
+    {
+        "id": "ti18",
+        "title": "Winter Day",
+        "content": "The snow [melted|melted the ground] slowly. I [wore|wore ] a heavy coat. My hands [shook|shook the cold] from the chill. I [built|built ] a snowman. The wind [howled|howled the house] all night.",
+        "explanation-zh-TW": "1. **melted**: 不及物。\n2. **wore**: 及物。\n3. **shook**: 不及物。\n4. **built**: 及物。\n5. **howled**: 不及物。",
+        "explanation-en-US": "1. **melted**: Intransitive.\n2. **wore**: Transitive.\n3. **shook**: Intransitive.\n4. **built**: Transitive.\n5. **howled**: Intransitive."
+    },
+    {
+        "id": "ti19",
+        "title": "Morning Coffee",
+        "content": "I [poured|poured ] the milk. The steam [rose|rose the cup] slowly. I [stirred|stirred ] the coffee. The spoon [clinked|clinked the glass] loudly. I [enjoyed|enjoyed ] the morning peace.",
+        "explanation-zh-TW": "1. **poured**: 及物。\n2. **rose**: 不及物。\n3. **stirred**: 及物。\n4. **clinked**: 不及物。\n5. **enjoyed**: 及物。",
+        "explanation-en-US": "1. **poured**: Transitive.\n2. **rose**: Intransitive.\n3. **stirred**: Transitive.\n4. **clinked**: Intransitive.\n5. **enjoyed**: Transitive."
+    },
+    {
+        "id": "ti20",
+        "title": "Art Class",
+        "content": "I [painted|painted ] a landscape. The colors [mixed|mixed the canvas] well. I [cleaned|cleaned ] the brushes. The instructor [nodded|nodded the student] in approval. I [sold|sold ] my first painting.",
+        "explanation-zh-TW": "1. **painted**: 及物。\n2. **mixed**: 不及物。\n3. **cleaned**: 及物。\n4. **nodded**: 不及物。\n5. **sold**: 及物。",
+        "explanation-en-US": "1. **painted**: Transitive.\n2. **mixed**: Intransitive (here: combined).\n3. **cleaned**: Transitive.\n4. **nodded**: Intransitive.\n5. **sold**: Transitive."
+    },
+    {
+        "id": "ti21",
+        "title": "Mountain Hike",
+        "content": "We [climbed|climbed ] the peak. Our hearts [beat|beat the chest] fast. The view [appeared|appeared ] suddenly. I [breathed|breathed the air] the fresh air. We [descended|descended ] before dark.",
+        "explanation-zh-TW": "1. **climbed**: 及物。\n2. **beat**: 不及物 (跳動)。\n3. **appeared**: 不及物。\n4. **breathed**: 及物 (呼吸...空氣)。\n5. **descended**: 不及物 (或及物，此處接時間介系詞為不及物用法)。",
+        "explanation-en-US": "1. **climbed**: Transitive.\n2. **beat**: Intransitive.\n3. **appeared**: Intransitive.\n4. **breathed**: Transitive.\n5. **descended**: Intransitive."
+    },
+    {
+        "id": "ti22",
+        "title": "At the Market",
+        "content": "I [bought|bought ] some apples. The vendor [smiled|smiled the customer] at me. Prices [increased|increased the store] again. I [carried|carried ] the heavy bags. The sun [set|set the sky] early.",
+        "explanation-zh-TW": "1. **bought**: 及物。\n2. **smiled**: 不及物。\n3. **increased**: 不及物。\n4. **carried**: 及物。\n5. **set**: 不及物。",
+        "explanation-en-US": "1. **bought**: Transitive.\n2. **smiled**: Intransitive.\n3. **increased**: Intransitive.\n4. **carried**: Transitive.\n5. **set**: Intransitive."
+    },
+    {
+        "id": "ti23",
+        "title": "Cleaning Day",
+        "content": "I [swept|swept ] the floor. Dust [floated|floated the light] in the air. I [organized|organized ] the closet. The window [shone|shone ] after washing. I [relaxed|relaxed the sofa] on the sofa.",
+        "explanation-zh-TW": "1. **swept**: 及物。\n2. **floated**: 不及物。\n3. **organized**: 及物。\n4. **shone**: 不及物。\n5. **relaxed**: 不及物。",
+        "explanation-en-US": "1. **swept**: Transitive.\n2. **floated**: Intransitive.\n3. **organized**: Transitive.\n4. **shone**: Intransitive.\n5. **relaxed**: Intransitive."
+    },
+    {
+        "id": "ti24",
+        "title": "Pet Care",
+        "content": "I [fed|fed ] the cat. The cat [purred|purred the milk] loudly. I [brushed|brushed ] its fur. It [slept|slept the rug] on the rug. I [took|took ] it to the vet.",
+        "explanation-zh-TW": "1. **fed**: 及物。\n2. **purred**: 不及物。\n3. **brushed**: 及物。\n4. **slept**: 不及物。\n5. **took**: 及物。",
+        "explanation-en-US": "1. **fed**: Transitive.\n2. **purred**: Intransitive.\n3. **brushed**: Transitive.\n4. **slept**: Intransitive.\n5. **took**: Transitive."
+    },
+    {
+        "id": "ti25",
+        "title": "Musical Talent",
+        "content": "He [plays|plays ] the piano. The music [sounds|sounds the room] beautiful. He [practices|practices ] every day. His skill [improved|improved the hand] quickly. We [applauded|applauded the song] enthusiastically.",
+        "explanation-zh-TW": "1. **plays**: 及物。\n2. **sounds**: 不及物。\n3. **practices**: 不及物 (或及物，此處單用為不及物)。\n4. **improved**: 不及物。\n5. **applauded**: 不及物。",
+        "explanation-en-US": "1. **plays**: Transitive.\n2. **sounds**: Intransitive.\n3. **practices**: Intransitive.\n4. **improved**: Intransitive.\n5. **applauded**: Intransitive."
+    },
+    {
+        "id": "ti26",
+        "title": "Summer Camp",
+        "content": "We [lit|lit ] a campfire. The fire [burned|burned the wood] all night. We [grilled|grilled ] marshmallows. I [coughed|coughed the smoke] from the smoke. We [laughed|laughed ] around the fire.",
+        "explanation-zh-TW": "1. **lit**: 及物。\n2. **burned**: 不及物。\n3. **grilled**: 及物。\n4. **coughed**: 不及物。\n5. **laughed**: 不及物。",
+        "explanation-en-US": "1. **lit**: Transitive.\n2. **burned**: Intransitive.\n3. **grilled**: Transitive.\n4. **coughed**: Intransitive.\n5. **laughed**: Intransitive."
+    },
+    {
+        "id": "ti27",
+        "title": "At the Airport",
+        "content": "I [checked|checked ] my luggage. The plane [landed|landed the runway] safely. I [met|met ] my sister. She [arrived|arrived the gate] from London. We [walked|walked ] to the exit.",
+        "explanation-zh-TW": "1. **checked**: 及物。\n2. **landed**: 不及物。\n3. **met**: 及物。\n4. **arrived**: 不及物。\n5. **walked**: 不及物。",
+        "explanation-en-US": "1. **checked**: Transitive.\n2. **landed**: Intransitive.\n3. **met**: Transitive.\n4. **arrived**: Intransitive.\n5. **walked**: Intransitive."
+    },
+    {
+        "id": "ti28",
+        "title": "Computer Game",
+        "content": "I [played|played ] the game. My character [died|died the monster] twice. I [battled|battled ] a dragon. The score [increased|increased the screen] rapidly. I [won|won ] the first level.",
+        "explanation-zh-TW": "1. **played**: 及物。\n2. **died**: 不及物。\n3. **battled**: 及物。\n4. **increased**: 不及物。\n5. **won**: 及物。",
+        "explanation-en-US": "1. **played**: Transitive.\n2. **died**: Intransitive.\n3. **battled**: Transitive.\n4. **increased**: Intransitive.\n5. **won**: Transitive."
+    },
+    {
+        "id": "ti29",
+        "title": "Business Trip",
+        "content": "I [prepared|prepared ] the speech. The meeting [lasted|lasted the table] two hours. I [negotiated|negotiated ] a better deal. The deal [failed|failed the money] eventually. I [returned|returned ] home tired.",
+        "explanation-zh-TW": "1. **prepared**: 及物。\n2. **lasted**: 不及物 (持續多久)。\n3. **negotiated**: 及物。\n4. **failed**: 不及物。\n5. **returned**: 不及物。",
+        "explanation-en-US": "1. **prepared**: Transitive.\n2. **lasted**: Intransitive.\n3. **negotiated**: Transitive.\n4. **failed**: Intransitive.\n5. **returned**: Intransitive."
+    },
+    {
+        "id": "ti30",
+        "title": "Final Exam",
+        "content": "I [studied|studied ] the textbooks. The exam [occurred|occurred the room] on Monday. I [answered|answered ] all questions. Time [passed|passed the watch] quickly. I [passed|passed ] the course.",
+        "explanation-zh-TW": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (時間流逝)。\n5. **passed**: 及物 (通過考試)。",
+        "explanation-en-US": "1. **studied**: Transitive.\n2. **occurred**: Intransitive.\n3. **answered**: Transitive.\n4. **passed**: Intransitive (time).\n5. **passed**: Transitive (exam)."
+    }
+]

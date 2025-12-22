@@ -7,6 +7,9 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
+import 'package:provider/provider.dart';
+import '../../../providers/locale_provider.dart';
+import '../../../l10n/app_localizations.dart';
 
 class Word {
   final String text;
@@ -61,7 +64,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
   final Random _random = Random();
 
   // Explanation
-  String? _currentExplanationLanguage; // 'en-US' or 'zh-TW'
+  // derived from locale in build
 
   @override
   void initState() {
@@ -247,7 +250,6 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
-      _currentExplanationLanguage = 'zh-TW';
     });
 
     // Save progress using the asset path as a uniqueish key base
@@ -274,17 +276,39 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
       if (_story != null) {
         _processText(_story!.content);
       }
-      _currentExplanationLanguage = null;
     });
   }
 
   @override
   Widget build(BuildContext context) {
+    // Add keys to AppLocalizations for game UI
+    final loc = AppLocalizations.of(context);
+
     if (_isLoading) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
     }
     if (_story == null) {
       return const Scaffold(body: Center(child: Text("Level not found")));
+    }
+
+    final locale = Provider.of<LocaleProvider>(context).locale;
+    String explanationContent = '';
+
+    // Determine which explanation to show based on locale
+    // zh_CN -> explanationZhCn (fallback to TW)
+    // zh_TW -> explanationZhTw
+    // else -> explanationEnUs
+
+    if (locale.languageCode == 'zh') {
+      if (locale.countryCode == 'CN' || locale.scriptCode == 'Hans') {
+        explanationContent = _story!.explanationZhCn.isNotEmpty
+            ? _story!.explanationZhCn
+            : _story!.explanationZhTw;
+      } else {
+        explanationContent = _story!.explanationZhTw;
+      }
+    } else {
+      explanationContent = _story!.explanationEnUs;
     }
 
     return Scaffold(
@@ -408,13 +432,10 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                       ),
                       const SizedBox(height: 32),
 
-                      if (_showResults &&
-                          _currentExplanationLanguage != null) ...[
+                      if (_showResults) ...[
                         const SizedBox(height: 24),
                         MarkdownBody(
-                          data: _currentExplanationLanguage == 'en-US'
-                              ? _story!.explanationEnUs
-                              : _story!.explanationZhTw,
+                          data: explanationContent,
                           selectable: true,
                         ),
                         // Add some padding at bottom so content isn't covered by sticky bar
@@ -439,7 +460,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                     children: [
                       if (_showResults) ...[
                         Text(
-                          "Score: $_scorePercentage%",
+                          "${loc.get('score')}: $_scorePercentage%",
                           style: const TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,
@@ -456,7 +477,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                                     vertical: 12,
                                   ),
                                 ),
-                                child: const Text('Try Again'),
+                                child: Text(loc.get('try_again')),
                               ),
                             ),
                             const SizedBox(width: 8),
@@ -466,20 +487,6 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                               Expanded(
                                 child: ElevatedButton(
                                   onPressed: () {
-                                    // Navigate to next level
-                                    // Force a reload by replacement or push?
-                                    // GoRouter can handle param changes?
-                                    // context.push matches push, but we are in a stack.
-                                    // Use context.go to replace or push on top?
-                                    // context.go('${widget.routePrefix}/${widget.levelIndex + 1}');
-                                    // Actually context.pushReplacement might be better to avoid deep stack?
-                                    // Or just context.go to update the levelId in the path.
-                                    // Assuming router handles it.
-                                    // Let's use context.go to stay in the same "flow" but update param.
-                                    // Wait, if we use push, back button goes to previous level. That might be annoying.
-                                    // But maybe desired?
-                                    // Let's use context.pushReplacement to keep history clean (Back goes to menu).
-                                    // Check import for go_router.
                                     context.pushReplacement(
                                       '${widget.routePrefix}/${widget.levelIndex + 1}',
                                     );
@@ -491,42 +498,12 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                                       vertical: 12,
                                     ),
                                   ),
-                                  child: const Text('Next Level'),
+                                  child: Text(loc.get('next_level')),
                                 ),
                               ),
                           ],
                         ),
-                        const SizedBox(height: 8),
-                        Row(
-                          children: [
-                            Expanded(
-                              child: TextButton(
-                                onPressed: () {
-                                  setState(() {
-                                    _currentExplanationLanguage =
-                                        (_currentExplanationLanguage == 'en-US')
-                                        ? null
-                                        : 'en-US';
-                                  });
-                                },
-                                child: const Text('English Explanation'),
-                              ),
-                            ),
-                            Expanded(
-                              child: TextButton(
-                                onPressed: () {
-                                  setState(() {
-                                    _currentExplanationLanguage =
-                                        (_currentExplanationLanguage == 'zh-TW')
-                                        ? null
-                                        : 'zh-TW';
-                                  });
-                                },
-                                child: const Text('中文解說'),
-                              ),
-                            ),
-                          ],
-                        ),
+                        // explanation buttons removed
                       ] else ...[
                         SizedBox(
                           width: double.infinity,
@@ -537,9 +514,9 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
                               backgroundColor: Colors.indigo,
                               foregroundColor: Colors.white,
                             ),
-                            child: const Text(
-                              'Check Answers',
-                              style: TextStyle(fontSize: 18),
+                            child: Text(
+                              loc.get('check_answers'),
+                              style: const TextStyle(fontSize: 18),
                             ),
                           ),
                         ),

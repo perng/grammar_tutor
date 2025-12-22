@@ -3,6 +3,7 @@ class StoryLevel {
   final String title;
   final String content;
   final String explanationZhTw;
+  final String explanationZhCn;
   final String explanationEnUs;
 
   StoryLevel({
@@ -10,6 +11,7 @@ class StoryLevel {
     required this.title,
     required this.content,
     required this.explanationZhTw,
+    required this.explanationZhCn,
     required this.explanationEnUs,
   });
 
@@ -19,6 +21,7 @@ class StoryLevel {
       title: json['title'] ?? '',
       content: json['content'] ?? '',
       explanationZhTw: json['explanation-zh-TW'] ?? '',
+      explanationZhCn: json['explanation-zh-CN'] ?? '',
       explanationEnUs: json['explanation-en-US'] ?? '',
     );
   }

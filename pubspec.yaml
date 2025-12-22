@@ -38,8 +38,11 @@ dependencies:
   shared_preferences: ^2.2.0
   google_fonts: ^6.1.0
   flutter_markdown: ^0.6.14
-  provider: ^6.0.5
+  provider: ^6.1.5+1
   confetti: ^0.8.0
+  intl: ^0.20.2
+  flutter_localizations:
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:

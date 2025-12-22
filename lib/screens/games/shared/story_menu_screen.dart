@@ -99,7 +99,10 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
             onTap: () async {
               // Pass index as levelId
               await context.push('${widget.routePrefix}/$index');
-              if (mounted) _loadLevels();
+              // Reload levels to update progress
+              if (mounted) {
+                _loadLevels();
+              }
             },
             borderRadius: BorderRadius.circular(12),
             child: Container(

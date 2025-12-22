@@ -224,7 +224,10 @@ final router = GoRouter(
       builder: (context, state) {
         final levelIdStr = state.pathParameters['levelId']!;
         final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return QuestionGameScreen(levelIndex: levelIndex);
+        return QuestionGameScreen(
+          levelIndex: levelIndex,
+          routePrefix: '/question-game',
+        );
       },
     ),
     GoRoute(

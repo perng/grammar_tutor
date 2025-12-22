@@ -35,7 +35,7 @@ class QuestionGameScreen extends StatefulWidget {
   const QuestionGameScreen({
     super.key,
     required this.levelIndex,
-    this.routePrefix = '/question-formation',
+    this.routePrefix = '/question-game',
   });
 
   @override
@@ -237,6 +237,7 @@ class _QuestionGameScreenState extends State<QuestionGameScreen> {
       _errorCount = error;
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

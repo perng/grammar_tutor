@@ -58,6 +58,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
   StoryLevel? _story;
   int _totalLevels = 0;
   late ConfettiController _confettiController;
+  final Random _random = Random();
 
   // Explanation
   String? _currentExplanationLanguage; // 'en-US' or 'zh-TW'
@@ -120,7 +121,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
           String correctForm = separator == '|' ? forms[0] : "BOTH";
 
           // Select an initial random form to display
-          int initialIndex = Random().nextInt(forms.length);
+          int initialIndex = _random.nextInt(forms.length);
           String initialText = forms[initialIndex];
 
           words.add(
@@ -235,6 +236,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     // Save progress using the asset path as a uniqueish key base

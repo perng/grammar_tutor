@@ -252,6 +252,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

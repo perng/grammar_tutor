@@ -240,6 +240,7 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

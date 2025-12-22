@@ -234,6 +234,7 @@ class _VerbGameScreenState extends State<VerbGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

@@ -233,6 +233,7 @@ class _BeVerbGameScreenState extends State<BeVerbGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

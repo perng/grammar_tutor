@@ -279,6 +279,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
       _errorCount = error;
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     // Save progress

@@ -237,6 +237,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
       _errorCount = error;
       _scorePercentage = percentage;
       _showResults = true;
+      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();

@@ -76,17 +76,48 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
-  void _handleCategoryClick(String category) {
+  void _handleCategoryClick(String category) async {
+    final prefs = await SharedPreferences.getInstance();
+    String? requiredPath = prefs.getString('usage_last_path_$category');
+
+    // If no history for this category, default to first item
+    if (requiredPath == null) {
+      if (menuItems[category] != null && menuItems[category]!.isNotEmpty) {
+        requiredPath = menuItems[category]!.first.path;
+      }
+    }
+
     setState(() {
       _activeCategory = category;
     });
+
+    if (requiredPath != null && mounted) {
+      context.go(requiredPath); // Navigate to the menu screen of the game
+    }
   }
 
   void _handleSubMenuClick(MenuItem item) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(_prefKey, item.title);
+
+    // Save this path as the last visited for its category
+    String? category;
+    for (var entry in menuItems.entries) {
+      if (entry.value.any((i) => i.path == item.path)) {
+        category = entry.key;
+        break;
+      }
+    }
+    if (category != null) {
+      await prefs.setString('usage_last_path_$category', item.path);
+    }
+
+    // Navigate to last played level or first level
+    final String lastPlayedKey = 'last_played_index_${item.path}';
+    final int lastIndex = prefs.getInt(lastPlayedKey) ?? 0;
+
     if (mounted) {
-      context.go(item.path);
+      context.go('${item.path}/$lastIndex');
     }
   }
 
@@ -173,7 +204,9 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: menuItems[_activeCategory]!.map((item) {
-                              final isActive = location == item.path;
+                              final isActive =
+                                  location == item.path ||
+                                  location.startsWith('${item.path}/');
                               return Padding(
                                 padding: const EdgeInsets.symmetric(
                                   horizontal: 6.0,

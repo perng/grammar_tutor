@@ -68,6 +68,17 @@ class _PronounGameScreenState extends State<PronounGameScreen> {
       duration: const Duration(seconds: 2),
     );
     _loadLevel();
+    _saveLastPlayed();
+  }
+
+  Future<void> _saveLastPlayed() async {
+    if (widget.routePrefix.isNotEmpty) {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt(
+        'last_played_index_${widget.routePrefix}',
+        widget.levelIndex,
+      );
+    }
   }
 
   @override

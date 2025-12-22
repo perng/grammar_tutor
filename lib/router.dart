@@ -28,6 +28,16 @@ final router = GoRouter(
             routePrefix: '/singular-plural',
             progressKeyPrefix: 'singular-plural',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return SingularPluralGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/article-game',
@@ -37,6 +47,16 @@ final router = GoRouter(
             routePrefix: '/article-game',
             progressKeyPrefix: 'article-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return ArticleGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/an-a-the',
@@ -46,6 +66,16 @@ final router = GoRouter(
             routePrefix: '/an-a-the',
             progressKeyPrefix: 'an-a-the',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return AnATheGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/verb-game',
@@ -55,6 +85,19 @@ final router = GoRouter(
             routePrefix: '/verb-game',
             progressKeyPrefix: 'verb-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return VerbGameScreen(
+                  levelIndex: levelIndex,
+                  routePrefix: '/verb-game',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/be-verb-game',
@@ -64,6 +107,16 @@ final router = GoRouter(
             routePrefix: '/be-verb-game',
             progressKeyPrefix: 'be-verb-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return BeVerbGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/question-game',
@@ -73,6 +126,19 @@ final router = GoRouter(
             routePrefix: '/question-game',
             progressKeyPrefix: 'question-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return QuestionGameScreen(
+                  levelIndex: levelIndex,
+                  routePrefix: '/question-game',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/preposition-game',
@@ -82,6 +148,16 @@ final router = GoRouter(
             routePrefix: '/preposition-game',
             progressKeyPrefix: 'preposition-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return PrepositionGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/pronoun-game',
@@ -91,6 +167,16 @@ final router = GoRouter(
             routePrefix: '/pronoun-game',
             progressKeyPrefix: 'pronoun-game',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return PronounGameScreen(levelIndex: levelIndex);
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/present-perfect',
@@ -100,6 +186,20 @@ final router = GoRouter(
             routePrefix: '/present-perfect',
             progressKeyPrefix: 'present_perfect',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/present_perfect.json',
+                  routePrefix: '/present-perfect',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/conditionals',
@@ -109,6 +209,20 @@ final router = GoRouter(
             routePrefix: '/conditionals',
             progressKeyPrefix: 'conditionals',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/conditionals.json',
+                  routePrefix: '/conditionals',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/modals',
@@ -118,6 +232,20 @@ final router = GoRouter(
             routePrefix: '/modals',
             progressKeyPrefix: 'modals',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/modals.json',
+                  routePrefix: '/modals',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/gerunds-infinitives',
@@ -127,6 +255,20 @@ final router = GoRouter(
             routePrefix: '/gerunds-infinitives',
             progressKeyPrefix: 'gerunds_infinitives',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/gerunds_infinitives.json',
+                  routePrefix: '/gerunds-infinitives',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/phrasal-verbs',
@@ -136,6 +278,20 @@ final router = GoRouter(
             routePrefix: '/phrasal-verbs',
             progressKeyPrefix: 'phrasal_verbs',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/phrasal_verbs.json',
+                  routePrefix: '/phrasal-verbs',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/passive-voice',
@@ -145,6 +301,20 @@ final router = GoRouter(
             routePrefix: '/passive-voice',
             progressKeyPrefix: 'passive_voice',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/passive_voice.json',
+                  routePrefix: '/passive-voice',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/relative-clauses',
@@ -154,6 +324,20 @@ final router = GoRouter(
             routePrefix: '/relative-clauses',
             progressKeyPrefix: 'relative_clauses',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/relative_clauses.json',
+                  routePrefix: '/relative-clauses',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/transitive-intransitive',
@@ -163,6 +347,20 @@ final router = GoRouter(
             routePrefix: '/transitive-intransitive',
             progressKeyPrefix: 'transitive_intransitive',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/transitive_intransitive.json',
+                  routePrefix: '/transitive-intransitive',
+                );
+              },
+            ),
+          ],
         ),
         GoRoute(
           path: '/countable-uncountable',
@@ -172,187 +370,22 @@ final router = GoRouter(
             routePrefix: '/countable-uncountable',
             progressKeyPrefix: 'countable_uncountable',
           ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/countable_uncountable.json',
+                  routePrefix: '/countable-uncountable',
+                );
+              },
+            ),
+          ],
         ),
       ],
-    ),
-    // Full screen game routes
-    GoRoute(
-      path: '/singular-plural/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return SingularPluralGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/article-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return ArticleGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/an-a-the/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return AnATheGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/verb-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return VerbGameScreen(
-          levelIndex: levelIndex,
-          routePrefix: '/verb-game',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/be-verb-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return BeVerbGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/question-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return QuestionGameScreen(
-          levelIndex: levelIndex,
-          routePrefix: '/question-game',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/preposition-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return PrepositionGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/pronoun-game/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return PronounGameScreen(levelIndex: levelIndex);
-      },
-    ),
-    GoRoute(
-      path: '/present-perfect/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/present_perfect.json',
-          routePrefix: '/present-perfect',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/conditionals/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/conditionals.json',
-          routePrefix: '/conditionals',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/modals/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/modals.json',
-          routePrefix: '/modals',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/gerunds-infinitives/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/gerunds_infinitives.json',
-          routePrefix: '/gerunds-infinitives',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/phrasal-verbs/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/phrasal_verbs.json',
-          routePrefix: '/phrasal-verbs',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/passive-voice/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/passive_voice.json',
-          routePrefix: '/passive-voice',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/relative-clauses/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/relative_clauses.json',
-          routePrefix: '/relative-clauses',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/transitive-intransitive/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/transitive_intransitive.json',
-          routePrefix: '/transitive-intransitive',
-        );
-      },
-    ),
-    GoRoute(
-      path: '/countable-uncountable/:levelId',
-      builder: (context, state) {
-        final levelIdStr = state.pathParameters['levelId']!;
-        final int levelIndex = int.tryParse(levelIdStr) ?? 0;
-        return GenericGameScreen(
-          levelIndex: levelIndex,
-          assetPath: 'assets/data/countable_uncountable.json',
-          routePrefix: '/countable-uncountable',
-        );
-      },
     ),
     // ... add other game play routes later
   ],

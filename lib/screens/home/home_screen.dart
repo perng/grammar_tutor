@@ -9,23 +9,24 @@ class MenuItem {
 }
 
 const Map<String, List<MenuItem>> menuItems = {
-  '基礎文法': [
+  '冠詞': [MenuItem('定冠詞', '/article-game'), MenuItem('所有冠詞', '/an-a-the')],
+  '名詞與代名詞': [
     MenuItem('單複數', '/singular-plural'),
-    MenuItem('定冠詞', '/article-game'),
-    MenuItem('所有冠詞', '/an-a-the'),
     MenuItem('代名詞陰陽性', '/pronoun-game'),
-    MenuItem('Be動詞', '/be-verb-game'),
-    MenuItem('介系詞', '/preposition-game'),
     MenuItem('可數與不可數', '/countable-uncountable'),
   ],
-  '動詞與時態': [
-    MenuItem('動詞時態', '/verb-game'),
-    MenuItem('現在完成式', '/present-perfect'),
+  '介係詞': [MenuItem('介系詞', '/preposition-game')],
+  '動詞': [
+    MenuItem('Be動詞', '/be-verb-game'),
+    MenuItem('及物與不及物', '/transitive-intransitive'),
     MenuItem('語氣助動詞', '/modals'),
     MenuItem('不定詞與動名詞', '/gerunds-infinitives'),
     MenuItem('片語動詞', '/phrasal-verbs'),
+  ],
+  '時態': [
+    MenuItem('動詞時態', '/verb-game'),
+    MenuItem('現在完成式', '/present-perfect'),
     MenuItem('被動語態', '/passive-voice'),
-    MenuItem('及物與不及物', '/transitive-intransitive'),
   ],
   '句型與結構': [
     MenuItem('疑問句', '/question-game'),
@@ -55,7 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<void> _loadLastVisited() async {
     final prefs = await SharedPreferences.getInstance();
     final lastVisited = prefs.getString(_prefKey);
-    String initialCategory = '基礎文法';
+    String initialCategory = '冠詞';
 
     if (lastVisited != null) {
       // Find category for last visited title
@@ -105,7 +106,7 @@ class _HomeScreenState extends State<HomeScreen> {
           break;
         }
       }
-      _activeCategory ??= '基礎文法';
+      _activeCategory ??= '冠詞';
     }
 
     return Scaffold(

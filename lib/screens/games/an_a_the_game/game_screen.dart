@@ -6,6 +6,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
+import 'package:provider/provider.dart';
+import '../../../providers/locale_provider.dart';
 
 class AnATheWord {
   final String text;
@@ -66,9 +68,6 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
   StoryLevel? _story;
   int _totalLevels = 0;
   late ConfettiController _confettiController;
-
-  // Explanation
-  String? _currentExplanationLanguage;
 
   static const Set<String> _namesLower = {
     'annie',
@@ -263,7 +262,6 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
     setState(() {
       _scorePercentage = percentage;
       _showResults = true;
-      _currentExplanationLanguage = 'zh-TW';
     });
 
     final prefs = await SharedPreferences.getInstance();
@@ -281,7 +279,6 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
     setState(() {
       _showResults = false;
       _playerSelections = {};
-      _currentExplanationLanguage = null;
     });
   }
 
@@ -297,6 +294,21 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
     }
     if (_story == null) {
       return const Scaffold(body: Center(child: Text("Level not found")));
+    }
+
+    final locale = Provider.of<LocaleProvider>(context).locale;
+    String explanationContent = '';
+
+    if (locale.languageCode == 'zh') {
+      if (locale.countryCode == 'CN' || locale.scriptCode == 'Hans') {
+        explanationContent = _story!.explanationZhCn.isNotEmpty
+            ? _story!.explanationZhCn
+            : _story!.explanationZhTw;
+      } else {
+        explanationContent = _story!.explanationZhTw;
+      }
+    } else {
+      explanationContent = _story!.explanationEnUs;
     }
 
     return Scaffold(
@@ -459,13 +471,10 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                         }).toList(),
                       ),
                       // Explanation area if results shown
-                      if (_showResults &&
-                          _currentExplanationLanguage != null) ...[
+                      if (_showResults) ...[
                         const SizedBox(height: 32),
                         MarkdownBody(
-                          data: _currentExplanationLanguage == 'en-US'
-                              ? _story!.explanationEnUs
-                              : _story!.explanationZhTw,
+                          data: explanationContent,
                           selectable: true,
                         ),
                         // Bottom padding for sticky bar
@@ -528,37 +537,6 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                                   child: const Text('Next Level'),
                                 ),
                               ),
-                          ],
-                        ),
-                        const SizedBox(height: 8),
-                        Row(
-                          children: [
-                            Expanded(
-                              child: TextButton(
-                                onPressed: () {
-                                  setState(() {
-                                    _currentExplanationLanguage =
-                                        (_currentExplanationLanguage == 'en-US')
-                                        ? null
-                                        : 'en-US';
-                                  });
-                                },
-                                child: const Text('English Explanation'),
-                              ),
-                            ),
-                            Expanded(
-                              child: TextButton(
-                                onPressed: () {
-                                  setState(() {
-                                    _currentExplanationLanguage =
-                                        (_currentExplanationLanguage == 'zh-TW')
-                                        ? null
-                                        : 'zh-TW';
-                                  });
-                                },
-                                child: const Text('中文解說'),
-                              ),
-                            ),
                           ],
                         ),
                       ] else ...[

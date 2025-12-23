@@ -44,8 +44,7 @@ class AppLocalizations {
       'try_again': 'Try Again',
       'next_level': 'Next Level',
       'check_answers': 'Check Answers',
-      'english_explanation': 'English Explanation',
-      'chinese_explanation': 'Chinese Explanation',
+
       'score': 'Score',
     },
     'zh_CN': {
@@ -78,8 +77,7 @@ class AppLocalizations {
       'try_again': '重试',
       'next_level': '下一关',
       'check_answers': '检查答案',
-      'english_explanation': '英文解说',
-      'chinese_explanation': '中文解说',
+
       'score': '分数',
     },
     'zh_TW': {
@@ -112,8 +110,7 @@ class AppLocalizations {
       'try_again': '重試',
       'next_level': '下一關',
       'check_answers': '檢查答案',
-      'english_explanation': '英文解說',
-      'chinese_explanation': '中文解說',
+
       'score': '分數',
     },
   };

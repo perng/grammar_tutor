@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:provider/provider.dart';
+import 'dart:convert';
+import 'package:flutter/services.dart';
 import '../../l10n/app_localizations.dart';
 import '../../providers/locale_provider.dart';
 
@@ -52,11 +54,103 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   String? _activeCategoryKey;
   final String _prefKey = 'lastVisitedMenuKey';
+  Map<String, double> _gameCompletion = {};
+
+  final Map<String, String> _itemPathToAsset = {
+    '/singular-plural': 'assets/data/singular.json',
+    '/article-game': 'assets/data/articles.json',
+    '/an-a-the': 'assets/data/fruits.json',
+    '/verb-game': 'assets/data/verbs.json',
+    '/be-verb-game': 'assets/data/be_verb_adjectives.json',
+    '/question-game': 'assets/data/question_formation.json',
+    '/preposition-game': 'assets/data/prepositions.json',
+    '/pronoun-game': 'assets/data/pronouns.json',
+    '/present-perfect': 'assets/data/present_perfect.json',
+    '/conditionals': 'assets/data/conditionals.json',
+    '/modals': 'assets/data/modals.json',
+    '/gerunds-infinitives': 'assets/data/gerunds_infinitives.json',
+    '/phrasal-verbs': 'assets/data/phrasal_verbs.json',
+    '/passive-voice': 'assets/data/passive_voice.json',
+    '/relative-clauses': 'assets/data/relative_clauses.json',
+    '/transitive-intransitive': 'assets/data/transitive_intransitive.json',
+    '/countable-uncountable': 'assets/data/countable_uncountable.json',
+  };
 
   @override
   void initState() {
     super.initState();
     _loadLastVisited();
+    _calculateGameProgress();
+  }
+
+  Future<void> _calculateGameProgress() async {
+    final prefs = await SharedPreferences.getInstance();
+    final Map<String, double> newCompletion = {};
+
+    for (var entry in _itemPathToAsset.entries) {
+      String routerPath = entry.key;
+      String assetPath = entry.value;
+
+      try {
+        final String response = await rootBundle.loadString(assetPath);
+        final List<dynamic> data = json.decode(response);
+        int totalLevels = data.length;
+        if (totalLevels == 0) {
+          newCompletion[routerPath] = 0.0;
+          continue;
+        }
+
+        String keyBase = assetPath
+            .replaceAll('assets/data/', '')
+            .replaceAll('.json', '');
+
+        double totalScore = 0;
+
+        for (int i = 0; i < totalLevels; i++) {
+          final String key = '$keyBase-$i';
+          final String? val = prefs.getString(key);
+          if (val != null) {
+            int score = int.tryParse(val) ?? 0;
+            totalScore += score;
+          }
+        }
+
+        newCompletion[routerPath] = totalScore / (totalLevels * 100.0);
+      } catch (e) {
+        debugPrint("Error loading progress for $routerPath: $e");
+        newCompletion[routerPath] = 0.0;
+      }
+    }
+
+    // Calculate progress for each category
+    for (var entry in menuItemsConfig.entries) {
+      String categoryKey = entry.key;
+      List<MenuItem> items = entry.value;
+      if (items.isEmpty) {
+        newCompletion[categoryKey] = 0.0;
+        continue;
+      }
+
+      double totalCategoryProgress = 0.0;
+      int gameCount = 0;
+
+      for (var item in items) {
+        totalCategoryProgress += newCompletion[item.path] ?? 0.0;
+        gameCount++;
+      }
+
+      if (gameCount > 0) {
+        newCompletion[categoryKey] = totalCategoryProgress / gameCount;
+      } else {
+        newCompletion[categoryKey] = 0.0;
+      }
+    }
+
+    if (mounted) {
+      setState(() {
+        _gameCompletion = newCompletion;
+      });
+    }
   }
 
   Future<void> _loadLastVisited() async {
@@ -124,6 +218,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
     if (mounted) {
       context.go('${item.path}/$lastIndex');
+      // Re-calculate progress after small delay to catch updates
+      Future.delayed(const Duration(seconds: 1), _calculateGameProgress);
     }
   }
 
@@ -230,6 +326,8 @@ class _HomeScreenState extends State<HomeScreen> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: menuItemsConfig.keys.map((categoryKey) {
                             final isActive = _activeCategoryKey == categoryKey;
+                            final completion =
+                                _gameCompletion[categoryKey] ?? 0.0;
                             return Padding(
                               padding: const EdgeInsets.symmetric(
                                 horizontal: 8.0,
@@ -251,7 +349,25 @@ class _HomeScreenState extends State<HomeScreen> {
                                 child: Column(
                                   mainAxisSize: MainAxisSize.min,
                                   children: [
-                                    Text(loc.get(categoryKey)),
+                                    Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        Text(loc.get(categoryKey)),
+                                        if (completion > 0) ...[
+                                          const SizedBox(width: 6),
+                                          CustomPaint(
+                                            size: const Size(12, 12),
+                                            painter: PieChartPainter(
+                                              percentage: completion,
+                                              color: isActive
+                                                  ? Colors.black
+                                                  : Colors.grey,
+                                              bgColor: Colors.grey.shade300,
+                                            ),
+                                          ),
+                                        ],
+                                      ],
+                                    ),
                                     if (isActive)
                                       Container(
                                         height: 2,
@@ -279,6 +395,9 @@ class _HomeScreenState extends State<HomeScreen> {
                               final isActive =
                                   location == item.path ||
                                   location.startsWith('${item.path}/');
+                              final completion =
+                                  _gameCompletion[item.path] ?? 0.0;
+
                               return Padding(
                                 padding: const EdgeInsets.symmetric(
                                   horizontal: 6.0,
@@ -299,14 +418,31 @@ class _HomeScreenState extends State<HomeScreen> {
                                             ),
                                           )
                                         : null,
-                                    child: Text(
-                                      loc.get(item.titleKey),
-                                      style: TextStyle(
-                                        fontSize: 15,
-                                        color: isActive
-                                            ? Colors.black
-                                            : Colors.grey.shade700,
-                                      ),
+                                    child: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        Text(
+                                          loc.get(item.titleKey),
+                                          style: TextStyle(
+                                            fontSize: 15,
+                                            color: isActive
+                                                ? Colors.black
+                                                : Colors.grey.shade700,
+                                          ),
+                                        ),
+                                        const SizedBox(width: 8),
+                                        // Tiny Pie Chart
+                                        CustomPaint(
+                                          size: const Size(12, 12),
+                                          painter: PieChartPainter(
+                                            percentage: completion,
+                                            color: isActive
+                                                ? Colors.blue.shade700
+                                                : Colors.grey.shade500,
+                                            bgColor: Colors.grey.shade300,
+                                          ),
+                                        ),
+                                      ],
                                     ),
                                   ),
                                 ),
@@ -325,5 +461,49 @@ class _HomeScreenState extends State<HomeScreen> {
         body: widget.child,
       ),
     );
+  }
+}
+
+class PieChartPainter extends CustomPainter {
+  final double percentage;
+  final Color color;
+  final Color bgColor;
+
+  PieChartPainter({
+    required this.percentage,
+    required this.color,
+    required this.bgColor,
+  });
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final center = Offset(size.width / 2, size.height / 2);
+    final radius = size.width / 2;
+
+    // Background circle
+    final bgPaint = Paint()..color = bgColor;
+    canvas.drawCircle(center, radius, bgPaint);
+
+    // Foreground pie
+    if (percentage > 0) {
+      final fgPaint = Paint()
+        ..color = color
+        ..style = PaintingStyle.fill;
+
+      canvas.drawArc(
+        Rect.fromCircle(center: center, radius: radius),
+        -3.14159 / 2, // Start at -90 degrees (12 o'clock)
+        2 * 3.14159 * percentage,
+        true, // Use center for pie slice
+        fgPaint,
+      );
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant PieChartPainter oldDelegate) {
+    return oldDelegate.percentage != percentage ||
+        oldDelegate.color != color ||
+        oldDelegate.bgColor != bgColor;
   }
 }

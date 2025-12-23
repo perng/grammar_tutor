@@ -27,6 +27,7 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
   List<StoryLevel> _levels = [];
   Map<String, double> _progressMap = {};
   bool _isLoading = true;
+  double _averageProgress = 0.0;
 
   @override
   void initState() {
@@ -42,27 +43,22 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
 
       final prefs = await SharedPreferences.getInstance();
       final Map<String, double> progress = {};
+      double totalScore = 0.0;
 
       for (int i = 0; i < levels.length; i++) {
-        // Some React code used index as ID for progress?
-        // SingularPlural uses `singular-plural-{id}` but wait, the React code said:
-        // `getCookieKey = (id: string | number) => singular-plural-${id}` in Game/index.tsx
-        // AND `const id = parseInt(levelId ?? '0')`.
-        // BUT the levels.json has "id": "dragon", "goblin" etc.
-        // Wait, React code: `currentStory = articles[parseInt(levelId)]`.
-        // So the Route param `levelId` is an INDEX (0, 1, 2).
-        // The persistence key is `singular-plural-${index}`.
-
         final String key = '${widget.progressKeyPrefix}-$i';
         final String? val = prefs.getString(key);
-        progress[i.toString()] = val != null
-            ? (double.tryParse(val) ?? 0.0)
-            : 0.0;
+        double valDouble = val != null ? (double.tryParse(val) ?? 0.0) : 0.0;
+        progress[i.toString()] = valDouble;
+        totalScore += valDouble;
       }
+
+      double avg = levels.isNotEmpty ? totalScore / levels.length : 0.0;
 
       setState(() {
         _levels = levels;
         _progressMap = progress;
+        _averageProgress = avg;
         _isLoading = false;
       });
     } catch (e) {
@@ -79,8 +75,13 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
       return const Center(child: CircularProgressIndicator());
     }
 
+    String titleToDisplay = widget.title;
+    if (_averageProgress > 0) {
+      titleToDisplay += ' (${_averageProgress.toStringAsFixed(1)}%)';
+    }
+
     return Scaffold(
-      appBar: AppBar(title: Text(widget.title)),
+      appBar: AppBar(title: Text(titleToDisplay)),
       body: ListView.separated(
         padding: const EdgeInsets.all(16),
         itemCount: _levels.length,
@@ -143,12 +144,27 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(
-                          level.title,
-                          style: const TextStyle(
-                            fontSize: 16,
-                            fontWeight: FontWeight.w600,
-                          ),
+                        Row(
+                          children: [
+                            Text(
+                              level.title,
+                              style: const TextStyle(
+                                fontSize: 16,
+                                fontWeight: FontWeight.w600,
+                              ),
+                            ),
+                            if (progress > 0) ...[
+                              const SizedBox(width: 8),
+                              Text(
+                                '(${progress.toStringAsFixed(1)}%)',
+                                style: TextStyle(
+                                  fontSize: 14,
+                                  color: Colors.grey.shade600,
+                                  fontWeight: FontWeight.w500,
+                                ),
+                              ),
+                            ],
+                          ],
                         ),
                         const SizedBox(height: 8),
                         ClipRRect(

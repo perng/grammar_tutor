@@ -83,6 +83,13 @@ class _HomeScreenState extends State<HomeScreen> {
     _calculateGameProgress();
   }
 
+  @override
+  void didUpdateWidget(covariant HomeScreen oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    // Recalculate progress whenever the route (and thus the child) changes
+    _calculateGameProgress();
+  }
+
   Future<void> _calculateGameProgress() async {
     final prefs = await SharedPreferences.getInstance();
     final Map<String, double> newCompletion = {};
@@ -305,55 +312,42 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   child: Column(
                     children: [
-                      // Header Row
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Expanded(
-                            child: Container(),
-                          ), // Spacer to center categories roughly if needed, or just push settings to right
-                          IconButton(
-                            icon: const Icon(Icons.settings),
-                            onPressed: _showLanguageDialog,
-                            tooltip: loc.settings,
-                          ),
-                        ],
-                      ),
                       // Categories
                       SingleChildScrollView(
                         scrollDirection: Axis.horizontal,
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
-                          children: menuItemsConfig.keys.map((categoryKey) {
-                            final isActive = _activeCategoryKey == categoryKey;
-                            final completion =
-                                _gameCompletion[categoryKey] ?? 0.0;
-                            return Padding(
-                              padding: const EdgeInsets.symmetric(
-                                horizontal: 8.0,
-                              ),
-                              child: TextButton(
-                                onPressed: () =>
-                                    _handleCategoryClick(categoryKey),
-                                style: TextButton.styleFrom(
-                                  foregroundColor: isActive
-                                      ? Colors.black
-                                      : Colors.grey,
-                                  textStyle: TextStyle(
-                                    fontSize: 18,
-                                    fontWeight: isActive
-                                        ? FontWeight.bold
-                                        : FontWeight.normal,
-                                  ),
+                          children: [
+                            ...menuItemsConfig.keys.map((categoryKey) {
+                              final isActive =
+                                  _activeCategoryKey == categoryKey;
+                              final completion =
+                                  _gameCompletion[categoryKey] ?? 0.0;
+                              return Padding(
+                                padding: const EdgeInsets.symmetric(
+                                  horizontal: 8.0,
                                 ),
-                                child: Column(
-                                  mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    Row(
-                                      mainAxisSize: MainAxisSize.min,
-                                      children: [
-                                        Text(loc.get(categoryKey)),
-                                        if (completion > 0) ...[
+                                child: TextButton(
+                                  onPressed: () =>
+                                      _handleCategoryClick(categoryKey),
+                                  style: TextButton.styleFrom(
+                                    foregroundColor: isActive
+                                        ? Colors.black
+                                        : Colors.grey,
+                                    textStyle: TextStyle(
+                                      fontSize: 18,
+                                      fontWeight: isActive
+                                          ? FontWeight.bold
+                                          : FontWeight.normal,
+                                    ),
+                                  ),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: [
+                                      Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          Text(loc.get(categoryKey)),
                                           const SizedBox(width: 6),
                                           CustomPaint(
                                             size: const Size(12, 12),
@@ -366,20 +360,30 @@ class _HomeScreenState extends State<HomeScreen> {
                                             ),
                                           ),
                                         ],
-                                      ],
-                                    ),
-                                    if (isActive)
-                                      Container(
-                                        height: 2,
-                                        width: 40,
-                                        color: Colors.black,
-                                        margin: const EdgeInsets.only(top: 4),
                                       ),
-                                  ],
+                                      if (isActive)
+                                        Container(
+                                          height: 2,
+                                          width: 40,
+                                          color: Colors.black,
+                                          margin: const EdgeInsets.only(top: 4),
+                                        ),
+                                    ],
+                                  ),
                                 ),
+                              );
+                            }),
+                            Padding(
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: 8.0,
                               ),
-                            );
-                          }).toList(),
+                              child: IconButton(
+                                icon: const Icon(Icons.settings),
+                                onPressed: _showLanguageDialog,
+                                tooltip: loc.settings,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                       const SizedBox(height: 12),

@@ -4,104 +4,119 @@
         "id": "lost-keys",
         "content": "I [have lost|lost|lose|losing] my keys. I cannot get in the house now. Yesterday, I [lost|have lost|lose|losing] my umbrella, but I found it later. I [have visited|visited|visit|visiting] Japan twice in my life. Last year, I [visited|have visited|visit|visiting] Tokyo. I [have lived|lived|live|living] here for ten years. Before that, I [lived|have lived|live|living] in London for two years. He [has finished|finished|finish|finishing] his homework just now. He [finished|has finished|finish|finishing] it an hour ago.",
         "explanation-zh-TW": "# 🔑 遺失的鑰匙 (現在完成式 vs 過去式)\n\n分辨 **Present Perfect** (現在完成式) 和 **Past Simple** (過去簡單式) 的關鍵在於：\n1. 動作是否對「現在」有影響？\n2. 時間是否是「明確的過去」 (如 yesterday, last year)？\n\n1. **[have lost]**：鑰匙不見了，現在還沒找到 (影響現在)。\n2. **[lost]**：昨天發生的事 (Yesterday)，已經結束。\n3. **[have visited]**：人生經驗，時間不明確 (in my life)。\n4. **[visited]**：去年發生的事 (Last year)。\n5. **[have lived]**：從過去持續到現在 (for ten years)，還住在這裡。\n6. **[lived]**：以前住在倫敦，現在不住了 (Before that)。\n7. **[has finished]**：剛剛完成 (just now)，強調完成的狀態。\n8. **[finished]**：一小時前完成 (an hour ago)，明確的過去時間。",
-        "explanation-en-US": "# 🔑 Lost Keys (Present Perfect vs. Past Simple)\n\nThe key to distinguishing them is:\n1. Does it affect 'now'?\n2. Is the time 'finished' (yesterday, last year)?\n\n1. **[have lost]**: Keys are still lost now. (Present relevance)\n2. **[lost]**: happened Yesterday (Finished time).\n3. **[have visited]**: Life experience (Unfinished time frame).\n4. **[visited]**: happened Last year (Finished time).\n5. **[have lived]**: Started in past, continues now.\n6. **[lived]**: Lived in past, not anymore.\n7. **[has finished]**: Just finished (Connection to now).\n8. **[finished]**: An hour ago (Finished time)."
+        "explanation-en-US": "# 🔑 Lost Keys (Present Perfect vs. Past Simple)\n\nThe key to distinguishing them is:\n1. Does it affect 'now'?\n2. Is the time 'finished' (yesterday, last year)?\n\n1. **[have lost]**: Keys are still lost now. (Present relevance)\n2. **[lost]**: happened Yesterday (Finished time).\n3. **[have visited]**: Life experience (Unfinished time frame).\n4. **[visited]**: happened Last year (Finished time).\n5. **[have lived]**: Started in past, continues now.\n6. **[lived]**: Lived in past, not anymore.\n7. **[has finished]**: Just finished (Connection to now).\n8. **[finished]**: An hour ago (Finished time).",
+        "explanation-zh-CN": "# 🔑 遗失的钥匙 (现在完成式 vs 过去式)\n\n分辨 **Present Perfect** (现在完成式) 和 **Past Simple** (过去简单式) 的关鍵在於：\n1. 动作是否对「现在」有影響？\n2. 时间是否是「明确的过去」 (如 yesterday, last year)？\n\n1. **[have lost]**：钥匙不见了，现在還没找到 (影響现在)。\n2. **[lost]**：昨天發生的事 (Yesterday)，已經結束。\n3. **[have visited]**：人生經验，时间不明确 (in my life)。\n4. **[visited]**：去年發生的事 (Last year)。\n5. **[have lived]**：從过去持續到现在 (for ten years)，還住在这裡。\n6. **[lived]**：以前住在伦敦，现在不住了 (Before that)。\n7. **[has finished]**：剛剛完成 (just now)，强調完成的状态。\n8. **[finished]**：一小时前完成 (an hour ago)，明确的过去时间。"
     },
     {
         "id": "pp2",
         "title": "Food Experience",
         "content": "I [have eaten|ate] sushi before. She [has tried|tried] spicy food. We [have tasted|tasted] durian. They [have cooked|cooked] dinner.",
         "explanation-zh-TW": "Experience (經驗) use Present Perfect.",
-        "explanation-en-US": "Experience use Present Perfect."
+        "explanation-en-US": "Experience use Present Perfect.",
+        "explanation-zh-CN": "Experience (經验) use Present Perfect."
     },
     {
         "id": "pp3",
         "title": "Travel Logs",
         "content": "He [has been|was] to Paris. I [have visited|visited] Rome. We [have traveled|traveled] significantly. She [has flown|flew] in a helicopter.",
         "explanation-zh-TW": "Travel experience without time: Present Perfect.",
-        "explanation-en-US": "Travel experience."
+        "explanation-en-US": "Travel experience.",
+        "explanation-zh-CN": "Travel experience without time: Present Perfect."
     },
     {
         "id": "pp4",
         "title": "Just Done",
         "content": "I [have just finished|finished just] my work. She [has just left|left just]. We [have just arrived|arrived just]. They [have just eaten|ate just].",
         "explanation-zh-TW": "Just (剛剛) + Present Perfect.",
-        "explanation-en-US": "Just + Present Perfect."
+        "explanation-en-US": "Just + Present Perfect.",
+        "explanation-zh-CN": "Just (剛剛) + Present Perfect."
     },
     {
         "id": "pp5",
         "title": "Never Ever",
         "content": "[Have you ever|Did you ever] seen a ghost? I [have never|did never] been there. She [has never|never] eaten snake. [Has he ever|Did he ever] called you?",
         "explanation-zh-TW": "Ever/Never with experiences.",
-        "explanation-en-US": "Ever/Never."
+        "explanation-en-US": "Ever/Never.",
+        "explanation-zh-CN": "Ever/Never with experiences."
     },
     {
         "id": "pp6",
         "title": "Since 2010",
         "content": "I [have lived|lived] here since 2010. She [has worked|worked] here since May. We [have known|knew] him since childhood. He [has been|was] sick since Monday.",
         "explanation-zh-TW": "Since + starting point.",
-        "explanation-en-US": "Since + time point."
+        "explanation-en-US": "Since + time point.",
+        "explanation-zh-CN": "Since + starting point."
     },
     {
         "id": "pp7",
         "title": "For Ten Years",
         "content": "I [have waited|waited] for 2 hours. She [has studied|studied] for 5 years. They [have been|were] married for a long time. He [has played|played] for 30 minutes.",
         "explanation-zh-TW": "For + duration.",
-        "explanation-en-US": "For + duration."
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
     },
     {
         "id": "pp8",
         "title": "Already and Yet",
         "content": "I [have already|already] done it. [Have you finished|Did you finish] yet? She [has not come|didn't come] yet. We [have already|already] seen it.",
         "explanation-zh-TW": "Already/Yet usage.",
-        "explanation-en-US": "Already/Yet usage."
+        "explanation-en-US": "Already/Yet usage.",
+        "explanation-zh-CN": "Already/Yet usage."
     },
     {
         "id": "pp9",
         "title": "How Long?",
         "content": "[How long have you lived|How long did you live] here? (still living). [How long has she known|How long did she know] him? [How long have they been|How long were they] married?",
         "explanation-zh-TW": "How long with Present Perfect for continuing state.",
-        "explanation-en-US": "Continuing state."
+        "explanation-en-US": "Continuing state.",
+        "explanation-zh-CN": "How long with Present Perfect for continuing state."
     },
     {
         "id": "pp10",
         "title": "Accomplishments",
         "content": "Man [has walked|walked] on the moon. Science [has cured|cured] many diseases. We [have built|built] tall towers. Technology [has changed|changed] our lives.",
         "explanation-zh-TW": "Impact on humanity (Present Perfect).",
-        "explanation-en-US": "Accomplishments."
+        "explanation-en-US": "Accomplishments.",
+        "explanation-zh-CN": "Impact on humanity (Present Perfect)."
     },
     {
         "id": "pp11",
         "title": "Recent Changes",
         "content": "The price [has gone|went] up. The weather [has become|became] cold. She [has grown|grew] taller. My phone [has broken|broke].",
         "explanation-zh-TW": "Change leading to now.",
-        "explanation-en-US": "Change leading to now."
+        "explanation-en-US": "Change leading to now.",
+        "explanation-zh-CN": "Change leading to now."
     },
     {
         "id": "pp12",
         "title": "Multiple Times",
         "content": "I [have seen|saw] this movie three times. She [has called|called] twice. We [have been|were] there many times. He [has read|read] it often.",
         "explanation-zh-TW": "Repeating actions up to now.",
-        "explanation-en-US": "Repeating actions."
+        "explanation-en-US": "Repeating actions.",
+        "explanation-zh-CN": "Repeating actions up to now."
     },
     {
         "id": "pp13",
         "title": "This Week",
         "content": "I [have worked|worked] hard this week. (Week not over). She [has drunk|drank] two coffees today. We [have not seen|didn't see] him this month.",
         "explanation-zh-TW": "Unfinished time period (Today, This week).",
-        "explanation-en-US": "Unfinished time period."
+        "explanation-en-US": "Unfinished time period.",
+        "explanation-zh-CN": "Unfinished time period (Today, This week)."
     },
     {
         "id": "pp14",
         "title": "Gone vs Been",
         "content": "She [has gone|has been] to Italy (She is there now). I [have been|have gone] to Italy (I am back). He [has gone|has been] out. We [have been|have gone] there before.",
         "explanation-zh-TW": "Gone (去了沒回), Been (去過已回).",
-        "explanation-en-US": "Gone (not here), Been (experience)."
+        "explanation-en-US": "Gone (not here), Been (experience).",
+        "explanation-zh-CN": "Gone (去了没回), Been (去过已回)."
     },
     {
         "id": "pp15",
         "title": "News",
         "content": "The President [has arrived|arrived]. The police [have arrested|arrested] the thief. A new store [has opened|opened]. The team [has won|won].",
         "explanation-zh-TW": "Announcing news.",
-        "explanation-en-US": "Announcing news."
+        "explanation-en-US": "Announcing news.",
+        "explanation-zh-CN": "Announcing news."
     }
 ]

@@ -4,209 +4,239 @@
         "title": "In the Kitchen",
         "content": "I need [some|a] bread and [a|some] banana. How [much|many] water is left? We have [a few|a little] eggs in the fridge. There is too [much|many] salt in the soup. I bought [some|a] milk today.",
         "explanation-zh-TW": "1. **some**: bread 是不可數。\n2. **a**: banana 是可數單數。\n3. **much**: water 是不可數。\n4. **a few**: eggs 是可數複數。\n5. **much**: salt 是不可數。",
-        "explanation-en-US": "1. **some**: bread is uncountable.\n2. **a**: banana is countable singular.\n3. **much**: water is uncountable.\n4. **a few**: eggs is countable plural.\n5. **much**: salt is uncountable."
+        "explanation-en-US": "1. **some**: bread is uncountable.\n2. **a**: banana is countable singular.\n3. **much**: water is uncountable.\n4. **a few**: eggs is countable plural.\n5. **much**: salt is uncountable.",
+        "explanation-zh-CN": "1. **some**: bread 是不可数。\n2. **a**: banana 是可数单数。\n3. **much**: water 是不可数。\n4. **a few**: eggs 是可数复数。\n5. **much**: salt 是不可数。"
     },
     {
         "id": "cu2",
         "title": "Work Space",
         "content": "I don't have [much|many] time. Can you give me [some|a] advice? I have [a few|a little] pens on my desk. There is [a|some] furniture in the room. How [many|much] emails did you send?",
         "explanation-zh-TW": "1. **much**: time 是不可數。\n2. **some**: advice 是不可數。\n3. **a few**: pens 是可數複數。\n4. **some**: furniture 是不可數。\n5. **many**: emails 是可數複數。",
-        "explanation-en-US": "1. **much**: time is uncountable.\n2. **some**: advice is uncountable.\n3. **a few**: pens is countable plural.\n4. **some**: furniture is uncountable.\n5. **many**: emails is countable plural."
+        "explanation-en-US": "1. **much**: time is uncountable.\n2. **some**: advice is uncountable.\n3. **a few**: pens is countable plural.\n4. **some**: furniture is uncountable.\n5. **many**: emails is countable plural.",
+        "explanation-zh-CN": "1. **much**: time 是不可数。\n2. **some**: advice 是不可数。\n3. **a few**: pens 是可数复数。\n4. **some**: furniture 是不可数。\n5. **many**: emails 是可数复数。"
     },
     {
         "id": "cu3",
         "title": "Travel Plans",
         "content": "I have [many|much] luggage to carry. We found [some|a] information online. There were [many|much] tourists at the beach. We spent [a little|a few] money on souvenirs. How [many|much] bags do you have?",
         "explanation-zh-TW": "1. **much**: luggage 是不可數。\n2. **some**: information 是不可數。\n3. **many**: tourists 是可數。\n4. **a little**: money 是不可數。\n5. **many**: bags 是可數。",
-        "explanation-en-US": "1. **much**: luggage is uncountable.\n2. **some**: information is uncountable.\n3. **many**: tourists is countable.\n4. **a little**: money is uncountable.\n5. **many**: bags is countable."
+        "explanation-en-US": "1. **much**: luggage is uncountable.\n2. **some**: information is uncountable.\n3. **many**: tourists is countable.\n4. **a little**: money is uncountable.\n5. **many**: bags is countable.",
+        "explanation-zh-CN": "1. **much**: luggage 是不可数。\n2. **some**: information 是不可数。\n3. **many**: tourists 是可数。\n4. **a little**: money 是不可数。\n5. **many**: bags 是可数。"
     },
     {
         "id": "cu4",
         "title": "Weather and Nature",
         "content": "There is [some|a] rain outside. We saw [a few|a little] birds in the sky. How [much|many] sunshine do we get today? There is [a little|a few] snow on the mountain. [Many|Much] trees were planted here.",
         "explanation-zh-TW": "1. **some**: rain 是不可數。\n2. **a few**: birds 是可數。\n3. **much**: sunshine 是不可數。\n4. **a little**: snow 是不可數。\n5. **Many**: trees 是可數。",
-        "explanation-en-US": "1. **some**: rain is uncountable.\n2. **a few**: birds is countable.\n3. **much**: sunshine is uncountable.\n4. **a little**: snow is uncountable.\n5. **Many**: trees is countable."
+        "explanation-en-US": "1. **some**: rain is uncountable.\n2. **a few**: birds is countable.\n3. **much**: sunshine is uncountable.\n4. **a little**: snow is uncountable.\n5. **Many**: trees is countable.",
+        "explanation-zh-CN": "1. **some**: rain 是不可数。\n2. **a few**: birds 是可数。\n3. **much**: sunshine 是不可数。\n4. **a little**: snow 是不可数。\n5. **Many**: trees 是可数。"
     },
     {
         "id": "cu5",
         "title": "Feelings",
         "content": "He has [much|many] courage. They shared [some|a] laughter. We need [a little|a few] patience. There is [a lot of|many] hope. She has [a few|a little] friends to talk to.",
         "explanation-zh-TW": "1. **much**: courage 是不可數。\n2. **some**: laughter 是不可數。\n3. **a little**: patience 是不可數。\n4. **a lot of**: hope 是不可數。\n5. **a few**: friends 是可數。",
-        "explanation-en-US": "1. **much**: courage is uncountable.\n2. **some**: laughter is uncountable.\n3. **a little**: patience is uncountable.\n4. **a lot of**: hope is uncountable.\n5. **a few**: friends is countable."
+        "explanation-en-US": "1. **much**: courage is uncountable.\n2. **some**: laughter is uncountable.\n3. **a little**: patience is uncountable.\n4. **a lot of**: hope is uncountable.\n5. **a few**: friends is countable.",
+        "explanation-zh-CN": "1. **much**: courage 是不可数。\n2. **some**: laughter 是不可数。\n3. **a little**: patience 是不可数。\n4. **a lot of**: hope 是不可数。\n5. **a few**: friends 是可数。"
     },
     {
         "id": "cu6",
         "title": "Shopping for Clothes",
         "content": "I bought [some|a] clothing today. There are [many|much] shirts in the shop. I spent [a lot of|many] money. How [much|many] luggage can I take? I need [a couple of|a little] belts.",
         "explanation-zh-TW": "1. **some**: clothing 是不可數。\n2. **many**: shirts 是可數。\n3. **a lot of**: money 是不可數。\n4. **much**: luggage 是不可數。\n5. **a couple of**: belts 是可數。",
-        "explanation-en-US": "1. **some**: clothing is uncountable.\n2. **many**: shirts is countable.\n3. **a lot of**: money is uncountable.\n4. **much**: luggage is uncountable.\n5. **a couple of**: belts is countable."
+        "explanation-en-US": "1. **some**: clothing is uncountable.\n2. **many**: shirts is countable.\n3. **a lot of**: money is uncountable.\n4. **much**: luggage is uncountable.\n5. **a couple of**: belts is countable.",
+        "explanation-zh-CN": "1. **some**: clothing 是不可数。\n2. **many**: shirts 是可数。\n3. **a lot of**: money 是不可数。\n4. **much**: luggage 是不可数。\n5. **a couple of**: belts 是可数。"
     },
     {
         "id": "cu7",
         "title": "Health and Food",
         "content": "You should eat [more|a] fruit. Do you want [a|some] apple? There is too [much|many] sugar in soda. I drink [a lot of|many] juice. How [many|much] vitamins do you take?",
         "explanation-zh-TW": "1. **more**: fruit 通常不可數。\n2. **an**: apple 是可數。\n3. **much**: sugar 是不可數。\n4. **a lot of**: juice 是不可數。\n5. **many**: vitamins 是可數。",
-        "explanation-en-US": "1. **more**: fruit is usually uncountable.\n2. **an apple**: countable.\n3. **much**: sugar is uncountable.\n4. **a lot of**: juice is uncountable.\n5. **many**: vitamins is countable."
+        "explanation-en-US": "1. **more**: fruit is usually uncountable.\n2. **an apple**: countable.\n3. **much**: sugar is uncountable.\n4. **a lot of**: juice is uncountable.\n5. **many**: vitamins is countable.",
+        "explanation-zh-CN": "1. **more**: fruit 通常不可数。\n2. **an**: apple 是可数。\n3. **much**: sugar 是不可数。\n4. **a lot of**: juice 是不可数。\n5. **many**: vitamins 是可数。"
     },
     {
         "id": "cu8",
         "title": "Building a House",
         "content": "We need [some|a] wood and [a|some] brick. How [much|many] cement is required? There are [a few|a little] workers here. We have [some|a] space for the garden. How [many|much] windows are there?",
         "explanation-zh-TW": "1. **some**: wood 是不可數。\n2. **a**: brick 是可數。\n3. **much**: cement 是不可數。\n4. **a few**: workers 是可數。\n5. **some**: space 是不可數。",
-        "explanation-en-US": "1. **wood**: uncountable.\n2. **brick**: countable.\n3. **much**: cement is uncountable.\n4. **a few**: workers is countable.\n5. **some**: space is uncountable."
+        "explanation-en-US": "1. **wood**: uncountable.\n2. **brick**: countable.\n3. **much**: cement is uncountable.\n4. **a few**: workers is countable.\n5. **some**: space is uncountable.",
+        "explanation-zh-CN": "1. **some**: wood 是不可数。\n2. **a**: brick 是可数。\n3. **much**: cement 是不可数。\n4. **a few**: workers 是可数。\n5. **some**: space 是不可数。"
     },
     {
         "id": "cu9",
         "title": "Music and Fun",
         "content": "The band played [some|a] music. I heard [a|some] song. There was [much|many] noise in the room. We had [a lot of|many] fun. How [many|much] instruments can you play?",
         "explanation-zh-TW": "1. **some**: music 是不可數。\n2. **a**: song 是可數。\n3. **much**: noise 是不可數。\n4. **a lot of**: fun 是不可數。\n5. **many**: instruments 是可數。",
-        "explanation-en-US": "1. **music**: uncountable.\n2. **a song**: countable.\n3. **much**: noise is uncountable.\n4. **a lot of**: fun is uncountable.\n5. **many**: instruments is countable."
+        "explanation-en-US": "1. **music**: uncountable.\n2. **a song**: countable.\n3. **much**: noise is uncountable.\n4. **a lot of**: fun is uncountable.\n5. **many**: instruments is countable.",
+        "explanation-zh-CN": "1. **some**: music 是不可数。\n2. **a**: song 是可数。\n3. **much**: noise 是不可数。\n4. **a lot of**: fun 是不可数。\n5. **many**: instruments 是可数。"
     },
     {
         "id": "cu10",
         "title": "Classroom Stuff",
         "content": "I have [some|a] homework today. Please give me [a|some] paper. I need [a few|a little] pencils. How [much|many] equipment do we need? There are [many|much] students here.",
         "explanation-zh-TW": "1. **some**: homework 是不可數。\n2. **some**: paper 是不可數。\n3. **a few**: pencils 是可數。\n4. **much**: equipment 是不可數。\n5. **many**: students 是可數。",
-        "explanation-en-US": "1. **homework**: uncountable.\n2. **paper**: uncountable.\n3. **a few**: pencils is countable.\n4. **much**: equipment is uncountable.\n5. **many**: students is countable."
+        "explanation-en-US": "1. **homework**: uncountable.\n2. **paper**: uncountable.\n3. **a few**: pencils is countable.\n4. **much**: equipment is uncountable.\n5. **many**: students is countable.",
+        "explanation-zh-CN": "1. **some**: homework 是不可数。\n2. **some**: paper 是不可数。\n3. **a few**: pencils 是可数。\n4. **much**: equipment 是不可数。\n5. **many**: students 是可数。"
     },
     {
         "id": "cu11",
         "title": "City Life",
         "content": "There is [much|many] traffic today. We saw [many|much] cars. The city has [some|a] pollution. How [many|much] people live here? I need [some|a] transport.",
         "explanation-zh-TW": "1. **much**: traffic 是不可數。\n2. **many**: cars 是可數。\n3. **some**: pollution 是不可數。\n4. **many**: people 是可數。\n5. **some**: transport 是不可數。",
-        "explanation-en-US": "1. **much**: traffic is uncountable.\n2. **many**: cars is countable.\n3. **some**: pollution is uncountable.\n4. **many**: people is countable.\n5. **some**: transport is uncountable."
+        "explanation-en-US": "1. **much**: traffic is uncountable.\n2. **many**: cars is countable.\n3. **some**: pollution is uncountable.\n4. **many**: people is countable.\n5. **some**: transport is uncountable.",
+        "explanation-zh-CN": "1. **much**: traffic 是不可数。\n2. **many**: cars 是可数。\n3. **some**: pollution 是不可数。\n4. **many**: people 是可数。\n5. **some**: transport 是不可数。"
     },
     {
         "id": "cu12",
         "title": "Breakfast Time",
         "content": "Pass me [some|a] cereal. I'd like [a|some] bowl of cereal. How [much|many] milk do you want? I have [a little|a few] toast. Pour [some|a] coffee for me.",
         "explanation-zh-TW": "1. **some**: cereal 是不可數。\n2. **a**: bowl 是可數。\n3. **much**: milk 是不可數。\n4. **a little**: toast 是不可數。\n5. **some**: coffee 是不可數。",
-        "explanation-en-US": "1. **some**: cereal is uncountable.\n2. **a bowl**: countable.\n3. **much**: milk is uncountable.\n4. **a little**: toast is uncountable.\n5. **some**: coffee is uncountable."
+        "explanation-en-US": "1. **some**: cereal is uncountable.\n2. **a bowl**: countable.\n3. **much**: milk is uncountable.\n4. **a little**: toast is uncountable.\n5. **some**: coffee is uncountable.",
+        "explanation-zh-CN": "1. **some**: cereal 是不可数。\n2. **a**: bowl 是可数。\n3. **much**: milk 是不可数。\n4. **a little**: toast 是不可数。\n5. **some**: coffee 是不可数。"
     },
     {
         "id": "cu13",
         "title": "The Beach",
         "content": "There is [some|a] sand in my shoes. We saw [a few|a little] crabs. How [much|many] salt is in the sea? The water has [some|a] seaweed. I need [a|some] towel.",
         "explanation-zh-TW": "1. **some**: sand 是不可數。\n2. **a few**: crabs 是可數。\n3. **much**: salt 是不可數。\n4. **some**: seaweed 是不可數。\n5. **a**: towel 是可數。",
-        "explanation-en-US": "1. **some**: sand is uncountable.\n2. **a few**: crabs is countable.\n3. **much**: salt is uncountable.\n4. **some**: seaweed is uncountable.\n5. **a towel**: countable."
+        "explanation-en-US": "1. **some**: sand is uncountable.\n2. **a few**: crabs is countable.\n3. **much**: salt is uncountable.\n4. **some**: seaweed is uncountable.\n5. **a towel**: countable.",
+        "explanation-zh-CN": "1. **some**: sand 是不可数。\n2. **a few**: crabs 是可数。\n3. **much**: salt 是不可数。\n4. **some**: seaweed 是不可数。\n5. **a**: towel 是可数。"
     },
     {
         "id": "cu14",
         "title": "Science Lab",
         "content": "We need [some|a] liquid. How [many|much] chemicals are used? I have [a little|a few] oxygen left. There is [some|a] gas in the tube. How [many|much] test tubes do we have?",
         "explanation-zh-TW": "1. **some**: liquid 是不可數。\n2. **many**: chemicals 是可數。\n3. **a little**: oxygen 是不可數。\n4. **some**: gas 是不可數。\n5. **many**: test tubes 是可數。",
-        "explanation-en-US": "1. **some**: liquid is uncountable.\n2. **many**: chemicals is countable.\n3. **a little**: oxygen is uncountable.\n4. **some**: gas is uncountable.\n5. **many**: test tubes is countable."
+        "explanation-en-US": "1. **some**: liquid is uncountable.\n2. **many**: chemicals is countable.\n3. **a little**: oxygen is uncountable.\n4. **some**: gas is uncountable.\n5. **many**: test tubes is countable.",
+        "explanation-zh-CN": "1. **some**: liquid 是不可数。\n2. **many**: chemicals 是可数。\n3. **a little**: oxygen 是不可数。\n4. **some**: gas 是不可数。\n5. **many**: test tubes 是可数。"
     },
     {
         "id": "cu15",
         "title": "In the Garden",
         "content": "I see [some|a] grass. There are [many|much] flowers. I found [a|some] leaf. How [much|many] dirt is there? I need [a few|a little] seeds.",
         "explanation-zh-TW": "1. **some**: grass 是不可數。\n2. **many**: flowers 是可數。\n3. **a**: leaf 是可數。\n4. **much**: dirt 是不可數。\n5. **a few**: seeds 是可數。",
-        "explanation-en-US": "1. **some**: grass is uncountable.\n2. **many**: flowers is countable.\n3. **a leaf**: countable.\n4. **much**: dirt is uncountable.\n5. **a few**: seeds is countable."
+        "explanation-en-US": "1. **some**: grass is uncountable.\n2. **many**: flowers is countable.\n3. **a leaf**: countable.\n4. **much**: dirt is uncountable.\n5. **a few**: seeds is countable.",
+        "explanation-zh-CN": "1. **some**: grass 是不可数。\n2. **many**: flowers 是可数。\n3. **a**: leaf 是可数。\n4. **much**: dirt 是不可数。\n5. **a few**: seeds 是可数。"
     },
     {
         "id": "cu16",
         "title": "Art Gallery",
         "content": "I like [this|these] art. There are [many|much] paintings. I saw [a|some] statue. How [much|many] beauty is in this room! We need [some|a] feedback.",
         "explanation-zh-TW": "1. **this**: art 是不可數。\n2. **many**: paintings 是可數。\n3. **a**: statue 是可數。\n4. **much**: beauty 是不可數。\n5. **some**: feedback 是不可數。",
-        "explanation-en-US": "1. **art**: uncountable.\n2. **many**: paintings is countable.\n3. **a statue**: countable.\n4. **much**: beauty is uncountable.\n5. **some**: feedback is uncountable."
+        "explanation-en-US": "1. **art**: uncountable.\n2. **many**: paintings is countable.\n3. **a statue**: countable.\n4. **much**: beauty is uncountable.\n5. **some**: feedback is uncountable.",
+        "explanation-zh-CN": "1. **this**: art 是不可数。\n2. **many**: paintings 是可数。\n3. **a**: statue 是可数。\n4. **much**: beauty 是不可数。\n5. **some**: feedback 是不可数。"
     },
     {
         "id": "cu17",
         "title": "Business Meeting",
         "content": "We have [much|many] work. How [many|much] employees do we have? I need [some|a] data. There is [a little|a few] stress in the air. How [many|much] reports are due?",
         "explanation-zh-TW": "1. **much**: work 是不可數。\n2. **many**: employees 是可數。\n3. **some**: data 是不可數。\n4. **a little**: stress 是不可數。\n5. **many**: reports 是可數。",
-        "explanation-en-US": "1. **work**: uncountable.\n2. **many**: employees is countable.\n3. **some**: data is uncountable.\n4. **a little**: stress is uncountable.\n5. **many**: reports is countable."
+        "explanation-en-US": "1. **work**: uncountable.\n2. **many**: employees is countable.\n3. **some**: data is uncountable.\n4. **a little**: stress is uncountable.\n5. **many**: reports is countable.",
+        "explanation-zh-CN": "1. **much**: work 是不可数。\n2. **many**: employees 是可数。\n3. **some**: data 是不可数。\n4. **a little**: stress 是不可数。\n5. **many**: reports 是可数。"
     },
     {
         "id": "cu18",
         "title": "The Bakery",
         "content": "I want [some|a] cake. Could I have [a|some] slice of cake? The shop has [many|much] cookies. There is [a little|a few] flour on the floor. How [much|many] yeast do we need?",
         "explanation-zh-TW": "1. **some**: cake 是不可數。\n2. **a**: slice 是可數。\n3. **many**: cookies 是可數。\n4. **a little**: flour 是不可數。\n5. **much**: yeast 是不可數。",
-        "explanation-en-US": "1. **cake**: uncountable.\n2. **a slice**: countable.\n3. **many**: cookies is countable.\n4. **a little**: flour is uncountable.\n5. **much**: yeast is uncountable."
+        "explanation-en-US": "1. **cake**: uncountable.\n2. **a slice**: countable.\n3. **many**: cookies is countable.\n4. **a little**: flour is uncountable.\n5. **much**: yeast is uncountable.",
+        "explanation-zh-CN": "1. **some**: cake 是不可数。\n2. **a**: slice 是可数。\n3. **many**: cookies 是可数。\n4. **a little**: flour 是不可数。\n5. **much**: yeast 是不可数。"
     },
     {
         "id": "cu19",
         "title": "Construction Site",
         "content": "There is [some|a] dust. How [much|many] iron is in the beam? We have [many|much] bricks. I need [a|some] helmet. How [many|much] gravel do you need?",
         "explanation-zh-TW": "1. **some**: dust 是不可數。\n2. **much**: iron 是不可數。\n3. **many**: bricks 是可數。\n4. **a**: helmet 是可數。\n5. **much**: gravel 是不可數。",
-        "explanation-en-US": "1. **dust**: uncountable.\n2. **much**: iron is uncountable.\n3. **many**: bricks is countable.\n4. **a helmet**: countable.\n5. **much**: gravel is uncountable."
+        "explanation-en-US": "1. **dust**: uncountable.\n2. **much**: iron is uncountable.\n3. **many**: bricks is countable.\n4. **a helmet**: countable.\n5. **much**: gravel is uncountable.",
+        "explanation-zh-CN": "1. **some**: dust 是不可数。\n2. **much**: iron 是不可数。\n3. **many**: bricks 是可数。\n4. **a**: helmet 是可数。\n5. **much**: gravel 是不可数。"
     },
     {
         "id": "cu20",
         "title": "The Library",
         "content": "I have [much|many] knowledge. There are [many|much] books. I need [some|a] quiet. How [much|many] research did you do? Give me [a|some] book.",
         "explanation-zh-TW": "1. **much**: knowledge 是不可數。\n2. **many**: books 是可數。\n3. **some**: quiet 是不可數。\n4. **much**: research 是不可數。\n5. **a**: book 是可數。",
-        "explanation-en-US": "1. **knowledge**: uncountable.\n2. **many**: books is countable.\n3. **some**: quiet is uncountable.\n4. **much**: research is uncountable.\n5. **a book**: countable."
+        "explanation-en-US": "1. **knowledge**: uncountable.\n2. **many**: books is countable.\n3. **some**: quiet is uncountable.\n4. **much**: research is uncountable.\n5. **a book**: countable.",
+        "explanation-zh-CN": "1. **much**: knowledge 是不可数。\n2. **many**: books 是可数。\n3. **some**: quiet 是不可数。\n4. **much**: research 是不可数。\n5. **a**: book 是可数。"
     },
     {
         "id": "cu21",
         "title": "Coffee Shop",
         "content": "I'd like [some|a] tea. Do you have [a|some] cup? How [much|many] caffeine is in this? I have [a little|a few] sugar. How [many|much] muffins are left?",
         "explanation-zh-TW": "1. **some**: tea 是不可數。\n2. **a**: cup 是可數。\n3. **much**: caffeine 是不可數。\n4. **a little**: sugar 是不可數。\n5. **many**: muffins 是可數。",
-        "explanation-en-US": "1. **tea**: uncountable.\n2. **a cup**: countable.\n3. **much**: caffeine is uncountable.\n4. **a little**: sugar is uncountable.\n5. **many**: muffins is countable."
+        "explanation-en-US": "1. **tea**: uncountable.\n2. **a cup**: countable.\n3. **much**: caffeine is uncountable.\n4. **a little**: sugar is uncountable.\n5. **many**: muffins is countable.",
+        "explanation-zh-CN": "1. **some**: tea 是不可数。\n2. **a**: cup 是可数。\n3. **much**: caffeine 是不可数。\n4. **a little**: sugar 是不可数。\n5. **many**: muffins 是可数。"
     },
     {
         "id": "cu22",
         "title": "At the Zoo",
         "content": "We saw [many|much] animals. There is [some|a] luck involved in seeing the tiger. How [much|many] meat does a lion eat? I have [a little|a few] energy left. We saw [a|some] elephant.",
         "explanation-zh-TW": "1. **many**: animals 是可數。\n2. **some**: luck 是不可數。\n3. **much**: meat 是不可數。\n4. **a little**: energy 是不可數。\n5. **an**: elephant 是可數。",
-        "explanation-en-US": "1. **many**: animals is countable.\n2. **some**: luck is uncountable.\n3. **much**: meat is uncountable.\n4. **a little**: energy is uncountable.\n5. **an elephant**: countable."
+        "explanation-en-US": "1. **many**: animals is countable.\n2. **some**: luck is uncountable.\n3. **much**: meat is uncountable.\n4. **a little**: energy is uncountable.\n5. **an elephant**: countable.",
+        "explanation-zh-CN": "1. **many**: animals 是可数。\n2. **some**: luck 是不可数。\n3. **much**: meat 是不可数。\n4. **a little**: energy 是不可数。\n5. **an**: elephant 是可数。"
     },
     {
         "id": "cu23",
         "title": "Computer Lab",
         "content": "I need [some|a] software. How [many|much] computers are there? I have [some|a] information. How [much|many] memory does it have? I need [a|some] monitor.",
         "explanation-zh-TW": "1. **some**: software 是不可數。\n2. **many**: computers 是可數。\n3. **some**: information 是不可數。\n4. **much**: memory 是不可數。\n5. **a**: monitor 是可數。",
-        "explanation-en-US": "1. **software**: uncountable.\n2. **many**: computers is countable.\n3. **some**: information is uncountable.\n4. **much**: memory is uncountable.\n5. **a monitor**: countable."
+        "explanation-en-US": "1. **software**: uncountable.\n2. **many**: computers is countable.\n3. **some**: information is uncountable.\n4. **much**: memory is uncountable.\n5. **a monitor**: countable.",
+        "explanation-zh-CN": "1. **some**: software 是不可数。\n2. **many**: computers 是可数。\n3. **some**: information 是不可数。\n4. **much**: memory 是不可数。\n5. **a**: monitor 是可数。"
     },
     {
         "id": "cu24",
         "title": "Hiking Trip",
         "content": "We need [some|a] equipment. I have [a|some] backpack. How [much|many] water should we carry? There are [a few|a little] hills. I have [a lot of|many] courage.",
         "explanation-zh-TW": "1. **some**: equipment 是不可數。\n2. **a**: backpack 是可數。\n3. **much**: water 是不可數。\n4. **a few**: hills 是可數。\n5. **a lot of**: courage 是不可數。",
-        "explanation-en-US": "1. **some**: equipment is uncountable.\n2. **a backpack**: countable.\n3. **much**: water is uncountable.\n4. **a few**: hills is countable.\n5. **a lot of**: courage is uncountable."
+        "explanation-en-US": "1. **some**: equipment is uncountable.\n2. **a backpack**: countable.\n3. **much**: water is uncountable.\n4. **a few**: hills is countable.\n5. **a lot of**: courage is uncountable.",
+        "explanation-zh-CN": "1. **some**: equipment 是不可数。\n2. **a**: backpack 是可数。\n3. **much**: water 是不可数。\n4. **a few**: hills 是可数。\n5. **a lot of**: courage 是不可数。"
     },
     {
         "id": "cu25",
         "title": "Party Planning",
         "content": "I need [some|a] advice. How [many|much] guests are coming? I have [a little|a few] time. There is [some|a] music playing. Give me [a|some] balloon.",
         "explanation-zh-TW": "1. **some**: advice 是不可數。\n2. **many**: guests 是可數。\n3. **a little**: time 是不可數。\n4. **some**: music 是不可數。\n5. **a**: balloon 是可數。",
-        "explanation-en-US": "1. **some**: advice is uncountable.\n2. **many**: guests is countable.\n3. **a little**: time is uncountable.\n4. **some**: music is uncountable.\n5. **a balloon**: countable."
+        "explanation-en-US": "1. **some**: advice is uncountable.\n2. **many**: guests is countable.\n3. **a little**: time is uncountable.\n4. **some**: music is uncountable.\n5. **a balloon**: countable.",
+        "explanation-zh-CN": "1. **some**: advice 是不可数。\n2. **many**: guests 是可数。\n3. **a little**: time 是不可数。\n4. **some**: music 是不可数。\n5. **a**: balloon 是可数。"
     },
     {
         "id": "cu26",
         "title": "Laundry Day",
         "content": "I have [some|a] washing. How [much|many] soap do we have? There are [many|much] clothes. I need [a|some] basket. How [much|many] sunshine do we have for drying?",
         "explanation-zh-TW": "1. **some**: washing 是不可數。\n2. **much**: soap 是不可數。\n3. **many**: clothes 是可數。\n4. **a**: basket 是可數。\n5. **much**: sunshine 是不可數。",
-        "explanation-en-US": "1. **some**: washing is uncountable.\n2. **much**: soap is uncountable.\n3. **many**: clothes is countable.\n4. **a basket**: countable.\n5. **much**: sunshine is uncountable."
+        "explanation-en-US": "1. **some**: washing is uncountable.\n2. **much**: soap is uncountable.\n3. **many**: clothes is countable.\n4. **a basket**: countable.\n5. **much**: sunshine is uncountable.",
+        "explanation-zh-CN": "1. **some**: washing 是不可数。\n2. **much**: soap 是不可数。\n3. **many**: clothes 是可数。\n4. **a**: basket 是可数。\n5. **much**: sunshine 是不可数。"
     },
     {
         "id": "cu27",
         "title": "The Forest",
         "content": "I hear [some|a] wildlife. I saw [a|some] deer. How [much|many] wood is in the tree? There is [a little|a few] light. I saw [many|much] insects.",
         "explanation-zh-TW": "1. **some**: wildlife 是不可數。\n2. **a**: deer 是可數。\n3. **much**: wood 是不可數。\n4. **a little**: light 是不可數。\n5. **many**: insects 是可數。",
-        "explanation-en-US": "1. **some**: wildlife is uncountable.\n2. **a deer**: countable.\n3. **much**: wood is uncountable.\n4. **a little**: light is uncountable.\n5. **many**: insects is countable."
+        "explanation-en-US": "1. **some**: wildlife is uncountable.\n2. **a deer**: countable.\n3. **much**: wood is uncountable.\n4. **a little**: light is uncountable.\n5. **many**: insects is countable.",
+        "explanation-zh-CN": "1. **some**: wildlife 是不可数。\n2. **a**: deer 是可数。\n3. **much**: wood 是不可数。\n4. **a little**: light 是不可数。\n5. **many**: insects 是可数。"
     },
     {
         "id": "cu28",
         "title": "At the Gym",
         "content": "I need [some|a] equipment. I have [a|some] towel. How [much|many] sweat is on the mat? I have [a little|a few] determination. How [many|much] lockers are open?",
         "explanation-zh-TW": "1. **some**: equipment 是不可數。\n2. **a**: towel 是可數。\n3. **much**: sweat 是不可數。\n4. **a little**: determination 是不可數。\n5. **many**: lockers 是可數。",
-        "explanation-en-US": "1. **some**: equipment is uncountable.\n2. **a towel**: countable.\n3. **much**: sweat is uncountable.\n4. **a little**: determination is uncountable.\n5. **many**: lockers is countable."
+        "explanation-en-US": "1. **some**: equipment is uncountable.\n2. **a towel**: countable.\n3. **much**: sweat is uncountable.\n4. **a little**: determination is uncountable.\n5. **many**: lockers is countable.",
+        "explanation-zh-CN": "1. **some**: equipment 是不可数。\n2. **a**: towel 是可数。\n3. **much**: sweat 是不可数。\n4. **a little**: determination 是不可数。\n5. **many**: lockers 是可数。"
     },
     {
         "id": "cu29",
         "title": "Repair Shop",
         "content": "I need [some|a] grease. How [much|many] oil is in the engine? We have [many|much] tools. I need [a|some] spare part. How [much|many] rust is on the car?",
         "explanation-zh-TW": "1. **some**: grease 是不可數。\n2. **much**: oil 是不可數。\n3. **many**: tools 是可數。\n4. **a**: part 是可數。\n5. **much**: rust 是不可數。",
-        "explanation-en-US": "1. **some**: grease is uncountable.\n2. **much**: oil is uncountable.\n3. **many**: tools is countable.\n4. **a part**: countable.\n5. **much**: rust is uncountable."
+        "explanation-en-US": "1. **some**: grease is uncountable.\n2. **much**: oil is uncountable.\n3. **many**: tools is countable.\n4. **a part**: countable.\n5. **much**: rust is uncountable.",
+        "explanation-zh-CN": "1. **some**: grease 是不可数。\n2. **much**: oil 是不可数。\n3. **many**: tools 是可数。\n4. **a**: part 是可数。\n5. **much**: rust 是不可数。"
     },
     {
         "id": "cu30",
         "title": "The Park",
         "content": "There is [some|a] fun to be had. I have [a|some] frisbee. How [much|many] air is in the ball? There are [many|much] trees. I need [some|a] shade.",
         "explanation-zh-TW": "1. **some**: fun 是不可數。\n2. **a**: frisbee 是可數。\n3. **much**: air 是不可數。\n4. **many**: trees 是可數。\n5. **some**: shade 是不可數。",
-        "explanation-en-US": "1. **some**: fun is uncountable.\n2. **a frisbee**: countable.\n3. **much**: air is uncountable.\n4. **many**: trees is countable.\n5. **some**: shade is uncountable."
+        "explanation-en-US": "1. **some**: fun is uncountable.\n2. **a frisbee**: countable.\n3. **much**: air is uncountable.\n4. **many**: trees is countable.\n5. **some**: shade is uncountable.",
+        "explanation-zh-CN": "1. **some**: fun 是不可数。\n2. **a**: frisbee 是可数。\n3. **much**: air 是不可数。\n4. **many**: trees 是可数。\n5. **some**: shade 是不可数。"
     }
 ]

@@ -4,104 +4,119 @@
         "title": "Question Formation Basics",
         "content": "Teacher: Today we will learn how to form questions in English. In Chinese, we often just add a particle or change intonation, but English changes the word order.\n\nStudent: [Where are you going?|You are going where?] \nTeacher: Good. We move the auxiliary verb 'are' to the front.\n\nStudent: [Do you like this?|You like this?] \nTeacher: Yes. For regular verbs, we add 'Do' at the start.\n\nLet's practice more:\n\n1. [What is your name?|Your name is what?]\n2. [Are you ready?|You are ready?]\n3. [Does she speak English?|She speaks English?]\n4. [Where does he live?|He lives where?]\n5. [Can you help me?|You can help me?]",
         "explanation-zh-TW": "英文疑問句需要調整語序。\n1. Be動詞 (am, is, are) 或助動詞 (can, will) 要移到主詞前面。\n   例如: You are ready. -> Are you ready?\n2. 一般動詞疑問句需在句首加助動詞 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑問詞 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?",
-        "explanation-en-US": "English questions require changing the word order.\n1. Move the Be verb (am, is, are) or auxiliary verb (can, will) before the subject.\n   e.g., You are ready. -> Are you ready?\n2. For other verbs, use the auxiliary 'Do' or 'Does' at the beginning.\n   e.g., You like this. -> Do you like this?\n3. Question words (Where, What, How) always go at the very front.\n   e.g., Where are you going?"
+        "explanation-en-US": "English questions require changing the word order.\n1. Move the Be verb (am, is, are) or auxiliary verb (can, will) before the subject.\n   e.g., You are ready. -> Are you ready?\n2. For other verbs, use the auxiliary 'Do' or 'Does' at the beginning.\n   e.g., You like this. -> Do you like this?\n3. Question words (Where, What, How) always go at the very front.\n   e.g., Where are you going?",
+        "explanation-zh-CN": "英文疑问句需要调整语序。\n1. Be动词 (am, is, are) 或助动词 (can, will) 要移到主词前面。\n   例如: You are ready. -> Are you ready?\n2. 一般动词疑问句需在句首加助动词 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑问词 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?"
     },
     {
         "id": "q2",
         "title": "Advanced Questions",
         "content": "Teacher: Now let's try some longer questions.\n\nStudent: [When will you arrive?|You will arrive when?]\nTeacher: 'Will' comes before 'you'.\n\nStudent: [Why did he leave early?|Why he left early?]\nTeacher: Even with 'Why', we still need an auxiliary verb (did).\n\nPractice:\n1. [How have you been?|How you have been?]\n2. [What were they doing?|They were doing what?]\n3. [Should I call him?|I should call him?]\n4. [Who are you waiting for?|You are waiting for who?]",
         "explanation-zh-TW": "即使有疑問詞 (When, Why, How, What, Who)，助動詞依然要放在主詞前面。\n例如: Why did he leave? (正確)\nWhy he left? (錯誤 - 缺少助動詞倒裝)",
-        "explanation-en-US": "Even with question words (When, Why, How, What, Who), the auxiliary verb must come before the subject.\ne.g., Why did he leave? (Correct)\nWhy he left? (Incorrect - missing auxiliary inversion)"
+        "explanation-en-US": "Even with question words (When, Why, How, What, Who), the auxiliary verb must come before the subject.\ne.g., Why did he leave? (Correct)\nWhy he left? (Incorrect - missing auxiliary inversion)",
+        "explanation-zh-CN": "即使有疑问词 (When, Why, How, What, Who)，助动词依然要放在主词前面。\n例如: Why did he leave? (正确)\nWhy he left? (错誤 - 缺少助动词倒裝)"
     },
     {
         "id": "q3",
         "title": "Daily Routine Questions",
         "content": "[Do you wake up|You wake up] early? [Does she brush|She brushes] her teeth? [Do they eat|They eat] breakfast? [Does he drive|He drives] to work? [Do we start|We start] now?",
         "explanation-zh-TW": "Yes/No questions with regular verbs need Do/Does at the start.",
-        "explanation-en-US": "Start with Do/Does for simple present questions."
+        "explanation-en-US": "Start with Do/Does for simple present questions.",
+        "explanation-zh-CN": "Yes/No questions with regular verbs need Do/Does at the start."
     },
     {
         "id": "q4",
         "title": "Where and When",
         "content": "[Where do you live?|Where you live?] [When does it start?|When it starts?] [What do you want?|What you want?] [Why does she cry?|Why she cries?] [How do we go?|How we go?]",
         "explanation-zh-TW": "Wh- words + Do/Does + Subject + Verb.",
-        "explanation-en-US": "Wh- word + Auxiliary + Subject + Verb."
+        "explanation-en-US": "Wh- word + Auxiliary + Subject + Verb.",
+        "explanation-zh-CN": "Wh- words + Do/Does + Subject + Verb."
     },
     {
         "id": "q5",
         "title": "Past Tense Questions",
         "content": "[Did you go|You went] to school? [Did she see|She saw] the movie? [Did they play|They played] well? [Did he finish|He finished] his work? [Did it rain|It rained] yesterday?",
         "explanation-zh-TW": "Past questions use 'Did' + base verb.",
-        "explanation-en-US": "Use 'Did' + base verb for past questions."
+        "explanation-en-US": "Use 'Did' + base verb for past questions.",
+        "explanation-zh-CN": "Past questions use 'Did' + base verb."
     },
     {
         "id": "q6",
         "title": "Future Questions",
         "content": "[Will you come|You will come] tomorrow? [Will it rain|It will rain] soon? [Will they win|They will win]? [Will she angry|Will she be angry]? (Wait, Will she be angry covers Be). [Will he go|He will go]?",
         "explanation-zh-TW": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!",
-        "explanation-en-US": "Invert 'Will' and Subject."
+        "explanation-en-US": "Invert 'Will' and Subject.",
+        "explanation-zh-CN": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!"
     },
     {
         "id": "q7",
         "title": "Can and Could",
         "content": "[Can you swim|You can swim]? [Could he help|He could help]? [Can we go|We can go]? [Can she sing|She can sing]? [Could you open|You could open] the door?",
         "explanation-zh-TW": "Modal verbs (Can, Could) move to the front.",
-        "explanation-en-US": "Move Can/Could to the front."
+        "explanation-en-US": "Move Can/Could to the front.",
+        "explanation-zh-CN": "Modal verbs (Can, Could) move to the front."
     },
     {
         "id": "q8",
         "title": "Is and Are",
         "content": "[Is he|He is] your brother? [Are they|They are] here? [Is it|It is] cold? [Are we|We are] lost? [Am I|I am] right?",
         "explanation-zh-TW": "Be verbs (Is, Are, Am) move to the front.",
-        "explanation-en-US": "Move Be verb to the front."
+        "explanation-en-US": "Move Be verb to the front.",
+        "explanation-zh-CN": "Be verbs (Is, Are, Am) move to the front."
     },
     {
         "id": "q9",
         "title": "Wh- with Be Verbs",
         "content": "[Where is|Where be] my bag? [Who is|Who be] that man? [What are|What be] those? [Why are|Why be] you sad? [How is|How be] your mom?",
         "explanation-zh-TW": "Wh- word + Is/Are + Subject.",
-        "explanation-en-US": "Wh- word + Is/Are + Subject."
+        "explanation-en-US": "Wh- word + Is/Are + Subject.",
+        "explanation-zh-CN": "Wh- word + Is/Are + Subject."
     },
     {
         "id": "q10",
         "title": "What doing?",
         "content": "[What are you doing?|What you are doing?] [Where is he going?|Where he is going?] [Why are they laughing?|Why they are laughing?] [Who is she talking to?|Who she is talking to?] [What is it eating?|What it is eating?]",
         "explanation-zh-TW": "Question word + Be verb + Subject + V-ing.",
-        "explanation-en-US": "Wh- + Aux + Subj + Verb."
+        "explanation-en-US": "Wh- + Aux + Subj + Verb.",
+        "explanation-zh-CN": "Question word + Be verb + Subject + V-ing."
     },
     {
         "id": "q11",
         "title": "Have you ever?",
         "content": "[Have you seen|You have seen] this? [Has she eaten|She has eaten] yet? [Have they finished|They have finished]? [Has he been|He has been] to Japan? [Have we met|We have met]?",
         "explanation-zh-TW": "Present Perfect Questions: Have/Has + Subject + V3.",
-        "explanation-en-US": "Have/Has + Subject + Past Participle."
+        "explanation-en-US": "Have/Has + Subject + Past Participle.",
+        "explanation-zh-CN": "Present Perfect Questions: Have/Has + Subject + V3."
     },
     {
         "id": "q12",
         "title": "Negative Questions",
         "content": "[Don't you like|You don't like] pizza? [Doesn't she know|She doesn't know]? [Didn't you go|You didn't go]? [Aren't they happy|They aren't happy]? [Isn't it nice|It isn't nice]?",
         "explanation-zh-TW": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't.",
-        "explanation-en-US": "Start with the negative auxiliary."
+        "explanation-en-US": "Start with the negative auxiliary.",
+        "explanation-zh-CN": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't."
     },
     {
         "id": "q13",
         "title": "Tag Questions (Short)",
         "content": "You are happy, [aren't you|are you]? She is nice, [isn't she|is she]? He can swim, [can't he|can he]? You like it, [don't you|do you]? They played well, [didn't they|did they]?",
         "explanation-zh-TW": "Positive sentence -> Negative tag.",
-        "explanation-en-US": "Opposite polarity tag."
+        "explanation-en-US": "Opposite polarity tag.",
+        "explanation-zh-CN": "Positive sentence -> Negative tag."
     },
     {
         "id": "q14",
         "title": "Subject Questions",
         "content": "[Who wants|Who does want] ice cream? [What happened|What did happen]? [Who broke|Who did break] the window? [Who lives|Who does live] here? [What fell|What did fall]?",
         "explanation-zh-TW": "Asking about the subject: No Do/Does/Did helper needed!",
-        "explanation-en-US": "Subject questions don't use Do/Does/Did."
+        "explanation-en-US": "Subject questions don't use Do/Does/Did.",
+        "explanation-zh-CN": "Asking about the subject: No Do/Does/Did helper needed!"
     },
     {
         "id": "q15",
         "title": "Polite Requests",
         "content": "[Would you like|You would like] some tea? [May I have|I may have] a cookie? [Could you help|You could help] me? [Shall we go|We shall go]? [Can I ask|I can ask] a question?",
         "explanation-zh-TW": "Polite structures move Modal to front.",
-        "explanation-en-US": "Modals moved to front for requests."
+        "explanation-en-US": "Modals moved to front for requests.",
+        "explanation-zh-CN": "Polite structures move Modal to front."
     }
 ]

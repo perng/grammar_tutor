@@ -4,104 +4,119 @@
         "id": "hobbies",
         "content": "I enjoy [swimming|to swim|swim|swam] in the ocean. I decided [to go|going|go|gone] to the park. He stopped [smoking|to smoke|smoke|smoked] for his health (quit forever). He stopped [to smoke|smoking|smoke|smoked] a cigarette during the break (paused to do it). I promised [to help|helping|help|helped] her. She finished [reading|to read|read|reads] the book. I look forward to [seeing|see|to see|seen] you.",
         "explanation-zh-TW": "# 🏊 興趣與習慣 (Gerunds vs Infinitives)\n\n動名詞 (V-ing) 與 不定詞 (to V) 的用法通常需要記憶。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒菸) -> stop **[smoking]**.\n4. **stop + to V**: 停下來「為了」去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 這裡的 to 是介系詞，後接 V-ing -> to **[seeing]**.",
-        "explanation-en-US": "# 🏊 Hobbies and Habits (Gerunds vs Infinitives)\n\n1. **enjoy + ing**: enjoy **[swimming]**.\n2. **decide + to**: decided **[to go]**.\n3. **stop + ing**: Quit an action (quit smoking).\n4. **stop + to**: Pause to do something (pouse to smoke).\n5. **promise + to**: promised **[to help]**.\n6. **finish + ing**: finished **[reading]**.\n7. **look forward to + ing**: 'to' is a preposition here."
+        "explanation-en-US": "# 🏊 Hobbies and Habits (Gerunds vs Infinitives)\n\n1. **enjoy + ing**: enjoy **[swimming]**.\n2. **decide + to**: decided **[to go]**.\n3. **stop + ing**: Quit an action (quit smoking).\n4. **stop + to**: Pause to do something (pouse to smoke).\n5. **promise + to**: promised **[to help]**.\n6. **finish + ing**: finished **[reading]**.\n7. **look forward to + ing**: 'to' is a preposition here.",
+        "explanation-zh-CN": "# 🏊 兴趣与习惯 (Gerunds vs Infinitives)\n\n动名词 (V-ing) 与 不定词 (to V) 的用法通常需要记忆。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒烟) -> stop **[smoking]**.\n4. **stop + to V**: 停下来“为了”去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 这里的 to 是介系词，后接 V-ing -> to **[seeing]**."
     },
     {
         "id": "gi2",
         "title": "Enjoy Running",
         "content": "I enjoy [running|to run]. She likes [swimming|to swim].",
         "explanation-zh-TW": "Enjoy + V-ing.",
-        "explanation-en-US": "Enjoy + Gerund."
+        "explanation-en-US": "Enjoy + Gerund.",
+        "explanation-zh-CN": "Enjoy + V-ing."
     },
     {
         "id": "gi3",
         "title": "Want to Go",
         "content": "I want [to go|going]. He hopes [to see|seeing] you.",
         "explanation-zh-TW": "Want/Hope + To V.",
-        "explanation-en-US": "Want + Infinitive."
+        "explanation-en-US": "Want + Infinitive.",
+        "explanation-zh-CN": "Want/Hope + To V."
     },
     {
         "id": "gi4",
         "title": "Avoid Eating",
         "content": "He avoids [eating|to eat] sugar. She finished [working|to work].",
         "explanation-zh-TW": "Avoid/Finish + V-ing.",
-        "explanation-en-US": "Gerund."
+        "explanation-en-US": "Gerund.",
+        "explanation-zh-CN": "Avoid/Finish + V-ing."
     },
     {
         "id": "gi5",
         "title": "Decide to Stay",
         "content": "We decided [to stay|staying]. They plan [to visit|visiting].",
         "explanation-zh-TW": "Decide/Plan + To V.",
-        "explanation-en-US": "Infinitive."
+        "explanation-en-US": "Infinitive.",
+        "explanation-zh-CN": "Decide/Plan + To V."
     },
     {
         "id": "gi6",
         "title": "Mind Helping",
         "content": "Do you mind [helping|to help] me? I miss [talking|to talk] to him.",
         "explanation-zh-TW": "Mind/Miss + V-ing.",
-        "explanation-en-US": "Gerund."
+        "explanation-en-US": "Gerund.",
+        "explanation-zh-CN": "Mind/Miss + V-ing."
     },
     {
         "id": "gi7",
         "title": "Prepositions",
         "content": "He is good at [cooking|to cook]. Thank you for [coming|to come].",
         "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund."
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
         "id": "gi8",
         "title": "Promise",
         "content": "I promise [to help|helping]. She learned [to drive|driving].",
         "explanation-zh-TW": "Promise/Learn + To V.",
-        "explanation-en-US": "Infinitive."
+        "explanation-en-US": "Infinitive.",
+        "explanation-zh-CN": "Promise/Learn + To V."
     },
     {
         "id": "gi9",
         "title": "Stop",
         "content": "He stopped [smoking|to smoke] (quit). He stopped [to smoke|smoking] (pause to smoke).",
         "explanation-zh-TW": "Stop V-ing (停止做), Stop to V (停下來去做).",
-        "explanation-en-US": "Meaning change."
+        "explanation-en-US": "Meaning change.",
+        "explanation-zh-CN": "Stop V-ing (停止做), Stop to V (停下来去做)."
     },
     {
         "id": "gi10",
         "title": "Suggest",
         "content": "I suggest [going|to go] home. He recommended [eating|to eat] here.",
         "explanation-zh-TW": "Suggest/Recommend + V-ing.",
-        "explanation-en-US": "Gerund."
+        "explanation-en-US": "Gerund.",
+        "explanation-zh-CN": "Suggest/Recommend + V-ing."
     },
     {
         "id": "gi11",
         "title": "Need",
         "content": "I need [to sleep|sleeping]. The car needs [washing|to wash] (passive meaning).",
         "explanation-zh-TW": "Need + To V (主動). Need + V-ing (被動).",
-        "explanation-en-US": "Infinitive usually."
+        "explanation-en-US": "Infinitive usually.",
+        "explanation-zh-CN": "Need + To V (主动). Need + V-ing (被动)."
     },
     {
         "id": "gi12",
         "title": "Adjectives",
         "content": "It is easy [to learn|learning]. It is hard [to say|saying].",
         "explanation-zh-TW": "Adj + To V.",
-        "explanation-en-US": "Adj + Infinitive."
+        "explanation-en-US": "Adj + Infinitive.",
+        "explanation-zh-CN": "Adj + To V."
     },
     {
         "id": "gi13",
         "title": "Too/Enough",
         "content": "Too tired [to walk|walking]. Strong enough [to lift|lifting].",
         "explanation-zh-TW": "Too/Enough + To V.",
-        "explanation-en-US": "Infinitive."
+        "explanation-en-US": "Infinitive.",
+        "explanation-zh-CN": "Too/Enough + To V."
     },
     {
         "id": "gi14",
         "title": "Go",
         "content": "Let's go [fishing|to fish]. We went [shopping|to shop].",
         "explanation-zh-TW": "Go + V-ing (Activities).",
-        "explanation-en-US": "Go + Gerund."
+        "explanation-en-US": "Go + Gerund.",
+        "explanation-zh-CN": "Go + V-ing (Activities)."
     },
     {
         "id": "gi15",
         "title": "Keep",
         "content": "Keep [trying|to try]. Keep [smiling|to smile].",
         "explanation-zh-TW": "Keep + V-ing.",
-        "explanation-en-US": "Keep + Gerund."
+        "explanation-en-US": "Keep + Gerund.",
+        "explanation-zh-CN": "Keep + V-ing."
     }
 ]

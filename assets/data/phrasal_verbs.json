@@ -4,104 +4,119 @@
         "id": "investigation",
         "content": "The detective will [look into|look up|look after|look out] the mystery. Please [look after|look into|look forward|look for] my dog while I am away. I [look forward to|look up to|look out for|look away from] meeting you. I need to [look up|look down|look over|look in] this word in the dictionary. Watch out! [Look out|Look in|Look away|Look up] for the car! I [ran into|ran over|ran out|ran away] my old friend yesterday.",
         "explanation-zh-TW": "# 🕵️ 偵探調查 (Phrasal Verbs)\n\n片語動詞由動詞+介系詞/副詞組成，意思往往和字面不同。\n\n1. **[look into]**: 調查 (Investigate).\n2. **[look after]**: 照顧 (Care for).\n3. **[look forward to]**: 期待 (Anticipate).\n4. **[look up]**: 查閱 (Search in list).\n5. **[Look out]**: 小心 (Be careful)!\n6. **[ran into]**: 偶遇 (Met by chance).",
-        "explanation-en-US": "# 🕵️ The Investigation (Phrasal Verbs)\n\n1. **[look into]**: Investigate.\n2. **[look after]**: Take care of.\n3. **[look forward to]**: Excitedly anticipate.\n4. **[look up]**: Find information (like in a dictionary).\n5. **[Look out]**: Be careful!\n6. **[ran into]**: Meet unexpectedly."
+        "explanation-en-US": "# 🕵️ The Investigation (Phrasal Verbs)\n\n1. **[look into]**: Investigate.\n2. **[look after]**: Take care of.\n3. **[look forward to]**: Excitedly anticipate.\n4. **[look up]**: Find information (like in a dictionary).\n5. **[Look out]**: Be careful!\n6. **[ran into]**: Meet unexpectedly.",
+        "explanation-zh-CN": "# 🕵️ 侦探调查 (Phrasal Verbs)\n\n短语动词由动词+介系词/副词组成，意思往往和字面不同。\n\n1. **[look into]**: 调查 (Investigate).\n2. **[look after]**: 照顾 (Care for).\n3. **[look forward to]**: 期待 (Anticipate).\n4. **[look up]**: 查阅 (Search in list).\n5. **[Look out]**: 小心 (Be careful)!\n6. **[ran into]**: 偶遇 (Met by chance)."
     },
     {
         "id": "pv2",
         "title": "Wake Up",
         "content": "I [wake up|get up] at 7 (open eyes). I [get up|wake up] at 7:05 (leave bed).",
         "explanation-zh-TW": "Wake up (醒), Get up (起床).",
-        "explanation-en-US": "Wake vs Get up."
+        "explanation-en-US": "Wake vs Get up.",
+        "explanation-zh-CN": "Wake up (醒), Get up (起床)."
     },
     {
         "id": "pv3",
         "title": "Put On",
         "content": "Put [on|in|at] your jacket. Take [off|out|of] your shoes.",
         "explanation-zh-TW": "Put on (穿), Take off (脫).",
-        "explanation-en-US": "Put on / Take off."
+        "explanation-en-US": "Put on / Take off.",
+        "explanation-zh-CN": "Put on (穿), Take off (脫)."
     },
     {
         "id": "pv4",
         "title": "Turn On/Off",
         "content": "Turn [on|in] the light. Turn [off|out] the TV.",
         "explanation-zh-TW": "Turn on (開), Turn off (關).",
-        "explanation-en-US": "Switch on/off."
+        "explanation-en-US": "Switch on/off.",
+        "explanation-zh-CN": "Turn on (开), Turn off (关)."
     },
     {
         "id": "pv5",
         "title": "Look For",
         "content": "I am looking [for|at] my keys. (Searching). Look [at|for] the bird! (See).",
         "explanation-zh-TW": "Look for (尋找), Look at (看).",
-        "explanation-en-US": "Search vs See."
+        "explanation-en-US": "Search vs See.",
+        "explanation-zh-CN": "Look for (尋找), Look at (看)."
     },
     {
         "id": "pv6",
         "title": "Give Up",
         "content": "Don't give [up|in]. Keep trying. He gave [up|out] smoking.",
         "explanation-zh-TW": "Give up (放棄).",
-        "explanation-en-US": "Quit."
+        "explanation-en-US": "Quit.",
+        "explanation-zh-CN": "Give up (放棄)."
     },
     {
         "id": "pv7",
         "title": "Run Out",
         "content": "We ran [out of|off with] milk. The car ran [out of|away] gas.",
         "explanation-zh-TW": "Run out of (用完).",
-        "explanation-en-US": "Deplete."
+        "explanation-en-US": "Deplete.",
+        "explanation-zh-CN": "Run out of (用完)."
     },
     {
         "id": "pv8",
         "title": "Call Off",
         "content": "They called [off|on] the meeting. (Cancelled).",
         "explanation-zh-TW": "Call off (取消).",
-        "explanation-en-US": "Cancel."
+        "explanation-en-US": "Cancel.",
+        "explanation-zh-CN": "Call off (取消)."
     },
     {
         "id": "pv9",
         "title": "Get Along",
         "content": "I get [along|on] with my sister. We are friends.",
         "explanation-zh-TW": "Get along (相處融洽).",
-        "explanation-en-US": "Friendly relationship."
+        "explanation-en-US": "Friendly relationship.",
+        "explanation-zh-CN": "Get along (相處融洽)."
     },
     {
         "id": "pv10",
         "title": "Look After",
         "content": "Please look [after|for] my dog. (Care).",
         "explanation-zh-TW": "Look after (照顧).",
-        "explanation-en-US": "Take care of."
+        "explanation-en-US": "Take care of.",
+        "explanation-zh-CN": "Look after (照顧)."
     },
     {
         "id": "pv11",
         "title": "Find Out",
         "content": "I want to find [out|in] the truth. She found [out|up] the answer.",
         "explanation-zh-TW": "Find out (找出/發現).",
-        "explanation-en-US": "Discover."
+        "explanation-en-US": "Discover.",
+        "explanation-zh-CN": "Find out (找出/發现)."
     },
     {
         "id": "pv12",
         "title": "Grow Up",
         "content": "When I grow [up|down], I want to be a pilot. He grew [up|in] in Japan.",
         "explanation-zh-TW": "Grow up (長大).",
-        "explanation-en-US": "Mature."
+        "explanation-en-US": "Mature.",
+        "explanation-zh-CN": "Grow up (长大)."
     },
     {
         "id": "pv13",
         "title": "Pick Up",
         "content": "Pick [up|on] the phone. Pick [up|out] your trash.",
         "explanation-zh-TW": "Pick up (接電話/撿起).",
-        "explanation-en-US": "Lift/Answer."
+        "explanation-en-US": "Lift/Answer.",
+        "explanation-zh-CN": "Pick up (接電话/撿起)."
     },
     {
         "id": "pv14",
         "title": "Check In",
         "content": "Check [in|on] at the hotel. Check [out|off] anytime.",
         "explanation-zh-TW": "Check in (登記入住).",
-        "explanation-en-US": "Register."
+        "explanation-en-US": "Register.",
+        "explanation-zh-CN": "Check in (登记入住)."
     },
     {
         "id": "pv15",
         "title": "Try On",
         "content": "Can I try [on|in] this shirt? Try it [on|out].",
         "explanation-zh-TW": "Try on (試穿).",
-        "explanation-en-US": "Test clothes."
+        "explanation-en-US": "Test clothes.",
+        "explanation-zh-CN": "Try on (試穿)."
     }
 ]

@@ -126,7 +126,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
   Future<void> _loadLevel() async {
     try {
       final String response = await rootBundle.loadString(
-        'assets/data/fruits.json',
+        'assets/data/an_a_the.json',
       );
       final List<dynamic> data = json.decode(response);
       _totalLevels = data.length;

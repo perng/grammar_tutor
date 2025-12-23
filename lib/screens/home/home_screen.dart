@@ -59,7 +59,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final Map<String, String> _itemPathToAsset = {
     '/singular-plural': 'assets/data/singular.json',
     '/article-game': 'assets/data/articles.json',
-    '/an-a-the': 'assets/data/fruits.json',
+    '/an-a-the': 'assets/data/an_a_the.json',
     '/verb-game': 'assets/data/verbs.json',
     '/be-verb-game': 'assets/data/be_verb_adjectives.json',
     '/question-game': 'assets/data/question_formation.json',

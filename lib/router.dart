@@ -62,7 +62,7 @@ final router = GoRouter(
           path: '/an-a-the',
           builder: (context, state) => const StoryMenuScreen(
             title: 'A, An, or The',
-            assetPath: 'assets/data/fruits.json',
+            assetPath: 'assets/data/an_a_the.json',
             routePrefix: '/an-a-the',
             progressKeyPrefix: 'an-a-the',
           ),

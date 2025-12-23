@@ -118,5 +118,285 @@
         "explanation-zh-TW": "Theft passive.",
         "explanation-en-US": "Theft.",
         "explanation-zh-CN": "Theft passive."
+    },
+    {
+        "id": "auto_passive_voice_16",
+        "title": "Simple Past 16",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_17",
+        "title": "Simple Past 17",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_18",
+        "title": "By phrase 18",
+        "content": "The book was written [by|with] him.",
+        "explanation-zh-TW": "Passive uses 'by' for agent.",
+        "explanation-en-US": "Passive uses 'by' for agent.",
+        "explanation-zh-CN": "Passive uses 'by' for agent."
+    },
+    {
+        "id": "auto_passive_voice_19",
+        "title": "Future 19",
+        "content": "It will be [done|do] soon.",
+        "explanation-zh-TW": "Will be + PP.",
+        "explanation-en-US": "Will be + PP.",
+        "explanation-zh-CN": "Will be + PP."
+    },
+    {
+        "id": "auto_passive_voice_20",
+        "title": "Simple Past 20",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_21",
+        "title": "Simple Present 21",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_22",
+        "title": "Present Perfect 22",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_23",
+        "title": "Simple Present 23",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_24",
+        "title": "By phrase 24",
+        "content": "The book was written [by|with] him.",
+        "explanation-zh-TW": "Passive uses 'by' for agent.",
+        "explanation-en-US": "Passive uses 'by' for agent.",
+        "explanation-zh-CN": "Passive uses 'by' for agent."
+    },
+    {
+        "id": "auto_passive_voice_25",
+        "title": "Present Perfect 25",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_26",
+        "title": "Simple Present 26",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_27",
+        "title": "Simple Present 27",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_28",
+        "title": "Simple Present 28",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_29",
+        "title": "Simple Present 29",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_30",
+        "title": "Simple Past 30",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_31",
+        "title": "Simple Past 31",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_32",
+        "title": "Present Perfect 32",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_33",
+        "title": "Simple Present 33",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_34",
+        "title": "Simple Present 34",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_35",
+        "title": "Simple Past 35",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_36",
+        "title": "Present Perfect 36",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_37",
+        "title": "Future 37",
+        "content": "It will be [done|do] soon.",
+        "explanation-zh-TW": "Will be + PP.",
+        "explanation-en-US": "Will be + PP.",
+        "explanation-zh-CN": "Will be + PP."
+    },
+    {
+        "id": "auto_passive_voice_38",
+        "title": "Simple Present 38",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_39",
+        "title": "By phrase 39",
+        "content": "The book was written [by|with] him.",
+        "explanation-zh-TW": "Passive uses 'by' for agent.",
+        "explanation-en-US": "Passive uses 'by' for agent.",
+        "explanation-zh-CN": "Passive uses 'by' for agent."
+    },
+    {
+        "id": "auto_passive_voice_40",
+        "title": "Present Perfect 40",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_41",
+        "title": "By phrase 41",
+        "content": "The book was written [by|with] him.",
+        "explanation-zh-TW": "Passive uses 'by' for agent.",
+        "explanation-en-US": "Passive uses 'by' for agent.",
+        "explanation-zh-CN": "Passive uses 'by' for agent."
+    },
+    {
+        "id": "auto_passive_voice_42",
+        "title": "Simple Past 42",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_43",
+        "title": "Future 43",
+        "content": "It will be [done|do] soon.",
+        "explanation-zh-TW": "Will be + PP.",
+        "explanation-en-US": "Will be + PP.",
+        "explanation-zh-CN": "Will be + PP."
+    },
+    {
+        "id": "auto_passive_voice_44",
+        "title": "Present Perfect 44",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_45",
+        "title": "Present Perfect 45",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_46",
+        "title": "Simple Past 46",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
+    },
+    {
+        "id": "auto_passive_voice_47",
+        "title": "By phrase 47",
+        "content": "The book was written [by|with] him.",
+        "explanation-zh-TW": "Passive uses 'by' for agent.",
+        "explanation-en-US": "Passive uses 'by' for agent.",
+        "explanation-zh-CN": "Passive uses 'by' for agent."
+    },
+    {
+        "id": "auto_passive_voice_48",
+        "title": "Present Perfect 48",
+        "content": "The room has been [cleaned|clean].",
+        "explanation-zh-TW": "Has been + PP.",
+        "explanation-en-US": "Has been + PP.",
+        "explanation-zh-CN": "Has been + PP."
+    },
+    {
+        "id": "auto_passive_voice_49",
+        "title": "Simple Present 49",
+        "content": "The car is [washed|wash] every day.",
+        "explanation-zh-TW": "Be + PP.",
+        "explanation-en-US": "Be + PP.",
+        "explanation-zh-CN": "Be + PP."
+    },
+    {
+        "id": "auto_passive_voice_50",
+        "title": "Simple Past 50",
+        "content": "The house was [built|build] in 1990.",
+        "explanation-zh-TW": "Was/Were + PP.",
+        "explanation-en-US": "Was/Were + PP.",
+        "explanation-zh-CN": "Was/Were + PP."
     }
 ]

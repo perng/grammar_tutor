@@ -238,5 +238,165 @@
         "explanation-zh-TW": "1. **some**: fun 是不可數。\n2. **a**: frisbee 是可數。\n3. **much**: air 是不可數。\n4. **many**: trees 是可數。\n5. **some**: shade 是不可數。",
         "explanation-en-US": "1. **some**: fun is uncountable.\n2. **a frisbee**: countable.\n3. **much**: air is uncountable.\n4. **many**: trees is countable.\n5. **some**: shade is uncountable.",
         "explanation-zh-CN": "1. **some**: fun 是不可数。\n2. **a**: frisbee 是可数。\n3. **much**: air 是不可数。\n4. **many**: trees 是可数。\n5. **some**: shade 是不可数。"
+    },
+    {
+        "id": "auto_countable_uncountable_31",
+        "title": "Bread 31",
+        "content": "I bought some [bread|breads].",
+        "explanation-zh-TW": "Bread is uncountable.",
+        "explanation-en-US": "Bread is uncountable.",
+        "explanation-zh-CN": "Bread is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_32",
+        "title": "Bread 32",
+        "content": "I bought some [bread|breads].",
+        "explanation-zh-TW": "Bread is uncountable.",
+        "explanation-en-US": "Bread is uncountable.",
+        "explanation-zh-CN": "Bread is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_33",
+        "title": "Much/Many 33",
+        "content": "How [much|many] money?",
+        "explanation-zh-TW": "Money is uncountable.",
+        "explanation-en-US": "Money is uncountable.",
+        "explanation-zh-CN": "Money is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_34",
+        "title": "Uncountable 34",
+        "content": "I need some [water|waters].",
+        "explanation-zh-TW": "Water is uncountable.",
+        "explanation-en-US": "Water is uncountable.",
+        "explanation-zh-CN": "Water is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_35",
+        "title": "Uncountable 35",
+        "content": "I need some [water|waters].",
+        "explanation-zh-TW": "Water is uncountable.",
+        "explanation-en-US": "Water is uncountable.",
+        "explanation-zh-CN": "Water is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_36",
+        "title": "A few/little 36",
+        "content": "I have a [few|little] friends.",
+        "explanation-zh-TW": "Friends are countable.",
+        "explanation-en-US": "Friends are countable.",
+        "explanation-zh-CN": "Friends are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_37",
+        "title": "Bread 37",
+        "content": "I bought some [bread|breads].",
+        "explanation-zh-TW": "Bread is uncountable.",
+        "explanation-en-US": "Bread is uncountable.",
+        "explanation-zh-CN": "Bread is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_38",
+        "title": "Much/Many 38",
+        "content": "How [much|many] money?",
+        "explanation-zh-TW": "Money is uncountable.",
+        "explanation-en-US": "Money is uncountable.",
+        "explanation-zh-CN": "Money is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_39",
+        "title": "A few/little 39",
+        "content": "I have a [few|little] friends.",
+        "explanation-zh-TW": "Friends are countable.",
+        "explanation-en-US": "Friends are countable.",
+        "explanation-zh-CN": "Friends are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_40",
+        "title": "Uncountable 40",
+        "content": "I need some [water|waters].",
+        "explanation-zh-TW": "Water is uncountable.",
+        "explanation-en-US": "Water is uncountable.",
+        "explanation-zh-CN": "Water is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_41",
+        "title": "Uncountable 41",
+        "content": "I need some [water|waters].",
+        "explanation-zh-TW": "Water is uncountable.",
+        "explanation-en-US": "Water is uncountable.",
+        "explanation-zh-CN": "Water is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_42",
+        "title": "Countable 42",
+        "content": "I have two [cats|cat].",
+        "explanation-zh-TW": "Cats are countable.",
+        "explanation-en-US": "Cats are countable.",
+        "explanation-zh-CN": "Cats are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_43",
+        "title": "A few/little 43",
+        "content": "I have a [few|little] friends.",
+        "explanation-zh-TW": "Friends are countable.",
+        "explanation-en-US": "Friends are countable.",
+        "explanation-zh-CN": "Friends are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_44",
+        "title": "Countable 44",
+        "content": "I have two [cats|cat].",
+        "explanation-zh-TW": "Cats are countable.",
+        "explanation-en-US": "Cats are countable.",
+        "explanation-zh-CN": "Cats are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_45",
+        "title": "Much/Many 45",
+        "content": "How [much|many] money?",
+        "explanation-zh-TW": "Money is uncountable.",
+        "explanation-en-US": "Money is uncountable.",
+        "explanation-zh-CN": "Money is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_46",
+        "title": "A few/little 46",
+        "content": "I have a [few|little] friends.",
+        "explanation-zh-TW": "Friends are countable.",
+        "explanation-en-US": "Friends are countable.",
+        "explanation-zh-CN": "Friends are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_47",
+        "title": "Uncountable 47",
+        "content": "I need some [water|waters].",
+        "explanation-zh-TW": "Water is uncountable.",
+        "explanation-en-US": "Water is uncountable.",
+        "explanation-zh-CN": "Water is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_48",
+        "title": "Bread 48",
+        "content": "I bought some [bread|breads].",
+        "explanation-zh-TW": "Bread is uncountable.",
+        "explanation-en-US": "Bread is uncountable.",
+        "explanation-zh-CN": "Bread is uncountable."
+    },
+    {
+        "id": "auto_countable_uncountable_49",
+        "title": "Countable 49",
+        "content": "I have two [cats|cat].",
+        "explanation-zh-TW": "Cats are countable.",
+        "explanation-en-US": "Cats are countable.",
+        "explanation-zh-CN": "Cats are countable."
+    },
+    {
+        "id": "auto_countable_uncountable_50",
+        "title": "Much/Many 50",
+        "content": "How [much|many] money?",
+        "explanation-zh-TW": "Money is uncountable.",
+        "explanation-en-US": "Money is uncountable.",
+        "explanation-zh-CN": "Money is uncountable."
     }
 ]

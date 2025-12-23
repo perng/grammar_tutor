@@ -118,5 +118,285 @@
         "explanation-zh-TW": "Bed/Lamp -> It, Sister -> She, Dad -> He.",
         "explanation-en-US": "Objects -> It, Sister -> She, Dad -> He.",
         "explanation-zh-CN": "Bed/Lamp -> It, Sister -> She, Dad -> He."
+    },
+    {
+        "id": "auto_pronouns_16",
+        "title": "Possessive Pronoun 16",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_17",
+        "title": "Object 17",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_18",
+        "title": "Object 18",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_19",
+        "title": "Possessive Adj 19",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_20",
+        "title": "Possessive Pronoun 20",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_21",
+        "title": "Possessive Pronoun 21",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_22",
+        "title": "Object 22",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_23",
+        "title": "Subject 23",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_24",
+        "title": "Possessive Pronoun 24",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_25",
+        "title": "Subject 25",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_26",
+        "title": "Subject 26",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_27",
+        "title": "Possessive Pronoun 27",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_28",
+        "title": "Reflexive 28",
+        "content": "He hurt [himself|him].",
+        "explanation-zh-TW": "Reflexive.",
+        "explanation-en-US": "Reflexive.",
+        "explanation-zh-CN": "Reflexive."
+    },
+    {
+        "id": "auto_pronouns_29",
+        "title": "Possessive Pronoun 29",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_30",
+        "title": "Possessive Adj 30",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_31",
+        "title": "Object 31",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_32",
+        "title": "Reflexive 32",
+        "content": "He hurt [himself|him].",
+        "explanation-zh-TW": "Reflexive.",
+        "explanation-en-US": "Reflexive.",
+        "explanation-zh-CN": "Reflexive."
+    },
+    {
+        "id": "auto_pronouns_33",
+        "title": "Object 33",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_34",
+        "title": "Subject 34",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_35",
+        "title": "Object 35",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_36",
+        "title": "Reflexive 36",
+        "content": "He hurt [himself|him].",
+        "explanation-zh-TW": "Reflexive.",
+        "explanation-en-US": "Reflexive.",
+        "explanation-zh-CN": "Reflexive."
+    },
+    {
+        "id": "auto_pronouns_37",
+        "title": "Reflexive 37",
+        "content": "He hurt [himself|him].",
+        "explanation-zh-TW": "Reflexive.",
+        "explanation-en-US": "Reflexive.",
+        "explanation-zh-CN": "Reflexive."
+    },
+    {
+        "id": "auto_pronouns_38",
+        "title": "Object 38",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
+    },
+    {
+        "id": "auto_pronouns_39",
+        "title": "Possessive Adj 39",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_40",
+        "title": "Subject 40",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_41",
+        "title": "Possessive Adj 41",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_42",
+        "title": "Reflexive 42",
+        "content": "He hurt [himself|him].",
+        "explanation-zh-TW": "Reflexive.",
+        "explanation-en-US": "Reflexive.",
+        "explanation-zh-CN": "Reflexive."
+    },
+    {
+        "id": "auto_pronouns_43",
+        "title": "Subject 43",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_44",
+        "title": "Possessive Adj 44",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_45",
+        "title": "Possessive Pronoun 45",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_46",
+        "title": "Possessive Pronoun 46",
+        "content": "This book is [mine|my].",
+        "explanation-zh-TW": "Possessive Pronoun (no noun).",
+        "explanation-en-US": "Possessive Pronoun (no noun).",
+        "explanation-zh-CN": "Possessive Pronoun (no noun)."
+    },
+    {
+        "id": "auto_pronouns_47",
+        "title": "Possessive Adj 47",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_48",
+        "title": "Subject 48",
+        "content": "[She|Her] is my friend.",
+        "explanation-zh-TW": "Subject pronoun.",
+        "explanation-en-US": "Subject pronoun.",
+        "explanation-zh-CN": "Subject pronoun."
+    },
+    {
+        "id": "auto_pronouns_49",
+        "title": "Possessive Adj 49",
+        "content": "This is [my|mine] book.",
+        "explanation-zh-TW": "Possessive Adjective + Noun.",
+        "explanation-en-US": "Possessive Adjective + Noun.",
+        "explanation-zh-CN": "Possessive Adjective + Noun."
+    },
+    {
+        "id": "auto_pronouns_50",
+        "title": "Object 50",
+        "content": "I saw [him|he].",
+        "explanation-zh-TW": "Object pronoun.",
+        "explanation-en-US": "Object pronoun.",
+        "explanation-zh-CN": "Object pronoun."
     }
 ]

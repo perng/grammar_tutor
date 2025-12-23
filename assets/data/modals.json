@@ -238,5 +238,165 @@
         "explanation-zh-TW": "Critique of past actions.",
         "explanation-en-US": "Criticism of the past.",
         "explanation-zh-CN": "Critique of past actions."
+    },
+    {
+        "id": "auto_modals_31",
+        "title": "Can 31",
+        "content": "I [can|cans] swim.",
+        "explanation-zh-TW": "Modal + Base Verb.",
+        "explanation-en-US": "Modal + Base Verb.",
+        "explanation-zh-CN": "Modal + Base Verb."
+    },
+    {
+        "id": "auto_modals_32",
+        "title": "Could 32",
+        "content": "I [could|can] run fast when young.",
+        "explanation-zh-TW": "Could is past of Can.",
+        "explanation-en-US": "Could is past of Can.",
+        "explanation-zh-CN": "Could is past of Can."
+    },
+    {
+        "id": "auto_modals_33",
+        "title": "Must 33",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_34",
+        "title": "Could 34",
+        "content": "I [could|can] run fast when young.",
+        "explanation-zh-TW": "Could is past of Can.",
+        "explanation-en-US": "Could is past of Can.",
+        "explanation-zh-CN": "Could is past of Can."
+    },
+    {
+        "id": "auto_modals_35",
+        "title": "Should 35",
+        "content": "You [should|should to] go.",
+        "explanation-zh-TW": "Should + Base Verb.",
+        "explanation-en-US": "Should + Base Verb.",
+        "explanation-zh-CN": "Should + Base Verb."
+    },
+    {
+        "id": "auto_modals_36",
+        "title": "Could 36",
+        "content": "I [could|can] run fast when young.",
+        "explanation-zh-TW": "Could is past of Can.",
+        "explanation-en-US": "Could is past of Can.",
+        "explanation-zh-CN": "Could is past of Can."
+    },
+    {
+        "id": "auto_modals_37",
+        "title": "Can 37",
+        "content": "I [can|cans] swim.",
+        "explanation-zh-TW": "Modal + Base Verb.",
+        "explanation-en-US": "Modal + Base Verb.",
+        "explanation-zh-CN": "Modal + Base Verb."
+    },
+    {
+        "id": "auto_modals_38",
+        "title": "Must 38",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_39",
+        "title": "Could 39",
+        "content": "I [could|can] run fast when young.",
+        "explanation-zh-TW": "Could is past of Can.",
+        "explanation-en-US": "Could is past of Can.",
+        "explanation-zh-CN": "Could is past of Can."
+    },
+    {
+        "id": "auto_modals_40",
+        "title": "Must 40",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_41",
+        "title": "Must 41",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_42",
+        "title": "Should 42",
+        "content": "You [should|should to] go.",
+        "explanation-zh-TW": "Should + Base Verb.",
+        "explanation-en-US": "Should + Base Verb.",
+        "explanation-zh-CN": "Should + Base Verb."
+    },
+    {
+        "id": "auto_modals_43",
+        "title": "Could 43",
+        "content": "I [could|can] run fast when young.",
+        "explanation-zh-TW": "Could is past of Can.",
+        "explanation-en-US": "Could is past of Can.",
+        "explanation-zh-CN": "Could is past of Can."
+    },
+    {
+        "id": "auto_modals_44",
+        "title": "Should 44",
+        "content": "You [should|should to] go.",
+        "explanation-zh-TW": "Should + Base Verb.",
+        "explanation-en-US": "Should + Base Verb.",
+        "explanation-zh-CN": "Should + Base Verb."
+    },
+    {
+        "id": "auto_modals_45",
+        "title": "Must 45",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_46",
+        "title": "Must 46",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
+    },
+    {
+        "id": "auto_modals_47",
+        "title": "Can 47",
+        "content": "I [can|cans] swim.",
+        "explanation-zh-TW": "Modal + Base Verb.",
+        "explanation-en-US": "Modal + Base Verb.",
+        "explanation-zh-CN": "Modal + Base Verb."
+    },
+    {
+        "id": "auto_modals_48",
+        "title": "Might 48",
+        "content": "It [might|mights] rain.",
+        "explanation-zh-TW": "Might + Base Verb.",
+        "explanation-en-US": "Might + Base Verb.",
+        "explanation-zh-CN": "Might + Base Verb."
+    },
+    {
+        "id": "auto_modals_49",
+        "title": "Might 49",
+        "content": "It [might|mights] rain.",
+        "explanation-zh-TW": "Might + Base Verb.",
+        "explanation-en-US": "Might + Base Verb.",
+        "explanation-zh-CN": "Might + Base Verb."
+    },
+    {
+        "id": "auto_modals_50",
+        "title": "Must 50",
+        "content": "We [must|must to] study.",
+        "explanation-zh-TW": "Must + Base Verb.",
+        "explanation-en-US": "Must + Base Verb.",
+        "explanation-zh-CN": "Must + Base Verb."
     }
 ]

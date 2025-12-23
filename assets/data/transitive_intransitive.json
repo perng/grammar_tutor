@@ -238,5 +238,165 @@
         "explanation-zh-TW": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (時間流逝)。\n5. **passed**: 及物 (通過考試)。",
         "explanation-zh-CN": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (时间流逝)。\n5. **passed**: 及物 (通过考试)。",
         "explanation-en-US": "1. **studied**: Transitive.\n2. **occurred**: Intransitive.\n3. **answered**: Transitive.\n4. **passed**: Intransitive (time).\n5. **passed**: Transitive (exam)."
+    },
+    {
+        "id": "auto_transitive_intransitive_31",
+        "title": "Intransitive 31",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_32",
+        "title": "Transitive 32",
+        "content": "I [bought|arrive] a car.",
+        "explanation-zh-TW": "Buy needs an object.",
+        "explanation-en-US": "Buy needs an object.",
+        "explanation-zh-CN": "Buy needs an object."
+    },
+    {
+        "id": "auto_transitive_intransitive_33",
+        "title": "Intransitive 33",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_34",
+        "title": "Intransitive 34",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_35",
+        "title": "Give 35",
+        "content": "Give [me|to me] the book.",
+        "explanation-zh-TW": "Give + IO + DO.",
+        "explanation-en-US": "Give + IO + DO.",
+        "explanation-zh-CN": "Give + IO + DO."
+    },
+    {
+        "id": "auto_transitive_intransitive_36",
+        "title": "Sleep 36",
+        "content": "She [slept|hit] soundly.",
+        "explanation-zh-TW": "Sleep takes no object.",
+        "explanation-en-US": "Sleep takes no object.",
+        "explanation-zh-CN": "Sleep takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_37",
+        "title": "Kick 37",
+        "content": "He [kicked|slept] the ball.",
+        "explanation-zh-TW": "Kick needs object.",
+        "explanation-en-US": "Kick needs object.",
+        "explanation-zh-CN": "Kick needs object."
+    },
+    {
+        "id": "auto_transitive_intransitive_38",
+        "title": "Give 38",
+        "content": "Give [me|to me] the book.",
+        "explanation-zh-TW": "Give + IO + DO.",
+        "explanation-en-US": "Give + IO + DO.",
+        "explanation-zh-CN": "Give + IO + DO."
+    },
+    {
+        "id": "auto_transitive_intransitive_39",
+        "title": "Kick 39",
+        "content": "He [kicked|slept] the ball.",
+        "explanation-zh-TW": "Kick needs object.",
+        "explanation-en-US": "Kick needs object.",
+        "explanation-zh-CN": "Kick needs object."
+    },
+    {
+        "id": "auto_transitive_intransitive_40",
+        "title": "Transitive 40",
+        "content": "I [bought|arrive] a car.",
+        "explanation-zh-TW": "Buy needs an object.",
+        "explanation-en-US": "Buy needs an object.",
+        "explanation-zh-CN": "Buy needs an object."
+    },
+    {
+        "id": "auto_transitive_intransitive_41",
+        "title": "Sleep 41",
+        "content": "She [slept|hit] soundly.",
+        "explanation-zh-TW": "Sleep takes no object.",
+        "explanation-en-US": "Sleep takes no object.",
+        "explanation-zh-CN": "Sleep takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_42",
+        "title": "Intransitive 42",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_43",
+        "title": "Intransitive 43",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_44",
+        "title": "Give 44",
+        "content": "Give [me|to me] the book.",
+        "explanation-zh-TW": "Give + IO + DO.",
+        "explanation-en-US": "Give + IO + DO.",
+        "explanation-zh-CN": "Give + IO + DO."
+    },
+    {
+        "id": "auto_transitive_intransitive_45",
+        "title": "Intransitive 45",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_46",
+        "title": "Kick 46",
+        "content": "He [kicked|slept] the ball.",
+        "explanation-zh-TW": "Kick needs object.",
+        "explanation-en-US": "Kick needs object.",
+        "explanation-zh-CN": "Kick needs object."
+    },
+    {
+        "id": "auto_transitive_intransitive_47",
+        "title": "Sleep 47",
+        "content": "She [slept|hit] soundly.",
+        "explanation-zh-TW": "Sleep takes no object.",
+        "explanation-en-US": "Sleep takes no object.",
+        "explanation-zh-CN": "Sleep takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_48",
+        "title": "Kick 48",
+        "content": "He [kicked|slept] the ball.",
+        "explanation-zh-TW": "Kick needs object.",
+        "explanation-en-US": "Kick needs object.",
+        "explanation-zh-CN": "Kick needs object."
+    },
+    {
+        "id": "auto_transitive_intransitive_49",
+        "title": "Intransitive 49",
+        "content": "The baby [cried|bought].",
+        "explanation-zh-TW": "Cry takes no object.",
+        "explanation-en-US": "Cry takes no object.",
+        "explanation-zh-CN": "Cry takes no object."
+    },
+    {
+        "id": "auto_transitive_intransitive_50",
+        "title": "Kick 50",
+        "content": "He [kicked|slept] the ball.",
+        "explanation-zh-TW": "Kick needs object.",
+        "explanation-en-US": "Kick needs object.",
+        "explanation-zh-CN": "Kick needs object."
     }
 ]

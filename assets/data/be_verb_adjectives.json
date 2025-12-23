@@ -118,5 +118,285 @@
         "explanation-zh-TW": "Ocean/Sand/Sun -> is, Waves/We -> are.",
         "explanation-zh-CN": "Ocean/Sand/Sun -> is, Waves/We -> are.",
         "explanation-en-US": "Singular/Uncountable -> is, Plural -> are."
+    },
+    {
+        "title": "My Cat",
+        "id": "gen_cat",
+        "content": "My cat [is|am|are] very cute. It [is|am|are] black and white. Its eyes [are|is|am] green. I [am|is|are] its best friend.",
+        "explanation-zh-TW": "單數主詞 (My cat, It) 用 is；複數主詞 (Its eyes) 用 are；I 用 am。",
+        "explanation-en-US": "Use 'is' for singular subjects (My cat, It), 'are' for plural subjects (Its eyes), and 'am' for I.",
+        "explanation-zh-CN": "单数主语 (My cat, It) 用 is；复数主语 (Its eyes) 用 are；I 用 am。"
+    },
+    {
+        "title": "The Ocean",
+        "id": "gen_ocean",
+        "content": "The ocean [is|am|are] deep and blue. The waves [are|is|am] strong. There [are|is|am] many fish. It [is|am|are] beautiful.",
+        "explanation-zh-TW": "Ocean 是單數用 is；Waves 和 Fish (many) 是複數用 are。",
+        "explanation-en-US": "Ocean is singular (is); Waves and Fish are plural (are).",
+        "explanation-zh-CN": "Ocean 是单数用 is；Waves 和 Fish (many) 是复数用 are。"
+    },
+    {
+        "title": "My Teacher",
+        "id": "gen_teacher",
+        "content": "My teacher [is|am|are] kind. She [is|am|are] very smart. We [are|is|am] good students. The class [is|am|are] interesting.",
+        "explanation-zh-TW": "Teacher/She/Class 是單數用 is；We 是複數用 are。",
+        "explanation-en-US": "Use 'is' for singular (Teacher, She, Class) and 'are' for plural (We).",
+        "explanation-zh-CN": "Teacher/She/Class 是单数用 is；We 是复数用 are。"
+    },
+    {
+        "title": "Fruits",
+        "id": "gen_fruits",
+        "content": "Apples [are|is|am] red. A banana [is|am|are] yellow. Grapes [are|is|am] purple. This orange [is|am|are] sweet.",
+        "explanation-zh-TW": "複數 (Apples, Grapes) 用 are；單數 (A banana, This orange) 用 is。",
+        "explanation-en-US": "Use 'are' for plural fruits and 'is' for singular ones.",
+        "explanation-zh-CN": "复数 (Apples, Grapes) 用 are；单数 (A banana, This orange) 用 is。"
+    },
+    {
+        "title": "My Shoes",
+        "id": "gen_shoes",
+        "content": "My shoes [are|is|am] new. They [are|is|am] very comfortable. One shoe [is|am|are] missing. Where [is|am|are] it?",
+        "explanation-zh-TW": "Shoes/They 是複數用 are；One shoe/It 是單數用 is。",
+        "explanation-en-US": "Shoes/They are plural (are); One shoe/It is singular (is).",
+        "explanation-zh-CN": "Shoes/They 是复数用 are；One shoe/It 是单数用 is。"
+    },
+    {
+        "title": "The City",
+        "id": "gen_city",
+        "content": "The city [is|am|are] busy. The streets [are|is|am] crowded. The buildings [are|is|am] tall. I [am|is|are] happy to be here.",
+        "explanation-zh-TW": "City 是單數用 is；Streets/Buildings 是複數用 are；I 用 am。",
+        "explanation-en-US": "City is singular (is); Streets/Buildings are plural (are); I am.",
+        "explanation-zh-CN": "City 是单数用 is；Streets/Buildings 是复数用 are；I 用 am。"
+    },
+    {
+        "title": "Winter",
+        "id": "gen_winter",
+        "content": "It [is|am|are] cold in winter. The snow [is|am|are] white. The days [are|is|am] short. We [are|is|am] cold.",
+        "explanation-zh-TW": "It/Snow 是單數/不可數用 is；Days/We 是複數用 are。",
+        "explanation-en-US": "It/Snow uses 'is'; Days/We uses 'are'.",
+        "explanation-zh-CN": "It/Snow 是单数/不可数用 is；Days/We 是复数用 are。"
+    },
+    {
+        "title": "My Bedroom",
+        "id": "gen_bedroom",
+        "content": "My bedroom [is|am|are] small. The walls [are|is|am] blue. My bed [is|am|are] soft. The pillows [are|is|am] white.",
+        "explanation-zh-TW": "Bedroom/Bed 是單數用 is；Walls/Pillows 是複數用 are。",
+        "explanation-en-US": "Bedroom/Bed is singular (is); Walls/Pillows are plural (are).",
+        "explanation-zh-CN": "Bedroom/Bed 是单数用 is；Walls/Pillows 是复数用 are。"
+    },
+    {
+        "title": "The Zoo",
+        "id": "gen_zoo",
+        "content": "The lions [are|is|am] loud. The heavy bear [is|am|are] sleepy. Giraffes [are|is|am] tall. The zoo [is|am|are] fun.",
+        "explanation-zh-TW": "Lions/Giraffes 是複數用 are；Bear/Zoo 是單數用 is。",
+        "explanation-en-US": "Plural animals use 'are'; singular ones use 'is'.",
+        "explanation-zh-CN": "Lions/Giraffes 是复数用 are；Bear/Zoo 是单数用 is。"
+    },
+    {
+        "title": "Elephant",
+        "id": "gen_elephant",
+        "content": "The elephant [is|am|are] big. Its ears [are|is|am] large. It [is|am|are] grey. We [are|is|am] amazed.",
+        "explanation-zh-TW": "Elephant/It 是單數用 is；Ears/We 是複數用 are。",
+        "explanation-en-US": "Singular uses 'is', plural uses 'are'.",
+        "explanation-zh-CN": "Elephant/It 是单数用 is；Ears/We 是复数用 are。"
+    },
+    {
+        "title": "Coffee",
+        "id": "gen_coffee",
+        "content": "This coffee [is|am|are] hot. It [is|am|are] black. The cups [are|is|am] empty. I [am|is|are] thirsty.",
+        "explanation-zh-TW": "Coffee/It 是單數用 is；Cups 是複數用 are；I 用 am。",
+        "explanation-en-US": "Coffee/It uses 'is'; Cups uses 'are'; I uses 'am'.",
+        "explanation-zh-CN": "Coffee/It 是单数用 is；Cups 是复数用 are；I 用 am。"
+    },
+    {
+        "title": "Ice Cream",
+        "id": "gen_icecream",
+        "content": "Ice cream [is|am|are] sweet. It [is|am|are] cold. The flavors [are|is|am] yummy. We [are|is|am] happy.",
+        "explanation-zh-TW": "Ice cream/It 是單數用 is；Flavors/We 是複數用 are。",
+        "explanation-en-US": "Singular/mass nouns use 'is'; plurals use 'are'.",
+        "explanation-zh-CN": "Ice cream/It 是单数用 is；Flavors/We 是复数用 are。"
+    },
+    {
+        "title": "My Bike",
+        "id": "gen_bike",
+        "content": "My bike [is|am|are] red. The tires [are|is|am] black. It [is|am|are] fast. I [am|is|are] a rider.",
+        "explanation-zh-TW": "Bike/It 是單數用 is；Tires 是複數用 are；I 用 am。",
+        "explanation-en-US": "Bike/It uses 'is'; Tires uses 'are'; I uses 'am'.",
+        "explanation-zh-CN": "Bike/It 是单数用 is；Tires 是复数用 are；I 用 am。"
+    },
+    {
+        "title": "The Library",
+        "id": "gen_library",
+        "content": "The library [is|am|are] quiet. The books [are|is|am] old. The librarian [is|am|are] nice. We [are|is|am] reading.",
+        "explanation-zh-TW": "Library/Librarian 是單數用 is；Books/We 是複數用 are。",
+        "explanation-en-US": "Use 'is' for singular subjects, 'are' for plural.",
+        "explanation-zh-CN": "Library/Librarian 是单数用 is；Books/We 是复数用 are。"
+    },
+    {
+        "title": "Sports",
+        "id": "gen_sports",
+        "content": "Soccer [is|am|are] fun. The players [are|is|am] fast. The ball [is|am|are] round. We [are|is|am] tired.",
+        "explanation-zh-TW": "Soccer/Ball 是單數用 is；Players/We 是複數用 are。",
+        "explanation-en-US": "Use 'is' for singular, 'are' for plural.",
+        "explanation-zh-CN": "Soccer/Ball 是单数用 is；Players/We 是复数用 are。"
+    },
+    {
+        "title": "Music",
+        "id": "gen_music",
+        "content": "The music [is|am|are] loud. The songs [are|is|am] good. The singer [is|am|are] famous. You [are|is|am] dancing.",
+        "explanation-zh-TW": "Music/Singer 是單數用 is；Songs/You 是複數/第二人稱用 are。",
+        "explanation-en-US": "Music/Singer uses 'is'; Songs/You uses 'are'.",
+        "explanation-zh-CN": "Music/Singer 是单数用 is；Songs/You 是复数/第二人称用 are。"
+    },
+    {
+        "title": "The Movie",
+        "id": "gen_movie",
+        "content": "The movie [is|am|are] scary. The actors [are|is|am] great. It [is|am|are] long. We [are|is|am] bored.",
+        "explanation-zh-TW": "Movie/It 是單數用 is；Actors/We 是複數用 are。",
+        "explanation-en-US": "Singular uses 'is', plural uses 'are'.",
+        "explanation-zh-CN": "Movie/It 是单数用 is；Actors/We 是复数用 are。"
+    },
+    {
+        "title": "My Room",
+        "id": "gen_room",
+        "content": "My room [is|am|are] messy. My clothes [are|is|am] everywhere. My mom [is|am|are] angry. I [am|is|are] sorry.",
+        "explanation-zh-TW": "Room/Mom 是單數用 is；Clothes (複數) 用 are；I 用 am。",
+        "explanation-en-US": "Room/Mom is singular (is); Clothes are plural (are); I am.",
+        "explanation-zh-CN": "Room/Mom 是单数用 is；Clothes (复数) 用 are；I 用 am。"
+    },
+    {
+        "title": "The Park",
+        "id": "gen_park",
+        "content": "The park [is|am|are] big. The trees [are|is|am] green. The flowers [are|is|am] pretty. It [is|am|are] nice.",
+        "explanation-zh-TW": "Park/It 是單數用 is；Trees/Flowers 是複數用 are。",
+        "explanation-en-US": "Park/It uses 'is'; Trees/Flowers uses 'are'.",
+        "explanation-zh-CN": "Park/It 是单数用 is；Trees/Flowers 是复数用 are。"
+    },
+    {
+        "title": "Birds",
+        "id": "gen_birds",
+        "content": "The bird [is|am|are] singing. The birds [are|is|am] flying. They [are|is|am] fast. It [is|am|are] small.",
+        "explanation-zh-TW": "Bird/It 是單數用 is；Birds/They 是複數用 are。",
+        "explanation-en-US": "Singular uses 'is', plural uses 'are'.",
+        "explanation-zh-CN": "Bird/It 是单数用 is；Birds/They 是复数用 are。"
+    },
+    {
+        "title": "The River",
+        "id": "gen_river",
+        "content": "The river [is|am|are] long. The water [is|am|are] clear. The fish [are|is|am] swimming. It [is|am|are] quiet.",
+        "explanation-zh-TW": "River/Water/It 是單數用 is；Fish (複數) 用 are。",
+        "explanation-en-US": "River/Water/It uses 'is'; Fish (plural) uses 'are'.",
+        "explanation-zh-CN": "River/Water/It 是单数用 is；Fish (复数) 用 are。"
+    },
+    {
+        "title": "My Computer",
+        "id": "gen_computer",
+        "content": "My computer [is|am|are] old. The screen [is|am|are] bright. Examples [are|is|am] easy. I [am|is|are] busy.",
+        "explanation-zh-TW": "Computer/Screen 是單數用 is；Examples 是複數用 are；I 用 am。",
+        "explanation-en-US": "Computer/Screen uses 'is'; Examples uses 'are'; I uses 'am'.",
+        "explanation-zh-CN": "Computer/Screen 是单数用 is；Examples 是复数用 are；I 用 am。"
+    },
+    {
+        "title": "Be Careful",
+        "id": "gen_careful",
+        "content": "Be careful! The floor [is|am|are] wet. You [are|is|am] too fast. We [are|is|am] safe. He [is|am|are] falling.",
+        "explanation-zh-TW": "Floor/He 是單數用 is；You/We 是複數/第二人稱用 are。",
+        "explanation-en-US": "Floor/He uses 'is'; You/We uses 'are'.",
+        "explanation-zh-CN": "Floor/He 是单数用 is；You/We 是复数/第二人称用 are。"
+    },
+    {
+        "title": "Who is it?",
+        "id": "gen_who",
+        "content": "Who [is|am|are] that? It [is|am|are] my dad. You [are|is|am] tall. They [are|is|am] confused.",
+        "explanation-zh-TW": "Who/It (單數) 用 is；You/They 用 are。",
+        "explanation-en-US": "Who/It uses 'is'; You/They uses 'are'.",
+        "explanation-zh-CN": "Who/It (单数) 用 is；You/They 用 are。"
+    },
+    {
+        "title": "They are Here",
+        "id": "gen_here",
+        "content": "They [are|is|am] here. She [is|am|are] there. We [are|is|am] late. The bus [is|am|are] gone.",
+        "explanation-zh-TW": "They/We 用 are；She/Bus 用 is。",
+        "explanation-en-US": "They/We uses 'are'; She/Bus uses 'is'.",
+        "explanation-zh-CN": "They/We 用 are；She/Bus 用 is。"
+    },
+    {
+        "title": "I am Tall",
+        "id": "gen_tall",
+        "content": "I [am|is|are] tall. My brother [is|am|are] short. We [are|is|am] different. He [is|am|are] funny.",
+        "explanation-zh-TW": "I 用 am；Brother/He 用 is；We 用 are。",
+        "explanation-en-US": "I am; Brother/He is; We are.",
+        "explanation-zh-CN": "I 用 am；Brother/He 用 is；We 用 are。"
+    },
+    {
+        "title": "She is Smart",
+        "id": "gen_smart",
+        "content": "She [is|am|are] smart. Her grades [are|is|am] good. The test [is|am|are] hard. You [are|is|am] ready.",
+        "explanation-zh-TW": "She/Test 用 is；Grades/You 用 are。",
+        "explanation-en-US": "She/Test uses 'is'; Grades/You uses 'are'.",
+        "explanation-zh-CN": "She/Test 用 is；Grades/You 用 are。"
+    },
+    {
+        "title": "We are Lost",
+        "id": "gen_lost",
+        "content": "We [are|is|am] lost. The map [is|am|are] confusing. The road [is|am|are] dark. I [am|is|are] scared.",
+        "explanation-zh-TW": "We 用 are；Map/Road 用 is；I 用 am。",
+        "explanation-en-US": "We use 'are'; Map/Road uses 'is'; I use 'am'.",
+        "explanation-zh-CN": "We 用 are；Map/Road 用 is；I 用 am。"
+    },
+    {
+        "title": "It is Late",
+        "id": "gen_late",
+        "content": "It [is|am|are] late. The shops [are|is|am] closed. The moon [is|am|are] up. We [are|is|am] sleepy.",
+        "explanation-zh-TW": "It/Moon 用 is；Shops/We 用 are。",
+        "explanation-en-US": "It/Moon uses 'is'; Shops/We uses 'are'.",
+        "explanation-zh-CN": "It/Moon 用 is；Shops/We 用 are。"
+    },
+    {
+        "title": "My Lunch",
+        "id": "gen_lunch",
+        "content": "My lunch [is|am|are] delicious. The sandwich [is|am|are] big. The chips [are|is|am] salty. I [am|is|are] full.",
+        "explanation-zh-TW": "Lunch/Sandwich 用 is；Chips 用 are；I 用 am。",
+        "explanation-en-US": "Lunch/Sandwich uses 'is'; Chips uses 'are'; I uses 'am'.",
+        "explanation-zh-CN": "Lunch/Sandwich 用 is；Chips 用 are；I 用 am。"
+    },
+    {
+        "title": "Bunnies",
+        "id": "gen_bunnies",
+        "content": "The bunnies [are|is|am] cute. Their ears [are|is|am] long. One bunny [is|am|are] white. It [is|am|are] jumping.",
+        "explanation-zh-TW": "Bunnies/Ears 用 are；One bunny/It 用 is。",
+        "explanation-en-US": "Plurals use 'are'; singulars use 'is'.",
+        "explanation-zh-CN": "Bunnies/Ears 用 are；One bunny/It 用 is。"
+    },
+    {
+        "title": "The Doctor",
+        "id": "gen_doctor",
+        "content": "The doctor [is|am|are] helpful. The nurses [are|is|am] busy. My arm [is|am|are] sore. I [am|is|are] okay.",
+        "explanation-zh-TW": "Doctor/Arm 用 is；Nurses 用 are；I 用 am。",
+        "explanation-en-US": "Doctor/Arm uses 'is'; Nurses uses 'are'; I uses 'am'.",
+        "explanation-zh-CN": "Doctor/Arm 用 is；Nurses 用 are；I 用 am。"
+    },
+    {
+        "title": "Stars",
+        "id": "gen_stars",
+        "content": "The stars [are|is|am] bright. The night [is|am|are] dark. It [is|am|are] silent. We [are|is|am] watching.",
+        "explanation-zh-TW": "Stars/We 用 are；Night/It 用 is。",
+        "explanation-en-US": "Stars/We uses 'are'; Night/It uses 'is'.",
+        "explanation-zh-CN": "Stars/We 用 are；Night/It 用 is。"
+    },
+    {
+        "title": "My Family",
+        "id": "gen_family",
+        "content": "My family [is|am|are] big. My cousins [are|is|am] funny. My aunt [is|am|are] nice. We [are|is|am] together.",
+        "explanation-zh-TW": "Family/Aunt 用 is; Cousins/We 用 are。",
+        "explanation-en-US": "Family/Aunt uses 'is'; Cousins/We uses 'are'.",
+        "explanation-zh-CN": "Family/Aunt 用 is; Cousins/We 用 are。"
+    },
+    {
+        "title": "School Trip",
+        "id": "gen_trip",
+        "content": "The trip [is|am|are] exciting. The bus [is|am|are] yellow. The seats [are|is|am] small. We [are|is|am] loud.",
+        "explanation-zh-TW": "Trip/Bus 用 is；Seats/We 用 are。",
+        "explanation-en-US": "Trip/Bus uses 'is'; Seats/We uses 'are'.",
+        "explanation-zh-CN": "Trip/Bus 用 is；Seats/We 用 are。"
     }
 ]

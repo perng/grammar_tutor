@@ -118,5 +118,285 @@
         "explanation-zh-TW": "# ❄️ 冬季 (現在簡單式)\n\n描述自然現象或季節特徵，用現在簡單式。\n\n1. [is]: It is\n2. [falls]: Snow (Uncountable/It) falls\n3. [wear]: People (They) wear\n4. [make]: I make\n5. [gets]: Nose (It) gets\n6. [drink]: We drink\n7. [become]: Days (They) become\n8. [fly]: Birds (They) fly\n9. [sleep]: Bears (They) sleep\n10. [is]: Winter (It) is",
         "explanation-en-US": "# ❄️ Winter Season (Simple Present)\n\nFacts about nature use Simple Present.\n\n1. [is]: It is\n2. [falls]: Snow falls\n3. [wear]: People wear\n4. [make]: I make\n5. [gets]: It gets\n6. [drink]: We drink\n7. [become]: Days become\n8. [fly]: There fly\n9. [sleep]: Bears sleep\n10. [is]: Winter is",
         "explanation-zh-CN": "# ❄️ 冬季 (现在简单式)\n\n描述自然现象或季节特徵，用现在简单式。\n\n1. [is]: It is\n2. [falls]: Snow (Uncountable/It) falls\n3. [wear]: People (They) wear\n4. [make]: I make\n5. [gets]: Nose (It) gets\n6. [drink]: We drink\n7. [become]: Days (They) become\n8. [fly]: Birds (They) fly\n9. [sleep]: Bears (They) sleep\n10. [is]: Winter (It) is"
+    },
+    {
+        "id": "auto_verbs_16",
+        "title": "Continuous 16",
+        "content": "I am [running|run] now.",
+        "explanation-zh-TW": "Be + ing.",
+        "explanation-en-US": "Be + ing.",
+        "explanation-zh-CN": "Be + ing."
+    },
+    {
+        "id": "auto_verbs_17",
+        "title": "Continuous 17",
+        "content": "I am [running|run] now.",
+        "explanation-zh-TW": "Be + ing.",
+        "explanation-en-US": "Be + ing.",
+        "explanation-zh-CN": "Be + ing."
+    },
+    {
+        "id": "auto_verbs_18",
+        "title": "Future 18",
+        "content": "I [will go|go] tomorrow.",
+        "explanation-zh-TW": "Future with will.",
+        "explanation-en-US": "Future with will.",
+        "explanation-zh-CN": "Future with will."
+    },
+    {
+        "id": "auto_verbs_19",
+        "title": "Continuous 19",
+        "content": "I am [running|run] now.",
+        "explanation-zh-TW": "Be + ing.",
+        "explanation-en-US": "Be + ing.",
+        "explanation-zh-CN": "Be + ing."
+    },
+    {
+        "id": "auto_verbs_20",
+        "title": "Past 20",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_21",
+        "title": "Future 21",
+        "content": "I [will go|go] tomorrow.",
+        "explanation-zh-TW": "Future with will.",
+        "explanation-en-US": "Future with will.",
+        "explanation-zh-CN": "Future with will."
+    },
+    {
+        "id": "auto_verbs_22",
+        "title": "Past 22",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_23",
+        "title": "Continuous 23",
+        "content": "I am [running|run] now.",
+        "explanation-zh-TW": "Be + ing.",
+        "explanation-en-US": "Be + ing.",
+        "explanation-zh-CN": "Be + ing."
+    },
+    {
+        "id": "auto_verbs_24",
+        "title": "3rd Person 24",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_25",
+        "title": "3rd Person 25",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_26",
+        "title": "3rd Person 26",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_27",
+        "title": "Base 27",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_28",
+        "title": "3rd Person 28",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_29",
+        "title": "Past 29",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_30",
+        "title": "Past 30",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_31",
+        "title": "3rd Person 31",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_32",
+        "title": "3rd Person 32",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_33",
+        "title": "Base 33",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_34",
+        "title": "Base 34",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_35",
+        "title": "Past 35",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_36",
+        "title": "Future 36",
+        "content": "I [will go|go] tomorrow.",
+        "explanation-zh-TW": "Future with will.",
+        "explanation-en-US": "Future with will.",
+        "explanation-zh-CN": "Future with will."
+    },
+    {
+        "id": "auto_verbs_37",
+        "title": "Base 37",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_38",
+        "title": "3rd Person 38",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_39",
+        "title": "3rd Person 39",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_40",
+        "title": "Past 40",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_41",
+        "title": "Base 41",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_42",
+        "title": "Base 42",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_43",
+        "title": "3rd Person 43",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_44",
+        "title": "Base 44",
+        "content": "I can [swim|swimming].",
+        "explanation-zh-TW": "Modal + Base.",
+        "explanation-en-US": "Modal + Base.",
+        "explanation-zh-CN": "Modal + Base."
+    },
+    {
+        "id": "auto_verbs_45",
+        "title": "Future 45",
+        "content": "I [will go|go] tomorrow.",
+        "explanation-zh-TW": "Future with will.",
+        "explanation-en-US": "Future with will.",
+        "explanation-zh-CN": "Future with will."
+    },
+    {
+        "id": "auto_verbs_46",
+        "title": "Past 46",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_47",
+        "title": "Past 47",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
+    },
+    {
+        "id": "auto_verbs_48",
+        "title": "3rd Person 48",
+        "content": "He [walks|walk] to school.",
+        "explanation-zh-TW": "He + s/es.",
+        "explanation-en-US": "He + s/es.",
+        "explanation-zh-CN": "He + s/es."
+    },
+    {
+        "id": "auto_verbs_49",
+        "title": "Future 49",
+        "content": "I [will go|go] tomorrow.",
+        "explanation-zh-TW": "Future with will.",
+        "explanation-en-US": "Future with will.",
+        "explanation-zh-CN": "Future with will."
+    },
+    {
+        "id": "auto_verbs_50",
+        "title": "Past 50",
+        "content": "Yesterday I [walked|walk].",
+        "explanation-zh-TW": "Past tense.",
+        "explanation-en-US": "Past tense.",
+        "explanation-zh-CN": "Past tense."
     }
 ]

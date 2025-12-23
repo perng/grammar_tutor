@@ -118,5 +118,285 @@
         "explanation-zh-TW": "Announcing news.",
         "explanation-en-US": "Announcing news.",
         "explanation-zh-CN": "Announcing news."
+    },
+    {
+        "id": "auto_present_perfect_16",
+        "title": "For 16",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_17",
+        "title": "Just 17",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_18",
+        "title": "Yet 18",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_19",
+        "title": "Just 19",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_20",
+        "title": "Since 20",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_21",
+        "title": "Already 21",
+        "content": "I have [already|yet] eaten.",
+        "explanation-zh-TW": "Already for positive.",
+        "explanation-en-US": "Already for positive.",
+        "explanation-zh-CN": "Already for positive."
+    },
+    {
+        "id": "auto_present_perfect_22",
+        "title": "For 22",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_23",
+        "title": "Since 23",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_24",
+        "title": "Yet 24",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_25",
+        "title": "Just 25",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_26",
+        "title": "For 26",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_27",
+        "title": "For 27",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_28",
+        "title": "Yet 28",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_29",
+        "title": "Since 29",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_30",
+        "title": "Since 30",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_31",
+        "title": "Just 31",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_32",
+        "title": "Yet 32",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_33",
+        "title": "Since 33",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_34",
+        "title": "Yet 34",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_35",
+        "title": "Just 35",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_36",
+        "title": "Since 36",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_37",
+        "title": "Since 37",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_38",
+        "title": "Yet 38",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_39",
+        "title": "Since 39",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_40",
+        "title": "Already 40",
+        "content": "I have [already|yet] eaten.",
+        "explanation-zh-TW": "Already for positive.",
+        "explanation-en-US": "Already for positive.",
+        "explanation-zh-CN": "Already for positive."
+    },
+    {
+        "id": "auto_present_perfect_41",
+        "title": "For 41",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_42",
+        "title": "Yet 42",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_43",
+        "title": "Since 43",
+        "content": "I have lived here [since|for] 2010.",
+        "explanation-zh-TW": "Since + start point.",
+        "explanation-en-US": "Since + start point.",
+        "explanation-zh-CN": "Since + start point."
+    },
+    {
+        "id": "auto_present_perfect_44",
+        "title": "For 44",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_45",
+        "title": "For 45",
+        "content": "I have lived here [for|since] 10 years.",
+        "explanation-zh-TW": "For + duration.",
+        "explanation-en-US": "For + duration.",
+        "explanation-zh-CN": "For + duration."
+    },
+    {
+        "id": "auto_present_perfect_46",
+        "title": "Yet 46",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
+    },
+    {
+        "id": "auto_present_perfect_47",
+        "title": "Just 47",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_48",
+        "title": "Just 48",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_49",
+        "title": "Just 49",
+        "content": "He has [just|ever] left.",
+        "explanation-zh-TW": "Just = recently.",
+        "explanation-en-US": "Just = recently.",
+        "explanation-zh-CN": "Just = recently."
+    },
+    {
+        "id": "auto_present_perfect_50",
+        "title": "Yet 50",
+        "content": "I haven't finished [yet|already].",
+        "explanation-zh-TW": "Yet for negative.",
+        "explanation-en-US": "Yet for negative.",
+        "explanation-zh-CN": "Yet for negative."
     }
 ]

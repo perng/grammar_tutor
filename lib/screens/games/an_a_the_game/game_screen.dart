@@ -13,13 +13,13 @@ class AnATheWord {
   final String text;
   final String originalText;
   final int index;
-  final bool isSentenceStart;
+  final bool shouldCapitalizeArticle;
 
   AnATheWord({
     required this.text,
     required this.originalText,
     required this.index,
-    required this.isSentenceStart,
+    required this.shouldCapitalizeArticle,
   });
 }
 
@@ -152,6 +152,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
 
     final rawWords = content.split(RegExp(r'\s+'));
     bool isFirstWord = true;
+    bool pendingArticleStart = false;
 
     for (int i = 0; i < rawWords.length; i++) {
       String word = rawWords[i];
@@ -159,22 +160,23 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
       String lower = word.toLowerCase();
       bool isArticle = ['a', 'an', 'the'].contains(lower);
 
-      bool isSentenceStart =
+      bool isCurrentStart =
           isFirstWord || (i > 0 && RegExp(r'[.!?]$').hasMatch(rawWords[i - 1]));
 
       if (isArticle) {
-        correctArticles[i] =
-            lower; // Store raw lower case, capitalize later based on context
+        correctArticles[i] = lower;
+        pendingArticleStart = isCurrentStart;
       } else {
-        // If NOT article, we add it to words list
+        bool shouldCap = isCurrentStart || pendingArticleStart;
         words.add(
           AnATheWord(
-            text: _namesLower.contains(lower) ? word : lower, // Simplification
+            text: _namesLower.contains(lower) ? word : lower,
             originalText: word,
             index: i,
-            isSentenceStart: isSentenceStart,
+            shouldCapitalizeArticle: shouldCap,
           ),
         );
+        pendingArticleStart = false; // Reset after attaching to a noun
       }
 
       if (!isArticle) isFirstWord = false;
@@ -190,15 +192,18 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
   void _toggleArticle(int wordIndex) {
     if (_showResults) return;
 
+    final word = _words.firstWhere((w) => w.index == wordIndex);
+    final bool cap = word.shouldCapitalizeArticle;
+
     setState(() {
       String? current = _playerSelections[wordIndex];
-      // Cycle: null -> a -> an -> the -> null
+      // Cycle: null -> a/A -> an/An -> the/The -> null
       if (current == null) {
-        _playerSelections[wordIndex] = 'a';
-      } else if (current == 'a') {
-        _playerSelections[wordIndex] = 'an';
-      } else if (current == 'an') {
-        _playerSelections[wordIndex] = 'the';
+        _playerSelections[wordIndex] = cap ? 'A' : 'a';
+      } else if (current.toLowerCase() == 'a') {
+        _playerSelections[wordIndex] = cap ? 'An' : 'an';
+      } else if (current.toLowerCase() == 'an') {
+        _playerSelections[wordIndex] = cap ? 'The' : 'the';
       } else {
         _playerSelections.remove(wordIndex);
       }
@@ -378,18 +383,22 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                             Color color = Colors.blue;
                             TextDecoration? decoration;
 
+                            // Helper to optionally capitalize
+                            String format(String s) =>
+                                word.shouldCapitalizeArticle
+                                ? _capitalize(s)
+                                : s;
+
                             if (_showResults) {
                               if (isCorrect) {
                                 textToShow = selectedArt!;
                                 color = Colors.green;
                               } else if (isMissed) {
-                                // If I selected something (wrong), show it crossed out, then correct.
-                                // If I selected nothing, just show correct in Orange?
                                 if (selectedArt != null) {
                                   // Show wrong selection crossed out
                                   children.add(
                                     Text(
-                                      "${_capitalize(selectedArt)} ",
+                                      "${selectedArt} ", // Already has correct case from toggle
                                       style: const TextStyle(
                                         fontSize: 18,
                                         color: Colors.red,
@@ -399,10 +408,13 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                                     ),
                                   );
                                 }
-                                textToShow = correctArt!;
-                                color = Colors.orange; // Missed/Correct
+                                textToShow = format(
+                                  correctArt!,
+                                ); // Format correct answer
+                                color = Colors.orange;
                               } else if (isError) {
-                                textToShow = selectedArt!;
+                                textToShow =
+                                    selectedArt!; // Already has correct case
                                 color = Colors.red;
                                 decoration = TextDecoration.lineThrough;
                               }
@@ -413,7 +425,7 @@ class _AnATheGameScreenState extends State<AnATheGameScreen> {
                             if (textToShow.isNotEmpty) {
                               children.add(
                                 Text(
-                                  "${_capitalize(textToShow)} ",
+                                  "$textToShow ",
                                   style: TextStyle(
                                     fontSize: 18,
                                     fontWeight:

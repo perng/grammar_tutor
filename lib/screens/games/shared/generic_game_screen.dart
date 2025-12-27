@@ -57,10 +57,12 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
   bool _isLoading = true;
   bool _showResults = false;
   int _scorePercentage = 0;
+  final ScrollController _scrollController = ScrollController();
+  late ConfettiController _confettiController;
 
   StoryLevel? _story;
   int _totalLevels = 0;
-  late ConfettiController _confettiController;
+
   final Random _random = Random();
 
   // Explanation
@@ -89,6 +91,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
   @override
   void dispose() {
     _confettiController.dispose();
+    _scrollController.dispose();
     super.dispose();
   }
 
@@ -269,6 +272,19 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
     if (percentage == 100 && mounted) {
       _confettiController.play();
     }
+
+    // Auto-scroll to show explanation
+    if (mounted) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_scrollController.hasClients) {
+          _scrollController.animateTo(
+            _scrollController.position.maxScrollExtent,
+            duration: const Duration(milliseconds: 500),
+            curve: Curves.easeOut,
+          );
+        }
+      });
+    }
   }
 
   void _reset() {
@@ -322,6 +338,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
             children: [
               Expanded(
                 child: SingleChildScrollView(
+                  controller: _scrollController,
                   padding: const EdgeInsets.all(24),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.stretch,

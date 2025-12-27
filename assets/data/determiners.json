@@ -21,83 +21,6 @@
     "explanationZhCn": "Neither 表示两者皆非。"
   },
   {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
     "title": "Some vs Any",
     "content": "I don't have [any|some] money.",
     "explanationEnUs": "Any in negative sentences.",
@@ -113,70 +36,21 @@
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
-    "explanationEnUs": "Every + singular noun.",
-    "explanationZhTw": "Every + 單數名詞。",
-    "explanationZhCn": "Every + 单数名词。"
-  },
-  {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
@@ -196,34 +70,6 @@
     "explanationZhCn": "否定句用 Any。"
   },
   {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
     "title": "Some vs Any",
     "content": "I don't have [any|some] money.",
     "explanationEnUs": "Any in negative sentences.",
@@ -231,11 +77,32 @@
     "explanationZhCn": "否定句用 Any。"
   },
   {
-    "title": "Some vs Any",
-    "content": "I don't have [any|some] money.",
-    "explanationEnUs": "Any in negative sentences.",
-    "explanationZhTw": "否定句用 Any。",
-    "explanationZhCn": "否定句用 Any。"
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
   },
   {
     "title": "Some vs Any",
@@ -243,34 +110,6 @@
     "explanationEnUs": "Any in negative sentences.",
     "explanationZhTw": "否定句用 Any。",
     "explanationZhCn": "否定句用 Any。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
-  },
-  {
-    "title": "Neither/Either",
-    "content": "[Neither|Either] of them came.",
-    "explanationEnUs": "Neither means not one and not the other.",
-    "explanationZhTw": "Neither 表示兩者皆非。",
-    "explanationZhCn": "Neither 表示两者皆非。"
   },
   {
     "title": "Neither/Either",
@@ -288,7 +127,63 @@
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Neither/Either",
+    "content": "[Neither|Either] of them came.",
+    "explanationEnUs": "Neither means not one and not the other.",
+    "explanationZhTw": "Neither 表示兩者皆非。",
+    "explanationZhCn": "Neither 表示两者皆非。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
@@ -309,7 +204,84 @@
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Neither/Either",
+    "content": "[Neither|Either] of them came.",
+    "explanationEnUs": "Neither means not one and not the other.",
+    "explanationZhTw": "Neither 表示兩者皆非。",
+    "explanationZhCn": "Neither 表示两者皆非。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Neither/Either",
+    "content": "[Neither|Either] of them came.",
+    "explanationEnUs": "Neither means not one and not the other.",
+    "explanationZhTw": "Neither 表示兩者皆非。",
+    "explanationZhCn": "Neither 表示两者皆非。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
@@ -323,7 +295,14 @@
   },
   {
     "title": "Every vs All",
-    "content": "[Every|All] student has pen.",
+    "content": "[Every|All] student has a pen.",
+    "explanationEnUs": "Every + singular noun.",
+    "explanationZhTw": "Every + 單數名詞。",
+    "explanationZhCn": "Every + 单数名词。"
+  },
+  {
+    "title": "Every vs All",
+    "content": "[Every|All] student has a pen.",
     "explanationEnUs": "Every + singular noun.",
     "explanationZhTw": "Every + 單數名詞。",
     "explanationZhCn": "Every + 单数名词。"
@@ -343,10 +322,31 @@
     "explanationZhCn": "Neither 表示两者皆非。"
   },
   {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
+  },
+  {
     "title": "Neither/Either",
     "content": "[Neither|Either] of them came.",
     "explanationEnUs": "Neither means not one and not the other.",
     "explanationZhTw": "Neither 表示兩者皆非。",
     "explanationZhCn": "Neither 表示两者皆非。"
+  },
+  {
+    "title": "Some vs Any",
+    "content": "I don't have [any|some] money.",
+    "explanationEnUs": "Any in negative sentences.",
+    "explanationZhTw": "否定句用 Any。",
+    "explanationZhCn": "否定句用 Any。"
   }
 ]

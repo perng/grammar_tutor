@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Comparative (Short Adjectives)",
+        "content": "She is [taller|more tall] than her brother. Today is [hotter|more hot] than yesterday.",
+        "explanationEnUs": "For one-syllable adjectives, add -er to form the comparative.",
+        "explanationZhTw": "對於單音節形容詞，加上 -er 構成比較級。",
+        "explanationZhCn": "对于单音节形容词，加上 -er 构成比较级。"
+    },
+    {
+        "title": "Comparative (Long Adjectives)",
+        "content": "This problem is [more difficult|difficulter] than the last one. She is [more famous|famouser] than him.",
+        "explanationEnUs": "For adjectives with two or more syllables (mostly), use 'more' before the adjective.",
+        "explanationZhTw": "對於兩個或更多音節的形容詞（大多數），在形容詞前使用 'more'。",
+        "explanationZhCn": "对于两个 or 更多音节的形容词（大多数），在形容词前使用 'more'。"
+    },
+    {
+        "title": "Superlative",
+        "content": "It was the [happiest|most happy] day of my life. This is the [biggest|most big] cake I've ever seen.",
+        "explanationEnUs": "Add -est (and change y to i) for short adjectives. Use 'the' before superlatives.",
+        "explanationZhTw": "短形容詞加 -est (y 變 i)。最高級前使用 'the'。",
+        "explanationZhCn": "短形容词加 -est (y 变 i)。最高级前使用 'the'。"
+    },
+    {
+        "title": "Irregular Comparisons",
+        "content": "This pizza is [better|gooder] than that one. That was the [worst|baddest] movie ever.",
+        "explanationEnUs": "Good -> Better -> Best. Bad -> Worse -> Worst.",
+        "explanationZhTw": "Good (好) -> Better (更好) -> Best (最好)。Bad (壞) -> Worse (更壞) -> Worst (最壞)。",
+        "explanationZhCn": "Good (好) -> Better (更好) -> Best (最好)。Bad (坏) -> Worse (更坏) -> Worst (最坏)。"
+    }
+]

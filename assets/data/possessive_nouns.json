@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Singular Possession",
+        "content": "This is [Tom's|Toms'] book. The [dog's|dogs'] bone is buried in the yard.",
+        "explanationEnUs": "For singular nouns, add 's to show possession.",
+        "explanationZhTw": "對於單數名詞，加上 's 表示所有格。",
+        "explanationZhCn": "对于单数名词，加上 's 表示所有格。"
+    },
+    {
+        "title": "Plural Possession (ending in s)",
+        "content": "The [teachers'|teacher's] lounge is upstairs. My [parents'|parent's] house is big.",
+        "explanationEnUs": "For plural nouns ending in s, just add an apostrophe after the s.",
+        "explanationZhTw": "對於以 s 結尾的複數名詞，只需在 s 後面加上撇號。",
+        "explanationZhCn": "对于以 s 结尾的复数名词，只需在 s 后面加上撇号。"
+    },
+    {
+        "title": "Irregular Plural Possession",
+        "content": "The [children's|childrens'] toys are everywhere. [Men's|Mens'] clothing is on the second floor.",
+        "explanationEnUs": "For plural nouns not ending in s, add 's (e.g., children's, men's).",
+        "explanationZhTw": "對於不以 s 結尾的複數名詞，加上 's (例如 children's, men's)。",
+        "explanationZhCn": "对于不以 s 结尾的复数名词，加上 's (例如 children's, men's)。"
+    },
+    {
+        "title": "Names Ending in S",
+        "content": "This is [James's|James] car. Or you can say [James'|James] car.",
+        "explanationEnUs": "For names ending in s, you can usually add 's or just the apostrophe (James's or James'). Both are acceptable.",
+        "explanationZhTw": "對於以 s 結尾的名字，通常可以加上 's 或只加撇號 (James's 或 James')。兩者都被接受。",
+        "explanationZhCn": "对于以 s 结尾的名字，通常可以加上 's or 只加撇号 (James's or James')。两者都被接受。"
+    },
+    {
+        "title": "Joint Possession",
+        "content": "This is [Bob and Mary's|Bob's and Mary's] house. They bought it together.",
+        "explanationEnUs": "If two people own something together, add 's only to the second name.",
+        "explanationZhTw": "如果兩個人共同擁有某物，只在第二個名字後加 's。",
+        "explanationZhCn": "如果两个人共同拥有某物，只在第二个名字后加 's。"
+    }
+]

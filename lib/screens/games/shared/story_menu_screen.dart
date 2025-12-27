@@ -55,6 +55,7 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
 
       double avg = levels.isNotEmpty ? totalScore / levels.length : 0.0;
 
+      if (!mounted) return;
       setState(() {
         _levels = levels;
         _progressMap = progress;
@@ -63,9 +64,11 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
       });
     } catch (e) {
       debugPrint('Error loading levels: $e');
-      setState(() {
-        _isLoading = false;
-      });
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+      }
     }
   }
 

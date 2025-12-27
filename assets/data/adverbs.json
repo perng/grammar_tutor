@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Adverbs of Manner",
+        "content": "She sings [beautifully|beautiful]. He runs [quickly|quick].",
+        "explanationEnUs": "Adverbs of manner describe how something is done and usually end in -ly.",
+        "explanationZhTw": "方式副詞描述某事是如何完成的，通常以 -ly 結尾。",
+        "explanationZhCn": "方式副词描述某事是如何完成的，通常以 -ly 结尾。"
+    },
+    {
+        "title": "Frequency Adverbs Position",
+        "content": "I [always eat|eat always] breakfast. He is [never|never is] late.",
+        "explanationEnUs": "Adverbs of frequency usually come before the main verb but after the verb 'to be'.",
+        "explanationZhTw": "頻率副詞通常位於主要動詞之前，但在 'to be' 動詞之後。",
+        "explanationZhCn": "频率副词通常位于主要动词之前，但在 'to be' 动词之后。"
+    },
+    {
+        "title": "Irregular Adverbs",
+        "content": "He works [hard|hardly]. (meaning with effort) She drives [fast|fastly].",
+        "explanationEnUs": "'Hard' is an adverb meaning with effort ('hardly' means barely). 'Fast' is both an adjective and an adverb.",
+        "explanationZhTw": "'Hard' 是副詞，意為努力（'hardly' 意為幾乎不）。'Fast' 既是形容詞也是副詞。",
+        "explanationZhCn": "'Hard' 是副词，意为努力（'hardly' 意为几乎不）。'Fast' 既是形容词也是副词。"
+    },
+    {
+        "title": "Time and Place",
+        "content": "I saw him [here yesterday|yesterday here]. We are going [there now|now there].",
+        "explanationEnUs": "Place adverbs (here, there) usually come before time adverbs (yesterday, now).",
+        "explanationZhTw": "地點副詞 (here, there) 通常在時間副詞 (yesterday, now) 之前。",
+        "explanationZhCn": "地点副词 (here, there) 通常在时间副词 (yesterday, now) 之前。"
+    },
+    {
+        "title": "Degree Adverbs",
+        "content": "It is [too|enough] hot to go out. The water is warm [enough|too].",
+        "explanationEnUs": "'Too' comes before the adjective. 'Enough' comes after the adjective.",
+        "explanationZhTw": "'Too' 位於形容詞之前。'Enough' 位於形容詞之後。",
+        "explanationZhCn": "'Too' 位于形容词之前。'Enough' 位于形容词之后。"
+    }
+]

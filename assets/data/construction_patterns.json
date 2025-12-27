@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Equality (as...as)",
+        "content": "He is as [tall|taller] as his father. She is not as [busy|busier] as I am.",
+        "explanationEnUs": "Use 'as + adjective + as' to show that two things are equal.",
+        "explanationZhTw": "使用 'as + 形容詞 + as' 表示兩事物相等。",
+        "explanationZhCn": "使用 'as + 形容词 + as' 表示两事物相等。"
+    },
+    {
+        "title": "Parallel Increase (The...the...)",
+        "content": "The [more|most] you practice, the [better|best] you become. The [sooner|soon], the [better|best].",
+        "explanationEnUs": "The + comparative ..., the + comparative ... describes two things changing together.",
+        "explanationZhTw": "The + 比較級 ..., the + 比較級 ... 描述兩事物一起變化。",
+        "explanationZhCn": "The + 比较级 ..., the + 比较级 ... 描述两事物一起变化。"
+    },
+    {
+        "title": "Comparatives with 'Than'",
+        "content": "This book is [less expensive|less than] than that one. It is [more interesting|interesting more] than the movie.",
+        "explanationEnUs": "Use 'more/less + adjective + than' for comparisons.",
+        "explanationZhTw": "使用 'more/less + 形容詞 + than' 進行比較。",
+        "explanationZhCn": "使用 'more/less + 形容词 + than' 进行比较。"
+    },
+    {
+        "title": "Repeated Comparatives",
+        "content": "The weather is getting [colder and colder|cold and cold]. He is running [faster and faster|fast and fast].",
+        "explanationEnUs": "Repeat comparatives to show continuous change.",
+        "explanationZhTw": "重複比較級表示持續的變化。",
+        "explanationZhCn": "重复比较级表示持续的变化。"
+    },
+    {
+        "title": "Specific Differences",
+        "content": "He is [much|very] taller than me. She is a [little|more] older than him.",
+        "explanationEnUs": "Use 'much', 'a lot', 'far', or 'a little' to modify comparatives. Do NOT use 'very'.",
+        "explanationZhTw": "使用 'much', 'a lot', 'far', 或 'a little' 修飾比較級。不要使用 'very'。",
+        "explanationZhCn": "使用 'much', 'a lot', 'far', or 'a little' 修饰比较级。不要使用 'very'。"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Present Continuous Basics",
+        "content": "I am [reading|read] a book right now. She is [sleeping|sleep] in her room.",
+        "explanationEnUs": "Use 'am/is/are' + verb-ing for actions happening right now.",
+        "explanationZhTw": "使用 'am/is/are' + 動詞-ing 表示現在正在發生的動作。",
+        "explanationZhCn": "使用 'am/is/are' + 动词-ing 表示现在正在发生的动作。"
+    },
+    {
+        "title": "Spelling Rules (-e)",
+        "content": "He is [making|makeing] a cake. She is [writing|writeing] a letter.",
+        "explanationEnUs": "For verbs ending in 'e', drop the 'e' before adding 'ing' (make -> making).",
+        "explanationZhTw": "對於以 'e' 結尾的動詞，在加 'ing' 之前去掉 'e' (make -> making)。",
+        "explanationZhCn": "对于以 'e' 结尾的动词，在加 'ing' 之前去掉 'e' (make -> making)。"
+    },
+    {
+        "title": "Spelling Rules (Double Consonant)",
+        "content": "He is [sitting|siting] on the chair. They are [running|runing] fast.",
+        "explanationEnUs": "For one-syllable verbs ending in vowel+consonant, double the consonant (sit -> sitting).",
+        "explanationZhTw": "對於以母音+子音結尾的單音節動詞，重複子音 (sit -> sitting)。",
+        "explanationZhCn": "对于以元音+辅音结尾的单音节动词，重复辅音 (sit -> sitting)。"
+    },
+    {
+        "title": "Present Continuous for Future",
+        "content": "I am [meeting|meet] him tomorrow. We are [leaving|leave] next week.",
+        "explanationEnUs": "Present Continuous can also describe planned future arrangements.",
+        "explanationZhTw": "現在進行式也可以描述計劃好的未來安排。",
+        "explanationZhCn": "现在进行时也可以描述计划好的未来安排。"
+    },
+    {
+        "title": "Non-Action Verbs",
+        "content": "I [know|knowing] the answer. She [likes|liking] chocolate. (Not: is knowing/is liking)",
+        "explanationEnUs": "Stative verbs (know, like, want, need) are usually not used in continuous forms.",
+        "explanationZhTw": "狀態動詞 (know, like, want, need) 通常不用於進行式。",
+        "explanationZhCn": "状态动词 (know, like, want, need) 通常不用于进行式。"
+    }
+]

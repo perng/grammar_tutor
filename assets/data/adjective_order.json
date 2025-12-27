@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Size and Color",
+        "content": "A [big red|red big] apple. A [tiny green|green tiny] insect.",
+        "explanationEnUs": "Size comes before Color.",
+        "explanationZhTw": "大小在顏色之前。",
+        "explanationZhCn": "大小在颜色之前。"
+    },
+    {
+        "title": "Opinion and Fact",
+        "content": "A [lovely old|old lovely] lady. A [beautiful sunny|sunny beautiful] day.",
+        "explanationEnUs": "Opinion (lovely, beautiful) comes before Fact (old, sunny).",
+        "explanationZhTw": "觀點 (lovely, beautiful) 在事實 (old, sunny) 之前。",
+        "explanationZhCn": "观点 (lovely, beautiful) 在事实 (old, sunny) 之前。"
+    },
+    {
+        "title": "General Order",
+        "content": "A [small old wooden|wooden old small] table. A [beautiful long black|black long beautiful] dress.",
+        "explanationEnUs": "Order: Opinion -> Size -> Age -> Shape -> Color -> Origin -> Material -> Purpose.",
+        "explanationZhTw": "順序：觀點 -> 大小 -> 年齡 -> 形狀 -> 顏色 -> 產地 -> 材質 -> 用途。",
+        "explanationZhCn": "顺序：观点 -> 大小 -> age -> 形状 -> 颜色 -> 产地 -> 材质 -> 用途。"
+    },
+    {
+        "title": "Multiple Adjectives",
+        "content": "An [expensive Italian sports|Italian expensive sports] car. A [delicious large pepperoni|pepperoni large delicious] pizza.",
+        "explanationEnUs": "Opinion (expensive) -> Origin (Italian) -> Purpose/Type (sports).",
+        "explanationZhTw": "觀點 (expensive) -> 產地 (Italian) -> 用途/類型 (sports)。",
+        "explanationZhCn": "观点 (expensive) -> 产地 (Italian) -> 用途/类型 (sports)。"
+    },
+    {
+        "title": "With Determiners",
+        "content": "[Those three large|Three those large] books. [My two best|My best two] friends.",
+        "explanationEnUs": "Determiner (Those, My) -> Quantity (three, two) -> Adjective.",
+        "explanationZhTw": "限定詞 (Those, My) -> 數量 (three, two) -> 形容詞。",
+        "explanationZhCn": "限定词 (Those, My) -> 数量 (three, two) -> 形容词。"
+    }
+]

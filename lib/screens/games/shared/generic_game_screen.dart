@@ -103,14 +103,17 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
         _processText(_story!.content);
       }
 
+      if (!mounted) return;
       setState(() {
         _isLoading = false;
       });
     } catch (e) {
       debugPrint('Error loading level: $e');
-      setState(() {
-        _isLoading = false;
-      });
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+      }
     }
   }
 
@@ -263,7 +266,7 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
       percentage.toString(),
     );
 
-    if (percentage == 100) {
+    if (percentage == 100 && mounted) {
       _confettiController.play();
     }
   }

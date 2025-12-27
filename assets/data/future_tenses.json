@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Future Simple (will/going to)",
+        "content": "Tomorrow, I [will|going to] visit my grandmother. She [is going to|will] bake cookies for us. We [will|going to] probably watch a movie together.",
+        "explanationEnUs": "'Will' is often used for predictions or spontaneous decisions. 'Going to' is used for planned actions.",
+        "explanationZhTw": "'Will' 通常用於預測或臨時決定。'Going to' 用於計劃好的行動。",
+        "explanationZhCn": "'Will' 通常用于预测 or 临时决定。'Going to' 用于计划好的行动。"
+    },
+    {
+        "title": "Future Continuous",
+        "content": "At 8 PM tonight, I [will be watching|will watch] TV. Don't call me then. We [will be having|will have] dinner at that time.",
+        "explanationEnUs": "Future Continuous (will be + -ing) is used for actions that will be in progress at a specific time in the future.",
+        "explanationZhTw": "未來進行式 (will be + -ing) 用於描述在未來特定時間正在進行的動作。",
+        "explanationZhCn": "未来进行时 (will be + -ing) 用于描述在未来特定时间正在进行的动作。"
+    },
+    {
+        "title": "Future Perfect",
+        "content": "By next year, I [will have graduated|will graduate] from college. She [will have finished|will finish] her project by Friday.",
+        "explanationEnUs": "Future Perfect (will have + past participle) describes an action that will be completed before a specific time in the future.",
+        "explanationZhTw": "未來完成式 (will have + 過去分詞) 描述在未來特定時間之前將完成的動作。",
+        "explanationZhCn": "未来完成时 (will have + 过去分词) 描述在未来特定时间之前将完成的动作。"
+    },
+    {
+        "title": "Future Perfect Continuous",
+        "content": "By 2025, I [will have been working|will work] here for ten years. They [will have been waiting|will wait] for hours by the time we arrive.",
+        "explanationEnUs": "Future Perfect Continuous emphasizes the duration of an action up to a certain point in the future.",
+        "explanationZhTw": "未來完成進行式強調持續到未來某一點的動作的時間長度。",
+        "explanationZhCn": "未来完成进行时强调持续到未来某一点的动作的时间长度。"
+    },
+    {
+        "title": "Mixed Future Tenses",
+        "content": "Look at those clouds! It [is going to|will] rain. I think I [will|am going to] stay inside.",
+        "explanationEnUs": "Use 'going to' for evidence-based predictions (clouds). Use 'will' for opinions or offers (I think...).",
+        "explanationZhTw": "有證據的預測（雲）用 'going to'。意見或提議（我想...）用 'will'。",
+        "explanationZhCn": "有证据的预测（云）用 'going to'。意见 or 提议（我想...）用 'will'。"
+    }
+]

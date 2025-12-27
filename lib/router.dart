@@ -385,8 +385,376 @@ final router = GoRouter(
             ),
           ],
         ),
+
+        GoRoute(
+          path: '/future-tenses',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Future Tenses',
+            assetPath: 'assets/data/future_tenses.json',
+            routePrefix: '/future-tenses',
+            progressKeyPrefix: 'future_tenses',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/future_tenses.json',
+                  routePrefix: '/future-tenses',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/past-tenses',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Past Tenses',
+            assetPath: 'assets/data/past_tenses.json',
+            routePrefix: '/past-tenses',
+            progressKeyPrefix: 'past_tenses',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/past_tenses.json',
+                  routePrefix: '/past-tenses',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/subjunctive-mood',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Subjunctive Mood',
+            assetPath: 'assets/data/subjunctive_mood.json',
+            routePrefix: '/subjunctive-mood',
+            progressKeyPrefix: 'subjunctive_mood',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/subjunctive_mood.json',
+                  routePrefix: '/subjunctive-mood',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/imperative-mood',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Imperative Mood',
+            assetPath: 'assets/data/imperative_mood.json',
+            routePrefix: '/imperative-mood',
+            progressKeyPrefix: 'imperative_mood',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/imperative_mood.json',
+                  routePrefix: '/imperative-mood',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/possessive-nouns',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Possessive Nouns',
+            assetPath: 'assets/data/possessive_nouns.json',
+            routePrefix: '/possessive-nouns',
+            progressKeyPrefix: 'possessive_nouns',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/possessive_nouns.json',
+                  routePrefix: '/possessive-nouns',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/adjectives',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Adjectives',
+            assetPath: 'assets/data/adjectives.json',
+            routePrefix: '/adjectives',
+            progressKeyPrefix: 'adjectives',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/adjectives.json',
+                  routePrefix: '/adjectives',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/comparisons',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Comparisons',
+            assetPath: 'assets/data/comparisons.json',
+            routePrefix: '/comparisons',
+            progressKeyPrefix: 'comparisons',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/comparisons.json',
+                  routePrefix: '/comparisons',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/adverbs',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Adverbs',
+            assetPath: 'assets/data/adverbs.json',
+            routePrefix: '/adverbs',
+            progressKeyPrefix: 'adverbs',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/adverbs.json',
+                  routePrefix: '/adverbs',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/conjunctions',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Conjunctions',
+            assetPath: 'assets/data/conjunctions.json',
+            routePrefix: '/conjunctions',
+            progressKeyPrefix: 'conjunctions',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/conjunctions.json',
+                  routePrefix: '/conjunctions',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/tag-questions',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Tag Questions',
+            assetPath: 'assets/data/tag_questions.json',
+            routePrefix: '/tag-questions',
+            progressKeyPrefix: 'tag_questions',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/tag_questions.json',
+                  routePrefix: '/tag-questions',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/negatives',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Negatives',
+            assetPath: 'assets/data/negatives.json',
+            routePrefix: '/negatives',
+            progressKeyPrefix: 'negatives',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/negatives.json',
+                  routePrefix: '/negatives',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/present-continuous',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Present Continuous',
+            assetPath: 'assets/data/present_continuous.json',
+            routePrefix: '/present-continuous',
+            progressKeyPrefix: 'present_continuous',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/present_continuous.json',
+                  routePrefix: '/present-continuous',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/other-pronouns',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Other Pronouns',
+            assetPath: 'assets/data/other_pronouns.json',
+            routePrefix: '/other-pronouns',
+            progressKeyPrefix: 'other_pronouns',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/other_pronouns.json',
+                  routePrefix: '/other-pronouns',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/determiners',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Determiners',
+            assetPath: 'assets/data/determiners.json',
+            routePrefix: '/determiners',
+            progressKeyPrefix: 'determiners',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/determiners.json',
+                  routePrefix: '/determiners',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/adjective-order',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Adjective Order',
+            assetPath: 'assets/data/adjective_order.json',
+            routePrefix: '/adjective-order',
+            progressKeyPrefix: 'adjective_order',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/adjective_order.json',
+                  routePrefix: '/adjective-order',
+                );
+              },
+            ),
+          ],
+        ),
+        GoRoute(
+          path: '/construction-patterns',
+          builder: (context, state) => const StoryMenuScreen(
+            title: 'Construction Patterns',
+            assetPath: 'assets/data/construction_patterns.json',
+            routePrefix: '/construction-patterns',
+            progressKeyPrefix: 'construction_patterns',
+          ),
+          routes: [
+            GoRoute(
+              path: ':levelId',
+              builder: (context, state) {
+                final levelIdStr = state.pathParameters['levelId']!;
+                final int levelIndex = int.tryParse(levelIdStr) ?? 0;
+                return GenericGameScreen(
+                  levelIndex: levelIndex,
+                  assetPath: 'assets/data/construction_patterns.json',
+                  routePrefix: '/construction-patterns',
+                );
+              },
+            ),
+          ],
+        ),
       ],
     ),
-    // ... add other game play routes later
   ],
 );

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Coordinating Conjunctions (FANBOYS)",
+        "content": "I wanted to go, [but|so] I was too tired. He likes pizza, [and|or] she likes pasta.",
+        "explanationEnUs": "'But' introduces contrast. 'And' adds information. 'So' shows result.",
+        "explanationZhTw": "'But' 引入對比。'And' 增加訊息。'So' 表示結果。",
+        "explanationZhCn": "'But' 引入对比。'And' 增加信息。'So' 表示结果。"
+    },
+    {
+        "title": "Subordinating Conjunctions",
+        "content": "[Because|Although] it was raining, we went for a walk. I will call you [when|while] I arrive.",
+        "explanationEnUs": "'Although' introduces a concession (difference from expectation). 'When' indicates a specific time.",
+        "explanationZhTw": "'Although' 引入讓步（與預期不同）。'When'以此特定時間。",
+        "explanationZhCn": "'Although' 引入让步（与预期不同）。'When'以此特定时间。"
+    },
+    {
+        "title": "Correlative Conjunctions",
+        "content": "[Both|Either] John and Mary are coming. You can have [either|neither] tea or coffee.",
+        "explanationEnUs": "Both...and. Either...or. Neither...nor.",
+        "explanationZhTw": "Both...and (兩者都)。Either...or (兩者之一)。Neither...nor (兩者皆非)。",
+        "explanationZhCn": "Both...and (两者都)。Either...or (两者之一)。Neither...nor (两者皆非)。"
+    },
+    {
+        "title": "Reason and Result",
+        "content": "He studied hard, [consequently|because] he passed the test. He passed [because|so] he studied.",
+        "explanationEnUs": "Conjunctions and connectors show the relationship between ideas.",
+        "explanationZhTw": "連詞和連接詞顯示想法之間的關係。",
+        "explanationZhCn": "连词和连接词显示想法之间的关系。"
+    },
+    {
+        "title": "Time Connectors",
+        "content": "Brush your teeth [before|after] you go to bed. Wash your hands [after|before] using the bathroom.",
+        "explanationEnUs": "Use 'before' and 'after' to sequence events.",
+        "explanationZhTw": "使用 'before' 和 'after' 來排列事件順序。",
+        "explanationZhCn": "使用 'before' 和 'after' 来排列事件顺序。"
+    }
+]

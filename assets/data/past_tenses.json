@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Past Continuous",
+        "content": "I [was sleeping|slept] when the phone rang. She [was cooking|cooked] dinner while he was working.",
+        "explanationEnUs": "Past Continuous (was/were + -ing) is used for an action in progress when another action happened, or for parallel actions.",
+        "explanationZhTw": "過去進行式 (was/were + -ing) 用於當另一個動作發生時正在進行的動作，或同時進行的動作。",
+        "explanationZhCn": "过去进行时 (was/were + -ing) 用于当另一个动作发生时正在进行的动作，或同时进行的动作。"
+    },
+    {
+        "title": "Past Perfect",
+        "content": "When I arrived at the station, the train [had left|left]. She [had eaten|ate] already, so she wasn't hungry.",
+        "explanationEnUs": "Past Perfect (had + past participle) shows that one action happened before another action in the past.",
+        "explanationZhTw": "過去完成式 (had + 過去分詞) 表示過去的某個動作發生在另一個動作之前。",
+        "explanationZhCn": "过去完成时 (had + 过去分词) 表示过去的某个动作发生在另一个动作之前。"
+    },
+    {
+        "title": "Past Perfect Continuous",
+        "content": "He [had been waiting|waited] for two hours when she finally arrived. It [had been raining|rained] all night, so the ground was wet.",
+        "explanationEnUs": "Past Perfect Continuous emphasizes the duration of an activity before another past event.",
+        "explanationZhTw": "過去完成進行式強調在另一個過去事件之前持續進行的活動的時間長度。",
+        "explanationZhCn": "过去完成进行时强调在另一个过去事件之前持续进行的活动的时间长度。"
+    },
+    {
+        "title": "Mixed Past Tenses",
+        "content": "I [was walking|walked] down the street when I [saw|seen] an old friend. He [had changed|change] a lot since I last saw him.",
+        "explanationEnUs": "Use Past Continuous for the background action, Simple Past for the interruption, and Past Perfect for changes before that moment.",
+        "explanationZhTw": "背景動作使用過去進行式，打斷的動作使用簡單過去式，在此之前發生的變化使用過去完成式。",
+        "explanationZhCn": "背景动作使用过去进行时，打断的动作使用简单过去时，在此之前发生的变化使用过去完成时。"
+    },
+    {
+        "title": "Past Habits",
+        "content": "When I was young, I [used to|use to] play soccer every day. I [would|will] always buy ice cream after school.",
+        "explanationEnUs": "'Used to' and 'would' describe past habits or states that are no longer true.",
+        "explanationZhTw": "'Used to' 和 'would' 描述過去的習慣或不再存在的狀態。",
+        "explanationZhCn": "'Used to' 和 'would' 描述过去的习惯 or 不再存在的状态。"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Direct Commands",
+        "content": "[Close|Closing] the door, please. [Be|To be] quiet!",
+        "explanationEnUs": "The Imperative Mood uses the base form of the verb to give commands or instructions.",
+        "explanationZhTw": "祈使語氣使用動詞原形來發出命令或指示。",
+        "explanationZhCn": "祈使语气使用动词原形来发出命令 or 指示。"
+    },
+    {
+        "title": "Negative Commands",
+        "content": "[Do not|No] run in the hallway. [Don't|Not] forget your keys.",
+        "explanationEnUs": "Negative commands are formed with 'Do not' or 'Don't' + base verb.",
+        "explanationZhTw": "否定命令由 'Do not' 或 'Don't' + 動詞原形構成。",
+        "explanationZhCn": "否定命令由 'Do not' or 'Don't' + 动词原形构成。"
+    },
+    {
+        "title": "Polite Requests",
+        "content": "Please [take|taking] a seat. [Pass|Passing] me the salt, please.",
+        "explanationEnUs": "Adding 'please' makes the imperative more polite, but the verb form remains the base form.",
+        "explanationZhTw": "加上 'please' 使祈使句更有禮貌，但動詞形式保持原形。",
+        "explanationZhCn": "加上 'please' 使祈使句更有礼貌，但动词形式保持原形。"
+    },
+    {
+        "title": "Instructions",
+        "content": "First, [chop|chopping] the onions. Then, [add|added] them to the pan.",
+        "explanationEnUs": "Imperatives are commonly used in recipes and instructions.",
+        "explanationZhTw": "祈使句常用於食譜和說明中。",
+        "explanationZhCn": "祈使句常用于食谱和说明中。"
+    },
+    {
+        "title": "Let's Suggestions",
+        "content": "Let's [go|going] to the park. Let's not [argue|arguing] about this.",
+        "explanationEnUs": "'Let's' (Let us) is used to make suggestions including the speaker. The verb is in the base form.",
+        "explanationZhTw": "'Let's' (Let us) 用於提出包含說話者的建議。動詞使用原形。",
+        "explanationZhCn": "'Let's' (Let us) 用于提出包含说话者的建议。动词使用原形。"
+    }
+]

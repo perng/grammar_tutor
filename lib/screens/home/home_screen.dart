@@ -14,32 +14,48 @@ class MenuItem {
 }
 
 const Map<String, List<MenuItem>> menuItemsConfig = {
-  'category_articles': [
-    MenuItem('game_def_article', '/article-game'),
-    MenuItem('game_all_articles', '/an-a-the'),
+  'category_tenses': [
+    MenuItem('game_be_verb', '/be-verb-game'),
+    MenuItem('game_tenses', '/verb-game'),
+    MenuItem('game_present_continuous', '/present-continuous'),
+    MenuItem('game_present_perfect', '/present-perfect'),
+    MenuItem('game_past', '/past-tenses'),
+    MenuItem('game_future', '/future-tenses'),
+    MenuItem('game_imperative', '/imperative-mood'),
+    MenuItem('game_subjunctive', '/subjunctive-mood'),
+    MenuItem('game_passive', '/passive-voice'),
   ],
+  'category_modals': [MenuItem('game_modals', '/modals')],
   'category_nouns_pronouns': [
     MenuItem('game_singular', '/singular-plural'),
-    MenuItem('game_pronouns', '/pronoun-game'),
     MenuItem('game_countable', '/countable-uncountable'),
+    MenuItem('game_pronouns', '/pronoun-game'),
+    MenuItem('game_other_pronouns', '/other-pronouns'),
+    MenuItem('game_possessives', '/possessive-nouns'),
+    MenuItem('game_def_article', '/article-game'),
+    MenuItem('game_all_articles', '/an-a-the'),
+    MenuItem('game_determiners', '/determiners'),
   ],
-  'category_prepositions': [MenuItem('game_prepositions', '/preposition-game')],
-  'category_verbs': [
-    MenuItem('game_be_verb', '/be-verb-game'),
-    MenuItem('game_transitive', '/transitive-intransitive'),
-    MenuItem('game_modals', '/modals'),
-    MenuItem('game_gerunds', '/gerunds-infinitives'),
-    MenuItem('game_phrasal', '/phrasal-verbs'),
-  ],
-  'category_tenses': [
-    MenuItem('game_tenses', '/verb-game'),
-    MenuItem('game_present_perfect', '/present-perfect'),
-    MenuItem('game_passive', '/passive-voice'),
+  'category_adjectives_adverbs': [
+    MenuItem('game_adjectives', '/adjectives'),
+    MenuItem('game_adjective_order', '/adjective-order'),
+    MenuItem('game_comparisons', '/comparisons'),
+    MenuItem('game_construction_patterns', '/construction-patterns'),
+    MenuItem('game_adverbs', '/adverbs'),
   ],
   'category_structure': [
     MenuItem('game_questions', '/question-game'),
+    MenuItem('game_tag_questions', '/tag-questions'),
+    MenuItem('game_negatives', '/negatives'),
+    MenuItem('game_transitive', '/transitive-intransitive'),
     MenuItem('game_conditionals', '/conditionals'),
     MenuItem('game_relative', '/relative-clauses'),
+    MenuItem('game_conjunctions', '/conjunctions'),
+  ],
+  'category_prepositions': [
+    MenuItem('game_prepositions', '/preposition-game'),
+    MenuItem('game_phrasal', '/phrasal-verbs'),
+    MenuItem('game_gerunds', '/gerunds-infinitives'),
   ],
 };
 
@@ -74,6 +90,22 @@ class _HomeScreenState extends State<HomeScreen> {
     '/relative-clauses': 'assets/data/relative_clauses.json',
     '/transitive-intransitive': 'assets/data/transitive_intransitive.json',
     '/countable-uncountable': 'assets/data/countable_uncountable.json',
+    '/future-tenses': 'assets/data/future_tenses.json',
+    '/past-tenses': 'assets/data/past_tenses.json',
+    '/subjunctive-mood': 'assets/data/subjunctive_mood.json',
+    '/imperative-mood': 'assets/data/imperative_mood.json',
+    '/possessive-nouns': 'assets/data/possessive_nouns.json',
+    '/adjectives': 'assets/data/adjectives.json',
+    '/adjective-order': 'assets/data/adjective_order.json',
+    '/comparisons': 'assets/data/comparisons.json',
+    '/construction-patterns': 'assets/data/construction_patterns.json',
+    '/adverbs': 'assets/data/adverbs.json',
+    '/conjunctions': 'assets/data/conjunctions.json',
+    '/tag-questions': 'assets/data/tag_questions.json',
+    '/negatives': 'assets/data/negatives.json',
+    '/present-continuous': 'assets/data/present_continuous.json',
+    '/other-pronouns': 'assets/data/other_pronouns.json',
+    '/determiners': 'assets/data/determiners.json',
   };
 
   @override
@@ -163,7 +195,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<void> _loadLastVisited() async {
     final prefs = await SharedPreferences.getInstance();
     final lastVisitedKey = prefs.getString(_prefKey);
-    String initialCategoryKey = 'category_articles';
+    String initialCategoryKey = 'category_tenses';
 
     if (lastVisitedKey != null) {
       // Find category for last visited title key
@@ -295,7 +327,7 @@ class _HomeScreenState extends State<HomeScreen> {
           break;
         }
       }
-      _activeCategoryKey ??= 'category_articles';
+      _activeCategoryKey ??= 'category_tenses';
     }
 
     return Scaffold(

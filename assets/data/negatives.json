@@ -1,37 +1,352 @@
 [
-    {
-        "title": "Negatives with Be",
-        "content": "She [is not|not is] happy. We [aren't|not are] going.",
-        "explanationEnUs": "Add 'not' after the verb 'be'.",
-        "explanationZhTw": "在動詞 'be' 後加 'not'。",
-        "explanationZhCn": "在动词 'be' 后加 'not'。"
-    },
-    {
-        "title": "Negatives with Auxiliaries",
-        "content": "I [have not|haven't] seen him. She [cannot|can not] swim.",
-        "explanationEnUs": "Add 'not' after the first auxiliary verb. 'Cannot' is one word.",
-        "explanationZhTw": "在第一個助動詞後加 'not'。'Cannot' 是一個詞。",
-        "explanationZhCn": "在第一个助动词后加 'not'。'Cannot' 是一个词。"
-    },
-    {
-        "title": "Present Simple Negatives",
-        "content": "He [does not|do not] like apples. I [don't|doesn't] know.",
-        "explanationEnUs": "Use 'do not' (don't) or 'does not' (doesn't) before the main verb.",
-        "explanationZhTw": "在主要動詞前使用 'do not' (don't) 或 'does not' (doesn't)。",
-        "explanationZhCn": "在主要动词前使用 'do not' (don't) or 'does not' (doesn't)。"
-    },
-    {
-        "title": "Past Simple Negatives",
-        "content": "We [did not|didn't] go to the party. He [didn't see|didn't saw] me.",
-        "explanationEnUs": "Use 'did not' (didn't) + base verb for past tense negatives.",
-        "explanationZhTw": "過去式否定句使用 'did not' (didn't) + 動詞原形。",
-        "explanationZhCn": "过去时否定句使用 'did not' (didn't) + 动词原形。"
-    },
-    {
-        "title": "Double Negatives",
-        "content": "I don't have [any|no] money. I know [nothing|anything] about it.",
-        "explanationEnUs": "Avoid double negatives. Say 'don't have any' or 'have nothing'.",
-        "explanationZhTw": "避免雙重否定。說 'don't have any' 或 'have nothing'。",
-        "explanationZhCn": "避免双重否定。说 'don't have any' or 'have nothing'。"
-    }
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "She [is not|not is] happy.",
+    "explanationEnUs": "Be verb + not.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  },
+  {
+    "title": "Negatives",
+    "content": "I [don't|not] like coffee.",
+    "explanationEnUs": "Use do/does/did + not for verbs.",
+    "explanationZhTw": "否定句構成。",
+    "explanationZhCn": "否定句构成。"
+  }
 ]

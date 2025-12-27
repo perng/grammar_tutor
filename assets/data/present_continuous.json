@@ -1,37 +1,352 @@
 [
-    {
-        "title": "Present Continuous Basics",
-        "content": "I am [reading|read] a book right now. She is [sleeping|sleep] in her room.",
-        "explanationEnUs": "Use 'am/is/are' + verb-ing for actions happening right now.",
-        "explanationZhTw": "使用 'am/is/are' + 動詞-ing 表示現在正在發生的動作。",
-        "explanationZhCn": "使用 'am/is/are' + 动词-ing 表示现在正在发生的动作。"
-    },
-    {
-        "title": "Spelling Rules (-e)",
-        "content": "He is [making|makeing] a cake. She is [writing|writeing] a letter.",
-        "explanationEnUs": "For verbs ending in 'e', drop the 'e' before adding 'ing' (make -> making).",
-        "explanationZhTw": "對於以 'e' 結尾的動詞，在加 'ing' 之前去掉 'e' (make -> making)。",
-        "explanationZhCn": "对于以 'e' 结尾的动词，在加 'ing' 之前去掉 'e' (make -> making)。"
-    },
-    {
-        "title": "Spelling Rules (Double Consonant)",
-        "content": "He is [sitting|siting] on the chair. They are [running|runing] fast.",
-        "explanationEnUs": "For one-syllable verbs ending in vowel+consonant, double the consonant (sit -> sitting).",
-        "explanationZhTw": "對於以母音+子音結尾的單音節動詞，重複子音 (sit -> sitting)。",
-        "explanationZhCn": "对于以元音+辅音结尾的单音节动词，重复辅音 (sit -> sitting)。"
-    },
-    {
-        "title": "Present Continuous for Future",
-        "content": "I am [meeting|meet] him tomorrow. We are [leaving|leave] next week.",
-        "explanationEnUs": "Present Continuous can also describe planned future arrangements.",
-        "explanationZhTw": "現在進行式也可以描述計劃好的未來安排。",
-        "explanationZhCn": "现在进行时也可以描述计划好的未来安排。"
-    },
-    {
-        "title": "Non-Action Verbs",
-        "content": "I [know|knowing] the answer. She [likes|liking] chocolate. (Not: is knowing/is liking)",
-        "explanationEnUs": "Stative verbs (know, like, want, need) are usually not used in continuous forms.",
-        "explanationZhTw": "狀態動詞 (know, like, want, need) 通常不用於進行式。",
-        "explanationZhCn": "状态动词 (know, like, want, need) 通常不用于进行式。"
-    }
+  {
+    "title": "Actions Now",
+    "content": "I am [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [eating|eat]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [playing|play]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The dog is [reading|read]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "He is not [running|runs]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "They are [playing|play]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The dog is [swimming|swimm]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [cooking|cook]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [playing|play]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "The dog is not [writing|writes]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "You are [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [swimming|swimm]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "It is not [sleeping|sleeps]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "She is [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "We are not [dancing|dances]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "They are [sleeping|sleep]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "She is [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "They are [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [eating|eat]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "The baby is not [eating|eats]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "You are [sleeping|sleep]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "I am not [reading|reads]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [cooking|cook]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "The dog is not [cooking|cooks]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [eating|eat]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "It is [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "It is [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [sleeping|sleep]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [writing|write]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "You are [eating|eat]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [swimming|swimm]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The baby is [sleeping|sleep]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "It is [dancing|dance]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "He is not [cooking|cooks]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "The baby is not [cooking|cooks]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "We are [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "He is [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "We are not [running|runs]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "We are [eating|eat]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "The dog is [playing|play]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "I am [playing|play]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "You are [cooking|cook]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Actions Now",
+    "content": "She is [running|run]. ",
+    "explanationEnUs": "Use 'be' + verb-ing for actions happening right now.",
+    "explanationZhTw": "使用 'be' + 動詞-ing 表示現在正在發生的動作。",
+    "explanationZhCn": "使用 'be' + 动词-ing 表示现在正在发生的动作。"
+  },
+  {
+    "title": "Negative Continuous",
+    "content": "The baby is not [dancing|dances]. ",
+    "explanationEnUs": "Negative present continuous: be + not + verb-ing.",
+    "explanationZhTw": "現在進行式否定：be + not + 動詞-ing。",
+    "explanationZhCn": "现在进行时否定：be + not + 动词-ing。"
+  }
 ]

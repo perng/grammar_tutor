@@ -1,37 +1,352 @@
 [
-    {
-        "title": "Reflexive Pronouns",
-        "content": "I hurt [myself|me]. He taught [himself|him] to play guitar.",
-        "explanationEnUs": "Use reflexive pronouns (myself, himself) when the subject and object are the same person.",
-        "explanationZhTw": "當主詞和受詞是同一人時，使用反身代名詞 (myself, himself)。",
-        "explanationZhCn": "当主语和宾语是同一人时，使用反身代词 (myself, himself)。"
-    },
-    {
-        "title": "Reflexive for Emphasis",
-        "content": "She fixed the car [herself|her]. I spoke to the boss [myself|me].",
-        "explanationEnUs": "Reflexive pronouns can be used to emphasize that someone did something alone.",
-        "explanationZhTw": "反身代名詞可用於強調某人獨自完成了某事。",
-        "explanationZhCn": "反身代词可用于强调某人独自完成了某事。"
-    },
-    {
-        "title": "Indefinite Pronouns",
-        "content": "[Everyone|Every] is happy. Is there [anyone|any] here?",
-        "explanationEnUs": "Indefinite pronouns like 'everyone', 'anyone', 'something' are treated as singular nouns.",
-        "explanationZhTw": "像 'everyone', 'anyone', 'something' 這樣的不定代名詞被視為單數名詞。",
-        "explanationZhCn": "像 'everyone', 'anyone', 'something' 这样的不定代词被视为单数名词。"
-    },
-    {
-        "title": "Reciprocal Pronouns",
-        "content": "They love [each other|themselves]. We help [one another|ourselves].",
-        "explanationEnUs": "Use 'each other' or 'one another' when action is two-way.",
-        "explanationZhTw": "當動作是雙向時，使用 'each other' 或 'one another'。",
-        "explanationZhCn": "当动作是双向时，使用 'each other' or 'one another'。"
-    },
-    {
-        "title": "Demonstrative Pronouns",
-        "content": "[This|These] is my book. [Those|That] are my friends.",
-        "explanationEnUs": "This/That for singular. These/Those for plural.",
-        "explanationZhTw": "This/That 用於單數。These/Those 用於複數。",
-        "explanationZhCn": "This/That 用于单数。These/Those 用于复数。"
-    }
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Indefinite Pronouns",
+    "content": "[Everyone|Every people] likes pizza.",
+    "explanationEnUs": "'Everyone' is a singular indefinite pronoun.",
+    "explanationZhTw": "'Everyone' 是單數不定代名詞。",
+    "explanationZhCn": "'Everyone' 是单数不定代词。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Reflexive Pronouns",
+    "content": "He hurt [himself|him] playing soccer.",
+    "explanationEnUs": "Subject and object are the same person.",
+    "explanationZhTw": "主詞和受詞是同一人。",
+    "explanationZhCn": "主语和宾语是同一人。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  },
+  {
+    "title": "Demonstrative Pronouns",
+    "content": "[These|This] shoes are expensive.",
+    "explanationEnUs": "'These' for plural, near objects.",
+    "explanationZhTw": "'These' 用於近處複數物體。",
+    "explanationZhCn": "'These' 用于近处复数物体。"
+  }
 ]

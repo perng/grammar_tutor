@@ -1,37 +1,352 @@
 [
-    {
-        "title": "Proposals and Suggestions",
-        "content": "I suggest that he [study|studies] harder. It is essential that she [be|is] on time.",
-        "explanationEnUs": "The Subjunctive Mood uses the base form of the verb (study, be) in \"that\" clauses following verbs of suggestion or necessity.",
-        "explanationZhTw": "虛擬語氣在建議或必要性動詞後的 'that' 子句中使用動詞原形 (study, be)。",
-        "explanationZhCn": "虚拟语气在建议 or 必要性动词后的 'that' 子句中使用动词原形 (study, be)。"
-    },
-    {
-        "title": "Wishes and Hypotheticals",
-        "content": "I wish I [were|was] taller. If he [were|was] here, he would know what to do.",
-        "explanationEnUs": "Use 'were' instead of 'was' for 'I', 'he', 'she', 'it' in wishes and contrary-to-fact conditions.",
-        "explanationZhTw": "在願望和與事實相反的條件句中，'I', 'he', 'she', 'it' 使用 'were' 而不是 'was'。",
-        "explanationZhCn": "在愿望和与事实相反的条件句中，'I', 'he', 'she', 'it' 使用 'were' 而不是 'was'。"
-    },
-    {
-        "title": "Formal Requests",
-        "content": "The boss requested that the meeting [be|is] postponed. It is important that everyone [attend|attends].",
-        "explanationEnUs": "Verbs like 'request', 'demand', 'insist' are followed by the subjunctive (base form).",
-        "explanationZhTw": "像 'request', 'demand', 'insist' 這樣的動詞後面接虛擬語氣（原形）。",
-        "explanationZhCn": "像 'request', 'demand', 'insist' 这样的动词后面接虚拟语气（原形）。"
-    },
-    {
-        "title": "Fixed Expressions",
-        "content": "God [save|saves] the Queen! [Come|Comes] what may, I will support you.",
-        "explanationEnUs": "The Subjunctive is preserved in certain fixed expressions.",
-        "explanationZhTw": "虛擬語氣保留在某些固定表達中。",
-        "explanationZhCn": "虚拟语气保留在某些固定表达中。"
-    },
-    {
-        "title": "Negative Subjunctive",
-        "content": "I recommended that she [not go|didn't go] alone. It is vital that we [not be|aren't] late.",
-        "explanationEnUs": "Form the negative subjunctive with 'not' + base verb, do not use 'do/does/did'.",
-        "explanationZhTw": "虛擬語氣的否定形式是 'not' + 動詞原形，不使用 'do/does/did'。",
-        "explanationZhCn": "虚拟语气的否定形式是 'not' + 动词原形，不使用 'do/does/did'。"
-    }
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Mandative Subjunctive",
+    "content": "It is important that he [be|is] on time.",
+    "explanationEnUs": "After 'important that', use the base form.",
+    "explanationZhTw": "'Important that' 之後使用原形動詞。",
+    "explanationZhCn": "'Important that' 之后使用原形动词。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Hypothetical Wish",
+    "content": "I wish I [were|was] taller.",
+    "explanationEnUs": "Use 'were' instead of 'was' for hypothetical wishes.",
+    "explanationZhTw": "假設性願望使用 'were' 而非 'was'。",
+    "explanationZhCn": "假设性愿望使用 'were' 而非 'was'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  },
+  {
+    "title": "Hypothetical Condition",
+    "content": "If I [were|am] you, I would go.",
+    "explanationEnUs": "Second conditional uses subjunctive 'were'.",
+    "explanationZhTw": "第二條件句使用虛擬語氣 'were'。",
+    "explanationZhCn": "第二条件句使用虚拟语气 'were'。"
+  },
+  {
+    "title": "Suggest/Recommend",
+    "content": "I suggest that she [study|studies] harder.",
+    "explanationEnUs": "Verbs of suggestion are followed by base form.",
+    "explanationZhTw": "建議類動詞後接原形動詞。",
+    "explanationZhCn": "建议类动词后接原形动词。"
+  }
 ]

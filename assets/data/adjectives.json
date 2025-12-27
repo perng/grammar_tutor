@@ -1,23 +1,352 @@
 [
-    {
-        "title": "Attributive vs Predicative",
-        "content": "The [asleep|sleeping] baby is cute. The baby is [asleep|sleeping].",
-        "explanationEnUs": "Some adjectives like 'asleep' can only be used after a verb (predicative), not before a noun.",
-        "explanationZhTw": "像 'asleep' 這樣的形容詞只能用在動詞之後（表語），不能用在名詞之前。",
-        "explanationZhCn": "像 'asleep' 这样的形容词只能用在动词之后（表语），不能用在名词之前。"
-    },
-    {
-        "title": "-ed vs -ing Adjectives",
-        "content": "I am [bored|boring]. This movie is [boring|bored].",
-        "explanationEnUs": "-ed adjectives describe feelings. -ing adjectives describe the cause of the feeling.",
-        "explanationZhTw": "-ed 形容詞描述感覺。-ing 形容詞描述引起感覺的原因。",
-        "explanationZhCn": "-ed 形容词描述感觉。-ing 形容词描述引起感觉的原因。"
-    },
-    {
-        "title": "Noun Modifiers",
-        "content": "I need a [coffee cup|cup coffee]. She works at a [video game|game video] company.",
-        "explanationEnUs": "When a noun modifies another noun, the modifier comes first (coffee cup = cup for coffee).",
-        "explanationZhTw": "當一個名詞修飾另一個名詞時，修飾語在前面 (coffee cup = 用於咖啡的杯子)。",
-        "explanationZhCn": "当一个名词修饰另一个名词时，修饰语在前面 (coffee cup = 用于咖啡的杯子)。"
-    }
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  },
+  {
+    "title": "-ing Adjectives",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "-ing for the cause of feeling.",
+    "explanationZhTw": "-ing 表示引起感覺的事物。",
+    "explanationZhCn": "-ing 表示引起感觉的事物。"
+  },
+  {
+    "title": "-ed Adjectives",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "-ed for how you feel.",
+    "explanationZhTw": "-ed 表示你的感覺。",
+    "explanationZhCn": "-ed 表示你的感觉。"
+  }
 ]

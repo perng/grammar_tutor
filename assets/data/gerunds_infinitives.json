@@ -120,283 +120,283 @@
         "explanation-zh-CN": "Keep + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_16",
-        "title": "Finish 16",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi16",
+        "title": "Finish Fixing",
+        "content": "He finished [fixing|to fix] the car.",
+        "explanation-zh-TW": "Finish + V-ing.",
+        "explanation-en-US": "Finish + Gerund.",
+        "explanation-zh-CN": "Finish + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_17",
-        "title": "Want 17",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi17",
+        "title": "Avoid Answering",
+        "content": "She avoided [answering|to answer] the question.",
+        "explanation-zh-TW": "Avoid + V-ing.",
+        "explanation-en-US": "Avoid + Gerund.",
+        "explanation-zh-CN": "Avoid + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_18",
-        "title": "Good at 18",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi18",
+        "title": "Finish Washing",
+        "content": "We finished [washing|to wash] the dishes.",
+        "explanation-zh-TW": "Finish + V-ing.",
+        "explanation-en-US": "Finish + Gerund.",
+        "explanation-zh-CN": "Finish + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_19",
-        "title": "Promise 19",
-        "content": "He promised [to help|helping].",
-        "explanation-zh-TW": "Promise + to V.",
-        "explanation-en-US": "Promise + to V.",
-        "explanation-zh-CN": "Promise + to V."
+        "id": "gi19",
+        "title": "Quit Smoking",
+        "content": "He quit [smoking|to smoke] last year.",
+        "explanation-zh-TW": "Quit + V-ing.",
+        "explanation-en-US": "Quit + Gerund.",
+        "explanation-zh-CN": "Quit + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_20",
-        "title": "Finish 20",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi20",
+        "title": "Practice Speaking",
+        "content": "They practiced [speaking|to speak] English.",
+        "explanation-zh-TW": "Practice + V-ing.",
+        "explanation-en-US": "Practice + Gerund.",
+        "explanation-zh-CN": "Practice + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_21",
-        "title": "Want 21",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi21",
+        "title": "Suggest Going",
+        "content": "She suggested [going|to go] to the beach.",
+        "explanation-zh-TW": "Suggest + V-ing.",
+        "explanation-en-US": "Suggest + Gerund.",
+        "explanation-zh-CN": "Suggest + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_22",
-        "title": "Want 22",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi22",
+        "title": "Finish Reading",
+        "content": "I finished [reading|to read] the report.",
+        "explanation-zh-TW": "Finish + V-ing.",
+        "explanation-en-US": "Finish + Gerund.",
+        "explanation-zh-CN": "Finish + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_23",
-        "title": "Good at 23",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi23",
+        "title": "Hope to Win",
+        "content": "She hopes [to win|winning] the game.",
+        "explanation-zh-TW": "Hope + To V.",
+        "explanation-en-US": "Hope + Infinitive.",
+        "explanation-zh-CN": "Hope + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_24",
-        "title": "Finish 24",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi24",
+        "title": "Plan to Travel",
+        "content": "We plan [to travel|traveling] to Europe.",
+        "explanation-zh-TW": "Plan + To V.",
+        "explanation-en-US": "Plan + Infinitive.",
+        "explanation-zh-CN": "Plan + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_25",
-        "title": "Good at 25",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi25",
+        "title": "Need to Leave",
+        "content": "He needs [to leave|leaving] early.",
+        "explanation-zh-TW": "Need + To V.",
+        "explanation-en-US": "Need + Infinitive.",
+        "explanation-zh-CN": "Need + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_26",
-        "title": "Want 26",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi26",
+        "title": "Decide to Buy",
+        "content": "I decided [to buy|buying] the red shirt.",
+        "explanation-zh-TW": "Decide + To V.",
+        "explanation-en-US": "Decide + Infinitive.",
+        "explanation-zh-CN": "Decide + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_27",
-        "title": "Good at 27",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi27",
+        "title": "Agree to Help",
+        "content": "They agreed [to help|helping] us.",
+        "explanation-zh-TW": "Agree + To V.",
+        "explanation-en-US": "Agree + Infinitive.",
+        "explanation-zh-CN": "Agree + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_28",
-        "title": "Want 28",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi28",
+        "title": "Offer to Drive",
+        "content": "She offered [to drive|driving] me home.",
+        "explanation-zh-TW": "Offer + To V.",
+        "explanation-en-US": "Offer + Infinitive.",
+        "explanation-zh-CN": "Offer + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_29",
-        "title": "Want 29",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi29",
+        "title": "Want to Eat",
+        "content": "We want [to eat|eating] pizza.",
+        "explanation-zh-TW": "Want + To V.",
+        "explanation-en-US": "Want + Infinitive.",
+        "explanation-zh-CN": "Want + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_30",
-        "title": "Finish 30",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi30",
+        "title": "Famous for Singing",
+        "content": "She is famous for [singing|to sing].",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_31",
-        "title": "Want 31",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi31",
+        "title": "Afraid of Losing",
+        "content": "He is afraid of [losing|to lose].",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_32",
-        "title": "Finish 32",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi32",
+        "title": "Tired of Waiting",
+        "content": "We are tired of [waiting|to wait].",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_33",
-        "title": "Promise 33",
-        "content": "He promised [to help|helping].",
-        "explanation-zh-TW": "Promise + to V.",
-        "explanation-en-US": "Promise + to V.",
-        "explanation-zh-CN": "Promise + to V."
+        "id": "gi33",
+        "title": "About Moving",
+        "content": "They talked about [moving|to move] to a new city.",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_34",
-        "title": "Enjoy 34",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi34",
+        "title": "Look Forward to",
+        "content": "I look forward to [meeting|to meet] you.",
+        "explanation-zh-TW": "to is Preposition here; + V-ing.",
+        "explanation-en-US": "to is Prep here; + Gerund.",
+        "explanation-zh-CN": "to is Preposition here; + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_35",
-        "title": "Good at 35",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi35",
+        "title": "Responsible for",
+        "content": "She is responsible for [organizing|to organize] the party.",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_36",
-        "title": "Promise 36",
-        "content": "He promised [to help|helping].",
-        "explanation-zh-TW": "Promise + to V.",
-        "explanation-en-US": "Promise + to V.",
-        "explanation-zh-CN": "Promise + to V."
+        "id": "gi36",
+        "title": "Apologize for",
+        "content": "He apologized for [forgetting|to forget] my birthday.",
+        "explanation-zh-TW": "Preposition + V-ing.",
+        "explanation-en-US": "Prep + Gerund.",
+        "explanation-zh-CN": "Preposition + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_37",
-        "title": "Promise 37",
-        "content": "He promised [to help|helping].",
-        "explanation-zh-TW": "Promise + to V.",
-        "explanation-en-US": "Promise + to V.",
-        "explanation-zh-CN": "Promise + to V."
+        "id": "gi37",
+        "title": "Refuse to Talk",
+        "content": "He refused [to talk|talking] about it.",
+        "explanation-zh-TW": "Refuse + To V.",
+        "explanation-en-US": "Refuse + Infinitive.",
+        "explanation-zh-CN": "Refuse + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_38",
-        "title": "Finish 38",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi38",
+        "title": "Promise to Write",
+        "content": "She promised [to write|writing] soon.",
+        "explanation-zh-TW": "Promise + To V.",
+        "explanation-en-US": "Promise + Infinitive.",
+        "explanation-zh-CN": "Promise + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_39",
-        "title": "Good at 39",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi39",
+        "title": "Seem to Like",
+        "content": "They seemed [to like|liking] the idea.",
+        "explanation-zh-TW": "Seem + To V.",
+        "explanation-en-US": "Seem + Infinitive.",
+        "explanation-zh-CN": "Seem + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_40",
-        "title": "Promise 40",
-        "content": "He promised [to help|helping].",
-        "explanation-zh-TW": "Promise + to V.",
-        "explanation-en-US": "Promise + to V.",
-        "explanation-zh-CN": "Promise + to V."
+        "id": "gi40",
+        "title": "Expect to Arrive",
+        "content": "I expect [to arrive|arriving] at 5 PM.",
+        "explanation-zh-TW": "Expect + To V.",
+        "explanation-en-US": "Expect + Infinitive.",
+        "explanation-zh-CN": "Expect + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_41",
-        "title": "Enjoy 41",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi41",
+        "title": "Promise to Behave",
+        "content": "He promised [to behave|behaving] effectively.",
+        "explanation-zh-TW": "Promise + To V.",
+        "explanation-en-US": "Promise + Infinitive.",
+        "explanation-zh-CN": "Promise + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_42",
-        "title": "Enjoy 42",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi42",
+        "title": "Pretend to Be",
+        "content": "She pretended [to be|being] asleep.",
+        "explanation-zh-TW": "Pretend + To V.",
+        "explanation-en-US": "Pretend + Infinitive.",
+        "explanation-zh-CN": "Pretend + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_43",
-        "title": "Good at 43",
-        "content": "Good at [drawing|draw].",
-        "explanation-zh-TW": "Prep + ing.",
-        "explanation-en-US": "Prep + ing.",
-        "explanation-zh-CN": "Prep + ing."
+        "id": "gi43",
+        "title": "Promise to Return",
+        "content": "We promised [to return|returning] the book.",
+        "explanation-zh-TW": "Promise + To V.",
+        "explanation-en-US": "Promise + Infinitive.",
+        "explanation-zh-CN": "Promise + To V."
     },
     {
-        "id": "auto_gerunds_infinitives_44",
-        "title": "Finish 44",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi44",
+        "title": "Mind Closing",
+        "content": "Would you mind [closing|to close] the window?",
+        "explanation-zh-TW": "Mind + V-ing.",
+        "explanation-en-US": "Mind + Gerund.",
+        "explanation-zh-CN": "Mind + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_45",
-        "title": "Want 45",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi45",
+        "title": "Keep Talking",
+        "content": "He kept [talking|to talk] during the movie.",
+        "explanation-zh-TW": "Keep + V-ing.",
+        "explanation-en-US": "Keep + Gerund.",
+        "explanation-zh-CN": "Keep + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_46",
-        "title": "Finish 46",
-        "content": "I finished [working|to work].",
-        "explanation-zh-TW": "Finish + ing.",
-        "explanation-en-US": "Finish + ing.",
-        "explanation-zh-CN": "Finish + ing."
+        "id": "gi46",
+        "title": "Enjoy Walking",
+        "content": "We enjoy [walking|to walk] in the rain.",
+        "explanation-zh-TW": "Enjoy + V-ing.",
+        "explanation-en-US": "Enjoy + Gerund.",
+        "explanation-zh-CN": "Enjoy + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_47",
-        "title": "Enjoy 47",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi47",
+        "title": "Keep Forgetting",
+        "content": "She keeps [forgetting|to forget] her keys.",
+        "explanation-zh-TW": "Keep + V-ing.",
+        "explanation-en-US": "Keep + Gerund.",
+        "explanation-zh-CN": "Keep + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_48",
-        "title": "Enjoy 48",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi48",
+        "title": "Enjoy Playing",
+        "content": "Do you enjoy [playing|to play] chess?",
+        "explanation-zh-TW": "Enjoy + V-ing.",
+        "explanation-en-US": "Enjoy + Gerund.",
+        "explanation-zh-CN": "Enjoy + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_49",
-        "title": "Enjoy 49",
-        "content": "I enjoy [swimming|swim|to swim].",
-        "explanation-zh-TW": "Enjoy + ing.",
-        "explanation-en-US": "Enjoy + ing.",
-        "explanation-zh-CN": "Enjoy + ing."
+        "id": "gi49",
+        "title": "Mind Waiting",
+        "content": "I don't mind [waiting|to wait] for you.",
+        "explanation-zh-TW": "Mind + V-ing.",
+        "explanation-en-US": "Mind + Gerund.",
+        "explanation-zh-CN": "Mind + V-ing."
     },
     {
-        "id": "auto_gerunds_infinitives_50",
-        "title": "Want 50",
-        "content": "I want [to go|going].",
-        "explanation-zh-TW": "Want + to V.",
-        "explanation-en-US": "Want + to V.",
-        "explanation-zh-CN": "Want + to V."
+        "id": "gi50",
+        "title": "Keep Working",
+        "content": "They kept [working|to work] until late.",
+        "explanation-zh-TW": "Keep + V-ing.",
+        "explanation-en-US": "Keep + Gerund.",
+        "explanation-zh-CN": "Keep + V-ing."
     }
 ]

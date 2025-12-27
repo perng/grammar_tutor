@@ -120,283 +120,283 @@
         "explanation-zh-CN": "All/Everything -> That."
     },
     {
-        "id": "auto_relative_clauses_16",
-        "title": "Person 16",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc16",
+        "title": "Kind Teacher",
+        "content": "The teacher [who|which] taught me was kind.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who.",
+        "explanation-zh-CN": "Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_17",
-        "title": "Time 17",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc17",
+        "title": "Broken Computer",
+        "content": "The computer [which|who] broke is new.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which.",
+        "explanation-zh-CN": "Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_18",
-        "title": "Time 18",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc18",
+        "title": "Whose Brother",
+        "content": "I have a friend [whose|who] brother is a singer.",
+        "explanation-zh-TW": "Possession -> Whose.",
+        "explanation-en-US": "Possession -> Whose.",
+        "explanation-zh-CN": "Possession -> Whose."
     },
     {
-        "id": "auto_relative_clauses_19",
-        "title": "Possession 19",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc19",
+        "title": "Cafe Where",
+        "content": "This is the cafe [where|which] we met.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where.",
+        "explanation-zh-CN": "Place -> Where."
     },
     {
-        "id": "auto_relative_clauses_20",
-        "title": "Place 20",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc20",
+        "title": "Day When",
+        "content": "I remember the day [when|where] we first met.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When.",
+        "explanation-zh-CN": "Time -> When."
     },
     {
-        "id": "auto_relative_clauses_21",
-        "title": "Possession 21",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc21",
+        "title": "Mother (Comma)",
+        "content": "My mother, [who|that] is a nurse, works hard.",
+        "explanation-zh-TW": "Comma + Person -> Who.",
+        "explanation-en-US": "Comma + Person -> Who.",
+        "explanation-zh-CN": "Comma + Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_22",
-        "title": "Possession 22",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc22",
+        "title": "House In Which",
+        "content": "The house in [which|that] I grew up.",
+        "explanation-zh-TW": "Prep + Which.",
+        "explanation-en-US": "Prep + Which.",
+        "explanation-zh-CN": "Prep + Which."
     },
     {
-        "id": "auto_relative_clauses_23",
-        "title": "Person 23",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc23",
+        "title": "Boy Who Speaks",
+        "content": "I know a boy [who|whose] speaks five languages.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who.",
+        "explanation-zh-CN": "Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_24",
-        "title": "Person 24",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc24",
+        "title": "Lost Pen",
+        "content": "I lost the pen [which|who] you gave me.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which.",
+        "explanation-zh-CN": "Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_25",
-        "title": "Possession 25",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc25",
+        "title": "Red Roof",
+        "content": "The house [whose|which] roof is red is mine.",
+        "explanation-zh-TW": "Possession -> Whose.",
+        "explanation-en-US": "Possession -> Whose.",
+        "explanation-zh-CN": "Possession -> Whose."
     },
     {
-        "id": "auto_relative_clauses_26",
-        "title": "Place 26",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc26",
+        "title": "School Where",
+        "content": "The school [where|that] I study is big.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where.",
+        "explanation-zh-CN": "Place -> Where."
     },
     {
-        "id": "auto_relative_clauses_27",
-        "title": "Possession 27",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc27",
+        "title": "Summer When",
+        "content": "Summer is the season [when|where] it is hot.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When.",
+        "explanation-zh-CN": "Time -> When."
     },
     {
-        "id": "auto_relative_clauses_28",
-        "title": "Time 28",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc28",
+        "title": "London (Comma)",
+        "content": "London, [which|that] is the capital, is huge.",
+        "explanation-zh-TW": "Comma + Thing -> Which.",
+        "explanation-en-US": "Comma + Thing -> Which.",
+        "explanation-zh-CN": "Comma + Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_29",
-        "title": "Person 29",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc29",
+        "title": "With Whom",
+        "content": "The person with [whom|who] I spoke.",
+        "explanation-zh-TW": "Prep + Whom.",
+        "explanation-en-US": "Prep + Whom.",
+        "explanation-zh-CN": "Prep + Whom."
     },
     {
-        "id": "auto_relative_clauses_30",
-        "title": "Time 30",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc30",
+        "title": "Woman Who Lives",
+        "content": "The woman [who|which] lives here is famous.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who.",
+        "explanation-zh-CN": "Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_31",
-        "title": "Possession 31",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc31",
+        "title": "Delicious Cake",
+        "content": "The cake [which|who] she baked was delicious.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which.",
+        "explanation-zh-CN": "Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_32",
-        "title": "Possession 32",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc32",
+        "title": "Car Breakdown",
+        "content": "He helped the man [whose|who] car broke down.",
+        "explanation-zh-TW": "Possession -> Whose.",
+        "explanation-en-US": "Possession -> Whose.",
+        "explanation-zh-CN": "Possession -> Whose."
     },
     {
-        "id": "auto_relative_clauses_33",
-        "title": "Place 33",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc33",
+        "title": "Town Where",
+        "content": "I visited the town [where|which] I was born.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where.",
+        "explanation-zh-CN": "Place -> Where."
     },
     {
-        "id": "auto_relative_clauses_34",
-        "title": "Time 34",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc34",
+        "title": "Year When",
+        "content": "The year [when|which] he graduated was 2020.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When.",
+        "explanation-zh-CN": "Time -> When."
     },
     {
-        "id": "auto_relative_clauses_35",
-        "title": "Place 35",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc35",
+        "title": "Painting (Comma)",
+        "content": "This painting, [which|that] is old, costs a lot.",
+        "explanation-zh-TW": "Comma + Thing -> Which.",
+        "explanation-en-US": "Comma + Thing -> Which.",
+        "explanation-zh-CN": "Comma + Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_36",
-        "title": "Possession 36",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc36",
+        "title": "About Which",
+        "content": "The topic about [which|that] we argued.",
+        "explanation-zh-TW": "Prep + Which.",
+        "explanation-en-US": "Prep + Which.",
+        "explanation-zh-CN": "Prep + Which."
     },
     {
-        "id": "auto_relative_clauses_37",
-        "title": "Person 37",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc37",
+        "title": "Actor Who",
+        "content": "He is the actor [who|which] won the award.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who.",
+        "explanation-zh-CN": "Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_38",
-        "title": "Place 38",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc38",
+        "title": "Scary Movie",
+        "content": "We saw a movie [which|who] was very scary.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which.",
+        "explanation-zh-CN": "Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_39",
-        "title": "Place 39",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc39",
+        "title": "Cat's Eyes",
+        "content": "The cat [whose|which] eyes are blue is cute.",
+        "explanation-zh-TW": "Possession -> Whose.",
+        "explanation-en-US": "Possession -> Whose.",
+        "explanation-zh-CN": "Possession -> Whose."
     },
     {
-        "id": "auto_relative_clauses_40",
-        "title": "Time 40",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc40",
+        "title": "Hotel Where",
+        "content": "The hotel [where|that] we stayed was nice.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where.",
+        "explanation-zh-CN": "Place -> Where."
     },
     {
-        "id": "auto_relative_clauses_41",
-        "title": "Possession 41",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc41",
+        "title": "Time When",
+        "content": "Tell me the time [when|where] the train leaves.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When.",
+        "explanation-zh-CN": "Time -> When."
     },
     {
-        "id": "auto_relative_clauses_42",
-        "title": "Thing 42",
-        "content": "The car [which|who] crashed.",
-        "explanation-zh-TW": "Which for things.",
-        "explanation-en-US": "Which for things.",
-        "explanation-zh-CN": "Which for things."
+        "id": "rc42",
+        "title": "Mr. Smith (Comma)",
+        "content": "Mr. Smith, [who|that] is our neighbor, likes gardening.",
+        "explanation-zh-TW": "Comma + Person -> Who.",
+        "explanation-en-US": "Comma + Person -> Who.",
+        "explanation-zh-CN": "Comma + Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_43",
-        "title": "Place 43",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc43",
+        "title": "Tools With Which",
+        "content": "The tools with [which|who] he fixed the car.",
+        "explanation-zh-TW": "Prep + Which.",
+        "explanation-en-US": "Prep + Which.",
+        "explanation-zh-CN": "Prep + Which."
     },
     {
-        "id": "auto_relative_clauses_44",
-        "title": "Place 44",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc44",
+        "title": "People Who Work",
+        "content": "The people [who|whose] work here are friendly.",
+        "explanation-zh-TW": "Person -> Who.",
+        "explanation-en-US": "Person -> Who.",
+        "explanation-zh-CN": "Person -> Who."
     },
     {
-        "id": "auto_relative_clauses_45",
-        "title": "Person 45",
-        "content": "The man [who|which] called.",
-        "explanation-zh-TW": "Who for people.",
-        "explanation-en-US": "Who for people.",
-        "explanation-zh-CN": "Who for people."
+        "id": "rc45",
+        "title": "Important Letter",
+        "content": "The letter [which|who] arrived today is important.",
+        "explanation-zh-TW": "Thing -> Which.",
+        "explanation-en-US": "Thing -> Which.",
+        "explanation-zh-CN": "Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_46",
-        "title": "Possession 46",
-        "content": "The girl [whose|who] bag is blue.",
-        "explanation-zh-TW": "Whose for possession.",
-        "explanation-en-US": "Whose for possession.",
-        "explanation-zh-CN": "Whose for possession."
+        "id": "rc46",
+        "title": "Girl's Phone",
+        "content": "Do you know the girl [whose|who] phone this is?",
+        "explanation-zh-TW": "Possession -> Whose.",
+        "explanation-en-US": "Possession -> Whose.",
+        "explanation-zh-CN": "Possession -> Whose."
     },
     {
-        "id": "auto_relative_clauses_47",
-        "title": "Place 47",
-        "content": "The city [where|which] I live.",
-        "explanation-zh-TW": "Where for place.",
-        "explanation-en-US": "Where for place.",
-        "explanation-zh-CN": "Where for place."
+        "id": "rc47",
+        "title": "Park Where",
+        "content": "Let's go to the park [where|which] we played soccer.",
+        "explanation-zh-TW": "Place -> Where.",
+        "explanation-en-US": "Place -> Where.",
+        "explanation-zh-CN": "Place -> Where."
     },
     {
-        "id": "auto_relative_clauses_48",
-        "title": "Thing 48",
-        "content": "The car [which|who] crashed.",
-        "explanation-zh-TW": "Which for things.",
-        "explanation-en-US": "Which for things.",
-        "explanation-zh-CN": "Which for things."
+        "id": "rc48",
+        "title": "Moment When",
+        "content": "There was a moment [when|where] I felt happy.",
+        "explanation-zh-TW": "Time -> When.",
+        "explanation-en-US": "Time -> When.",
+        "explanation-zh-CN": "Time -> When."
     },
     {
-        "id": "auto_relative_clauses_49",
-        "title": "Time 49",
-        "content": "The day [when|where] we met.",
-        "explanation-zh-TW": "When for time.",
-        "explanation-en-US": "When for time.",
-        "explanation-zh-CN": "When for time."
+        "id": "rc49",
+        "title": "Titanic (Comma)",
+        "content": "The Titanic, [which|that] sank in 1912, was a big ship.",
+        "explanation-zh-TW": "Comma + Thing -> Which.",
+        "explanation-en-US": "Comma + Thing -> Which.",
+        "explanation-zh-CN": "Comma + Thing -> Which."
     },
     {
-        "id": "auto_relative_clauses_50",
-        "title": "Thing 50",
-        "content": "The car [which|who] crashed.",
-        "explanation-zh-TW": "Which for things.",
-        "explanation-en-US": "Which for things.",
-        "explanation-zh-CN": "Which for things."
+        "id": "rc50",
+        "title": "To Whom",
+        "content": "The friends to [whom|who] I wrote letters.",
+        "explanation-zh-TW": "Prep + Whom.",
+        "explanation-en-US": "Prep + Whom.",
+        "explanation-zh-CN": "Prep + Whom."
     }
 ]

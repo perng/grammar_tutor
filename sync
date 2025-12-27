@@ -1,2 +1,3 @@
 #!/bin/zsh
+flutter build web --base-href "/grammar_tutor/"
 rsync -avzP --delete /Users/charles/grammar_tutor/build/web/ perng@pdx1-shared-a2-07.dreamhost.com:/home/perng/ai.perng.com/grammar_tutor/

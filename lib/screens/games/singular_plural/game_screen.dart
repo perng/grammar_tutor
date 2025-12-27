@@ -57,6 +57,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
   int _correctCount = 0;
   int _errorCount = 0;
   int _scorePercentage = 0;
+  final ScrollController _scrollController = ScrollController();
 
   StoryLevel? _story;
   int _totalLevels = 0;
@@ -85,6 +86,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
   @override
   void dispose() {
     _confettiController.dispose();
+    _scrollController.dispose();
     super.dispose();
   }
 
@@ -301,6 +303,18 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
     if (percentage == 100) {
       _confettiController.play();
     }
+
+    if (mounted) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_scrollController.hasClients) {
+          _scrollController.animateTo(
+            _scrollController.position.maxScrollExtent,
+            duration: const Duration(milliseconds: 500),
+            curve: Curves.easeOut,
+          );
+        }
+      });
+    }
   }
 
   void _reset() {
@@ -347,6 +361,7 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
             children: [
               Expanded(
                 child: SingleChildScrollView(
+                  controller: _scrollController,
                   padding: const EdgeInsets.all(24),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.stretch,

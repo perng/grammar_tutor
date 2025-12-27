@@ -58,6 +58,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
   StoryLevel? _story;
   int _totalLevels = 0;
   late ConfettiController _confettiController;
+  final ScrollController _scrollController = ScrollController();
   final Random _random = Random();
 
   @override
@@ -83,6 +84,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
   @override
   void dispose() {
     _confettiController.dispose();
+    _scrollController.dispose();
     super.dispose();
   }
 
@@ -258,6 +260,18 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
     if (percentage == 100) {
       _confettiController.play();
     }
+
+    if (mounted) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_scrollController.hasClients) {
+          _scrollController.animateTo(
+            _scrollController.position.maxScrollExtent,
+            duration: const Duration(milliseconds: 500),
+            curve: Curves.easeOut,
+          );
+        }
+      });
+    }
   }
 
   void _reset() {
@@ -303,6 +317,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
             children: [
               Expanded(
                 child: SingleChildScrollView(
+                  controller: _scrollController,
                   padding: const EdgeInsets.all(24),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.stretch,

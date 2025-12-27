@@ -49,6 +49,7 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
   StoryLevel? _story;
   int _totalLevels = 0;
   late ConfettiController _confettiController;
+  final ScrollController _scrollController = ScrollController();
 
   static const Set<String> _names = {
     'Cappy',
@@ -97,6 +98,7 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
   @override
   void dispose() {
     _confettiController.dispose();
+    _scrollController.dispose();
     super.dispose();
   }
 
@@ -261,6 +263,18 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
     if (percentage == 100) {
       _confettiController.play();
     }
+
+    if (mounted) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_scrollController.hasClients) {
+          _scrollController.animateTo(
+            _scrollController.position.maxScrollExtent,
+            duration: const Duration(milliseconds: 500),
+            curve: Curves.easeOut,
+          );
+        }
+      });
+    }
   }
 
   void _reset() {
@@ -333,6 +347,7 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
             children: [
               Expanded(
                 child: SingleChildScrollView(
+                  controller: _scrollController,
                   padding: const EdgeInsets.all(24),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.stretch,

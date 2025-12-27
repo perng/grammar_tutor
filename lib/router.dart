@@ -1,5 +1,7 @@
 import 'package:go_router/go_router.dart';
 import 'screens/home/home_screen.dart';
+import 'screens/category_list_screen.dart';
+import 'screens/game_list_screen.dart';
 
 import 'screens/games/shared/story_menu_screen.dart';
 import 'screens/games/singular_plural/game_screen.dart';
@@ -13,13 +15,24 @@ import 'screens/games/pronoun_game/game_screen.dart';
 import 'screens/games/shared/generic_game_screen.dart';
 
 final router = GoRouter(
-  initialLocation: '/singular-plural',
+  initialLocation: '/',
   routes: [
     ShellRoute(
       builder: (context, state, child) {
         return HomeScreen(child: child);
       },
       routes: [
+        GoRoute(
+          path: '/',
+          builder: (context, state) => const CategoryListScreen(),
+        ),
+        GoRoute(
+          path: '/categories/:categoryId',
+          builder: (context, state) {
+            final categoryId = state.pathParameters['categoryId']!;
+            return GameListScreen(categoryId: categoryId);
+          },
+        ),
         GoRoute(
           path: '/singular-plural',
           builder: (context, state) => const StoryMenuScreen(

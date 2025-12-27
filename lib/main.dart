@@ -5,12 +5,16 @@ import 'dart:ui';
 import 'package:google_fonts/google_fonts.dart';
 import 'router.dart';
 import 'providers/locale_provider.dart';
+import 'providers/progress_provider.dart';
 import 'l10n/app_localizations.dart';
 
 void main() {
   runApp(
-    ChangeNotifierProvider(
-      create: (_) => LocaleProvider(),
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => LocaleProvider()),
+        ChangeNotifierProvider(create: (_) => ProgressProvider()),
+      ],
       child: const MyApp(),
     ),
   );

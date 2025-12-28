@@ -15,7 +15,7 @@ class AppLocalizations {
 
   static const Map<String, Map<String, String>> _localizedValues = {
     'en': {
-      'app_title': 'Language Games',
+      'app_title': 'Grammar Tutor',
       'settings': 'Settings',
       'select_language': 'Select Language',
       'category_articles': 'Articles',
@@ -66,7 +66,7 @@ class AppLocalizations {
       'score': 'Score',
     },
     'zh_CN': {
-      'app_title': '语言游戏',
+      'app_title': '语法辅导',
       'settings': '设置',
       'select_language': '选择语言',
       'category_articles': '冠词',
@@ -117,7 +117,7 @@ class AppLocalizations {
       'score': '分数',
     },
     'zh_TW': {
-      'app_title': '語言遊戲',
+      'app_title': '英文文法教練',
       'settings': '設定',
       'select_language': '選擇語言',
       'category_articles': '冠詞',

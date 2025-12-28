@@ -8,6 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
 import 'package:provider/provider.dart';
 import '../../../providers/locale_provider.dart';
+import '../../../providers/progress_provider.dart';
 
 class ArticleWord {
   final String text;
@@ -254,11 +255,12 @@ class _ArticleGameScreenState extends State<ArticleGameScreen> {
       _showResults = true;
     });
 
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString(
-      'article-game-${widget.levelIndex}',
-      percentage.toString(),
-    );
+    if (mounted) {
+      await Provider.of<ProgressProvider>(
+        context,
+        listen: false,
+      ).updateGameProgress('articles-${widget.levelIndex}', percentage);
+    }
 
     if (percentage == 100) {
       _confettiController.play();

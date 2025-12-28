@@ -82,4 +82,10 @@ class ProgressProvider extends ChangeNotifier {
     _gameCompletion = newCompletion;
     notifyListeners();
   }
+
+  Future<void> updateGameProgress(String key, int percentage) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(key, percentage.toString());
+    await calculateProgress();
+  }
 }

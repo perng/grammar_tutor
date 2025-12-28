@@ -39,7 +39,7 @@ final router = GoRouter(
             title: 'One or Many',
             assetPath: 'assets/data/singular.json',
             routePrefix: '/singular-plural',
-            progressKeyPrefix: 'singular-plural',
+            progressKeyPrefix: 'singular',
           ),
           routes: [
             GoRoute(
@@ -58,7 +58,7 @@ final router = GoRouter(
             title: 'The Game',
             assetPath: 'assets/data/articles.json',
             routePrefix: '/article-game',
-            progressKeyPrefix: 'article-game',
+            progressKeyPrefix: 'articles',
           ),
           routes: [
             GoRoute(
@@ -77,7 +77,7 @@ final router = GoRouter(
             title: 'A, An, or The',
             assetPath: 'assets/data/an_a_the.json',
             routePrefix: '/an-a-the',
-            progressKeyPrefix: 'an-a-the',
+            progressKeyPrefix: 'an_a_the',
           ),
           routes: [
             GoRoute(
@@ -96,7 +96,7 @@ final router = GoRouter(
             title: 'Verb Tenses',
             assetPath: 'assets/data/verbs.json',
             routePrefix: '/verb-game',
-            progressKeyPrefix: 'verb-game',
+            progressKeyPrefix: 'verbs',
           ),
           routes: [
             GoRoute(
@@ -118,7 +118,7 @@ final router = GoRouter(
             title: 'Be Verbs',
             assetPath: 'assets/data/be_verb_adjectives.json',
             routePrefix: '/be-verb-game',
-            progressKeyPrefix: 'be-verb-game',
+            progressKeyPrefix: 'be_verb_adjectives',
           ),
           routes: [
             GoRoute(
@@ -137,7 +137,7 @@ final router = GoRouter(
             title: 'Question Formation',
             assetPath: 'assets/data/question_formation.json',
             routePrefix: '/question-game',
-            progressKeyPrefix: 'question-game',
+            progressKeyPrefix: 'question_formation',
           ),
           routes: [
             GoRoute(
@@ -159,7 +159,7 @@ final router = GoRouter(
             title: 'Prepositions (In/On/At)',
             assetPath: 'assets/data/prepositions.json',
             routePrefix: '/preposition-game',
-            progressKeyPrefix: 'preposition-game',
+            progressKeyPrefix: 'prepositions',
           ),
           routes: [
             GoRoute(
@@ -178,7 +178,7 @@ final router = GoRouter(
             title: 'Pronouns (He/She/It)',
             assetPath: 'assets/data/pronouns.json',
             routePrefix: '/pronoun-game',
-            progressKeyPrefix: 'pronoun-game',
+            progressKeyPrefix: 'pronouns',
           ),
           routes: [
             GoRoute(

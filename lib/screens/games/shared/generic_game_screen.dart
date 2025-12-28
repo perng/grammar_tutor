@@ -9,6 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
 import 'package:provider/provider.dart';
 import '../../../providers/locale_provider.dart';
+import '../../../providers/progress_provider.dart';
 import '../../../l10n/app_localizations.dart';
 
 class Word {
@@ -263,11 +264,12 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
     String keyBase = widget.assetPath
         .replaceAll('assets/data/', '')
         .replaceAll('.json', '');
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString(
-      '$keyBase-${widget.levelIndex}',
-      percentage.toString(),
-    );
+    if (mounted) {
+      await Provider.of<ProgressProvider>(
+        context,
+        listen: false,
+      ).updateGameProgress('$keyBase-${widget.levelIndex}', percentage);
+    }
 
     if (percentage == 100 && mounted) {
       _confettiController.play();

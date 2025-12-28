@@ -9,6 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
 import 'package:provider/provider.dart';
 import '../../../providers/locale_provider.dart';
+import '../../../providers/progress_provider.dart';
 
 class Word {
   final String text;
@@ -294,11 +295,12 @@ class _SingularPluralGameScreenState extends State<SingularPluralGameScreen> {
     });
 
     // Save progress
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString(
-      'singular-plural-${widget.levelIndex}',
-      percentage.toString(),
-    );
+    if (mounted) {
+      await Provider.of<ProgressProvider>(
+        context,
+        listen: false,
+      ).updateGameProgress('singular-${widget.levelIndex}', percentage);
+    }
 
     if (percentage == 100) {
       _confettiController.play();

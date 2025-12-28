@@ -54,18 +54,21 @@ class _GameListScreenState extends State<GameListScreen> {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(8),
                 ),
-                child: ListTile(
-                  contentPadding: const EdgeInsets.symmetric(
-                    horizontal: 16,
-                    vertical: 0,
-                  ),
-                  title: Text(
-                    '$title ($percentage%)',
-                    style: const TextStyle(fontSize: 18),
-                  ),
+                child: InkWell(
+                  borderRadius: BorderRadius.circular(8),
                   onTap: () {
                     context.go(item.path);
                   },
+                  child: ListTile(
+                    contentPadding: const EdgeInsets.symmetric(
+                      horizontal: 16,
+                      vertical: 0,
+                    ),
+                    title: Text(
+                      '$title ($percentage%)',
+                      style: const TextStyle(fontSize: 18),
+                    ),
+                  ),
                 ),
               );
             },

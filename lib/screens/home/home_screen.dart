@@ -78,6 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
     );
 
     // Identify Category and Game
+    // Identify Category and Game
     String? categoryId;
     String? gameTitleKey;
     String? gamePath;
@@ -163,6 +164,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     // Add spacer to push settings to the right
     breadcrumbs.add(const Spacer());
+
     breadcrumbs.add(
       IconButton(
         icon: const Icon(Icons.settings),

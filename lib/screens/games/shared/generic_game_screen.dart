@@ -11,6 +11,7 @@ import 'package:provider/provider.dart';
 import '../../../providers/locale_provider.dart';
 import '../../../providers/progress_provider.dart';
 import '../../../l10n/app_localizations.dart';
+import '../../../widgets/explanation_dialog.dart';
 
 class Word {
   final String text;
@@ -333,7 +334,29 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(_story!.title)),
+      appBar: AppBar(
+        title: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Flexible(child: Text(_story!.title)),
+            const SizedBox(width: 8),
+            IconButton(
+              icon: const Icon(Icons.menu_book, size: 20),
+              constraints: const BoxConstraints(),
+              padding: EdgeInsets.zero,
+              onPressed: () {
+                // Construct a path that matches the logic in ExplanationDialog for a specific level
+                // It expects a path ending in /[index]
+                ExplanationDialog.show(
+                  context,
+                  widget.assetPath,
+                  'dummy/${widget.levelIndex}',
+                );
+              },
+            ),
+          ],
+        ),
+      ),
       body: Stack(
         children: [
           Column(

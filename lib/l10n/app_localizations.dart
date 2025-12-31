@@ -63,6 +63,9 @@ class AppLocalizations {
       'next_level': 'Next Level',
       'check_answers': 'Check Answers',
 
+      'explanation': 'Explanation',
+      'close': 'Close',
+
       'score': 'Score',
     },
     'zh_CN': {
@@ -114,6 +117,9 @@ class AppLocalizations {
       'next_level': '下一关',
       'check_answers': '检查答案',
 
+      'explanation': '解释',
+      'close': '关闭',
+
       'score': '分数',
     },
     'zh_TW': {
@@ -164,6 +170,9 @@ class AppLocalizations {
       'try_again': '重試',
       'next_level': '下一關',
       'check_answers': '檢查答案',
+
+      'explanation': '解釋',
+      'close': '關閉',
 
       'score': '分數',
     },

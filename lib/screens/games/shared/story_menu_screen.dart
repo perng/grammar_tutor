@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
+import '../../../widgets/explanation_dialog.dart';
 
 class StoryMenuScreen extends StatefulWidget {
   final String title;
@@ -84,7 +85,28 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(titleToDisplay)),
+      appBar: AppBar(
+        title: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Flexible(child: Text(titleToDisplay)),
+            const SizedBox(width: 8),
+            IconButton(
+              icon: const Icon(Icons.menu_book, size: 20),
+              constraints: const BoxConstraints(),
+              padding: EdgeInsets.zero,
+              onPressed: () {
+                // Show all explanations for this game
+                ExplanationDialog.show(
+                  context,
+                  widget.assetPath,
+                  GoRouterState.of(context).uri.toString(),
+                );
+              },
+            ),
+          ],
+        ),
+      ),
       body: ListView.separated(
         padding: const EdgeInsets.all(16),
         itemCount: _levels.length,

@@ -162,21 +162,24 @@ class _HomeScreenState extends State<HomeScreen> {
       );
     }
 
-    // Add spacer to push settings to the right
-    breadcrumbs.add(const Spacer());
-
-    breadcrumbs.add(
-      IconButton(
-        icon: const Icon(Icons.settings),
-        onPressed: _showLanguageDialog,
-        tooltip: loc.settings,
-      ),
-    );
-
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 4.0),
       color: Colors.grey.shade100,
-      child: Row(children: breadcrumbs),
+      child: Row(
+        children: [
+          Expanded(
+            child: SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(mainAxisSize: MainAxisSize.min, children: breadcrumbs),
+            ),
+          ),
+          IconButton(
+            icon: const Icon(Icons.settings),
+            onPressed: _showLanguageDialog,
+            tooltip: loc.settings,
+          ),
+        ],
+      ),
     );
   }
 

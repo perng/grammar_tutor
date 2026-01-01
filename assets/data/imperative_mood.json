@@ -1,352 +1,107 @@
 [
   {
-    "title": "Imperative Form",
-    "content": "[Read|Reading] this book.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Positive Imperatives",
+    "content": "[Open|Opened] your books to page 10.",
+    "explanationEnUs": "Start with the base verb for commands.",
+    "explanationZhTw": "命令句以原形動詞開頭。",
+    "explanationZhCn": "命令句以原形动词开头。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Wash|Washing] your hands.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Negative Imperatives",
+    "content": "[Don't|Not] talk during the exam.",
+    "explanationEnUs": "Use 'Don't' + base verb for prohibition.",
+    "explanationZhTw": "禁止使用 'Don't' + 原形動詞。",
+    "explanationZhCn": "禁止使用 'Don't' + 原形动词。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Don't be|Not be] late!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Polite Requests",
+    "content": "Please [be|is] quiet.",
+    "explanationEnUs": "'Be' is the base form of the verb.",
+    "explanationZhTw": "'Be' 是動詞原形。",
+    "explanationZhCn": "'Be' 是动词原形。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Clean|Cleaning] your room.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Suggestions",
+    "content": "[Let's|Let] go to the movies tonight.",
+    "explanationEnUs": "'Let's' is used for suggestions.",
+    "explanationZhTw": "'Let's' 用於建議。",
+    "explanationZhCn": "'Let's' 用于建议。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Eat|Eating] your vegetables.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Warnings",
+    "content": "[Watch|Watching] out for the car!",
+    "explanationEnUs": "Imperative for immediate warning.",
+    "explanationZhTw": "用於緊急警告的祈使句。",
+    "explanationZhCn": "用于紧急警告的祈使句。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Be|Being] careful!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Instructions",
+    "content": "[Add|Adding] sugar to the mixture.",
+    "explanationEnUs": "Use imperatives for instructions.",
+    "explanationZhTw": "指示使用祈使句。",
+    "explanationZhCn": "指示使用祈使句。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Finish|Finishing] your homework.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Negative Imperatives",
+    "content": "[Don't be|Not be] afraid.",
+    "explanationEnUs": "Negative form of 'be' imperative.",
+    "explanationZhTw": "'Be' 祈使句的否定形式。",
+    "explanationZhCn": "'Be' 祈使句的否定形式。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Wash|Washing] your hands.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Wishes",
+    "content": "[Have|Has] a nice trip!",
+    "explanationEnUs": "Imperative used for well-wishing.",
+    "explanationZhTw": "用於祝福的祈使句。",
+    "explanationZhCn": "用于祝福的祈使句。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Open|Opening] the window.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Directions",
+    "content": "[Turn|Turning] left at the traffic light.",
+    "explanationEnUs": "Imperative for giving directions.",
+    "explanationZhTw": "用於指引方向的祈使句。",
+    "explanationZhCn": "用于指引方向的祈使句。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Eat|Eating] your vegetables.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "First Person Imperative",
+    "content": "[Let|Let's] me check that for you.",
+    "explanationEnUs": "'Let me' is a request for permission or offer.",
+    "explanationZhTw": "'Let me' 是請求允許或提供幫助。",
+    "explanationZhCn": "'Let me' 是请求允许或提供帮助。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Listen|Listening] to me, please.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Negative Imperatives",
+    "content": "[Don't forget|Don't forgot] to call your mom.",
+    "explanationEnUs": "Always use base verb after 'Don't'.",
+    "explanationZhTw": "'Don't' 之後動詞必定原形。",
+    "explanationZhCn": "'Don't' 之后动词必定原形。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Finish|Finishing] your homework.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Imperative with Subject",
+    "content": "[You|Your] sit down and listen.",
+    "explanationEnUs": "Sometimes 'you' is added for emphasis or anger.",
+    "explanationZhTw": "有時加入 'you' 是為了強調或表達憤怒。",
+    "explanationZhCn": "有时加入 'you' 是为了强调或表达愤怒。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Go|Going] home.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Positive Imperatives",
+    "content": "[Take|Takes] a seat, please.",
+    "explanationEnUs": "Base form 'Take'.",
+    "explanationZhTw": "原形 'Take'。",
+    "explanationZhCn": "原形 'Take'。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Negative Imperatives",
+    "content": "[Never|Ever] speak to strangers.",
+    "explanationEnUs": "'Never' can replace 'Don't' for stronger prohibition.",
+    "explanationZhTw": "'Never' 可取代 'Don't' 表示更強烈的禁止。",
+    "explanationZhCn": "'Never' 可取代 'Don't' 表示更强烈的禁止。"
   },
   {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Come|Coming] here.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Close|Closing] the door.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] careful!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Look|Looking] at the board.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Come|Coming] here.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] quiet!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Eat|Eating] your vegetables.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Open|Opening] the window.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stand|Standing] up.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Eat|Eating] your vegetables.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Open|Opening] the window.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stand|Standing] up.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stand|Standing] up.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Finish|Finishing] your homework.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stop|Stopping] talking!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stand|Standing] up.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Read|Reading] this book.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Come|Coming] here.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] quiet!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Close|Closing] the door.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] quiet!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Drink|Drinking] some water.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Listen|Listening] to me, please.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Don't be|Not be] scared!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Come|Coming] here.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Don't be|Not be] late!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Stand|Standing] up.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] quiet!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Go|Going] home.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Don't be|Not be] scared!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Be|Being] careful!",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
-  },
-  {
-    "title": "Imperative Form",
-    "content": "[Clean|Cleaning] your room.",
-    "explanationEnUs": "Imperatives start with the base verb.",
-    "explanationZhTw": "祈使句以原形動詞開頭。",
-    "explanationZhCn": "祈使句以原形动词开头。"
+    "title": "Positive Imperatives",
+    "content": "[Come|Coming] in and make yourself at home.",
+    "explanationEnUs": "Invitation using imperative.",
+    "explanationZhTw": "使用祈使句表示邀請。",
+    "explanationZhCn": "使用祈使句表示邀请。"
   }
 ]

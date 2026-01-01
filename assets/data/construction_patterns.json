@@ -1,352 +1,107 @@
 [
   {
     "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "content": "The [more|most] you learn, the more you earn.",
+    "explanationEnUs": "Parallel increase structure.",
+    "explanationZhTw": "平行增長結構。",
+    "explanationZhCn": "平行增长结构。"
   },
   {
     "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "content": "The earlier you leave, the [sooner|soon] you arrive.",
+    "explanationEnUs": "Use comparative forms in 'the...the...'.",
+    "explanationZhTw": "在 'the...the...' 句型中使用比較級。",
+    "explanationZhCn": "在 'the...the...' 句型中使用比较级。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "So...that...",
+    "content": "He was [so|such] tired that he slept immediately.",
+    "explanationEnUs": "Use 'so' before an adjective.",
+    "explanationZhTw": "在形容詞前使用 'so'。",
+    "explanationZhCn": "在形容词前使用 'so'。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Such...that...",
+    "content": "It was [such|so] a lovely day that we went out.",
+    "explanationEnUs": "Use 'such' before a noun phrase.",
+    "explanationZhTw": "在名詞片語前使用 'such'。",
+    "explanationZhCn": "在名词短语前使用 'such'。"
   },
   {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "title": "Too...to...",
+    "content": "This coffee is [too|enough] hot to drink.",
+    "explanationEnUs": "'Too' implies excessiveness preventing an action.",
+    "explanationZhTw": "'Too' 暗示過度而無法進行某動作。",
+    "explanationZhCn": "'Too' 暗示过度而无法进行某动作。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Enough",
+    "content": "He is strong [enough|too] to lift it.",
+    "explanationEnUs": "'Enough' comes after the adjective.",
+    "explanationZhTw": "'Enough' 放在形容詞之後。",
+    "explanationZhCn": "'Enough' 放在形容词之后。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Not only...but also...",
+    "content": "He speaks [not only|only] English but also French.",
+    "explanationEnUs": "Paired conjunction for adding information.",
+    "explanationZhTw": "用於增加資訊的關聯連接詞。",
+    "explanationZhCn": "用于增加资讯的关联连词。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Prefer...to...",
+    "content": "I prefer tea [to|than] coffee.",
+    "explanationEnUs": "Use 'to' with 'prefer' for comparison.",
+    "explanationZhTw": "'Prefer' 的比較搭配使用 'to'。",
+    "explanationZhCn": "'Prefer' 的比较搭配使用 'to'。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Would rather...than...",
+    "content": "I would rather stay home [than|to] go out.",
+    "explanationEnUs": "Use 'than' with 'would rather'.",
+    "explanationZhTw": "'Would rather' 搭配使用 'than'。",
+    "explanationZhCn": "'Would rather' 搭配使用 'than'。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "It takes...",
+    "content": "It [takes|costs] me 20 minutes to walk there.",
+    "explanationEnUs": "Use 'takes' for time.",
+    "explanationZhTw": "花費時間使用 'takes'。",
+    "explanationZhCn": "花费时间使用 'takes'。"
   },
   {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "title": "It costs...",
+    "content": "It [costs|spends] a lot of money.",
+    "explanationEnUs": "Use 'costs' for price/money involving an object subject.",
+    "explanationZhTw": "物品花費金錢使用 'costs'。",
+    "explanationZhCn": "物品花费金钱使用 'costs'。"
   },
   {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
+    "title": "Spend...on...",
+    "content": "I [spend|take] two hours on homework.",
+    "explanationEnUs": "People 'spend' time or money.",
+    "explanationZhTw": "人 'spend' (花費) 時間或金錢。",
+    "explanationZhCn": "人 'spend' (花费) 时间或金钱。"
   },
   {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "title": "So...that...",
+    "content": "The box is [so|such] heavy that I can't lift it.",
+    "explanationEnUs": "'Heavy' is an adjective, so use 'so'.",
+    "explanationZhTw": "'Heavy' 是形容詞，所以用 'so'。",
+    "explanationZhCn": "'Heavy' 是形容词，所以用 'so'。"
   },
   {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "title": "Either...or...",
+    "content": "You can [either|neither] have cake or ice cream.",
+    "explanationEnUs": "'Either' pairs with 'or' for choices.",
+    "explanationZhTw": "'Either' 搭配 'or' 表示選擇。",
+    "explanationZhCn": "'Either' 搭配 'or' 表示选择。"
   },
   {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "As...as",
-    "content": "He is as [tall|taller] as his brother.",
-    "explanationEnUs": "as + adjective + as.",
-    "explanationZhTw": "as + 形容詞 + as。",
-    "explanationZhCn": "as + 形容词 + as。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
-  },
-  {
-    "title": "The...the...",
-    "content": "The [more|most] you learn, the [more|most] you earn.",
-    "explanationEnUs": "Parallel increase.",
-    "explanationZhTw": "平行增長。",
-    "explanationZhCn": "平行增长。"
+    "title": "Neither...nor...",
+    "content": "The solution is [neither|either] simple nor cheap.",
+    "explanationEnUs": "'Neither' pairs with 'nor' for negative additions.",
+    "explanationZhTw": "'Neither' 搭配 'nor' 表示否定。",
+    "explanationZhCn": "'Neither' 搭配 'nor' 表示否定。"
   }
 ]

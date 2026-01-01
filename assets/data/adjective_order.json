@@ -50,20 +50,6 @@
   },
   {
     "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] dress.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
     "content": "It is a [small red|red small] box.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
@@ -85,20 +71,6 @@
   },
   {
     "title": "Order of Adjectives",
-    "content": "It is a [big old|old big] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [big old|old big] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
     "content": "It is a [long black|black long] dress.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
@@ -107,13 +79,6 @@
   {
     "title": "Order of Adjectives",
     "content": "It is a [long black|black long] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [big old|old big] car.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
     "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
@@ -141,42 +106,7 @@
   },
   {
     "title": "Order of Adjectives",
-    "content": "It is a [long black|black long] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [small red|red small] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [beautiful wooden|wooden beautiful] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [small red|red small] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
     "content": "It is a [big old|old big] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [small red|red small] house.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
     "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
@@ -204,13 +134,6 @@
   },
   {
     "title": "Order of Adjectives",
-    "content": "It is a [beautiful wooden|wooden beautiful] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
     "content": "It is a [small red|red small] car.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
@@ -225,126 +148,7 @@
   },
   {
     "title": "Order of Adjectives",
-    "content": "It is a [small red|red small] dress.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [long black|black long] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [long black|black long] dress.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [beautiful wooden|wooden beautiful] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [big old|old big] dress.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [beautiful wooden|wooden beautiful] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [small red|red small] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
     "content": "It is a [long black|black long] car.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] table.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] house.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [big old|old big] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [long black|black long] box.",
-    "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
-    "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
-    "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"
-  },
-  {
-    "title": "Order of Adjectives",
-    "content": "It is a [expensive Italian|Italian expensive] car.",
     "explanationEnUs": "General order: Opinion -> Size -> Age -> Color -> Origin -> Material.",
     "explanationZhTw": "一般順序：觀點 -> 大小 -> 年齡 -> 顏色 -> 產地 -> 材質。",
     "explanationZhCn": "一般顺序：观点 -> 大小 -> 年龄 -> 颜色 -> 产地 -> 材质。"

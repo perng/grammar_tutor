@@ -276,7 +276,17 @@ class _HomeScreenState extends State<HomeScreen> {
     }
 
     return Container(
-      color: Theme.of(context).colorScheme.surface,
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surface,
+        border: Border(
+          bottom: BorderSide(
+            color: Theme.of(
+              context,
+            ).colorScheme.outlineVariant.withOpacity(0.5),
+            width: 1,
+          ),
+        ),
+      ),
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8.0),
       child: Row(
         children: [
@@ -307,7 +317,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Column(
         children: [
           _buildBreadcrumbs(context),
-          const Divider(height: 1),
+          // Divider removed (border moved to breadcrumbs container)
           Expanded(child: widget.child),
         ],
       ),

@@ -35,20 +35,29 @@ class MyApp extends StatelessWidget {
     final lightTheme = ThemeData(
       useMaterial3: true,
       colorScheme: ColorScheme.fromSeed(
-        seedColor: const Color(0xFF283593), // Deep Indigo
+        seedColor: const Color(0xFF3F51B5), // Indigo 500
+        primary: const Color(0xFF283593), // Indigo 800
         secondary: const Color(0xFF009688), // Teal
-        surface: const Color(0xFFF5F5F5), // Off-white
-        background: const Color(0xFFF5F5F5),
+        surface: Colors.white,
+        onSurface: Colors.black87,
+        surfaceContainerHighest: const Color(
+          0xFFE8EAF6,
+        ), // Indigo 50 (for accents)
+        background: const Color(0xFFF8F9FA), // Very light grey-blue
         brightness: Brightness.light,
       ),
-      scaffoldBackgroundColor: const Color(0xFFF5F5F5),
+      scaffoldBackgroundColor: const Color(0xFFF8F9FA), // Matches background
       cardTheme: const CardThemeData(
-        elevation: 2,
+        elevation: 0, // Flat by default, we add borders/shadows manually
         color: Colors.white,
-        surfaceTintColor: Colors.white, // Remove default tint
+        surfaceTintColor: Colors.transparent,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.all(Radius.circular(12)),
+          side: BorderSide(color: Color(0xFFE0E0E0), width: 1),
+        ),
       ),
       listTileTheme: const ListTileThemeData(
-        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       ),
       appBarTheme: const AppBarTheme(
         backgroundColor: Colors.transparent,

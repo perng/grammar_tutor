@@ -31,15 +31,14 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
   Map<String, double> _progressMap = {};
   bool _isLoading = true;
   double _averageProgress = 0.0;
-  bool _isFirstLoad = true;
 
   @override
   void initState() {
     super.initState();
-    _loadLevels();
+    _loadLevels(isInitialLoad: true);
   }
 
-  Future<void> _loadLevels() async {
+  Future<void> _loadLevels({bool isInitialLoad = false}) async {
     try {
       final String response = await rootBundle.loadString(widget.assetPath);
       final List<dynamic> data = json.decode(response);
@@ -62,10 +61,7 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
         return progress;
       }
 
-      if (_isFirstLoad) {
-        // Prevent re-entry immediately
-        _isFirstLoad = false;
-
+      if (isInitialLoad) {
         // First load logic: determine where to go
         final tempProgress = loadProgress();
 
@@ -165,13 +161,15 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
                     : const Color(0xffe8f5e9))
               : (isDark
                     ? scheme.surfaceContainerHighest
-                    : const Color(0xfff5f5f5));
+                    : Theme.of(
+                        context,
+                      ).cardTheme.color!); // Use white from CardTheme
 
           return InkWell(
             onTap: () async {
               await context.push('${widget.routePrefix}/$index');
               if (mounted) {
-                _loadLevels();
+                _loadLevels(isInitialLoad: false);
               }
             },
             borderRadius: BorderRadius.circular(12),

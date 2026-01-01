@@ -83,6 +83,18 @@ class ProgressProvider extends ChangeNotifier {
     notifyListeners();
   }
 
+  // Track auto-navigation state per session
+  final Set<String> _autoNavigatedCategories = {};
+
+  bool hasAutoNavigated(String categoryId) {
+    return _autoNavigatedCategories.contains(categoryId);
+  }
+
+  void markAutoNavigated(String categoryId) {
+    _autoNavigatedCategories.add(categoryId);
+    // No need to notify listeners as this doesn't affect UI directly
+  }
+
   Future<void> updateGameProgress(String key, int percentage) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(key, percentage.toString());

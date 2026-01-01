@@ -25,45 +25,112 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
   Widget build(BuildContext context) {
     final loc = AppLocalizations.of(context);
 
-    // Using a GridView for a nicer presentation, or standard ListView
     return Scaffold(
       body: Consumer<ProgressProvider>(
         builder: (context, progressProvider, child) {
-          return ListView.separated(
+          final keys = menuItemsConfig.keys.toList();
+          return GridView.builder(
             padding: const EdgeInsets.all(16.0),
-            itemCount: menuItemsConfig.length,
-            separatorBuilder: (ctx, index) => const SizedBox(height: 12),
+            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+              maxCrossAxisExtent: 400,
+              mainAxisExtent: 120, // Rectangular cards
+              crossAxisSpacing: 16,
+              mainAxisSpacing: 16,
+            ),
+            itemCount: keys.length,
             itemBuilder: (context, index) {
-              final categoryKey = menuItemsConfig.keys.elementAt(index);
+              final categoryKey = keys[index];
               final title = loc.get(categoryKey);
               final completion =
                   progressProvider.gameCompletion[categoryKey] ?? 0.0;
               final percentage = (completion * 100).round();
 
               return Card(
-                elevation: 2,
-                margin: const EdgeInsets.symmetric(vertical: 4),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(8),
-                ),
+                clipBehavior: Clip.antiAlias,
                 child: InkWell(
-                  borderRadius: BorderRadius.circular(8),
                   onTap: () {
                     context.go('/categories/$categoryKey');
                   },
-                  child: ListTile(
-                    contentPadding: const EdgeInsets.symmetric(
-                      horizontal: 16,
-                      vertical: 0,
-                    ),
-                    title: Text(
-                      '$title ($percentage%)',
-                      style: const TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
+                  child: Container(
+                    padding: const EdgeInsets.all(16),
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: [
+                          Theme.of(context).cardTheme.color ??
+                              Theme.of(context).cardColor,
+                          Theme.of(context).cardTheme.color?.withOpacity(0.9) ??
+                              Theme.of(context).cardColor.withOpacity(0.9),
+                        ],
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
                       ),
                     ),
-                    trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+                    child: Row(
+                      children: [
+                        // Category Icon/Emoji (Placeholder logic)
+                        Container(
+                          width: 60,
+                          height: 60,
+                          decoration: BoxDecoration(
+                            color: Theme.of(
+                              context,
+                            ).colorScheme.primaryContainer.withOpacity(0.3),
+                            borderRadius: BorderRadius.circular(12),
+                          ),
+                          alignment: Alignment.center,
+                          child: Text(
+                            _getCategoryEmoji(categoryKey),
+                            style: const TextStyle(fontSize: 32),
+                          ),
+                        ),
+                        const SizedBox(width: 16),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(
+                                title,
+                                style: const TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                                maxLines: 2,
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                              const SizedBox(height: 8),
+                              Row(
+                                children: [
+                                  Expanded(
+                                    child: LinearProgressIndicator(
+                                      value: completion,
+                                      backgroundColor: Theme.of(
+                                        context,
+                                      ).colorScheme.surfaceVariant,
+                                      color: Theme.of(
+                                        context,
+                                      ).colorScheme.secondary,
+                                      borderRadius: BorderRadius.circular(4),
+                                    ),
+                                  ),
+                                  const SizedBox(width: 8),
+                                  Text(
+                                    '$percentage%',
+                                    style: TextStyle(
+                                      color: Theme.of(
+                                        context,
+                                      ).colorScheme.onSurfaceVariant,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                        const Icon(Icons.chevron_right, color: Colors.grey),
+                      ],
+                    ),
                   ),
                 ),
               );
@@ -72,5 +139,14 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
         },
       ),
     );
+  }
+
+  String _getCategoryEmoji(String key) {
+    // Determine Emoji based on key string content if possible, or just defaults
+    if (key.contains('grammar')) return '📖';
+    if (key.contains('verb')) return '🏃';
+    if (key.contains('tenses')) return '⏳';
+    if (key.contains('noun')) return '📦';
+    return '📝';
   }
 }

@@ -7,6 +7,7 @@ import 'router.dart';
 import 'providers/locale_provider.dart';
 import 'providers/progress_provider.dart';
 import 'l10n/app_localizations.dart';
+import 'providers/theme_provider.dart';
 
 void main() {
   runApp(
@@ -14,6 +15,7 @@ void main() {
       providers: [
         ChangeNotifierProvider(create: (_) => LocaleProvider()),
         ChangeNotifierProvider(create: (_) => ProgressProvider()),
+        ChangeNotifierProvider(create: (_) => ThemeProvider()),
       ],
       child: const MyApp(),
     ),
@@ -26,6 +28,61 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final localeProvider = Provider.of<LocaleProvider>(context);
+    // Access theme provider to trigger rebuilds on theme change
+    final themeProvider = Provider.of<ThemeProvider>(context);
+
+    // Deep Indigo & Teal Theme
+    final lightTheme = ThemeData(
+      useMaterial3: true,
+      colorScheme: ColorScheme.fromSeed(
+        seedColor: const Color(0xFF283593), // Deep Indigo
+        secondary: const Color(0xFF009688), // Teal
+        surface: const Color(0xFFF5F5F5), // Off-white
+        background: const Color(0xFFF5F5F5),
+        brightness: Brightness.light,
+      ),
+      scaffoldBackgroundColor: const Color(0xFFF5F5F5),
+      cardTheme: const CardThemeData(
+        elevation: 2,
+        color: Colors.white,
+        surfaceTintColor: Colors.white, // Remove default tint
+      ),
+      listTileTheme: const ListTileThemeData(
+        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+      ),
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: true,
+      ),
+      textTheme: GoogleFonts.interTextTheme(),
+    );
+
+    final darkTheme = ThemeData(
+      useMaterial3: true,
+      colorScheme: ColorScheme.fromSeed(
+        seedColor: const Color(0xFF3949AB), // Lighter Indigo for dark mode
+        secondary: const Color(0xFF64FFDA), // Teal Accent
+        brightness: Brightness.dark,
+        surface: const Color(0xFF1E1E1E),
+        background: const Color(0xFF121212),
+      ),
+      scaffoldBackgroundColor: const Color(0xFF121212),
+      cardTheme: const CardThemeData(
+        elevation: 2,
+        color: Color(0xFF1E1E1E),
+        surfaceTintColor: Color(0xFF1E1E1E),
+      ),
+      listTileTheme: const ListTileThemeData(
+        contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+      ),
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        centerTitle: true,
+      ),
+      textTheme: GoogleFonts.interTextTheme(ThemeData.dark().textTheme),
+    );
 
     return MaterialApp.router(
       onGenerateTitle: (context) => AppLocalizations.of(context).appTitle,
@@ -50,13 +107,9 @@ class MyApp extends StatelessWidget {
           PointerDeviceKind.trackpad,
         },
       ),
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF1A237E),
-        ), // From Home.css
-        useMaterial3: true,
-        textTheme: GoogleFonts.interTextTheme(),
-      ),
+      theme: lightTheme,
+      darkTheme: darkTheme,
+      themeMode: themeProvider.themeMode,
       routerConfig: router,
     );
   }

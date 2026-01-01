@@ -37,10 +37,15 @@ class _GameListScreenState extends State<GameListScreen> {
     return Scaffold(
       body: Consumer<ProgressProvider>(
         builder: (context, progressProvider, child) {
-          return ListView.separated(
+          return GridView.builder(
             padding: const EdgeInsets.all(16.0),
+            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+              maxCrossAxisExtent: 400,
+              mainAxisExtent: 100, // Slightly smaller than category cards
+              crossAxisSpacing: 16,
+              mainAxisSpacing: 16,
+            ),
             itemCount: items.length,
-            separatorBuilder: (ctx, index) => const SizedBox(height: 12),
             itemBuilder: (context, index) {
               final item = items[index];
               final title = loc.get(item.titleKey);
@@ -49,24 +54,112 @@ class _GameListScreenState extends State<GameListScreen> {
               final percentage = (completion * 100).round();
 
               return Card(
-                elevation: 2,
-                margin: const EdgeInsets.symmetric(vertical: 4),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(8),
-                ),
+                clipBehavior: Clip.antiAlias,
                 child: InkWell(
-                  borderRadius: BorderRadius.circular(8),
                   onTap: () {
                     context.go(item.path);
                   },
-                  child: ListTile(
-                    contentPadding: const EdgeInsets.symmetric(
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(
                       horizontal: 16,
-                      vertical: 0,
+                      vertical: 12,
                     ),
-                    title: Text(
-                      '$title ($percentage%)',
-                      style: const TextStyle(fontSize: 18),
+                    decoration: BoxDecoration(
+                      border: Border(
+                        left: BorderSide(
+                          color: Theme.of(context).colorScheme.primary,
+                          width: 4,
+                        ),
+                      ),
+                    ),
+                    child: Row(
+                      children: [
+                        Hero(
+                          tag:
+                              'game_icon_${item.path}', // Simple unique animation tag
+                          child: Container(
+                            padding: const EdgeInsets.all(12),
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                colors: [
+                                  Theme.of(
+                                    context,
+                                  ).colorScheme.primaryContainer,
+                                  Theme.of(context).colorScheme.primaryContainer
+                                      .withOpacity(0.7),
+                                ],
+                                begin: Alignment.topLeft,
+                                end: Alignment.bottomRight,
+                              ),
+                              shape: BoxShape.circle,
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Theme.of(
+                                    context,
+                                  ).colorScheme.primary.withOpacity(0.2),
+                                  blurRadius: 8,
+                                  offset: const Offset(0, 4),
+                                ),
+                              ],
+                            ),
+                            child: Icon(
+                              item.icon,
+                              size: 28,
+                              color: Theme.of(context).colorScheme.primary,
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 16),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Text(
+                                title,
+                                style: const TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                              const SizedBox(height: 4),
+                              Row(
+                                children: [
+                                  Expanded(
+                                    child: LinearProgressIndicator(
+                                      value: completion,
+                                      backgroundColor: Theme.of(
+                                        context,
+                                      ).colorScheme.surfaceVariant,
+                                      color: Theme.of(
+                                        context,
+                                      ).colorScheme.tertiary,
+                                      borderRadius: BorderRadius.circular(2),
+                                    ),
+                                  ),
+                                  const SizedBox(width: 8),
+                                  Text(
+                                    '$percentage%',
+                                    style: TextStyle(
+                                      fontSize: 12,
+                                      color: Theme.of(
+                                        context,
+                                      ).colorScheme.outline,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        Icon(
+                          Icons.play_arrow_rounded,
+                          color: Theme.of(context).colorScheme.primary,
+                        ),
+                      ],
                     ),
                   ),
                 ),

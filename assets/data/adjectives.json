@@ -1,107 +1,107 @@
 [
-    {
-        "title": "-ing Adjectives",
-        "content": "This movie is [boring|bored].",
-        "explanationEnUs": "Use -ing adjectives to describe the thing causing the feeling.",
-        "explanationZhTw": "-ing 形容詞用來形容引起感覺的事物。",
-        "explanationZhCn": "-ing 形容词用来形容引起感觉的事物。"
-    },
-    {
-        "title": "-ed Adjectives",
-        "content": "I am [excited|exciting] about the trip.",
-        "explanationEnUs": "Use -ed adjectives to describe feelings.",
-        "explanationZhTw": "-ed 形容詞用來形容感覺。",
-        "explanationZhCn": "-ed 形容词用来形容感觉。"
-    },
-    {
-        "title": "-ing Adjectives",
-        "content": "The news was [shocking|shocked].",
-        "explanationEnUs": "The news caused the shock, so use -ing.",
-        "explanationZhTw": "新聞引起了震驚，所以使用 -ing。",
-        "explanationZhCn": "新闻引起了震惊，所以使用 -ing。"
-    },
-    {
-        "title": "-ed Adjectives",
-        "content": "She was [surprised|surprising] to see him.",
-        "explanationEnUs": "She felt the surprise, so use -ed.",
-        "explanationZhTw": "她感到驚訝，所以使用 -ed。",
-        "explanationZhCn": "她感到惊讶，所以使用 -ed。"
-    },
-    {
-        "title": "-ing Adjectives",
-        "content": "His speech was very [inspiring|inspired].",
-        "explanationEnUs": "The speech caused inspiration.",
-        "explanationZhTw": "演講具有啟發性。",
-        "explanationZhCn": "演讲具有启发性。"
-    },
-    {
-        "title": "-ed Adjectives",
-        "content": "I am [confused|confusing] by these instructions.",
-        "explanationEnUs": "I feel confusion.",
-        "explanationZhTw": "我感到困惑。",
-        "explanationZhCn": "我感到困惑。"
-    },
-    {
-        "title": "-ing Adjectives",
-        "content": "The hike was [tiring|tired].",
-        "explanationEnUs": "The hike caused tiredness.",
-        "explanationZhTw": "健行讓人感到疲累。",
-        "explanationZhCn": "健行让人感到疲累。"
-    },
-    {
-        "title": "-ed Adjectives",
-        "content": "He is [interested|interesting] in history.",
-        "explanationEnUs": "He has the feeling of interest.",
-        "explanationZhTw": "他對歷史感興趣。",
-        "explanationZhCn": "他对历史感兴趣。"
-    },
-    {
-        "title": "Linking Verbs",
-        "content": "This soup tastes [good|well].",
-        "explanationEnUs": "'Taste' is a linking verb, so it takes an adjective.",
-        "explanationZhTw": "'Taste' (嚐起來) 是連綴動詞，後接形容詞。",
-        "explanationZhCn": "'Taste' (尝起来) 是连系动词，后接形容词。"
-    },
-    {
-        "title": "Linking Verbs",
-        "content": "She looks [happy|happily].",
-        "explanationEnUs": "'Look' is a linking verb here, describing the subject.",
-        "explanationZhTw": "'Look' (看起來) 是連綴動詞，形容主詞。",
-        "explanationZhCn": "'Look' (看起来) 是连系动词，形容主语。"
-    },
-    {
-        "title": "Linking Verbs",
-        "content": "The flower smells [sweet|sweetly].",
-        "explanationEnUs": "'Smell' is a linking verb.",
-        "explanationZhTw": "'Smell' (聞起來) 是連綴動詞。",
-        "explanationZhCn": "'Smell' (闻起来) 是连系动词。"
-    },
-    {
-        "title": "Linking Verbs",
-        "content": "He seems [nice|nicely].",
-        "explanationEnUs": "'Seem' is always followed by an adjective.",
-        "explanationZhTw": "'Seem' (似乎) 後面總是接形容詞。",
-        "explanationZhCn": "'Seem' (似乎) 后面总是接形容词。"
-    },
-    {
-        "title": "Adjective vs Adverb",
-        "content": "It is a [widespread|widely] belief.",
-        "explanationEnUs": "Use an adjective to modify a noun (belief).",
-        "explanationZhTw": "使用形容詞修飾名詞 (belief)。",
-        "explanationZhCn": "使用形容词修饰名词 (belief)。"
-    },
-    {
-        "title": "Adjective vs Adverb",
-        "content": "Be [careful|carefully] with that glass.",
-        "explanationEnUs": "Use an adjective after 'be'.",
-        "explanationZhTw": "'Be' 動詞後接形容詞。",
-        "explanationZhCn": "'Be' 动词后接形容词。"
-    },
-    {
-        "title": "Adjective vs Adverb",
-        "content": "The car is [fast|fastly].",
-        "explanationEnUs": "'Fast' is an adjective here. 'Fastly' is not a word.",
-        "explanationZhTw": "'Fast' 在此是形容詞。'Fastly' 不是一個字。",
-        "explanationZhCn": "'Fast' 在此是形容词。'Fastly' 不是一个字。"
-    }
+  {
+    "title": "Bor",
+    "content": "This movie is [boring|bored].",
+    "explanationEnUs": "Use -ing adjectives to describe the thing causing the feeling.",
+    "explanationZhTw": "-ing 形容詞用來形容引起感覺的事物。",
+    "explanationZhCn": "-ing 形容词用来形容引起感觉的事物。"
+  },
+  {
+    "title": "Excit",
+    "content": "I am [excited|exciting] about the trip.",
+    "explanationEnUs": "Use -ed adjectives to describe feelings.",
+    "explanationZhTw": "-ed 形容詞用來形容感覺。",
+    "explanationZhCn": "-ed 形容词用来形容感觉。"
+  },
+  {
+    "title": "Shock",
+    "content": "The news was [shocking|shocked].",
+    "explanationEnUs": "The news caused the shock, so use -ing.",
+    "explanationZhTw": "新聞引起了震驚，所以使用 -ing。",
+    "explanationZhCn": "新闻引起了震惊，所以使用 -ing。"
+  },
+  {
+    "title": "Surpris",
+    "content": "She was [surprised|surprising] to see him.",
+    "explanationEnUs": "She felt the surprise, so use -ed.",
+    "explanationZhTw": "她感到驚訝，所以使用 -ed。",
+    "explanationZhCn": "她感到惊讶，所以使用 -ed。"
+  },
+  {
+    "title": "Inspir",
+    "content": "His speech was very [inspiring|inspired].",
+    "explanationEnUs": "The speech caused inspiration.",
+    "explanationZhTw": "演講具有啟發性。",
+    "explanationZhCn": "演讲具有启发性。"
+  },
+  {
+    "title": "Confus",
+    "content": "I am [confused|confusing] by these instructions.",
+    "explanationEnUs": "I feel confusion.",
+    "explanationZhTw": "我感到困惑。",
+    "explanationZhCn": "我感到困惑。"
+  },
+  {
+    "title": "Tir",
+    "content": "The hike was [tiring|tired].",
+    "explanationEnUs": "The hike caused tiredness.",
+    "explanationZhTw": "健行讓人感到疲累。",
+    "explanationZhCn": "健行让人感到疲累。"
+  },
+  {
+    "title": "Interest",
+    "content": "He is [interested|interesting] in history.",
+    "explanationEnUs": "He has the feeling of interest.",
+    "explanationZhTw": "他對歷史感興趣。",
+    "explanationZhCn": "他对历史感兴趣。"
+  },
+  {
+    "title": "Good",
+    "content": "This soup tastes [good|well].",
+    "explanationEnUs": "'Taste' is a linking verb, so it takes an adjective.",
+    "explanationZhTw": "'Taste' (嚐起來) 是連綴動詞，後接形容詞。",
+    "explanationZhCn": "'Taste' (尝起来) 是连系动词，后接形容词。"
+  },
+  {
+    "title": "Happy",
+    "content": "She looks [happy|happily].",
+    "explanationEnUs": "'Look' is a linking verb here, describing the subject.",
+    "explanationZhTw": "'Look' (看起來) 是連綴動詞，形容主詞。",
+    "explanationZhCn": "'Look' (看起来) 是连系动词，形容主语。"
+  },
+  {
+    "title": "Sweet",
+    "content": "The flower smells [sweet|sweetly].",
+    "explanationEnUs": "'Smell' is a linking verb.",
+    "explanationZhTw": "'Smell' (聞起來) 是連綴動詞。",
+    "explanationZhCn": "'Smell' (闻起来) 是连系动词。"
+  },
+  {
+    "title": "Nice",
+    "content": "He seems [nice|nicely].",
+    "explanationEnUs": "'Seem' is always followed by an adjective.",
+    "explanationZhTw": "'Seem' (似乎) 後面總是接形容詞。",
+    "explanationZhCn": "'Seem' (似乎) 后面总是接形容词。"
+  },
+  {
+    "title": "Widespread",
+    "content": "It is a [widespread|widely] belief.",
+    "explanationEnUs": "Use an adjective to modify a noun (belief).",
+    "explanationZhTw": "使用形容詞修飾名詞 (belief)。",
+    "explanationZhCn": "使用形容词修饰名词 (belief)。"
+  },
+  {
+    "title": "Careful",
+    "content": "Be [careful|carefully] with that glass.",
+    "explanationEnUs": "Use an adjective after 'be'.",
+    "explanationZhTw": "'Be' 動詞後接形容詞。",
+    "explanationZhCn": "'Be' 动词后接形容词。"
+  },
+  {
+    "title": "Fast",
+    "content": "The car is [fast|fastly].",
+    "explanationEnUs": "'Fast' is an adjective here. 'Fastly' is not a word.",
+    "explanationZhTw": "'Fast' 在此是形容詞。'Fastly' 不是一個字。",
+    "explanationZhCn": "'Fast' 在此是形容词。'Fastly' 不是一个字。"
+  }
 ]

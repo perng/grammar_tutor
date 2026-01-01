@@ -1,34 +1,34 @@
 [
   {
-    "title": "The...the...",
+    "title": "Learn",
     "content": "The [more|most] you learn, the more you earn.",
     "explanationEnUs": "Parallel increase structure.",
     "explanationZhTw": "平行增長結構。",
     "explanationZhCn": "平行增长结构。"
   },
   {
-    "title": "The...the...",
+    "title": "Sooner",
     "content": "The earlier you leave, the [sooner|soon] you arrive.",
     "explanationEnUs": "Use comparative forms in 'the...the...'.",
     "explanationZhTw": "在 'the...the...' 句型中使用比較級。",
     "explanationZhCn": "在 'the...the...' 句型中使用比较级。"
   },
   {
-    "title": "So...that...",
+    "title": "Tired",
     "content": "He was [so|such] tired that he slept immediately.",
     "explanationEnUs": "Use 'so' before an adjective.",
     "explanationZhTw": "在形容詞前使用 'so'。",
     "explanationZhCn": "在形容词前使用 'so'。"
   },
   {
-    "title": "Such...that...",
+    "title": "Lovely",
     "content": "It was [such|so] a lovely day that we went out.",
     "explanationEnUs": "Use 'such' before a noun phrase.",
     "explanationZhTw": "在名詞片語前使用 'such'。",
     "explanationZhCn": "在名词短语前使用 'such'。"
   },
   {
-    "title": "Too...to...",
+    "title": "Coffee",
     "content": "This coffee is [too|enough] hot to drink.",
     "explanationEnUs": "'Too' implies excessiveness preventing an action.",
     "explanationZhTw": "'Too' 暗示過度而無法進行某動作。",
@@ -42,63 +42,63 @@
     "explanationZhCn": "'Enough' 放在形容词之后。"
   },
   {
-    "title": "Not only...but also...",
+    "title": "English",
     "content": "He speaks [not only|only] English but also French.",
     "explanationEnUs": "Paired conjunction for adding information.",
     "explanationZhTw": "用於增加資訊的關聯連接詞。",
     "explanationZhCn": "用于增加资讯的关联连词。"
   },
   {
-    "title": "Prefer...to...",
+    "title": "Prefer",
     "content": "I prefer tea [to|than] coffee.",
     "explanationEnUs": "Use 'to' with 'prefer' for comparison.",
     "explanationZhTw": "'Prefer' 的比較搭配使用 'to'。",
     "explanationZhCn": "'Prefer' 的比较搭配使用 'to'。"
   },
   {
-    "title": "Would rather...than...",
+    "title": "Rather",
     "content": "I would rather stay home [than|to] go out.",
     "explanationEnUs": "Use 'than' with 'would rather'.",
     "explanationZhTw": "'Would rather' 搭配使用 'than'。",
     "explanationZhCn": "'Would rather' 搭配使用 'than'。"
   },
   {
-    "title": "It takes...",
+    "title": "Take",
     "content": "It [takes|costs] me 20 minutes to walk there.",
     "explanationEnUs": "Use 'takes' for time.",
     "explanationZhTw": "花費時間使用 'takes'。",
     "explanationZhCn": "花费时间使用 'takes'。"
   },
   {
-    "title": "It costs...",
+    "title": "Cost",
     "content": "It [costs|spends] a lot of money.",
     "explanationEnUs": "Use 'costs' for price/money involving an object subject.",
     "explanationZhTw": "物品花費金錢使用 'costs'。",
     "explanationZhCn": "物品花费金钱使用 'costs'。"
   },
   {
-    "title": "Spend...on...",
+    "title": "Spend",
     "content": "I [spend|take] two hours on homework.",
     "explanationEnUs": "People 'spend' time or money.",
     "explanationZhTw": "人 'spend' (花費) 時間或金錢。",
     "explanationZhCn": "人 'spend' (花费) 时间或金钱。"
   },
   {
-    "title": "So...that...",
+    "title": "Box",
     "content": "The box is [so|such] heavy that I can't lift it.",
     "explanationEnUs": "'Heavy' is an adjective, so use 'so'.",
     "explanationZhTw": "'Heavy' 是形容詞，所以用 'so'。",
     "explanationZhCn": "'Heavy' 是形容词，所以用 'so'。"
   },
   {
-    "title": "Either...or...",
+    "title": "Either",
     "content": "You can [either|neither] have cake or ice cream.",
     "explanationEnUs": "'Either' pairs with 'or' for choices.",
     "explanationZhTw": "'Either' 搭配 'or' 表示選擇。",
     "explanationZhCn": "'Either' 搭配 'or' 表示选择。"
   },
   {
-    "title": "Neither...nor...",
+    "title": "Neither",
     "content": "The solution is [neither|either] simple nor cheap.",
     "explanationEnUs": "'Neither' pairs with 'nor' for negative additions.",
     "explanationZhTw": "'Neither' 搭配 'nor' 表示否定。",

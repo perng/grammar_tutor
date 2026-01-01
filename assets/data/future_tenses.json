@@ -1,107 +1,107 @@
 [
-    {
-        "title": "Future with Will",
-        "content": "I think it [will rain|rains] tomorrow.",
-        "explanationEnUs": "Use 'will' for predictions or instant decisions.",
-        "explanationZhTw": "預測或臨時決定使用 'will'。",
-        "explanationZhCn": "预测或临时决定使用 'will'。"
-    },
-    {
-        "title": "Future with Going To",
-        "content": "Look at those clouds! It [is going to|will] rain.",
-        "explanationEnUs": "Use 'going to' for predictions based on evidence.",
-        "explanationZhTw": "根據證據做出的預測使用 'going to'。",
-        "explanationZhCn": "根据证据做出的预测使用 'going to'。"
-    },
-    {
-        "title": "Future Continuous",
-        "content": "This time next week, I [will be flying|will fly] to Paris.",
-        "explanationEnUs": "Future action in progress at a specific time.",
-        "explanationZhTw": "未來特定時間正在進行的動作。",
-        "explanationZhCn": "未来特定时间正在进行的动作。"
-    },
-    {
-        "title": "Future with Will",
-        "content": "I'm cold. I [will close|am closing] the window.",
-        "explanationEnUs": "Use 'will' for instant decisions made at the moment of speaking.",
-        "explanationZhTw": "說話當下做出的決定使用 'will'。",
-        "explanationZhCn": "说话当下做出的决定使用 'will'。"
-    },
-    {
-        "title": "Future with Will",
-        "content": "Don't worry, I [will help|am helping] you with your homework.",
-        "explanationEnUs": "Use 'will' for promises or offers.",
-        "explanationZhTw": "承諾或提議使用 'will'。",
-        "explanationZhCn": "承诺或提议使用 'will'。"
-    },
-    {
-        "title": "Future with Will",
-        "content": "I believe people [will live|are living] on Mars someday.",
-        "explanationEnUs": "Use 'will' for predictions based on opinion or belief.",
-        "explanationZhTw": "根據觀點或是信念做出的預測使用 'will'。",
-        "explanationZhCn": "根据观点或是信念做出的预测使用 'will'。"
-    },
-    {
-        "title": "Future with Will",
-        "content": "I [will call|call] you when I arrive.",
-        "explanationEnUs": "Use 'will' to state a future fact or promise.",
-        "explanationZhTw": "陳述未來事實或承諾使用 'will'。",
-        "explanationZhCn": "陈述未来事实或承诺使用 'will'。"
-    },
-    {
-        "title": "Future with Going To",
-        "content": "We [are going to visit|visit] our grandparents this weekend.",
-        "explanationEnUs": "Use 'going to' for planned actions or intentions.",
-        "explanationZhTw": "計畫好的行動或意圖使用 'going to'。",
-        "explanationZhCn": "计划好的行动或意图使用 'going to'。"
-    },
-    {
-        "title": "Future with Going To",
-        "content": "Watch out! You [are going to fall|will fall]!",
-        "explanationEnUs": "Use 'going to' for predictions when there is present evidence.",
-        "explanationZhTw": "當有現有證據時的預測使用 'going to'。",
-        "explanationZhCn": "当有现有证据时的预测使用 'going to'。"
-    },
-    {
-        "title": "Future with Going To",
-        "content": "I [am going to buy|will buy] a new car next year.",
-        "explanationEnUs": "Use 'going to' for future intentions.",
-        "explanationZhTw": "未來的意圖使用 'going to'。",
-        "explanationZhCn": "未来的意图使用 'going to'。"
-    },
-    {
-        "title": "Future with Going To",
-        "content": "She is pregnant. She [is going to have|will have] a baby.",
-        "explanationEnUs": "Use 'going to' when there is physical evidence.",
-        "explanationZhTw": "有實質證據時使用 'going to'。",
-        "explanationZhCn": "有实质证据时使用 'going to'。"
-    },
-    {
-        "title": "Future Continuous",
-        "content": "Don't call me at 8. I [will be watching|will watch] the game.",
-        "explanationEnUs": "Use Future Continuous for an action that will be happening at a specific time.",
-        "explanationZhTw": "用於在特定時間正在發生的動作。",
-        "explanationZhCn": "用于在特定时间正在发生的动作。"
-    },
-    {
-        "title": "Future Continuous",
-        "content": "At 10 AM tomorrow, I [will be working|work] in my office.",
-        "explanationEnUs": "Action in progress at a future time.",
-        "explanationZhTw": "未來某個時間正在進行的動作。",
-        "explanationZhCn": "未来某个时间正在进行的动作。"
-    },
-    {
-        "title": "Future Continuous",
-        "content": "When you arrive, we [will be having|will have] dinner.",
-        "explanationEnUs": "Action already in progress when something else happens.",
-        "explanationZhTw": "當另一件事發生時，該動作已在進行中。",
-        "explanationZhCn": "当另一件事发生时，该动作已在进行中。"
-    },
-    {
-        "title": "Future Continuous",
-        "content": "I [will be seeing|will see] him at the meeting tomorrow.",
-        "explanationEnUs": "Use Future Continuous for something that will happen as part of a routine.",
-        "explanationZhTw": "用於常規或安排好的未來事件。",
-        "explanationZhCn": "用于常规或安排好的未来事件。"
-    }
+  {
+    "title": "Rain",
+    "content": "I think it [will rain|rains] tomorrow.",
+    "explanationEnUs": "Use 'will' for predictions or instant decisions.",
+    "explanationZhTw": "預測或臨時決定使用 'will'。",
+    "explanationZhCn": "预测或临时决定使用 'will'。"
+  },
+  {
+    "title": "Those",
+    "content": "Look at those clouds! It [is going to|will] rain.",
+    "explanationEnUs": "Use 'going to' for predictions based on evidence.",
+    "explanationZhTw": "根據證據做出的預測使用 'going to'。",
+    "explanationZhCn": "根据证据做出的预测使用 'going to'。"
+  },
+  {
+    "title": "Paris",
+    "content": "This time next week, I [will be flying|will fly] to Paris.",
+    "explanationEnUs": "Future action in progress at a specific time.",
+    "explanationZhTw": "未來特定時間正在進行的動作。",
+    "explanationZhCn": "未来特定时间正在进行的动作。"
+  },
+  {
+    "title": "Close",
+    "content": "I'm cold. I [will close|am closing] the window.",
+    "explanationEnUs": "Use 'will' for instant decisions made at the moment of speaking.",
+    "explanationZhTw": "說話當下做出的決定使用 'will'。",
+    "explanationZhCn": "说话当下做出的决定使用 'will'。"
+  },
+  {
+    "title": "Help",
+    "content": "Don't worry, I [will help|am helping] you with your homework.",
+    "explanationEnUs": "Use 'will' for promises or offers.",
+    "explanationZhTw": "承諾或提議使用 'will'。",
+    "explanationZhCn": "承诺或提议使用 'will'。"
+  },
+  {
+    "title": "Mars",
+    "content": "I believe people [will live|are living] on Mars someday.",
+    "explanationEnUs": "Use 'will' for predictions based on opinion or belief.",
+    "explanationZhTw": "根據觀點或是信念做出的預測使用 'will'。",
+    "explanationZhCn": "根据观点或是信念做出的预测使用 'will'。"
+  },
+  {
+    "title": "Call",
+    "content": "I [will call|call] you when I arrive.",
+    "explanationEnUs": "Use 'will' to state a future fact or promise.",
+    "explanationZhTw": "陳述未來事實或承諾使用 'will'。",
+    "explanationZhCn": "陈述未来事实或承诺使用 'will'。"
+  },
+  {
+    "title": "Visit",
+    "content": "We [are going to visit|visit] our grandparents this weekend.",
+    "explanationEnUs": "Use 'going to' for planned actions or intentions.",
+    "explanationZhTw": "計畫好的行動或意圖使用 'going to'。",
+    "explanationZhCn": "计划好的行动或意图使用 'going to'。"
+  },
+  {
+    "title": "Fall",
+    "content": "Watch out! You [are going to fall|will fall]!",
+    "explanationEnUs": "Use 'going to' for predictions when there is present evidence.",
+    "explanationZhTw": "當有現有證據時的預測使用 'going to'。",
+    "explanationZhCn": "当有现有证据时的预测使用 'going to'。"
+  },
+  {
+    "title": "Buy",
+    "content": "I [am going to buy|will buy] a new car next year.",
+    "explanationEnUs": "Use 'going to' for future intentions.",
+    "explanationZhTw": "未來的意圖使用 'going to'。",
+    "explanationZhCn": "未来的意图使用 'going to'。"
+  },
+  {
+    "title": "Pregnant",
+    "content": "She is pregnant. She [is going to have|will have] a baby.",
+    "explanationEnUs": "Use 'going to' when there is physical evidence.",
+    "explanationZhTw": "有實質證據時使用 'going to'。",
+    "explanationZhCn": "有实质证据时使用 'going to'。"
+  },
+  {
+    "title": "Watch",
+    "content": "Don't call me at 8. I [will be watching|will watch] the game.",
+    "explanationEnUs": "Use Future Continuous for an action that will be happening at a specific time.",
+    "explanationZhTw": "用於在特定時間正在發生的動作。",
+    "explanationZhCn": "用于在特定时间正在发生的动作。"
+  },
+  {
+    "title": "Work",
+    "content": "At 10 AM tomorrow, I [will be working|work] in my office.",
+    "explanationEnUs": "Action in progress at a future time.",
+    "explanationZhTw": "未來某個時間正在進行的動作。",
+    "explanationZhCn": "未来某个时间正在进行的动作。"
+  },
+  {
+    "title": "Hav",
+    "content": "When you arrive, we [will be having|will have] dinner.",
+    "explanationEnUs": "Action already in progress when something else happens.",
+    "explanationZhTw": "當另一件事發生時，該動作已在進行中。",
+    "explanationZhCn": "当另一件事发生时，该动作已在进行中。"
+  },
+  {
+    "title": "Meeting",
+    "content": "I [will be seeing|will see] him at the meeting tomorrow.",
+    "explanationEnUs": "Use Future Continuous for something that will happen as part of a routine.",
+    "explanationZhTw": "用於常規或安排好的未來事件。",
+    "explanationZhCn": "用于常规或安排好的未来事件。"
+  }
 ]

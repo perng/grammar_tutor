@@ -1,402 +1,402 @@
 [
-    {
-        "title": "Family Introduction",
-        "id": "family",
-        "content": "This is my mother. [She|He|It] is very kind. [She|He|It] likes to cook. \n\nThat man over there is my father. [He|She|It] is a teacher. [He|She|It] teaches math. \n\nWe have a pet dog. [It|He|She] is very playful. [It|He|She] likes to run in the park. (Note: We often use 'It' for animals when distinct gender isn't emphasized, though pet owners might use He/She).",
-        "explanation-zh-TW": "# 👨‍👩‍👧‍👦 家人稱謂 (He vs She vs It)\n\n這是中文母語者最容易混淆的地方！因為口語都是 'tā'。\n\n1. **Mother (媽媽)**: 女性，必須用 **She**。\n2. **Father (爸爸)**: 男性，必須用 **He**。\n3. **Dog (狗)**: 動物，通常用 **It** (除非是你自己的寵物，有時候會擬人化用 He/She，但考試或通用語境 It 最安全)。\n\n**記住**：看到女生想 She，看到男生想 He，看到非人類想 It。",
-        "explanation-en-US": "# 👨‍👩‍👧‍👦 He vs She vs It\n\n1. **Mother**: Female -> **She**.\n2. **Father**: Male -> **He**.\n3. **Dog**: Animal -> **It** (generally).",
-        "explanation-zh-CN": "# 👨‍👩‍👧‍👦 家人称谓 (He vs She vs It)\n\n这是中文母语者最容易混淆的地方！因为口语都是 'tā'。\n\n1. **Mother (妈妈)**: 女性，必须用 **She**。\n2. **Father (爸爸)**: 男性，必须用 **He**。\n3. **Dog (狗)**: 动物，通常用 **It** (除非是你自己的宠物，有时候会拟人化用 He/She，但考试或通用语境 It 最安全)。\n\n**记住**：看到女生想 She，看到男生想 He，看到非人类想 It。"
-    },
-    {
-        "title": "Jobs and People",
-        "id": "jobs",
-        "content": "Look at the doctor. [He|She|It] is wearing a white coat. (Assuming the picture shows a man). The nurse is helping the patient. [She|He|It] is very gentle. (Assuming the picture shows a woman). \n\nThe hospital is new. [It|He|She] is very big. My car is parked outside. [It|He|She] is red.",
-        "explanation-zh-TW": "# 🏥 職業與物品\n\n1. **Doctor (男醫生)**: **He**。\n2. **Nurse (女護士)**: **She**。\n3. **Hospital (醫院)**: 建築物 (非人) -> **It**。\n4. **Car (車子)**: 物品 -> **It**。",
-        "explanation-en-US": "# 🏥 Jobs and Objects\n\n1. **Male Doctor**: **He**.\n2. **Female Nurse**: **She**.\n3. **Hospital**: Building/Object -> **It**.\n4. **Car**: Object -> **It**.",
-        "explanation-zh-CN": "# 🏥 職業与物品\n\n1. **Doctor (男醫生)**: **He**。\n2. **Nurse (女護士)**: **She**。\n3. **Hospital (醫院)**: 建築物 (非人) -> **It**。\n4. **Car (车子)**: 物品 -> **It**。"
-    },
-    {
-        "title": "My Best Friend",
-        "id": "friend",
-        "content": "My best friend is Mary. [She|He|It] is a student. [She|He|It] studies hard every day. \n\nI also have a friend named John. [He|She|It] plays basketball. [He|She|It] is very tall. \n\nI have a new phone. [It|He|She] takes great photos. I love [it|he|she] very much.",
-        "explanation-zh-TW": "# 👫 朋友與物品\n\n1. **Mary (瑪麗)**: 女生名字 -> **She**。\n2. **John (約翰)**: 男生名字 -> **He**。\n3. **Phone (手機)**: 物品 -> **It**。\n\n練習時請專注於區分性別，這是建立英語大腦反射的重要一步！",
-        "explanation-en-US": "# 👫 Friends and Objects\n\n1. **Mary**: Female -> **She**.\n2. **John**: Male -> **He**.\n3. **Phone**: Object -> **It**.",
-        "explanation-zh-CN": "# 👫 朋友与物品\n\n1. **Mary (瑪麗)**: 女生名字 -> **She**。\n2. **John (約翰)**: 男生名字 -> **He**。\n3. **Phone (手机)**: 物品 -> **It**。\n\n練习时请专注於区分性別，这是建立英语大腦反射的重要一步！"
-    },
-    {
-        "title": "Hollywood Stars",
-        "id": "actors",
-        "content": "Tom Cruise is an actor. [He|She|It] is very famous. Brad Pitt is also an actor. [He|She|It] has blonde hair. \n\nAngelina Jolie is an actress. [She|He|It] is beautiful. Meryl Streep is a legend. [She|He|It] acts very well. \n\nThe movie is exciting. [It|He|She] is two hours long.",
-        "explanation-zh-TW": "男星用 He，女星用 She，電影用 It。",
-        "explanation-en-US": "Male -> He, Female -> She, Movie -> It.",
-        "explanation-zh-CN": "男星用 He，女星用 She，電影用 It。"
-    },
-    {
-        "title": "My Siblings",
-        "id": "siblings",
-        "content": "I have a brother named Mike. [He|She|It] is older than me. I have a sister named Lisa. [She|He|It] is younger. \n\nWe share a room. [It|He|She] is quite big. My brother has a bike. [It|He|She] is blue.",
-        "explanation-zh-TW": "Brother -> He, Sister -> She, Room/Bike -> It.",
-        "explanation-en-US": "Brother -> He, Sister -> She, Room/Bike -> It.",
-        "explanation-zh-CN": "Brother -> He, Sister -> She, Room/Bike -> It."
-    },
-    {
-        "title": "At the Office",
-        "id": "office_workers",
-        "content": "Mr. Smith is my boss. [He|She|It] is strict. Ms. Jones is the secretary. [She|He|It] is helpful. \n\nThe computer is broken. [It|He|She] needs fixing. The printer is new. [It|He|She] is fast.",
-        "explanation-zh-TW": "Mr. -> He, Ms. -> She, Computer/Printer -> It.",
-        "explanation-en-US": "Mr. -> He, Ms. -> She, Objects -> It.",
-        "explanation-zh-CN": "Mr. -> He, Ms. -> She, Computer/Printer -> It."
-    },
-    {
-        "title": "Farm Animals",
-        "id": "animals",
-        "content": "The cow is eating grass. [It|He|She] looks happy. (Animals generally It). The farmer is busy. [He|She|It] is working hard. (Assuming farmer is male).\n\nThe tractor is old. [It|He|She] is rusty. The barn is red. [It|He|She] is full of hay.",
-        "explanation-zh-TW": "Cow -> It, Farmer (Male) -> He, Tractor/Barn -> It.",
-        "explanation-en-US": "Cow -> It, Farmer (Male) -> He, Objects -> It.",
-        "explanation-zh-CN": "Cow -> It, Farmer (Male) -> He, Tractor/Barn -> It."
-    },
-    {
-        "title": "In the Kitchen",
-        "id": "kitchen_items",
-        "content": "Where is the knife? [It|He|She] is on the table. Where is Mom? [She|He|It] is cooking. Where is Dad? [He|She|It] is washing dishes.\n\nThe soup fits well. [It|He|She] tastes good.",
-        "explanation-zh-TW": "Knife/Soup -> It, Mom -> She, Dad -> He.",
-        "explanation-en-US": "Objects -> It, Mom -> She, Dad -> He.",
-        "explanation-zh-CN": "Knife/Soup -> It, Mom -> She, Dad -> He."
-    },
-    {
-        "title": "Park Life",
-        "id": "park_life",
-        "content": "Look at that boy running. [He|She|It] is fast. Look at that girl swinging. [She|He|It] is happy. \n\nThe slide is high. [It|He|She] looks fun. The tree is tall. [It|He|She] is old.",
-        "explanation-zh-TW": "Boy -> He, Girl -> She, Slide/Tree -> It.",
-        "explanation-en-US": "Boy -> He, Girl -> She, Objects -> It.",
-        "explanation-zh-CN": "Boy -> He, Girl -> She, Slide/Tree -> It."
-    },
-    {
-        "title": "Classroom Objects",
-        "id": "classroom_obj",
-        "content": "I have a pen. [It|He|She] is blue. The teacher is Mr. Lee. [He|She|It] is writing. The student is Sarah. [She|He|It] is reading.\n\nThe book is heavy. [It|He|She] has many pages.",
-        "explanation-zh-TW": "Pen/Book -> It, Mr. Lee -> He, Sarah -> She.",
-        "explanation-en-US": "Objects -> It, Male -> He, Female -> She.",
-        "explanation-zh-CN": "Pen/Book -> It, Mr. Lee -> He, Sarah -> She."
-    },
-    {
-        "title": "Royal Family",
-        "id": "royals",
-        "content": "The King wears a crown. [He|She|It] is powerful. The Queen sits next to him. [She|He|It] is elegant.\n\nThe castle is huge. [It|He|She] is made of stone. The crown is gold. [It|He|She] is shiny.",
-        "explanation-zh-TW": "King -> He, Queen -> She, Castle/Crown -> It.",
-        "explanation-en-US": "King -> He, Queen -> She, Objects -> It.",
-        "explanation-zh-CN": "King -> He, Queen -> She, Castle/Crown -> It."
-    },
-    {
-        "title": "Weather Check",
-        "id": "weather_pn",
-        "content": "The sun is hot. [It|He|She] is shining. Mr. Sun is a character. [He|She|It] smiles. (Personified).\n\nThe rain is falling. [It|He|She] is wet. The wind is blowing. [It|He|She] is cold.",
-        "explanation-zh-TW": "Sun/Rain/Wind -> It. Mr. Sun (擬人) -> He.",
-        "explanation-en-US": "Nature -> It. Personified -> He/She.",
-        "explanation-zh-CN": "Sun/Rain/Wind -> It. Mr. Sun (拟人) -> He."
-    },
-    {
-        "title": "Clothing Store",
-        "id": "clothing",
-        "content": "This dress is pretty. [It|He|She] is pink. That boy likes the shirt. [He|She|It] wants to buy it.\n\nThe saleswoman is helpful. [She|He|It] smiles. The hat fits well. [It|He|She] is stylish.",
-        "explanation-zh-TW": "Dress/Hat -> It, Boy -> He, Saleswoman -> She.",
-        "explanation-en-US": "Objects -> It, Boy -> He, Saleswoman -> She.",
-        "explanation-zh-CN": "Dress/Hat -> It, Boy -> He, Saleswoman -> She."
-    },
-    {
-        "title": "Body Parts",
-        "id": "body",
-        "content": "My head hurts. [It|He|She] aches. My doctor is Dr. Chen (female). [She|He|It] helps me.\n\nMy leg is broken. [It|He|She] is in a cast. My brother is sad. [He|She|It] cries.",
-        "explanation-zh-TW": "Head/Leg -> It, Dr. Chen (女) -> She, Brother -> He.",
-        "explanation-en-US": "Body parts -> It, Female Dr -> She, Male -> He.",
-        "explanation-zh-CN": "Head/Leg -> It, Dr. Chen (女) -> She, Brother -> He."
-    },
-    {
-        "title": "My Bedroom",
-        "id": "bedroom_pn",
-        "content": "My bed is soft. [It|He|She] is comfortable. My sister sleeps here. [She|He|It] is tired.\n\nThe lamp is bright. [It|He|She] is on. My dad reads here too. [He|She|It] likes this room.",
-        "explanation-zh-TW": "Bed/Lamp -> It, Sister -> She, Dad -> He.",
-        "explanation-en-US": "Objects -> It, Sister -> She, Dad -> He.",
-        "explanation-zh-CN": "Bed/Lamp -> It, Sister -> She, Dad -> He."
-    },
-    {
-        "id": "auto_pronouns_16",
-        "title": "Possessive Pronoun 16",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_17",
-        "title": "Object 17",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_18",
-        "title": "Object 18",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_19",
-        "title": "Possessive Adj 19",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_20",
-        "title": "Possessive Pronoun 20",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_21",
-        "title": "Possessive Pronoun 21",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_22",
-        "title": "Object 22",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_23",
-        "title": "Subject 23",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_24",
-        "title": "Possessive Pronoun 24",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_25",
-        "title": "Subject 25",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_26",
-        "title": "Subject 26",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_27",
-        "title": "Possessive Pronoun 27",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_28",
-        "title": "Reflexive 28",
-        "content": "He hurt [himself|him].",
-        "explanation-zh-TW": "Reflexive.",
-        "explanation-en-US": "Reflexive.",
-        "explanation-zh-CN": "Reflexive."
-    },
-    {
-        "id": "auto_pronouns_29",
-        "title": "Possessive Pronoun 29",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_30",
-        "title": "Possessive Adj 30",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_31",
-        "title": "Object 31",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_32",
-        "title": "Reflexive 32",
-        "content": "He hurt [himself|him].",
-        "explanation-zh-TW": "Reflexive.",
-        "explanation-en-US": "Reflexive.",
-        "explanation-zh-CN": "Reflexive."
-    },
-    {
-        "id": "auto_pronouns_33",
-        "title": "Object 33",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_34",
-        "title": "Subject 34",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_35",
-        "title": "Object 35",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_36",
-        "title": "Reflexive 36",
-        "content": "He hurt [himself|him].",
-        "explanation-zh-TW": "Reflexive.",
-        "explanation-en-US": "Reflexive.",
-        "explanation-zh-CN": "Reflexive."
-    },
-    {
-        "id": "auto_pronouns_37",
-        "title": "Reflexive 37",
-        "content": "He hurt [himself|him].",
-        "explanation-zh-TW": "Reflexive.",
-        "explanation-en-US": "Reflexive.",
-        "explanation-zh-CN": "Reflexive."
-    },
-    {
-        "id": "auto_pronouns_38",
-        "title": "Object 38",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    },
-    {
-        "id": "auto_pronouns_39",
-        "title": "Possessive Adj 39",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_40",
-        "title": "Subject 40",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_41",
-        "title": "Possessive Adj 41",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_42",
-        "title": "Reflexive 42",
-        "content": "He hurt [himself|him].",
-        "explanation-zh-TW": "Reflexive.",
-        "explanation-en-US": "Reflexive.",
-        "explanation-zh-CN": "Reflexive."
-    },
-    {
-        "id": "auto_pronouns_43",
-        "title": "Subject 43",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_44",
-        "title": "Possessive Adj 44",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_45",
-        "title": "Possessive Pronoun 45",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_46",
-        "title": "Possessive Pronoun 46",
-        "content": "This book is [mine|my].",
-        "explanation-zh-TW": "Possessive Pronoun (no noun).",
-        "explanation-en-US": "Possessive Pronoun (no noun).",
-        "explanation-zh-CN": "Possessive Pronoun (no noun)."
-    },
-    {
-        "id": "auto_pronouns_47",
-        "title": "Possessive Adj 47",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_48",
-        "title": "Subject 48",
-        "content": "[She|Her] is my friend.",
-        "explanation-zh-TW": "Subject pronoun.",
-        "explanation-en-US": "Subject pronoun.",
-        "explanation-zh-CN": "Subject pronoun."
-    },
-    {
-        "id": "auto_pronouns_49",
-        "title": "Possessive Adj 49",
-        "content": "This is [my|mine] book.",
-        "explanation-zh-TW": "Possessive Adjective + Noun.",
-        "explanation-en-US": "Possessive Adjective + Noun.",
-        "explanation-zh-CN": "Possessive Adjective + Noun."
-    },
-    {
-        "id": "auto_pronouns_50",
-        "title": "Object 50",
-        "content": "I saw [him|he].",
-        "explanation-zh-TW": "Object pronoun.",
-        "explanation-en-US": "Object pronoun.",
-        "explanation-zh-CN": "Object pronoun."
-    }
+  {
+    "title": "Note",
+    "id": "family",
+    "content": "This is my mother. [She|He|It] is very kind. [She|He|It] likes to cook. \n\nThat man over there is my father. [He|She|It] is a teacher. [He|She|It] teaches math. \n\nWe have a pet dog. [It|He|She] is very playful. [It|He|She] likes to run in the park. (Note: We often use 'It' for animals when distinct gender isn't emphasized, though pet owners might use He/She).",
+    "explanation-zh-TW": "# 👨‍👩‍👧‍👦 家人稱謂 (He vs She vs It)\n\n這是中文母語者最容易混淆的地方！因為口語都是 'tā'。\n\n1. **Mother (媽媽)**: 女性，必須用 **She**。\n2. **Father (爸爸)**: 男性，必須用 **He**。\n3. **Dog (狗)**: 動物，通常用 **It** (除非是你自己的寵物，有時候會擬人化用 He/She，但考試或通用語境 It 最安全)。\n\n**記住**：看到女生想 She，看到男生想 He，看到非人類想 It。",
+    "explanation-en-US": "# 👨‍👩‍👧‍👦 He vs She vs It\n\n1. **Mother**: Female -> **She**.\n2. **Father**: Male -> **He**.\n3. **Dog**: Animal -> **It** (generally).",
+    "explanation-zh-CN": "# 👨‍👩‍👧‍👦 家人称谓 (He vs She vs It)\n\n这是中文母语者最容易混淆的地方！因为口语都是 'tā'。\n\n1. **Mother (妈妈)**: 女性，必须用 **She**。\n2. **Father (爸爸)**: 男性，必须用 **He**。\n3. **Dog (狗)**: 动物，通常用 **It** (除非是你自己的宠物，有时候会拟人化用 He/She，但考试或通用语境 It 最安全)。\n\n**记住**：看到女生想 She，看到男生想 He，看到非人类想 It。"
+  },
+  {
+    "title": "Assuming",
+    "id": "jobs",
+    "content": "Look at the doctor. [He|She|It] is wearing a white coat. (Assuming the picture shows a man). The nurse is helping the patient. [She|He|It] is very gentle. (Assuming the picture shows a woman). \n\nThe hospital is new. [It|He|She] is very big. My car is parked outside. [It|He|She] is red.",
+    "explanation-zh-TW": "# 🏥 職業與物品\n\n1. **Doctor (男醫生)**: **He**。\n2. **Nurse (女護士)**: **She**。\n3. **Hospital (醫院)**: 建築物 (非人) -> **It**。\n4. **Car (車子)**: 物品 -> **It**。",
+    "explanation-en-US": "# 🏥 Jobs and Objects\n\n1. **Male Doctor**: **He**.\n2. **Female Nurse**: **She**.\n3. **Hospital**: Building/Object -> **It**.\n4. **Car**: Object -> **It**.",
+    "explanation-zh-CN": "# 🏥 職業与物品\n\n1. **Doctor (男醫生)**: **He**。\n2. **Nurse (女護士)**: **She**。\n3. **Hospital (醫院)**: 建築物 (非人) -> **It**。\n4. **Car (车子)**: 物品 -> **It**。"
+  },
+  {
+    "title": "Mary",
+    "id": "friend",
+    "content": "My best friend is Mary. [She|He|It] is a student. [She|He|It] studies hard every day. \n\nI also have a friend named John. [He|She|It] plays basketball. [He|She|It] is very tall. \n\nI have a new phone. [It|He|She] takes great photos. I love [it|he|she] very much.",
+    "explanation-zh-TW": "# 👫 朋友與物品\n\n1. **Mary (瑪麗)**: 女生名字 -> **She**。\n2. **John (約翰)**: 男生名字 -> **He**。\n3. **Phone (手機)**: 物品 -> **It**。\n\n練習時請專注於區分性別，這是建立英語大腦反射的重要一步！",
+    "explanation-en-US": "# 👫 Friends and Objects\n\n1. **Mary**: Female -> **She**.\n2. **John**: Male -> **He**.\n3. **Phone**: Object -> **It**.",
+    "explanation-zh-CN": "# 👫 朋友与物品\n\n1. **Mary (瑪麗)**: 女生名字 -> **She**。\n2. **John (約翰)**: 男生名字 -> **He**。\n3. **Phone (手机)**: 物品 -> **It**。\n\n練习时请专注於区分性別，这是建立英语大腦反射的重要一步！"
+  },
+  {
+    "title": "Cruise",
+    "id": "actors",
+    "content": "Tom Cruise is an actor. [He|She|It] is very famous. Brad Pitt is also an actor. [He|She|It] has blonde hair. \n\nAngelina Jolie is an actress. [She|He|It] is beautiful. Meryl Streep is a legend. [She|He|It] acts very well. \n\nThe movie is exciting. [It|He|She] is two hours long.",
+    "explanation-zh-TW": "男星用 He，女星用 She，電影用 It。",
+    "explanation-en-US": "Male -> He, Female -> She, Movie -> It.",
+    "explanation-zh-CN": "男星用 He，女星用 She，電影用 It。"
+  },
+  {
+    "title": "Mike",
+    "id": "siblings",
+    "content": "I have a brother named Mike. [He|She|It] is older than me. I have a sister named Lisa. [She|He|It] is younger. \n\nWe share a room. [It|He|She] is quite big. My brother has a bike. [It|He|She] is blue.",
+    "explanation-zh-TW": "Brother -> He, Sister -> She, Room/Bike -> It.",
+    "explanation-en-US": "Brother -> He, Sister -> She, Room/Bike -> It.",
+    "explanation-zh-CN": "Brother -> He, Sister -> She, Room/Bike -> It."
+  },
+  {
+    "title": "Smith",
+    "id": "office_workers",
+    "content": "Mr. Smith is my boss. [He|She|It] is strict. Ms. Jones is the secretary. [She|He|It] is helpful. \n\nThe computer is broken. [It|He|She] needs fixing. The printer is new. [It|He|She] is fast.",
+    "explanation-zh-TW": "Mr. -> He, Ms. -> She, Computer/Printer -> It.",
+    "explanation-en-US": "Mr. -> He, Ms. -> She, Objects -> It.",
+    "explanation-zh-CN": "Mr. -> He, Ms. -> She, Computer/Printer -> It."
+  },
+  {
+    "title": "Animals",
+    "id": "animals",
+    "content": "The cow is eating grass. [It|He|She] looks happy. (Animals generally It). The farmer is busy. [He|She|It] is working hard. (Assuming farmer is male).\n\nThe tractor is old. [It|He|She] is rusty. The barn is red. [It|He|She] is full of hay.",
+    "explanation-zh-TW": "Cow -> It, Farmer (Male) -> He, Tractor/Barn -> It.",
+    "explanation-en-US": "Cow -> It, Farmer (Male) -> He, Objects -> It.",
+    "explanation-zh-CN": "Cow -> It, Farmer (Male) -> He, Tractor/Barn -> It."
+  },
+  {
+    "title": "Mom",
+    "id": "kitchen_items",
+    "content": "Where is the knife? [It|He|She] is on the table. Where is Mom? [She|He|It] is cooking. Where is Dad? [He|She|It] is washing dishes.\n\nThe soup fits well. [It|He|She] tastes good.",
+    "explanation-zh-TW": "Knife/Soup -> It, Mom -> She, Dad -> He.",
+    "explanation-en-US": "Objects -> It, Mom -> She, Dad -> He.",
+    "explanation-zh-CN": "Knife/Soup -> It, Mom -> She, Dad -> He."
+  },
+  {
+    "title": "Boy",
+    "id": "park_life",
+    "content": "Look at that boy running. [He|She|It] is fast. Look at that girl swinging. [She|He|It] is happy. \n\nThe slide is high. [It|He|She] looks fun. The tree is tall. [It|He|She] is old.",
+    "explanation-zh-TW": "Boy -> He, Girl -> She, Slide/Tree -> It.",
+    "explanation-en-US": "Boy -> He, Girl -> She, Objects -> It.",
+    "explanation-zh-CN": "Boy -> He, Girl -> She, Slide/Tree -> It."
+  },
+  {
+    "title": "Lee",
+    "id": "classroom_obj",
+    "content": "I have a pen. [It|He|She] is blue. The teacher is Mr. Lee. [He|She|It] is writing. The student is Sarah. [She|He|It] is reading.\n\nThe book is heavy. [It|He|She] has many pages.",
+    "explanation-zh-TW": "Pen/Book -> It, Mr. Lee -> He, Sarah -> She.",
+    "explanation-en-US": "Objects -> It, Male -> He, Female -> She.",
+    "explanation-zh-CN": "Pen/Book -> It, Mr. Lee -> He, Sarah -> She."
+  },
+  {
+    "title": "King",
+    "id": "royals",
+    "content": "The King wears a crown. [He|She|It] is powerful. The Queen sits next to him. [She|He|It] is elegant.\n\nThe castle is huge. [It|He|She] is made of stone. The crown is gold. [It|He|She] is shiny.",
+    "explanation-zh-TW": "King -> He, Queen -> She, Castle/Crown -> It.",
+    "explanation-en-US": "King -> He, Queen -> She, Objects -> It.",
+    "explanation-zh-CN": "King -> He, Queen -> She, Castle/Crown -> It."
+  },
+  {
+    "title": "Sun",
+    "id": "weather_pn",
+    "content": "The sun is hot. [It|He|She] is shining. Mr. Sun is a character. [He|She|It] smiles. (Personified).\n\nThe rain is falling. [It|He|She] is wet. The wind is blowing. [It|He|She] is cold.",
+    "explanation-zh-TW": "Sun/Rain/Wind -> It. Mr. Sun (擬人) -> He.",
+    "explanation-en-US": "Nature -> It. Personified -> He/She.",
+    "explanation-zh-CN": "Sun/Rain/Wind -> It. Mr. Sun (拟人) -> He."
+  },
+  {
+    "title": "Dress",
+    "id": "clothing",
+    "content": "This dress is pretty. [It|He|She] is pink. That boy likes the shirt. [He|She|It] wants to buy it.\n\nThe saleswoman is helpful. [She|He|It] smiles. The hat fits well. [It|He|She] is stylish.",
+    "explanation-zh-TW": "Dress/Hat -> It, Boy -> He, Saleswoman -> She.",
+    "explanation-en-US": "Objects -> It, Boy -> He, Saleswoman -> She.",
+    "explanation-zh-CN": "Dress/Hat -> It, Boy -> He, Saleswoman -> She."
+  },
+  {
+    "title": "Chen",
+    "id": "body",
+    "content": "My head hurts. [It|He|She] aches. My doctor is Dr. Chen (female). [She|He|It] helps me.\n\nMy leg is broken. [It|He|She] is in a cast. My brother is sad. [He|She|It] cries.",
+    "explanation-zh-TW": "Head/Leg -> It, Dr. Chen (女) -> She, Brother -> He.",
+    "explanation-en-US": "Body parts -> It, Female Dr -> She, Male -> He.",
+    "explanation-zh-CN": "Head/Leg -> It, Dr. Chen (女) -> She, Brother -> He."
+  },
+  {
+    "title": "Bed",
+    "id": "bedroom_pn",
+    "content": "My bed is soft. [It|He|She] is comfortable. My sister sleeps here. [She|He|It] is tired.\n\nThe lamp is bright. [It|He|She] is on. My dad reads here too. [He|She|It] likes this room.",
+    "explanation-zh-TW": "Bed/Lamp -> It, Sister -> She, Dad -> He.",
+    "explanation-en-US": "Objects -> It, Sister -> She, Dad -> He.",
+    "explanation-zh-CN": "Bed/Lamp -> It, Sister -> She, Dad -> He."
+  },
+  {
+    "id": "auto_pronouns_16",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_17",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_18",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_19",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_20",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_21",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_22",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_23",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_24",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_25",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_26",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_27",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_28",
+    "title": "Himself",
+    "content": "He hurt [himself|him].",
+    "explanation-zh-TW": "Reflexive.",
+    "explanation-en-US": "Reflexive.",
+    "explanation-zh-CN": "Reflexive."
+  },
+  {
+    "id": "auto_pronouns_29",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_30",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_31",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_32",
+    "title": "Himself",
+    "content": "He hurt [himself|him].",
+    "explanation-zh-TW": "Reflexive.",
+    "explanation-en-US": "Reflexive.",
+    "explanation-zh-CN": "Reflexive."
+  },
+  {
+    "id": "auto_pronouns_33",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_34",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_35",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_36",
+    "title": "Himself",
+    "content": "He hurt [himself|him].",
+    "explanation-zh-TW": "Reflexive.",
+    "explanation-en-US": "Reflexive.",
+    "explanation-zh-CN": "Reflexive."
+  },
+  {
+    "id": "auto_pronouns_37",
+    "title": "Himself",
+    "content": "He hurt [himself|him].",
+    "explanation-zh-TW": "Reflexive.",
+    "explanation-en-US": "Reflexive.",
+    "explanation-zh-CN": "Reflexive."
+  },
+  {
+    "id": "auto_pronouns_38",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  },
+  {
+    "id": "auto_pronouns_39",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_40",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_41",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_42",
+    "title": "Himself",
+    "content": "He hurt [himself|him].",
+    "explanation-zh-TW": "Reflexive.",
+    "explanation-en-US": "Reflexive.",
+    "explanation-zh-CN": "Reflexive."
+  },
+  {
+    "id": "auto_pronouns_43",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_44",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_45",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_46",
+    "title": "Mine",
+    "content": "This book is [mine|my].",
+    "explanation-zh-TW": "Possessive Pronoun (no noun).",
+    "explanation-en-US": "Possessive Pronoun (no noun).",
+    "explanation-zh-CN": "Possessive Pronoun (no noun)."
+  },
+  {
+    "id": "auto_pronouns_47",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_48",
+    "title": "Friend",
+    "content": "[She|Her] is my friend.",
+    "explanation-zh-TW": "Subject pronoun.",
+    "explanation-en-US": "Subject pronoun.",
+    "explanation-zh-CN": "Subject pronoun."
+  },
+  {
+    "id": "auto_pronouns_49",
+    "title": "Book",
+    "content": "This is [my|mine] book.",
+    "explanation-zh-TW": "Possessive Adjective + Noun.",
+    "explanation-en-US": "Possessive Adjective + Noun.",
+    "explanation-zh-CN": "Possessive Adjective + Noun."
+  },
+  {
+    "id": "auto_pronouns_50",
+    "title": "Saw",
+    "content": "I saw [him|he].",
+    "explanation-zh-TW": "Object pronoun.",
+    "explanation-en-US": "Object pronoun.",
+    "explanation-zh-CN": "Object pronoun."
+  }
 ]

@@ -1,402 +1,402 @@
 [
-    {
-        "title": "The Commute",
-        "id": "commute",
-        "content": "Every morning, I get [on|in|at] the bus to go to work. It is much bigger than a car. If I take a taxi, I sit [in|on|at] the back seat. But [on|in|at] the bus, I can stand or sit. Sometimes I meet my friend [at|on|in] the bus stop. We wait for the bus together. When we arrive, we get off the bus and walk. We leave our bags [in|on|at] the office. I am happy to be [at|on|in] work safely.",
-        "explanation-zh-TW": "# 🚌 公車與車子 (On vs In)\n\n這是一個常見的混淆點！\n\n1. **[on] the bus**：大眾運輸工具 (Bus, Train, Plane) 只要**能站立行走**，通常用 **on**。\n2. **[in] the car/taxi**：小車子，人要彎腰進去坐著，用 **in**。\n3. **[at] the bus stop**：地點點位，在某個特定地點用 **at**。\n4. **[in] the office**：在辦公室裡面 (空間) 用 **in**，如果只是指「在上班」這個狀態可以用 at work。",
-        "explanation-en-US": "# 🚌 On vs In (Transport)\n\n1. **[on] the bus**: For public transport where you can **stand/walk** (bus, train, plane), we use **on**.\n2. **[in] the car**: For small vehicles where you must sit, we use **in**.\n3. **[at] the bus stop**: Specific location point -> **at**.\n4. **[in] the office**: Inside the room/space -> **in**.",
-        "explanation-zh-CN": "# 🚌 公交车与车子 (On vs In)\n\n这是一个常见的混淆点！\n\n1. **[on] the bus**：大众运输工具 (Bus, Train, Plane) 只要**能站立行走**，通常用 **on**。\n2. **[in] the car/taxi**：小车子，人要弯腰进去坐著，用 **in**。\n3. **[at] the bus stop**：地点点位，在某个特定地点用 **at**。\n4. **[in] the office**：在办公室裡面 (空间) 用 **in**，如果只是指「在上班」这个状态可以用 at work。"
-    },
-    {
-        "title": "Meeting Time",
-        "id": "time",
-        "content": "We have a meeting [at|in|on] 9:00 AM. The meeting is [on|in|at] Monday. It is [in|on|at] January, the coldest month. My birthday is also [in|on|at] January. It is [on|in|at] January 15th. We usually have a party [at|on|in] night. Last year, we met [in|on|at] the morning. I was born [in|on|at] 1995. Time flies so fast!",
-        "explanation-zh-TW": "# ⏰ 時間介系詞 (At / On / In)\n\n金字塔概念：時間越短越精確用 At，越長用 In。\n\n1. **[at] 9:00 AM**：具體時刻 (Clock time) 用 **at**。\n2. **[on] Monday**：特定的日子 (Days) 用 **on**。\n3. **[in] January**：月份 (Months) 用 **in**。\n4. **[in] January**：月份用 **in**。\n5. **[on] January 15th**：具體日期 (Dates) 視為一天，用 **on**。\n6. **[at] night**：固定用法 **at night**。\n7. **[in] the morning**：固定用法 **in the morning/afternoon/evening**。\n8. **[in] 1995**：年份 (Years) 很長，用 **in**。",
-        "explanation-en-US": "# ⏰ Prepositions of Time (At / On / In)\n\n1. **[at] 9:00**: Specific clock time -> **at**.\n2. **[on] Monday**: Days of the week -> **on**.\n3. **[in] January**: Months -> **in**.\n4. **[on] January 15th**: Specific dates -> **on**.\n5. **[at] night**: Exception standard expression.\n6. **[in] the morning**: Part of day -> **in**.\n7. **[in] 1995**: Years -> **in**.",
-        "explanation-zh-CN": "# ⏰ 时间介系词 (At / On / In)\n\n金字塔概念：时间越短越精确用 At，越长用 In。\n\n1. **[at] 9:00 AM**：具体时刻 (Clock time) 用 **at**。\n2. **[on] Monday**：特定的日子 (Days) 用 **on**。\n3. **[in] January**：月份 (Months) 用 **in**。\n4. **[in] January**：月份用 **in**。\n5. **[on] January 15th**：具体日期 (Dates) 視為一天，用 **on**。\n6. **[at] night**：固定用法 **at night**。\n7. **[in] the morning**：固定用法 **in the morning/afternoon/evening**。\n8. **[in] 1995**：年份 (Years) 很长，用 **in**。"
-    },
-    {
-        "title": "Where is the Cat?",
-        "id": "place",
-        "content": "My cat is hiding [in|on|at] the box. It likes to sleep [on|in|at] the sofa. Sometimes it sits [at|in|on] the door, waiting for me. I put its food [in|on|at] the bowl. The bowl is [on|in|at] the floor. My cat never sleeps [at|in|on] night. It likes to jump [on|in|at] the table. Look! It is [under|in|on] the chair now (oh wait, that's not In/On/At, let's stick to the game). It is playing [in|on|at] the garden.",
-        "explanation-zh-TW": "# 📍 地點介系詞 (Place)\n\n1. **[in] the box**：在...裡面 (容器/空間) 用 **in**。\n2. **[on] the sofa**：在...表面上 用 **on**。\n3. **[at] the door**：在...旁邊/地點 (點) 用 **at**。\n4. **[in] the bowl**：在碗裡面。\n5. **[on] the floor**：在地板表面。\n6. **[at] night**：時間慣用语。\n7. **[on] the table**：在桌面上。\n8. **[in] the garden**：在花園空間裡。",
-        "explanation-en-US": "# 📍 Prepositions of Place\n\n1. **[in] the box**: Inside a container/space -> **in**.\n2. **[on] the sofa**: On a surface -> **on**.\n3. **[at] the door**: At a specific point/location -> **at**.\n4. **[in] the bowl**: Inside.\n5. **[on] the floor**: On the surface.\n6. **[in] the garden**: Inside an area.",
-        "explanation-zh-CN": "# 📍 地点介系词 (Place)\n\n1. **[in] the box**：在...裡面 (容器/空间) 用 **in**。\n2. **[on] the sofa**：在...表面上 用 **on**。\n3. **[at] the door**：在...旁邊/地点 (点) 用 **at**。\n4. **[in] the bowl**：在碗裡面。\n5. **[on] the floor**：在地板表面。\n6. **[at] night**：时间惯用语。\n7. **[on] the table**：在桌面上。\n8. **[in] the garden**：在花園空间裡。"
-    },
-    {
-        "title": "Vacation Details",
-        "id": "vacation_prep",
-        "content": "We arrived [in|at|on] Paris last week. We stayed [at|in|on] a nice hotel. The hotel is [on|in|at] Main Street. Our room was [on|in|at] the second floor. We had dinner [at|in|on] a famous restaurant. The restaurant is [in|on|at] the city center. We walked [in|on|at] the park. There were boats [on|in|at] the river. We met some friends [at|in|on] the party. It was the best trip [in|on|at] the world.",
-        "explanation-zh-TW": "# 🇫🇷 旅遊細節 (大地方與小地方)\n\n1. **[in] Paris**：城市/國家 (大範圍) 用 **in**。\n2. **[at] a hotel**：某個地點機構 (點) 用 **at** (強調地點功能) 或 **in** (強調建築物裡面)。這裡常用 at。\n3. **[on] Main Street**：街道名 用 **on** (美式) 或 in (英式)。\n4. **[on] big floor**：樓層 用 **on**。\n5. **[at] a restaurant**：地點。\n6. **[in] the city center**：區域。\n7. **[in] the park**：區域。\n8. **[on] the river**：在河面 (表面)。\n9. **[at] the party**：活動场合 用 **at**。\n10. **[in] the world**：在世界上 (範圍)。",
-        "explanation-en-US": "# 🇫🇷 Vacation Details (Big vs Small Places)\n\n1. **[in] Paris**: Cities/Countries -> **in**.\n2. **[at] a hotel**: Public places/Points -> **at**.\n3. **[on] Main Street**: Streets -> **on**.\n4. **[on] the second floor**: Floors -> **on**.\n5. **[at] a restaurant**: Specific place.\n6. **[in] the city center**: Area.\n7. **[on] the river**: Surface.\n8. **[at] the party**: Events -> **at**.\n9. **[in] the world**: Area.",
-        "explanation-zh-CN": "# 🇫🇷 旅遊细节 (大地方与小地方)\n\n1. **[in] Paris**：城市/国家 (大范围) 用 **in**。\n2. **[at] a hotel**：某个地点机构 (点) 用 **at** (强調地点功能) 或 **in** (强調建築物裡面)。这裡常用 at。\n3. **[on] Main Street**：街道名 用 **on** (美式) 或 in (英式)。\n4. **[on] big floor**：楼层 用 **on**。\n5. **[at] a restaurant**：地点。\n6. **[in] the city center**：区域。\n7. **[in] the park**：区域。\n8. **[on] the river**：在河面 (表面)。\n9. **[at] the party**：活动场合 用 **at**。\n10. **[in] the world**：在世界上 (范围)。"
-    },
-    {
-        "title": "The Calendar",
-        "id": "calendar",
-        "content": "My birthday is [in|on|at] May. It is [on|in|at] May 5th. The party is [at|on|in] 5:00 PM. We celebrate [in|on|at] spring. New Year is [in|on|at] January.",
-        "explanation-zh-TW": "Months/Seasons -> in, Date -> on, Time -> at.",
-        "explanation-en-US": "Months -> in, Specific Date -> on, Clock Time -> at.",
-        "explanation-zh-CN": "Months/Seasons -> in, Date -> on, Time -> at."
-    },
-    {
-        "title": "Meeting Point",
-        "id": "meeting",
-        "content": "Let's meet [at|in|on] the coffee shop. I am sitting [in|on|at] a chair. The cup is [on|in|at] the table. The shop is [on|in|at] Main Street. We are [in|on|at] the city.",
-        "explanation-zh-TW": "Specific Place -> at, Chair/City -> in, Table/Street -> on.",
-        "explanation-en-US": "Point -> at, Enclosed/City -> in, Surface/Street -> on.",
-        "explanation-zh-CN": "Specific Place -> at, Chair/City -> in, Table/Street -> on."
-    },
-    {
-        "title": "My Desk",
-        "id": "desk",
-        "content": "My computer is [on|in|at] the desk. The pens are [in|on|at] the drawer. I sit [at|in|on] the desk to work. The lamp is [on|in|at] the corner. The rug is [on|in|at] the floor.",
-        "explanation-zh-TW": "Surface -> on, Container -> in, Point/Target -> at.",
-        "explanation-en-US": "Surface -> on, Container -> in, Point -> at.",
-        "explanation-zh-CN": "Surface -> on, Container -> in, Point/Target -> at."
-    },
-    {
-        "title": "Living Room",
-        "id": "livingroom",
-        "content": "The TV is [on|in|at] the wall. We sit [on|in|at] the sofa. The picture is [in|on|at] a frame. The cat is [under|on|in] the table (Wait, sticking to In/On/At). The cat is [on|in|at] the rug. We are [in|on|at] the living room.",
-        "explanation-zh-TW": "Wall/Sofa/Rug -> on, Frame/Room -> in.",
-        "explanation-en-US": "Surface -> on, Inside -> in.",
-        "explanation-zh-CN": "Wall/Sofa/Rug -> on, Frame/Room -> in."
-    },
-    {
-        "title": "Travel Plans",
-        "id": "travel",
-        "content": "We travel [in|on|at] summer. We arrive [at|in|on] the airport. We get [on|in|at] the plane. Our seats are [in|on|at] row 10. We land [in|at|on] Tokyo.",
-        "explanation-zh-TW": "Season -> in, Point (Airport) -> at, Large Vehicle (Plane) -> on, Row -> in, City -> in.",
-        "explanation-en-US": "Season -> in, Point -> at, Public Transport -> on, Row -> in, City -> in.",
-        "explanation-zh-CN": "Season -> in, Point (Airport) -> at, Large Vehicle (Plane) -> on, Row -> in, City -> in."
-    },
-    {
-        "title": "Christmas",
-        "id": "xmas",
-        "content": "Christmas is [in|on|at] December. It is [on|in|at] December 25th. We open gifts [in|on|at] the morning. Santa comes [at|in|on] night. Snow is [on|in|at] the ground.",
-        "explanation-zh-TW": "Month -> in, Date -> on, Part of day -> in, Night -> at, Surface -> on.",
-        "explanation-en-US": "Month -> in, Date -> on, Morning -> in, Night -> at, Surface -> on.",
-        "explanation-zh-CN": "Month -> in, Date -> on, Part of day -> in, Night -> at, Surface -> on."
-    },
-    {
-        "title": "School Schedule",
-        "id": "school",
-        "content": "School starts [at|in|on] 8:00 AM. Lunch is [at|in|on] noon. We have recess [in|on|at] the afternoon. The test is [on|in|at] Friday. We have a break [in|on|at] winter.",
-        "explanation-zh-TW": "Time -> at, Noon -> at, Part of day -> in, Day -> on, Season -> in.",
-        "explanation-en-US": "Time -> at, Noon -> at, Afternoon -> in, Day -> on, Season -> in.",
-        "explanation-zh-CN": "Time -> at, Noon -> at, Part of day -> in, Day -> on, Season -> in."
-    },
-    {
-        "title": "Directions",
-        "id": "directions",
-        "content": "The bank is [on|in|at] the corner. The shop is [on|in|at] First Avenue. I live [at|in|on] 123 Main Street (Full address uses At). I live [on|at|in] Main Street. I live [in|on|at] New York.",
-        "explanation-zh-TW": "Corner/Street -> on, Address -> at, City -> in.",
-        "explanation-en-US": "Street -> on, Full Address -> at, City -> in.",
-        "explanation-zh-CN": "Corner/Street -> on, Address -> at, City -> in."
-    },
-    {
-        "title": "Commute",
-        "id": "commute2",
-        "content": "I am [on|in|at] the bus. She is [in|on|at] the car. We wait [at|in|on] the station. The train arrives [at|in|on] 5 PM. We get off [at|in|on] the stop.",
-        "explanation-zh-TW": "Bus -> on, Car -> in, Station/Stop/Time -> at.",
-        "explanation-en-US": "Public Transport -> on, Car -> in, Point/Time -> at.",
-        "explanation-zh-CN": "Bus -> on, Car -> in, Station/Stop/Time -> at."
-    },
-    {
-        "title": "Seasons and Years",
-        "id": "years",
-        "content": "I was born [in|on|at] 1990. My brother was born [in|on|at] 1995. We go skiing [in|on|at] winter. Flowers bloom [in|on|at] spring. It is hot [in|on|at] summer.",
-        "explanation-zh-TW": "Year/Season -> in.",
-        "explanation-en-US": "Year/Season -> in.",
-        "explanation-zh-CN": "Year/Season -> in."
-    },
-    {
-        "title": "Daily Life",
-        "id": "daily",
-        "content": "I sleep [at|in|on] night. I work [in|on|at] the day. Lunch is [at|in|on] 12:00. Dinner is [in|at|on] the evening. I relax [on|in|at] weekends.",
-        "explanation-zh-TW": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on.",
-        "explanation-en-US": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on.",
-        "explanation-zh-CN": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on."
-    },
-    {
-        "id": "prep_gen_1",
-        "title": "In the Box",
-        "content": "The cat is [in|on|at] the box. The keys are [in|on|at] my pocket. He is [in|on|at] the car. Fish live [in|on|at] water.",
-        "explanation-zh-TW": "In 表示在...裡面 (空間、容器)。",
-        "explanation-en-US": "In suggests being inside a space or container.",
-        "explanation-zh-CN": "In 表示在...里面 (空间、容器)。"
-    },
-    {
-        "id": "prep_gen_2",
-        "title": "On the Table",
-        "content": "The book is [on|in|at] the table. The picture is [on|in|at] the wall. Don't sit [on|in|at] the floor. My hat is [on|in|at] my head.",
-        "explanation-zh-TW": "On 表示在...上面 (表面)。",
-        "explanation-en-US": "On suggests being on a surface.",
-        "explanation-zh-CN": "On 表示在...上面 (表面)。"
-    },
-    {
-        "id": "prep_gen_3",
-        "title": "At the Door",
-        "content": "Someone is [at|in|on] the door. Meet me [at|in|on] the station. She is [at|in|on] school. He is [at|in|on] work.",
-        "explanation-zh-TW": "At 表示在某一點或特定地點。",
-        "explanation-en-US": "At suggests a specific point or location.",
-        "explanation-zh-CN": "At 表示在某一点或特定地点。"
-    },
-    {
-        "id": "prep_gen_4",
-        "title": "Days of the Week",
-        "content": "See you [on|in|at] Monday. The party is [on|in|at] Friday. We rest [on|in|at] Sunday. My birthday is [on|in|at] Tuesday.",
-        "explanation-zh-TW": "星期幾搭配 On。",
-        "explanation-en-US": "Use On for days of the week.",
-        "explanation-zh-CN": "星期几搭配 On。"
-    },
-    {
-        "id": "prep_gen_5",
-        "title": "Months and Years",
-        "content": "My birthday is [in|on|at] May. Examples: Born [in|on|at] 1990. Flowers bloom [in|on|at] spring. It is cold [in|on|at] winter.",
-        "explanation-zh-TW": "月份、年份、季節搭配 In (長時間)。",
-        "explanation-en-US": "Use In for months, years, and seasons (long periods).",
-        "explanation-zh-CN": "月份、年份、季节搭配 In (长时间)。"
-    },
-    {
-        "id": "prep_gen_6",
-        "title": "Specific Time",
-        "content": "Meet me [at|in|on] 5:00. The show starts [at|in|on] 8 PM. Lunch is [at|in|on] noon. We sleep [at|in|on] night.",
-        "explanation-zh-TW": "幾點鐘或 Noon/Night 搭配 At。",
-        "explanation-en-US": "Use At for specific clock times, noon, and night.",
-        "explanation-zh-CN": "几点钟或 Noon/Night 搭配 At。"
-    },
-    {
-        "id": "prep_gen_7",
-        "title": "Transportation (Large)",
-        "content": "I am [on|in|at] the bus. We are [on|in|at] the train. He is [on|in|at] the plane. Are you [on|in|at] the ship?",
-        "explanation-zh-TW": "大型公共交通工具 (公車、火車、飛機) 習慣用 On (可以在上面走動)。",
-        "explanation-en-US": "Use On for large public transport where you can walk.",
-        "explanation-zh-CN": "大型公共交通工具 (公交车、火车、飞机) 习惯用 On (可以在上面走动)。"
-    },
-    {
-        "id": "prep_gen_8",
-        "title": "Transportation (Small)",
-        "content": "Get [in|on|at] the car. She is [in|on|at] a taxi. He sat [in|on|at] the truck. I am [in|on|at] the van.",
-        "explanation-zh-TW": "小型私人交通工具 (汽車、計程車) 習慣用 In (要彎腰進去)。",
-        "explanation-en-US": "Use In for small vehicles like cars/taxis.",
-        "explanation-zh-CN": "小型私人交通工具 (汽车、出租车) 习惯用 In (要弯腰进去)。"
-    },
-    {
-        "id": "prep_gen_9",
-        "title": "Dates",
-        "content": "Christmas is [on|in|at] December 25th. Born [on|in|at] May 1st. The meeting is [on|in|at] the 3rd of June.",
-        "explanation-zh-TW": "具體日期搭配 On。",
-        "explanation-en-US": "Use On for specific dates.",
-        "explanation-zh-CN": "具体日期搭配 On。"
-    },
-    {
-        "id": "prep_gen_10",
-        "title": "Parts of the Day",
-        "content": "I run [in|on|at] the morning. We meet [in|on|at] the afternoon. Relax [in|on|at] the evening. BUT: sleep [at|in|on] night.",
-        "explanation-zh-TW": "Morning/Afternoon/Evening 搭配 In；但 Night 搭配 At。",
-        "explanation-en-US": "Use In for morning/afternoon/evening; At for night.",
-        "explanation-zh-CN": "Morning/Afternoon/Evening 搭配 In；但 Night 搭配 At。"
-    },
-    {
-        "id": "prep_gen_11",
-        "title": "Surfaces",
-        "content": "The food is [on|in|at] the plate. Write [on|in|at] the paper. Sleep [on|in|at] the bed. Coffee is [on|in|at] the desk.",
-        "explanation-zh-TW": "接觸表面用 On。",
-        "explanation-en-US": "Use On for contact with a surface.",
-        "explanation-zh-CN": "接触表面用 On。"
-    },
-    {
-        "id": "prep_gen_12",
-        "title": "Containers and Spaces",
-        "content": "Money is [in|on|at] the wallet. Milk is [in|on|at] the fridge. clothes are [in|on|at] the closet. Birds are [in|on|at] the sky.",
-        "explanation-zh-TW": "錢包、冰箱、衣櫥、天空視為空間，用 In。",
-        "explanation-en-US": "Use In for enclosed spaces or containers/areas.",
-        "explanation-zh-CN": "钱包、冰箱、衣橱、天空视为空间，用 In。"
-    },
-    {
-        "id": "prep_gen_13",
-        "title": "Events",
-        "content": "See you [at|in|on] the party. He is [at|in|on] the concert. We met [at|in|on] a wedding. She is [at|in|on] the meeting.",
-        "explanation-zh-TW": "活動場合通常用 At。",
-        "explanation-en-US": "Use At for events or social gatherings.",
-        "explanation-zh-CN": "活动场合通常用 At。"
-    },
-    {
-        "id": "prep_gen_14",
-        "title": "Addresses",
-        "content": "He lives [at|in|on] 123 Main Street. BUT: He lives [on|in|at] Main Street. She lives [in|on|at] New York.",
-        "explanation-zh-TW": "完整地址用 At；街道用 On；城市/國家用 In。",
-        "explanation-en-US": "Address: At; Street: On; City/Country: In.",
-        "explanation-zh-CN": "完整地址用 At；街道用 On；城市/国家用 In。"
-    },
-    {
-        "id": "prep_gen_15",
-        "title": "Holidays",
-        "content": "We meet [at|in|on] Christmas (the period). BUT: [On|In|At] Christmas Day. [At|In|On] Easter. [At|In|On] New Year.",
-        "explanation-zh-TW": "節日期間用 At (British English/General)；特定那一天用 On。",
-        "explanation-en-US": "At for the holiday period; On for the specific day.",
-        "explanation-zh-CN": "节日期间用 At (British English/General)；特定那一天用 On。"
-    },
-    {
-        "id": "prep_gen_16",
-        "title": "Floors of a Building",
-        "content": "He lives [on|in|at] the first floor. The office is [on|in|at] the second floor. Go to the shop [on|in|at] the top floor.",
-        "explanation-zh-TW": "樓層屬於平面，用 On。",
-        "explanation-en-US": "Use On for floors of a building.",
-        "explanation-zh-CN": "楼层属于平面，用 On。"
-    },
-    {
-        "id": "prep_gen_17",
-        "title": "Media/Communications",
-        "content": "I saw it [on|in|at] TV. I heard it [on|in|at] the radio. Read it [on|in|at] the internet. Talk [on|in|at] the phone.",
-        "explanation-zh-TW": "電子媒體/通訊設備用 On。",
-        "explanation-en-US": "Use On for electronic media and devices.",
-        "explanation-zh-CN": "电子媒体/通讯设备用 On。"
-    },
-    {
-        "id": "prep_gen_18",
-        "title": "Printed Media",
-        "content": "I read it [in|on|at] the newspaper. Find it [in|on|at] the book. It's [in|on|at] the magazine. The story is [in|on|at] the email.",
-        "explanation-zh-TW": "書刊、報紙、信件內容視為在裡面，用 In。",
-        "explanation-en-US": "Use In for printed content/text.",
-        "explanation-zh-CN": "书刊、报纸、信件内容视为在里面，用 In。"
-    },
-    {
-        "id": "prep_gen_19",
-        "title": "Position",
-        "content": "Wait [at|in|on] the top of the stairs. Sign [at|in|on] the bottom of the page. Meet [at|in|on] the end of the road.",
-        "explanation-zh-TW": "頂端、底端、盡頭視為「點」，用 At。",
-        "explanation-en-US": "Use At for top/bottom/end points.",
-        "explanation-zh-CN": "顶端、底端、尽头视为「点」，用 At。"
-    },
-    {
-        "id": "prep_gen_20",
-        "title": "Specific Locations",
-        "content": "He is [at|in|on] the reception. She is [at|in|on] the entrance. Stand [at|in|on] the bus stop.",
-        "explanation-zh-TW": "櫃台、入口、車站牌等特定地點用 At。",
-        "explanation-en-US": "Use At for specific locations/points.",
-        "explanation-zh-CN": "柜台、入口、车站牌等特定地点用 At。"
-    },
-    {
-        "id": "prep_gen_21",
-        "title": "Corner",
-        "content": "Meet me [at|in|on] the corner of the street. The lamp is [in|on|at] the corner of the room.",
-        "explanation-zh-TW": "街道轉角用 At；房間角落(內部)用 In。",
-        "explanation-en-US": "At the street corner; In the room corner.",
-        "explanation-zh-CN": "街道转角用 At；房间角落(内部)用 In。"
-    },
-    {
-        "id": "prep_gen_22",
-        "title": "Geographic Areas",
-        "content": "He is [in|on|at] France. She is [in|on|at] Paris. We live [in|on|at] the mountains.",
-        "explanation-zh-TW": "國家、城市、山區等大範圍區域用 In。",
-        "explanation-en-US": "Use In for countries, cities, and regions.",
-        "explanation-zh-CN": "国家、城市、山区等大范围区域用 In。"
-    },
-    {
-        "id": "prep_gen_23",
-        "title": "Islands",
-        "content": "They live [on|in|at] an island (small). BUT: [In|On|At] Taiwan (treated as country/region). Usually: Vacation [on|in|at] an island.",
-        "explanation-zh-TW": "小島嶼視為表面用 On。",
-        "explanation-en-US": "Use On for islands.",
-        "explanation-zh-CN": "小岛屿视为表面用 On。"
-    },
-    {
-        "id": "prep_gen_24",
-        "title": "Directions",
-        "content": "Turn [to|at|on] the left. (Wait, prep game is in/on/at usually). Let's stick to simple: The shop is [on|in|at] the left. [On|In|At] the right side.",
-        "explanation-zh-TW": "左邊、右邊用 On。",
-        "explanation-en-US": "Use On for left/right.",
-        "explanation-zh-CN": "左边、右边用 On。"
-    },
-    {
-        "id": "prep_gen_25",
-        "title": "Attached Objects",
-        "content": "The apple is [on|in|at] the tree. The leaf is [on|in|at] the branch. The ring is [on|in|at] her finger.",
-        "explanation-zh-TW": "長在樹上、戴在手指上視為附著，用 On。",
-        "explanation-en-US": "Use On for attached items.",
-        "explanation-zh-CN": "长在树上、戴在手指上视为附着，用 On。"
-    },
-    {
-        "id": "prep_gen_26",
-        "title": "Weather Conditions",
-        "content": "Walking [in|on|at] the rain. Dancing [in|on|at] the snow. Sitting [in|on|at] the sun.",
-        "explanation-zh-TW": "在雨中、雪中、陽光下(包圍感) 用 In。",
-        "explanation-en-US": "Use In for weather conditions (surrounded by).",
-        "explanation-zh-CN": "在雨中、雪中、阳光下(包围感) 用 In。"
-    },
-    {
-        "id": "prep_gen_27",
-        "title": "Pictures/Mirrors",
-        "content": "Who is that [in|on|at] the picture? Look [in|on|at] the mirror.",
-        "explanation-zh-TW": "照片裡、鏡子裡用 In。",
-        "explanation-en-US": "Use In for images/reflections.",
-        "explanation-zh-CN": "照片里、镜子里用 In。"
-    },
-    {
-        "id": "prep_gen_28",
-        "title": "Queue/Line",
-        "content": "Stand [in|on|at] line. Wait [in|on|at] a queue.",
-        "explanation-zh-TW": "排隊伍中用 In (British also use 'in a queue').",
-        "explanation-en-US": "Use In for lines/queues.",
-        "explanation-zh-CN": "排队伍中用 In (British also use 'in a queue')."
-    },
-    {
-        "id": "prep_gen_29",
-        "title": "Departments/Teams",
-        "content": "He works [in|on|at] the sales department. She is [on|in|at] the team. (Wait, 'on a team' is common).",
-        "explanation-zh-TW": "在某個部門用 In；在某個隊伍用 On (On the team).",
-        "explanation-en-US": "In the department; On the team.",
-        "explanation-zh-CN": "在某个部门用 In；在某个队伍用 On (On the team)。"
-    },
-    {
-        "id": "prep_gen_30",
-        "title": "Farm",
-        "content": "He works [on|in|at] a farm. Animals [on|in|at] the farm.",
-        "explanation-zh-TW": "農場因為是寬廣平面，習慣用 On。",
-        "explanation-en-US": "Use On for farms.",
-        "explanation-zh-CN": "农场因为是宽广平面，习惯用 On。"
-    },
-    {
-        "id": "prep_gen_31",
-        "title": "Bed",
-        "content": "I am lying [in|on|at] bed (under covers). Sitting [on|in|at] the bed (on top). Usually 'Stay [in|on|at] bed' when sick.",
-        "explanation-zh-TW": "睡在被窩裡用 In；坐在床上用 On。",
-        "explanation-en-US": "In bed (under covers/sleeping); On the bed (sitting).",
-        "explanation-zh-CN": "睡在被窝里用 In；坐在床上用 On。"
-    },
-    {
-        "id": "prep_gen_32",
-        "title": "Menu/List",
-        "content": "What is [on|in|at] the menu? Name is [on|in|at] the list.",
-        "explanation-zh-TW": "菜單上、清單上用 On。",
-        "explanation-en-US": "Use On for menus and lists.",
-        "explanation-zh-CN": "菜单上、清单上用 On。"
-    },
-    {
-        "id": "prep_gen_33",
-        "title": "Way/Path",
-        "content": "I am [on|in|at] my way. Do it [in|on|at] this way.",
-        "explanation-zh-TW": "在路途中 (On my way)；用這種方式 (In this way).",
-        "explanation-en-US": "On my way; In this way.",
-        "explanation-zh-CN": "在路途中 (On my way)；用这种方式 (In this way)。"
-    },
-    {
-        "id": "prep_gen_34",
-        "title": "Time to Event",
-        "content": "We are just [in|on|at] time (early enough). The train is [on|in|at] time (punctual).",
-        "explanation-zh-TW": "In time (及時)；On time (準時)。",
-        "explanation-en-US": "In time (early enough); On time (scheduled).",
-        "explanation-zh-CN": "In time (及时)；On time (准时)。"
-    },
-    {
-        "id": "prep_gen_35",
-        "title": "Review",
-        "content": "[In|On|At] the morning. [On|In|At] Monday. [At|In|On] 3 PM. [In|On|At] the box.",
-        "explanation-zh-TW": "複習：In+時間段/空間, On+日期/表面, At+時間點/地點。",
-        "explanation-en-US": "Review: In (periods/space), On (days/surfaces), At (points).",
-        "explanation-zh-CN": "复习：In+时间段/空间, On+日期/表面, At+时间点/地点。"
-    }
+  {
+    "title": "Sometimes",
+    "id": "commute",
+    "content": "Every morning, I get [on|in|at] the bus to go to work. It is much bigger than a car. If I take a taxi, I sit [in|on|at] the back seat. But [on|in|at] the bus, I can stand or sit. Sometimes I meet my friend [at|on|in] the bus stop. We wait for the bus together. When we arrive, we get off the bus and walk. We leave our bags [in|on|at] the office. I am happy to be [at|on|in] work safely.",
+    "explanation-zh-TW": "# 🚌 公車與車子 (On vs In)\n\n這是一個常見的混淆點！\n\n1. **[on] the bus**：大眾運輸工具 (Bus, Train, Plane) 只要**能站立行走**，通常用 **on**。\n2. **[in] the car/taxi**：小車子，人要彎腰進去坐著，用 **in**。\n3. **[at] the bus stop**：地點點位，在某個特定地點用 **at**。\n4. **[in] the office**：在辦公室裡面 (空間) 用 **in**，如果只是指「在上班」這個狀態可以用 at work。",
+    "explanation-en-US": "# 🚌 On vs In (Transport)\n\n1. **[on] the bus**: For public transport where you can **stand/walk** (bus, train, plane), we use **on**.\n2. **[in] the car**: For small vehicles where you must sit, we use **in**.\n3. **[at] the bus stop**: Specific location point -> **at**.\n4. **[in] the office**: Inside the room/space -> **in**.",
+    "explanation-zh-CN": "# 🚌 公交车与车子 (On vs In)\n\n这是一个常见的混淆点！\n\n1. **[on] the bus**：大众运输工具 (Bus, Train, Plane) 只要**能站立行走**，通常用 **on**。\n2. **[in] the car/taxi**：小车子，人要弯腰进去坐著，用 **in**。\n3. **[at] the bus stop**：地点点位，在某个特定地点用 **at**。\n4. **[in] the office**：在办公室裡面 (空间) 用 **in**，如果只是指「在上班」这个状态可以用 at work。"
+  },
+  {
+    "title": "Monday",
+    "id": "time",
+    "content": "We have a meeting [at|in|on] 9:00 AM. The meeting is [on|in|at] Monday. It is [in|on|at] January, the coldest month. My birthday is also [in|on|at] January. It is [on|in|at] January 15th. We usually have a party [at|on|in] night. Last year, we met [in|on|at] the morning. I was born [in|on|at] 1995. Time flies so fast!",
+    "explanation-zh-TW": "# ⏰ 時間介系詞 (At / On / In)\n\n金字塔概念：時間越短越精確用 At，越長用 In。\n\n1. **[at] 9:00 AM**：具體時刻 (Clock time) 用 **at**。\n2. **[on] Monday**：特定的日子 (Days) 用 **on**。\n3. **[in] January**：月份 (Months) 用 **in**。\n4. **[in] January**：月份用 **in**。\n5. **[on] January 15th**：具體日期 (Dates) 視為一天，用 **on**。\n6. **[at] night**：固定用法 **at night**。\n7. **[in] the morning**：固定用法 **in the morning/afternoon/evening**。\n8. **[in] 1995**：年份 (Years) 很長，用 **in**。",
+    "explanation-en-US": "# ⏰ Prepositions of Time (At / On / In)\n\n1. **[at] 9:00**: Specific clock time -> **at**.\n2. **[on] Monday**: Days of the week -> **on**.\n3. **[in] January**: Months -> **in**.\n4. **[on] January 15th**: Specific dates -> **on**.\n5. **[at] night**: Exception standard expression.\n6. **[in] the morning**: Part of day -> **in**.\n7. **[in] 1995**: Years -> **in**.",
+    "explanation-zh-CN": "# ⏰ 时间介系词 (At / On / In)\n\n金字塔概念：时间越短越精确用 At，越长用 In。\n\n1. **[at] 9:00 AM**：具体时刻 (Clock time) 用 **at**。\n2. **[on] Monday**：特定的日子 (Days) 用 **on**。\n3. **[in] January**：月份 (Months) 用 **in**。\n4. **[in] January**：月份用 **in**。\n5. **[on] January 15th**：具体日期 (Dates) 視為一天，用 **on**。\n6. **[at] night**：固定用法 **at night**。\n7. **[in] the morning**：固定用法 **in the morning/afternoon/evening**。\n8. **[in] 1995**：年份 (Years) 很长，用 **in**。"
+  },
+  {
+    "title": "Sometimes",
+    "id": "place",
+    "content": "My cat is hiding [in|on|at] the box. It likes to sleep [on|in|at] the sofa. Sometimes it sits [at|in|on] the door, waiting for me. I put its food [in|on|at] the bowl. The bowl is [on|in|at] the floor. My cat never sleeps [at|in|on] night. It likes to jump [on|in|at] the table. Look! It is [under|in|on] the chair now (oh wait, that's not In/On/At, let's stick to the game). It is playing [in|on|at] the garden.",
+    "explanation-zh-TW": "# 📍 地點介系詞 (Place)\n\n1. **[in] the box**：在...裡面 (容器/空間) 用 **in**。\n2. **[on] the sofa**：在...表面上 用 **on**。\n3. **[at] the door**：在...旁邊/地點 (點) 用 **at**。\n4. **[in] the bowl**：在碗裡面。\n5. **[on] the floor**：在地板表面。\n6. **[at] night**：時間慣用语。\n7. **[on] the table**：在桌面上。\n8. **[in] the garden**：在花園空間裡。",
+    "explanation-en-US": "# 📍 Prepositions of Place\n\n1. **[in] the box**: Inside a container/space -> **in**.\n2. **[on] the sofa**: On a surface -> **on**.\n3. **[at] the door**: At a specific point/location -> **at**.\n4. **[in] the bowl**: Inside.\n5. **[on] the floor**: On the surface.\n6. **[in] the garden**: Inside an area.",
+    "explanation-zh-CN": "# 📍 地点介系词 (Place)\n\n1. **[in] the box**：在...裡面 (容器/空间) 用 **in**。\n2. **[on] the sofa**：在...表面上 用 **on**。\n3. **[at] the door**：在...旁邊/地点 (点) 用 **at**。\n4. **[in] the bowl**：在碗裡面。\n5. **[on] the floor**：在地板表面。\n6. **[at] night**：时间惯用语。\n7. **[on] the table**：在桌面上。\n8. **[in] the garden**：在花園空间裡。"
+  },
+  {
+    "title": "Paris",
+    "id": "vacation_prep",
+    "content": "We arrived [in|at|on] Paris last week. We stayed [at|in|on] a nice hotel. The hotel is [on|in|at] Main Street. Our room was [on|in|at] the second floor. We had dinner [at|in|on] a famous restaurant. The restaurant is [in|on|at] the city center. We walked [in|on|at] the park. There were boats [on|in|at] the river. We met some friends [at|in|on] the party. It was the best trip [in|on|at] the world.",
+    "explanation-zh-TW": "# 🇫🇷 旅遊細節 (大地方與小地方)\n\n1. **[in] Paris**：城市/國家 (大範圍) 用 **in**。\n2. **[at] a hotel**：某個地點機構 (點) 用 **at** (強調地點功能) 或 **in** (強調建築物裡面)。這裡常用 at。\n3. **[on] Main Street**：街道名 用 **on** (美式) 或 in (英式)。\n4. **[on] big floor**：樓層 用 **on**。\n5. **[at] a restaurant**：地點。\n6. **[in] the city center**：區域。\n7. **[in] the park**：區域。\n8. **[on] the river**：在河面 (表面)。\n9. **[at] the party**：活動场合 用 **at**。\n10. **[in] the world**：在世界上 (範圍)。",
+    "explanation-en-US": "# 🇫🇷 Vacation Details (Big vs Small Places)\n\n1. **[in] Paris**: Cities/Countries -> **in**.\n2. **[at] a hotel**: Public places/Points -> **at**.\n3. **[on] Main Street**: Streets -> **on**.\n4. **[on] the second floor**: Floors -> **on**.\n5. **[at] a restaurant**: Specific place.\n6. **[in] the city center**: Area.\n7. **[on] the river**: Surface.\n8. **[at] the party**: Events -> **at**.\n9. **[in] the world**: Area.",
+    "explanation-zh-CN": "# 🇫🇷 旅遊细节 (大地方与小地方)\n\n1. **[in] Paris**：城市/国家 (大范围) 用 **in**。\n2. **[at] a hotel**：某个地点机构 (点) 用 **at** (强調地点功能) 或 **in** (强調建築物裡面)。这裡常用 at。\n3. **[on] Main Street**：街道名 用 **on** (美式) 或 in (英式)。\n4. **[on] big floor**：楼层 用 **on**。\n5. **[at] a restaurant**：地点。\n6. **[in] the city center**：区域。\n7. **[in] the park**：区域。\n8. **[on] the river**：在河面 (表面)。\n9. **[at] the party**：活动场合 用 **at**。\n10. **[in] the world**：在世界上 (范围)。"
+  },
+  {
+    "title": "May",
+    "id": "calendar",
+    "content": "My birthday is [in|on|at] May. It is [on|in|at] May 5th. The party is [at|on|in] 5:00 PM. We celebrate [in|on|at] spring. New Year is [in|on|at] January.",
+    "explanation-zh-TW": "Months/Seasons -> in, Date -> on, Time -> at.",
+    "explanation-en-US": "Months -> in, Specific Date -> on, Clock Time -> at.",
+    "explanation-zh-CN": "Months/Seasons -> in, Date -> on, Time -> at."
+  },
+  {
+    "title": "Main",
+    "id": "meeting",
+    "content": "Let's meet [at|in|on] the coffee shop. I am sitting [in|on|at] a chair. The cup is [on|in|at] the table. The shop is [on|in|at] Main Street. We are [in|on|at] the city.",
+    "explanation-zh-TW": "Specific Place -> at, Chair/City -> in, Table/Street -> on.",
+    "explanation-en-US": "Point -> at, Enclosed/City -> in, Surface/Street -> on.",
+    "explanation-zh-CN": "Specific Place -> at, Chair/City -> in, Table/Street -> on."
+  },
+  {
+    "title": "Computer",
+    "id": "desk",
+    "content": "My computer is [on|in|at] the desk. The pens are [in|on|at] the drawer. I sit [at|in|on] the desk to work. The lamp is [on|in|at] the corner. The rug is [on|in|at] the floor.",
+    "explanation-zh-TW": "Surface -> on, Container -> in, Point/Target -> at.",
+    "explanation-en-US": "Surface -> on, Container -> in, Point -> at.",
+    "explanation-zh-CN": "Surface -> on, Container -> in, Point/Target -> at."
+  },
+  {
+    "title": "Wait",
+    "id": "livingroom",
+    "content": "The TV is [on|in|at] the wall. We sit [on|in|at] the sofa. The picture is [in|on|at] a frame. The cat is [under|on|in] the table (Wait, sticking to In/On/At). The cat is [on|in|at] the rug. We are [in|on|at] the living room.",
+    "explanation-zh-TW": "Wall/Sofa/Rug -> on, Frame/Room -> in.",
+    "explanation-en-US": "Surface -> on, Inside -> in.",
+    "explanation-zh-CN": "Wall/Sofa/Rug -> on, Frame/Room -> in."
+  },
+  {
+    "title": "Tokyo",
+    "id": "travel",
+    "content": "We travel [in|on|at] summer. We arrive [at|in|on] the airport. We get [on|in|at] the plane. Our seats are [in|on|at] row 10. We land [in|at|on] Tokyo.",
+    "explanation-zh-TW": "Season -> in, Point (Airport) -> at, Large Vehicle (Plane) -> on, Row -> in, City -> in.",
+    "explanation-en-US": "Season -> in, Point -> at, Public Transport -> on, Row -> in, City -> in.",
+    "explanation-zh-CN": "Season -> in, Point (Airport) -> at, Large Vehicle (Plane) -> on, Row -> in, City -> in."
+  },
+  {
+    "title": "December",
+    "id": "xmas",
+    "content": "Christmas is [in|on|at] December. It is [on|in|at] December 25th. We open gifts [in|on|at] the morning. Santa comes [at|in|on] night. Snow is [on|in|at] the ground.",
+    "explanation-zh-TW": "Month -> in, Date -> on, Part of day -> in, Night -> at, Surface -> on.",
+    "explanation-en-US": "Month -> in, Date -> on, Morning -> in, Night -> at, Surface -> on.",
+    "explanation-zh-CN": "Month -> in, Date -> on, Part of day -> in, Night -> at, Surface -> on."
+  },
+  {
+    "title": "Lunch",
+    "id": "school",
+    "content": "School starts [at|in|on] 8:00 AM. Lunch is [at|in|on] noon. We have recess [in|on|at] the afternoon. The test is [on|in|at] Friday. We have a break [in|on|at] winter.",
+    "explanation-zh-TW": "Time -> at, Noon -> at, Part of day -> in, Day -> on, Season -> in.",
+    "explanation-en-US": "Time -> at, Noon -> at, Afternoon -> in, Day -> on, Season -> in.",
+    "explanation-zh-CN": "Time -> at, Noon -> at, Part of day -> in, Day -> on, Season -> in."
+  },
+  {
+    "title": "First",
+    "id": "directions",
+    "content": "The bank is [on|in|at] the corner. The shop is [on|in|at] First Avenue. I live [at|in|on] 123 Main Street (Full address uses At). I live [on|at|in] Main Street. I live [in|on|at] New York.",
+    "explanation-zh-TW": "Corner/Street -> on, Address -> at, City -> in.",
+    "explanation-en-US": "Street -> on, Full Address -> at, City -> in.",
+    "explanation-zh-CN": "Corner/Street -> on, Address -> at, City -> in."
+  },
+  {
+    "title": "Bus",
+    "id": "commute2",
+    "content": "I am [on|in|at] the bus. She is [in|on|at] the car. We wait [at|in|on] the station. The train arrives [at|in|on] 5 PM. We get off [at|in|on] the stop.",
+    "explanation-zh-TW": "Bus -> on, Car -> in, Station/Stop/Time -> at.",
+    "explanation-en-US": "Public Transport -> on, Car -> in, Point/Time -> at.",
+    "explanation-zh-CN": "Bus -> on, Car -> in, Station/Stop/Time -> at."
+  },
+  {
+    "title": "Flowers",
+    "id": "years",
+    "content": "I was born [in|on|at] 1990. My brother was born [in|on|at] 1995. We go skiing [in|on|at] winter. Flowers bloom [in|on|at] spring. It is hot [in|on|at] summer.",
+    "explanation-zh-TW": "Year/Season -> in.",
+    "explanation-en-US": "Year/Season -> in.",
+    "explanation-zh-CN": "Year/Season -> in."
+  },
+  {
+    "title": "Lunch",
+    "id": "daily",
+    "content": "I sleep [at|in|on] night. I work [in|on|at] the day. Lunch is [at|in|on] 12:00. Dinner is [in|at|on] the evening. I relax [on|in|at] weekends.",
+    "explanation-zh-TW": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on.",
+    "explanation-en-US": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on.",
+    "explanation-zh-CN": "Night -> at, Day/Evening -> in, Time -> at, Weekends -> on."
+  },
+  {
+    "id": "prep_gen_1",
+    "title": "Fish",
+    "content": "The cat is [in|on|at] the box. The keys are [in|on|at] my pocket. He is [in|on|at] the car. Fish live [in|on|at] water.",
+    "explanation-zh-TW": "In 表示在...裡面 (空間、容器)。",
+    "explanation-en-US": "In suggests being inside a space or container.",
+    "explanation-zh-CN": "In 表示在...里面 (空间、容器)。"
+  },
+  {
+    "id": "prep_gen_2",
+    "title": "Book",
+    "content": "The book is [on|in|at] the table. The picture is [on|in|at] the wall. Don't sit [on|in|at] the floor. My hat is [on|in|at] my head.",
+    "explanation-zh-TW": "On 表示在...上面 (表面)。",
+    "explanation-en-US": "On suggests being on a surface.",
+    "explanation-zh-CN": "On 表示在...上面 (表面)。"
+  },
+  {
+    "id": "prep_gen_3",
+    "title": "Meet",
+    "content": "Someone is [at|in|on] the door. Meet me [at|in|on] the station. She is [at|in|on] school. He is [at|in|on] work.",
+    "explanation-zh-TW": "At 表示在某一點或特定地點。",
+    "explanation-en-US": "At suggests a specific point or location.",
+    "explanation-zh-CN": "At 表示在某一点或特定地点。"
+  },
+  {
+    "id": "prep_gen_4",
+    "title": "Monday",
+    "content": "See you [on|in|at] Monday. The party is [on|in|at] Friday. We rest [on|in|at] Sunday. My birthday is [on|in|at] Tuesday.",
+    "explanation-zh-TW": "星期幾搭配 On。",
+    "explanation-en-US": "Use On for days of the week.",
+    "explanation-zh-CN": "星期几搭配 On。"
+  },
+  {
+    "id": "prep_gen_5",
+    "title": "May",
+    "content": "My birthday is [in|on|at] May. Examples: Born [in|on|at] 1990. Flowers bloom [in|on|at] spring. It is cold [in|on|at] winter.",
+    "explanation-zh-TW": "月份、年份、季節搭配 In (長時間)。",
+    "explanation-en-US": "Use In for months, years, and seasons (long periods).",
+    "explanation-zh-CN": "月份、年份、季节搭配 In (长时间)。"
+  },
+  {
+    "id": "prep_gen_6",
+    "title": "Lunch",
+    "content": "Meet me [at|in|on] 5:00. The show starts [at|in|on] 8 PM. Lunch is [at|in|on] noon. We sleep [at|in|on] night.",
+    "explanation-zh-TW": "幾點鐘或 Noon/Night 搭配 At。",
+    "explanation-en-US": "Use At for specific clock times, noon, and night.",
+    "explanation-zh-CN": "几点钟或 Noon/Night 搭配 At。"
+  },
+  {
+    "id": "prep_gen_7",
+    "title": "Bus",
+    "content": "I am [on|in|at] the bus. We are [on|in|at] the train. He is [on|in|at] the plane. Are you [on|in|at] the ship?",
+    "explanation-zh-TW": "大型公共交通工具 (公車、火車、飛機) 習慣用 On (可以在上面走動)。",
+    "explanation-en-US": "Use On for large public transport where you can walk.",
+    "explanation-zh-CN": "大型公共交通工具 (公交车、火车、飞机) 习惯用 On (可以在上面走动)。"
+  },
+  {
+    "id": "prep_gen_8",
+    "title": "Get",
+    "content": "Get [in|on|at] the car. She is [in|on|at] a taxi. He sat [in|on|at] the truck. I am [in|on|at] the van.",
+    "explanation-zh-TW": "小型私人交通工具 (汽車、計程車) 習慣用 In (要彎腰進去)。",
+    "explanation-en-US": "Use In for small vehicles like cars/taxis.",
+    "explanation-zh-CN": "小型私人交通工具 (汽车、出租车) 习惯用 In (要弯腰进去)。"
+  },
+  {
+    "id": "prep_gen_9",
+    "title": "December",
+    "content": "Christmas is [on|in|at] December 25th. Born [on|in|at] May 1st. The meeting is [on|in|at] the 3rd of June.",
+    "explanation-zh-TW": "具體日期搭配 On。",
+    "explanation-en-US": "Use On for specific dates.",
+    "explanation-zh-CN": "具体日期搭配 On。"
+  },
+  {
+    "id": "prep_gen_10",
+    "title": "Relax",
+    "content": "I run [in|on|at] the morning. We meet [in|on|at] the afternoon. Relax [in|on|at] the evening. BUT: sleep [at|in|on] night.",
+    "explanation-zh-TW": "Morning/Afternoon/Evening 搭配 In；但 Night 搭配 At。",
+    "explanation-en-US": "Use In for morning/afternoon/evening; At for night.",
+    "explanation-zh-CN": "Morning/Afternoon/Evening 搭配 In；但 Night 搭配 At。"
+  },
+  {
+    "id": "prep_gen_11",
+    "title": "Write",
+    "content": "The food is [on|in|at] the plate. Write [on|in|at] the paper. Sleep [on|in|at] the bed. Coffee is [on|in|at] the desk.",
+    "explanation-zh-TW": "接觸表面用 On。",
+    "explanation-en-US": "Use On for contact with a surface.",
+    "explanation-zh-CN": "接触表面用 On。"
+  },
+  {
+    "id": "prep_gen_12",
+    "title": "Milk",
+    "content": "Money is [in|on|at] the wallet. Milk is [in|on|at] the fridge. clothes are [in|on|at] the closet. Birds are [in|on|at] the sky.",
+    "explanation-zh-TW": "錢包、冰箱、衣櫥、天空視為空間，用 In。",
+    "explanation-en-US": "Use In for enclosed spaces or containers/areas.",
+    "explanation-zh-CN": "钱包、冰箱、衣橱、天空视为空间，用 In。"
+  },
+  {
+    "id": "prep_gen_13",
+    "title": "Party",
+    "content": "See you [at|in|on] the party. He is [at|in|on] the concert. We met [at|in|on] a wedding. She is [at|in|on] the meeting.",
+    "explanation-zh-TW": "活動場合通常用 At。",
+    "explanation-en-US": "Use At for events or social gatherings.",
+    "explanation-zh-CN": "活动场合通常用 At。"
+  },
+  {
+    "id": "prep_gen_14",
+    "title": "Main",
+    "content": "He lives [at|in|on] 123 Main Street. BUT: He lives [on|in|at] Main Street. She lives [in|on|at] New York.",
+    "explanation-zh-TW": "完整地址用 At；街道用 On；城市/國家用 In。",
+    "explanation-en-US": "Address: At; Street: On; City/Country: In.",
+    "explanation-zh-CN": "完整地址用 At；街道用 On；城市/国家用 In。"
+  },
+  {
+    "id": "prep_gen_15",
+    "title": "Christmas",
+    "content": "We meet [at|in|on] Christmas (the period). BUT: [On|In|At] Christmas Day. [At|In|On] Easter. [At|In|On] New Year.",
+    "explanation-zh-TW": "節日期間用 At (British English/General)；特定那一天用 On。",
+    "explanation-en-US": "At for the holiday period; On for the specific day.",
+    "explanation-zh-CN": "节日期间用 At (British English/General)；特定那一天用 On。"
+  },
+  {
+    "id": "prep_gen_16",
+    "title": "Lives",
+    "content": "He lives [on|in|at] the first floor. The office is [on|in|at] the second floor. Go to the shop [on|in|at] the top floor.",
+    "explanation-zh-TW": "樓層屬於平面，用 On。",
+    "explanation-en-US": "Use On for floors of a building.",
+    "explanation-zh-CN": "楼层属于平面，用 On。"
+  },
+  {
+    "id": "prep_gen_17",
+    "title": "Read",
+    "content": "I saw it [on|in|at] TV. I heard it [on|in|at] the radio. Read it [on|in|at] the internet. Talk [on|in|at] the phone.",
+    "explanation-zh-TW": "電子媒體/通訊設備用 On。",
+    "explanation-en-US": "Use On for electronic media and devices.",
+    "explanation-zh-CN": "电子媒体/通讯设备用 On。"
+  },
+  {
+    "id": "prep_gen_18",
+    "title": "Find",
+    "content": "I read it [in|on|at] the newspaper. Find it [in|on|at] the book. It's [in|on|at] the magazine. The story is [in|on|at] the email.",
+    "explanation-zh-TW": "書刊、報紙、信件內容視為在裡面，用 In。",
+    "explanation-en-US": "Use In for printed content/text.",
+    "explanation-zh-CN": "书刊、报纸、信件内容视为在里面，用 In。"
+  },
+  {
+    "id": "prep_gen_19",
+    "title": "Sign",
+    "content": "Wait [at|in|on] the top of the stairs. Sign [at|in|on] the bottom of the page. Meet [at|in|on] the end of the road.",
+    "explanation-zh-TW": "頂端、底端、盡頭視為「點」，用 At。",
+    "explanation-en-US": "Use At for top/bottom/end points.",
+    "explanation-zh-CN": "顶端、底端、尽头视为「点」，用 At。"
+  },
+  {
+    "id": "prep_gen_20",
+    "title": "Stand",
+    "content": "He is [at|in|on] the reception. She is [at|in|on] the entrance. Stand [at|in|on] the bus stop.",
+    "explanation-zh-TW": "櫃台、入口、車站牌等特定地點用 At。",
+    "explanation-en-US": "Use At for specific locations/points.",
+    "explanation-zh-CN": "柜台、入口、车站牌等特定地点用 At。"
+  },
+  {
+    "id": "prep_gen_21",
+    "title": "Meet",
+    "content": "Meet me [at|in|on] the corner of the street. The lamp is [in|on|at] the corner of the room.",
+    "explanation-zh-TW": "街道轉角用 At；房間角落(內部)用 In。",
+    "explanation-en-US": "At the street corner; In the room corner.",
+    "explanation-zh-CN": "街道转角用 At；房间角落(内部)用 In。"
+  },
+  {
+    "id": "prep_gen_22",
+    "title": "France",
+    "content": "He is [in|on|at] France. She is [in|on|at] Paris. We live [in|on|at] the mountains.",
+    "explanation-zh-TW": "國家、城市、山區等大範圍區域用 In。",
+    "explanation-en-US": "Use In for countries, cities, and regions.",
+    "explanation-zh-CN": "国家、城市、山区等大范围区域用 In。"
+  },
+  {
+    "id": "prep_gen_23",
+    "title": "Taiwan",
+    "content": "They live [on|in|at] an island (small). BUT: [In|On|At] Taiwan (treated as country/region). Usually: Vacation [on|in|at] an island.",
+    "explanation-zh-TW": "小島嶼視為表面用 On。",
+    "explanation-en-US": "Use On for islands.",
+    "explanation-zh-CN": "小岛屿视为表面用 On。"
+  },
+  {
+    "id": "prep_gen_24",
+    "title": "Wait",
+    "content": "Turn [to|at|on] the left. (Wait, prep game is in/on/at usually). Let's stick to simple: The shop is [on|in|at] the left. [On|In|At] the right side.",
+    "explanation-zh-TW": "左邊、右邊用 On。",
+    "explanation-en-US": "Use On for left/right.",
+    "explanation-zh-CN": "左边、右边用 On。"
+  },
+  {
+    "id": "prep_gen_25",
+    "title": "Apple",
+    "content": "The apple is [on|in|at] the tree. The leaf is [on|in|at] the branch. The ring is [on|in|at] her finger.",
+    "explanation-zh-TW": "長在樹上、戴在手指上視為附著，用 On。",
+    "explanation-en-US": "Use On for attached items.",
+    "explanation-zh-CN": "长在树上、戴在手指上视为附着，用 On。"
+  },
+  {
+    "id": "prep_gen_26",
+    "title": "Dancing",
+    "content": "Walking [in|on|at] the rain. Dancing [in|on|at] the snow. Sitting [in|on|at] the sun.",
+    "explanation-zh-TW": "在雨中、雪中、陽光下(包圍感) 用 In。",
+    "explanation-en-US": "Use In for weather conditions (surrounded by).",
+    "explanation-zh-CN": "在雨中、雪中、阳光下(包围感) 用 In。"
+  },
+  {
+    "id": "prep_gen_27",
+    "title": "Picture",
+    "content": "Who is that [in|on|at] the picture? Look [in|on|at] the mirror.",
+    "explanation-zh-TW": "照片裡、鏡子裡用 In。",
+    "explanation-en-US": "Use In for images/reflections.",
+    "explanation-zh-CN": "照片里、镜子里用 In。"
+  },
+  {
+    "id": "prep_gen_28",
+    "title": "Wait",
+    "content": "Stand [in|on|at] line. Wait [in|on|at] a queue.",
+    "explanation-zh-TW": "排隊伍中用 In (British also use 'in a queue').",
+    "explanation-en-US": "Use In for lines/queues.",
+    "explanation-zh-CN": "排队伍中用 In (British also use 'in a queue')."
+  },
+  {
+    "id": "prep_gen_29",
+    "title": "Wait",
+    "content": "He works [in|on|at] the sales department. She is [on|in|at] the team. (Wait, 'on a team' is common).",
+    "explanation-zh-TW": "在某個部門用 In；在某個隊伍用 On (On the team).",
+    "explanation-en-US": "In the department; On the team.",
+    "explanation-zh-CN": "在某个部门用 In；在某个队伍用 On (On the team)。"
+  },
+  {
+    "id": "prep_gen_30",
+    "title": "Animals",
+    "content": "He works [on|in|at] a farm. Animals [on|in|at] the farm.",
+    "explanation-zh-TW": "農場因為是寬廣平面，習慣用 On。",
+    "explanation-en-US": "Use On for farms.",
+    "explanation-zh-CN": "农场因为是宽广平面，习惯用 On。"
+  },
+  {
+    "id": "prep_gen_31",
+    "title": "Sitting",
+    "content": "I am lying [in|on|at] bed (under covers). Sitting [on|in|at] the bed (on top). Usually 'Stay [in|on|at] bed' when sick.",
+    "explanation-zh-TW": "睡在被窩裡用 In；坐在床上用 On。",
+    "explanation-en-US": "In bed (under covers/sleeping); On the bed (sitting).",
+    "explanation-zh-CN": "睡在被窝里用 In；坐在床上用 On。"
+  },
+  {
+    "id": "prep_gen_32",
+    "title": "Name",
+    "content": "What is [on|in|at] the menu? Name is [on|in|at] the list.",
+    "explanation-zh-TW": "菜單上、清單上用 On。",
+    "explanation-en-US": "Use On for menus and lists.",
+    "explanation-zh-CN": "菜单上、清单上用 On。"
+  },
+  {
+    "id": "prep_gen_33",
+    "title": "Way",
+    "content": "I am [on|in|at] my way. Do it [in|on|at] this way.",
+    "explanation-zh-TW": "在路途中 (On my way)；用這種方式 (In this way).",
+    "explanation-en-US": "On my way; In this way.",
+    "explanation-zh-CN": "在路途中 (On my way)；用这种方式 (In this way)。"
+  },
+  {
+    "id": "prep_gen_34",
+    "title": "Time",
+    "content": "We are just [in|on|at] time (early enough). The train is [on|in|at] time (punctual).",
+    "explanation-zh-TW": "In time (及時)；On time (準時)。",
+    "explanation-en-US": "In time (early enough); On time (scheduled).",
+    "explanation-zh-CN": "In time (及时)；On time (准时)。"
+  },
+  {
+    "id": "prep_gen_35",
+    "title": "Monday",
+    "content": "[In|On|At] the morning. [On|In|At] Monday. [At|In|On] 3 PM. [In|On|At] the box.",
+    "explanation-zh-TW": "複習：In+時間段/空間, On+日期/表面, At+時間點/地點。",
+    "explanation-en-US": "Review: In (periods/space), On (days/surfaces), At (points).",
+    "explanation-zh-CN": "复习：In+时间段/空间, On+日期/表面, At+时间点/地点。"
+  }
 ]

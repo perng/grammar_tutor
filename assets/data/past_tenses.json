@@ -1,104 +1,104 @@
 [
   {
-    "title": "Simple Past vs Past Continuous",
+    "title": "Watch",
     "content": "I [was watching|watched] TV when he called.",
     "explanationEnUs": "Action in progress (watching) interrupted by another action (called).",
     "explanationZhTw": "正在進行的動作 (watching) 被另一個動作 (called) 打斷。",
     "explanationZhCn": "正在进行的动作 (watching) 被另一个动作 (called) 打断。"
   },
   {
-    "title": "Simple Past vs Past Continuous",
+    "title": "Paris",
     "content": "She [visited|was visiting] Paris last summer.",
     "explanationEnUs": "Completed action in the past.",
     "explanationZhTw": "過去已完成的動作。",
     "explanationZhCn": "过去已完成的动作。"
   },
   {
-    "title": "Past Continuous",
+    "title": "Eat",
     "content": "At 8 PM yesterday, we [were eating|ate] dinner.",
     "explanationEnUs": "Action in progress at a specific time in the past.",
     "explanationZhTw": "過去特定時間正在進行的動作。",
     "explanationZhCn": "过去特定时间正在进行的动作。"
   },
   {
-    "title": "Past Perfect",
+    "title": "Left",
     "content": "When I arrived, the train [had left|left].",
     "explanationEnUs": "Action happened before another past action.",
     "explanationZhTw": "發生在另一過去動作之前的動作。",
     "explanationZhCn": "发生在另一过去动作之前的动作。"
   },
   {
-    "title": "Past Perfect",
+    "title": "Forgotten",
     "content": "She realized she [had forgotten|forgot] her keys.",
     "explanationEnUs": "The forgetting happened before the realizing.",
     "explanationZhTw": "忘記發生在意識到之前。",
     "explanationZhCn": "忘记发生在意识到之前。"
   },
   {
-    "title": "Used To",
+    "title": "London",
     "content": "I [used to|use to] live in London.",
     "explanationEnUs": "Past habit or state that is no longer true.",
     "explanationZhTw": "過去的習慣或狀態，現在已不再是。",
     "explanationZhCn": "过去的习惯 or 状态，现在已不再是。"
   },
   {
-    "title": "Simple Past",
+    "title": "Work",
     "content": "He [didn't go|didn't went] to work yesterday.",
     "explanationEnUs": "Use base form after 'did'.",
     "explanationZhTw": "'Did' 之後使用原形動詞。",
     "explanationZhCn": "'Did' 之后使用原形动词。"
   },
   {
-    "title": "Simple Past",
+    "title": "Happy",
     "content": "They [were|was] happy to see us.",
     "explanationEnUs": "'Were' is for plural subjects.",
     "explanationZhTw": "'Were' 用於複數主詞。",
     "explanationZhCn": "'Were' 用于复数主语。"
   },
   {
-    "title": "Past Continuous",
+    "title": "Read",
     "content": "While I was cooking, he [was reading|read].",
     "explanationEnUs": "Two parallel actions happening at the same time.",
     "explanationZhTw": "兩個同時發生的平行動作。",
     "explanationZhCn": "两个同时发生的平行动作。"
   },
   {
-    "title": "Past Perfect Continuous",
+    "title": "Wait",
     "content": "I [had been waiting|was waiting] for an hour when the bus finally came.",
     "explanationEnUs": "Action continuing up to a point in the past.",
     "explanationZhTw": "持續到過去某一點的動作。",
     "explanationZhCn": "持续到过去某一点的动作。"
   },
   {
-    "title": "Simple Past",
+    "title": "Hamlet",
     "content": "Who [wrote|did write] 'Hamlet'?",
     "explanationEnUs": "Subject question format.",
     "explanationZhTw": "主詞問句格式。",
     "explanationZhCn": "主语问句格式。"
   },
   {
-    "title": "Past Continuous",
+    "title": "Rain",
     "content": "It [was raining|rained] when we left the house.",
     "explanationEnUs": "Background action happening when something else happened.",
     "explanationZhTw": "當另一件事發生時正在發生的背景動作。",
     "explanationZhCn": "当另一件事发生时正在发生的背景动作。"
   },
   {
-    "title": "Would vs Used To",
+    "title": "Every",
     "content": "Every summer, we [would|used to] go to the beach.",
     "explanationEnUs": "'Would' can express past repeated actions but not states.",
     "explanationZhTw": "'Would' 可表達過去重複動作，但不能表達狀態。",
     "explanationZhCn": "'Would' 可表达过去重复动作，但不能表达状态。"
   },
   {
-    "title": "Simple Past",
+    "title": "Saw",
     "content": "I [saw|seen] him yesterday.",
     "explanationEnUs": "'Saw' is the past tense of 'see'.",
     "explanationZhTw": "'Saw' 是 'see' 的過去式。",
     "explanationZhCn": "'Saw' 是 'see' 的过去式。"
   },
   {
-    "title": "Past Perfect",
+    "title": "Work",
     "content": "He was tired because he [had worked|worked] hard.",
     "explanationEnUs": "The working caused the tiredness (earlier action).",
     "explanationZhTw": "工作導致疲勞（較早發生的動作）。",

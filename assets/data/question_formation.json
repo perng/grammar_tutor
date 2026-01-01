@@ -1,402 +1,402 @@
 [
-    {
-        "id": "q1",
-        "title": "Question Formation Basics",
-        "content": "Teacher: Today we will learn how to form questions in English. In Chinese, we often just add a particle or change intonation, but English changes the word order.\n\nStudent: [Where are you going?|You are going where?] \nTeacher: Good. We move the auxiliary verb 'are' to the front.\n\nStudent: [Do you like this?|You like this?] \nTeacher: Yes. For regular verbs, we add 'Do' at the start.\n\nLet's practice more:\n\n1. [What is your name?|Your name is what?]\n2. [Are you ready?|You are ready?]\n3. [Does she speak English?|She speaks English?]\n4. [Where does he live?|He lives where?]\n5. [Can you help me?|You can help me?]",
-        "explanation-zh-TW": "英文疑問句需要調整語序。\n1. Be動詞 (am, is, are) 或助動詞 (can, will) 要移到主詞前面。\n   例如: You are ready. -> Are you ready?\n2. 一般動詞疑問句需在句首加助動詞 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑問詞 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?",
-        "explanation-en-US": "English questions require changing the word order.\n1. Move the Be verb (am, is, are) or auxiliary verb (can, will) before the subject.\n   e.g., You are ready. -> Are you ready?\n2. For other verbs, use the auxiliary 'Do' or 'Does' at the beginning.\n   e.g., You like this. -> Do you like this?\n3. Question words (Where, What, How) always go at the very front.\n   e.g., Where are you going?",
-        "explanation-zh-CN": "英文疑问句需要调整语序。\n1. Be动词 (am, is, are) 或助动词 (can, will) 要移到主词前面。\n   例如: You are ready. -> Are you ready?\n2. 一般动词疑问句需在句首加助动词 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑问词 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?"
-    },
-    {
-        "id": "q2",
-        "title": "Advanced Questions",
-        "content": "Teacher: Now let's try some longer questions.\n\nStudent: [When will you arrive?|You will arrive when?]\nTeacher: 'Will' comes before 'you'.\n\nStudent: [Why did he leave early?|Why he left early?]\nTeacher: Even with 'Why', we still need an auxiliary verb (did).\n\nPractice:\n1. [How have you been?|How you have been?]\n2. [What were they doing?|They were doing what?]\n3. [Should I call him?|I should call him?]\n4. [Who are you waiting for?|You are waiting for who?]",
-        "explanation-zh-TW": "即使有疑問詞 (When, Why, How, What, Who)，助動詞依然要放在主詞前面。\n例如: Why did he leave? (正確)\nWhy he left? (錯誤 - 缺少助動詞倒裝)",
-        "explanation-en-US": "Even with question words (When, Why, How, What, Who), the auxiliary verb must come before the subject.\ne.g., Why did he leave? (Correct)\nWhy he left? (Incorrect - missing auxiliary inversion)",
-        "explanation-zh-CN": "即使有疑问词 (When, Why, How, What, Who)，助动词依然要放在主词前面。\n例如: Why did he leave? (正确)\nWhy he left? (错誤 - 缺少助动词倒裝)"
-    },
-    {
-        "id": "q3",
-        "title": "Daily Routine Questions",
-        "content": "[Do you wake up|You wake up] early? [Does she brush|She brushes] her teeth? [Do they eat|They eat] breakfast? [Does he drive|He drives] to work? [Do we start|We start] now?",
-        "explanation-zh-TW": "Yes/No questions with regular verbs need Do/Does at the start.",
-        "explanation-en-US": "Start with Do/Does for simple present questions.",
-        "explanation-zh-CN": "Yes/No questions with regular verbs need Do/Does at the start."
-    },
-    {
-        "id": "q4",
-        "title": "Where and When",
-        "content": "[Where do you live?|Where you live?] [When does it start?|When it starts?] [What do you want?|What you want?] [Why does she cry?|Why she cries?] [How do we go?|How we go?]",
-        "explanation-zh-TW": "Wh- words + Do/Does + Subject + Verb.",
-        "explanation-en-US": "Wh- word + Auxiliary + Subject + Verb.",
-        "explanation-zh-CN": "Wh- words + Do/Does + Subject + Verb."
-    },
-    {
-        "id": "q5",
-        "title": "Past Tense Questions",
-        "content": "[Did you go|You went] to school? [Did she see|She saw] the movie? [Did they play|They played] well? [Did he finish|He finished] his work? [Did it rain|It rained] yesterday?",
-        "explanation-zh-TW": "Past questions use 'Did' + base verb.",
-        "explanation-en-US": "Use 'Did' + base verb for past questions.",
-        "explanation-zh-CN": "Past questions use 'Did' + base verb."
-    },
-    {
-        "id": "q6",
-        "title": "Future Questions",
-        "content": "[Will you come|You will come] tomorrow? [Will it rain|It will rain] soon? [Will they win|They will win]? [Will she angry|Will she be angry]? (Wait, Will she be angry covers Be). [Will he go|He will go]?",
-        "explanation-zh-TW": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!",
-        "explanation-en-US": "Invert 'Will' and Subject.",
-        "explanation-zh-CN": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!"
-    },
-    {
-        "id": "q7",
-        "title": "Can and Could",
-        "content": "[Can you swim|You can swim]? [Could he help|He could help]? [Can we go|We can go]? [Can she sing|She can sing]? [Could you open|You could open] the door?",
-        "explanation-zh-TW": "Modal verbs (Can, Could) move to the front.",
-        "explanation-en-US": "Move Can/Could to the front.",
-        "explanation-zh-CN": "Modal verbs (Can, Could) move to the front."
-    },
-    {
-        "id": "q8",
-        "title": "Is and Are",
-        "content": "[Is he|He is] your brother? [Are they|They are] here? [Is it|It is] cold? [Are we|We are] lost? [Am I|I am] right?",
-        "explanation-zh-TW": "Be verbs (Is, Are, Am) move to the front.",
-        "explanation-en-US": "Move Be verb to the front.",
-        "explanation-zh-CN": "Be verbs (Is, Are, Am) move to the front."
-    },
-    {
-        "id": "q9",
-        "title": "Wh- with Be Verbs",
-        "content": "[Where is|Where be] my bag? [Who is|Who be] that man? [What are|What be] those? [Why are|Why be] you sad? [How is|How be] your mom?",
-        "explanation-zh-TW": "Wh- word + Is/Are + Subject.",
-        "explanation-en-US": "Wh- word + Is/Are + Subject.",
-        "explanation-zh-CN": "Wh- word + Is/Are + Subject."
-    },
-    {
-        "id": "q10",
-        "title": "What doing?",
-        "content": "[What are you doing?|What you are doing?] [Where is he going?|Where he is going?] [Why are they laughing?|Why they are laughing?] [Who is she talking to?|Who she is talking to?] [What is it eating?|What it is eating?]",
-        "explanation-zh-TW": "Question word + Be verb + Subject + V-ing.",
-        "explanation-en-US": "Wh- + Aux + Subj + Verb.",
-        "explanation-zh-CN": "Question word + Be verb + Subject + V-ing."
-    },
-    {
-        "id": "q11",
-        "title": "Have you ever?",
-        "content": "[Have you seen|You have seen] this? [Has she eaten|She has eaten] yet? [Have they finished|They have finished]? [Has he been|He has been] to Japan? [Have we met|We have met]?",
-        "explanation-zh-TW": "Present Perfect Questions: Have/Has + Subject + V3.",
-        "explanation-en-US": "Have/Has + Subject + Past Participle.",
-        "explanation-zh-CN": "Present Perfect Questions: Have/Has + Subject + V3."
-    },
-    {
-        "id": "q12",
-        "title": "Negative Questions",
-        "content": "[Don't you like|You don't like] pizza? [Doesn't she know|She doesn't know]? [Didn't you go|You didn't go]? [Aren't they happy|They aren't happy]? [Isn't it nice|It isn't nice]?",
-        "explanation-zh-TW": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't.",
-        "explanation-en-US": "Start with the negative auxiliary.",
-        "explanation-zh-CN": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't."
-    },
-    {
-        "id": "q13",
-        "title": "Tag Questions (Short)",
-        "content": "You are happy, [aren't you|are you]? She is nice, [isn't she|is she]? He can swim, [can't he|can he]? You like it, [don't you|do you]? They played well, [didn't they|did they]?",
-        "explanation-zh-TW": "Positive sentence -> Negative tag.",
-        "explanation-en-US": "Opposite polarity tag.",
-        "explanation-zh-CN": "Positive sentence -> Negative tag."
-    },
-    {
-        "id": "q14",
-        "title": "Subject Questions",
-        "content": "[Who wants|Who does want] ice cream? [What happened|What did happen]? [Who broke|Who did break] the window? [Who lives|Who does live] here? [What fell|What did fall]?",
-        "explanation-zh-TW": "Asking about the subject: No Do/Does/Did helper needed!",
-        "explanation-en-US": "Subject questions don't use Do/Does/Did.",
-        "explanation-zh-CN": "Asking about the subject: No Do/Does/Did helper needed!"
-    },
-    {
-        "id": "q15",
-        "title": "Polite Requests",
-        "content": "[Would you like|You would like] some tea? [May I have|I may have] a cookie? [Could you help|You could help] me? [Shall we go|We shall go]? [Can I ask|I can ask] a question?",
-        "explanation-zh-TW": "Polite structures move Modal to front.",
-        "explanation-en-US": "Modals moved to front for requests.",
-        "explanation-zh-CN": "Polite structures move Modal to front."
-    },
-    {
-        "id": "q_gen_1",
-        "title": "Where is it?",
-        "content": "1. [Where is the cat?|The cat is where?]\n2. [Where are my keys?|My keys are where?]\n3. [Where do you live?|You live where?]",
-        "explanation-zh-TW": "疑問詞 (Where) 放句首，接著是 Be動詞 (is/are) 或助動詞 (do)。",
-        "explanation-en-US": "Question word (Where) comes first, followed by Be verb or Auxiliary.",
-        "explanation-zh-CN": "疑问词 (Where) 放句首，接着是 Be动词 (is/are) 或助动词 (do)。"
-    },
-    {
-        "id": "q_gen_2",
-        "title": "Who is that?",
-        "content": "1. [Who is that girl?|That girl is who?]\n2. [Who are they?|They are who?]\n3. [Who is calling?|Calling is who?]",
-        "explanation-zh-TW": "Who 放句首。",
-        "explanation-en-US": "Who comes first.",
-        "explanation-zh-CN": "Who 放句首。"
-    },
-    {
-        "id": "q_gen_3",
-        "title": "Comparison",
-        "content": "1. [Is he taller than you?|He is taller than you?]\n2. [Are they faster?|They are faster?]\n3. [Is this better?|This is better?]",
-        "explanation-zh-TW": "把 Be動詞 (Is/Are) 移到句首形成疑問句。",
-        "explanation-en-US": "Move Be verb (Is/Are) to the front.",
-        "explanation-zh-CN": "把 Be动词 (Is/Are) 移到句首形成疑问句。"
-    },
-    {
-        "id": "q_gen_4",
-        "title": "Do you like...",
-        "content": "1. [Do you like ice cream?|You like ice cream?]\n2. [Do they play tennis?|They play tennis?]\n3. [Do we have time?|We have time?]",
-        "explanation-zh-TW": "一般動詞需加助動詞 Do 放句首。",
-        "explanation-en-US": "Use auxiliary 'Do' at the start for regular verbs.",
-        "explanation-zh-CN": "一般动词需加助动词 Do 放句首。"
-    },
-    {
-        "id": "q_gen_5",
-        "title": "Does he...",
-        "content": "1. [Does he know the way?|He knows the way?]\n2. [Does she want water?|She wants water?]\n3. [Does it work?|It works?]",
-        "explanation-zh-TW": "第三人稱單數 (He/She/It) 用 Does 放句首，動詞還原。",
-        "explanation-en-US": "Use 'Does' for He/She/It; revert verb to base form.",
-        "explanation-zh-CN": "第三人称单数 (He/She/It) 用 Does 放句首，动词还圆。"
-    },
-    {
-        "id": "q_gen_6",
-        "title": "Can you...",
-        "content": "1. [Can you fly?|You can fly?]\n2. [Can she swim?|She can swim?]\n3. [Can we go?|We can go?]",
-        "explanation-zh-TW": "助動詞 Can 移到句首。",
-        "explanation-en-US": "Move auxiliary 'Can' to the front.",
-        "explanation-zh-CN": "助动词 Can 移到句首。"
-    },
-    {
-        "id": "q_gen_7",
-        "title": "Will it...",
-        "content": "1. [Will it rain?|It will rain?]\n2. [Will you come?|You will come?]\n3. [Will they win?|They will win?]",
-        "explanation-zh-TW": "助動詞 Will 移到句首。",
-        "explanation-en-US": "Move auxiliary 'Will' to the front.",
-        "explanation-zh-CN": "助动词 Will 移到句首。"
-    },
-    {
-        "id": "q_gen_8",
-        "title": "Why...",
-        "content": "1. [Why are you sad?|You are sad why?]\n2. [Why is he late?|He is late why?]\n3. [Why do birds fly?|Why birds fly?]",
-        "explanation-zh-TW": "Why 放句首，接著倒裝 (are you, is he, do birds)。",
-        "explanation-en-US": "Why comes first, followed by inversion.",
-        "explanation-zh-CN": "Why 放句首，接着倒装 (are you, is he, do birds)。"
-    },
-    {
-        "id": "q_gen_9",
-        "title": "What time...",
-        "content": "1. [What time is it?|What time it is?]\n2. [What time does it start?|What time it starts?]\n3. [What time are we leaving?|What time we are leaving?]",
-        "explanation-zh-TW": "What time 須配合倒裝 (is it, does it start, are we)。",
-        "explanation-en-US": "What time requires inversion (is it, does it start, are we).",
-        "explanation-zh-CN": "What time 须配合倒装 (is it, does it start, are we)。"
-    },
-    {
-        "id": "q_gen_10",
-        "title": "How many...",
-        "content": "1. [How many apples are there?|How many apples there are?]\n2. [How many friends do you have?|How many friends you have?]\n3. [How many days are left?|How many days left?]",
-        "explanation-zh-TW": "How many + 名詞 + 助動詞/Be動詞 + 主詞。",
-        "explanation-en-US": "How many + Noun + Aux/Be + Subject.",
-        "explanation-zh-CN": "How many + 名词 + 助动词/Be动词 + 主语。"
-    },
-    {
-        "id": "q_gen_11",
-        "title": "Did you...",
-        "content": "1. [Did you see that?|You saw that?]\n2. [Did he call?|He called?]\n3. [Did we win?|We won?]",
-        "explanation-zh-TW": "過去式疑問句用 Did 放句首，動詞還原。",
-        "explanation-en-US": "Past tense questions use 'Did' at start; verb reverts to base.",
-        "explanation-zh-CN": "过去式疑问句用 Did 放句首，动词还圆。"
-    },
-    {
-        "id": "q_gen_12",
-        "title": "Were you...",
-        "content": "1. [Were you home?|You were home?]\n2. [Was she sick?|She was sick?]\n3. [Were they happy?|They were happy?]",
-        "explanation-zh-TW": "Be動詞過去式 (Was/Were) 移到句首。",
-        "explanation-en-US": "Move past Be verbs (Was/Were) to front.",
-        "explanation-zh-CN": "Be动词过去式 (Was/Were) 移到句首。"
-    },
-    {
-        "id": "q_gen_13",
-        "title": "Have you...",
-        "content": "1. [Have you finished?|You have finished?]\n2. [Has she run?|She has run?]\n3. [Have they eaten?|They have eaten?]",
-        "explanation-zh-TW": "現在完成式 Have/Has 移到句首。",
-        "explanation-en-US": "Move Have/Has to front for Present Perfect.",
-        "explanation-zh-CN": "现在完成式 Have/Has 移到句首。"
-    },
-    {
-        "id": "q_gen_14",
-        "title": "Should we...",
-        "content": "1. [Should we go?|We should go?]\n2. [Should I stop?|I should stop?]\n3. [Should he help?|He should help?]",
-        "explanation-zh-TW": "助動詞 Should 移到句首。",
-        "explanation-en-US": "Move auxiliary 'Should' to front.",
-        "explanation-zh-CN": "助动词 Should 移到句首。"
-    },
-    {
-        "id": "q_gen_15",
-        "title": "Whose...",
-        "content": "1. [Whose book is this?|Whose book this is?]\n2. [Whose car is that?|Whose car that is?]\n3. [Whose shoes are these?|Whose shoes these are?]",
-        "explanation-zh-TW": "Whose + 名詞 + Be動詞 + 指示代名詞。",
-        "explanation-en-US": "Whose + Noun + Be Verb + Demonstrative.",
-        "explanation-zh-CN": "Whose + 名词 + Be动词 + 指示代名词。"
-    },
-    {
-        "id": "q_gen_16",
-        "title": "Which one...",
-        "content": "1. [Which one do you want?|Which one you want?]\n2. [Which color is best?|Which color best is?]\n3. [Which way is north?|Which way north is?]",
-        "explanation-zh-TW": "Which ... 之後接助動詞或Be動詞。",
-        "explanation-en-US": "Follow Which ... with Aux or Be verb.",
-        "explanation-zh-CN": "Which ... 之后接助动词或Be动词。"
-    },
-    {
-        "id": "q_gen_17",
-        "title": "How much...",
-        "content": "1. [How much is it?|How much it is?]\n2. [How much water do we need?|How much water we need?]\n3. [How much does it cost?|How much it costs?]",
-        "explanation-zh-TW": "How much 用於不可數或詢問價格，需倒裝。",
-        "explanation-en-US": "How much (uncountable/price) requires inversion.",
-        "explanation-zh-CN": "How much 用于不可数或询问价格，需倒装。"
-    },
-    {
-        "id": "q_gen_18",
-        "title": "Am I...",
-        "content": "1. [Am I late?|I am late?]\n2. [Am I right?|I am right?]\n3. [Am I dreaming?|I am dreaming?]",
-        "explanation-zh-TW": "Am 移到主詞 I 前面。",
-        "explanation-en-US": "Move 'Am' before 'I'.",
-        "explanation-zh-CN": "Am 移到主词 I 前面。"
-    },
-    {
-        "id": "q_gen_19",
-        "title": "Are we...",
-        "content": "1. [Are we there yet?|We are there yet?]\n2. [Are we friends?|We are friends?]\n3. [Are we safe?|We are safe?]",
-        "explanation-zh-TW": "Are 移到 We 前面。",
-        "explanation-en-US": "Move 'Are' before 'We'.",
-        "explanation-zh-CN": "Are 移到 We 前面。"
-    },
-    {
-        "id": "q_gen_20",
-        "title": "Is she...",
-        "content": "1. [Is she your sister?|She is your sister?]\n2. [Is she coming?|She is coming?]\n3. [Is she nice?|She is nice?]",
-        "explanation-zh-TW": "Is 移到 She 前面。",
-        "explanation-en-US": "Move 'Is' before 'She'.",
-        "explanation-zh-CN": "Is 移到 She 前面。"
-    },
-    {
-        "id": "q_gen_21",
-        "title": "Is he...",
-        "content": "1. [Is he working?|He is working?]\n2. [Is he busy?|He is busy?]\n3. [Is he taller?|He is taller?]",
-        "explanation-zh-TW": "Is 移到 He 前面。",
-        "explanation-en-US": "Move 'Is' before 'He'.",
-        "explanation-zh-CN": "Is 移到 He 前面。"
-    },
-    {
-        "id": "q_gen_22",
-        "title": "Are they...",
-        "content": "1. [Are they sleeping?|They are sleeping?]\n2. [Are they open?|They are open?]\n3. [Are they yours?|They are yours?]",
-        "explanation-zh-TW": "Are 移到 They 前面。",
-        "explanation-en-US": "Move 'Are' before 'They'.",
-        "explanation-zh-CN": "Are 移到 They 前面。"
-    },
-    {
-        "id": "q_gen_23",
-        "title": "Do I...",
-        "content": "1. [Do I know you?|I know you?]\n2. [Do I look okay?|I look okay?]\n3. [Do I need this?|I need this?]",
-        "explanation-zh-TW": "第一人稱疑問句加 Do。",
-        "explanation-en-US": "Add 'Do' for first person questions.",
-        "explanation-zh-CN": "第一人称疑问句加 Do。"
-    },
-    {
-        "id": "q_gen_24",
-        "title": "Do we...",
-        "content": "1. [Do we have milk?|We have milk?]\n2. [Do we turn left?|We turn left?]\n3. [Do we pay here?|We pay here?]",
-        "explanation-zh-TW": "第一人稱複數加 Do。",
-        "explanation-en-US": "Add 'Do' for 'We'.",
-        "explanation-zh-CN": "第一人称复数加 Do。"
-    },
-    {
-        "id": "q_gen_25",
-        "title": "Do they...",
-        "content": "1. [Do they eat meat?|They eat meat?]\n2. [Do they live here?|They live here?]\n3. [Do they understand?|They understand?]",
-        "explanation-zh-TW": "第三人稱複數加 Do。",
-        "explanation-en-US": "Add 'Do' for 'They'.",
-        "explanation-zh-CN": "第三人称复数加 Do。"
-    },
-    {
-        "id": "q_gen_26",
-        "title": "Does the dog...",
-        "content": "1. [Does the dog bite?|The dog bites?]\n2. [Does the car run?|The car runs?]\n3. [Does the sun shine?|The sun shines?]",
-        "explanation-zh-TW": "單數名詞加 Does，動詞還原。",
-        "explanation-en-US": "Singular noun uses 'Does', verb base form.",
-        "explanation-zh-CN": "单数名词加 Does，动词还圆。"
-    },
-    {
-        "id": "q_gen_27",
-        "title": "May I...",
-        "content": "1. [May I help you?|I may help you?]\n2. [May I leave?|I may leave?]\n3. [May I sit?|I may sit?]",
-        "explanation-zh-TW": "May 是請求許可，移到句首。",
-        "explanation-en-US": "May (permission) moves to front.",
-        "explanation-zh-CN": "May 是请求许可，移到句首。"
-    },
-    {
-        "id": "q_gen_28",
-        "title": "Must we...",
-        "content": "1. [Must we wait?|We must wait?]\n2. [Must I go?|I must go?]\n3. [Must they pay?|They must pay?]",
-        "explanation-zh-TW": "Must (必須) 移到句首。",
-        "explanation-en-US": "Move Must to front.",
-        "explanation-zh-CN": "Must (必须) 移到句首。"
-    },
-    {
-        "id": "q_gen_29",
-        "title": "Could you...",
-        "content": "1. [Could you help?|You could help?]\n2. [Could I try?|I could try?]\n3. [Could he hear?|He could hear?]",
-        "explanation-zh-TW": "Could (Can的过去式或委婉用法) 移到句首。",
-        "explanation-en-US": "Move Could to front.",
-        "explanation-zh-CN": "Could (Can的过去式或委婉用法) 移到句首。"
-    },
-    {
-        "id": "q_gen_30",
-        "title": "Would you...",
-        "content": "1. [Would you like tea?|You would like tea?]\n2. [Would they mind?|They would mind?]\n3. [Would it be okay?|It would be okay?]",
-        "explanation-zh-TW": "Would 移到句首。",
-        "explanation-en-US": "Move Would to front.",
-        "explanation-zh-CN": "Would 移到句首。"
-    },
-    {
-        "id": "q_gen_31",
-        "title": "Isn't it...",
-        "content": "1. [Isn't it cold?|It isn't cold?]\n2. [Aren't you tired?|You aren't tired?]\n3. [Doesn't he know?|He doesn't know?]",
-        "explanation-zh-TW": "否定疑問句 (Isn't, Aren't, Doesn't) 放句首表確認。",
-        "explanation-en-US": "Negative questions start with contraction.",
-        "explanation-zh-CN": "否定疑问句 (Isn't, Aren't, Doesn't) 放句首表确认。"
-    },
-    {
-        "id": "q_gen_32",
-        "title": "How far...",
-        "content": "1. [How far is it?|How far it is?]\n2. [How far can you run?|How far you can run?]\n3. [How far did they go?|How far they went?]",
-        "explanation-zh-TW": "How far 詢問距離，需倒裝。",
-        "explanation-en-US": "How far (distance) implies inversion.",
-        "explanation-zh-CN": "How far 询问距离，需倒装。"
-    },
-    {
-        "id": "q_gen_33",
-        "title": "How long...",
-        "content": "1. [How long is the class?|How long the class is?]\n2. [How long have you waited?|How long you have waited?]\n3. [How long does it take?|How long it takes?]",
-        "explanation-zh-TW": "How long 詢問時間長度，需倒裝。",
-        "explanation-en-US": "How long (duration) implies inversion.",
-        "explanation-zh-CN": "How long 询问时间长度，需倒装。"
-    },
-    {
-        "id": "q_gen_34",
-        "title": "How often...",
-        "content": "1. [How often do you exercise?|How often you exercise?]\n2. [How often does it rain?|How often it rains?]\n3. [How often are they late?|How often they are late?]",
-        "explanation-zh-TW": "How often 詢問頻率，需倒裝。",
-        "explanation-en-US": "How often (frequency) implies inversion.",
-        "explanation-zh-CN": "How often 询问频率，需倒装。"
-    },
-    {
-        "id": "q_gen_35",
-        "title": "Review",
-        "content": "1. [Where are we?|We are where?]\n2. [Is it okay?|It is okay?]\n3. [Do you understand?|You understand?]",
-        "explanation-zh-TW": "總複習：記得將助動詞或Be動詞移到句首。",
-        "explanation-en-US": "Review: Remember to move Aux/Be to front.",
-        "explanation-zh-CN": "总复习：记得将助动词或Be动词移到句首。"
-    }
+  {
+    "id": "q1",
+    "title": "English",
+    "content": "Teacher: Today we will learn how to form questions in English. In Chinese, we often just add a particle or change intonation, but English changes the word order.\n\nStudent: [Where are you going?|You are going where?] \nTeacher: Good. We move the auxiliary verb 'are' to the front.\n\nStudent: [Do you like this?|You like this?] \nTeacher: Yes. For regular verbs, we add 'Do' at the start.\n\nLet's practice more:\n\n1. [What is your name?|Your name is what?]\n2. [Are you ready?|You are ready?]\n3. [Does she speak English?|She speaks English?]\n4. [Where does he live?|He lives where?]\n5. [Can you help me?|You can help me?]",
+    "explanation-zh-TW": "英文疑問句需要調整語序。\n1. Be動詞 (am, is, are) 或助動詞 (can, will) 要移到主詞前面。\n   例如: You are ready. -> Are you ready?\n2. 一般動詞疑問句需在句首加助動詞 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑問詞 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?",
+    "explanation-en-US": "English questions require changing the word order.\n1. Move the Be verb (am, is, are) or auxiliary verb (can, will) before the subject.\n   e.g., You are ready. -> Are you ready?\n2. For other verbs, use the auxiliary 'Do' or 'Does' at the beginning.\n   e.g., You like this. -> Do you like this?\n3. Question words (Where, What, How) always go at the very front.\n   e.g., Where are you going?",
+    "explanation-zh-CN": "英文疑问句需要调整语序。\n1. Be动词 (am, is, are) 或助动词 (can, will) 要移到主词前面。\n   例如: You are ready. -> Are you ready?\n2. 一般动词疑问句需在句首加助动词 Do/Does。\n   例如: You like this. -> Do you like this?\n3. 疑问词 (Where, What, How) 永遠放在句首。\n   例如: Where are you going?"
+  },
+  {
+    "id": "q2",
+    "title": "Student",
+    "content": "Teacher: Now let's try some longer questions.\n\nStudent: [When will you arrive?|You will arrive when?]\nTeacher: 'Will' comes before 'you'.\n\nStudent: [Why did he leave early?|Why he left early?]\nTeacher: Even with 'Why', we still need an auxiliary verb (did).\n\nPractice:\n1. [How have you been?|How you have been?]\n2. [What were they doing?|They were doing what?]\n3. [Should I call him?|I should call him?]\n4. [Who are you waiting for?|You are waiting for who?]",
+    "explanation-zh-TW": "即使有疑問詞 (When, Why, How, What, Who)，助動詞依然要放在主詞前面。\n例如: Why did he leave? (正確)\nWhy he left? (錯誤 - 缺少助動詞倒裝)",
+    "explanation-en-US": "Even with question words (When, Why, How, What, Who), the auxiliary verb must come before the subject.\ne.g., Why did he leave? (Correct)\nWhy he left? (Incorrect - missing auxiliary inversion)",
+    "explanation-zh-CN": "即使有疑问词 (When, Why, How, What, Who)，助动词依然要放在主词前面。\n例如: Why did he leave? (正确)\nWhy he left? (错誤 - 缺少助动词倒裝)"
+  },
+  {
+    "id": "q3",
+    "title": "Early",
+    "content": "[Do you wake up|You wake up] early? [Does she brush|She brushes] her teeth? [Do they eat|They eat] breakfast? [Does he drive|He drives] to work? [Do we start|We start] now?",
+    "explanation-zh-TW": "Yes/No questions with regular verbs need Do/Does at the start.",
+    "explanation-en-US": "Start with Do/Does for simple present questions.",
+    "explanation-zh-CN": "Yes/No questions with regular verbs need Do/Does at the start."
+  },
+  {
+    "id": "q4",
+    "title": "Live?",
+    "content": "[Where do you live?|Where you live?] [When does it start?|When it starts?] [What do you want?|What you want?] [Why does she cry?|Why she cries?] [How do we go?|How we go?]",
+    "explanation-zh-TW": "Wh- words + Do/Does + Subject + Verb.",
+    "explanation-en-US": "Wh- word + Auxiliary + Subject + Verb.",
+    "explanation-zh-CN": "Wh- words + Do/Does + Subject + Verb."
+  },
+  {
+    "id": "q5",
+    "title": "School",
+    "content": "[Did you go|You went] to school? [Did she see|She saw] the movie? [Did they play|They played] well? [Did he finish|He finished] his work? [Did it rain|It rained] yesterday?",
+    "explanation-zh-TW": "Past questions use 'Did' + base verb.",
+    "explanation-en-US": "Use 'Did' + base verb for past questions.",
+    "explanation-zh-CN": "Past questions use 'Did' + base verb."
+  },
+  {
+    "id": "q6",
+    "title": "Wait",
+    "content": "[Will you come|You will come] tomorrow? [Will it rain|It will rain] soon? [Will they win|They will win]? [Will she angry|Will she be angry]? (Wait, Will she be angry covers Be). [Will he go|He will go]?",
+    "explanation-zh-TW": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!",
+    "explanation-en-US": "Invert 'Will' and Subject.",
+    "explanation-zh-CN": "Will + Subject + Verb. Don't forget 'be' if there's no action verb!"
+  },
+  {
+    "id": "q7",
+    "title": "Swim",
+    "content": "[Can you swim|You can swim]? [Could he help|He could help]? [Can we go|We can go]? [Can she sing|She can sing]? [Could you open|You could open] the door?",
+    "explanation-zh-TW": "Modal verbs (Can, Could) move to the front.",
+    "explanation-en-US": "Move Can/Could to the front.",
+    "explanation-zh-CN": "Modal verbs (Can, Could) move to the front."
+  },
+  {
+    "id": "q8",
+    "title": "Brother",
+    "content": "[Is he|He is] your brother? [Are they|They are] here? [Is it|It is] cold? [Are we|We are] lost? [Am I|I am] right?",
+    "explanation-zh-TW": "Be verbs (Is, Are, Am) move to the front.",
+    "explanation-en-US": "Move Be verb to the front.",
+    "explanation-zh-CN": "Be verbs (Is, Are, Am) move to the front."
+  },
+  {
+    "id": "q9",
+    "title": "Bag",
+    "content": "[Where is|Where be] my bag? [Who is|Who be] that man? [What are|What be] those? [Why are|Why be] you sad? [How is|How be] your mom?",
+    "explanation-zh-TW": "Wh- word + Is/Are + Subject.",
+    "explanation-en-US": "Wh- word + Is/Are + Subject.",
+    "explanation-zh-CN": "Wh- word + Is/Are + Subject."
+  },
+  {
+    "id": "q10",
+    "title": "Doing?",
+    "content": "[What are you doing?|What you are doing?] [Where is he going?|Where he is going?] [Why are they laughing?|Why they are laughing?] [Who is she talking to?|Who she is talking to?] [What is it eating?|What it is eating?]",
+    "explanation-zh-TW": "Question word + Be verb + Subject + V-ing.",
+    "explanation-en-US": "Wh- + Aux + Subj + Verb.",
+    "explanation-zh-CN": "Question word + Be verb + Subject + V-ing."
+  },
+  {
+    "id": "q11",
+    "title": "Japan",
+    "content": "[Have you seen|You have seen] this? [Has she eaten|She has eaten] yet? [Have they finished|They have finished]? [Has he been|He has been] to Japan? [Have we met|We have met]?",
+    "explanation-zh-TW": "Present Perfect Questions: Have/Has + Subject + V3.",
+    "explanation-en-US": "Have/Has + Subject + Past Participle.",
+    "explanation-zh-CN": "Present Perfect Questions: Have/Has + Subject + V3."
+  },
+  {
+    "id": "q12",
+    "title": "Like",
+    "content": "[Don't you like|You don't like] pizza? [Doesn't she know|She doesn't know]? [Didn't you go|You didn't go]? [Aren't they happy|They aren't happy]? [Isn't it nice|It isn't nice]?",
+    "explanation-zh-TW": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't.",
+    "explanation-en-US": "Start with the negative auxiliary.",
+    "explanation-zh-CN": "Negative questions start with Don't, Doesn't, Didn't, Isn't, Aren't."
+  },
+  {
+    "id": "q13",
+    "title": "Happy",
+    "content": "You are happy, [aren't you|are you]? She is nice, [isn't she|is she]? He can swim, [can't he|can he]? You like it, [don't you|do you]? They played well, [didn't they|did they]?",
+    "explanation-zh-TW": "Positive sentence -> Negative tag.",
+    "explanation-en-US": "Opposite polarity tag.",
+    "explanation-zh-CN": "Positive sentence -> Negative tag."
+  },
+  {
+    "id": "q14",
+    "title": "Want",
+    "content": "[Who wants|Who does want] ice cream? [What happened|What did happen]? [Who broke|Who did break] the window? [Who lives|Who does live] here? [What fell|What did fall]?",
+    "explanation-zh-TW": "Asking about the subject: No Do/Does/Did helper needed!",
+    "explanation-en-US": "Subject questions don't use Do/Does/Did.",
+    "explanation-zh-CN": "Asking about the subject: No Do/Does/Did helper needed!"
+  },
+  {
+    "id": "q15",
+    "title": "Like",
+    "content": "[Would you like|You would like] some tea? [May I have|I may have] a cookie? [Could you help|You could help] me? [Shall we go|We shall go]? [Can I ask|I can ask] a question?",
+    "explanation-zh-TW": "Polite structures move Modal to front.",
+    "explanation-en-US": "Modals moved to front for requests.",
+    "explanation-zh-CN": "Polite structures move Modal to front."
+  },
+  {
+    "id": "q_gen_1",
+    "title": "Cat?",
+    "content": "1. [Where is the cat?|The cat is where?]\n2. [Where are my keys?|My keys are where?]\n3. [Where do you live?|You live where?]",
+    "explanation-zh-TW": "疑問詞 (Where) 放句首，接著是 Be動詞 (is/are) 或助動詞 (do)。",
+    "explanation-en-US": "Question word (Where) comes first, followed by Be verb or Auxiliary.",
+    "explanation-zh-CN": "疑问词 (Where) 放句首，接着是 Be动词 (is/are) 或助动词 (do)。"
+  },
+  {
+    "id": "q_gen_2",
+    "title": "Girl?",
+    "content": "1. [Who is that girl?|That girl is who?]\n2. [Who are they?|They are who?]\n3. [Who is calling?|Calling is who?]",
+    "explanation-zh-TW": "Who 放句首。",
+    "explanation-en-US": "Who comes first.",
+    "explanation-zh-CN": "Who 放句首。"
+  },
+  {
+    "id": "q_gen_3",
+    "title": "You?",
+    "content": "1. [Is he taller than you?|He is taller than you?]\n2. [Are they faster?|They are faster?]\n3. [Is this better?|This is better?]",
+    "explanation-zh-TW": "把 Be動詞 (Is/Are) 移到句首形成疑問句。",
+    "explanation-en-US": "Move Be verb (Is/Are) to the front.",
+    "explanation-zh-CN": "把 Be动词 (Is/Are) 移到句首形成疑问句。"
+  },
+  {
+    "id": "q_gen_4",
+    "title": "Cream?",
+    "content": "1. [Do you like ice cream?|You like ice cream?]\n2. [Do they play tennis?|They play tennis?]\n3. [Do we have time?|We have time?]",
+    "explanation-zh-TW": "一般動詞需加助動詞 Do 放句首。",
+    "explanation-en-US": "Use auxiliary 'Do' at the start for regular verbs.",
+    "explanation-zh-CN": "一般动词需加助动词 Do 放句首。"
+  },
+  {
+    "id": "q_gen_5",
+    "title": "Way?",
+    "content": "1. [Does he know the way?|He knows the way?]\n2. [Does she want water?|She wants water?]\n3. [Does it work?|It works?]",
+    "explanation-zh-TW": "第三人稱單數 (He/She/It) 用 Does 放句首，動詞還原。",
+    "explanation-en-US": "Use 'Does' for He/She/It; revert verb to base form.",
+    "explanation-zh-CN": "第三人称单数 (He/She/It) 用 Does 放句首，动词还圆。"
+  },
+  {
+    "id": "q_gen_6",
+    "title": "Fly?",
+    "content": "1. [Can you fly?|You can fly?]\n2. [Can she swim?|She can swim?]\n3. [Can we go?|We can go?]",
+    "explanation-zh-TW": "助動詞 Can 移到句首。",
+    "explanation-en-US": "Move auxiliary 'Can' to the front.",
+    "explanation-zh-CN": "助动词 Can 移到句首。"
+  },
+  {
+    "id": "q_gen_7",
+    "title": "Rain?",
+    "content": "1. [Will it rain?|It will rain?]\n2. [Will you come?|You will come?]\n3. [Will they win?|They will win?]",
+    "explanation-zh-TW": "助動詞 Will 移到句首。",
+    "explanation-en-US": "Move auxiliary 'Will' to the front.",
+    "explanation-zh-CN": "助动词 Will 移到句首。"
+  },
+  {
+    "id": "q_gen_8",
+    "title": "Sad?",
+    "content": "1. [Why are you sad?|You are sad why?]\n2. [Why is he late?|He is late why?]\n3. [Why do birds fly?|Why birds fly?]",
+    "explanation-zh-TW": "Why 放句首，接著倒裝 (are you, is he, do birds)。",
+    "explanation-en-US": "Why comes first, followed by inversion.",
+    "explanation-zh-CN": "Why 放句首，接着倒装 (are you, is he, do birds)。"
+  },
+  {
+    "id": "q_gen_9",
+    "title": "It?",
+    "content": "1. [What time is it?|What time it is?]\n2. [What time does it start?|What time it starts?]\n3. [What time are we leaving?|What time we are leaving?]",
+    "explanation-zh-TW": "What time 須配合倒裝 (is it, does it start, are we)。",
+    "explanation-en-US": "What time requires inversion (is it, does it start, are we).",
+    "explanation-zh-CN": "What time 须配合倒装 (is it, does it start, are we)。"
+  },
+  {
+    "id": "q_gen_10",
+    "title": "There?",
+    "content": "1. [How many apples are there?|How many apples there are?]\n2. [How many friends do you have?|How many friends you have?]\n3. [How many days are left?|How many days left?]",
+    "explanation-zh-TW": "How many + 名詞 + 助動詞/Be動詞 + 主詞。",
+    "explanation-en-US": "How many + Noun + Aux/Be + Subject.",
+    "explanation-zh-CN": "How many + 名词 + 助动词/Be动词 + 主语。"
+  },
+  {
+    "id": "q_gen_11",
+    "title": "That?",
+    "content": "1. [Did you see that?|You saw that?]\n2. [Did he call?|He called?]\n3. [Did we win?|We won?]",
+    "explanation-zh-TW": "過去式疑問句用 Did 放句首，動詞還原。",
+    "explanation-en-US": "Past tense questions use 'Did' at start; verb reverts to base.",
+    "explanation-zh-CN": "过去式疑问句用 Did 放句首，动词还圆。"
+  },
+  {
+    "id": "q_gen_12",
+    "title": "Home?",
+    "content": "1. [Were you home?|You were home?]\n2. [Was she sick?|She was sick?]\n3. [Were they happy?|They were happy?]",
+    "explanation-zh-TW": "Be動詞過去式 (Was/Were) 移到句首。",
+    "explanation-en-US": "Move past Be verbs (Was/Were) to front.",
+    "explanation-zh-CN": "Be动词过去式 (Was/Were) 移到句首。"
+  },
+  {
+    "id": "q_gen_13",
+    "title": "Finished?",
+    "content": "1. [Have you finished?|You have finished?]\n2. [Has she run?|She has run?]\n3. [Have they eaten?|They have eaten?]",
+    "explanation-zh-TW": "現在完成式 Have/Has 移到句首。",
+    "explanation-en-US": "Move Have/Has to front for Present Perfect.",
+    "explanation-zh-CN": "现在完成式 Have/Has 移到句首。"
+  },
+  {
+    "id": "q_gen_14",
+    "title": "Go?",
+    "content": "1. [Should we go?|We should go?]\n2. [Should I stop?|I should stop?]\n3. [Should he help?|He should help?]",
+    "explanation-zh-TW": "助動詞 Should 移到句首。",
+    "explanation-en-US": "Move auxiliary 'Should' to front.",
+    "explanation-zh-CN": "助动词 Should 移到句首。"
+  },
+  {
+    "id": "q_gen_15",
+    "title": "This?",
+    "content": "1. [Whose book is this?|Whose book this is?]\n2. [Whose car is that?|Whose car that is?]\n3. [Whose shoes are these?|Whose shoes these are?]",
+    "explanation-zh-TW": "Whose + 名詞 + Be動詞 + 指示代名詞。",
+    "explanation-en-US": "Whose + Noun + Be Verb + Demonstrative.",
+    "explanation-zh-CN": "Whose + 名词 + Be动词 + 指示代名词。"
+  },
+  {
+    "id": "q_gen_16",
+    "title": "Want?",
+    "content": "1. [Which one do you want?|Which one you want?]\n2. [Which color is best?|Which color best is?]\n3. [Which way is north?|Which way north is?]",
+    "explanation-zh-TW": "Which ... 之後接助動詞或Be動詞。",
+    "explanation-en-US": "Follow Which ... with Aux or Be verb.",
+    "explanation-zh-CN": "Which ... 之后接助动词或Be动词。"
+  },
+  {
+    "id": "q_gen_17",
+    "title": "It?",
+    "content": "1. [How much is it?|How much it is?]\n2. [How much water do we need?|How much water we need?]\n3. [How much does it cost?|How much it costs?]",
+    "explanation-zh-TW": "How much 用於不可數或詢問價格，需倒裝。",
+    "explanation-en-US": "How much (uncountable/price) requires inversion.",
+    "explanation-zh-CN": "How much 用于不可数或询问价格，需倒装。"
+  },
+  {
+    "id": "q_gen_18",
+    "title": "Late?",
+    "content": "1. [Am I late?|I am late?]\n2. [Am I right?|I am right?]\n3. [Am I dreaming?|I am dreaming?]",
+    "explanation-zh-TW": "Am 移到主詞 I 前面。",
+    "explanation-en-US": "Move 'Am' before 'I'.",
+    "explanation-zh-CN": "Am 移到主词 I 前面。"
+  },
+  {
+    "id": "q_gen_19",
+    "title": "Yet?",
+    "content": "1. [Are we there yet?|We are there yet?]\n2. [Are we friends?|We are friends?]\n3. [Are we safe?|We are safe?]",
+    "explanation-zh-TW": "Are 移到 We 前面。",
+    "explanation-en-US": "Move 'Are' before 'We'.",
+    "explanation-zh-CN": "Are 移到 We 前面。"
+  },
+  {
+    "id": "q_gen_20",
+    "title": "Sister?",
+    "content": "1. [Is she your sister?|She is your sister?]\n2. [Is she coming?|She is coming?]\n3. [Is she nice?|She is nice?]",
+    "explanation-zh-TW": "Is 移到 She 前面。",
+    "explanation-en-US": "Move 'Is' before 'She'.",
+    "explanation-zh-CN": "Is 移到 She 前面。"
+  },
+  {
+    "id": "q_gen_21",
+    "title": "Working?",
+    "content": "1. [Is he working?|He is working?]\n2. [Is he busy?|He is busy?]\n3. [Is he taller?|He is taller?]",
+    "explanation-zh-TW": "Is 移到 He 前面。",
+    "explanation-en-US": "Move 'Is' before 'He'.",
+    "explanation-zh-CN": "Is 移到 He 前面。"
+  },
+  {
+    "id": "q_gen_22",
+    "title": "Sleeping?",
+    "content": "1. [Are they sleeping?|They are sleeping?]\n2. [Are they open?|They are open?]\n3. [Are they yours?|They are yours?]",
+    "explanation-zh-TW": "Are 移到 They 前面。",
+    "explanation-en-US": "Move 'Are' before 'They'.",
+    "explanation-zh-CN": "Are 移到 They 前面。"
+  },
+  {
+    "id": "q_gen_23",
+    "title": "You?",
+    "content": "1. [Do I know you?|I know you?]\n2. [Do I look okay?|I look okay?]\n3. [Do I need this?|I need this?]",
+    "explanation-zh-TW": "第一人稱疑問句加 Do。",
+    "explanation-en-US": "Add 'Do' for first person questions.",
+    "explanation-zh-CN": "第一人称疑问句加 Do。"
+  },
+  {
+    "id": "q_gen_24",
+    "title": "Milk?",
+    "content": "1. [Do we have milk?|We have milk?]\n2. [Do we turn left?|We turn left?]\n3. [Do we pay here?|We pay here?]",
+    "explanation-zh-TW": "第一人稱複數加 Do。",
+    "explanation-en-US": "Add 'Do' for 'We'.",
+    "explanation-zh-CN": "第一人称复数加 Do。"
+  },
+  {
+    "id": "q_gen_25",
+    "title": "Meat?",
+    "content": "1. [Do they eat meat?|They eat meat?]\n2. [Do they live here?|They live here?]\n3. [Do they understand?|They understand?]",
+    "explanation-zh-TW": "第三人稱複數加 Do。",
+    "explanation-en-US": "Add 'Do' for 'They'.",
+    "explanation-zh-CN": "第三人称复数加 Do。"
+  },
+  {
+    "id": "q_gen_26",
+    "title": "Bite?",
+    "content": "1. [Does the dog bite?|The dog bites?]\n2. [Does the car run?|The car runs?]\n3. [Does the sun shine?|The sun shines?]",
+    "explanation-zh-TW": "單數名詞加 Does，動詞還原。",
+    "explanation-en-US": "Singular noun uses 'Does', verb base form.",
+    "explanation-zh-CN": "单数名词加 Does，动词还圆。"
+  },
+  {
+    "id": "q_gen_27",
+    "title": "You?",
+    "content": "1. [May I help you?|I may help you?]\n2. [May I leave?|I may leave?]\n3. [May I sit?|I may sit?]",
+    "explanation-zh-TW": "May 是請求許可，移到句首。",
+    "explanation-en-US": "May (permission) moves to front.",
+    "explanation-zh-CN": "May 是请求许可，移到句首。"
+  },
+  {
+    "id": "q_gen_28",
+    "title": "Wait?",
+    "content": "1. [Must we wait?|We must wait?]\n2. [Must I go?|I must go?]\n3. [Must they pay?|They must pay?]",
+    "explanation-zh-TW": "Must (必須) 移到句首。",
+    "explanation-en-US": "Move Must to front.",
+    "explanation-zh-CN": "Must (必须) 移到句首。"
+  },
+  {
+    "id": "q_gen_29",
+    "title": "Help?",
+    "content": "1. [Could you help?|You could help?]\n2. [Could I try?|I could try?]\n3. [Could he hear?|He could hear?]",
+    "explanation-zh-TW": "Could (Can的过去式或委婉用法) 移到句首。",
+    "explanation-en-US": "Move Could to front.",
+    "explanation-zh-CN": "Could (Can的过去式或委婉用法) 移到句首。"
+  },
+  {
+    "id": "q_gen_30",
+    "title": "Tea?",
+    "content": "1. [Would you like tea?|You would like tea?]\n2. [Would they mind?|They would mind?]\n3. [Would it be okay?|It would be okay?]",
+    "explanation-zh-TW": "Would 移到句首。",
+    "explanation-en-US": "Move Would to front.",
+    "explanation-zh-CN": "Would 移到句首。"
+  },
+  {
+    "id": "q_gen_31",
+    "title": "Cold?",
+    "content": "1. [Isn't it cold?|It isn't cold?]\n2. [Aren't you tired?|You aren't tired?]\n3. [Doesn't he know?|He doesn't know?]",
+    "explanation-zh-TW": "否定疑問句 (Isn't, Aren't, Doesn't) 放句首表確認。",
+    "explanation-en-US": "Negative questions start with contraction.",
+    "explanation-zh-CN": "否定疑问句 (Isn't, Aren't, Doesn't) 放句首表确认。"
+  },
+  {
+    "id": "q_gen_32",
+    "title": "It?",
+    "content": "1. [How far is it?|How far it is?]\n2. [How far can you run?|How far you can run?]\n3. [How far did they go?|How far they went?]",
+    "explanation-zh-TW": "How far 詢問距離，需倒裝。",
+    "explanation-en-US": "How far (distance) implies inversion.",
+    "explanation-zh-CN": "How far 询问距离，需倒装。"
+  },
+  {
+    "id": "q_gen_33",
+    "title": "Class?",
+    "content": "1. [How long is the class?|How long the class is?]\n2. [How long have you waited?|How long you have waited?]\n3. [How long does it take?|How long it takes?]",
+    "explanation-zh-TW": "How long 詢問時間長度，需倒裝。",
+    "explanation-en-US": "How long (duration) implies inversion.",
+    "explanation-zh-CN": "How long 询问时间长度，需倒装。"
+  },
+  {
+    "id": "q_gen_34",
+    "title": "Exercise?",
+    "content": "1. [How often do you exercise?|How often you exercise?]\n2. [How often does it rain?|How often it rains?]\n3. [How often are they late?|How often they are late?]",
+    "explanation-zh-TW": "How often 詢問頻率，需倒裝。",
+    "explanation-en-US": "How often (frequency) implies inversion.",
+    "explanation-zh-CN": "How often 询问频率，需倒装。"
+  },
+  {
+    "id": "q_gen_35",
+    "title": "We?",
+    "content": "1. [Where are we?|We are where?]\n2. [Is it okay?|It is okay?]\n3. [Do you understand?|You understand?]",
+    "explanation-zh-TW": "總複習：記得將助動詞或Be動詞移到句首。",
+    "explanation-en-US": "Review: Remember to move Aux/Be to front.",
+    "explanation-zh-CN": "总复习：记得将助动词或Be动词移到句首。"
+  }
 ]

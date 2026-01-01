@@ -1,104 +1,104 @@
 [
   {
-    "title": "Comparatives",
+    "title": "Faster",
     "content": "He is [faster|more fast] than me.",
     "explanationEnUs": "One-syllable adjectives usually take -er.",
     "explanationZhTw": "單音節形容詞通常加 -er。",
     "explanationZhCn": "单音节形容词通常加 -er。"
   },
   {
-    "title": "Comparatives",
+    "title": "Expensive",
     "content": "This car is [more expensive|expensiver] than mine.",
     "explanationEnUs": "Adjectives with 3+ syllables use 'more'.",
     "explanationZhTw": "三個音節以上的形容詞使用 'more'。",
     "explanationZhCn": "三个音节以上的形容词使用 'more'。"
   },
   {
-    "title": "Comparatives",
+    "title": "Happier",
     "content": "She is [happier|more happy] now.",
     "explanationEnUs": "Adjectives ending in 'y' change 'y' to 'i' and add -er.",
     "explanationZhTw": "結尾為 'y' 的形容詞，去 'y' 加 -er。",
     "explanationZhCn": "结尾为 'y' 的形容词，去 'y' 加 -er。"
   },
   {
-    "title": "Superlatives",
+    "title": "Biggest",
     "content": "This is the [biggest|most big] building in the city.",
     "explanationEnUs": "Short adjectives double the final consonant and add -est.",
     "explanationZhTw": "短形容詞重複字尾子音並加 -est。",
     "explanationZhCn": "短形容词重复字尾辅音并加 -est。"
   },
   {
-    "title": "Superlatives",
+    "title": "Intelligent",
     "content": "He is the [most intelligent|intelligentest] student.",
     "explanationEnUs": "Long adjectives take 'most'.",
     "explanationZhTw": "長形容詞使用 'most'。",
     "explanationZhCn": "长形容词使用 'most'。"
   },
   {
-    "title": "Irregular Comparisons",
+    "title": "Better",
     "content": "This pizza is [better|gooder] than that one.",
     "explanationEnUs": "'Good' is irregular. Comparative is 'better'.",
     "explanationZhTw": "'Good' 是不規則的。比較級是 'better'。",
     "explanationZhCn": "'Good' 是不规则的。比较级是 'better'。"
   },
   {
-    "title": "Irregular Comparisons",
+    "title": "Worst",
     "content": "It is the [worst|baddest] movie ever.",
     "explanationEnUs": "'Bad' is irregular. Superlative is 'worst'.",
     "explanationZhTw": "'Bad' 是不規則的。最高級是 'worst'。",
     "explanationZhCn": "'Bad' 是不规则的。最高级是 'worst'。"
   },
   {
-    "title": "Equality",
+    "title": "Tall",
     "content": "He is as [tall|taller] as his brother.",
     "explanationEnUs": "Use the base form of the adjective between 'as...as'.",
     "explanationZhTw": "在 'as...as' 之間使用形容詞原形。",
     "explanationZhCn": "在 'as...as' 之间使用形容词原形。"
   },
   {
-    "title": "Comparatives",
+    "title": "Worse",
     "content": "The weather is getting [worse|badder].",
     "explanationEnUs": "Comparative of 'bad' is 'worse'.",
     "explanationZhTw": "'Bad' 的比較級是 'worse'。",
     "explanationZhCn": "'Bad' 的比较级是 'worse'。"
   },
   {
-    "title": "Comparatives",
+    "title": "Brad",
     "content": "Who is [more famous|famouser], Brad or Tom?",
     "explanationEnUs": "'Famous' uses 'more' because it has two syllables and doesn't end in 'y'.",
     "explanationZhTw": "'Famous' 使用 'more'，因為它是雙音節且不以 'y' 結尾。",
     "explanationZhCn": "'Famous' 使用 'more'，因为它是双音节且不以 'y' 结尾。"
   },
   {
-    "title": "Superlatives",
+    "title": "Happiest",
     "content": "It was the [happiest|most happy] day of my life.",
     "explanationEnUs": "Adjectives ending in 'y' take -est.",
     "explanationZhTw": "以 'y' 結尾的形容詞加 -est。",
     "explanationZhCn": "以 'y' 结尾的形容词加 -est。"
   },
   {
-    "title": "Comparatives",
+    "title": "Slowly",
     "content": "Please drive [more slowly|slowlier].",
     "explanationEnUs": "Adverbs ending in -ly usually use 'more'.",
     "explanationZhTw": "以 -ly 結尾的副詞通常使用 'more'。",
     "explanationZhCn": "以 -ly 结尾的副词通常使用 'more'。"
   },
   {
-    "title": "Irregular Comparisons",
+    "title": "Further",
     "content": "It is [further|farer] than I thought.",
     "explanationEnUs": "'Far' becomes 'further' or 'farther'.",
     "explanationZhTw": "'Far' 變成 'further' 或 'farther'。",
     "explanationZhCn": "'Far' 变成 'further' 或 'farther'。"
   },
   {
-    "title": "Superlatives",
+    "title": "Best",
     "content": "She is the [best|goodest] singer here.",
     "explanationEnUs": "Superlative of 'good' is 'best'.",
     "explanationZhTw": "'Good' 的最高級是 'best'。",
     "explanationZhCn": "'Good' 的最高级是 'best'。"
   },
   {
-    "title": "Equality",
+    "title": "Hot",
     "content": "It is not so [hot|hotter] as yesterday.",
     "explanationEnUs": "Use base form in negative equality too.",
     "explanationZhTw": "否定同級比較也使用原形。",

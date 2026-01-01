@@ -86,13 +86,29 @@ class ProgressProvider extends ChangeNotifier {
   // Track auto-navigation state per session
   final Set<String> _autoNavigatedCategories = {};
 
+  // Safety: Track time to prevent rapid loops
+  final Map<String, DateTime> _navTimestamps = {};
+  static const _cooldown = Duration(seconds: 10);
+
   bool hasAutoNavigated(String categoryId) {
-    return _autoNavigatedCategories.contains(categoryId);
+    if (_autoNavigatedCategories.contains(categoryId)) {
+      return true;
+    }
+
+    // Safety check: if we navigated here recently, assume true to block loop
+    final lastTime = _navTimestamps[categoryId];
+    if (lastTime != null && DateTime.now().difference(lastTime) < _cooldown) {
+      debugPrint('ProgressProvider: Blocking auto-nav loop for $categoryId');
+      return true;
+    }
+
+    return false;
   }
 
   void markAutoNavigated(String categoryId) {
     _autoNavigatedCategories.add(categoryId);
-    // No need to notify listeners as this doesn't affect UI directly
+    _navTimestamps[categoryId] = DateTime.now();
+    debugPrint('ProgressProvider: Marked $categoryId as auto-navigated');
   }
 
   Future<void> updateGameProgress(String key, int percentage) async {

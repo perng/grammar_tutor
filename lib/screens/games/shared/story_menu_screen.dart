@@ -27,6 +27,8 @@ class StoryMenuScreen extends StatefulWidget {
 }
 
 class _StoryMenuScreenState extends State<StoryMenuScreen> {
+  // Static backup to survive potential Provider resets or widget rebuilds
+  static final Set<String> _staticAutoNavigated = {};
   List<StoryLevel> _levels = [];
   Map<String, double> _progressMap = {};
   bool _isLoading = true;
@@ -45,6 +47,7 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
       final levels = data.map((json) => StoryLevel.fromJson(json)).toList();
 
       final prefs = await SharedPreferences.getInstance();
+      await prefs.reload(); // Ensure we have the latest data from game screen
 
       // Helper function to load progress
       Map<String, double> loadProgress() {
@@ -73,14 +76,23 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
           }
         }
 
-        // Auto-navigate ONLY if we haven't done so for this category yet
+        // Check if all levels are potentially complete
+        // If targetIndex is 0 but level 0 is 100% complete, it implies we just defaulted to 0
+        // because we didn't find an incomplete level. In this case, DO NOT auto-navigate.
+        final bool isFirstLevelComplete = (tempProgress['0'] ?? 0.0) >= 100;
+        final bool shouldAutoNav = targetIndex != 0 || !isFirstLevelComplete;
+
+        // Auto-navigate ONLY if we haven't done so for this category yet AND we are not 100% done
         final progressProvider = Provider.of<ProgressProvider>(
           context,
           listen: false,
         );
 
-        if (!progressProvider.hasAutoNavigated(widget.routePrefix)) {
+        if (shouldAutoNav &&
+            !progressProvider.hasAutoNavigated(widget.routePrefix) &&
+            !_staticAutoNavigated.contains(widget.routePrefix)) {
           progressProvider.markAutoNavigated(widget.routePrefix);
+          _staticAutoNavigated.add(widget.routePrefix);
 
           // Small delay to ensure route stability and prevent loops
           await Future.delayed(const Duration(milliseconds: 300));
@@ -88,6 +100,10 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
           if (mounted) {
             await context.push('${widget.routePrefix}/$targetIndex');
           }
+        } else {
+          // Ensure it's marked so we don't try again later if logic changes
+          progressProvider.markAutoNavigated(widget.routePrefix);
+          _staticAutoNavigated.add(widget.routePrefix);
         }
       }
 

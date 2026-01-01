@@ -5,14 +5,13 @@ import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../../models/story_level.dart';
 import '../../../widgets/explanation_dialog.dart';
-import 'package:provider/provider.dart';
-import '../../../providers/progress_provider.dart';
 
 class StoryMenuScreen extends StatefulWidget {
   final String title;
   final String assetPath;
   final String routePrefix;
   final String progressKeyPrefix;
+  final AssetBundle? assetBundle;
 
   const StoryMenuScreen({
     super.key,
@@ -20,6 +19,7 @@ class StoryMenuScreen extends StatefulWidget {
     required this.assetPath,
     required this.routePrefix,
     required this.progressKeyPrefix,
+    this.assetBundle,
   });
 
   @override
@@ -27,22 +27,35 @@ class StoryMenuScreen extends StatefulWidget {
 }
 
 class _StoryMenuScreenState extends State<StoryMenuScreen> {
-  // Static backup to survive potential Provider resets or widget rebuilds
-  static final Set<String> _staticAutoNavigated = {};
   List<StoryLevel> _levels = [];
   Map<String, double> _progressMap = {};
   bool _isLoading = true;
   double _averageProgress = 0.0;
 
+  bool _isInit = true;
+
   @override
   void initState() {
     super.initState();
-    _loadLevels(isInitialLoad: true);
+    if (widget.assetBundle != null) {
+      _loadLevels(isInitialLoad: true);
+      _isInit = false;
+    }
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    if (_isInit) {
+      _loadLevels(isInitialLoad: true);
+      _isInit = false;
+    }
   }
 
   Future<void> _loadLevels({bool isInitialLoad = false}) async {
     try {
-      final String response = await rootBundle.loadString(widget.assetPath);
+      final bundle = widget.assetBundle ?? DefaultAssetBundle.of(context);
+      final String response = await bundle.loadString(widget.assetPath);
       final List<dynamic> data = json.decode(response);
       final levels = data.map((json) => StoryLevel.fromJson(json)).toList();
 
@@ -64,49 +77,6 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
         return progress;
       }
 
-      if (isInitialLoad) {
-        // First load logic: determine where to go
-        final tempProgress = loadProgress();
-
-        int targetIndex = 0;
-        for (int i = 0; i < levels.length; i++) {
-          if ((tempProgress[i.toString()] ?? 0.0) < 100) {
-            targetIndex = i;
-            break;
-          }
-        }
-
-        // Check if all levels are potentially complete
-        // If targetIndex is 0 but level 0 is 100% complete, it implies we just defaulted to 0
-        // because we didn't find an incomplete level. In this case, DO NOT auto-navigate.
-        final bool isFirstLevelComplete = (tempProgress['0'] ?? 0.0) >= 100;
-        final bool shouldAutoNav = targetIndex != 0 || !isFirstLevelComplete;
-
-        // Auto-navigate ONLY if we haven't done so for this category yet AND we are not 100% done
-        final progressProvider = Provider.of<ProgressProvider>(
-          context,
-          listen: false,
-        );
-
-        if (shouldAutoNav &&
-            !progressProvider.hasAutoNavigated(widget.routePrefix) &&
-            !_staticAutoNavigated.contains(widget.routePrefix)) {
-          progressProvider.markAutoNavigated(widget.routePrefix);
-          _staticAutoNavigated.add(widget.routePrefix);
-
-          // Small delay to ensure route stability and prevent loops
-          await Future.delayed(const Duration(milliseconds: 300));
-
-          if (mounted) {
-            await context.push('${widget.routePrefix}/$targetIndex');
-          }
-        } else {
-          // Ensure it's marked so we don't try again later if logic changes
-          progressProvider.markAutoNavigated(widget.routePrefix);
-          _staticAutoNavigated.add(widget.routePrefix);
-        }
-      }
-
       // Reload progress after returning (or if not first load)
       final finalProgress = loadProgress();
 
@@ -122,15 +92,22 @@ class _StoryMenuScreenState extends State<StoryMenuScreen> {
       if (mounted) {
         setState(() {
           _isLoading = false;
+          _errorMessage = e.toString();
         });
       }
     }
   }
 
+  String? _errorMessage;
+
   @override
   Widget build(BuildContext context) {
     if (_isLoading) {
       return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
+
+    if (_errorMessage != null) {
+      return Scaffold(body: Center(child: Text('Error: $_errorMessage')));
     }
 
     String titleToDisplay = widget.title;

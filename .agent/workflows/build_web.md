@@ -26,7 +26,7 @@ description: How to build and serve the Flutter web application
    To generate a production build with optimized performance:
    // turbo
    ```bash
-   flutter build web --release
+   flutter build web --release --no-tree-shake-icons
    ```
    The output will be in `build/web/`.
 
@@ -46,7 +46,7 @@ description: How to build and serve the Flutter web application
    - **Dashboard**: Push your code to GitHub/GitLab/Bitbucket and import the project.
    - **Build Settings**:
      - Framework Preset: `Other`
-     - Build Command: `flutter build web --release`
+     - Build Command: `flutter build web --release --no-tree-shake-icons`
      - Output Directory: `build/web`
      - Install Command: (Leave blank or use a custom script to install Flutter if using Vercel's build environment)
    - **Note**: It's often easier to build locally and deploy the `build/web` folder: `vercel deploy build/web`.
@@ -55,7 +55,7 @@ description: How to build and serve the Flutter web application
    - **Command Line**: Install Netlify CLI (`npm i -g netlify-cli`) and run `netlify deploy --dir=build/web`.
    - **Dashboard**: Connect your repository.
    - **Build Settings**:
-     - Build Command: `flutter build web --release`
+     - Build Command: `flutter build web --release --no-tree-shake-icons`
      - Publish Directory: `build/web`
    - **Note**: Similar to Vercel, Netlify requires Flutter to be in the CI path. If not available, build locally and run `netlify deploy --prod --dir=build/web`.
 

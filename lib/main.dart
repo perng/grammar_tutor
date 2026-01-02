@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
         elevation: 0,
         centerTitle: true,
       ),
-      textTheme: GoogleFonts.interTextTheme(),
+      textTheme: GoogleFonts.interTextTheme().apply(fontFamily: 'NotoSansTC'),
     );
 
     final darkTheme = ThemeData(
@@ -90,7 +90,9 @@ class MyApp extends StatelessWidget {
         elevation: 0,
         centerTitle: true,
       ),
-      textTheme: GoogleFonts.interTextTheme(ThemeData.dark().textTheme),
+      textTheme: GoogleFonts.interTextTheme(
+        ThemeData.dark().textTheme,
+      ).apply(fontFamily: 'NotoSansTC'),
     );
 
     return MaterialApp.router(

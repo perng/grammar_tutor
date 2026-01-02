@@ -30,12 +30,12 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
         builder: (context, progressProvider, child) {
           final keys = menuItemsConfig.keys.toList();
           return GridView.builder(
-            padding: const EdgeInsets.all(16.0),
+            padding: const EdgeInsets.all(12.0),
             gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
               maxCrossAxisExtent: 400,
-              mainAxisExtent: 120, // Rectangular cards
-              crossAxisSpacing: 16,
-              mainAxisSpacing: 16,
+              mainAxisExtent: 100, // Compact height for mobile
+              crossAxisSpacing: 12,
+              mainAxisSpacing: 12,
             ),
             itemCount: keys.length,
             itemBuilder: (context, index) {
@@ -52,7 +52,7 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
                     context.go('/categories/$categoryKey');
                   },
                   child: Container(
-                    padding: const EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(12),
                     decoration: BoxDecoration(
                       gradient: LinearGradient(
                         colors: [
@@ -69,8 +69,8 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
                       children: [
                         // Category Icon/Emoji (Placeholder logic)
                         Container(
-                          width: 60,
-                          height: 60,
+                          width: 48,
+                          height: 48,
                           decoration: BoxDecoration(
                             color: Theme.of(
                               context,
@@ -80,10 +80,10 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
                           alignment: Alignment.center,
                           child: Text(
                             _getCategoryEmoji(categoryKey),
-                            style: const TextStyle(fontSize: 32),
+                            style: const TextStyle(fontSize: 24),
                           ),
                         ),
-                        const SizedBox(width: 16),
+                        const SizedBox(width: 12),
                         Expanded(
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,

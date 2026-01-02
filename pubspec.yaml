@@ -55,12 +55,20 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
   flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.7
 
 flutter_launcher_icons:
   android: "ic_launcher"
   ios: true
   image_path: "docs/images/hg-logo2.png"
   min_sdk_android: 21
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: "docs/images/hg-logo2.png"
+  android_12:
+    image: "docs/images/hg-logo2.png"
+    icon_background_color: "#ffffff"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

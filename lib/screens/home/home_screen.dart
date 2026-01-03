@@ -7,6 +7,9 @@ import '../../config/menu_config.dart';
 import '../../providers/progress_provider.dart';
 import '../../providers/theme_provider.dart';
 
+import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:url_launcher/url_launcher.dart';
+
 class HomeScreen extends StatefulWidget {
   final Widget child;
   const HomeScreen({super.key, required this.child});
@@ -16,6 +19,40 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  void _showAboutDialog() {
+    showDialog(
+      context: context,
+      builder: (context) {
+        final loc = AppLocalizations.of(context);
+        return AlertDialog(
+          title: Text(loc.aboutTitle, textAlign: TextAlign.center),
+          content: SingleChildScrollView(
+            child: SizedBox(
+              width: double.maxFinite,
+              child: MarkdownBody(
+                data: loc.aboutContentMarkdown,
+                onTapLink: (text, href, title) async {
+                  if (href != null) {
+                    final Uri url = Uri.parse(href);
+                    if (await canLaunchUrl(url)) {
+                      await launchUrl(url);
+                    }
+                  }
+                },
+              ),
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text(loc.get('close')),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
   void _showSettingsDialog() {
     showDialog(
       context: context,
@@ -96,7 +133,7 @@ class _HomeScreenState extends State<HomeScreen> {
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context),
-              child: const Text('Close'), // TODO: Add to localization
+              child: Text(loc.get('close')),
             ),
           ],
         );
@@ -192,9 +229,6 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ),
     );
-
-    // ... (Existing breadcrumb logic logic but styled) ...
-    // Re-implementing logic for cleaner code integration
 
     String? categoryId;
     String? gameTitleKey;
@@ -296,6 +330,12 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Row(mainAxisSize: MainAxisSize.min, children: breadcrumbs),
             ),
           ),
+          if (location == '/')
+            IconButton(
+              icon: const Icon(Icons.info_outline),
+              onPressed: _showAboutDialog,
+              tooltip: loc.about,
+            ),
           IconButton(
             icon: const Icon(Icons.settings),
             onPressed: _showSettingsDialog,

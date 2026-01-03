@@ -29,112 +29,194 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
       body: Consumer<ProgressProvider>(
         builder: (context, progressProvider, child) {
           final keys = menuItemsConfig.keys.toList();
-          return GridView.builder(
-            padding: const EdgeInsets.all(12.0),
-            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
-              maxCrossAxisExtent: 400,
-              mainAxisExtent: 100, // Compact height for mobile
-              crossAxisSpacing: 12,
-              mainAxisSpacing: 12,
-            ),
-            itemCount: keys.length,
-            itemBuilder: (context, index) {
-              final categoryKey = keys[index];
-              final title = loc.get(categoryKey);
-              final completion =
-                  progressProvider.gameCompletion[categoryKey] ?? 0.0;
-              final percentage = (completion * 100).round();
-
-              return Card(
-                clipBehavior: Clip.antiAlias,
-                child: InkWell(
-                  onTap: () {
-                    context.go('/categories/$categoryKey');
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.all(12),
-                    decoration: BoxDecoration(
-                      gradient: LinearGradient(
-                        colors: [
-                          Theme.of(context).cardTheme.color ??
-                              Theme.of(context).cardColor,
-                          Theme.of(context).cardTheme.color?.withOpacity(0.9) ??
-                              Theme.of(context).cardColor.withOpacity(0.9),
-                        ],
-                        begin: Alignment.topLeft,
-                        end: Alignment.bottomRight,
-                      ),
-                    ),
-                    child: Row(
-                      children: [
-                        // Category Icon/Emoji (Placeholder logic)
-                        Container(
-                          width: 48,
-                          height: 48,
-                          decoration: BoxDecoration(
+          return Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(12, 12, 12, 0),
+                child: Card(
+                  color: Theme.of(context).colorScheme.tertiaryContainer,
+                  child: InkWell(
+                    onTap: () => context.push('/mock-test'),
+                    borderRadius: BorderRadius.circular(12),
+                    child: Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Row(
+                        children: [
+                          Icon(
+                            Icons.school,
+                            size: 32,
                             color: Theme.of(
                               context,
-                            ).colorScheme.primaryContainer.withOpacity(0.3),
-                            borderRadius: BorderRadius.circular(12),
+                            ).colorScheme.onTertiaryContainer,
                           ),
-                          alignment: Alignment.center,
-                          child: Text(
-                            _getCategoryEmoji(categoryKey),
-                            style: const TextStyle(fontSize: 24),
-                          ),
-                        ),
-                        const SizedBox(width: 12),
-                        Expanded(
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            mainAxisAlignment: MainAxisAlignment.center,
-                            children: [
-                              Text(
-                                title,
-                                style: const TextStyle(
-                                  fontSize: 18,
-                                  fontWeight: FontWeight.bold,
+                          const SizedBox(width: 16),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  "Mock Test", // TODO: Localize
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    fontWeight: FontWeight.bold,
+                                    color: Theme.of(
+                                      context,
+                                    ).colorScheme.onTertiaryContainer,
+                                  ),
                                 ),
-                                maxLines: 2,
-                                overflow: TextOverflow.ellipsis,
-                              ),
-                              const SizedBox(height: 8),
-                              Row(
-                                children: [
-                                  Expanded(
-                                    child: LinearProgressIndicator(
-                                      value: completion,
-                                      backgroundColor: Theme.of(
-                                        context,
-                                      ).colorScheme.surfaceVariant,
-                                      color: Theme.of(
-                                        context,
-                                      ).colorScheme.secondary,
-                                      borderRadius: BorderRadius.circular(4),
-                                    ),
+                                Text(
+                                  "Test your knowledge across all topics", // TODO: Localize
+                                  style: TextStyle(
+                                    color: Theme.of(context)
+                                        .colorScheme
+                                        .onTertiaryContainer
+                                        .withOpacity(0.8),
                                   ),
-                                  const SizedBox(width: 8),
-                                  Text(
-                                    '$percentage%',
-                                    style: TextStyle(
-                                      color: Theme.of(
-                                        context,
-                                      ).colorScheme.onSurfaceVariant,
-                                      fontWeight: FontWeight.bold,
-                                    ),
-                                  ),
-                                ],
-                              ),
-                            ],
+                                ),
+                              ],
+                            ),
                           ),
-                        ),
-                        const Icon(Icons.chevron_right, color: Colors.grey),
-                      ],
+                          Icon(
+                            Icons.arrow_forward,
+                            color: Theme.of(
+                              context,
+                            ).colorScheme.onTertiaryContainer,
+                          ),
+                        ],
+                      ),
                     ),
                   ),
                 ),
-              );
-            },
+              ),
+              Expanded(
+                child: LayoutBuilder(
+                  builder: (context, constraints) {
+                    if (constraints.maxWidth <= 0) {
+                      return const SizedBox.shrink();
+                    }
+                    return GridView.builder(
+                      padding: const EdgeInsets.all(12.0),
+                      gridDelegate:
+                          const SliverGridDelegateWithMaxCrossAxisExtent(
+                            maxCrossAxisExtent: 400,
+                            mainAxisExtent: 100, // Compact height for mobile
+                            crossAxisSpacing: 12,
+                            mainAxisSpacing: 12,
+                          ),
+                      itemCount: keys.length,
+                      itemBuilder: (context, index) {
+                        final categoryKey = keys[index];
+                        final title = loc.get(categoryKey);
+                        final completion =
+                            progressProvider.gameCompletion[categoryKey] ?? 0.0;
+                        final percentage = (completion * 100).round();
+
+                        return Card(
+                          clipBehavior: Clip.antiAlias,
+                          child: InkWell(
+                            onTap: () {
+                              context.go('/categories/$categoryKey');
+                            },
+                            child: Container(
+                              padding: const EdgeInsets.all(12),
+                              decoration: BoxDecoration(
+                                gradient: LinearGradient(
+                                  colors: [
+                                    Theme.of(context).cardTheme.color ??
+                                        Theme.of(context).cardColor,
+                                    Theme.of(
+                                          context,
+                                        ).cardTheme.color?.withOpacity(0.9) ??
+                                        Theme.of(
+                                          context,
+                                        ).cardColor.withOpacity(0.9),
+                                  ],
+                                  begin: Alignment.topLeft,
+                                  end: Alignment.bottomRight,
+                                ),
+                              ),
+                              child: Row(
+                                children: [
+                                  // Category Icon/Emoji (Placeholder logic)
+                                  Container(
+                                    width: 48,
+                                    height: 48,
+                                    decoration: BoxDecoration(
+                                      color: Theme.of(context)
+                                          .colorScheme
+                                          .primaryContainer
+                                          .withOpacity(0.3),
+                                      borderRadius: BorderRadius.circular(12),
+                                    ),
+                                    alignment: Alignment.center,
+                                    child: Text(
+                                      _getCategoryEmoji(categoryKey),
+                                      style: const TextStyle(fontSize: 24),
+                                    ),
+                                  ),
+                                  const SizedBox(width: 12),
+                                  Expanded(
+                                    child: Column(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.start,
+                                      mainAxisAlignment:
+                                          MainAxisAlignment.center,
+                                      children: [
+                                        Text(
+                                          title,
+                                          style: const TextStyle(
+                                            fontSize: 18,
+                                            fontWeight: FontWeight.bold,
+                                          ),
+                                          maxLines: 2,
+                                          overflow: TextOverflow.ellipsis,
+                                        ),
+                                        const SizedBox(height: 8),
+                                        Row(
+                                          children: [
+                                            Expanded(
+                                              child: LinearProgressIndicator(
+                                                value: completion,
+                                                backgroundColor: Theme.of(
+                                                  context,
+                                                ).colorScheme.surfaceVariant,
+                                                color: Theme.of(
+                                                  context,
+                                                ).colorScheme.secondary,
+                                                borderRadius:
+                                                    BorderRadius.circular(4),
+                                              ),
+                                            ),
+                                            const SizedBox(width: 8),
+                                            Text(
+                                              '$percentage%',
+                                              style: TextStyle(
+                                                color: Theme.of(
+                                                  context,
+                                                ).colorScheme.onSurfaceVariant,
+                                                fontWeight: FontWeight.bold,
+                                              ),
+                                            ),
+                                          ],
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                  const Icon(
+                                    Icons.chevron_right,
+                                    color: Colors.grey,
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ),
+                        );
+                      },
+                    );
+                  },
+                ),
+              ),
+            ],
           );
         },
       ),

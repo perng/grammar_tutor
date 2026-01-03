@@ -1,7 +1,10 @@
 import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'models/story_level.dart';
 import 'screens/home/home_screen.dart';
 import 'screens/category_list_screen.dart';
+import 'screens/mock_test/mock_test_config_screen.dart';
+import 'screens/mock_test/mock_test_runner_screen.dart';
 import 'screens/game_list_screen.dart';
 
 import 'screens/games/shared/story_menu_screen.dart';
@@ -27,6 +30,19 @@ GoRouter createRouter(String initialLocation, SharedPreferences prefs) {
           GoRoute(
             path: '/',
             builder: (context, state) => const CategoryListScreen(),
+          ),
+          GoRoute(
+            path: '/mock-test',
+            builder: (context, state) => const MockTestConfigScreen(),
+            routes: [
+              GoRoute(
+                path: 'runner',
+                builder: (context, state) {
+                  final questions = state.extra as List<StoryLevel>;
+                  return MockTestRunnerScreen(questions: questions);
+                },
+              ),
+            ],
           ),
           GoRoute(
             path: '/categories/:categoryId',

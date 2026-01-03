@@ -136,11 +136,29 @@ class _GenericGameScreenState extends State<GenericGameScreen> {
       if (part.startsWith('[') && part.endsWith(']')) {
         // Target block [option1|option2|option3...]
         String content = part.substring(1, part.length - 1); // remove [ ]
-        List<String> forms = content.split(RegExp(r'[-|]'));
+
+        // Determine separator:
+        // '|' -> Standard toggle (first option correct)
+        // '~' -> All correct (legacy "all correct" lists, now using ~)
+        // If neither, no split (allows hyphens in single words)
+        String separator = '|';
+        bool allCorrect = false;
+
+        if (content.contains('|')) {
+          separator = '|';
+        } else if (content.contains('~')) {
+          separator = '~';
+          allCorrect = true;
+        } else {
+          // No valid separator, treat as single item (e.g. hyphenated word)
+          separator = '|'; // Split will return [content]
+        }
+
+        List<String> forms = content.split(separator);
+
         if (forms.isNotEmpty) {
-          String separator = content.contains('|') ? '|' : '-';
-          // If separator is '|', first one is correct. If '-', all are correct (rare but supported)
-          String correctForm = separator == '|' ? forms[0] : "BOTH";
+          // If allCorrect is true, correctForm is "BOTH"
+          String correctForm = allCorrect ? "BOTH" : forms[0];
 
           // Select an initial random form to display
           int initialIndex = _random.nextInt(forms.length);

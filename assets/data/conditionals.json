@@ -26,7 +26,7 @@
   {
     "id": "cond4",
     "title": "Stay",
-    "content": "If it rains, helps I [will stay|stay] home. If she comes, we [will go|go].",
+    "content": "If it rains, I [will stay|stay] home. If she comes, we [will go|go].",
     "explanation-zh-TW": "First: Future Possibility.",
     "explanation-en-US": "First: Future.",
     "explanation-zh-CN": "First: Future Possibility."

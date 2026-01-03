@@ -9,7 +9,14 @@ import 'providers/progress_provider.dart';
 import 'l10n/app_localizations.dart';
 import 'providers/theme_provider.dart';
 
-void main() {
+import 'package:go_router/go_router.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  final prefs = await SharedPreferences.getInstance();
+  final initialLocation = prefs.getString('last_route') ?? '/';
+
   runApp(
     MultiProvider(
       providers: [
@@ -17,13 +24,14 @@ void main() {
         ChangeNotifierProvider(create: (_) => ProgressProvider()),
         ChangeNotifierProvider(create: (_) => ThemeProvider()),
       ],
-      child: const MyApp(),
+      child: MyApp(routerConfig: createRouter(initialLocation, prefs)),
     ),
   );
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  final RouterConfig<Object> routerConfig;
+  const MyApp({super.key, required this.routerConfig});
 
   @override
   Widget build(BuildContext context) {
@@ -121,7 +129,7 @@ class MyApp extends StatelessWidget {
       theme: lightTheme,
       darkTheme: darkTheme,
       themeMode: themeProvider.themeMode,
-      routerConfig: router,
+      routerConfig: routerConfig,
     );
   }
 }

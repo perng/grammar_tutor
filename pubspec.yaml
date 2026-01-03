@@ -1,5 +1,5 @@
 name: grammar_tutor
-description: "單手學：文法學習"
+description: "Handy Grammar"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -64,12 +64,7 @@ flutter_launcher_icons:
   image_path: "docs/images/hg-logo2.png"
   min_sdk_android: 21
 
-flutter_native_splash:
-  color: "#ffffff"
-  image: "docs/images/hg-logo2.png"
-  android_12:
-    image: "docs/images/hg-logo2.png"
-    icon_background_color: "#ffffff"
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

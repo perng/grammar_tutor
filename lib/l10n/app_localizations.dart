@@ -15,7 +15,7 @@ class AppLocalizations {
 
   static const Map<String, Map<String, String>> _localizedValues = {
     'en': {
-      'app_title': 'Grammar Tutor',
+      'app_title': 'Handy Grammar',
       'settings': 'Settings',
       'select_language': 'Select Language',
       'category_articles': 'Articles',
@@ -67,13 +67,13 @@ class AppLocalizations {
       'close': 'Close',
 
       'score': 'Score',
-      'about': 'About',
-      'about_title': 'About',
+      'about': 'About Handy Grammar',
+      'about_title': 'About Handy Grammar',
       'about_content_markdown':
           'This app is completely free to use. If you have any suggestions or feedback, please contact happysaur.dev@gmail.com.\n\nIf you insist, you can [buy me a coffee](https://buymeacoffee.com/happysaur), or donate to your favorite charity.',
     },
     'zh_CN': {
-      'app_title': '语法辅导',
+      'app_title': 'Handy Grammar',
       'settings': '设置',
       'select_language': '选择语言',
       'category_articles': '冠词',
@@ -125,13 +125,13 @@ class AppLocalizations {
       'close': '关闭',
 
       'score': '分数',
-      'about': '关于',
-      'about_title': '关于',
+      'about': '关于 Handy Grammar',
+      'about_title': '关于 Handy Grammar',
       'about_content_markdown':
           '本应用完全免费。如果您有任何建议或反馈，请联系 happysaur.dev@gmail.com。\n\n如果您坚持，您可以[请我喝杯咖啡](https://buymeacoffee.com/happysaur)，或捐款给您喜欢的慈善机构。',
     },
     'zh_TW': {
-      'app_title': '英文文法教練',
+      'app_title': 'Handy Grammar',
       'settings': '設定',
       'select_language': '選擇語言',
       'category_articles': '冠詞',
@@ -183,8 +183,8 @@ class AppLocalizations {
       'close': '關閉',
 
       'score': '分數',
-      'about': '關於',
-      'about_title': '關於',
+      'about': '關於 Handy Grammar',
+      'about_title': '關於 Handy Grammar',
       'about_content_markdown':
           '本應用程式完全免費。如果您有任何建議或反饋，請聯繫 happysaur.dev@gmail.com。\n\n如果您堅持，您可以[請我喝杯咖啡](https://buymeacoffee.com/happysaur)，或捐款給您喜歡的慈善機構。',
     },

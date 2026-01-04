@@ -55,7 +55,7 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
-                                  "Mock Test", // TODO: Localize
+                                  loc.mockTestTitle,
                                   style: TextStyle(
                                     fontSize: 18,
                                     fontWeight: FontWeight.bold,
@@ -65,7 +65,7 @@ class _CategoryListScreenState extends State<CategoryListScreen> {
                                   ),
                                 ),
                                 Text(
-                                  "Test your knowledge across all topics", // TODO: Localize
+                                  loc.mockTestSubtitle,
                                   style: TextStyle(
                                     color: Theme.of(context)
                                         .colorScheme

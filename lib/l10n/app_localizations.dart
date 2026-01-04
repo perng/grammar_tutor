@@ -67,6 +67,8 @@ class AppLocalizations {
       'close': 'Close',
 
       'score': 'Score',
+      'mock_test_title': 'Mock Test',
+      'mock_test_subtitle': 'Test your knowledge across all topics',
       'about': 'About Handy Grammar',
       'about_title': 'About Handy Grammar',
       'about_content_markdown':
@@ -125,6 +127,8 @@ class AppLocalizations {
       'close': '关闭',
 
       'score': '分数',
+      'mock_test_title': '模拟测验',
+      'mock_test_subtitle': '测试您在所有主题的知识',
       'about': '关于 Handy Grammar',
       'about_title': '关于 Handy Grammar',
       'about_content_markdown':
@@ -183,6 +187,8 @@ class AppLocalizations {
       'close': '關閉',
 
       'score': '分數',
+      'mock_test_title': '模擬測驗',
+      'mock_test_subtitle': '測試您在所有主題的知識',
       'about': '關於 Handy Grammar',
       'about_title': '關於 Handy Grammar',
       'about_content_markdown':
@@ -212,6 +218,8 @@ class AppLocalizations {
   String get about => get('about');
   String get aboutTitle => get('about_title');
   String get aboutContentMarkdown => get('about_content_markdown');
+  String get mockTestTitle => get('mock_test_title');
+  String get mockTestSubtitle => get('mock_test_subtitle');
 }
 
 class _AppLocalizationsDelegate

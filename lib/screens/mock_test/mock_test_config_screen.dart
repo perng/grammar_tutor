@@ -7,6 +7,7 @@ import 'package:go_router/go_router.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:intl/intl.dart';
 
+import '../../l10n/app_localizations.dart';
 import '../../models/story_level.dart';
 
 class MockTestConfigScreen extends StatefulWidget {
@@ -144,8 +145,9 @@ class _MockTestConfigScreenState extends State<MockTestConfigScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final loc = AppLocalizations.of(context);
     return Scaffold(
-      appBar: AppBar(title: const Text('Mock Test')),
+      appBar: AppBar(title: Text(loc.mockTestTitle)),
       body: _isLoading
           ? const Center(child: CircularProgressIndicator())
           : ListView(

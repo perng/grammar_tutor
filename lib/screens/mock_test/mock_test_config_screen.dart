@@ -101,8 +101,12 @@ class _MockTestConfigScreenState extends State<MockTestConfigScreen> {
           );
           final List<dynamic> data = json.decode(response);
           for (var item in data) {
-            // Create StoryLevel objects, adding source file for context if needed
-            // (StoryLevel doesn't current store source, but that's fine)
+            // Identify game type based on filename
+            if (fileName == 'an_a_the.json' || fileName == 'articles.json') {
+              item['type'] = 'article';
+            } else {
+              item['type'] = 'generic';
+            }
             allQuestions.add(StoryLevel.fromJson(item));
           }
         } catch (e) {

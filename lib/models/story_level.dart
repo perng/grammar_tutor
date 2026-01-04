@@ -5,6 +5,7 @@ class StoryLevel {
   final String explanationZhTw;
   final String explanationZhCn;
   final String explanationEnUs;
+  final String type;
 
   StoryLevel({
     required this.id,
@@ -13,6 +14,7 @@ class StoryLevel {
     required this.explanationZhTw,
     required this.explanationZhCn,
     required this.explanationEnUs,
+    this.type = 'generic',
   });
 
   factory StoryLevel.fromJson(Map<String, dynamic> json) {
@@ -26,6 +28,7 @@ class StoryLevel {
           json['explanationZhCn'] ?? json['explanation-zh-CN'] ?? '',
       explanationEnUs:
           json['explanationEnUs'] ?? json['explanation-en-US'] ?? '',
+      type: json['type'] ?? 'generic',
     );
   }
 }

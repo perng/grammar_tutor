@@ -12,7 +12,7 @@ import '../../providers/locale_provider.dart';
 import '../../l10n/app_localizations.dart';
 
 // Copy of Word class from generic_game_screen.dart
-class Word {
+class MockTestWord {
   final String text;
   final int index;
   final bool isTarget;
@@ -21,14 +21,20 @@ class Word {
   final bool isSpace;
   final bool isPunctuation;
 
-  Word({
+  // Article game specific
+  final String originalText;
+  final bool shouldCapitalizeArticle;
+
+  MockTestWord({
     required this.text,
     required this.index,
     required this.isTarget,
-    required this.options,
-    required this.correctForm,
+    this.options = const [],
+    this.correctForm = '',
     this.isSpace = false,
     this.isPunctuation = false,
+    this.originalText = '',
+    this.shouldCapitalizeArticle = false,
   });
 }
 
@@ -45,7 +51,7 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
   int _currentIndex = 0;
 
   // State for current question
-  List<Word> _currentWords = [];
+  List<MockTestWord> _currentWords = [];
   Map<int, String> _playerSelections = {};
   Map<int, String> _correctAnswers = {};
   bool _isAnswerChecked = false;
@@ -59,6 +65,32 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
 
   final Random _random = Random();
   final ScrollController _scrollController = ScrollController();
+
+  static const Set<String> _namesLower = {
+    'annie',
+    'wally',
+    'paula',
+    'peter',
+    'kenny',
+    'zealand',
+    'bobby',
+    'rita',
+    'willy',
+    'olivia',
+    'benny',
+    'gavin',
+    'sally',
+    'perry',
+    'max',
+    'kevin',
+    'lulu',
+    'charlie',
+    'penny',
+    'percy',
+    'billy',
+    'pip',
+    'dash',
+  };
 
   @override
   void initState() {
@@ -86,7 +118,15 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
   }
 
   void _processText(String text) {
-    List<Word> words = [];
+    if (widget.questions[_currentIndex].type == 'article') {
+      _processArticleText(text);
+    } else {
+      _processGenericText(text);
+    }
+  }
+
+  void _processGenericText(String text) {
+    List<MockTestWord> words = [];
     int indexCounter = 0;
 
     final RegExp exp = RegExp(r'(\[[^\]]+\]|\s+|[^\[\s]+)');
@@ -107,7 +147,7 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
           String initialText = forms[initialIndex];
 
           words.add(
-            Word(
+            MockTestWord(
               text: initialText,
               index: indexCounter,
               isTarget: true,
@@ -121,7 +161,7 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
         }
       } else if (RegExp(r'^\s+$').hasMatch(part)) {
         words.add(
-          Word(
+          MockTestWord(
             text: part,
             index: indexCounter++,
             isTarget: false,
@@ -138,7 +178,7 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
 
           if (wordText.isNotEmpty) {
             words.add(
-              Word(
+              MockTestWord(
                 text: wordText,
                 index: indexCounter++,
                 isTarget: false,
@@ -149,7 +189,7 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
           }
           if (puncText.isNotEmpty) {
             words.add(
-              Word(
+              MockTestWord(
                 text: puncText,
                 index: indexCounter++,
                 isTarget: false,
@@ -168,22 +208,111 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
     });
   }
 
+  void _processArticleText(String content) {
+    List<MockTestWord> words = [];
+    Map<int, String> correctArticles = {};
+
+    final rawWords = content.split(RegExp(r'\s+'));
+    bool isFirstWord = true;
+    bool pendingArticleStart = false;
+
+    // We use indexCounter to keep keys unique and sequential for the UI
+    int indexCounter = 0;
+
+    for (int i = 0; i < rawWords.length; i++) {
+      String word = rawWords[i];
+      if (word.isEmpty) continue;
+      String lower = word.toLowerCase();
+      bool isArticle = ['a', 'an', 'the'].contains(lower);
+
+      bool isCurrentStart =
+          isFirstWord || (i > 0 && RegExp(r'[.!?]$').hasMatch(rawWords[i - 1]));
+
+      if (isArticle) {
+        // Store correct article for the NEXT word.
+        // We use indexCounter as the ID for the NEXT word.
+        // Since we haven't added the next word yet, its ID will be indexCounter (once we iterate to it, or logically)
+        // Wait, if we are at 'The'(i), next is 'cat'(i+1).
+        // If we skip 'The', we don't increment indexCounter for it?
+        // In GenericGame, every token gets an index.
+        // In ArticleGame, only Words get indices.
+        // Let's stick to ArticleGame logic: only non-articles get added as words.
+        correctArticles[indexCounter] = lower;
+        pendingArticleStart = isCurrentStart;
+      } else {
+        bool shouldCap = isCurrentStart || pendingArticleStart;
+        words.add(
+          MockTestWord(
+            text: _namesLower.contains(lower) ? word : lower,
+            originalText: word,
+            index: indexCounter, // This is the ID used for selections
+            isTarget: true, // All non-article words are potential targets
+            shouldCapitalizeArticle: shouldCap,
+          ),
+        );
+        indexCounter++;
+        pendingArticleStart = false;
+      }
+
+      if (!isArticle) isFirstWord = false;
+    }
+
+    setState(() {
+      _currentWords = words;
+      _correctAnswers = correctArticles;
+    });
+  }
+
   void _handleWordClick(int index) {
     if (_isAnswerChecked) return;
 
     final word = _currentWords.firstWhere((w) => w.index == index);
     if (!word.isTarget) return;
 
-    String current = _playerSelections[index] ?? word.text;
+    if (widget.questions[_currentIndex].type == 'article') {
+      _handleArticleClick(word);
+    } else {
+      _handleGenericClick(word);
+    }
+  }
+
+  void _handleGenericClick(MockTestWord word) {
+    String current = _playerSelections[word.index] ?? word.text;
     int currentOptionIndex = word.options.indexOf(current);
     int nextOptionIndex = (currentOptionIndex + 1) % word.options.length;
 
     setState(() {
-      _playerSelections[index] = word.options[nextOptionIndex];
+      _playerSelections[word.index] = word.options[nextOptionIndex];
+    });
+  }
+
+  void _handleArticleClick(MockTestWord word) {
+    String? current =
+        _playerSelections[word.index]; // Actually selected article
+    final bool cap = word.shouldCapitalizeArticle;
+
+    setState(() {
+      if (current == null) {
+        _playerSelections[word.index] = cap ? 'A' : 'a';
+      } else if (current.toLowerCase() == 'a') {
+        _playerSelections[word.index] = cap ? 'An' : 'an';
+      } else if (current.toLowerCase() == 'an') {
+        _playerSelections[word.index] = cap ? 'The' : 'the';
+      } else {
+        _playerSelections.remove(word.index);
+      }
     });
   }
 
   void _checkAnswer() {
+    if (widget.questions[_currentIndex].type == 'article') {
+      _checkArticleAnswer();
+    } else {
+      _checkGenericAnswer();
+    }
+  }
+
+  void _checkGenericAnswer() {
     int correctCount = 0;
     int blankCount = 0;
 
@@ -198,19 +327,72 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
         }
       }
     }
+    _finalizeCheck(correctCount, blankCount);
+  }
 
-    // Update totals
-    _totalCorrectBlanks += correctCount;
-    _totalBlanks += blankCount;
+  void _checkArticleAnswer() {
+    int correct = 0;
+    int error = 0;
+    int missed = 0;
 
-    // Determine if this question was "perfect" (optional, for simple tracking)
-    _questionResults.add(correctCount == blankCount);
+    for (var word in _currentWords) {
+      String? correctArt = _correctAnswers[word.index];
+      String? selectedArt = _playerSelections[word.index];
+
+      if (correctArt != null) {
+        if (selectedArt != null &&
+            selectedArt.toLowerCase() == correctArt.toLowerCase()) {
+          correct++;
+        } else {
+          missed++;
+        }
+      } else {
+        if (selectedArt != null) {
+          error++;
+        }
+      }
+    }
+
+    // Scoring logic for Article Game:
+    // Points = Correct - Error.
+    // Total = Correct + Missed (number of actual articles needed).
+    // But MockTest usually counts "Blanks".
+    // Let's adapt to fit "Total Correct / Total Blanks" metaphor.
+    // Total Blanks = (Correct + Missed + Error) ? No, Error is extra.
+    // Let's say Total Blanks = (Number of slots that NEEDED an article) + (Number of slots that DIDN'T need but GOT one).
+    // Effectively, every interaction point counts.
+    //
+    // Simplified:
+    // Correct = correct selections.
+    // Total = (slots with correctArt) + (slots without correctArt but with selectedArt).
+    // This penalizes errors by increasing the denominator and not the numerator.
+
+    // Or strictly follow game logic: Score = (Correct - Error) / (Correct + Missed).
+    // But _totalCorrectBlanks is an integer we sum up.
+    // Use "Net Correct" for numerator?
+    int netCorrect = correct - error;
+    if (netCorrect < 0) netCorrect = 0;
+    int totalNeeded = correct + missed; // Total articles actually in the text
+
+    // Wait, if I spam articles everywhere, my score shouldn't just be 0/TotalNeeded. It should reflect badness.
+    // But MockTest summary is simple "X / Y".
+    // Let's use:
+    // Numerator: Correct
+    // Denominator: TotalNeeded + Error
+    // This ensures 100% is only possible if Correct==TotalNeeded and Error==0.
+
+    _finalizeCheck(correct, totalNeeded + error);
+  }
+
+  void _finalizeCheck(int correct, int total) {
+    _totalCorrectBlanks += correct;
+    _totalBlanks += total;
+    _questionResults.add(correct == total && total > 0);
 
     setState(() {
       _isAnswerChecked = true;
     });
 
-    // Scroll to explanation
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_scrollController.hasClients) {
         _scrollController.animateTo(
@@ -371,109 +553,9 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
                   const SizedBox(height: 16),
 
                   // Question content
-                  Wrap(
-                    spacing: 0,
-                    runSpacing: 12,
-                    children: _currentWords.map((word) {
-                      if (word.isSpace) return const Text(' ');
-
-                      bool isSelected = _playerSelections.containsKey(
-                        word.index,
-                      );
-                      String displayText =
-                          _playerSelections[word.index] ?? word.text;
-
-                      Color textColor = Colors.black;
-                      TextDecoration? decoration;
-
-                      if (word.isTarget) {
-                        textColor = Colors.blue.shade700;
-                        decoration = TextDecoration.underline;
-
-                        if (_isAnswerChecked) {
-                          String correctAns = _correctAnswers[word.index] ?? '';
-                          if (correctAns == "BOTH") {
-                            textColor = Colors.blue;
-                            decoration = null;
-                          } else {
-                            if (displayText == correctAns) {
-                              textColor = Colors.green;
-                              decoration = null;
-                            } else {
-                              textColor = Colors.red;
-                              decoration = TextDecoration.lineThrough;
-                            }
-                          }
-                        }
-                      }
-
-                      if (word.isTarget) {
-                        if (_isAnswerChecked &&
-                            _correctAnswers[word.index] != "BOTH" &&
-                            displayText != _correctAnswers[word.index]) {
-                          // Show wrong answer struck through + correct answer
-                          return Container(
-                            margin: const EdgeInsets.symmetric(horizontal: 2),
-                            child: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                Text(
-                                  displayText,
-                                  style: const TextStyle(
-                                    fontSize: 18,
-                                    color: Colors.red,
-                                    decoration: TextDecoration.lineThrough,
-                                  ),
-                                ),
-                                const SizedBox(width: 4),
-                                Text(
-                                  _correctAnswers[word.index]!,
-                                  style: const TextStyle(
-                                    fontSize: 18,
-                                    color: Colors.green,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          );
-                        }
-
-                        return GestureDetector(
-                          onTap: () => _handleWordClick(word.index),
-                          child: Container(
-                            margin: const EdgeInsets.symmetric(horizontal: 2),
-                            padding: const EdgeInsets.symmetric(
-                              horizontal: 8,
-                              vertical: 4,
-                            ),
-                            decoration: BoxDecoration(
-                              color: isSelected && !_isAnswerChecked
-                                  ? Colors.blue.shade50
-                                  : null,
-                              borderRadius: BorderRadius.circular(4),
-                            ),
-                            child: Text(
-                              displayText,
-                              style: TextStyle(
-                                fontSize: 18,
-                                color: textColor,
-                                decoration: decoration,
-                                fontWeight: word.isTarget
-                                    ? FontWeight.w500
-                                    : FontWeight.normal,
-                              ),
-                            ),
-                          ),
-                        );
-                      }
-
-                      return Text(
-                        word.text,
-                        style: const TextStyle(fontSize: 18, height: 1.6),
-                      );
-                    }).toList(),
-                  ),
+                  widget.questions[_currentIndex].type == 'article'
+                      ? _buildArticleContent()
+                      : _buildGenericContent(),
 
                   // Explanation
                   if (_isAnswerChecked) ...[
@@ -544,6 +626,226 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
         ],
       ),
     );
+  }
+
+  Widget _buildGenericContent() {
+    return Wrap(
+      spacing: 0,
+      runSpacing: 12,
+      children: _currentWords.map((word) {
+        if (word.isSpace) return const Text(' ');
+
+        bool isSelected = _playerSelections.containsKey(word.index);
+        String displayText = _playerSelections[word.index] ?? word.text;
+
+        Color textColor = Colors.black;
+        TextDecoration? decoration;
+
+        if (word.isTarget) {
+          textColor = Colors.blue.shade700;
+          decoration = TextDecoration.underline;
+
+          if (_isAnswerChecked) {
+            String correctAns = _correctAnswers[word.index] ?? '';
+            if (correctAns == "BOTH") {
+              textColor = Colors.blue;
+              decoration = null;
+            } else {
+              if (displayText == correctAns) {
+                textColor = Colors.green;
+                decoration = null;
+              } else {
+                textColor = Colors.red;
+                decoration = TextDecoration.lineThrough;
+              }
+            }
+          }
+        }
+
+        if (word.isTarget) {
+          if (_isAnswerChecked &&
+              _correctAnswers[word.index] != "BOTH" &&
+              displayText != _correctAnswers[word.index]) {
+            // Show wrong answer struck through + correct answer
+            return Container(
+              margin: const EdgeInsets.symmetric(horizontal: 2),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    displayText,
+                    style: const TextStyle(
+                      fontSize: 18,
+                      color: Colors.red,
+                      decoration: TextDecoration.lineThrough,
+                    ),
+                  ),
+                  const SizedBox(width: 4),
+                  Text(
+                    _correctAnswers[word.index]!,
+                    style: const TextStyle(
+                      fontSize: 18,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
+              ),
+            );
+          }
+
+          return GestureDetector(
+            onTap: () => _handleWordClick(word.index),
+            child: Container(
+              margin: const EdgeInsets.symmetric(horizontal: 2),
+              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+              decoration: BoxDecoration(
+                color: isSelected && !_isAnswerChecked
+                    ? Colors.blue.shade50
+                    : null,
+                borderRadius: BorderRadius.circular(4),
+              ),
+              child: Text(
+                displayText,
+                style: TextStyle(
+                  fontSize: 18,
+                  color: textColor,
+                  decoration: decoration,
+                  fontWeight: word.isTarget
+                      ? FontWeight.w500
+                      : FontWeight.normal,
+                ),
+              ),
+            ),
+          );
+        }
+
+        return Text(
+          word.text,
+          style: const TextStyle(fontSize: 18, height: 1.6),
+        );
+      }).toList(),
+    );
+  }
+
+  Widget _buildArticleContent() {
+    return Wrap(
+      spacing: 0,
+      runSpacing: 8,
+      children: _currentWords.map((word) {
+        String? selectedArt = _playerSelections[word.index];
+        String? correctArt = _correctAnswers[word.index];
+
+        bool isCorrect = false;
+        bool isMissed = false;
+        bool isError = false;
+
+        if (_isAnswerChecked) {
+          if (correctArt != null) {
+            if (selectedArt != null &&
+                selectedArt.toLowerCase() == correctArt.toLowerCase()) {
+              isCorrect = true;
+            } else {
+              isMissed = true;
+            }
+          } else {
+            if (selectedArt != null) {
+              isError = true;
+            }
+          }
+        }
+
+        List<Widget> children = [];
+
+        // Helper to optionally capitalize
+        String format(String s) =>
+            word.shouldCapitalizeArticle ? _capitalize(s) : s;
+
+        // Article Widget
+        if (selectedArt != null || (isMissed && correctArt != null)) {
+          String textToShow = '';
+          Color color = Colors.blue;
+          TextDecoration? decoration;
+
+          if (_isAnswerChecked) {
+            if (isCorrect) {
+              textToShow = selectedArt!;
+              color = Colors.green;
+            } else if (isMissed) {
+              if (selectedArt != null) {
+                // Show wrong selection crossed out
+                children.add(
+                  Text(
+                    "${selectedArt} ",
+                    style: const TextStyle(
+                      fontSize: 18,
+                      color: Colors.red,
+                      decoration: TextDecoration.lineThrough,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                );
+              }
+              textToShow = format(correctArt!); // Format correct answer
+              color = Colors.orange;
+            } else if (isError) {
+              textToShow = selectedArt!;
+              color = Colors.red;
+              decoration = TextDecoration.lineThrough;
+            }
+          } else {
+            textToShow = selectedArt ?? '';
+          }
+
+          if (textToShow.isNotEmpty) {
+            children.add(
+              Text(
+                "$textToShow ",
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: color,
+                  decoration: decoration,
+                ),
+              ),
+            );
+          }
+        }
+
+        // The Word itself
+        String wordDisplay = word.originalText;
+        if (selectedArt != null || (isMissed && correctArt != null)) {
+          // If article precedes, should word allow lowercase?
+          if (!_namesLower.contains(word.text.toLowerCase()) &&
+              wordDisplay != 'I') {
+            wordDisplay = wordDisplay.toLowerCase();
+          }
+        }
+
+        children.add(
+          Text(wordDisplay, style: const TextStyle(fontSize: 18, height: 1.5)),
+        );
+
+        return GestureDetector(
+          onTap: () => _handleWordClick(word.index),
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 2),
+            decoration: BoxDecoration(
+              color: (selectedArt != null && !_isAnswerChecked)
+                  ? Colors.blue.shade50
+                  : null,
+              borderRadius: BorderRadius.circular(4),
+            ),
+            child: Row(mainAxisSize: MainAxisSize.min, children: children),
+          ),
+        );
+      }).toList(),
+    );
+  }
+
+  String _capitalize(String s) {
+    if (s.isEmpty) return s;
+    return s[0].toUpperCase() + s.substring(1);
   }
 }
 

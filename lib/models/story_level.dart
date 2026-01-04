@@ -21,11 +21,11 @@ class StoryLevel {
       title: json['title'] ?? '',
       content: json['content'] ?? '',
       explanationZhTw:
-          json['explanation-zh-TW'] ?? json['explanationZhTw'] ?? '',
+          json['explanationZhTw'] ?? json['explanation-zh-TW'] ?? '',
       explanationZhCn:
-          json['explanation-zh-CN'] ?? json['explanationZhCn'] ?? '',
+          json['explanationZhCn'] ?? json['explanation-zh-CN'] ?? '',
       explanationEnUs:
-          json['explanation-en-US'] ?? json['explanationEnUs'] ?? '',
+          json['explanationEnUs'] ?? json['explanation-en-US'] ?? '',
     );
   }
 }

@@ -3,400 +3,400 @@
     "id": "ti1",
     "title": "Slept",
     "content": "I [slept|slept the bed] for ten hours. He [bought a new car|bought] yesterday. She [arrived|arrived the station] early. They [took the pizza|took] quickly. The baby [cried|cried the toy] loudly.",
-    "explanation-zh-TW": "及物動詞 (Transitive) 需要受詞；不及物動詞 (Intransitive) 不需要。\n1. **slept**: 不及物，不可直接接名詞。\n2. **bought**: 及物，買「什麼」？買 a new car。\n3. **arrived**: 不及物，不可直接接受詞。\n4. **took**: 及物，拿 pizza。\n5. **cried**: 不及物，不接受詞。",
-    "explanation-zh-CN": "及物动词 (Transitive) 需要宾语；不及物动词 (Intransitive) 不需要。\n1. **slept**: 不及物，不可直接接名词。\n2. **bought**: 及物，买“什么”？买 a new car。\n3. **arrived**: 不及物，不可直接接宾语。\n4. **took**: 及物，拿 pizza。\n5. **cried**: 不及物，不接宾语。",
-    "explanation-en-US": "Transitive verbs need an object; Intransitive verbs do not.\n1. **slept**: Intransitive.\n2. **bought**: Transitive.\n3. **arrived**: Intransitive.\n4. **took**: Transitive.\n5. **cried**: Intransitive."
+    "explanationZhTw": "及物動詞 (Transitive) 需要受詞；不及物動詞 (Intransitive) 不需要。\n1. **slept**: 不及物，不可直接接名詞。\n2. **bought**: 及物，買「什麼」？買 a new car。\n3. **arrived**: 不及物，不可直接接受詞。\n4. **took**: 及物，拿 pizza。\n5. **cried**: 不及物，不接受詞。",
+    "explanationZhCn": "及物动词 (Transitive) 需要宾语；不及物动词 (Intransitive) 不需要。\n1. **slept**: 不及物，不可直接接名词。\n2. **bought**: 及物，买“什么”？买 a new car。\n3. **arrived**: 不及物，不可直接接宾语。\n4. **took**: 及物，拿 pizza。\n5. **cried**: 不及物，不接宾语。",
+    "explanationEnUs": "Transitive verbs need an object; Intransitive verbs do not.\n1. **slept**: Intransitive.\n2. **bought**: Transitive.\n3. **arrived**: Intransitive.\n4. **took**: Transitive.\n5. **cried**: Intransitive."
   },
   {
     "id": "ti2",
     "title": "Then",
     "content": "I [woke up|woke up the clock] at 7 AM. I [washed my face|washed]. Then I [went|went the kitchen] to make coffee. I [drank the coffee|drank] slowly. My dog [barked|barked me] at the mailman.",
-    "explanation-zh-TW": "1. **woke up**: 不及物。\n2. **washed**: 及物 (washed my face)。\n3. **went**: 不及物 (went to the kitchen)。\n4. **drank**: 及物 (drank the coffee)。\n5. **barked**: 不及物 (barked at me)。",
-    "explanation-zh-CN": "1. **woke up**: 不及物。\n2. **washed**: 及物 (washed my face)。\n3. **went**: 不及物 (went to the kitchen)。\n4. **drank**: 及物 (drank the coffee)。\n5. **barked**: 不及物 (barked at me)。",
-    "explanation-en-US": "1. **woke up**: Intransitive.\n2. **washed**: Transitive.\n3. **went**: Intransitive.\n4. **drank**: Transitive.\n5. **barked**: Intransitive."
+    "explanationZhTw": "1. **woke up**: 不及物。\n2. **washed**: 及物 (washed my face)。\n3. **went**: 不及物 (went to the kitchen)。\n4. **drank**: 及物 (drank the coffee)。\n5. **barked**: 不及物 (barked at me)。",
+    "explanationZhCn": "1. **woke up**: 不及物。\n2. **washed**: 及物 (washed my face)。\n3. **went**: 不及物 (went to the kitchen)。\n4. **drank**: 及物 (drank the coffee)。\n5. **barked**: 不及物 (barked at me)。",
+    "explanationEnUs": "1. **woke up**: Intransitive.\n2. **washed**: Transitive.\n3. **went**: Intransitive.\n4. **drank**: Transitive.\n5. **barked**: Intransitive."
   },
   {
     "id": "ti3",
     "title": "Someone",
     "content": "The teacher [explained the lesson|explained]. We [sat|sat the chair] quietly. A student [asked a question|asked]. Someone [sneezed|sneezed the paper] loudly. We [learned many new words|learned].",
-    "explanation-zh-TW": "1. **explained**: 及物。\n2. **sat**: 不及物。\n3. **asked**: 及物。\n4. **sneezed**: 不及物。\n5. **learned**: 及物。",
-    "explanation-zh-CN": "1. **explained**: 及物。\n2. **sat**: 不及物。\n3. **asked**: 及物。\n4. **sneezed**: 不及物。\n5. **learned**: 及物。",
-    "explanation-en-US": "1. **explained**: Transitive.\n2. **sat**: Intransitive.\n3. **asked**: Transitive.\n4. **sneezed**: Intransitive.\n5. **learned**: Transitive."
+    "explanationZhTw": "1. **explained**: 及物。\n2. **sat**: 不及物。\n3. **asked**: 及物。\n4. **sneezed**: 不及物。\n5. **learned**: 及物。",
+    "explanationZhCn": "1. **explained**: 及物。\n2. **sat**: 不及物。\n3. **asked**: 及物。\n4. **sneezed**: 不及物。\n5. **learned**: 及物。",
+    "explanationEnUs": "1. **explained**: Transitive.\n2. **sat**: Intransitive.\n3. **asked**: Transitive.\n4. **sneezed**: Intransitive.\n5. **learned**: Transitive."
   },
   {
     "id": "ti4",
     "title": "Japan",
     "content": "I [dreamed|dreamed the trip] about Japan. I [planned the itinerary|planned]. The plane [departed|departed the time] at noon. I [visited many shrines|visited]. I [stayed|stayed the hotel] near the park.",
-    "explanation-zh-TW": "1. **dreamed**: 不及物。\n2. **planned**: 及物。\n3. **departed**: 不及物。\n4. **visited**: 及物。\n5. **stayed**: 不及物。",
-    "explanation-zh-CN": "1. **dreamed**: 不及物。\n2. **planned**: 及物。\n3. **departed**: 不及物。\n4. **visited**: 及物。\n5. **stayed**: 不及物。",
-    "explanation-en-US": "1. **dreamed**: Intransitive.\n2. **planned**: Transitive.\n3. **departed**: Intransitive.\n4. **visited**: Transitive.\n5. **stayed**: Intransitive."
+    "explanationZhTw": "1. **dreamed**: 不及物。\n2. **planned**: 及物。\n3. **departed**: 不及物。\n4. **visited**: 及物。\n5. **stayed**: 不及物。",
+    "explanationZhCn": "1. **dreamed**: 不及物。\n2. **planned**: 及物。\n3. **departed**: 不及物。\n4. **visited**: 及物。\n5. **stayed**: 不及物。",
+    "explanationEnUs": "1. **dreamed**: Intransitive.\n2. **planned**: Transitive.\n3. **departed**: Intransitive.\n4. **visited**: Transitive.\n5. **stayed**: Intransitive."
   },
   {
     "id": "ti5",
     "title": "Crash",
     "content": "My computer [crashed|crashed the file]. I [restarted the system|restarted]. I [waited|waited the screen] for a long time. It [worked|worked the mouse] again. I [saved my work|saved] immediately.",
-    "explanation-zh-TW": "1. **crashed**: 不及物。\n2. **restarted**: 及物。\n3. **waited**: 不及物。\n4. **worked**: 不及物。\n5. **saved**: 及物。",
-    "explanation-zh-CN": "1. **crashed**: 不及物。\n2. **restarted**: 及物。\n3. **waited**: 不及物。\n4. **worked**: 不及物。\n5. **saved**: 及物。",
-    "explanation-en-US": "1. **crashed**: Intransitive.\n2. **restarted**: Transitive.\n3. **waited**: Intransitive.\n4. **worked**: Intransitive.\n5. **saved**: Transitive."
+    "explanationZhTw": "1. **crashed**: 不及物。\n2. **restarted**: 及物。\n3. **waited**: 不及物。\n4. **worked**: 不及物。\n5. **saved**: 及物。",
+    "explanationZhCn": "1. **crashed**: 不及物。\n2. **restarted**: 及物。\n3. **waited**: 不及物。\n4. **worked**: 不及物。\n5. **saved**: 及物。",
+    "explanationEnUs": "1. **crashed**: Intransitive.\n2. **restarted**: Transitive.\n3. **waited**: Intransitive.\n4. **worked**: Intransitive.\n5. **saved**: Transitive."
   },
   {
     "id": "ti6",
     "title": "Drove",
     "content": "He [drove|drove the sky] to work. He [parked the car|parked] carefully. He [walked|walked the street] to the office. He [saw his boss|saw] in the lobby. He [waited|waited the elevator] for five minutes.",
-    "explanation-zh-TW": "1. **drove**: 不及物 (在這裡驅車往...)。\n2. **parked**: 及物。\n3. **walked**: 不及物。\n4. **saw**: 及物。\n5. **waited**: 不及物。",
-    "explanation-zh-CN": "1. **drove**: 不及物 (在这里驱车往...)。\n2. **parked**: 及物。\n3. **walked**: 不及物。\n4. **saw**: 及物。\n5. **waited**: 不及物。",
-    "explanation-en-US": "1. **drove**: Intransitive (here: traveled by car).\n2. **parked**: Transitive.\n3. **walked**: Intransitive (walked to...).\n4. **saw**: Transitive.\n5. **waited**: Intransitive."
+    "explanationZhTw": "1. **drove**: 不及物 (在這裡驅車往...)。\n2. **parked**: 及物。\n3. **walked**: 不及物。\n4. **saw**: 及物。\n5. **waited**: 不及物。",
+    "explanationZhCn": "1. **drove**: 不及物 (在这里驱车往...)。\n2. **parked**: 及物。\n3. **walked**: 不及物。\n4. **saw**: 及物。\n5. **waited**: 不及物。",
+    "explanationEnUs": "1. **drove**: Intransitive (here: traveled by car).\n2. **parked**: Transitive.\n3. **walked**: Intransitive (walked to...).\n4. **saw**: Transitive.\n5. **waited**: Intransitive."
   },
   {
     "id": "ti7",
     "title": "Everyone",
     "content": "I [boiled some water|boiled]. I [chopped the onions|chopped]. The soup [simmered|simmered the pot] on the stove. I [tasted the flavor|tasted]. Everyone [smiled|smiled the food] at the table.",
-    "explanation-zh-TW": "1. **boiled**: 及物。\n2. **chopped**: 及物。\n3. **simmered**: 不及物。\n4. **tasted**: 及物。\n5. **smiled**: 不及物。",
-    "explanation-zh-CN": "1. **boiled**: 及物。\n2. **chopped**: 及物。\n3. **simmered**: 不及物。\n4. **tasted**: 及物。\n5. **smiled**: 不及物。",
-    "explanation-en-US": "1. **boiled**: Transitive.\n2. **chopped**: Transitive.\n3. **simmered**: Intransitive.\n4. **tasted**: Transitive.\n5. **smiled**: Intransitive."
+    "explanationZhTw": "1. **boiled**: 及物。\n2. **chopped**: 及物。\n3. **simmered**: 不及物。\n4. **tasted**: 及物。\n5. **smiled**: 不及物。",
+    "explanationZhCn": "1. **boiled**: 及物。\n2. **chopped**: 及物。\n3. **simmered**: 不及物。\n4. **tasted**: 及物。\n5. **smiled**: 不及物。",
+    "explanationEnUs": "1. **boiled**: Transitive.\n2. **chopped**: Transitive.\n3. **simmered**: Intransitive.\n4. **tasted**: Transitive.\n5. **smiled**: Intransitive."
   },
   {
     "id": "ti8",
     "title": "Jogg",
     "content": "I [jogged|jogged the track] for thirty minutes. I [lifted the weights|lifted]. I [stretched|stretched the sky] slowly. I [sweated|sweated the shirt] a lot. I [drank some water|drank] after.",
-    "explanation-zh-TW": "1. **jogged**: 不及物。\n2. **lifted**: 及物。\n3. **stretched**: 不及物。\n4. **sweated**: 不及物。\n5. **drank**: 及物。",
-    "explanation-zh-CN": "1. **jogged**: 不及物。\n2. **lifted**: 及物。\n3. **stretched**: 不及物。\n4. **sweated**: 不及物。\n5. **drank**: 及物。",
-    "explanation-en-US": "1. **jogged**: Intransitive.\n2. **lifted**: Transitive.\n3. **stretched**: Intransitive (here: exercise action).\n4. **sweated**: Intransitive.\n5. **drank**: Transitive."
+    "explanationZhTw": "1. **jogged**: 不及物。\n2. **lifted**: 及物。\n3. **stretched**: 不及物。\n4. **sweated**: 不及物。\n5. **drank**: 及物。",
+    "explanationZhCn": "1. **jogged**: 不及物。\n2. **lifted**: 及物。\n3. **stretched**: 不及物。\n4. **sweated**: 不及物。\n5. **drank**: 及物。",
+    "explanationEnUs": "1. **jogged**: Intransitive.\n2. **lifted**: Transitive.\n3. **stretched**: Intransitive (here: exercise action).\n4. **sweated**: Intransitive.\n5. **drank**: Transitive."
   },
   {
     "id": "ti9",
     "title": "Bloom",
     "content": "Flowers [bloom|bloom the garden] in spring. The trees [grow|grow the sky] quickly. I [picked a red rose|picked]. It [rained|rained the ground] yesterday. I [watched the sunset|watched].",
-    "explanation-zh-TW": "1. **bloom**: 不及物。\n2. **grow**: 不及物。\n3. **picked**: 及物。\n4. **rained**: 不及物。\n5. **watched**: 及物。",
-    "explanation-zh-CN": "1. **bloom**: 不及物。\n2. **grow**: 不及物。\n3. **picked**: 及物。\n4. **rained**: 不及物。\n5. **watched**: 及物。",
-    "explanation-en-US": "1. **bloom**: Intransitive.\n2. **grow**: Intransitive.\n3. **picked**: Transitive.\n4. **rained**: Intransitive.\n5. **watched**: Transitive."
+    "explanationZhTw": "1. **bloom**: 不及物。\n2. **grow**: 不及物。\n3. **picked**: 及物。\n4. **rained**: 不及物。\n5. **watched**: 及物。",
+    "explanationZhCn": "1. **bloom**: 不及物。\n2. **grow**: 不及物。\n3. **picked**: 及物。\n4. **rained**: 不及物。\n5. **watched**: 及物。",
+    "explanationEnUs": "1. **bloom**: Intransitive.\n2. **grow**: Intransitive.\n3. **picked**: Transitive.\n4. **rained**: Intransitive.\n5. **watched**: Transitive."
   },
   {
     "id": "ti10",
     "title": "Email",
     "content": "I [typed the email|typed]. The printer [failed|failed the paper]. I [clicked|clicked the table] on the link. I [thought|thought the idea] about the project. I [wrote a short memo|wrote].",
-    "explanation-zh-TW": "1. **typed**: 及物。\n2. **failed**: 不及物。\n3. **clicked**: 不及物 (clicked on)。\n4. **thought**: 不及物 (thought about)。\n5. **wrote**: 及物。",
-    "explanation-zh-CN": "1. **typed**: 及物。\n2. **failed**: 不及物。\n3. **clicked**: 不及物 (clicked on)。\n4. **thought**: 不及物 (thought about)。\n5. **wrote**: 及物。",
-    "explanation-en-US": "1. **typed**: Transitive.\n2. **failed**: Intransitive.\n3. **clicked**: Intransitive (needs 'on').\n4. **thought**: Intransitive (needs 'about').\n5. **wrote**: Transitive."
+    "explanationZhTw": "1. **typed**: 及物。\n2. **failed**: 不及物。\n3. **clicked**: 不及物 (clicked on)。\n4. **thought**: 不及物 (thought about)。\n5. **wrote**: 及物。",
+    "explanationZhCn": "1. **typed**: 及物。\n2. **failed**: 不及物。\n3. **clicked**: 不及物 (clicked on)。\n4. **thought**: 不及物 (thought about)。\n5. **wrote**: 及物。",
+    "explanationEnUs": "1. **typed**: Transitive.\n2. **failed**: Intransitive.\n3. **clicked**: Intransitive (needs 'on').\n4. **thought**: Intransitive (needs 'about').\n5. **wrote**: Transitive."
   },
   {
     "id": "ti11",
     "title": "Swam",
     "content": "We [swam|swam the ocean] in the morning. I [dove|dove the water] from the platform. The sun [shone|shone the sand] brightly. I [built a sandcastle|built]. We [found some seashells|found].",
-    "explanation-zh-TW": "1. **swam**: 不及物。\n2. **dove**: 不及物。\n3. **shone**: 不及物。\n4. **built**: 及物。\n5. **found**: 及物。",
-    "explanation-zh-CN": "1. **swam**: 不及物。\n2. **dove**: 不及物。\n3. **shone**: 不及物。\n4. **built**: 及物。\n5. **found**: 及物。",
-    "explanation-en-US": "1. **swam**: Intransitive.\n2. **dove**: Intransitive.\n3. **shone**: Intransitive.\n4. **built**: Transitive.\n5. **found**: Transitive."
+    "explanationZhTw": "1. **swam**: 不及物。\n2. **dove**: 不及物。\n3. **shone**: 不及物。\n4. **built**: 及物。\n5. **found**: 及物。",
+    "explanationZhCn": "1. **swam**: 不及物。\n2. **dove**: 不及物。\n3. **shone**: 不及物。\n4. **built**: 及物。\n5. **found**: 及物。",
+    "explanationEnUs": "1. **swam**: Intransitive.\n2. **dove**: Intransitive.\n3. **shone**: Intransitive.\n4. **built**: Transitive.\n5. **found**: Transitive."
   },
   {
     "id": "ti12",
     "title": "Movie",
     "content": "We [watched a romantic movie|watched]. The film [started|started ] at 7 PM. I [laughed|laughed the joke] at the funny scenes. The popcorn [smelled|smelled the room] delicious. We [finished the whole bag|finished].",
-    "explanation-zh-TW": "1. **watched**: 及物。\n2. **started**: 不及物。\n3. **laughed**: 不及物 (laughed at)。\n4. **smelled**: 不及物 (連綴/不及物)。\n5. **finished**: 及物。",
-    "explanation-zh-CN": "1. **watched**: 及物。\n2. **started**: 不及物。\n3. **laughed**: 不及物 (laughed at)。\n4. **smelled**: 不及物 (连缀/不及物)。\n5. **finished**: 及物。",
-    "explanation-en-US": "1. **watched**: Transitive.\n2. **started**: Intransitive.\n3. **laughed**: Intransitive (laughed at).\n4. **smelled**: Intransitive.\n5. **finished**: Transitive."
+    "explanationZhTw": "1. **watched**: 及物。\n2. **started**: 不及物。\n3. **laughed**: 不及物 (laughed at)。\n4. **smelled**: 不及物 (連綴/不及物)。\n5. **finished**: 及物。",
+    "explanationZhCn": "1. **watched**: 及物。\n2. **started**: 不及物。\n3. **laughed**: 不及物 (laughed at)。\n4. **smelled**: 不及物 (连缀/不及物)。\n5. **finished**: 及物。",
+    "explanationEnUs": "1. **watched**: Transitive.\n2. **started**: Intransitive.\n3. **laughed**: Intransitive (laughed at).\n4. **smelled**: Intransitive.\n5. **finished**: Transitive."
   },
   {
     "id": "ti13",
     "title": "Hole",
     "content": "I [dug a hole|dug]. I [planted a young tree|planted]. The leaves [fell|fell the ground] in autumn. I [watered the soil|watered]. The sun [disappeared|disappeared the sky] behind clouds.",
-    "explanation-zh-TW": "1. **dug**: 及物。\n2. **planted**: 及物。\n3. **fell**: 不及物。\n4. **watered**: 及物。\n5. **disappeared**: 不及物。",
-    "explanation-zh-CN": "1. **dug**: 及物。\n2. **planted**: 及物。\n3. **fell**: 不及物。\n4. **watered**: 及物。\n5. **disappeared**: 不及物。",
-    "explanation-en-US": "1. **dug**: Transitive.\n2. **planted**: Transitive.\n3. **fell**: Intransitive.\n4. **watered**: Transitive.\n5. **disappeared**: Intransitive."
+    "explanationZhTw": "1. **dug**: 及物。\n2. **planted**: 及物。\n3. **fell**: 不及物。\n4. **watered**: 及物。\n5. **disappeared**: 不及物。",
+    "explanationZhCn": "1. **dug**: 及物。\n2. **planted**: 及物。\n3. **fell**: 不及物。\n4. **watered**: 及物。\n5. **disappeared**: 不及物。",
+    "explanationEnUs": "1. **dug**: Transitive.\n2. **planted**: Transitive.\n3. **fell**: Intransitive.\n4. **watered**: Transitive.\n5. **disappeared**: Intransitive."
   },
   {
     "id": "ti14",
     "title": "Candle",
     "content": "She [blew out the candles|blew out]. We [sang 'Happy Birthday'|sang]. The music [played|played the ears] loudly. I [danced|danced ] all night. I [met many new friends|met].",
-    "explanation-zh-TW": "1. **blew out**: 及物。\n2. **sang**: 及物 (或不及物，此處接歌名為及物)。\n3. **played**: 不及物。\n4. **danced**: 不及物。\n5. **met**: 及物。",
-    "explanation-zh-CN": "1. **blew out**: 及物。\n2. **sang**: 及物 (或不及物，此处接歌名为及物)。\n3. **played**: 不及物。\n4. **danced**: 不及物。\n5. **met**: 及物。",
-    "explanation-en-US": "1. **blew out**: Transitive.\n2. **sang**: Transitive (with song name).\n3. **played**: Intransitive.\n4. **danced**: Intransitive.\n5. **met**: Transitive."
+    "explanationZhTw": "1. **blew out**: 及物。\n2. **sang**: 及物 (或不及物，此處接歌名為及物)。\n3. **played**: 不及物。\n4. **danced**: 不及物。\n5. **met**: 及物。",
+    "explanationZhCn": "1. **blew out**: 及物。\n2. **sang**: 及物 (或不及物，此处接歌名为及物)。\n3. **played**: 不及物。\n4. **danced**: 不及物。\n5. **met**: 及物。",
+    "explanationEnUs": "1. **blew out**: Transitive.\n2. **sang**: Transitive (with song name).\n3. **played**: Intransitive.\n4. **danced**: Intransitive.\n5. **met**: Transitive."
   },
   {
     "id": "ti15",
     "title": "Book",
     "content": "I [read a thick book|read]. I [borrowed three novels|borrowed]. The librarian [whispered|whispered the secret] softly. I [sat|sat the table] for two hours. I [learned|learned the facts] about ancient history.",
-    "explanation-zh-TW": "1. **read**: 及物。\n2. **borrowed**: 及物。\n3. **whispered**: 不及物。\n4. **sat**: 不及物。\n5. **learned**: 不及物 (learned about)。",
-    "explanation-zh-CN": "1. **read**: 及物。\n2. **borrowed**: 及物。\n3. **whispered**: 不及物。\n4. **sat**: 不及物。\n5. **learned**: 不及物 (learned about)。",
-    "explanation-en-US": "1. **read**: Transitive.\n2. **borrowed**: Transitive.\n3. **whispered**: Intransitive.\n4. **sat**: Intransitive.\n5. **learned**: Intransitive (needs 'about')."
+    "explanationZhTw": "1. **read**: 及物。\n2. **borrowed**: 及物。\n3. **whispered**: 不及物。\n4. **sat**: 不及物。\n5. **learned**: 不及物 (learned about)。",
+    "explanationZhCn": "1. **read**: 及物。\n2. **borrowed**: 及物。\n3. **whispered**: 不及物。\n4. **sat**: 不及物。\n5. **learned**: 不及物 (learned about)。",
+    "explanationEnUs": "1. **read**: Transitive.\n2. **borrowed**: Transitive.\n3. **whispered**: Intransitive.\n4. **sat**: Intransitive.\n5. **learned**: Intransitive (needs 'about')."
   },
   {
     "id": "ti16",
     "title": "Everyone",
     "content": "The player [kicked the ball|kicked]. He [ran|ran the goal] fast. The whistle [blew|blew the air] suddenly. We [won the match|won]. Everyone [cheered|cheered the team] loudly.",
-    "explanation-zh-TW": "1. **kicked**: 及物。\n2. **ran**: 不及物。\n3. **blew**: 不及物。\n4. **won**: 及物。\n5. **cheered**: 不及物。",
-    "explanation-zh-CN": "1. **kicked**: 及物。\n2. **ran**: 不及物。\n3. **blew**: 不及物。\n4. **won**: 及物。\n5. **cheered**: 不及物。",
-    "explanation-en-US": "1. **kicked**: Transitive.\n2. **ran**: Intransitive.\n3. **blew**: Intransitive.\n4. **won**: Transitive.\n5. **cheered**: Intransitive."
+    "explanationZhTw": "1. **kicked**: 及物。\n2. **ran**: 不及物。\n3. **blew**: 不及物。\n4. **won**: 及物。\n5. **cheered**: 不及物。",
+    "explanationZhCn": "1. **kicked**: 及物。\n2. **ran**: 不及物。\n3. **blew**: 不及物。\n4. **won**: 及物。\n5. **cheered**: 不及物。",
+    "explanationEnUs": "1. **kicked**: Transitive.\n2. **ran**: Intransitive.\n3. **blew**: Intransitive.\n4. **won**: Transitive.\n5. **cheered**: Intransitive."
   },
   {
     "id": "ti17",
     "title": "Astronomers",
     "content": "Stars [twinkle|twinkle the dark]. The moon [rose|rose the sky] at 8 PM. Astronomers [study the galaxies|study]. A comet [passed|passed the star] through the sky. I [sighed|sighed the moon] in wonder.",
-    "explanation-zh-TW": "1. **twinkle**: 不及物。\n2. **rose**: 不及物。\n3. **study**: 及物。\n4. **passed**: 不及物。\n5. **sighed**: 不及物。",
-    "explanation-zh-CN": "1. **twinkle**: 不及物。\n2. **rose**: 不及物。\n3. **study**: 及物。\n4. **passed**: 不及物。\n5. **sighed**: 不及物。",
-    "explanation-en-US": "1. **twinkle**: Intransitive.\n2. **rose**: Intransitive.\n3. **study**: Transitive.\n4. **passed**: Intransitive.\n5. **sighed**: Intransitive."
+    "explanationZhTw": "1. **twinkle**: 不及物。\n2. **rose**: 不及物。\n3. **study**: 及物。\n4. **passed**: 不及物。\n5. **sighed**: 不及物。",
+    "explanationZhCn": "1. **twinkle**: 不及物。\n2. **rose**: 不及物。\n3. **study**: 及物。\n4. **passed**: 不及物。\n5. **sighed**: 不及物。",
+    "explanationEnUs": "1. **twinkle**: Intransitive.\n2. **rose**: Intransitive.\n3. **study**: Transitive.\n4. **passed**: Intransitive.\n5. **sighed**: Intransitive."
   },
   {
     "id": "ti18",
     "title": "Melt",
     "content": "The snow [melted|melted the ground] slowly. I [wore a heavy coat|wore]. My hands [shook|shook the cold] from the chill. I [built a snowman|built]. The wind [howled|howled the house] all night.",
-    "explanation-zh-TW": "1. **melted**: 不及物。\n2. **wore**: 及物。\n3. **shook**: 不及物。\n4. **built**: 及物。\n5. **howled**: 不及物。",
-    "explanation-zh-CN": "1. **melted**: 不及物。\n2. **wore**: 及物。\n3. **shook**: 不及物。\n4. **built**: 及物。\n5. **howled**: 不及物。",
-    "explanation-en-US": "1. **melted**: Intransitive.\n2. **wore**: Transitive.\n3. **shook**: Intransitive.\n4. **built**: Transitive.\n5. **howled**: Intransitive."
+    "explanationZhTw": "1. **melted**: 不及物。\n2. **wore**: 及物。\n3. **shook**: 不及物。\n4. **built**: 及物。\n5. **howled**: 不及物。",
+    "explanationZhCn": "1. **melted**: 不及物。\n2. **wore**: 及物。\n3. **shook**: 不及物。\n4. **built**: 及物。\n5. **howled**: 不及物。",
+    "explanationEnUs": "1. **melted**: Intransitive.\n2. **wore**: Transitive.\n3. **shook**: Intransitive.\n4. **built**: Transitive.\n5. **howled**: Intransitive."
   },
   {
     "id": "ti19",
     "title": "Milk",
     "content": "I [poured the milk|poured]. The steam [rose|rose the cup] slowly. I [stirred the coffee|stirred]. The spoon [clinked|clinked the glass] loudly. I [enjoyed the morning peace|enjoyed].",
-    "explanation-zh-TW": "1. **poured**: 及物。\n2. **rose**: 不及物。\n3. **stirred**: 及物。\n4. **clinked**: 不及物。\n5. **enjoyed**: 及物。",
-    "explanation-zh-CN": "1. **poured**: 及物。\n2. **rose**: 不及物。\n3. **stirred**: 及物。\n4. **clinked**: 不及物。\n5. **enjoyed**: 及物。",
-    "explanation-en-US": "1. **poured**: Transitive.\n2. **rose**: Intransitive.\n3. **stirred**: Transitive.\n4. **clinked**: Intransitive.\n5. **enjoyed**: Transitive."
+    "explanationZhTw": "1. **poured**: 及物。\n2. **rose**: 不及物。\n3. **stirred**: 及物。\n4. **clinked**: 不及物。\n5. **enjoyed**: 及物。",
+    "explanationZhCn": "1. **poured**: 及物。\n2. **rose**: 不及物。\n3. **stirred**: 及物。\n4. **clinked**: 不及物。\n5. **enjoyed**: 及物。",
+    "explanationEnUs": "1. **poured**: Transitive.\n2. **rose**: Intransitive.\n3. **stirred**: Transitive.\n4. **clinked**: Intransitive.\n5. **enjoyed**: Transitive."
   },
   {
     "id": "ti20",
     "title": "Landscape",
     "content": "I [painted a landscape|painted]. The colors [mixed|mixed the canvas] well. I [cleaned the brushes|cleaned]. The instructor [nodded|nodded the student] in approval. I [sold my first painting|sold].",
-    "explanation-zh-TW": "1. **painted**: 及物。\n2. **mixed**: 不及物。\n3. **cleaned**: 及物。\n4. **nodded**: 不及物。\n5. **sold**: 及物。",
-    "explanation-zh-CN": "1. **painted**: 及物。\n2. **mixed**: 不及物。\n3. **cleaned**: 及物。\n4. **nodded**: 不及物。\n5. **sold**: 及物。",
-    "explanation-en-US": "1. **painted**: Transitive.\n2. **mixed**: Intransitive (here: combined).\n3. **cleaned**: Transitive.\n4. **nodded**: Intransitive.\n5. **sold**: Transitive."
+    "explanationZhTw": "1. **painted**: 及物。\n2. **mixed**: 不及物。\n3. **cleaned**: 及物。\n4. **nodded**: 不及物。\n5. **sold**: 及物。",
+    "explanationZhCn": "1. **painted**: 及物。\n2. **mixed**: 不及物。\n3. **cleaned**: 及物。\n4. **nodded**: 不及物。\n5. **sold**: 及物。",
+    "explanationEnUs": "1. **painted**: Transitive.\n2. **mixed**: Intransitive (here: combined).\n3. **cleaned**: Transitive.\n4. **nodded**: Intransitive.\n5. **sold**: Transitive."
   },
   {
     "id": "ti21",
     "title": "Peak",
     "content": "We [climbed the peak|climbed]. Our hearts [beat|beat the chest] fast. The view [appeared|appeared the eye] suddenly. I [breathed the fresh air|breathed]. We [descended|descended the sky] before dark.",
-    "explanation-zh-TW": "1. **climbed**: 及物。\n2. **beat**: 不及物 (跳動)。\n3. **appeared**: 不及物。\n4. **breathed**: 及物 (呼吸...空氣)。\n5. **descended**: 不及物 (或及物，此處接時間介系詞為不及物用法)。",
-    "explanation-zh-CN": "1. **climbed**: 及物。\n2. **beat**: 不及物 (跳动)。\n3. **appeared**: 不及物。\n4. **breathed**: 及物 (呼吸...空气)。\n5. **descended**: 不及物 (或及物，此处接时间介系词为不及物用法)。",
-    "explanation-en-US": "1. **climbed**: Transitive.\n2. **beat**: Intransitive.\n3. **appeared**: Intransitive.\n4. **breathed**: Transitive.\n5. **descended**: Intransitive."
+    "explanationZhTw": "1. **climbed**: 及物。\n2. **beat**: 不及物 (跳動)。\n3. **appeared**: 不及物。\n4. **breathed**: 及物 (呼吸...空氣)。\n5. **descended**: 不及物 (或及物，此處接時間介系詞為不及物用法)。",
+    "explanationZhCn": "1. **climbed**: 及物。\n2. **beat**: 不及物 (跳动)。\n3. **appeared**: 不及物。\n4. **breathed**: 及物 (呼吸...空气)。\n5. **descended**: 不及物 (或及物，此处接时间介系词为不及物用法)。",
+    "explanationEnUs": "1. **climbed**: Transitive.\n2. **beat**: Intransitive.\n3. **appeared**: Intransitive.\n4. **breathed**: Transitive.\n5. **descended**: Intransitive."
   },
   {
     "id": "ti22",
     "title": "Prices",
     "content": "I [bought some apples|bought]. The vendor [smiled|smiled the customer] at me. Prices [increased|increased the store] again. I [carried the heavy bags|carried]. The sun [set|set the sky] early.",
-    "explanation-zh-TW": "1. **bought**: 及物。\n2. **smiled**: 不及物。\n3. **increased**: 不及物。\n4. **carried**: 及物。\n5. **set**: 不及物。",
-    "explanation-zh-CN": "1. **bought**: 及物。\n2. **smiled**: 不及物。\n3. **increased**: 不及物。\n4. **carried**: 及物。\n5. **set**: 不及物。",
-    "explanation-en-US": "1. **bought**: Transitive.\n2. **smiled**: Intransitive.\n3. **increased**: Intransitive.\n4. **carried**: Transitive.\n5. **set**: Intransitive."
+    "explanationZhTw": "1. **bought**: 及物。\n2. **smiled**: 不及物。\n3. **increased**: 不及物。\n4. **carried**: 及物。\n5. **set**: 不及物。",
+    "explanationZhCn": "1. **bought**: 及物。\n2. **smiled**: 不及物。\n3. **increased**: 不及物。\n4. **carried**: 及物。\n5. **set**: 不及物。",
+    "explanationEnUs": "1. **bought**: Transitive.\n2. **smiled**: Intransitive.\n3. **increased**: Intransitive.\n4. **carried**: Transitive.\n5. **set**: Intransitive."
   },
   {
     "id": "ti23",
     "title": "Dust",
     "content": "I [swept the floor|swept]. Dust [floated|floated the light] in the air. I [organized the closet|organized]. The window [shone|shone the light] after washing. I [relaxed|relaxed the sofa] on the sofa.",
-    "explanation-zh-TW": "1. **swept**: 及物。\n2. **floated**: 不及物。\n3. **organized**: 及物。\n4. **shone**: 不及物。\n5. **relaxed**: 不及物。",
-    "explanation-zh-CN": "1. **swept**: 及物。\n2. **floated**: 不及物。\n3. **organized**: 及物。\n4. **shone**: 不及物。\n5. **relaxed**: 不及物。",
-    "explanation-en-US": "1. **swept**: Transitive.\n2. **floated**: Intransitive.\n3. **organized**: Transitive.\n4. **shone**: Intransitive.\n5. **relaxed**: Intransitive."
+    "explanationZhTw": "1. **swept**: 及物。\n2. **floated**: 不及物。\n3. **organized**: 及物。\n4. **shone**: 不及物。\n5. **relaxed**: 不及物。",
+    "explanationZhCn": "1. **swept**: 及物。\n2. **floated**: 不及物。\n3. **organized**: 及物。\n4. **shone**: 不及物。\n5. **relaxed**: 不及物。",
+    "explanationEnUs": "1. **swept**: Transitive.\n2. **floated**: Intransitive.\n3. **organized**: Transitive.\n4. **shone**: Intransitive.\n5. **relaxed**: Intransitive."
   },
   {
     "id": "ti24",
     "title": "Cat",
     "content": "I [fed the cat|fed]. The cat [purred|purred the milk] loudly. I [brushed its fur|brushed]. It [slept|slept the rug] on the rug. I [took it to the vet|took].",
-    "explanation-zh-TW": "1. **fed**: 及物。\n2. **purred**: 不及物。\n3. **brushed**: 及物。\n4. **slept**: 不及物。\n5. **took**: 及物。",
-    "explanation-zh-CN": "1. **fed**: 及物。\n2. **purred**: 不及物。\n3. **brushed**: 及物。\n4. **slept**: 不及物。\n5. **took**: 及物。",
-    "explanation-en-US": "1. **fed**: Transitive.\n2. **purred**: Intransitive.\n3. **brushed**: Transitive.\n4. **slept**: Intransitive.\n5. **took**: Transitive."
+    "explanationZhTw": "1. **fed**: 及物。\n2. **purred**: 不及物。\n3. **brushed**: 及物。\n4. **slept**: 不及物。\n5. **took**: 及物。",
+    "explanationZhCn": "1. **fed**: 及物。\n2. **purred**: 不及物。\n3. **brushed**: 及物。\n4. **slept**: 不及物。\n5. **took**: 及物。",
+    "explanationEnUs": "1. **fed**: Transitive.\n2. **purred**: Intransitive.\n3. **brushed**: Transitive.\n4. **slept**: Intransitive.\n5. **took**: Transitive."
   },
   {
     "id": "ti25",
     "title": "Piano",
     "content": "He [plays the piano|plays]. The music [sounds|sounds the room] beautiful. He [practices|practices the time] every day. His skill [improved|improved the hand] quickly. We [applauded|applauded the song] enthusiastically.",
-    "explanation-zh-TW": "1. **plays**: 及物。\n2. **sounds**: 不及物。\n3. **practices**: 不及物 (或及物，此處單用為不及物)。\n4. **improved**: 不及物。\n5. **applauded**: 不及物。",
-    "explanation-zh-CN": "1. **plays**: 及物。\n2. **sounds**: 不及物。\n3. **practices**: 不及物 (或及物，此处单用为不及物)。\n4. **improved**: 不及物。\n5. **applauded**: 不及物。",
-    "explanation-en-US": "1. **plays**: Transitive.\n2. **sounds**: Intransitive.\n3. **practices**: Intransitive.\n4. **improved**: Intransitive.\n5. **applauded**: Intransitive."
+    "explanationZhTw": "1. **plays**: 及物。\n2. **sounds**: 不及物。\n3. **practices**: 不及物 (或及物，此處單用為不及物)。\n4. **improved**: 不及物。\n5. **applauded**: 不及物。",
+    "explanationZhCn": "1. **plays**: 及物。\n2. **sounds**: 不及物。\n3. **practices**: 不及物 (或及物，此处单用为不及物)。\n4. **improved**: 不及物。\n5. **applauded**: 不及物。",
+    "explanationEnUs": "1. **plays**: Transitive.\n2. **sounds**: Intransitive.\n3. **practices**: Intransitive.\n4. **improved**: Intransitive.\n5. **applauded**: Intransitive."
   },
   {
     "id": "ti26",
     "title": "Campfire",
     "content": "We [lit a campfire|lit]. The fire [burned|burned the water] all night. We [grilled marshmallows|grilled]. I [coughed|coughed the smoke] from the smoke. We [laughed|laughed the joke] around the fire.",
-    "explanation-zh-TW": "1. **lit**: 及物。\n2. **burned**: 不及物。\n3. **grilled**: 及物。\n4. **coughed**: 不及物。\n5. **laughed**: 不及物。",
-    "explanation-zh-CN": "1. **lit**: 及物。\n2. **burned**: 不及物。\n3. **grilled**: 及物。\n4. **coughed**: 不及物。\n5. **laughed**: 不及物。",
-    "explanation-en-US": "1. **lit**: Transitive.\n2. **burned**: Intransitive.\n3. **grilled**: Transitive.\n4. **coughed**: Intransitive.\n5. **laughed**: Intransitive."
+    "explanationZhTw": "1. **lit**: 及物。\n2. **burned**: 不及物。\n3. **grilled**: 及物。\n4. **coughed**: 不及物。\n5. **laughed**: 不及物。",
+    "explanationZhCn": "1. **lit**: 及物。\n2. **burned**: 不及物。\n3. **grilled**: 及物。\n4. **coughed**: 不及物。\n5. **laughed**: 不及物。",
+    "explanationEnUs": "1. **lit**: Transitive.\n2. **burned**: Intransitive.\n3. **grilled**: Transitive.\n4. **coughed**: Intransitive.\n5. **laughed**: Intransitive."
   },
   {
     "id": "ti27",
     "title": "London",
     "content": "I [checked my luggage|checked]. The plane [landed|landed the runway] safely. I [met my sister|met]. She [arrived|arrived the gate] from London. We [walked|walked the car] to the exit.",
-    "explanation-zh-TW": "1. **checked**: 及物。\n2. **landed**: 不及物。\n3. **met**: 及物。\n4. **arrived**: 不及物。\n5. **walked**: 不及物。",
-    "explanation-zh-CN": "1. **checked**: 及物。\n2. **landed**: 不及物。\n3. **met**: 及物。\n4. **arrived**: 不及物。\n5. **walked**: 不及物。",
-    "explanation-en-US": "1. **checked**: Transitive.\n2. **landed**: Intransitive.\n3. **met**: Transitive.\n4. **arrived**: Intransitive.\n5. **walked**: Intransitive."
+    "explanationZhTw": "1. **checked**: 及物。\n2. **landed**: 不及物。\n3. **met**: 及物。\n4. **arrived**: 不及物。\n5. **walked**: 不及物。",
+    "explanationZhCn": "1. **checked**: 及物。\n2. **landed**: 不及物。\n3. **met**: 及物。\n4. **arrived**: 不及物。\n5. **walked**: 不及物。",
+    "explanationEnUs": "1. **checked**: Transitive.\n2. **landed**: Intransitive.\n3. **met**: Transitive.\n4. **arrived**: Intransitive.\n5. **walked**: Intransitive."
   },
   {
     "id": "ti28",
     "title": "Game",
     "content": "I [played the game|played]. My character [died|died the monster] twice. I [battled a dragon|battled]. The score [increased|increased the screen] rapidly. I [won the first level|won].",
-    "explanation-zh-TW": "1. **played**: 及物。\n2. **died**: 不及物。\n3. **battled**: 及物。\n4. **increased**: 不及物。\n5. **won**: 及物。",
-    "explanation-zh-CN": "1. **played**: 及物。\n2. **died**: 不及物。\n3. **battled**: 及物。\n4. **increased**: 不及物。\n5. **won**: 及物。",
-    "explanation-en-US": "1. **played**: Transitive.\n2. **died**: Intransitive.\n3. **battled**: Transitive.\n4. **increased**: Intransitive.\n5. **won**: Transitive."
+    "explanationZhTw": "1. **played**: 及物。\n2. **died**: 不及物。\n3. **battled**: 及物。\n4. **increased**: 不及物。\n5. **won**: 及物。",
+    "explanationZhCn": "1. **played**: 及物。\n2. **died**: 不及物。\n3. **battled**: 及物。\n4. **increased**: 不及物。\n5. **won**: 及物。",
+    "explanationEnUs": "1. **played**: Transitive.\n2. **died**: Intransitive.\n3. **battled**: Transitive.\n4. **increased**: Intransitive.\n5. **won**: Transitive."
   },
   {
     "id": "ti29",
     "title": "Speech",
     "content": "I [prepared the speech|prepared]. The meeting [lasted|lasted the table] two hours. I [negotiated a better deal|negotiated]. The deal [failed|failed the money] eventually. I [returned|returned the sky] home tired.",
-    "explanation-zh-TW": "1. **prepared**: 及物。\n2. **lasted**: 不及物 (持續多久)。\n3. **negotiated**: 及物。\n4. **failed**: 不及物。\n5. **returned**: 不及物。",
-    "explanation-zh-CN": "1. **prepared**: 及物。\n2. **lasted**: 不及物 (持续多久)。\n3. **negotiated**: 及物。\n4. **failed**: 不及物。\n5. **returned**: 不及物。",
-    "explanation-en-US": "1. **prepared**: Transitive.\n2. **lasted**: Intransitive.\n3. **negotiated**: Transitive.\n4. **failed**: Intransitive.\n5. **returned**: Intransitive."
+    "explanationZhTw": "1. **prepared**: 及物。\n2. **lasted**: 不及物 (持續多久)。\n3. **negotiated**: 及物。\n4. **failed**: 不及物。\n5. **returned**: 不及物。",
+    "explanationZhCn": "1. **prepared**: 及物。\n2. **lasted**: 不及物 (持续多久)。\n3. **negotiated**: 及物。\n4. **failed**: 不及物。\n5. **returned**: 不及物。",
+    "explanationEnUs": "1. **prepared**: Transitive.\n2. **lasted**: Intransitive.\n3. **negotiated**: Transitive.\n4. **failed**: Intransitive.\n5. **returned**: Intransitive."
   },
   {
     "id": "ti30",
     "title": "Monday",
     "content": "I [studied the textbooks|studied]. The exam [occurred|occurred the room] on Monday. I [answered all questions|answered]. Time [passed|passed the watch] quickly. I [passed the course|passed].",
-    "explanation-zh-TW": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (時間流逝)。\n5. **passed**: 及物 (通過考試)。",
-    "explanation-zh-CN": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (时间流逝)。\n5. **passed**: 及物 (通过考试)。",
-    "explanation-en-US": "1. **studied**: Transitive.\n2. **occurred**: Intransitive.\n3. **answered**: Transitive.\n4. **passed**: Intransitive (time).\n5. **passed**: Transitive (exam)."
+    "explanationZhTw": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (時間流逝)。\n5. **passed**: 及物 (通過考試)。",
+    "explanationZhCn": "1. **studied**: 及物。\n2. **occurred**: 不及物。\n3. **answered**: 及物。\n4. **passed**: 不及物 (时间流逝)。\n5. **passed**: 及物 (通过考试)。",
+    "explanationEnUs": "1. **studied**: Transitive.\n2. **occurred**: Intransitive.\n3. **answered**: Transitive.\n4. **passed**: Intransitive (time).\n5. **passed**: Transitive (exam)."
   },
   {
     "id": "auto_transitive_intransitive_31",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_32",
     "title": "Bought",
     "content": "I [bought|arrive] a car.",
-    "explanation-zh-TW": "Buy needs an object.",
-    "explanation-en-US": "Buy needs an object.",
-    "explanation-zh-CN": "Buy needs an object."
+    "explanationZhTw": "Buy needs an object.",
+    "explanationEnUs": "Buy needs an object.",
+    "explanationZhCn": "Buy needs an object."
   },
   {
     "id": "auto_transitive_intransitive_33",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_34",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_35",
     "title": "Give",
     "content": "Give [me|to me] the book.",
-    "explanation-zh-TW": "Give + IO + DO.",
-    "explanation-en-US": "Give + IO + DO.",
-    "explanation-zh-CN": "Give + IO + DO."
+    "explanationZhTw": "Give + IO + DO.",
+    "explanationEnUs": "Give + IO + DO.",
+    "explanationZhCn": "Give + IO + DO."
   },
   {
     "id": "auto_transitive_intransitive_36",
     "title": "Slept",
     "content": "She [slept|hit] soundly.",
-    "explanation-zh-TW": "Sleep takes no object.",
-    "explanation-en-US": "Sleep takes no object.",
-    "explanation-zh-CN": "Sleep takes no object."
+    "explanationZhTw": "Sleep takes no object.",
+    "explanationEnUs": "Sleep takes no object.",
+    "explanationZhCn": "Sleep takes no object."
   },
   {
     "id": "auto_transitive_intransitive_37",
     "title": "Kick",
     "content": "He [kicked|slept] the ball.",
-    "explanation-zh-TW": "Kick needs object.",
-    "explanation-en-US": "Kick needs object.",
-    "explanation-zh-CN": "Kick needs object."
+    "explanationZhTw": "Kick needs object.",
+    "explanationEnUs": "Kick needs object.",
+    "explanationZhCn": "Kick needs object."
   },
   {
     "id": "auto_transitive_intransitive_38",
     "title": "Give",
     "content": "Give [me|to me] the book.",
-    "explanation-zh-TW": "Give + IO + DO.",
-    "explanation-en-US": "Give + IO + DO.",
-    "explanation-zh-CN": "Give + IO + DO."
+    "explanationZhTw": "Give + IO + DO.",
+    "explanationEnUs": "Give + IO + DO.",
+    "explanationZhCn": "Give + IO + DO."
   },
   {
     "id": "auto_transitive_intransitive_39",
     "title": "Kick",
     "content": "He [kicked|slept] the ball.",
-    "explanation-zh-TW": "Kick needs object.",
-    "explanation-en-US": "Kick needs object.",
-    "explanation-zh-CN": "Kick needs object."
+    "explanationZhTw": "Kick needs object.",
+    "explanationEnUs": "Kick needs object.",
+    "explanationZhCn": "Kick needs object."
   },
   {
     "id": "auto_transitive_intransitive_40",
     "title": "Bought",
     "content": "I [bought|arrive] a car.",
-    "explanation-zh-TW": "Buy needs an object.",
-    "explanation-en-US": "Buy needs an object.",
-    "explanation-zh-CN": "Buy needs an object."
+    "explanationZhTw": "Buy needs an object.",
+    "explanationEnUs": "Buy needs an object.",
+    "explanationZhCn": "Buy needs an object."
   },
   {
     "id": "auto_transitive_intransitive_41",
     "title": "Slept",
     "content": "She [slept|hit] soundly.",
-    "explanation-zh-TW": "Sleep takes no object.",
-    "explanation-en-US": "Sleep takes no object.",
-    "explanation-zh-CN": "Sleep takes no object."
+    "explanationZhTw": "Sleep takes no object.",
+    "explanationEnUs": "Sleep takes no object.",
+    "explanationZhCn": "Sleep takes no object."
   },
   {
     "id": "auto_transitive_intransitive_42",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_43",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_44",
     "title": "Give",
     "content": "Give [me|to me] the book.",
-    "explanation-zh-TW": "Give + IO + DO.",
-    "explanation-en-US": "Give + IO + DO.",
-    "explanation-zh-CN": "Give + IO + DO."
+    "explanationZhTw": "Give + IO + DO.",
+    "explanationEnUs": "Give + IO + DO.",
+    "explanationZhCn": "Give + IO + DO."
   },
   {
     "id": "auto_transitive_intransitive_45",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_46",
     "title": "Kick",
     "content": "He [kicked|slept] the ball.",
-    "explanation-zh-TW": "Kick needs object.",
-    "explanation-en-US": "Kick needs object.",
-    "explanation-zh-CN": "Kick needs object."
+    "explanationZhTw": "Kick needs object.",
+    "explanationEnUs": "Kick needs object.",
+    "explanationZhCn": "Kick needs object."
   },
   {
     "id": "auto_transitive_intransitive_47",
     "title": "Slept",
     "content": "She [slept|hit] soundly.",
-    "explanation-zh-TW": "Sleep takes no object.",
-    "explanation-en-US": "Sleep takes no object.",
-    "explanation-zh-CN": "Sleep takes no object."
+    "explanationZhTw": "Sleep takes no object.",
+    "explanationEnUs": "Sleep takes no object.",
+    "explanationZhCn": "Sleep takes no object."
   },
   {
     "id": "auto_transitive_intransitive_48",
     "title": "Kick",
     "content": "He [kicked|slept] the ball.",
-    "explanation-zh-TW": "Kick needs object.",
-    "explanation-en-US": "Kick needs object.",
-    "explanation-zh-CN": "Kick needs object."
+    "explanationZhTw": "Kick needs object.",
+    "explanationEnUs": "Kick needs object.",
+    "explanationZhCn": "Kick needs object."
   },
   {
     "id": "auto_transitive_intransitive_49",
     "title": "Cri",
     "content": "The baby [cried|bought].",
-    "explanation-zh-TW": "Cry takes no object.",
-    "explanation-en-US": "Cry takes no object.",
-    "explanation-zh-CN": "Cry takes no object."
+    "explanationZhTw": "Cry takes no object.",
+    "explanationEnUs": "Cry takes no object.",
+    "explanationZhCn": "Cry takes no object."
   },
   {
     "id": "auto_transitive_intransitive_50",
     "title": "Kick",
     "content": "He [kicked|slept] the ball.",
-    "explanation-zh-TW": "Kick needs object.",
-    "explanation-en-US": "Kick needs object.",
-    "explanation-zh-CN": "Kick needs object."
+    "explanationZhTw": "Kick needs object.",
+    "explanationEnUs": "Kick needs object.",
+    "explanationZhCn": "Kick needs object."
   }
 ]

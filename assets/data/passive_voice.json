@@ -3,400 +3,400 @@
     "title": "English",
     "id": "mistake",
     "content": "A mistake [was made|made|makes|making] by someone. The report [was written|wrote|writes|writing] by the manager. The house [was built|built|builds|building] in 1990. English [is spoken|speaks|spoke|speaking] all over the world. The thief [was caught|caught|catches|catching] by the police. The Mona Lisa [was painted|painted|paints|painting] by Da Vinci.",
-    "explanation-zh-TW": "# 🏛️ 過錯 (Passive Voice)\n\n被動語態：**Be + V-pp (過去分詞)**。當我們關注「動作的接受者」而非執行者時使用。\n\n1. **[was made]**: 錯誤「被」造成。\n2. **[was written]**: 報告「被」寫。\n3. **[was built]**: 房子「被」建造。\n4. **[is spoken]**: 英語「被」說 (現在事實)。\n5. **[was caught]**: 小偷「被」抓。\n6. **[was painted]**: 畫「被」畫。",
-    "explanation-en-US": "# 🏛️ The Mistake (Passive Voice)\n\nUse **Be + Past Participle** when the focus is on the object, not the doer.\n\n1. **[was made]**: A mistake was made.\n2. **[was written]**: Report was written.\n3. **[was built]**: House was built.\n4. **[is spoken]**: English is spoken.\n5. **[was caught]**: Thief was caught.\n6. **[was painted]**: It was painted.",
-    "explanation-zh-CN": "# 🏛️ 过错 (Passive Voice)\n\n被动语态：**Be + V-pp (过去分词)**。當我们关注「动作的接受者」而非执行者时使用。\n\n1. **[was made]**: 错誤「被」造成。\n2. **[was written]**: 報告「被」写。\n3. **[was built]**: 房子「被」建造。\n4. **[is spoken]**: 英语「被」说 (现在事实)。\n5. **[was caught]**: 小偷「被」抓。\n6. **[was painted]**: 画「被」画。"
+    "explanationZhTw": "# 🏛️ 過錯 (Passive Voice)\n\n被動語態：**Be + V-pp (過去分詞)**。當我們關注「動作的接受者」而非執行者時使用。\n\n1. **[was made]**: 錯誤「被」造成。\n2. **[was written]**: 報告「被」寫。\n3. **[was built]**: 房子「被」建造。\n4. **[is spoken]**: 英語「被」說 (現在事實)。\n5. **[was caught]**: 小偷「被」抓。\n6. **[was painted]**: 畫「被」畫。",
+    "explanationEnUs": "# 🏛️ The Mistake (Passive Voice)\n\nUse **Be + Past Participle** when the focus is on the object, not the doer.\n\n1. **[was made]**: A mistake was made.\n2. **[was written]**: Report was written.\n3. **[was built]**: House was built.\n4. **[is spoken]**: English is spoken.\n5. **[was caught]**: Thief was caught.\n6. **[was painted]**: It was painted.",
+    "explanationZhCn": "# 🏛️ 过错 (Passive Voice)\n\n被动语态：**Be + V-pp (过去分词)**。當我们关注「动作的接受者」而非执行者时使用。\n\n1. **[was made]**: 错誤「被」造成。\n2. **[was written]**: 報告「被」写。\n3. **[was built]**: 房子「被」建造。\n4. **[is spoken]**: 英语「被」说 (现在事实)。\n5. **[was caught]**: 小偷「被」抓。\n6. **[was painted]**: 画「被」画。"
   },
   {
     "id": "pv2",
     "title": "Japan",
     "content": "This car [is made|makes] in Japan. Phones [are made|make] in China.",
-    "explanation-zh-TW": "Passive: Be + V3.",
-    "explanation-en-US": "Be + Past Participle.",
-    "explanation-zh-CN": "Passive: Be + V3."
+    "explanationZhTw": "Passive: Be + V3.",
+    "explanationEnUs": "Be + Past Participle.",
+    "explanationZhCn": "Passive: Be + V3."
   },
   {
     "id": "pv3",
     "title": "May",
     "content": "I [was born|born] in 1990. She [was born|born] in May.",
-    "explanation-zh-TW": "Born always passive.",
-    "explanation-en-US": "Born is passive.",
-    "explanation-zh-CN": "Born always passive."
+    "explanationZhTw": "Born always passive.",
+    "explanationEnUs": "Born is passive.",
+    "explanationZhCn": "Born always passive."
   },
   {
     "id": "pv4",
     "title": "Built",
     "content": "The house [was built|built] in 1900. The bridge [was built|built] last year.",
-    "explanation-zh-TW": "Past Passive.",
-    "explanation-en-US": "Past Passive.",
-    "explanation-zh-CN": "Past Passive."
+    "explanationZhTw": "Past Passive.",
+    "explanationEnUs": "Past Passive.",
+    "explanationZhCn": "Past Passive."
   },
   {
     "id": "pv5",
     "title": "Spanish",
     "content": "English [is spoken|speaks] here. Spanish [is spoken|speaks] in Mexico.",
-    "explanation-zh-TW": "Language is spoken.",
-    "explanation-en-US": "Language is spoken.",
-    "explanation-zh-CN": "Language is spoken."
+    "explanationZhTw": "Language is spoken.",
+    "explanationEnUs": "Language is spoken.",
+    "explanationZhCn": "Language is spoken."
   },
   {
     "id": "pv6",
     "title": "Work",
     "content": "Note: Work [will be finished|will finish] tomorrow. It [will be done|will do] soon.",
-    "explanation-zh-TW": "Future Passive.",
-    "explanation-en-US": "Future Passive.",
-    "explanation-zh-CN": "Future Passive."
+    "explanationZhTw": "Future Passive.",
+    "explanationEnUs": "Future Passive.",
+    "explanationZhCn": "Future Passive."
   },
   {
     "id": "pv7",
     "title": "Clean",
     "content": "The room [has been cleaned|has cleaned]. The car [has been fixed|has fixed].",
-    "explanation-zh-TW": "Present Perfect Passive.",
-    "explanation-en-US": "Present Perfect Passive.",
-    "explanation-zh-CN": "Present Perfect Passive."
+    "explanationZhTw": "Present Perfect Passive.",
+    "explanationEnUs": "Present Perfect Passive.",
+    "explanationZhCn": "Present Perfect Passive."
   },
   {
     "id": "pv8",
     "title": "Repair",
     "content": "The road [is being repaired|is repairing]. The house [is being painted|is painting].",
-    "explanation-zh-TW": "Continuous Passive.",
-    "explanation-en-US": "Continuous Passive.",
-    "explanation-zh-CN": "Continuous Passive."
+    "explanationZhTw": "Continuous Passive.",
+    "explanationEnUs": "Continuous Passive.",
+    "explanationZhCn": "Continuous Passive."
   },
   {
     "id": "pv9",
     "title": "Potter",
     "content": "Harry Potter [was written|wrote] by J.K. Rowling. Hamlet [was written|wrote] by Shakespeare.",
-    "explanation-zh-TW": "Books written by...",
-    "explanation-en-US": "Written by.",
-    "explanation-zh-CN": "Books written by..."
+    "explanationZhTw": "Books written by...",
+    "explanationEnUs": "Written by.",
+    "explanationZhCn": "Books written by..."
   },
   {
     "id": "pv10",
     "title": "Cookies",
     "content": "Tickets [are sold|sell] online. Cookies [are sold|sell] here.",
-    "explanation-zh-TW": "Present Passive.",
-    "explanation-en-US": "Present Passive.",
-    "explanation-zh-CN": "Present Passive."
+    "explanationZhTw": "Present Passive.",
+    "explanationEnUs": "Present Passive.",
+    "explanationZhCn": "Present Passive."
   },
   {
     "id": "pv11",
     "title": "Mistakes",
     "content": "Valuables [were found|found] in the cave. Mistakes [were made|made].",
-    "explanation-zh-TW": "Past Passive Plural.",
-    "explanation-en-US": "Past Passive Plural.",
-    "explanation-zh-CN": "Past Passive Plural."
+    "explanationZhTw": "Past Passive Plural.",
+    "explanationEnUs": "Past Passive Plural.",
+    "explanationZhCn": "Past Passive Plural."
   },
   {
     "id": "pv12",
     "title": "Surpris",
     "content": "I [was surprised|surprised] by the news. She [was shocked|shocked].",
-    "explanation-zh-TW": "Adjective-like passive.",
-    "explanation-en-US": "Emotion passive.",
-    "explanation-zh-CN": "Adjective-like passive."
+    "explanationZhTw": "Adjective-like passive.",
+    "explanationEnUs": "Emotion passive.",
+    "explanationZhCn": "Adjective-like passive."
   },
   {
     "id": "pv13",
     "title": "Smoking",
     "content": "Dogs [are not allowed|do not allow] here. Smoking [is prohibited|prohibits].",
-    "explanation-zh-TW": "Rules passive.",
-    "explanation-en-US": "Rules.",
-    "explanation-zh-CN": "Rules passive."
+    "explanationZhTw": "Rules passive.",
+    "explanationEnUs": "Rules.",
+    "explanationZhCn": "Rules passive."
   },
   {
     "id": "pv14",
     "title": "Invit",
     "content": "I [was invited|invited] to the party. He [was not invited|did not invite].",
-    "explanation-zh-TW": "Invited passive.",
-    "explanation-en-US": "Invited.",
-    "explanation-zh-CN": "Invited passive."
+    "explanationZhTw": "Invited passive.",
+    "explanationEnUs": "Invited.",
+    "explanationZhCn": "Invited passive."
   },
   {
     "id": "pv15",
     "title": "Stolen",
     "content": "My wallet [was stolen|stole]. Her bag [has been stolen|has stolen].",
-    "explanation-zh-TW": "Theft passive.",
-    "explanation-en-US": "Theft.",
-    "explanation-zh-CN": "Theft passive."
+    "explanationZhTw": "Theft passive.",
+    "explanationEnUs": "Theft.",
+    "explanationZhCn": "Theft passive."
   },
   {
     "id": "auto_passive_voice_16",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_17",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_18",
     "title": "Book",
     "content": "The book was written [by|with] him.",
-    "explanation-zh-TW": "Passive uses 'by' for agent.",
-    "explanation-en-US": "Passive uses 'by' for agent.",
-    "explanation-zh-CN": "Passive uses 'by' for agent."
+    "explanationZhTw": "Passive uses 'by' for agent.",
+    "explanationEnUs": "Passive uses 'by' for agent.",
+    "explanationZhCn": "Passive uses 'by' for agent."
   },
   {
     "id": "auto_passive_voice_19",
     "title": "Done",
     "content": "It will be [done|do] soon.",
-    "explanation-zh-TW": "Will be + PP.",
-    "explanation-en-US": "Will be + PP.",
-    "explanation-zh-CN": "Will be + PP."
+    "explanationZhTw": "Will be + PP.",
+    "explanationEnUs": "Will be + PP.",
+    "explanationZhCn": "Will be + PP."
   },
   {
     "id": "auto_passive_voice_20",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_21",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_22",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_23",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_24",
     "title": "Book",
     "content": "The book was written [by|with] him.",
-    "explanation-zh-TW": "Passive uses 'by' for agent.",
-    "explanation-en-US": "Passive uses 'by' for agent.",
-    "explanation-zh-CN": "Passive uses 'by' for agent."
+    "explanationZhTw": "Passive uses 'by' for agent.",
+    "explanationEnUs": "Passive uses 'by' for agent.",
+    "explanationZhCn": "Passive uses 'by' for agent."
   },
   {
     "id": "auto_passive_voice_25",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_26",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_27",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_28",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_29",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_30",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_31",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_32",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_33",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_34",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_35",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_36",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_37",
     "title": "Done",
     "content": "It will be [done|do] soon.",
-    "explanation-zh-TW": "Will be + PP.",
-    "explanation-en-US": "Will be + PP.",
-    "explanation-zh-CN": "Will be + PP."
+    "explanationZhTw": "Will be + PP.",
+    "explanationEnUs": "Will be + PP.",
+    "explanationZhCn": "Will be + PP."
   },
   {
     "id": "auto_passive_voice_38",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_39",
     "title": "Book",
     "content": "The book was written [by|with] him.",
-    "explanation-zh-TW": "Passive uses 'by' for agent.",
-    "explanation-en-US": "Passive uses 'by' for agent.",
-    "explanation-zh-CN": "Passive uses 'by' for agent."
+    "explanationZhTw": "Passive uses 'by' for agent.",
+    "explanationEnUs": "Passive uses 'by' for agent.",
+    "explanationZhCn": "Passive uses 'by' for agent."
   },
   {
     "id": "auto_passive_voice_40",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_41",
     "title": "Book",
     "content": "The book was written [by|with] him.",
-    "explanation-zh-TW": "Passive uses 'by' for agent.",
-    "explanation-en-US": "Passive uses 'by' for agent.",
-    "explanation-zh-CN": "Passive uses 'by' for agent."
+    "explanationZhTw": "Passive uses 'by' for agent.",
+    "explanationEnUs": "Passive uses 'by' for agent.",
+    "explanationZhCn": "Passive uses 'by' for agent."
   },
   {
     "id": "auto_passive_voice_42",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_43",
     "title": "Done",
     "content": "It will be [done|do] soon.",
-    "explanation-zh-TW": "Will be + PP.",
-    "explanation-en-US": "Will be + PP.",
-    "explanation-zh-CN": "Will be + PP."
+    "explanationZhTw": "Will be + PP.",
+    "explanationEnUs": "Will be + PP.",
+    "explanationZhCn": "Will be + PP."
   },
   {
     "id": "auto_passive_voice_44",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_45",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_46",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   },
   {
     "id": "auto_passive_voice_47",
     "title": "Book",
     "content": "The book was written [by|with] him.",
-    "explanation-zh-TW": "Passive uses 'by' for agent.",
-    "explanation-en-US": "Passive uses 'by' for agent.",
-    "explanation-zh-CN": "Passive uses 'by' for agent."
+    "explanationZhTw": "Passive uses 'by' for agent.",
+    "explanationEnUs": "Passive uses 'by' for agent.",
+    "explanationZhCn": "Passive uses 'by' for agent."
   },
   {
     "id": "auto_passive_voice_48",
     "title": "Clean",
     "content": "The room has been [cleaned|clean].",
-    "explanation-zh-TW": "Has been + PP.",
-    "explanation-en-US": "Has been + PP.",
-    "explanation-zh-CN": "Has been + PP."
+    "explanationZhTw": "Has been + PP.",
+    "explanationEnUs": "Has been + PP.",
+    "explanationZhCn": "Has been + PP."
   },
   {
     "id": "auto_passive_voice_49",
     "title": "Wash",
     "content": "The car is [washed|wash] every day.",
-    "explanation-zh-TW": "Be + PP.",
-    "explanation-en-US": "Be + PP.",
-    "explanation-zh-CN": "Be + PP."
+    "explanationZhTw": "Be + PP.",
+    "explanationEnUs": "Be + PP.",
+    "explanationZhCn": "Be + PP."
   },
   {
     "id": "auto_passive_voice_50",
     "title": "Built",
     "content": "The house was [built|build] in 1990.",
-    "explanation-zh-TW": "Was/Were + PP.",
-    "explanation-en-US": "Was/Were + PP.",
-    "explanation-zh-CN": "Was/Were + PP."
+    "explanationZhTw": "Was/Were + PP.",
+    "explanationEnUs": "Was/Were + PP.",
+    "explanationZhCn": "Was/Were + PP."
   }
 ]

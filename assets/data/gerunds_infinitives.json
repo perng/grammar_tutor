@@ -3,400 +3,400 @@
         "title": "Hobbies and Habits",
         "id": "hobbies",
         "content": "I enjoy [swimming|to swim|swim|swam] in the ocean. I decided [to go|going|go|gone] to the park. He stopped [smoking|to smoke|smoke|smoked] for his health (quit forever). He stopped [to smoke|smoking|smoke|smoked] a cigarette during the break (paused to do it). I promised [to help|helping|help|helped] her. She finished [reading|to read|read|reads] the book. I look forward to [seeing|see|to see|seen] you.",
-        "explanation-zh-TW": "# 🏊 興趣與習慣 (Gerunds vs Infinitives)\n\n動名詞 (V-ing) 與 不定詞 (to V) 的用法通常需要記憶。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒菸) -> stop **[smoking]**.\n4. **stop + to V**: 停下來「為了」去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 這裡的 to 是介系詞，後接 V-ing -> to **[seeing]**.",
-        "explanation-en-US": "# 🏊 Hobbies and Habits (Gerunds vs Infinitives)\n\n1. **enjoy + ing**: enjoy **[swimming]**.\n2. **decide + to**: decided **[to go]**.\n3. **stop + ing**: Quit an action (quit smoking).\n4. **stop + to**: Pause to do something (pouse to smoke).\n5. **promise + to**: promised **[to help]**.\n6. **finish + ing**: finished **[reading]**.\n7. **look forward to + ing**: 'to' is a preposition here.",
-        "explanation-zh-CN": "# 🏊 兴趣与习惯 (Gerunds vs Infinitives)\n\n动名词 (V-ing) 与 不定词 (to V) 的用法通常需要记忆。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒烟) -> stop **[smoking]**.\n4. **stop + to V**: 停下来“为了”去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 这里的 to 是介系词，后接 V-ing -> to **[seeing]**."
+        "explanationZhTw": "# 🏊 興趣與習慣 (Gerunds vs Infinitives)\n\n動名詞 (V-ing) 與 不定詞 (to V) 的用法通常需要記憶。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒菸) -> stop **[smoking]**.\n4. **stop + to V**: 停下來「為了」去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 這裡的 to 是介系詞，後接 V-ing -> to **[seeing]**.",
+        "explanationEnUs": "# 🏊 Hobbies and Habits (Gerunds vs Infinitives)\n\n1. **enjoy + ing**: enjoy **[swimming]**.\n2. **decide + to**: decided **[to go]**.\n3. **stop + ing**: Quit an action (quit smoking).\n4. **stop + to**: Pause to do something (pouse to smoke).\n5. **promise + to**: promised **[to help]**.\n6. **finish + ing**: finished **[reading]**.\n7. **look forward to + ing**: 'to' is a preposition here.",
+        "explanationZhCn": "# 🏊 兴趣与习惯 (Gerunds vs Infinitives)\n\n动名词 (V-ing) 与 不定词 (to V) 的用法通常需要记忆。\n\n1. **enjoy + V-ing**: I enjoy **[swimming]**.\n2. **decide + to V**: I decided **[to go]**.\n3. **stop + V-ing**: 停止做某事 (戒烟) -> stop **[smoking]**.\n4. **stop + to V**: 停下来“为了”去做某事 -> stop **[to smoke]**.\n5. **promise + to V**: promised **[to help]**.\n6. **finish + V-ing**: finished **[reading]**.\n7. **look forward to + V-ing**: 这里的 to 是介系词，后接 V-ing -> to **[seeing]**."
     },
     {
         "id": "gi2",
         "title": "Enjoy Running",
         "content": "I enjoy [running|to run]. She likes [swimming|to swim].",
-        "explanation-zh-TW": "Enjoy + V-ing.",
-        "explanation-en-US": "Enjoy + Gerund.",
-        "explanation-zh-CN": "Enjoy + V-ing."
+        "explanationZhTw": "Enjoy + V-ing.",
+        "explanationEnUs": "Enjoy + Gerund.",
+        "explanationZhCn": "Enjoy + V-ing."
     },
     {
         "id": "gi3",
         "title": "Want to Go",
         "content": "I want [to go|going]. He hopes [to see|seeing] you.",
-        "explanation-zh-TW": "Want/Hope + To V.",
-        "explanation-en-US": "Want + Infinitive.",
-        "explanation-zh-CN": "Want/Hope + To V."
+        "explanationZhTw": "Want/Hope + To V.",
+        "explanationEnUs": "Want + Infinitive.",
+        "explanationZhCn": "Want/Hope + To V."
     },
     {
         "id": "gi4",
         "title": "Avoid Eating",
         "content": "He avoids [eating|to eat] sugar. She finished [working|to work].",
-        "explanation-zh-TW": "Avoid/Finish + V-ing.",
-        "explanation-en-US": "Gerund.",
-        "explanation-zh-CN": "Avoid/Finish + V-ing."
+        "explanationZhTw": "Avoid/Finish + V-ing.",
+        "explanationEnUs": "Gerund.",
+        "explanationZhCn": "Avoid/Finish + V-ing."
     },
     {
         "id": "gi5",
         "title": "Decide to Stay",
         "content": "We decided [to stay|staying]. They plan [to visit|visiting].",
-        "explanation-zh-TW": "Decide/Plan + To V.",
-        "explanation-en-US": "Infinitive.",
-        "explanation-zh-CN": "Decide/Plan + To V."
+        "explanationZhTw": "Decide/Plan + To V.",
+        "explanationEnUs": "Infinitive.",
+        "explanationZhCn": "Decide/Plan + To V."
     },
     {
         "id": "gi6",
         "title": "Mind Helping",
         "content": "Do you mind [helping|to help] me? I miss [talking|to talk] to him.",
-        "explanation-zh-TW": "Mind/Miss + V-ing.",
-        "explanation-en-US": "Gerund.",
-        "explanation-zh-CN": "Mind/Miss + V-ing."
+        "explanationZhTw": "Mind/Miss + V-ing.",
+        "explanationEnUs": "Gerund.",
+        "explanationZhCn": "Mind/Miss + V-ing."
     },
     {
         "id": "gi7",
         "title": "Prepositions",
         "content": "He is good at [cooking|to cook]. Thank you for [coming|to come].",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi8",
         "title": "Promise",
         "content": "I promise [to help|helping]. She learned [to drive|driving].",
-        "explanation-zh-TW": "Promise/Learn + To V.",
-        "explanation-en-US": "Infinitive.",
-        "explanation-zh-CN": "Promise/Learn + To V."
+        "explanationZhTw": "Promise/Learn + To V.",
+        "explanationEnUs": "Infinitive.",
+        "explanationZhCn": "Promise/Learn + To V."
     },
     {
         "id": "gi9",
         "title": "Stop",
         "content": "He stopped [smoking|to smoke] (quit). He stopped [to smoke|smoking] (pause to smoke).",
-        "explanation-zh-TW": "Stop V-ing (停止做), Stop to V (停下來去做).",
-        "explanation-en-US": "Meaning change.",
-        "explanation-zh-CN": "Stop V-ing (停止做), Stop to V (停下来去做)."
+        "explanationZhTw": "Stop V-ing (停止做), Stop to V (停下來去做).",
+        "explanationEnUs": "Meaning change.",
+        "explanationZhCn": "Stop V-ing (停止做), Stop to V (停下来去做)."
     },
     {
         "id": "gi10",
         "title": "Suggest",
         "content": "I suggest [going|to go] home. He recommended [eating|to eat] here.",
-        "explanation-zh-TW": "Suggest/Recommend + V-ing.",
-        "explanation-en-US": "Gerund.",
-        "explanation-zh-CN": "Suggest/Recommend + V-ing."
+        "explanationZhTw": "Suggest/Recommend + V-ing.",
+        "explanationEnUs": "Gerund.",
+        "explanationZhCn": "Suggest/Recommend + V-ing."
     },
     {
         "id": "gi11",
         "title": "Need",
         "content": "I need [to sleep|sleeping]. The car needs [washing|to wash] (passive meaning).",
-        "explanation-zh-TW": "Need + To V (主動). Need + V-ing (被動).",
-        "explanation-en-US": "Infinitive usually.",
-        "explanation-zh-CN": "Need + To V (主动). Need + V-ing (被动)."
+        "explanationZhTw": "Need + To V (主動). Need + V-ing (被動).",
+        "explanationEnUs": "Infinitive usually.",
+        "explanationZhCn": "Need + To V (主动). Need + V-ing (被动)."
     },
     {
         "id": "gi12",
         "title": "Adjectives",
         "content": "It is easy [to learn|learning]. It is hard [to say|saying].",
-        "explanation-zh-TW": "Adj + To V.",
-        "explanation-en-US": "Adj + Infinitive.",
-        "explanation-zh-CN": "Adj + To V."
+        "explanationZhTw": "Adj + To V.",
+        "explanationEnUs": "Adj + Infinitive.",
+        "explanationZhCn": "Adj + To V."
     },
     {
         "id": "gi13",
         "title": "Too/Enough",
         "content": "Too tired [to walk|walking]. Strong enough [to lift|lifting].",
-        "explanation-zh-TW": "Too/Enough + To V.",
-        "explanation-en-US": "Infinitive.",
-        "explanation-zh-CN": "Too/Enough + To V."
+        "explanationZhTw": "Too/Enough + To V.",
+        "explanationEnUs": "Infinitive.",
+        "explanationZhCn": "Too/Enough + To V."
     },
     {
         "id": "gi14",
         "title": "Go",
         "content": "Let's go [fishing|to fish]. We went [shopping|to shop].",
-        "explanation-zh-TW": "Go + V-ing (Activities).",
-        "explanation-en-US": "Go + Gerund.",
-        "explanation-zh-CN": "Go + V-ing (Activities)."
+        "explanationZhTw": "Go + V-ing (Activities).",
+        "explanationEnUs": "Go + Gerund.",
+        "explanationZhCn": "Go + V-ing (Activities)."
     },
     {
         "id": "gi15",
         "title": "Keep",
         "content": "Keep [trying|to try]. Keep [smiling|to smile].",
-        "explanation-zh-TW": "Keep + V-ing.",
-        "explanation-en-US": "Keep + Gerund.",
-        "explanation-zh-CN": "Keep + V-ing."
+        "explanationZhTw": "Keep + V-ing.",
+        "explanationEnUs": "Keep + Gerund.",
+        "explanationZhCn": "Keep + V-ing."
     },
     {
         "id": "gi16",
         "title": "Finish Fixing",
         "content": "He finished [fixing|to fix] the car.",
-        "explanation-zh-TW": "Finish + V-ing.",
-        "explanation-en-US": "Finish + Gerund.",
-        "explanation-zh-CN": "Finish + V-ing."
+        "explanationZhTw": "Finish + V-ing.",
+        "explanationEnUs": "Finish + Gerund.",
+        "explanationZhCn": "Finish + V-ing."
     },
     {
         "id": "gi17",
         "title": "Avoid Answering",
         "content": "She avoided [answering|to answer] the question.",
-        "explanation-zh-TW": "Avoid + V-ing.",
-        "explanation-en-US": "Avoid + Gerund.",
-        "explanation-zh-CN": "Avoid + V-ing."
+        "explanationZhTw": "Avoid + V-ing.",
+        "explanationEnUs": "Avoid + Gerund.",
+        "explanationZhCn": "Avoid + V-ing."
     },
     {
         "id": "gi18",
         "title": "Finish Washing",
         "content": "We finished [washing|to wash] the dishes.",
-        "explanation-zh-TW": "Finish + V-ing.",
-        "explanation-en-US": "Finish + Gerund.",
-        "explanation-zh-CN": "Finish + V-ing."
+        "explanationZhTw": "Finish + V-ing.",
+        "explanationEnUs": "Finish + Gerund.",
+        "explanationZhCn": "Finish + V-ing."
     },
     {
         "id": "gi19",
         "title": "Quit Smoking",
         "content": "He quit [smoking|to smoke] last year.",
-        "explanation-zh-TW": "Quit + V-ing.",
-        "explanation-en-US": "Quit + Gerund.",
-        "explanation-zh-CN": "Quit + V-ing."
+        "explanationZhTw": "Quit + V-ing.",
+        "explanationEnUs": "Quit + Gerund.",
+        "explanationZhCn": "Quit + V-ing."
     },
     {
         "id": "gi20",
         "title": "Practice Speaking",
         "content": "They practiced [speaking|to speak] English.",
-        "explanation-zh-TW": "Practice + V-ing.",
-        "explanation-en-US": "Practice + Gerund.",
-        "explanation-zh-CN": "Practice + V-ing."
+        "explanationZhTw": "Practice + V-ing.",
+        "explanationEnUs": "Practice + Gerund.",
+        "explanationZhCn": "Practice + V-ing."
     },
     {
         "id": "gi21",
         "title": "Suggest Going",
         "content": "She suggested [going|to go] to the beach.",
-        "explanation-zh-TW": "Suggest + V-ing.",
-        "explanation-en-US": "Suggest + Gerund.",
-        "explanation-zh-CN": "Suggest + V-ing."
+        "explanationZhTw": "Suggest + V-ing.",
+        "explanationEnUs": "Suggest + Gerund.",
+        "explanationZhCn": "Suggest + V-ing."
     },
     {
         "id": "gi22",
         "title": "Finish Reading",
         "content": "I finished [reading|to read] the report.",
-        "explanation-zh-TW": "Finish + V-ing.",
-        "explanation-en-US": "Finish + Gerund.",
-        "explanation-zh-CN": "Finish + V-ing."
+        "explanationZhTw": "Finish + V-ing.",
+        "explanationEnUs": "Finish + Gerund.",
+        "explanationZhCn": "Finish + V-ing."
     },
     {
         "id": "gi23",
         "title": "Hope to Win",
         "content": "She hopes [to win|winning] the game.",
-        "explanation-zh-TW": "Hope + To V.",
-        "explanation-en-US": "Hope + Infinitive.",
-        "explanation-zh-CN": "Hope + To V."
+        "explanationZhTw": "Hope + To V.",
+        "explanationEnUs": "Hope + Infinitive.",
+        "explanationZhCn": "Hope + To V."
     },
     {
         "id": "gi24",
         "title": "Plan to Travel",
         "content": "We plan [to travel|traveling] to Europe.",
-        "explanation-zh-TW": "Plan + To V.",
-        "explanation-en-US": "Plan + Infinitive.",
-        "explanation-zh-CN": "Plan + To V."
+        "explanationZhTw": "Plan + To V.",
+        "explanationEnUs": "Plan + Infinitive.",
+        "explanationZhCn": "Plan + To V."
     },
     {
         "id": "gi25",
         "title": "Need to Leave",
         "content": "He needs [to leave|leaving] early.",
-        "explanation-zh-TW": "Need + To V.",
-        "explanation-en-US": "Need + Infinitive.",
-        "explanation-zh-CN": "Need + To V."
+        "explanationZhTw": "Need + To V.",
+        "explanationEnUs": "Need + Infinitive.",
+        "explanationZhCn": "Need + To V."
     },
     {
         "id": "gi26",
         "title": "Decide to Buy",
         "content": "I decided [to buy|buying] the red shirt.",
-        "explanation-zh-TW": "Decide + To V.",
-        "explanation-en-US": "Decide + Infinitive.",
-        "explanation-zh-CN": "Decide + To V."
+        "explanationZhTw": "Decide + To V.",
+        "explanationEnUs": "Decide + Infinitive.",
+        "explanationZhCn": "Decide + To V."
     },
     {
         "id": "gi27",
         "title": "Agree to Help",
         "content": "They agreed [to help|helping] us.",
-        "explanation-zh-TW": "Agree + To V.",
-        "explanation-en-US": "Agree + Infinitive.",
-        "explanation-zh-CN": "Agree + To V."
+        "explanationZhTw": "Agree + To V.",
+        "explanationEnUs": "Agree + Infinitive.",
+        "explanationZhCn": "Agree + To V."
     },
     {
         "id": "gi28",
         "title": "Offer to Drive",
         "content": "She offered [to drive|driving] me home.",
-        "explanation-zh-TW": "Offer + To V.",
-        "explanation-en-US": "Offer + Infinitive.",
-        "explanation-zh-CN": "Offer + To V."
+        "explanationZhTw": "Offer + To V.",
+        "explanationEnUs": "Offer + Infinitive.",
+        "explanationZhCn": "Offer + To V."
     },
     {
         "id": "gi29",
         "title": "Want to Eat",
         "content": "We want [to eat|eating] pizza.",
-        "explanation-zh-TW": "Want + To V.",
-        "explanation-en-US": "Want + Infinitive.",
-        "explanation-zh-CN": "Want + To V."
+        "explanationZhTw": "Want + To V.",
+        "explanationEnUs": "Want + Infinitive.",
+        "explanationZhCn": "Want + To V."
     },
     {
         "id": "gi30",
         "title": "Famous for Singing",
         "content": "She is famous for [singing|to sing].",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi31",
         "title": "Afraid of Losing",
         "content": "He is afraid of [losing|to lose].",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi32",
         "title": "Tired of Waiting",
         "content": "We are tired of [waiting|to wait].",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi33",
         "title": "About Moving",
         "content": "They talked about [moving|to move] to a new city.",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi34",
         "title": "Look Forward to",
         "content": "I look forward to [meeting|to meet] you.",
-        "explanation-zh-TW": "to is Preposition here; + V-ing.",
-        "explanation-en-US": "to is Prep here; + Gerund.",
-        "explanation-zh-CN": "to is Preposition here; + V-ing."
+        "explanationZhTw": "to is Preposition here; + V-ing.",
+        "explanationEnUs": "to is Prep here; + Gerund.",
+        "explanationZhCn": "to is Preposition here; + V-ing."
     },
     {
         "id": "gi35",
         "title": "Responsible for",
         "content": "She is responsible for [organizing|to organize] the party.",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi36",
         "title": "Apologize for",
         "content": "He apologized for [forgetting|to forget] my birthday.",
-        "explanation-zh-TW": "Preposition + V-ing.",
-        "explanation-en-US": "Prep + Gerund.",
-        "explanation-zh-CN": "Preposition + V-ing."
+        "explanationZhTw": "Preposition + V-ing.",
+        "explanationEnUs": "Prep + Gerund.",
+        "explanationZhCn": "Preposition + V-ing."
     },
     {
         "id": "gi37",
         "title": "Refuse to Talk",
         "content": "He refused [to talk|talking] about it.",
-        "explanation-zh-TW": "Refuse + To V.",
-        "explanation-en-US": "Refuse + Infinitive.",
-        "explanation-zh-CN": "Refuse + To V."
+        "explanationZhTw": "Refuse + To V.",
+        "explanationEnUs": "Refuse + Infinitive.",
+        "explanationZhCn": "Refuse + To V."
     },
     {
         "id": "gi38",
         "title": "Promise to Write",
         "content": "She promised [to write|writing] soon.",
-        "explanation-zh-TW": "Promise + To V.",
-        "explanation-en-US": "Promise + Infinitive.",
-        "explanation-zh-CN": "Promise + To V."
+        "explanationZhTw": "Promise + To V.",
+        "explanationEnUs": "Promise + Infinitive.",
+        "explanationZhCn": "Promise + To V."
     },
     {
         "id": "gi39",
         "title": "Seem to Like",
         "content": "They seemed [to like|liking] the idea.",
-        "explanation-zh-TW": "Seem + To V.",
-        "explanation-en-US": "Seem + Infinitive.",
-        "explanation-zh-CN": "Seem + To V."
+        "explanationZhTw": "Seem + To V.",
+        "explanationEnUs": "Seem + Infinitive.",
+        "explanationZhCn": "Seem + To V."
     },
     {
         "id": "gi40",
         "title": "Expect to Arrive",
         "content": "I expect [to arrive|arriving] at 5 PM.",
-        "explanation-zh-TW": "Expect + To V.",
-        "explanation-en-US": "Expect + Infinitive.",
-        "explanation-zh-CN": "Expect + To V."
+        "explanationZhTw": "Expect + To V.",
+        "explanationEnUs": "Expect + Infinitive.",
+        "explanationZhCn": "Expect + To V."
     },
     {
         "id": "gi41",
         "title": "Promise to Behave",
         "content": "He promised [to behave|behaving] effectively.",
-        "explanation-zh-TW": "Promise + To V.",
-        "explanation-en-US": "Promise + Infinitive.",
-        "explanation-zh-CN": "Promise + To V."
+        "explanationZhTw": "Promise + To V.",
+        "explanationEnUs": "Promise + Infinitive.",
+        "explanationZhCn": "Promise + To V."
     },
     {
         "id": "gi42",
         "title": "Pretend to Be",
         "content": "She pretended [to be|being] asleep.",
-        "explanation-zh-TW": "Pretend + To V.",
-        "explanation-en-US": "Pretend + Infinitive.",
-        "explanation-zh-CN": "Pretend + To V."
+        "explanationZhTw": "Pretend + To V.",
+        "explanationEnUs": "Pretend + Infinitive.",
+        "explanationZhCn": "Pretend + To V."
     },
     {
         "id": "gi43",
         "title": "Promise to Return",
         "content": "We promised [to return|returning] the book.",
-        "explanation-zh-TW": "Promise + To V.",
-        "explanation-en-US": "Promise + Infinitive.",
-        "explanation-zh-CN": "Promise + To V."
+        "explanationZhTw": "Promise + To V.",
+        "explanationEnUs": "Promise + Infinitive.",
+        "explanationZhCn": "Promise + To V."
     },
     {
         "id": "gi44",
         "title": "Mind Closing",
         "content": "Would you mind [closing|to close] the window?",
-        "explanation-zh-TW": "Mind + V-ing.",
-        "explanation-en-US": "Mind + Gerund.",
-        "explanation-zh-CN": "Mind + V-ing."
+        "explanationZhTw": "Mind + V-ing.",
+        "explanationEnUs": "Mind + Gerund.",
+        "explanationZhCn": "Mind + V-ing."
     },
     {
         "id": "gi45",
         "title": "Keep Talking",
         "content": "He kept [talking|to talk] during the movie.",
-        "explanation-zh-TW": "Keep + V-ing.",
-        "explanation-en-US": "Keep + Gerund.",
-        "explanation-zh-CN": "Keep + V-ing."
+        "explanationZhTw": "Keep + V-ing.",
+        "explanationEnUs": "Keep + Gerund.",
+        "explanationZhCn": "Keep + V-ing."
     },
     {
         "id": "gi46",
         "title": "Enjoy Walking",
         "content": "We enjoy [walking|to walk] in the rain.",
-        "explanation-zh-TW": "Enjoy + V-ing.",
-        "explanation-en-US": "Enjoy + Gerund.",
-        "explanation-zh-CN": "Enjoy + V-ing."
+        "explanationZhTw": "Enjoy + V-ing.",
+        "explanationEnUs": "Enjoy + Gerund.",
+        "explanationZhCn": "Enjoy + V-ing."
     },
     {
         "id": "gi47",
         "title": "Keep Forgetting",
         "content": "She keeps [forgetting|to forget] her keys.",
-        "explanation-zh-TW": "Keep + V-ing.",
-        "explanation-en-US": "Keep + Gerund.",
-        "explanation-zh-CN": "Keep + V-ing."
+        "explanationZhTw": "Keep + V-ing.",
+        "explanationEnUs": "Keep + Gerund.",
+        "explanationZhCn": "Keep + V-ing."
     },
     {
         "id": "gi48",
         "title": "Enjoy Playing",
         "content": "Do you enjoy [playing|to play] chess?",
-        "explanation-zh-TW": "Enjoy + V-ing.",
-        "explanation-en-US": "Enjoy + Gerund.",
-        "explanation-zh-CN": "Enjoy + V-ing."
+        "explanationZhTw": "Enjoy + V-ing.",
+        "explanationEnUs": "Enjoy + Gerund.",
+        "explanationZhCn": "Enjoy + V-ing."
     },
     {
         "id": "gi49",
         "title": "Mind Waiting",
         "content": "I don't mind [waiting|to wait] for you.",
-        "explanation-zh-TW": "Mind + V-ing.",
-        "explanation-en-US": "Mind + Gerund.",
-        "explanation-zh-CN": "Mind + V-ing."
+        "explanationZhTw": "Mind + V-ing.",
+        "explanationEnUs": "Mind + Gerund.",
+        "explanationZhCn": "Mind + V-ing."
     },
     {
         "id": "gi50",
         "title": "Keep Working",
         "content": "They kept [working|to work] until late.",
-        "explanation-zh-TW": "Keep + V-ing.",
-        "explanation-en-US": "Keep + Gerund.",
-        "explanation-zh-CN": "Keep + V-ing."
+        "explanationZhTw": "Keep + V-ing.",
+        "explanationEnUs": "Keep + Gerund.",
+        "explanationZhCn": "Keep + V-ing."
     }
 ]

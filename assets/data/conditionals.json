@@ -3,400 +3,400 @@
     "title": "Use",
     "id": "if-i-were-rich",
     "content": "If it rains tomorrow, I [will stay|stay|stayed|would stay] home. If I [won|win|wins|have won] the lottery, I would buy a boat. If I had studied harder, I [would have passed|would pass|pass|passed] the exam. If water reaches 100 degrees, it [boils|boiled|will boil|would boil]. If I [were|am|was|be] you, I would apologize. If she comes, call me. Use [Zero|First|Second|Third] Conditional for facts. Use [Second|First|Zero|Third] Conditional for hypothetical situations.",
-    "explanation-zh-TW": "# 💭 如果我是有錢人 (Conditionals)\n\n條件句 (Conditionals) 有不同的類型：\n\n1. **First Conditional (真實未來)**: If + Present, will + Verb.\n   - If it rains, I **[will stay]** home.\n2. **Second Conditional (與現在事實相反)**: If + Past, would + Verb.\n   - If I **[won]** (假設中) the lottery, I would buy...\n   - If I **[were]** you (假設我是你)...\n3. **Third Conditional (與過去事實相反)**: If + Past Perfect, would have + PP.\n   - If I had studied, I **[would have passed]**.\n4. **Zero Conditional (真理)**: If + Present, Present.\n   - Water **[boils]** if it reaches 100 degrees.",
-    "explanation-en-US": "# 💭 If I Were Rich (Conditionals)\n\n1. **First Conditional (Real Future)**: If it rains, I **[will stay]** home.\n2. **Second Conditional (Hypothetical)**: If I **[won]** (imaginary past form), I would buy...\n   - If I **[were]** you...\n3. **Third Conditional (Regret)**: If I had studied, I **[would have passed]**.\n4. **Zero Conditional (Facts)**: Water **[boils]** at 100 degrees.",
-    "explanation-zh-CN": "# 💭 如果我是有钱人 (Conditionals)\n\n条件句 (Conditionals) 有不同的类型：\n\n1. **First Conditional (真实未来)**: If + Present, will + Verb.\n   - If it rains, I **[will stay]** home.\n2. **Second Conditional (与现在事实相反)**: If + Past, would + Verb.\n   - If I **[won]** (假设中) the lottery, I would buy...\n   - If I **[were]** you (假设我是你)...\n3. **Third Conditional (与过去事实相反)**: If + Past Perfect, would have + PP.\n   - If I had studied, I **[would have passed]**.\n4. **Zero Conditional (真理)**: If + Present, Present.\n   - Water **[boils]** if it reaches 100 degrees."
+    "explanationZhTw": "# 💭 如果我是有錢人 (Conditionals)\n\n條件句 (Conditionals) 有不同的類型：\n\n1. **First Conditional (真實未來)**: If + Present, will + Verb.\n   - If it rains, I **[will stay]** home.\n2. **Second Conditional (與現在事實相反)**: If + Past, would + Verb.\n   - If I **[won]** (假設中) the lottery, I would buy...\n   - If I **[were]** you (假設我是你)...\n3. **Third Conditional (與過去事實相反)**: If + Past Perfect, would have + PP.\n   - If I had studied, I **[would have passed]**.\n4. **Zero Conditional (真理)**: If + Present, Present.\n   - Water **[boils]** if it reaches 100 degrees.",
+    "explanationEnUs": "# 💭 If I Were Rich (Conditionals)\n\n1. **First Conditional (Real Future)**: If it rains, I **[will stay]** home.\n2. **Second Conditional (Hypothetical)**: If I **[won]** (imaginary past form), I would buy...\n   - If I **[were]** you...\n3. **Third Conditional (Regret)**: If I had studied, I **[would have passed]**.\n4. **Zero Conditional (Facts)**: Water **[boils]** at 100 degrees.",
+    "explanationZhCn": "# 💭 如果我是有钱人 (Conditionals)\n\n条件句 (Conditionals) 有不同的类型：\n\n1. **First Conditional (真实未来)**: If + Present, will + Verb.\n   - If it rains, I **[will stay]** home.\n2. **Second Conditional (与现在事实相反)**: If + Past, would + Verb.\n   - If I **[won]** (假设中) the lottery, I would buy...\n   - If I **[were]** you (假设我是你)...\n3. **Third Conditional (与过去事实相反)**: If + Past Perfect, would have + PP.\n   - If I had studied, I **[would have passed]**.\n4. **Zero Conditional (真理)**: If + Present, Present.\n   - Water **[boils]** if it reaches 100 degrees."
   },
   {
     "id": "cond2",
     "title": "Melt",
     "content": "If you heat ice, it [melts|melted]. If it rains, the ground [gets|got] wet.",
-    "explanation-zh-TW": "Zero Conditional: Facts.",
-    "explanation-en-US": "Zero: Fact.",
-    "explanation-zh-CN": "Zero Conditional: Facts."
+    "explanationZhTw": "Zero Conditional: Facts.",
+    "explanationEnUs": "Zero: Fact.",
+    "explanationZhCn": "Zero Conditional: Facts."
   },
   {
     "id": "cond3",
     "title": "Get",
     "content": "If you mix red and blue, you [get|got] purple. If babies are hungry, they [cry|cried].",
-    "explanation-zh-TW": "Facts.",
-    "explanation-en-US": "Facts.",
-    "explanation-zh-CN": "Facts."
+    "explanationZhTw": "Facts.",
+    "explanationEnUs": "Facts.",
+    "explanationZhCn": "Facts."
   },
   {
     "id": "cond4",
     "title": "Stay",
     "content": "If it rains, I [will stay|stay] home. If she comes, we [will go|go].",
-    "explanation-zh-TW": "First: Future Possibility.",
-    "explanation-en-US": "First: Future.",
-    "explanation-zh-CN": "First: Future Possibility."
+    "explanationZhTw": "First: Future Possibility.",
+    "explanationEnUs": "First: Future.",
+    "explanationZhCn": "First: Future Possibility."
   },
   {
     "id": "cond5",
     "title": "Pass",
     "content": "If you study, you [will pass|pass]. If you hurry, you [will catch|catch] the bus.",
-    "explanation-zh-TW": "Future Result.",
-    "explanation-en-US": "Future Result.",
-    "explanation-zh-CN": "Future Result."
+    "explanationZhTw": "Future Result.",
+    "explanationEnUs": "Future Result.",
+    "explanationZhCn": "Future Result."
   },
   {
     "id": "cond6",
     "title": "Buy",
     "content": "If I were rich, I [would buy|will buy] a boat. If I had time, I [would travel|will travel].",
-    "explanation-zh-TW": "Second: Unreal Present.",
-    "explanation-en-US": "Second: Unreal.",
-    "explanation-zh-CN": "Second: Unreal Present."
+    "explanationZhTw": "Second: Unreal Present.",
+    "explanationEnUs": "Second: Unreal.",
+    "explanationZhCn": "Second: Unreal Present."
   },
   {
     "id": "cond7",
     "title": "Help",
     "content": "If I [were|was] you, I would go. If he [were|is] here, he would help.",
-    "explanation-zh-TW": "Second: If I were (Subjunctive).",
-    "explanation-en-US": "If I were.",
-    "explanation-zh-CN": "Second: If I were (Subjunctive)."
+    "explanationZhTw": "Second: If I were (Subjunctive).",
+    "explanationEnUs": "If I were.",
+    "explanationZhCn": "Second: If I were (Subjunctive)."
   },
   {
     "id": "cond8",
     "title": "Come",
     "content": "If I had known, I [would have come|will come]. If she had seen him, she [would have said|said] hello.",
-    "explanation-zh-TW": "Third: Past Regret (Would have V3).",
-    "explanation-en-US": "Third: Past Unreal.",
-    "explanation-zh-CN": "Third: Past Regret (Would have V3)."
+    "explanationZhTw": "Third: Past Regret (Would have V3).",
+    "explanationEnUs": "Third: Past Unreal.",
+    "explanationZhCn": "Third: Past Regret (Would have V3)."
   },
   {
     "id": "cond9",
     "title": "Won",
     "content": "If we had played better, we [would have won|won]. If it hadn't rained, we [would have gone|went].",
-    "explanation-zh-TW": "Past Unreal.",
-    "explanation-en-US": "Past Unreal.",
-    "explanation-zh-CN": "Past Unreal."
+    "explanationZhTw": "Past Unreal.",
+    "explanationEnUs": "Past Unreal.",
+    "explanationZhCn": "Past Unreal."
   },
   {
     "id": "cond10",
     "title": "Unless",
     "content": "I won't go [unless|if] you go. You will fail [unless|if] you study.",
-    "explanation-zh-TW": "Unless = If not.",
-    "explanation-en-US": "Unless.",
-    "explanation-zh-CN": "Unless = If not."
+    "explanationZhTw": "Unless = If not.",
+    "explanationEnUs": "Unless.",
+    "explanationZhCn": "Unless = If not."
   },
   {
     "id": "cond11",
     "title": "Knew",
     "content": "I wish I [knew|know] the answer. I wish it [were|is] sunny.",
-    "explanation-zh-TW": "Wish + Past (Present desire).",
-    "explanation-en-US": "Wish + Past.",
-    "explanation-zh-CN": "Wish + Past (Present desire)."
+    "explanationZhTw": "Wish + Past (Present desire).",
+    "explanationEnUs": "Wish + Past.",
+    "explanationZhCn": "Wish + Past (Present desire)."
   },
   {
     "id": "cond12",
     "title": "Gone",
     "content": "I wish I [had gone|went] there. I wish I [had not eaten|did not eat] so much.",
-    "explanation-zh-TW": "Wish + Past Perfect (Past regret).",
-    "explanation-en-US": "Wish + Past Perfect.",
-    "explanation-zh-CN": "Wish + Past Perfect (Past regret)."
+    "explanationZhTw": "Wish + Past Perfect (Past regret).",
+    "explanationEnUs": "Wish + Past Perfect.",
+    "explanationZhCn": "Wish + Past Perfect (Past regret)."
   },
   {
     "id": "cond13",
     "title": "Quiet",
     "content": "You can go [as long as|unless] you are quiet. I will help [provided that|unless] you ask properly.",
-    "explanation-zh-TW": "As long as (只要).",
-    "explanation-en-US": "Condition.",
-    "explanation-zh-CN": "As long as (只要)."
+    "explanationZhTw": "As long as (只要).",
+    "explanationEnUs": "Condition.",
+    "explanationZhCn": "As long as (只要)."
   },
   {
     "id": "cond14",
     "title": "Call",
     "content": "Take an umbrella [in case|if] it rains. Call me [in case|if] you need help.",
-    "explanation-zh-TW": "In case (以防萬一).",
-    "explanation-en-US": "Precaution.",
-    "explanation-zh-CN": "In case (以防万一)."
+    "explanationZhTw": "In case (以防萬一).",
+    "explanationEnUs": "Precaution.",
+    "explanationZhCn": "In case (以防万一)."
   },
   {
     "id": "cond15",
     "title": "Slept",
     "content": "If I had slept (past), I [would be|would have been] awake now (present).",
-    "explanation-zh-TW": "Mixed: Past cause, Present result.",
-    "explanation-en-US": "Mixed Time.",
-    "explanation-zh-CN": "Mixed: Past cause, Present result."
+    "explanationZhTw": "Mixed: Past cause, Present result.",
+    "explanationEnUs": "Mixed Time.",
+    "explanationZhCn": "Mixed: Past cause, Present result."
   },
   {
     "id": "auto_conditionals_16",
     "title": "Unless",
     "content": "I won't go [unless|if] you drive.",
-    "explanation-zh-TW": "Unless = If not.",
-    "explanation-en-US": "Unless = If not.",
-    "explanation-zh-CN": "Unless = If not."
+    "explanationZhTw": "Unless = If not.",
+    "explanationEnUs": "Unless = If not.",
+    "explanationZhCn": "Unless = If not."
   },
   {
     "id": "auto_conditionals_17",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_18",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_19",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_20",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_21",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_22",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_23",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_24",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_25",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_26",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_27",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_28",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_29",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_30",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   },
   {
     "id": "auto_conditionals_31",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_32",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_33",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   },
   {
     "id": "auto_conditionals_34",
     "title": "Unless",
     "content": "I won't go [unless|if] you drive.",
-    "explanation-zh-TW": "Unless = If not.",
-    "explanation-en-US": "Unless = If not.",
-    "explanation-zh-CN": "Unless = If not."
+    "explanationZhTw": "Unless = If not.",
+    "explanationEnUs": "Unless = If not.",
+    "explanationZhCn": "Unless = If not."
   },
   {
     "id": "auto_conditionals_35",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_36",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_37",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_38",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   },
   {
     "id": "auto_conditionals_39",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_40",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_41",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_42",
     "title": "Money",
     "content": "If I [had|have|has] money, I would buy it.",
-    "explanation-zh-TW": "If + Past, Would.",
-    "explanation-en-US": "If + Past, Would.",
-    "explanation-zh-CN": "If + Past, Would."
+    "explanationZhTw": "If + Past, Would.",
+    "explanationEnUs": "If + Past, Would.",
+    "explanationZhCn": "If + Past, Would."
   },
   {
     "id": "auto_conditionals_43",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   },
   {
     "id": "auto_conditionals_44",
     "title": "Unless",
     "content": "I won't go [unless|if] you drive.",
-    "explanation-zh-TW": "Unless = If not.",
-    "explanation-en-US": "Unless = If not.",
-    "explanation-zh-CN": "Unless = If not."
+    "explanationZhTw": "Unless = If not.",
+    "explanationEnUs": "Unless = If not.",
+    "explanationZhCn": "Unless = If not."
   },
   {
     "id": "auto_conditionals_45",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   },
   {
     "id": "auto_conditionals_46",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_47",
     "title": "Rain",
     "content": "If it [rains|rain|rained], I will stay.",
-    "explanation-zh-TW": "If + Present, Will.",
-    "explanation-en-US": "If + Present, Will.",
-    "explanation-zh-CN": "If + Present, Will."
+    "explanationZhTw": "If + Present, Will.",
+    "explanationEnUs": "If + Present, Will.",
+    "explanationZhCn": "If + Present, Will."
   },
   {
     "id": "auto_conditionals_48",
     "title": "Known",
     "content": "If I [had known|know], I would have gone.",
-    "explanation-zh-TW": "If + Past Perf, Would Have.",
-    "explanation-en-US": "If + Past Perf, Would Have.",
-    "explanation-zh-CN": "If + Past Perf, Would Have."
+    "explanationZhTw": "If + Past Perf, Would Have.",
+    "explanationEnUs": "If + Past Perf, Would Have.",
+    "explanationZhCn": "If + Past Perf, Would Have."
   },
   {
     "id": "auto_conditionals_49",
     "title": "Unless",
     "content": "I won't go [unless|if] you drive.",
-    "explanation-zh-TW": "Unless = If not.",
-    "explanation-en-US": "Unless = If not.",
-    "explanation-zh-CN": "Unless = If not."
+    "explanationZhTw": "Unless = If not.",
+    "explanationEnUs": "Unless = If not.",
+    "explanationZhCn": "Unless = If not."
   },
   {
     "id": "auto_conditionals_50",
     "title": "Heat",
     "content": "If you [heat|heats] ice, it melts.",
-    "explanation-zh-TW": "If + Present, Present.",
-    "explanation-en-US": "If + Present, Present.",
-    "explanation-zh-CN": "If + Present, Present."
+    "explanationZhTw": "If + Present, Present.",
+    "explanationEnUs": "If + Present, Present.",
+    "explanationZhCn": "If + Present, Present."
   }
 ]

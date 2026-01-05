@@ -69,6 +69,11 @@ class AppLocalizations {
       'score': 'Score',
       'mock_test_title': 'Mock Test',
       'mock_test_subtitle': 'Test your knowledge across all topics',
+      'test_config': 'Test Configuration',
+      'num_questions': 'Number of Questions: ',
+      'start_test': 'Start Test',
+      'past_results': 'Past Results (Last 20)',
+      'no_tests_yet': 'No tests taken yet.',
       'about': 'About Handy Grammar',
       'about_title': 'About Handy Grammar',
       'about_content_markdown':
@@ -129,6 +134,11 @@ class AppLocalizations {
       'score': '分数',
       'mock_test_title': '模拟测验',
       'mock_test_subtitle': '测试您在所有主题的知识',
+      'test_config': '测验设置',
+      'num_questions': '题目数量：',
+      'start_test': '开始测验',
+      'past_results': '历史成绩 (最近20次)',
+      'no_tests_yet': '尚未进行任何测验',
       'about': '关于 Handy Grammar',
       'about_title': '关于 Handy Grammar',
       'about_content_markdown':
@@ -189,6 +199,11 @@ class AppLocalizations {
       'score': '分數',
       'mock_test_title': '模擬測驗',
       'mock_test_subtitle': '測試您在所有主題的知識',
+      'test_config': '測驗設定',
+      'num_questions': '題目數量：',
+      'start_test': '開始測驗',
+      'past_results': '歷史成績 (最近20次)',
+      'no_tests_yet': '尚未進行任何測驗',
       'about': '關於 Handy Grammar',
       'about_title': '關於 Handy Grammar',
       'about_content_markdown':
@@ -220,6 +235,11 @@ class AppLocalizations {
   String get aboutContentMarkdown => get('about_content_markdown');
   String get mockTestTitle => get('mock_test_title');
   String get mockTestSubtitle => get('mock_test_subtitle');
+  String get testConfig => get('test_config');
+  String get numQuestions => get('num_questions');
+  String get startTest => get('start_test');
+  String get pastResults => get('past_results');
+  String get noTestsYet => get('no_tests_yet');
 }
 
 class _AppLocalizationsDelegate

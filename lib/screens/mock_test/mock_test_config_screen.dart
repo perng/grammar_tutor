@@ -164,16 +164,16 @@ class _MockTestConfigScreenState extends State<MockTestConfigScreen> {
                     padding: const EdgeInsets.all(16),
                     child: Column(
                       children: [
-                        const Text(
-                          'Test Configuration',
-                          style: TextStyle(
+                        Text(
+                          loc.testConfig,
+                          style: const TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,
                           ),
                         ),
                         const SizedBox(height: 20),
                         Text(
-                          'Number of Questions: ${_questionCount.round()}',
+                          '${loc.numQuestions}${_questionCount.round()}',
                           style: const TextStyle(fontSize: 16),
                         ),
                         Slider(
@@ -194,9 +194,9 @@ class _MockTestConfigScreenState extends State<MockTestConfigScreen> {
                           child: ElevatedButton.icon(
                             onPressed: _startTest,
                             icon: const Icon(Icons.play_arrow),
-                            label: const Text(
-                              'Start Test',
-                              style: TextStyle(fontSize: 18),
+                            label: Text(
+                              loc.startTest,
+                              style: const TextStyle(fontSize: 18),
                             ),
                             style: ElevatedButton.styleFrom(
                               padding: const EdgeInsets.symmetric(vertical: 12),
@@ -215,17 +215,20 @@ class _MockTestConfigScreenState extends State<MockTestConfigScreen> {
                 ),
 
                 const SizedBox(height: 24),
-                const Text(
-                  'Past Results (Last 20)',
-                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                Text(
+                  loc.pastResults,
+                  style: const TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
                 const SizedBox(height: 8),
 
                 if (_history.isEmpty)
-                  const Card(
+                  Card(
                     child: Padding(
-                      padding: EdgeInsets.all(16),
-                      child: Center(child: Text("No tests taken yet.")),
+                      padding: const EdgeInsets.all(16),
+                      child: Center(child: Text(loc.noTestsYet)),
                     ),
                   )
                 else

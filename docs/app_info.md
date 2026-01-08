@@ -2,8 +2,10 @@ app name English: Grammar Tutor
 app name Traditional Chinese: 單手學：英文文法
 app name Simplified Chinese: 单手学：英文语法
 
+bundle identifier: com.perng.HandyGrammar
+
 short description English: Learn English grammar with 33 topics and 1500+ quiz questions.
-short description Traditional Chinese: 練習英文文法，33個主題，1500多題quiz。
+short description Traditional Chi¬nese: 練習英文文法，33個主題，1500多題q。
 short description Simplified Chinese: 练习英文文法，33个主题，1500多题quiz。
 
 full description English: Designed for convenient single-handed operation, this app allows you to practice English grammar anytime, anywhere. With over 1500 quiz questions covering 33 essential topics, you can master English grammar at your own pace.

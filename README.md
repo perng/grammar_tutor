@@ -2,6 +2,10 @@
 
 A Flutter app for practicing English grammar on the go. Designed for convenient single-handed operation with 33 topics and 1,500+ quiz questions.
 
+## Why It Matters
+
+For students learning English as a second language, consistent grammar practice is one of the hardest habits to build — textbooks are bulky, tutors are expensive, and most apps treat grammar as an afterthought. Grammar Tutor was built to close that gap. By breaking the full scope of English grammar into 33 bite-sized, quiz-driven topics, the app lets middle and high school students drill real grammar rules in the spare minutes of their day — on a bus, between classes, or before bed — without needing both hands or a stable internet connection. The immediate feedback on every question reinforces correct patterns before wrong ones become habits, and the mock test mode mirrors the timed, mixed-topic format students face in school exams. With a UI available in English, Traditional Chinese, and Simplified Chinese, the app meets learners where they are linguistically, lowering the barrier to entry for students whose native language is Chinese. The app is available on the [App Store](https://apps.apple.com/us/app/%E5%96%AE%E6%89%8B%E5%AD%B8-%E8%8B%B1%E6%96%87%E6%96%87%E6%B3%95/id6757502709) and is actively used by a growing community of middle and high school students as a daily grammar companion alongside their formal studies.
+
 ![App Logo](docs/images/hg-logo2.png)
 
 ## Features

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Level Select — Handy Grammar</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f4f6ff;
+    --surface: #ffffff;
+    --surface2: #f0f2ff;
+    --primary: #4f46e5;
+    --primary-light: #818cf8;
+    --primary-dark: #3730a3;
+    --text: #1e1b4b;
+    --text-muted: #6b7280;
+    --border: #e0e7ff;
+    --green: #10b981;
+    --amber: #f59e0b;
+    --radius: 18px;
+    --shadow: 0 2px 12px rgba(79,70,229,0.08);
+    --shadow-lg: 0 8px 32px rgba(79,70,229,0.14);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    max-width: 430px;
+    margin: 0 auto;
+  }
+
+  /* Header */
+  .header {
+    background: linear-gradient(160deg, #065f46 0%, #059669 50%, #10b981 100%);
+    padding: 52px 20px 24px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+  }
+  .header::after {
+    content: '🔄';
+    position: absolute; right: 16px; bottom: -8px;
+    font-size: 72px; opacity: 0.15;
+  }
+  .back-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 0.82rem; font-weight: 600; opacity: 0.85;
+    margin-bottom: 16px; cursor: pointer;
+  }
+  .breadcrumbs {
+    font-size: 0.72rem; opacity: 0.65; margin-bottom: 6px;
+    display: flex; align-items: center; gap: 4px;
+  }
+  .breadcrumbs span { opacity: 0.5; }
+  .header-title { font-size: 1.6rem; font-weight: 900; letter-spacing: -0.03em; margin-bottom: 4px; }
+  .header-sub { font-size: 0.82rem; opacity: 0.75; margin-bottom: 16px; }
+
+  /* Summary strip */
+  .summary-strip {
+    display: flex; gap: 10px;
+  }
+  .sum-item {
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 10px;
+    padding: 8px 12px;
+    text-align: center;
+    flex: 1;
+    backdrop-filter: blur(4px);
+  }
+  .sum-num { font-size: 1.1rem; font-weight: 900; }
+  .sum-label { font-size: 0.62rem; opacity: 0.75; text-transform: uppercase; letter-spacing: 0.06em; margin-top: 1px; }
+
+  .scroll-body { padding: 20px 16px 80px; }
+
+  /* Explanation banner */
+  .explanation-banner {
+    background: linear-gradient(135deg, #ede9fe, #dbeafe);
+    border: 1.5px solid #c4b5fd;
+    border-radius: 14px;
+    padding: 14px 16px;
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  .explanation-banner-icon { font-size: 28px; flex-shrink: 0; }
+  .explanation-banner-text { flex: 1; }
+  .explanation-banner-title { font-size: 0.85rem; font-weight: 700; color: #4c1d95; margin-bottom: 2px; }
+  .explanation-banner-sub { font-size: 0.75rem; color: #6d28d9; }
+  .explanation-banner-arrow { color: #7c3aed; font-size: 1.1rem; }
+
+  /* Overall progress bar */
+  .overall-bar-section { margin-bottom: 22px; }
+  .overall-bar-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .overall-bar-label { font-size: 0.8rem; font-weight: 700; color: var(--text-muted); }
+  .overall-bar-pct { font-size: 0.9rem; font-weight: 800; color: var(--primary); }
+  .overall-bar-track { height: 10px; background: var(--border); border-radius: 99px; overflow: hidden; }
+  .overall-bar-fill {
+    height: 100%; border-radius: 99px;
+    background: linear-gradient(90deg, #059669, #10b981, #34d399);
+    width: 58%;
+  }
+
+  /* Levels grid */
+  .levels-label {
+    font-size: 0.75rem; font-weight: 700; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.08em;
+    margin-bottom: 12px;
+  }
+  .levels-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .level-card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+  .level-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: var(--primary-light); }
+  .level-card.done {
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+    border-color: #a7f3d0;
+  }
+  .level-card.active {
+    background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+    border-color: var(--primary-light);
+    box-shadow: 0 4px 16px rgba(79,70,229,0.15);
+  }
+  .level-card.locked { opacity: 0.5; cursor: default; }
+  .level-card.locked:hover { transform: none; box-shadow: none; }
+
+  .level-num-row {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .level-num {
+    font-size: 0.65rem; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--text-muted);
+  }
+  .level-status-icon { font-size: 14px; }
+
+  .level-title { font-size: 0.88rem; font-weight: 700; color: var(--text); margin-bottom: 4px; line-height: 1.25; }
+  .level-meta { font-size: 0.7rem; color: var(--text-muted); margin-bottom: 10px; }
+
+  .level-progress-wrap { height: 5px; background: #e0e7ff; border-radius: 99px; overflow: hidden; margin-bottom: 6px; }
+  .level-progress-fill { height: 100%; border-radius: 99px; }
+  .fill-green { background: linear-gradient(90deg, #059669, #34d399); }
+  .fill-blue { background: linear-gradient(90deg, var(--primary), var(--primary-light)); }
+
+  .level-pct { font-size: 0.68rem; font-weight: 700; }
+  .pct-green { color: #059669; }
+  .pct-blue { color: var(--primary); }
+  .pct-muted { color: var(--text-muted); }
+
+  .level-play-btn {
+    position: absolute; bottom: 12px; right: 12px;
+    width: 28px; height: 28px;
+    background: var(--primary);
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    color: white; font-size: 10px;
+    box-shadow: 0 2px 8px rgba(79,70,229,0.3);
+  }
+  .level-card.done .level-play-btn { background: #059669; box-shadow: 0 2px 8px rgba(5,150,105,0.3); }
+  .level-card.locked .level-play-btn { background: #9ca3af; box-shadow: none; }
+
+  /* Last played badge */
+  .last-played-badge {
+    position: absolute; top: 10px; right: 10px;
+    background: var(--primary);
+    color: white;
+    font-size: 0.55rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em;
+    border-radius: 5px; padding: 2px 6px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="back-btn">‹ Verb Tenses</div>
+  <div class="breadcrumbs">Home <span>›</span> Verb Tenses <span>›</span> Present Continuous</div>
+  <div class="header-title">Present Continuous</div>
+  <div class="header-sub">Actions happening right now · 8 levels</div>
+  <div class="summary-strip">
+    <div class="sum-item">
+      <div class="sum-num">8</div>
+      <div class="sum-label">Levels</div>
+    </div>
+    <div class="sum-item">
+      <div class="sum-num">5</div>
+      <div class="sum-label">Done</div>
+    </div>
+    <div class="sum-item">
+      <div class="sum-num">3</div>
+      <div class="sum-label">Left</div>
+    </div>
+  </div>
+</div>
+
+<div class="scroll-body">
+
+  <!-- Explanation banner -->
+  <div class="explanation-banner">
+    <div class="explanation-banner-icon">💡</div>
+    <div class="explanation-banner-text">
+      <div class="explanation-banner-title">Grammar Explanation</div>
+      <div class="explanation-banner-sub">Read notes before playing</div>
+    </div>
+    <div class="explanation-banner-arrow">›</div>
+  </div>
+
+  <!-- Overall progress -->
+  <div class="overall-bar-section">
+    <div class="overall-bar-header">
+      <span class="overall-bar-label">Overall Progress</span>
+      <span class="overall-bar-pct">58%</span>
+    </div>
+    <div class="overall-bar-track">
+      <div class="overall-bar-fill"></div>
+    </div>
+  </div>
+
+  <div class="levels-label">Select a Level</div>
+
+  <div class="levels-grid">
+
+    <div class="level-card done">
+      <div class="level-num-row">
+        <span class="level-num">Level 1</span>
+        <span class="level-status-icon">✅</span>
+      </div>
+      <div class="level-title">At the Park</div>
+      <div class="level-meta">8 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-green" style="width:100%"></div>
+      </div>
+      <div class="level-pct pct-green">100%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card done">
+      <div class="level-num-row">
+        <span class="level-num">Level 2</span>
+        <span class="level-status-icon">✅</span>
+      </div>
+      <div class="level-title">Morning Routine</div>
+      <div class="level-meta">10 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-green" style="width:100%"></div>
+      </div>
+      <div class="level-pct pct-green">100%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card done">
+      <div class="level-num-row">
+        <span class="level-num">Level 3</span>
+        <span class="level-status-icon">✅</span>
+      </div>
+      <div class="level-title">At the Office</div>
+      <div class="level-meta">9 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-green" style="width:100%"></div>
+      </div>
+      <div class="level-pct pct-green">100%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card active">
+      <div class="last-played-badge">Last played</div>
+      <div class="level-num-row">
+        <span class="level-num">Level 4</span>
+        <span class="level-status-icon">▶️</span>
+      </div>
+      <div class="level-title">Weekend Fun</div>
+      <div class="level-meta">11 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-blue" style="width:60%"></div>
+      </div>
+      <div class="level-pct pct-blue">60%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card done">
+      <div class="level-num-row">
+        <span class="level-num">Level 5</span>
+        <span class="level-status-icon">✅</span>
+      </div>
+      <div class="level-title">At the Market</div>
+      <div class="level-meta">8 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-green" style="width:100%"></div>
+      </div>
+      <div class="level-pct pct-green">100%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card">
+      <div class="level-num-row">
+        <span class="level-num">Level 6</span>
+        <span class="level-status-icon">⭕</span>
+      </div>
+      <div class="level-title">School Day</div>
+      <div class="level-meta">10 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-blue" style="width:0%"></div>
+      </div>
+      <div class="level-pct pct-muted">0%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card">
+      <div class="level-num-row">
+        <span class="level-num">Level 7</span>
+        <span class="level-status-icon">⭕</span>
+      </div>
+      <div class="level-title">Rainy Day</div>
+      <div class="level-meta">9 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-blue" style="width:0%"></div>
+      </div>
+      <div class="level-pct pct-muted">0%</div>
+      <div class="level-play-btn">▶</div>
+    </div>
+
+    <div class="level-card locked">
+      <div class="level-num-row">
+        <span class="level-num">Level 8</span>
+        <span class="level-status-icon">🔒</span>
+      </div>
+      <div class="level-title">Bonus Round</div>
+      <div class="level-meta">12 sentences</div>
+      <div class="level-progress-wrap">
+        <div class="level-progress-fill fill-blue" style="width:0%"></div>
+      </div>
+      <div class="level-pct pct-muted">Locked</div>
+      <div class="level-play-btn">🔒</div>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

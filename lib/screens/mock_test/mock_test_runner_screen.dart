@@ -10,8 +10,8 @@ import 'package:provider/provider.dart';
 import '../../models/story_level.dart';
 import '../../providers/locale_provider.dart';
 import '../../l10n/app_localizations.dart';
+import '../../theme/app_colors.dart';
 
-// Copy of Word class from generic_game_screen.dart
 class MockTestWord {
   final String text;
   final int index;
@@ -20,8 +20,6 @@ class MockTestWord {
   final String correctForm;
   final bool isSpace;
   final bool isPunctuation;
-
-  // Article game specific
   final String originalText;
   final bool shouldCapitalizeArticle;
 
@@ -40,7 +38,6 @@ class MockTestWord {
 
 class MockTestRunnerScreen extends StatefulWidget {
   final List<StoryLevel> questions;
-
   const MockTestRunnerScreen({super.key, required this.questions});
 
   @override
@@ -49,47 +46,22 @@ class MockTestRunnerScreen extends StatefulWidget {
 
 class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
   int _currentIndex = 0;
-
-  // State for current question
   List<MockTestWord> _currentWords = [];
   Map<int, String> _playerSelections = {};
   Map<int, String> _correctAnswers = {};
   bool _isAnswerChecked = false;
 
-  // Overall progress tracking
   int _totalCorrectBlanks = 0;
   int _totalBlanks = 0;
-
-  // Tracking per question for review (optional)
   final List<bool> _questionResults = [];
 
   final Random _random = Random();
   final ScrollController _scrollController = ScrollController();
 
   static const Set<String> _namesLower = {
-    'annie',
-    'wally',
-    'paula',
-    'peter',
-    'kenny',
-    'zealand',
-    'bobby',
-    'rita',
-    'willy',
-    'olivia',
-    'benny',
-    'gavin',
-    'sally',
-    'perry',
-    'max',
-    'kevin',
-    'lulu',
-    'charlie',
-    'penny',
-    'percy',
-    'billy',
-    'pip',
-    'dash',
+    'annie', 'wally', 'paula', 'peter', 'kenny', 'zealand', 'bobby', 'rita',
+    'willy', 'olivia', 'benny', 'gavin', 'sally', 'perry', 'max', 'kevin',
+    'lulu', 'charlie', 'penny', 'percy', 'billy', 'pip', 'dash',
   };
 
   @override
@@ -111,7 +83,6 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
       _correctAnswers = {};
       _currentWords = [];
     });
-
     if (_currentIndex < widget.questions.length) {
       _processText(widget.questions[_currentIndex].content);
     }
@@ -146,77 +117,46 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
           int initialIndex = _random.nextInt(forms.length);
           String initialText = forms[initialIndex];
 
-          words.add(
-            MockTestWord(
-              text: initialText,
-              index: indexCounter,
-              isTarget: true,
-              options: forms,
-              correctForm: correctForm,
-            ),
-          );
-
+          words.add(MockTestWord(
+            text: initialText, index: indexCounter, isTarget: true,
+            options: forms, correctForm: correctForm,
+          ));
           _correctAnswers[indexCounter] = correctForm;
           indexCounter++;
         }
       } else if (RegExp(r'^\s+$').hasMatch(part)) {
-        words.add(
-          MockTestWord(
-            text: part,
-            index: indexCounter++,
-            isTarget: false,
-            options: [],
-            correctForm: '',
-            isSpace: true,
-          ),
-        );
+        words.add(MockTestWord(
+          text: part, index: indexCounter++, isTarget: false,
+          options: [], correctForm: '', isSpace: true,
+        ));
       } else {
         final matchPunc = RegExp(r'^(.*?)([.,!?]*)$').firstMatch(part);
         if (matchPunc != null) {
           String wordText = matchPunc.group(1) ?? '';
           String puncText = matchPunc.group(2) ?? '';
-
           if (wordText.isNotEmpty) {
-            words.add(
-              MockTestWord(
-                text: wordText,
-                index: indexCounter++,
-                isTarget: false,
-                options: [],
-                correctForm: wordText,
-              ),
-            );
+            words.add(MockTestWord(
+              text: wordText, index: indexCounter++, isTarget: false,
+            ));
           }
           if (puncText.isNotEmpty) {
-            words.add(
-              MockTestWord(
-                text: puncText,
-                index: indexCounter++,
-                isTarget: false,
-                options: [],
-                correctForm: puncText,
-                isPunctuation: true,
-              ),
-            );
+            words.add(MockTestWord(
+              text: puncText, index: indexCounter++, isTarget: false,
+              isPunctuation: true,
+            ));
           }
         }
       }
     }
-
-    setState(() {
-      _currentWords = words;
-    });
+    setState(() => _currentWords = words);
   }
 
   void _processArticleText(String content) {
     List<MockTestWord> words = [];
     Map<int, String> correctArticles = {};
-
     final rawWords = content.split(RegExp(r'\s+'));
     bool isFirstWord = true;
     bool pendingArticleStart = false;
-
-    // We use indexCounter to keep keys unique and sequential for the UI
     int indexCounter = 0;
 
     for (int i = 0; i < rawWords.length; i++) {
@@ -224,36 +164,22 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
       if (word.isEmpty) continue;
       String lower = word.toLowerCase();
       bool isArticle = ['a', 'an', 'the'].contains(lower);
-
       bool isCurrentStart =
           isFirstWord || (i > 0 && RegExp(r'[.!?]$').hasMatch(rawWords[i - 1]));
 
       if (isArticle) {
-        // Store correct article for the NEXT word.
-        // We use indexCounter as the ID for the NEXT word.
-        // Since we haven't added the next word yet, its ID will be indexCounter (once we iterate to it, or logically)
-        // Wait, if we are at 'The'(i), next is 'cat'(i+1).
-        // If we skip 'The', we don't increment indexCounter for it?
-        // In GenericGame, every token gets an index.
-        // In ArticleGame, only Words get indices.
-        // Let's stick to ArticleGame logic: only non-articles get added as words.
         correctArticles[indexCounter] = lower;
         pendingArticleStart = isCurrentStart;
       } else {
         bool shouldCap = isCurrentStart || pendingArticleStart;
-        words.add(
-          MockTestWord(
-            text: _namesLower.contains(lower) ? word : lower,
-            originalText: word,
-            index: indexCounter, // This is the ID used for selections
-            isTarget: true, // All non-article words are potential targets
-            shouldCapitalizeArticle: shouldCap,
-          ),
-        );
+        words.add(MockTestWord(
+          text: _namesLower.contains(lower) ? word : lower,
+          originalText: word, index: indexCounter, isTarget: true,
+          shouldCapitalizeArticle: shouldCap,
+        ));
         indexCounter++;
         pendingArticleStart = false;
       }
-
       if (!isArticle) isFirstWord = false;
     }
 
@@ -265,10 +191,8 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
 
   void _handleWordClick(int index) {
     if (_isAnswerChecked) return;
-
     final word = _currentWords.firstWhere((w) => w.index == index);
     if (!word.isTarget) return;
-
     if (widget.questions[_currentIndex].type == 'article') {
       _handleArticleClick(word);
     } else {
@@ -280,17 +204,12 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
     String current = _playerSelections[word.index] ?? word.text;
     int currentOptionIndex = word.options.indexOf(current);
     int nextOptionIndex = (currentOptionIndex + 1) % word.options.length;
-
-    setState(() {
-      _playerSelections[word.index] = word.options[nextOptionIndex];
-    });
+    setState(() => _playerSelections[word.index] = word.options[nextOptionIndex]);
   }
 
   void _handleArticleClick(MockTestWord word) {
-    String? current =
-        _playerSelections[word.index]; // Actually selected article
+    String? current = _playerSelections[word.index];
     final bool cap = word.shouldCapitalizeArticle;
-
     setState(() {
       if (current == null) {
         _playerSelections[word.index] = cap ? 'A' : 'a';
@@ -313,86 +232,41 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
   }
 
   void _checkGenericAnswer() {
-    int correctCount = 0;
-    int blankCount = 0;
-
+    int correctCount = 0, blankCount = 0;
     for (var word in _currentWords) {
       if (word.isTarget) {
         blankCount++;
         String selected = _playerSelections[word.index] ?? word.text;
         String correctAns = _correctAnswers[word.index] ?? '';
-
-        if (correctAns == "BOTH" || selected == correctAns) {
-          correctCount++;
-        }
+        if (correctAns == "BOTH" || selected == correctAns) correctCount++;
       }
     }
     _finalizeCheck(correctCount, blankCount);
   }
 
   void _checkArticleAnswer() {
-    int correct = 0;
-    int error = 0;
-    int missed = 0;
-
+    int correct = 0, error = 0, missed = 0;
     for (var word in _currentWords) {
       String? correctArt = _correctAnswers[word.index];
       String? selectedArt = _playerSelections[word.index];
-
       if (correctArt != null) {
-        if (selectedArt != null &&
-            selectedArt.toLowerCase() == correctArt.toLowerCase()) {
+        if (selectedArt != null && selectedArt.toLowerCase() == correctArt.toLowerCase()) {
           correct++;
         } else {
           missed++;
         }
       } else {
-        if (selectedArt != null) {
-          error++;
-        }
+        if (selectedArt != null) error++;
       }
     }
-
-    // Scoring logic for Article Game:
-    // Points = Correct - Error.
-    // Total = Correct + Missed (number of actual articles needed).
-    // But MockTest usually counts "Blanks".
-    // Let's adapt to fit "Total Correct / Total Blanks" metaphor.
-    // Total Blanks = (Correct + Missed + Error) ? No, Error is extra.
-    // Let's say Total Blanks = (Number of slots that NEEDED an article) + (Number of slots that DIDN'T need but GOT one).
-    // Effectively, every interaction point counts.
-    //
-    // Simplified:
-    // Correct = correct selections.
-    // Total = (slots with correctArt) + (slots without correctArt but with selectedArt).
-    // This penalizes errors by increasing the denominator and not the numerator.
-
-    // Or strictly follow game logic: Score = (Correct - Error) / (Correct + Missed).
-    // But _totalCorrectBlanks is an integer we sum up.
-    // Use "Net Correct" for numerator?
-    int netCorrect = correct - error;
-    if (netCorrect < 0) netCorrect = 0;
-    int totalNeeded = correct + missed; // Total articles actually in the text
-
-    // Wait, if I spam articles everywhere, my score shouldn't just be 0/TotalNeeded. It should reflect badness.
-    // But MockTest summary is simple "X / Y".
-    // Let's use:
-    // Numerator: Correct
-    // Denominator: TotalNeeded + Error
-    // This ensures 100% is only possible if Correct==TotalNeeded and Error==0.
-
-    _finalizeCheck(correct, totalNeeded + error);
+    _finalizeCheck(correct, correct + missed + error);
   }
 
   void _finalizeCheck(int correct, int total) {
     _totalCorrectBlanks += correct;
     _totalBlanks += total;
     _questionResults.add(correct == total && total > 0);
-
-    setState(() {
-      _isAnswerChecked = true;
-    });
-
+    setState(() => _isAnswerChecked = true);
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_scrollController.hasClients) {
         _scrollController.animateTo(
@@ -406,21 +280,15 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
 
   void _nextQuestion() {
     if (_currentIndex < widget.questions.length - 1) {
-      setState(() {
-        _currentIndex++;
-      });
+      setState(() => _currentIndex++);
       _loadCurrentQuestion();
-      // Scroll back to top
-      if (_scrollController.hasClients) {
-        _scrollController.jumpTo(0);
-      }
+      if (_scrollController.hasClients) _scrollController.jumpTo(0);
     } else {
       _finishTest();
     }
   }
 
   Future<void> _finishTest() async {
-    // Save Score
     int score = _totalCorrectBlanks;
     int total = _totalBlanks;
     int timestamp = DateTime.now().millisecondsSinceEpoch;
@@ -428,51 +296,87 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
     final prefs = await SharedPreferences.getInstance();
     final List<String> historyStrings =
         prefs.getStringList('mock_test_history') ?? [];
-
-    Map<String, dynamic> result = {
+    historyStrings.add(json.encode({
       'timestamp': timestamp,
       'score': score,
       'total': total,
-    };
-
-    historyStrings.add(json.encode(result));
+    }));
     await prefs.setStringList('mock_test_history', historyStrings);
 
-    if (mounted) {
-      _showSummaryDialog(score, total);
-    }
+    if (mounted) _showSummaryDialog(score, total);
   }
 
   void _showSummaryDialog(int score, int total) {
-    int percentage = total > 0 ? ((score / total) * 100).round() : 0;
+    final int pct = total > 0 ? ((score / total) * 100).round() : 0;
+    final isDark = Theme.of(context).brightness == Brightness.dark;
 
     showDialog(
       context: context,
       barrierDismissible: false,
       builder: (context) => AlertDialog(
-        title: const Text("Test Complete"),
+        backgroundColor: isDark ? const Color(0xFF1E1E2E) : Colors.white,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+        title: const Text(
+          'Test Complete! 🎉',
+          textAlign: TextAlign.center,
+          style: TextStyle(fontWeight: FontWeight.w900, fontSize: 20),
+        ),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Text(
-              "$percentage%",
-              style: const TextStyle(
-                fontSize: 48,
-                fontWeight: FontWeight.bold,
-                color: Colors.indigo,
+            Container(
+              width: 90,
+              height: 90,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                gradient: LinearGradient(
+                  colors: pct >= 80
+                      ? [AppColors.greenDark, AppColors.green]
+                      : pct >= 60
+                          ? [const Color(0xFFD97706), AppColors.amber]
+                          : [const Color(0xFFDC2626), AppColors.red],
+                  begin: Alignment.topLeft,
+                  end: Alignment.bottomRight,
+                ),
+              ),
+              child: Center(
+                child: Text(
+                  '$pct%',
+                  style: const TextStyle(
+                    fontSize: 26,
+                    fontWeight: FontWeight.w900,
+                    color: Colors.white,
+                  ),
+                ),
               ),
             ),
-            const SizedBox(height: 8),
-            Text("You got $score out of $total blanks correct."),
+            const SizedBox(height: 16),
+            Text(
+              'You got $score out of $total blanks correct.',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                color: isDark ? Colors.white70 : AppColors.textMuted,
+                fontSize: 14,
+              ),
+            ),
           ],
         ),
         actions: [
-          TextButton(
-            onPressed: () {
-              context.pop(); // Close dialog
-              context.pop(); // Exit runner
-            },
-            child: const Text("Finish"),
+          SizedBox(
+            width: double.infinity,
+            child: ElevatedButton(
+              onPressed: () {
+                context.pop();
+                context.pop();
+              },
+              style: ElevatedButton.styleFrom(
+                padding: const EdgeInsets.symmetric(vertical: 14),
+              ),
+              child: const Text(
+                'Finish',
+                style: TextStyle(fontWeight: FontWeight.w800),
+              ),
+            ),
           ),
         ],
       ),
@@ -483,8 +387,11 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
   Widget build(BuildContext context) {
     final loc = AppLocalizations.of(context);
     final question = widget.questions[_currentIndex];
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final bgColor = isDark ? const Color(0xFF13131F) : AppColors.background;
+    final surfaceColor = isDark ? const Color(0xFF1E1E2E) : Colors.white;
+    final borderColor = isDark ? const Color(0xFF2D2D3F) : AppColors.border;
 
-    // Explanation logic
     final locale = Provider.of<LocaleProvider>(context).locale;
     String explanationContent = '';
     if (locale.languageCode == 'zh') {
@@ -499,128 +406,336 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
       explanationContent = question.explanationEnUs;
     }
 
+    final totalQ = widget.questions.length;
+    final liveScore = _totalBlanks > 0
+        ? ((_totalCorrectBlanks / _totalBlanks) * 100).round()
+        : 0;
+
     return Scaffold(
-      appBar: AppBar(
-        title: Text(
-          "Question ${_currentIndex + 1} / ${widget.questions.length}",
-        ),
-        automaticallyImplyLeading: false, // Prevent accidental back
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.close),
-            onPressed: () {
-              // Confirm quit
-              showDialog(
-                context: context,
-                builder: (c) => AlertDialog(
-                  title: const Text("Quit Test?"),
-                  content: const Text("Progress will not be saved."),
-                  actions: [
-                    TextButton(
-                      onPressed: () => Navigator.pop(c),
-                      child: const Text("Cancel"),
-                    ),
-                    TextButton(
-                      onPressed: () {
-                        Navigator.pop(c);
-                        Navigator.of(context).pop();
+      backgroundColor: bgColor,
+      body: Column(
+        children: [
+          // ── Header
+          Container(
+            color: surfaceColor,
+            padding: const EdgeInsets.fromLTRB(14, 12, 14, 10),
+            child: Column(
+              children: [
+                Row(
+                  children: [
+                    // Quit button
+                    GestureDetector(
+                      onTap: () {
+                        showDialog(
+                          context: context,
+                          builder: (c) => AlertDialog(
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                            title: const Text('Quit Test?'),
+                            content: const Text('Progress will not be saved.'),
+                            actions: [
+                              TextButton(
+                                onPressed: () => Navigator.pop(c),
+                                child: const Text('Cancel'),
+                              ),
+                              TextButton(
+                                onPressed: () {
+                                  Navigator.pop(c);
+                                  Navigator.of(context).pop();
+                                },
+                                child: const Text(
+                                  'Quit',
+                                  style: TextStyle(color: AppColors.red),
+                                ),
+                              ),
+                            ],
+                          ),
+                        );
                       },
-                      child: const Text(
-                        "Quit",
-                        style: TextStyle(color: Colors.red),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 10, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: isDark
+                              ? AppColors.red.withOpacity(0.15)
+                              : const Color(0xFFFEE2E2),
+                          border: Border.all(
+                            color: isDark
+                                ? AppColors.red.withOpacity(0.3)
+                                : const Color(0xFFFCA5A5),
+                          ),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(Icons.close_rounded,
+                                size: 14,
+                                color: isDark ? AppColors.red : const Color(0xFF991B1B)),
+                            const SizedBox(width: 4),
+                            Text(
+                              'Quit',
+                              style: TextStyle(
+                                fontSize: 12,
+                                fontWeight: FontWeight.w700,
+                                color: isDark ? AppColors.red : const Color(0xFF991B1B),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                    const Spacer(),
+                    Column(
+                      children: [
+                        Text(
+                          'Mock Test',
+                          style: TextStyle(
+                            fontSize: 11,
+                            color: isDark ? Colors.white38 : AppColors.textMuted,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                        Text(
+                          'Question ${_currentIndex + 1} of $totalQ',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w900,
+                            color: isDark ? Colors.white : AppColors.textPrimary,
+                            letterSpacing: -0.2,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const Spacer(),
+                    // Live score pill
+                    Container(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 12, vertical: 6),
+                      decoration: BoxDecoration(
+                        gradient: const LinearGradient(
+                          colors: [AppColors.primaryDark, AppColors.primary],
+                        ),
+                        borderRadius: BorderRadius.circular(99),
+                      ),
+                      child: Text(
+                        '$liveScore%',
+                        style: const TextStyle(
+                          fontSize: 13,
+                          fontWeight: FontWeight.w800,
+                          color: Colors.white,
+                        ),
                       ),
                     ),
                   ],
                 ),
-              );
-            },
+                const SizedBox(height: 10),
+                // ── Progress dots
+                SizedBox(
+                  height: 6,
+                  child: ListView.separated(
+                    scrollDirection: Axis.horizontal,
+                    itemCount: totalQ,
+                    separatorBuilder: (_, __) => const SizedBox(width: 3),
+                    itemBuilder: (ctx, i) {
+                      Color dotColor;
+                      if (i < _questionResults.length) {
+                        dotColor = _questionResults[i]
+                            ? AppColors.green
+                            : AppColors.red;
+                      } else if (i == _currentIndex) {
+                        dotColor = AppColors.primary;
+                      } else {
+                        dotColor = isDark
+                            ? const Color(0xFF2D2D3F)
+                            : AppColors.surface2;
+                      }
+                      return AnimatedContainer(
+                        duration: const Duration(milliseconds: 200),
+                        width: i == _currentIndex ? 16 : 6,
+                        height: 6,
+                        decoration: BoxDecoration(
+                          color: dotColor,
+                          borderRadius: BorderRadius.circular(99),
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ],
+            ),
           ),
-        ],
-      ),
-      body: Column(
-        children: [
+
+          // ── Scrollable content
           Expanded(
             child: SingleChildScrollView(
               controller: _scrollController,
-              padding: const EdgeInsets.all(24),
+              padding: const EdgeInsets.fromLTRB(16, 16, 16, 16),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  Text(
-                    question.title,
-                    style: const TextStyle(fontSize: 14, color: Colors.grey),
+                  // Question card
+                  Container(
+                    padding: const EdgeInsets.all(20),
+                    decoration: BoxDecoration(
+                      color: surfaceColor,
+                      border: Border.all(color: borderColor, width: 1.5),
+                      borderRadius: BorderRadius.circular(20),
+                      boxShadow: isDark
+                          ? null
+                          : [
+                              BoxShadow(
+                                color: AppColors.primary.withOpacity(0.07),
+                                blurRadius: 16,
+                                offset: const Offset(0, 4),
+                              ),
+                            ],
+                    ),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Row(
+                          children: [
+                            Container(
+                              width: 3,
+                              height: 14,
+                              decoration: BoxDecoration(
+                                color: AppColors.primary,
+                                borderRadius: BorderRadius.circular(2),
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            Text(
+                              'Question ${_currentIndex + 1}',
+                              style: TextStyle(
+                                fontSize: 11,
+                                fontWeight: FontWeight.w800,
+                                letterSpacing: 0.08,
+                                color: isDark
+                                    ? Colors.white38
+                                    : AppColors.textMuted,
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 12),
+                        widget.questions[_currentIndex].type == 'article'
+                            ? _buildArticleContent(
+                                isDark, surfaceColor, borderColor)
+                            : _buildGenericContent(
+                                isDark, surfaceColor, borderColor),
+                      ],
+                    ),
                   ),
-                  const SizedBox(height: 16),
 
-                  // Question content
-                  widget.questions[_currentIndex].type == 'article'
-                      ? _buildArticleContent()
-                      : _buildGenericContent(),
-
-                  // Explanation
-                  if (_isAnswerChecked) ...[
-                    const SizedBox(height: 48),
-                    const Divider(),
-                    const SizedBox(height: 16),
-                    const Text(
-                      "Explanation",
-                      style: TextStyle(
-                        fontWeight: FontWeight.bold,
-                        fontSize: 16,
+                  // ── Explanation
+                  if (_isAnswerChecked && explanationContent.isNotEmpty) ...[
+                    const SizedBox(height: 14),
+                    Container(
+                      padding: const EdgeInsets.all(16),
+                      decoration: BoxDecoration(
+                        gradient: isDark
+                            ? null
+                            : const LinearGradient(
+                                colors: [
+                                  Color(0xFFEDE9FE),
+                                  Color(0xFFDBEAFE),
+                                ],
+                                begin: Alignment.topLeft,
+                                end: Alignment.bottomRight,
+                              ),
+                        color: isDark ? const Color(0xFF1E1E2E) : null,
+                        border: Border.all(
+                          color: isDark
+                              ? const Color(0xFF3A3A50)
+                              : const Color(0xFFC4B5FD),
+                          width: 1.5,
+                        ),
+                        borderRadius: BorderRadius.circular(16),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              const Text('💡', style: TextStyle(fontSize: 16)),
+                              const SizedBox(width: 8),
+                              Text(
+                                'Grammar Note',
+                                style: TextStyle(
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w800,
+                                  color: isDark
+                                      ? Colors.white
+                                      : const Color(0xFF4C1D95),
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+                          MarkdownBody(
+                            data: explanationContent,
+                            styleSheet: MarkdownStyleSheet(
+                              p: TextStyle(
+                                fontSize: 14,
+                                height: 1.5,
+                                color: isDark
+                                    ? Colors.white70
+                                    : const Color(0xFF5B21B6),
+                              ),
+                            ),
+                          ),
+                        ],
                       ),
                     ),
-                    const SizedBox(height: 8),
-                    MarkdownBody(
-                      data: explanationContent,
-                      styleSheet: MarkdownStyleSheet(
-                        p: const TextStyle(fontSize: 16, height: 1.5),
-                      ),
-                    ),
-                    const SizedBox(height: 80), // Padding
-                  ],
+                    const SizedBox(height: 80),
+                  ] else
+                    const SizedBox(height: 80),
                 ],
               ),
             ),
           ),
 
+          // ── Bottom bar
           Container(
-            padding: const EdgeInsets.all(16),
-            decoration: const BoxDecoration(
-              color: Colors.white,
-              boxShadow: [BoxShadow(blurRadius: 10, color: Colors.black12)],
+            padding: EdgeInsets.fromLTRB(
+              16, 12, 16, MediaQuery.of(context).padding.bottom + 12,
             ),
-            child: SafeArea(
-              top: false,
-              child: SizedBox(
-                width: double.infinity,
-                child: _isAnswerChecked
-                    ? ElevatedButton(
-                        onPressed: _nextQuestion,
-                        style: ElevatedButton.styleFrom(
-                          padding: const EdgeInsets.symmetric(vertical: 16),
-                          backgroundColor: Colors.indigo,
-                          foregroundColor: Colors.white,
-                        ),
-                        child: Text(
-                          _currentIndex < widget.questions.length - 1
-                              ? (loc.tryGet('next_question') ?? 'Next Question')
-                              : (loc.tryGet('finish') ?? 'Finish'),
-                          style: const TextStyle(fontSize: 18),
-                        ),
-                      )
-                    : ElevatedButton(
-                        onPressed: _checkAnswer,
-                        style: ElevatedButton.styleFrom(
-                          padding: const EdgeInsets.symmetric(vertical: 16),
-                          backgroundColor: Colors.indigo,
-                          foregroundColor: Colors.white,
-                        ),
-                        child: Text(
-                          (loc.tryGet('check') ?? 'Check'),
-                          style: const TextStyle(fontSize: 18),
-                        ),
-                      ),
-              ),
+            decoration: BoxDecoration(
+              color: isDark
+                  ? const Color(0xFF1E1E2E).withOpacity(0.97)
+                  : Colors.white.withOpacity(0.97),
+              border: Border(top: BorderSide(color: borderColor, width: 1)),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withOpacity(isDark ? 0.3 : 0.08),
+                  blurRadius: 12,
+                  offset: const Offset(0, -3),
+                ),
+              ],
+            ),
+            child: SizedBox(
+              width: double.infinity,
+              child: _isAnswerChecked
+                  ? _gradientButton(
+                      label: _currentIndex < totalQ - 1
+                          ? (loc.tryGet('next_question') ?? 'Next Question')
+                          : (loc.tryGet('finish') ?? 'Finish'),
+                      icon: _currentIndex < totalQ - 1
+                          ? Icons.arrow_forward_rounded
+                          : Icons.check_circle_rounded,
+                      onTap: _nextQuestion,
+                      color1: AppColors.greenDark,
+                      color2: AppColors.green,
+                    )
+                  : _gradientButton(
+                      label: loc.tryGet('check') ?? 'Check',
+                      icon: Icons.check_circle_outline_rounded,
+                      onTap: _checkAnswer,
+                      color1: AppColors.primaryDark,
+                      color2: const Color(0xFF7C3AED),
+                    ),
             ),
           ),
         ],
@@ -628,107 +743,87 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
     );
   }
 
-  Widget _buildGenericContent() {
+  Widget _buildGenericContent(
+      bool isDark, Color surfaceColor, Color borderColor) {
     return Wrap(
       spacing: 0,
-      runSpacing: 12,
+      runSpacing: 10,
+      crossAxisAlignment: WrapCrossAlignment.center,
       children: _currentWords.map((word) {
-        if (word.isSpace) return const Text(' ');
+        if (word.isSpace) return const Text(' ', style: TextStyle(fontSize: 18));
 
-        bool isSelected = _playerSelections.containsKey(word.index);
-        String displayText = _playerSelections[word.index] ?? word.text;
-
-        Color textColor = Colors.black;
-        TextDecoration? decoration;
-
-        if (word.isTarget) {
-          textColor = Colors.blue.shade700;
-          decoration = TextDecoration.underline;
-
-          if (_isAnswerChecked) {
-            String correctAns = _correctAnswers[word.index] ?? '';
-            if (correctAns == "BOTH") {
-              textColor = Colors.blue;
-              decoration = null;
-            } else {
-              if (displayText == correctAns) {
-                textColor = Colors.green;
-                decoration = null;
-              } else {
-                textColor = Colors.red;
-                decoration = TextDecoration.lineThrough;
-              }
-            }
-          }
-        }
-
-        if (word.isTarget) {
-          if (_isAnswerChecked &&
-              _correctAnswers[word.index] != "BOTH" &&
-              displayText != _correctAnswers[word.index]) {
-            // Show wrong answer struck through + correct answer
-            return Container(
-              margin: const EdgeInsets.symmetric(horizontal: 2),
-              child: Row(
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  Text(
-                    displayText,
-                    style: const TextStyle(
-                      fontSize: 18,
-                      color: Colors.red,
-                      decoration: TextDecoration.lineThrough,
-                    ),
-                  ),
-                  const SizedBox(width: 4),
-                  Text(
-                    _correctAnswers[word.index]!,
-                    style: const TextStyle(
-                      fontSize: 18,
-                      color: Colors.green,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ],
-              ),
-            );
-          }
-
-          return GestureDetector(
-            onTap: () => _handleWordClick(word.index),
-            child: Container(
-              margin: const EdgeInsets.symmetric(horizontal: 2),
-              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-              decoration: BoxDecoration(
-                color: isSelected && !_isAnswerChecked
-                    ? Colors.blue.shade50
-                    : null,
-                borderRadius: BorderRadius.circular(4),
-              ),
-              child: Text(
-                displayText,
-                style: TextStyle(
-                  fontSize: 18,
-                  color: textColor,
-                  decoration: decoration,
-                  fontWeight: word.isTarget
-                      ? FontWeight.w500
-                      : FontWeight.normal,
-                ),
-              ),
+        if (!word.isTarget) {
+          return Text(
+            word.text,
+            style: TextStyle(
+              fontSize: 18,
+              height: 1.6,
+              color: isDark ? Colors.white : AppColors.textPrimary,
             ),
           );
         }
 
-        return Text(
-          word.text,
-          style: const TextStyle(fontSize: 18, height: 1.6),
+        String displayText = _playerSelections[word.index] ?? word.text;
+        bool isInteracted = _playerSelections.containsKey(word.index);
+
+        if (_isAnswerChecked) {
+          String correctAns = _correctAnswers[word.index] ?? '';
+          bool isCorrect =
+              correctAns == "BOTH" || displayText == correctAns;
+
+          if (!isCorrect) {
+            return Container(
+              margin: const EdgeInsets.symmetric(horizontal: 2),
+              child: Wrap(
+                spacing: 4,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  _resultChip(displayText, isCorrect: false, isDark: isDark,
+                      strikethrough: true),
+                  _resultChip(correctAns, isCorrect: true, isDark: isDark),
+                ],
+              ),
+            );
+          }
+          return Container(
+            margin: const EdgeInsets.symmetric(horizontal: 2),
+            child: _resultChip(displayText, isCorrect: true, isDark: isDark),
+          );
+        }
+
+        return GestureDetector(
+          onTap: () => _handleWordClick(word.index),
+          child: Container(
+            margin: const EdgeInsets.symmetric(horizontal: 2),
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
+            decoration: BoxDecoration(
+              color: isInteracted
+                  ? (isDark ? AppColors.primary.withOpacity(0.2) : const Color(0xFFEEF2FF))
+                  : (isDark ? const Color(0xFF2D2D3F) : AppColors.surface2),
+              border: Border.all(
+                color: isInteracted
+                    ? AppColors.primary
+                    : (isDark ? const Color(0xFF3A3A50) : AppColors.primaryLight),
+                width: isInteracted ? 2 : 1.5,
+              ),
+              borderRadius: BorderRadius.circular(10),
+            ),
+            child: Text(
+              displayText,
+              style: TextStyle(
+                fontSize: 17,
+                fontWeight: FontWeight.w700,
+                color: isDark ? AppColors.primaryLight : AppColors.primary,
+              ),
+            ),
+          ),
         );
       }).toList(),
     );
   }
 
-  Widget _buildArticleContent() {
+  Widget _buildArticleContent(
+      bool isDark, Color surfaceColor, Color borderColor) {
     return Wrap(
       spacing: 0,
       runSpacing: 8,
@@ -749,48 +844,40 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
               isMissed = true;
             }
           } else {
-            if (selectedArt != null) {
-              isError = true;
-            }
+            if (selectedArt != null) isError = true;
           }
         }
 
         List<Widget> children = [];
-
-        // Helper to optionally capitalize
         String format(String s) =>
             word.shouldCapitalizeArticle ? _capitalize(s) : s;
 
-        // Article Widget
         if (selectedArt != null || (isMissed && correctArt != null)) {
           String textToShow = '';
-          Color color = Colors.blue;
+          Color color = AppColors.primary;
           TextDecoration? decoration;
 
           if (_isAnswerChecked) {
             if (isCorrect) {
               textToShow = selectedArt!;
-              color = Colors.green;
+              color = AppColors.green;
             } else if (isMissed) {
               if (selectedArt != null) {
-                // Show wrong selection crossed out
-                children.add(
-                  Text(
-                    "${selectedArt} ",
-                    style: const TextStyle(
-                      fontSize: 18,
-                      color: Colors.red,
-                      decoration: TextDecoration.lineThrough,
-                      fontWeight: FontWeight.bold,
-                    ),
+                children.add(Text(
+                  '$selectedArt ',
+                  style: const TextStyle(
+                    fontSize: 18,
+                    color: AppColors.red,
+                    decoration: TextDecoration.lineThrough,
+                    fontWeight: FontWeight.bold,
                   ),
-                );
+                ));
               }
-              textToShow = format(correctArt!); // Format correct answer
-              color = Colors.orange;
+              textToShow = format(correctArt!);
+              color = AppColors.amber;
             } else if (isError) {
               textToShow = selectedArt!;
-              color = Colors.red;
+              color = AppColors.red;
               decoration = TextDecoration.lineThrough;
             }
           } else {
@@ -798,33 +885,34 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
           }
 
           if (textToShow.isNotEmpty) {
-            children.add(
-              Text(
-                "$textToShow ",
-                style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                  color: color,
-                  decoration: decoration,
-                ),
+            children.add(Text(
+              '$textToShow ',
+              style: TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+                color: color,
+                decoration: decoration,
               ),
-            );
+            ));
           }
         }
 
-        // The Word itself
         String wordDisplay = word.originalText;
         if (selectedArt != null || (isMissed && correctArt != null)) {
-          // If article precedes, should word allow lowercase?
           if (!_namesLower.contains(word.text.toLowerCase()) &&
               wordDisplay != 'I') {
             wordDisplay = wordDisplay.toLowerCase();
           }
         }
 
-        children.add(
-          Text(wordDisplay, style: const TextStyle(fontSize: 18, height: 1.5)),
-        );
+        children.add(Text(
+          wordDisplay,
+          style: TextStyle(
+            fontSize: 18,
+            height: 1.5,
+            color: isDark ? Colors.white : AppColors.textPrimary,
+          ),
+        ));
 
         return GestureDetector(
           onTap: () => _handleWordClick(word.index),
@@ -832,7 +920,9 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
             padding: const EdgeInsets.symmetric(horizontal: 2, vertical: 2),
             decoration: BoxDecoration(
               color: (selectedArt != null && !_isAnswerChecked)
-                  ? Colors.blue.shade50
+                  ? (isDark
+                        ? AppColors.primary.withOpacity(0.15)
+                        : const Color(0xFFEEF2FF))
                   : null,
               borderRadius: BorderRadius.circular(4),
             ),
@@ -843,13 +933,84 @@ class _MockTestRunnerScreenState extends State<MockTestRunnerScreen> {
     );
   }
 
+  Widget _resultChip(String text,
+      {required bool isCorrect,
+      required bool isDark,
+      bool strikethrough = false}) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+      decoration: BoxDecoration(
+        color: isCorrect
+            ? (isDark ? AppColors.green.withOpacity(0.15) : const Color(0xFFD1FAE5))
+            : (isDark ? AppColors.red.withOpacity(0.15) : const Color(0xFFFEE2E2)),
+        border: Border.all(
+          color: isCorrect
+              ? AppColors.green.withOpacity(0.5)
+              : AppColors.red.withOpacity(0.5),
+        ),
+        borderRadius: BorderRadius.circular(8),
+      ),
+      child: Text(
+        text,
+        style: TextStyle(
+          fontSize: 17,
+          fontWeight: FontWeight.w700,
+          color: isCorrect
+              ? (isDark ? AppColors.green : const Color(0xFF065F46))
+              : (isDark ? AppColors.red : const Color(0xFF991B1B)),
+          decoration: strikethrough ? TextDecoration.lineThrough : null,
+        ),
+      ),
+    );
+  }
+
+  Widget _gradientButton({
+    required String label,
+    required IconData icon,
+    required VoidCallback onTap,
+    required Color color1,
+    required Color color2,
+  }) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(vertical: 15),
+        decoration: BoxDecoration(
+          gradient: LinearGradient(colors: [color1, color2]),
+          borderRadius: BorderRadius.circular(14),
+          boxShadow: [
+            BoxShadow(
+              color: color2.withOpacity(0.35),
+              blurRadius: 14,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(icon, color: Colors.white, size: 18),
+            const SizedBox(width: 8),
+            Text(
+              label,
+              style: const TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.w800,
+                color: Colors.white,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
   String _capitalize(String s) {
     if (s.isEmpty) return s;
     return s[0].toUpperCase() + s.substring(1);
   }
 }
 
-// Extension to safely get from app localizations if key might be missing
 extension LocalizationExt on AppLocalizations {
   String? tryGet(String key) {
     try {

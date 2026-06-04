@@ -312,7 +312,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(_story!.title)),
+      appBar: null,
       body: Stack(
         children: [
           Column(
@@ -450,7 +450,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
               Container(
                 padding: const EdgeInsets.all(16),
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: Theme.of(context).colorScheme.surface,
                   boxShadow: [BoxShadow(blurRadius: 10, color: Colors.black12)],
                 ),
                 child: SafeArea(
@@ -492,7 +492,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
                                     );
                                   },
                                   style: ElevatedButton.styleFrom(
-                                    backgroundColor: Colors.indigo,
+                                    backgroundColor: const Color(0xFF4F46E5),
                                     foregroundColor: Colors.white,
                                     padding: const EdgeInsets.symmetric(
                                       vertical: 12,
@@ -510,7 +510,7 @@ class _PrepositionGameScreenState extends State<PrepositionGameScreen> {
                             onPressed: _checkAnswers,
                             style: ElevatedButton.styleFrom(
                               padding: const EdgeInsets.symmetric(vertical: 16),
-                              backgroundColor: Colors.indigo,
+                              backgroundColor: const Color(0xFF4F46E5),
                               foregroundColor: Colors.white,
                             ),
                             child: const Text(

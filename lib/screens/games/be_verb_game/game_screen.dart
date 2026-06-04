@@ -310,7 +310,7 @@ class _BeVerbGameScreenState extends State<BeVerbGameScreen> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(_story!.title)),
+      appBar: null,
       body: Stack(
         children: [
           Column(
@@ -447,7 +447,7 @@ class _BeVerbGameScreenState extends State<BeVerbGameScreen> {
               Container(
                 padding: const EdgeInsets.all(16),
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: Theme.of(context).colorScheme.surface,
                   boxShadow: [BoxShadow(blurRadius: 10, color: Colors.black12)],
                 ),
                 child: SafeArea(
@@ -487,7 +487,7 @@ class _BeVerbGameScreenState extends State<BeVerbGameScreen> {
                                     );
                                   },
                                   style: ElevatedButton.styleFrom(
-                                    backgroundColor: Colors.indigo,
+                                    backgroundColor: const Color(0xFF4F46E5),
                                     foregroundColor: Colors.white,
                                     padding: const EdgeInsets.symmetric(
                                       vertical: 12,
@@ -505,7 +505,7 @@ class _BeVerbGameScreenState extends State<BeVerbGameScreen> {
                             onPressed: _checkAnswers,
                             style: ElevatedButton.styleFrom(
                               padding: const EdgeInsets.symmetric(vertical: 16),
-                              backgroundColor: Colors.indigo,
+                              backgroundColor: const Color(0xFF4F46E5),
                               foregroundColor: Colors.white,
                             ),
                             child: const Text(

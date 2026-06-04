@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Game Screen — Handy Grammar</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f4f6ff;
+    --surface: #ffffff;
+    --surface2: #f0f2ff;
+    --primary: #4f46e5;
+    --primary-light: #818cf8;
+    --primary-dark: #3730a3;
+    --text: #1e1b4b;
+    --text-muted: #6b7280;
+    --border: #e0e7ff;
+    --green: #10b981;
+    --red: #ef4444;
+    --amber: #f59e0b;
+    --radius: 18px;
+    --shadow: 0 2px 12px rgba(79,70,229,0.08);
+    --shadow-lg: 0 8px 32px rgba(79,70,229,0.14);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    max-width: 430px;
+    margin: 0 auto;
+    display: flex; flex-direction: column;
+  }
+
+  /* Top bar */
+  .topbar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 52px 16px 12px;
+    position: sticky; top: 0; z-index: 10;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.95);
+  }
+  .topbar-row {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+  }
+  .back-btn {
+    width: 34px; height: 34px;
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 10px; display: flex; align-items: center; justify-content: center;
+    font-size: 14px; cursor: pointer; flex-shrink: 0;
+  }
+  .topbar-info { flex: 1; }
+  .topbar-game { font-size: 0.78rem; font-weight: 700; color: var(--text-muted); }
+  .topbar-level { font-size: 1rem; font-weight: 800; color: var(--text); letter-spacing: -0.01em; }
+  .topbar-actions { display: flex; gap: 6px; }
+  .icon-btn {
+    width: 34px; height: 34px;
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 10px; display: flex; align-items: center; justify-content: center;
+    font-size: 14px; cursor: pointer;
+  }
+
+  /* Progress */
+  .progress-section { }
+  .progress-row {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 6px;
+  }
+  .progress-label { font-size: 0.7rem; color: var(--text-muted); font-weight: 600; }
+  .progress-fraction { font-size: 0.7rem; font-weight: 800; color: var(--primary); }
+  .progress-track { height: 6px; background: var(--surface2); border-radius: 99px; overflow: hidden; }
+  .progress-fill {
+    height: 100%; border-radius: 99px; width: 50%;
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    transition: width 0.4s ease;
+  }
+
+  /* Main scroll */
+  .scroll-body { flex: 1; padding: 20px 16px 100px; overflow-y: auto; }
+
+  /* Score badges */
+  .score-row {
+    display: flex; gap: 8px; margin-bottom: 20px;
+  }
+  .score-badge {
+    flex: 1; background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: 12px; padding: 10px 8px; text-align: center;
+    box-shadow: var(--shadow);
+  }
+  .score-badge.correct { border-color: #a7f3d0; background: #f0fdf4; }
+  .score-badge.wrong { border-color: #fca5a5; background: #fef2f2; }
+  .score-num { font-size: 1.2rem; font-weight: 900; }
+  .score-num.green { color: var(--green); }
+  .score-num.red { color: var(--red); }
+  .score-num.blue { color: var(--primary); }
+  .score-lbl { font-size: 0.62rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-top: 1px; }
+
+  /* Sentence card */
+  .sentence-card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 22px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow-lg);
+  }
+  .sentence-label {
+    font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: 12px;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .sentence-label::before { content: ''; display: block; width: 3px; height: 12px; background: var(--primary); border-radius: 2px; }
+
+  /* Word flow */
+  .word-flow {
+    display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+    line-height: 1.9;
+  }
+  .word {
+    font-size: 1rem; font-weight: 500; color: var(--text);
+    display: inline-flex; align-items: center;
+  }
+  .word-blank {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 80px;
+    background: var(--surface2);
+    border: 2px dashed var(--primary-light);
+    border-radius: 10px;
+    padding: 5px 12px;
+    font-size: 0.95rem; font-weight: 700;
+    color: var(--primary);
+    cursor: pointer;
+    transition: all 0.15s;
+    position: relative;
+  }
+  .word-blank:hover { background: #e0e7ff; border-color: var(--primary); }
+  .word-blank.selected {
+    background: var(--primary);
+    border: 2px solid var(--primary);
+    color: white;
+    box-shadow: 0 3px 12px rgba(79,70,229,0.35);
+  }
+  .word-blank.correct-answer {
+    background: #d1fae5;
+    border: 2px solid #10b981;
+    color: #065f46;
+  }
+  .word-blank.wrong-answer {
+    background: #fee2e2;
+    border: 2px solid #ef4444;
+    color: #991b1b;
+    animation: shake 0.3s ease;
+  }
+  @keyframes shake {
+    0%,100% { transform: translateX(0); }
+    25% { transform: translateX(-4px); }
+    75% { transform: translateX(4px); }
+  }
+
+  /* Sentence 2 - showing correct */
+  .word-blank.show-correct {
+    background: #d1fae5; border: 2px solid #10b981; color: #065f46;
+  }
+
+  /* Check button */
+  .check-btn {
+    width: 100%; padding: 16px;
+    background: linear-gradient(135deg, var(--primary), #7c3aed);
+    color: white;
+    border: none; border-radius: 14px;
+    font-size: 1rem; font-weight: 800;
+    cursor: pointer; letter-spacing: 0.01em;
+    box-shadow: 0 6px 20px rgba(79,70,229,0.35);
+    transition: transform 0.15s, box-shadow 0.15s;
+    margin-bottom: 12px;
+  }
+  .check-btn:hover { transform: translateY(-1px); box-shadow: 0 8px 24px rgba(79,70,229,0.45); }
+  .check-btn:disabled { background: #e0e7ff; color: var(--text-muted); box-shadow: none; cursor: default; }
+
+  /* Feedback card */
+  .feedback-card {
+    border-radius: 16px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    display: flex; align-items: flex-start; gap: 12px;
+    animation: slideUp 0.2s ease;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .feedback-card.correct-fb { background: #d1fae5; border: 1.5px solid #a7f3d0; }
+  .feedback-card.wrong-fb { background: #fee2e2; border: 1.5px solid #fca5a5; }
+  .feedback-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+  .feedback-body { flex: 1; }
+  .feedback-title { font-size: 0.85rem; font-weight: 800; margin-bottom: 3px; }
+  .feedback-title.green { color: #065f46; }
+  .feedback-title.red { color: #991b1b; }
+  .feedback-text { font-size: 0.8rem; color: var(--text-muted); line-height: 1.4; }
+  .feedback-text strong { color: var(--text); }
+
+  /* Tips strip */
+  .tip-card {
+    background: linear-gradient(135deg, #ede9fe, #dbeafe);
+    border: 1.5px solid #c4b5fd;
+    border-radius: 14px;
+    padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+    cursor: pointer; margin-bottom: 16px;
+  }
+  .tip-icon { font-size: 20px; flex-shrink: 0; }
+  .tip-text { font-size: 0.8rem; color: #4c1d95; font-weight: 600; flex: 1; }
+  .tip-arrow { color: #7c3aed; }
+
+  /* Second sentence card - completed example */
+  .sentence-card.completed-card {
+    border-color: #a7f3d0;
+    background: linear-gradient(135deg, #f0fdf4, #ecfdf5);
+  }
+
+  /* Next button */
+  .next-btn {
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(135deg, #059669, #10b981);
+    color: white;
+    border: none; border-radius: 14px;
+    font-size: 1rem; font-weight: 800;
+    cursor: pointer;
+    box-shadow: 0 6px 20px rgba(5,150,105,0.35);
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    transition: transform 0.15s;
+  }
+  .next-btn:hover { transform: translateY(-1px); }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-row">
+    <div class="back-btn">‹</div>
+    <div class="topbar-info">
+      <div class="topbar-game">Present Continuous</div>
+      <div class="topbar-level">Level 4 · Weekend Fun</div>
+    </div>
+    <div class="topbar-actions">
+      <div class="icon-btn">💡</div>
+      <div class="icon-btn">⏸</div>
+    </div>
+  </div>
+  <div class="progress-section">
+    <div class="progress-row">
+      <span class="progress-label">Progress</span>
+      <span class="progress-fraction">5 / 11</span>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" style="width: 45%"></div>
+    </div>
+  </div>
+</div>
+
+<div class="scroll-body">
+
+  <!-- Score row -->
+  <div class="score-row">
+    <div class="score-badge correct">
+      <div class="score-num green">4</div>
+      <div class="score-lbl">Correct</div>
+    </div>
+    <div class="score-badge wrong">
+      <div class="score-num red">1</div>
+      <div class="score-lbl">Wrong</div>
+    </div>
+    <div class="score-badge">
+      <div class="score-num blue">73%</div>
+      <div class="score-lbl">Score</div>
+    </div>
+  </div>
+
+  <!-- Active sentence -->
+  <div class="sentence-card">
+    <div class="sentence-label">Sentence 5 of 11</div>
+    <div class="word-flow">
+      <span class="word">Tom and Lisa</span>
+      <span class="word-blank selected">are playing</span>
+      <span class="word">tennis in</span>
+      <span class="word">the garden</span>
+      <span class="word">right now.</span>
+    </div>
+  </div>
+
+  <!-- Correct feedback -->
+  <div class="feedback-card correct-fb">
+    <div class="feedback-icon">🎉</div>
+    <div class="feedback-body">
+      <div class="feedback-title green">Correct!</div>
+      <div class="feedback-text"><strong>"are playing"</strong> — use present continuous for actions happening at the moment of speaking.</div>
+    </div>
+  </div>
+
+  <!-- Next button -->
+  <div class="next-btn">Next Sentence →</div>
+
+  <!-- Divider -->
+  <div style="height: 24px;"></div>
+
+  <!-- Completed sentence example -->
+  <div class="sentence-card completed-card">
+    <div class="sentence-label" style="color: #065f46">
+      <span style="background:#10b981; width:3px; height:12px; border-radius:2px; display:block;"></span>
+      Sentence 4 · Completed
+    </div>
+    <div class="word-flow">
+      <span class="word">She</span>
+      <span class="word-blank show-correct">is reading</span>
+      <span class="word">a book</span>
+      <span class="word">on the patio.</span>
+    </div>
+  </div>
+
+  <!-- Wrong answer example -->
+  <div class="sentence-card" style="border-color:#fca5a5; background: linear-gradient(135deg, #fef2f2, #fee2e2);">
+    <div class="sentence-label" style="color: #991b1b">
+      <span style="background:#ef4444; width:3px; height:12px; border-radius:2px; display:block;"></span>
+      Sentence 3 · Try again
+    </div>
+    <div class="word-flow">
+      <span class="word">The kids</span>
+      <span class="word-blank wrong-answer">playing</span>
+      <span class="word">in the pool.</span>
+    </div>
+  </div>
+
+  <div class="feedback-card wrong-fb">
+    <div class="feedback-icon">💭</div>
+    <div class="feedback-body">
+      <div class="feedback-title red">Not quite</div>
+      <div class="feedback-text">The answer is <strong>"are playing"</strong>. With plural subjects, use "are" + verb+ing.</div>
+    </div>
+  </div>
+
+  <!-- Tip -->
+  <div class="tip-card">
+    <div class="tip-icon">💡</div>
+    <div class="tip-text">Tap any highlighted word to cycle through answer options</div>
+    <div class="tip-arrow">›</div>
+  </div>
+
+</div>
+
+</body>
+</html>

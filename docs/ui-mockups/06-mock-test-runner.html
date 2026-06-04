@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Test Runner — Handy Grammar</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f4f6ff;
+    --surface: #ffffff;
+    --surface2: #f0f2ff;
+    --primary: #4f46e5;
+    --primary-light: #818cf8;
+    --primary-dark: #3730a3;
+    --text: #1e1b4b;
+    --text-muted: #6b7280;
+    --border: #e0e7ff;
+    --green: #10b981;
+    --red: #ef4444;
+    --amber: #f59e0b;
+    --radius: 18px;
+    --shadow: 0 2px 12px rgba(79,70,229,0.08);
+    --shadow-lg: 0 8px 32px rgba(79,70,229,0.14);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    max-width: 430px;
+    margin: 0 auto;
+    display: flex; flex-direction: column;
+  }
+
+  /* Top bar */
+  .topbar {
+    background: rgba(255,255,255,0.95);
+    border-bottom: 1px solid var(--border);
+    padding: 52px 16px 14px;
+    position: sticky; top: 0; z-index: 10;
+    backdrop-filter: blur(12px);
+  }
+  .topbar-row {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+  }
+  .quit-btn {
+    height: 32px; padding: 0 12px;
+    background: #fee2e2; border: 1.5px solid #fca5a5;
+    border-radius: 8px; color: #991b1b;
+    font-size: 0.75rem; font-weight: 700; cursor: pointer;
+    display: flex; align-items: center; gap: 4px; flex-shrink: 0;
+  }
+  .topbar-center { flex: 1; text-align: center; }
+  .topbar-title { font-size: 0.78rem; font-weight: 700; color: var(--text-muted); }
+  .topbar-counter { font-size: 1rem; font-weight: 900; color: var(--text); }
+  .score-pill {
+    background: linear-gradient(135deg, var(--primary), #7c3aed);
+    color: white; border-radius: 99px;
+    padding: 5px 14px; font-size: 0.82rem; font-weight: 800;
+    flex-shrink: 0;
+  }
+
+  /* Segmented progress dots */
+  .dots-row {
+    display: flex; gap: 4px; overflow-x: auto; padding-bottom: 2px;
+  }
+  .dots-row::-webkit-scrollbar { display: none; }
+  .dot {
+    flex-shrink: 0;
+    height: 6px; border-radius: 99px;
+    flex: 1; min-width: 16px; max-width: 24px;
+    background: #e0e7ff;
+    transition: background 0.2s;
+  }
+  .dot.correct { background: var(--green); }
+  .dot.wrong { background: var(--red); }
+  .dot.current { background: var(--primary); animation: pulse 1.2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.5} }
+
+  /* Main scroll */
+  .scroll-body { flex: 1; padding: 20px 16px 100px; overflow-y: auto; }
+
+  /* Category tag */
+  .category-tag {
+    display: inline-flex; align-items: center; gap: 5px;
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 4px 10px;
+    font-size: 0.7rem; font-weight: 700; color: var(--primary);
+    margin-bottom: 14px;
+  }
+
+  /* Question card */
+  .question-card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 22px;
+    padding: 22px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow-lg);
+  }
+  .question-num {
+    font-size: 0.68rem; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.1em; color: var(--text-muted);
+    display: flex; align-items: center; gap: 6px; margin-bottom: 12px;
+  }
+  .question-num::before {
+    content: ''; display: block; width: 3px; height: 12px;
+    background: var(--primary); border-radius: 2px;
+  }
+  .question-text {
+    font-size: 1.05rem; font-weight: 600; color: var(--text);
+    line-height: 1.6; margin-bottom: 0;
+  }
+  .question-blank {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 90px; height: 32px;
+    background: var(--surface2);
+    border: 2px dashed var(--primary-light);
+    border-radius: 8px;
+    font-size: 0.9rem; font-weight: 700; color: var(--primary);
+    vertical-align: middle; margin: 0 3px;
+  }
+  .question-blank.answered {
+    background: var(--primary); border: 2px solid var(--primary); color: white;
+  }
+  .question-blank.correct-ans { background: #d1fae5; border: 2px solid #10b981; color: #065f46; }
+  .question-blank.wrong-ans { background: #fee2e2; border: 2px solid #ef4444; color: #991b1b; }
+
+  /* Answer options */
+  .options-label {
+    font-size: 0.72rem; font-weight: 700; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.07em;
+    margin-bottom: 10px;
+  }
+  .options-grid { display: flex; flex-direction: column; gap: 8px; }
+  .option-btn {
+    width: 100%; padding: 14px 16px;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: 14px; text-align: left;
+    font-size: 0.92rem; font-weight: 600; color: var(--text);
+    cursor: pointer; transition: all 0.15s;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .option-btn:hover { border-color: var(--primary-light); background: var(--surface2); }
+  .option-btn.selected {
+    border-color: var(--primary); background: #eef2ff; color: var(--primary);
+  }
+  .option-btn.correct-opt {
+    border-color: var(--green); background: #d1fae5; color: #065f46;
+  }
+  .option-btn.wrong-opt {
+    border-color: var(--red); background: #fee2e2; color: #991b1b;
+  }
+  .option-letter {
+    width: 26px; height: 26px; border-radius: 8px;
+    background: var(--surface2); border: 1.5px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.72rem; font-weight: 800;
+    flex-shrink: 0; transition: all 0.15s;
+  }
+  .option-btn.selected .option-letter {
+    background: var(--primary); border-color: var(--primary); color: white;
+  }
+  .option-btn.correct-opt .option-letter {
+    background: var(--green); border-color: var(--green); color: white;
+  }
+  .option-btn.wrong-opt .option-letter {
+    background: var(--red); border-color: var(--red); color: white;
+  }
+  .option-check { margin-left: auto; font-size: 14px; }
+
+  /* Explanation panel */
+  .explanation-panel {
+    background: linear-gradient(135deg, #ede9fe 0%, #dbeafe 100%);
+    border: 1.5px solid #c4b5fd;
+    border-radius: 16px;
+    padding: 16px;
+    margin-top: 12px;
+    animation: slideUp 0.25s ease;
+  }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .explanation-header {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+  }
+  .explanation-icon { font-size: 18px; }
+  .explanation-title { font-size: 0.82rem; font-weight: 800; color: #4c1d95; }
+  .explanation-text { font-size: 0.82rem; color: #5b21b6; line-height: 1.5; }
+  .explanation-text strong { font-weight: 800; }
+
+  /* Feedback bar */
+  .feedback-bar {
+    border-radius: 14px; padding: 14px 16px;
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 14px;
+    animation: slideUp 0.2s ease;
+  }
+  .feedback-bar.correct-bar { background: #d1fae5; border: 1.5px solid #a7f3d0; }
+  .feedback-bar.wrong-bar { background: #fee2e2; border: 1.5px solid #fca5a5; }
+  .fb-icon { font-size: 22px; flex-shrink: 0; }
+  .fb-body { flex: 1; }
+  .fb-title { font-size: 0.88rem; font-weight: 800; }
+  .fb-title.green { color: #065f46; }
+  .fb-title.red { color: #991b1b; }
+  .fb-sub { font-size: 0.75rem; color: var(--text-muted); margin-top: 1px; }
+
+  /* Bottom button */
+  .bottom-bar {
+    position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);
+    width: 100%; max-width: 430px;
+    background: rgba(255,255,255,0.95); border-top: 1px solid var(--border);
+    backdrop-filter: blur(12px);
+    padding: 12px 16px 28px;
+  }
+  .submit-btn {
+    width: 100%; padding: 16px;
+    background: linear-gradient(135deg, var(--primary), #7c3aed);
+    color: white; border: none; border-radius: 14px;
+    font-size: 1rem; font-weight: 800; cursor: pointer;
+    box-shadow: 0 6px 20px rgba(79,70,229,0.35);
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .submit-btn:hover { transform: translateY(-1px); box-shadow: 0 8px 24px rgba(79,70,229,0.45); }
+  .submit-btn:disabled { background: #e0e7ff; color: var(--text-muted); box-shadow: none; cursor: default; }
+  .next-btn-bar {
+    width: 100%; padding: 16px;
+    background: linear-gradient(135deg, #059669, #10b981);
+    color: white; border: none; border-radius: 14px;
+    font-size: 1rem; font-weight: 800; cursor: pointer;
+    box-shadow: 0 6px 20px rgba(5,150,105,0.35);
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-row">
+    <div class="quit-btn">✕ Quit</div>
+    <div class="topbar-center">
+      <div class="topbar-title">Mock Test</div>
+      <div class="topbar-counter">Question 12 of 30</div>
+    </div>
+    <div class="score-pill">87%</div>
+  </div>
+  <div class="dots-row">
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot wrong"></div>
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot wrong"></div>
+    <div class="dot correct"></div>
+    <div class="dot correct"></div>
+    <div class="dot current"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+  </div>
+</div>
+
+<div class="scroll-body">
+
+  <div class="category-tag">⏰ Verb Tenses</div>
+
+  <!-- Question -->
+  <div class="question-card">
+    <div class="question-num">Question 12</div>
+    <div class="question-text">
+      By the time she arrived, the meeting
+      <span class="question-blank answered">had already ended</span>
+      and everyone had left.
+    </div>
+  </div>
+
+  <!-- Feedback bar (correct) -->
+  <div class="feedback-bar correct-bar">
+    <div class="fb-icon">🎉</div>
+    <div class="fb-body">
+      <div class="fb-title green">Correct!</div>
+      <div class="fb-sub">Past perfect for an action completed before another past event</div>
+    </div>
+  </div>
+
+  <!-- Options (after answering) -->
+  <div class="options-label">Your answer</div>
+  <div class="options-grid">
+    <div class="option-btn">
+      <div class="option-letter">A</div>
+      already ended
+    </div>
+    <div class="option-btn correct-opt">
+      <div class="option-letter">B</div>
+      had already ended
+      <div class="option-check">✓</div>
+    </div>
+    <div class="option-btn">
+      <div class="option-letter">C</div>
+      has already ended
+    </div>
+    <div class="option-btn">
+      <div class="option-letter">D</div>
+      was already ending
+    </div>
+  </div>
+
+  <!-- Explanation -->
+  <div class="explanation-panel">
+    <div class="explanation-header">
+      <div class="explanation-icon">💡</div>
+      <div class="explanation-title">Grammar Note</div>
+    </div>
+    <div class="explanation-text">
+      Use the <strong>past perfect</strong> ("had + past participle") for an action that was completed <strong>before</strong> another action in the past. Here, the meeting ended <em>before</em> she arrived, so "had already ended" is correct.
+    </div>
+  </div>
+
+</div>
+
+<div class="bottom-bar">
+  <div class="next-btn-bar">Next Question →</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Game List — Handy Grammar</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f4f6ff;
+    --surface: #ffffff;
+    --surface2: #f0f2ff;
+    --primary: #4f46e5;
+    --primary-light: #818cf8;
+    --primary-dark: #3730a3;
+    --text: #1e1b4b;
+    --text-muted: #6b7280;
+    --border: #e0e7ff;
+    --green: #10b981;
+    --amber: #f59e0b;
+    --radius: 18px;
+    --shadow: 0 2px 12px rgba(79,70,229,0.08);
+    --shadow-lg: 0 8px 32px rgba(79,70,229,0.14);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    max-width: 430px;
+    margin: 0 auto;
+  }
+
+  /* Header with gradient */
+  .header {
+    background: linear-gradient(160deg, #3730a3 0%, #4f46e5 60%, #7c3aed 100%);
+    padding: 52px 20px 28px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+  }
+  .header::after {
+    content: '⏰';
+    position: absolute; right: 20px; bottom: -10px;
+    font-size: 80px; opacity: 0.15;
+    transform: rotate(-10deg);
+  }
+  .back-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 0.82rem; font-weight: 600; opacity: 0.85;
+    margin-bottom: 18px; cursor: pointer;
+  }
+  .back-btn:hover { opacity: 1; }
+  .header-label {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.1em; opacity: 0.7; margin-bottom: 4px;
+  }
+  .header-title { font-size: 1.7rem; font-weight: 900; letter-spacing: -0.03em; margin-bottom: 8px; }
+  .header-meta { font-size: 0.82rem; opacity: 0.75; margin-bottom: 18px; }
+
+  /* Overall progress in header */
+  .overall-progress {
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 12px;
+    padding: 12px 14px;
+    display: flex; align-items: center; gap: 12px;
+    backdrop-filter: blur(4px);
+  }
+  .overall-pct { font-size: 1.6rem; font-weight: 900; }
+  .overall-bar-wrap { flex: 1; }
+  .overall-bar-label { font-size: 0.7rem; opacity: 0.75; margin-bottom: 5px; }
+  .overall-bar-track {
+    height: 6px; background: rgba(255,255,255,0.2); border-radius: 99px; overflow: hidden;
+  }
+  .overall-bar-fill {
+    height: 100%; border-radius: 99px;
+    background: rgba(255,255,255,0.85);
+    width: 72%;
+  }
+
+  /* Scroll body */
+  .scroll-body { padding: 20px 16px 80px; }
+
+  /* Filter chips */
+  .chips { display: flex; gap: 8px; margin-bottom: 20px; overflow-x: auto; padding-bottom: 4px; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex-shrink: 0;
+    padding: 6px 14px;
+    border-radius: 99px;
+    font-size: 0.78rem; font-weight: 600;
+    border: 1.5px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer; transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .chip.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+  }
+  .chip:hover:not(.active) { border-color: var(--primary-light); color: var(--primary); }
+
+  /* Game cards */
+  .game-list { display: flex; flex-direction: column; gap: 10px; }
+
+  .game-card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    display: flex; align-items: center; gap: 14px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+  .game-card:hover { transform: translateX(2px); box-shadow: var(--shadow-lg); border-color: var(--primary-light); }
+  .game-card.completed { border-color: rgba(16,185,129,0.3); background: #f0fdf4; }
+  .game-card.in-progress { border-left: 3px solid var(--primary); }
+
+  .game-icon {
+    width: 48px; height: 48px;
+    border-radius: 13px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px; flex-shrink: 0;
+  }
+
+  .game-body { flex: 1; min-width: 0; }
+  .game-name { font-size: 0.93rem; font-weight: 700; color: var(--text); margin-bottom: 2px; }
+  .game-desc { font-size: 0.73rem; color: var(--text-muted); margin-bottom: 8px; line-height: 1.35; }
+  .progress-row { display: flex; align-items: center; gap: 8px; }
+  .progress-bar-wrap { flex: 1; height: 5px; background: #e0e7ff; border-radius: 99px; overflow: hidden; }
+  .progress-bar-fill { height: 100%; border-radius: 99px; background: linear-gradient(90deg, var(--primary), var(--primary-light)); }
+  .progress-bar-fill.done { background: linear-gradient(90deg, #10b981, #34d399); }
+  .progress-pct { font-size: 0.72rem; font-weight: 700; color: var(--text-muted); flex-shrink: 0; }
+
+  .game-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; flex-shrink: 0; }
+  .play-btn {
+    width: 36px; height: 36px;
+    background: var(--primary);
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    color: white; font-size: 13px;
+    box-shadow: 0 3px 10px rgba(79,70,229,0.35);
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .play-btn:hover { transform: scale(1.1); box-shadow: 0 5px 14px rgba(79,70,229,0.45); }
+  .play-btn.done { background: #10b981; box-shadow: 0 3px 10px rgba(16,185,129,0.35); }
+
+  .badge-new {
+    font-size: 0.6rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: #fef3c7; color: #92400e;
+    border: 1px solid #fde68a;
+    border-radius: 5px; padding: 2px 6px;
+  }
+  .badge-done {
+    font-size: 0.6rem; font-weight: 700;
+    background: #d1fae5; color: #065f46;
+    border: 1px solid #a7f3d0;
+    border-radius: 5px; padding: 2px 6px;
+  }
+
+  /* Sections */
+  .section-head {
+    display: flex; align-items: center; gap: 8px;
+    margin: 20px 0 12px;
+  }
+  .section-head-line { flex: 1; height: 1px; background: var(--border); }
+  .section-head-label { font-size: 0.7rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; white-space: nowrap; }
+
+  /* icon backgrounds */
+  .ic-purple { background: #ede9fe; }
+  .ic-blue { background: #dbeafe; }
+  .ic-green { background: #d1fae5; }
+  .ic-yellow { background: #fef3c7; }
+  .ic-pink { background: #fce7f3; }
+  .ic-cyan { background: #cffafe; }
+  .ic-orange { background: #ffedd5; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="back-btn">‹ Home</div>
+  <div class="header-label">Grammar Category</div>
+  <div class="header-title">Verb Tenses</div>
+  <div class="header-meta">Master past, present, and future forms</div>
+  <div class="overall-progress">
+    <div class="overall-pct">72%</div>
+    <div class="overall-bar-wrap">
+      <div class="overall-bar-label">Overall progress · 9 games</div>
+      <div class="overall-bar-track">
+        <div class="overall-bar-fill"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="scroll-body">
+
+  <div class="chips">
+    <div class="chip active">All</div>
+    <div class="chip">In Progress</div>
+    <div class="chip">Completed ✓</div>
+    <div class="chip">Not Started</div>
+  </div>
+
+  <div class="section-head">
+    <div class="section-head-line"></div>
+    <div class="section-head-label">Present Tenses</div>
+    <div class="section-head-line"></div>
+  </div>
+
+  <div class="game-list">
+
+    <div class="game-card completed">
+      <div class="game-icon ic-green">✅</div>
+      <div class="game-body">
+        <div class="game-name">Simple Present</div>
+        <div class="game-desc">Daily habits & general facts</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill done" style="width:100%"></div></div>
+          <div class="progress-pct" style="color:#10b981">100%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <span class="badge-done">Done ✓</span>
+        <div class="play-btn done">▶</div>
+      </div>
+    </div>
+
+    <div class="game-card in-progress">
+      <div class="game-icon ic-blue">🔄</div>
+      <div class="game-body">
+        <div class="game-name">Present Continuous</div>
+        <div class="game-desc">Actions happening right now</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:60%"></div></div>
+          <div class="progress-pct">60%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+    <div class="game-card completed">
+      <div class="game-icon ic-purple">⭐</div>
+      <div class="game-body">
+        <div class="game-name">Present Perfect</div>
+        <div class="game-desc">Past actions with present relevance</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill done" style="width:100%"></div></div>
+          <div class="progress-pct" style="color:#10b981">100%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <span class="badge-done">Done ✓</span>
+        <div class="play-btn done">▶</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="section-head">
+    <div class="section-head-line"></div>
+    <div class="section-head-label">Past Tenses</div>
+    <div class="section-head-line"></div>
+  </div>
+
+  <div class="game-list">
+
+    <div class="game-card in-progress">
+      <div class="game-icon ic-orange">⏪</div>
+      <div class="game-body">
+        <div class="game-name">Simple Past</div>
+        <div class="game-desc">Completed past actions</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:80%"></div></div>
+          <div class="progress-pct">80%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+    <div class="game-card">
+      <div class="game-icon ic-yellow">📖</div>
+      <div class="game-body">
+        <div class="game-name">Past Continuous</div>
+        <div class="game-desc">Ongoing actions in the past</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:25%"></div></div>
+          <div class="progress-pct">25%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="section-head">
+    <div class="section-head-line"></div>
+    <div class="section-head-label">Future Tenses</div>
+    <div class="section-head-line"></div>
+  </div>
+
+  <div class="game-list">
+
+    <div class="game-card">
+      <div class="game-icon ic-cyan">🚀</div>
+      <div class="game-body">
+        <div class="game-name">Future Tenses</div>
+        <div class="game-desc">Will, going to, future perfect</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:0%"></div></div>
+          <div class="progress-pct">0%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <span class="badge-new">New</span>
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+    <div class="game-card">
+      <div class="game-icon ic-pink">🎭</div>
+      <div class="game-body">
+        <div class="game-name">Subjunctive Mood</div>
+        <div class="game-desc">Wishes, hypotheticals, suggestions</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:0%"></div></div>
+          <div class="progress-pct">0%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <span class="badge-new">New</span>
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+    <div class="game-card">
+      <div class="game-icon ic-blue">📢</div>
+      <div class="game-body">
+        <div class="game-name">Imperative Mood</div>
+        <div class="game-desc">Commands and instructions</div>
+        <div class="progress-row">
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:0%"></div></div>
+          <div class="progress-pct">0%</div>
+        </div>
+      </div>
+      <div class="game-right">
+        <span class="badge-new">New</span>
+        <div class="play-btn">▶</div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</body>
+</html>

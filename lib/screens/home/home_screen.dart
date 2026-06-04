@@ -4,8 +4,8 @@ import 'package:provider/provider.dart';
 import '../../l10n/app_localizations.dart';
 import '../../providers/locale_provider.dart';
 import '../../config/menu_config.dart';
-import '../../providers/progress_provider.dart';
 import '../../providers/theme_provider.dart';
+import '../../theme/app_colors.dart';
 
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -25,6 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
       builder: (context) {
         final loc = AppLocalizations.of(context);
         return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
           title: Text(loc.aboutTitle, textAlign: TextAlign.center),
           content: SingleChildScrollView(
             child: SizedBox(
@@ -53,295 +54,186 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  void _showSettingsDialog() {
-    showDialog(
+  void _showSettingsSheet() {
+    showModalBottomSheet(
       context: context,
-      builder: (context) {
-        final loc = AppLocalizations.of(context);
-        final themeProvider = Provider.of<ThemeProvider>(context);
-        final localeProvider = Provider.of<LocaleProvider>(context);
-
-        return AlertDialog(
-          title: Text(loc.settings, textAlign: TextAlign.center),
-          content: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(
-                loc.selectLanguage,
-                style: const TextStyle(fontWeight: FontWeight.bold),
-              ),
-              const SizedBox(height: 8),
-              Wrap(
-                spacing: 8.0,
-                children: [
-                  _buildLanguageButton(
-                    context,
-                    'English',
-                    const Locale('en'),
-                    localeProvider,
-                  ),
-                  _buildLanguageButton(
-                    context,
-                    '繁體中文',
-                    const Locale('zh', 'TW'),
-                    localeProvider,
-                  ),
-                  _buildLanguageButton(
-                    context,
-                    '简体中文',
-                    const Locale('zh', 'CN'),
-                    localeProvider,
-                  ),
-                ],
-              ),
-              const Divider(height: 24),
-              const Text(
-                'Theme', // TODO: Add to localization
-                style: TextStyle(fontWeight: FontWeight.bold),
-              ),
-              const SizedBox(height: 8),
-              Row(
-                children: [
-                  _buildThemeButton(
-                    context,
-                    Icons.brightness_auto,
-                    'System',
-                    ThemeMode.system,
-                    themeProvider,
-                  ),
-                  const SizedBox(width: 8),
-                  _buildThemeButton(
-                    context,
-                    Icons.light_mode,
-                    'Light',
-                    ThemeMode.light,
-                    themeProvider,
-                  ),
-                  const SizedBox(width: 8),
-                  _buildThemeButton(
-                    context,
-                    Icons.dark_mode,
-                    'Dark',
-                    ThemeMode.dark,
-                    themeProvider,
-                  ),
-                ],
-              ),
-            ],
-          ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.pop(context),
-              child: Text(loc.get('close')),
-            ),
-          ],
-        );
-      },
-    );
-  }
-
-  Widget _buildLanguageButton(
-    BuildContext context,
-    String label,
-    Locale locale,
-    LocaleProvider provider,
-  ) {
-    final isSelected = provider.locale == locale;
-    return ChoiceChip(
-      label: Text(label),
-      selected: isSelected,
-      onSelected: (selected) {
-        if (selected) {
-          provider.setLocale(locale);
-        }
-      },
-    );
-  }
-
-  Widget _buildThemeButton(
-    BuildContext context,
-    IconData icon,
-    String label,
-    ThemeMode mode,
-    ThemeProvider provider,
-  ) {
-    final isSelected = provider.themeMode == mode;
-    return Expanded(
-      child: InkWell(
-        onTap: () => provider.setThemeMode(mode),
-        borderRadius: BorderRadius.circular(8),
-        child: Container(
-          padding: const EdgeInsets.symmetric(vertical: 8),
-          decoration: BoxDecoration(
-            color: isSelected
-                ? Theme.of(context).colorScheme.primaryContainer
-                : null,
-            border: Border.all(
-              color: isSelected
-                  ? Theme.of(context).colorScheme.primary
-                  : Colors.grey.shade300,
-            ),
-            borderRadius: BorderRadius.circular(8),
-          ),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(
-                icon,
-                color: isSelected
-                    ? Theme.of(context).colorScheme.primary
-                    : Colors.grey,
-                size: 20,
-              ),
-              const SizedBox(height: 4),
-              Text(
-                label,
-                style: TextStyle(
-                  fontSize: 12,
-                  color: isSelected
-                      ? Theme.of(context).colorScheme.primary
-                      : Colors.grey,
-                  fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                ),
-              ),
-            ],
-          ),
-        ),
+      isScrollControlled: true,
+      backgroundColor: Colors.transparent,
+      builder: (sheetCtx) => _SettingsSheet(
+        onAbout: _showAboutDialog,
       ),
     );
   }
 
-  Widget _buildBreadcrumbs(BuildContext context) {
+  // ─── Top bar ──────────────────────────────────────────────────────────────
+
+  Widget _buildTopBar(BuildContext context) {
     final loc = AppLocalizations.of(context);
     final location = GoRouterState.of(context).uri.toString();
-    final progressProvider = Provider.of<ProgressProvider>(context);
-    List<Widget> breadcrumbs = [];
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final bgColor = isDark ? const Color(0xFF1E1E2E) : Colors.white;
+    final borderColor = isDark ? const Color(0xFF2D2D3F) : AppColors.border;
 
-    // Home
-    breadcrumbs.add(
-      InkWell(
-        onTap: () => context.go('/'),
-        borderRadius: BorderRadius.circular(20),
-        child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: const Icon(Icons.home_rounded, size: 24),
-        ),
-      ),
-    );
-
-    String? categoryId;
-    String? gameTitleKey;
-    String? gamePath;
+    String? pageTitle;
+    String? backTarget;
+    bool isHome = location == '/';
+    bool isMockTest = location.startsWith('/mock-test');
 
     if (location.startsWith('/categories/')) {
-      categoryId = location.split('/').last;
-    } else if (location != '/') {
-      // It's a game, find the category
+      final categoryId = location.split('/categories/').last.split('/').first;
+      pageTitle = loc.get(categoryId);
+      backTarget = '/';
+    } else if (isMockTest) {
+      pageTitle = loc.mockTestTitle;
+      if (location == '/mock-test') {
+        backTarget = '/';
+      } else {
+        backTarget = '/mock-test';
+      }
+    } else if (!isHome) {
+      // Game route
       for (var entry in menuItemsConfig.entries) {
         for (var item in entry.value) {
-          if (location == item.path || location.startsWith('${item.path}/')) {
-            categoryId = entry.key;
-            gameTitleKey = item.titleKey;
-            gamePath = item.path;
+          if (location == item.path ||
+              location.startsWith('${item.path}/')) {
+            pageTitle = loc.get(item.titleKey);
+            if (location == item.path) {
+              backTarget = '/categories/${entry.key}';
+            } else {
+              backTarget = item.path;
+            }
             break;
           }
         }
-        if (categoryId != null) break;
+        if (pageTitle != null) break;
       }
-    }
-
-    if (categoryId != null) {
-      final completion = progressProvider.gameCompletion[categoryId] ?? 0.0;
-      breadcrumbs.add(
-        const Icon(Icons.chevron_right, color: Colors.grey, size: 16),
-      );
-      breadcrumbs.add(
-        InkWell(
-          onTap: () => context.go('/categories/$categoryId'),
-          borderRadius: BorderRadius.circular(16),
-          child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 4.0, vertical: 4.0),
-            child: Row(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                Text(
-                  loc.get(categoryId),
-                  style: const TextStyle(fontWeight: FontWeight.bold),
-                ),
-                const SizedBox(width: 4),
-                SizedBox(
-                  width: 14,
-                  height: 14,
-                  child: CircularProgressIndicator(
-                    value: completion,
-                    strokeWidth: 2,
-                    backgroundColor: Colors.grey.shade300,
-                  ),
-                ),
-              ],
-            ),
-          ),
-        ),
-      );
-    }
-
-    if (gameTitleKey != null && gamePath != null) {
-      final completion = progressProvider.gameCompletion[gamePath] ?? 0.0;
-      breadcrumbs.add(
-        const Icon(Icons.chevron_right, color: Colors.grey, size: 16),
-      );
-      breadcrumbs.add(
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 4.0),
-          child: Chip(
-            padding: EdgeInsets.zero,
-            labelPadding: const EdgeInsets.symmetric(horizontal: 8),
-            label: Text(loc.get(gameTitleKey)),
-            avatar: CircularProgressIndicator(
-              value: completion,
-              strokeWidth: 2,
-              backgroundColor: Colors.grey.shade300,
-            ),
-            backgroundColor: Theme.of(context).colorScheme.surfaceVariant,
-          ),
-        ),
-      );
     }
 
     return Container(
       decoration: BoxDecoration(
-        color: Theme.of(context).colorScheme.surface,
+        color: bgColor,
         border: Border(
-          bottom: BorderSide(
-            color: Theme.of(
-              context,
-            ).colorScheme.outlineVariant.withOpacity(0.5),
-            width: 1,
+          bottom: BorderSide(color: borderColor, width: 1),
+        ),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(isDark ? 0.2 : 0.04),
+            blurRadius: 8,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: SafeArea(
+        bottom: false,
+        child: SizedBox(
+          height: 52,
+          child: Row(
+            children: [
+              if (isHome) ...[
+                const SizedBox(width: 16),
+                Container(
+                  width: 32,
+                  height: 32,
+                  decoration: BoxDecoration(
+                    gradient: const LinearGradient(
+                      colors: [AppColors.primaryDark, AppColors.primary],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
+                    borderRadius: BorderRadius.circular(9),
+                  ),
+                  child: const Center(
+                    child: Text('📖', style: TextStyle(fontSize: 16)),
+                  ),
+                ),
+                const SizedBox(width: 10),
+                Text(
+                  'Handy Grammar',
+                  style: TextStyle(
+                    fontSize: 17,
+                    fontWeight: FontWeight.w800,
+                    color: isDark ? Colors.white : AppColors.primaryDark,
+                    letterSpacing: -0.3,
+                  ),
+                ),
+                const Spacer(),
+                _iconBtn(
+                  icon: Icons.info_outline_rounded,
+                  isDark: isDark,
+                  onTap: _showAboutDialog,
+                ),
+                const SizedBox(width: 4),
+                _iconBtn(
+                  icon: Icons.tune_rounded,
+                  isDark: isDark,
+                  onTap: _showSettingsSheet,
+                ),
+                const SizedBox(width: 12),
+              ] else ...[
+                const SizedBox(width: 8),
+                _iconBtn(
+                  icon: Icons.arrow_back_ios_new_rounded,
+                  isDark: isDark,
+                  onTap: () {
+                    if (backTarget != null) {
+                      context.go(backTarget);
+                    } else if (context.canPop()) {
+                      context.pop();
+                    } else {
+                      context.go('/');
+                    }
+                  },
+                ),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    pageTitle ?? '',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w700,
+                      color: isDark ? Colors.white : AppColors.textPrimary,
+                      letterSpacing: -0.2,
+                    ),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
+                _iconBtn(
+                  icon: Icons.tune_rounded,
+                  isDark: isDark,
+                  onTap: _showSettingsSheet,
+                ),
+                const SizedBox(width: 12),
+              ],
+            ],
           ),
         ),
       ),
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8.0),
-      child: Row(
-        children: [
-          Expanded(
-            child: SingleChildScrollView(
-              scrollDirection: Axis.horizontal,
-              child: Row(mainAxisSize: MainAxisSize.min, children: breadcrumbs),
-            ),
+    );
+  }
+
+  Widget _iconBtn({
+    required IconData icon,
+    required bool isDark,
+    required VoidCallback onTap,
+  }) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        width: 36,
+        height: 36,
+        decoration: BoxDecoration(
+          color: isDark ? const Color(0xFF2D2D3F) : AppColors.surface2,
+          border: Border.all(
+            color: isDark ? const Color(0xFF3A3A50) : AppColors.border,
           ),
-          if (location == '/')
-            IconButton(
-              icon: const Icon(Icons.info_outline),
-              onPressed: _showAboutDialog,
-              tooltip: loc.about,
-            ),
-          IconButton(
-            icon: const Icon(Icons.settings),
-            onPressed: _showSettingsDialog,
-            tooltip: loc.settings,
-          ),
-        ],
+          borderRadius: BorderRadius.circular(10),
+        ),
+        child: Icon(
+          icon,
+          size: 18,
+          color: isDark ? Colors.white70 : AppColors.textPrimary,
+        ),
       ),
     );
   }
@@ -349,17 +241,428 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        toolbarHeight:
-            0, // Hide default AppBar but keep system UI overlay style
-        backgroundColor: Theme.of(context).colorScheme.surface,
-      ),
+      backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       body: Column(
         children: [
-          _buildBreadcrumbs(context),
-          // Divider removed (border moved to breadcrumbs container)
+          _buildTopBar(context),
           Expanded(child: widget.child),
         ],
+      ),
+    );
+  }
+}
+
+// ─── Settings Bottom Sheet ──────────────────────────────────────────────────
+
+class _SettingsSheet extends StatelessWidget {
+  final VoidCallback onAbout;
+  const _SettingsSheet({required this.onAbout});
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final bgColor = isDark ? const Color(0xFF1E1E2E) : Colors.white;
+    final loc = AppLocalizations.of(context);
+
+    return Container(
+      decoration: BoxDecoration(
+        color: bgColor,
+        borderRadius: const BorderRadius.vertical(top: Radius.circular(28)),
+      ),
+      child: SafeArea(
+        top: false,
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            // Handle
+            Container(
+              width: 40,
+              height: 4,
+              margin: const EdgeInsets.only(top: 12),
+              decoration: BoxDecoration(
+                color: isDark
+                    ? const Color(0xFF3A3A50)
+                    : const Color(0xFFD1D5DB),
+                borderRadius: BorderRadius.circular(99),
+              ),
+            ),
+            // Header
+            Padding(
+              padding: const EdgeInsets.fromLTRB(20, 16, 16, 4),
+              child: Row(
+                children: [
+                  Text(
+                    loc.settings,
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.w900,
+                      color: isDark ? Colors.white : AppColors.textPrimary,
+                      letterSpacing: -0.4,
+                    ),
+                  ),
+                  const Spacer(),
+                  GestureDetector(
+                    onTap: () => Navigator.of(context).pop(),
+                    child: Container(
+                      width: 30,
+                      height: 30,
+                      decoration: BoxDecoration(
+                        color: isDark
+                            ? const Color(0xFF2D2D3F)
+                            : AppColors.surface2,
+                        shape: BoxShape.circle,
+                        border: Border.all(
+                          color: isDark
+                              ? const Color(0xFF3A3A50)
+                              : AppColors.border,
+                        ),
+                      ),
+                      child: Icon(
+                        Icons.close_rounded,
+                        size: 15,
+                        color: isDark ? Colors.white54 : AppColors.textMuted,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+
+            // Language section
+            _sectionLabel(context, '🌐  ${loc.selectLanguage}', isDark),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 0, 16, 4),
+              child: Consumer<LocaleProvider>(
+                builder: (ctx, localeProvider, _) {
+                  return Row(
+                    children: [
+                      _langCard(
+                        context: context,
+                        flag: '🇺🇸',
+                        name: 'English',
+                        native: 'English',
+                        locale: const Locale('en'),
+                        current: localeProvider.locale,
+                        isDark: isDark,
+                        onTap: () => localeProvider.setLocale(const Locale('en')),
+                      ),
+                      const SizedBox(width: 8),
+                      _langCard(
+                        context: context,
+                        flag: '🇹🇼',
+                        name: '繁體中文',
+                        native: 'Traditional',
+                        locale: const Locale('zh', 'TW'),
+                        current: localeProvider.locale,
+                        isDark: isDark,
+                        onTap: () =>
+                            localeProvider.setLocale(const Locale('zh', 'TW')),
+                      ),
+                      const SizedBox(width: 8),
+                      _langCard(
+                        context: context,
+                        flag: '🇨🇳',
+                        name: '简体中文',
+                        native: 'Simplified',
+                        locale: const Locale('zh', 'CN'),
+                        current: localeProvider.locale,
+                        isDark: isDark,
+                        onTap: () =>
+                            localeProvider.setLocale(const Locale('zh', 'CN')),
+                      ),
+                    ],
+                  );
+                },
+              ),
+            ),
+
+            const SizedBox(height: 4),
+            _sectionLabel(context, '🎨  Appearance', isDark),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 0, 16, 4),
+              child: Consumer<ThemeProvider>(
+                builder: (ctx, themeProvider, _) {
+                  return Row(
+                    children: [
+                      _themeCard(
+                        context: context,
+                        icon: '☀️',
+                        label: 'Light',
+                        mode: ThemeMode.light,
+                        current: themeProvider.themeMode,
+                        isDark: isDark,
+                        onTap: () => themeProvider.setThemeMode(ThemeMode.light),
+                      ),
+                      const SizedBox(width: 8),
+                      _themeCard(
+                        context: context,
+                        icon: '🌙',
+                        label: 'Dark',
+                        mode: ThemeMode.dark,
+                        current: themeProvider.themeMode,
+                        isDark: isDark,
+                        onTap: () => themeProvider.setThemeMode(ThemeMode.dark),
+                      ),
+                      const SizedBox(width: 8),
+                      _themeCard(
+                        context: context,
+                        icon: '📱',
+                        label: 'System',
+                        mode: ThemeMode.system,
+                        current: themeProvider.themeMode,
+                        isDark: isDark,
+                        onTap: () =>
+                            themeProvider.setThemeMode(ThemeMode.system),
+                      ),
+                    ],
+                  );
+                },
+              ),
+            ),
+
+            const SizedBox(height: 8),
+            // About row
+            GestureDetector(
+              onTap: () {
+                Navigator.of(context).pop();
+                onAbout();
+              },
+              child: Container(
+                margin: const EdgeInsets.fromLTRB(16, 0, 16, 0),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 16,
+                  vertical: 14,
+                ),
+                decoration: BoxDecoration(
+                  color: isDark ? const Color(0xFF2D2D3F) : AppColors.surface2,
+                  border: Border.all(
+                    color: isDark
+                        ? const Color(0xFF3A3A50)
+                        : AppColors.border,
+                  ),
+                  borderRadius: BorderRadius.circular(16),
+                ),
+                child: Row(
+                  children: [
+                    Container(
+                      width: 36,
+                      height: 36,
+                      decoration: BoxDecoration(
+                        gradient: const LinearGradient(
+                          colors: [AppColors.primaryDark, AppColors.primary],
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                        ),
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Center(
+                        child: Text('📖', style: TextStyle(fontSize: 16)),
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'About Handy Grammar',
+                            style: TextStyle(
+                              fontSize: 14,
+                              fontWeight: FontWeight.w700,
+                              color: isDark ? Colors.white : AppColors.textPrimary,
+                            ),
+                          ),
+                          Text(
+                            'Version, Privacy Policy & Support',
+                            style: TextStyle(
+                              fontSize: 12,
+                              color: isDark ? Colors.white38 : AppColors.textMuted,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Icon(
+                      Icons.chevron_right_rounded,
+                      color: isDark ? Colors.white38 : AppColors.textMuted,
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            const SizedBox(height: 20),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _sectionLabel(BuildContext context, String label, bool isDark) {
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(20, 12, 20, 10),
+      child: Align(
+        alignment: Alignment.centerLeft,
+        child: Text(
+          label.toUpperCase(),
+          style: TextStyle(
+            fontSize: 11,
+            fontWeight: FontWeight.w800,
+            letterSpacing: 0.1,
+            color: isDark ? Colors.white38 : AppColors.textMuted,
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _langCard({
+    required BuildContext context,
+    required String flag,
+    required String name,
+    required String native,
+    required Locale locale,
+    required Locale current,
+    required bool isDark,
+    required VoidCallback onTap,
+  }) {
+    final bool selected = current == locale;
+    return Expanded(
+      child: GestureDetector(
+        onTap: onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 150),
+          padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 8),
+          decoration: BoxDecoration(
+            color: selected
+                ? (isDark
+                      ? AppColors.primary.withOpacity(0.25)
+                      : const Color(0xFFEEF2FF))
+                : (isDark
+                      ? const Color(0xFF2D2D3F)
+                      : AppColors.surface2),
+            border: Border.all(
+              color: selected
+                  ? AppColors.primary
+                  : (isDark
+                        ? const Color(0xFF3A3A50)
+                        : AppColors.border),
+              width: selected ? 2 : 1.5,
+            ),
+            borderRadius: BorderRadius.circular(16),
+          ),
+          child: Column(
+            children: [
+              Text(flag, style: const TextStyle(fontSize: 26)),
+              const SizedBox(height: 6),
+              Text(
+                name,
+                style: TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.w800,
+                  color: selected
+                      ? AppColors.primary
+                      : (isDark ? Colors.white70 : AppColors.textPrimary),
+                ),
+                textAlign: TextAlign.center,
+              ),
+              Text(
+                native,
+                style: TextStyle(
+                  fontSize: 10,
+                  color: isDark ? Colors.white38 : AppColors.textMuted,
+                ),
+                textAlign: TextAlign.center,
+              ),
+              if (selected) ...[
+                const SizedBox(height: 6),
+                Container(
+                  width: 18,
+                  height: 18,
+                  decoration: BoxDecoration(
+                    color: AppColors.primary,
+                    shape: BoxShape.circle,
+                  ),
+                  child: const Icon(
+                    Icons.check_rounded,
+                    size: 11,
+                    color: Colors.white,
+                  ),
+                ),
+              ],
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _themeCard({
+    required BuildContext context,
+    required String icon,
+    required String label,
+    required ThemeMode mode,
+    required ThemeMode current,
+    required bool isDark,
+    required VoidCallback onTap,
+  }) {
+    final bool selected = current == mode;
+    return Expanded(
+      child: GestureDetector(
+        onTap: onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 150),
+          padding: const EdgeInsets.symmetric(vertical: 14),
+          decoration: BoxDecoration(
+            color: selected
+                ? (isDark
+                      ? AppColors.primary.withOpacity(0.25)
+                      : const Color(0xFFEEF2FF))
+                : (isDark
+                      ? const Color(0xFF2D2D3F)
+                      : AppColors.surface2),
+            border: Border.all(
+              color: selected
+                  ? AppColors.primary
+                  : (isDark
+                        ? const Color(0xFF3A3A50)
+                        : AppColors.border),
+              width: selected ? 2 : 1.5,
+            ),
+            borderRadius: BorderRadius.circular(16),
+          ),
+          child: Column(
+            children: [
+              Text(icon, style: const TextStyle(fontSize: 22)),
+              const SizedBox(height: 6),
+              Text(
+                label,
+                style: TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.w800,
+                  color: selected
+                      ? AppColors.primary
+                      : (isDark ? Colors.white70 : AppColors.textPrimary),
+                ),
+              ),
+              if (selected) ...[
+                const SizedBox(height: 6),
+                Container(
+                  width: 18,
+                  height: 18,
+                  decoration: BoxDecoration(
+                    color: AppColors.primary,
+                    shape: BoxShape.circle,
+                  ),
+                  child: const Icon(
+                    Icons.check_rounded,
+                    size: 11,
+                    color: Colors.white,
+                  ),
+                ),
+              ],
+            ],
+          ),
+        ),
       ),
     );
   }

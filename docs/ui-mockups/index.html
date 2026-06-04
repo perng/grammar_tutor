@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Handy Grammar — UI Mockups</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: #0f0f1a;
+    color: #e2e8f0;
+    min-height: 100vh;
+    padding: 48px 24px;
+  }
+  .hero {
+    text-align: center;
+    margin-bottom: 64px;
+  }
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .logo-icon {
+    width: 48px; height: 48px;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    border-radius: 14px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 24px;
+  }
+  h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #6366f1, #a78bfa, #38bdf8);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .subtitle { color: #94a3b8; font-size: 1.1rem; margin-top: 8px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .card {
+    background: #1e1e2e;
+    border: 1px solid #2d2d3f;
+    border-radius: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    border-color: #6366f1;
+    box-shadow: 0 20px 40px rgba(99, 102, 241, 0.15);
+  }
+  .card-preview {
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card-preview::before {
+    content: '';
+    position: absolute; inset: 0;
+    opacity: 0.15;
+  }
+  .bg-1 { background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); }
+  .bg-2 { background: linear-gradient(135deg, #0ea5e9 0%, #6366f1 100%); }
+  .bg-3 { background: linear-gradient(135deg, #10b981 0%, #0ea5e9 100%); }
+  .bg-4 { background: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%); }
+  .bg-5 { background: linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%); }
+  .bg-6 { background: linear-gradient(135deg, #14b8a6 0%, #6366f1 100%); }
+  .bg-7 { background: linear-gradient(135deg, #f97316 0%, #ec4899 100%); }
+  .card-body { padding: 20px 24px; }
+  .card-num { font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.1em; color: #6366f1; margin-bottom: 4px; }
+  .card-title { font-size: 1.1rem; font-weight: 700; color: #e2e8f0; margin-bottom: 6px; }
+  .card-desc { font-size: 0.85rem; color: #64748b; line-height: 1.5; }
+  .badge {
+    display: inline-block;
+    background: rgba(99,102,241,0.15);
+    color: #a5b4fc;
+    border: 1px solid rgba(99,102,241,0.3);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-top: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .section-label {
+    text-align: center;
+    color: #475569;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="hero">
+  <div class="logo">
+    <div class="logo-icon">📖</div>
+    <h1>Handy Grammar</h1>
+  </div>
+  <p class="subtitle">UI Redesign Mockups — 7 Screens</p>
+</div>
+
+<p class="section-label">Click any screen to preview</p>
+
+<div class="grid">
+  <a class="card" href="01-category-list.html">
+    <div class="card-preview bg-1">🏠</div>
+    <div class="card-body">
+      <div class="card-num">Screen 01</div>
+      <div class="card-title">Category Dashboard</div>
+      <div class="card-desc">Main home screen showing all grammar categories with progress rings and a featured Mock Test card.</div>
+      <span class="badge">Home</span>
+    </div>
+  </a>
+  <a class="card" href="02-game-list.html">
+    <div class="card-preview bg-2">🎮</div>
+    <div class="card-body">
+      <div class="card-num">Screen 02</div>
+      <div class="card-title">Game List</div>
+      <div class="card-desc">Lists all games within a selected grammar category, with individual progress bars and play actions.</div>
+      <span class="badge">Category</span>
+    </div>
+  </a>
+  <a class="card" href="03-story-menu.html">
+    <div class="card-preview bg-3">📚</div>
+    <div class="card-body">
+      <div class="card-num">Screen 03</div>
+      <div class="card-title">Level Select</div>
+      <div class="card-desc">Story level selection screen showing available levels, completion status, and per-level progress.</div>
+      <span class="badge">Levels</span>
+    </div>
+  </a>
+  <a class="card" href="04-game-screen.html">
+    <div class="card-preview bg-4">✏️</div>
+    <div class="card-body">
+      <div class="card-num">Screen 04</div>
+      <div class="card-title">Game Screen</div>
+      <div class="card-desc">Fill-in-the-blank interactive gameplay with tappable word choices, progress tracking, and answer feedback.</div>
+      <span class="badge">Gameplay</span>
+    </div>
+  </a>
+  <a class="card" href="05-mock-test-config.html">
+    <div class="card-preview bg-5">⚙️</div>
+    <div class="card-body">
+      <div class="card-num">Screen 05</div>
+      <div class="card-title">Test Setup</div>
+      <div class="card-desc">Mock test configuration with question count slider, category filters, and test history results.</div>
+      <span class="badge">Mock Test</span>
+    </div>
+  </a>
+  <a class="card" href="06-mock-test-runner.html">
+    <div class="card-preview bg-6">📝</div>
+    <div class="card-body">
+      <div class="card-num">Screen 06</div>
+      <div class="card-title">Test Runner</div>
+      <div class="card-desc">Active mock test interface with question display, answer selection, explanation panels, and score tracking.</div>
+      <span class="badge">Mock Test</span>
+    </div>
+  </a>
+  <a class="card" href="07-settings.html">
+    <div class="card-preview bg-7">🌐</div>
+    <div class="card-body">
+      <div class="card-num">Screen 07</div>
+      <div class="card-title">Settings Panel</div>
+      <div class="card-desc">Language selection (EN / 繁中 / 简中) and theme switching (System / Light / Dark) as a bottom sheet.</div>
+      <span class="badge">Settings</span>
+    </div>
+  </a>
+</div>
+</body>
+</html>

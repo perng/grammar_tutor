@@ -309,7 +309,7 @@ class _VerbGameScreenState extends State<VerbGameScreen> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(_story!.title)),
+      appBar: null,
       body: Stack(
         children: [
           Column(
@@ -449,7 +449,7 @@ class _VerbGameScreenState extends State<VerbGameScreen> {
               Container(
                 padding: const EdgeInsets.all(16),
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: Theme.of(context).colorScheme.surface,
                   boxShadow: [BoxShadow(blurRadius: 10, color: Colors.black12)],
                 ),
                 child: SafeArea(
@@ -491,7 +491,7 @@ class _VerbGameScreenState extends State<VerbGameScreen> {
                                     );
                                   },
                                   style: ElevatedButton.styleFrom(
-                                    backgroundColor: Colors.indigo,
+                                    backgroundColor: const Color(0xFF4F46E5),
                                     foregroundColor: Colors.white,
                                     padding: const EdgeInsets.symmetric(
                                       vertical: 12,
@@ -509,7 +509,7 @@ class _VerbGameScreenState extends State<VerbGameScreen> {
                             onPressed: _checkAnswers,
                             style: ElevatedButton.styleFrom(
                               padding: const EdgeInsets.symmetric(vertical: 16),
-                              backgroundColor: Colors.indigo,
+                              backgroundColor: const Color(0xFF4F46E5),
                               foregroundColor: Colors.white,
                             ),
                             child: const Text(
